@@ -1,0 +1,1966 @@
+﻿{
+  "Date": "2016-06-10T19:21:15.6167583+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_FIRST_MEETING",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nSchönen guten, du bist doch <gender male=\"der neue Farmer\" female=\"die neue Farmerin\">,\n<gender male=\"der\" female=\"die\"> neulich hierhergezogen ist, oder? Ich bin\nGunther. Schön, dich kennenzulernen."
+    },
+    {
+      "VardId": "MES_MORNING_00",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_LAUGH>\nMorgen, <MYNAME>. Wie geht's dir?"
+    },
+    {
+      "VardId": "MES_MORNING_01",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_LAUGH>\nMorgen, <MYNAME>. Alles im Lot bei dir?"
+    },
+    {
+      "VardId": "MES_MORNING_02",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nMorgen, <MYNAME>. Für die Tageszeit bist du\nganz schön fit!"
+    },
+    {
+      "VardId": "MES_AFTERNOON_00",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_LAUGH>\nMorgen, <MYNAME>. Was macht die Farm?"
+    },
+    {
+      "VardId": "MES_AFTERNOON_01",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_LAUGH>\nSchönen guten, <MYNAME>. Wie läuft's?"
+    },
+    {
+      "VardId": "MES_AFTERNOON_02",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nSchönen guten, <MYNAME>. Was macht die\nFarm? Pass auf, dass du dich nicht\nüberarbeitest!"
+    },
+    {
+      "VardId": "MES_EVENING_00",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_LAUGH>\nn' Abend. Schon alle deine Arbeiten erledigt?"
+    },
+    {
+      "VardId": "MES_EVENING_01",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_LAUGH>\nn' Abend. Wie geht's? "
+    },
+    {
+      "VardId": "MES_EVENING_02",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nn' Abend, <MYNAME>. Schon Feierabend?"
+    },
+    {
+      "VardId": "MES_LOVER_MORNING_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_MORNING_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_MORNING_02",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_AFTERNOON_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_AFTERNOON_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_AFTERNOON_02",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_EVENING_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_EVENING_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_EVENING_02",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_MORNING_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_MORNING_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_MORNING_02",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_AFTERNOON_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_AFTERNOON_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_AFTERNOON_02",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_EVENING_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_EVENING_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_EVENING_02",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_SPRING",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_LAUGH>\nSchönes Wetter heute, was? Genau richtig zum\nSpazieren gehen.\n<PAGE>\nWusstest du schon, dass man Holz machen\nkann, indem man Zweige und Äste mit 'ner Axt\nbearbeitet? Kannst es aber auch bei uns kaufen."
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_SPRING",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nBah, Regen. Ich hasse Regen. Da wird das Holz\nimmer nass."
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_SUMMER",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nHey, echt schönes Wetter da draußen. An so\n'nem Tag krieg ich immer Lust, spazieren zu\ngehen. "
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_SUMMER",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDas Wetter heute geht mir auf die Nerven.\nDiese Feuchtigkeit gefällt mir gar nicht..."
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_AUTUMN",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_LAUGH>\nHach, heute ist echt schönes Wetter. Bestimmt\ngut, um zu verreisen."
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_AUTUMN",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nIch mag Regentage nicht. Wenn's so klamm\nund feucht ist, kommt's mir immer so vor,\nals ob mir gleich Pilze auf der Haut wachsen."
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_WINTER",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_LAUGH>\nAh, schöne, frische Luft heute. Ich fühl mich\ntipptopp."
+    },
+    {
+      "VardId": "MES_WEATHER_SNOW",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nHmmm... Schnee. Na ja, hoffentlich schmilzt\nbis morgen alles."
+    },
+    {
+      "VardId": "MES_WEATHER_TYPHOON",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nHey, was zum Henker hast du bei dem Wetter\ndraußen verloren? Geh lieber wieder nach\nHause."
+    },
+    {
+      "VardId": "MES_WEATHER_HEAVYSNOW",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nHey, warte mal. Was zum Geier hast du bei dem\nSchnee hier draußen verloren? Geh lieber wieder\nnach Hause."
+    },
+    {
+      "VardId": "MES_MARRIAGE_WEATHER_TYPHOON",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_WEATHER_HEAVYSNOW",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_BLESSING_LOVER",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_LAUGH>\nHey, <MYNAME>. Hab gehört, du hast jetzt\n<gender male=\"eine Freundin\" female=\"einen Freund\">. Freut mich!\n<PAGE>\nLad mich zur Hochzeit ein, ja?"
+    },
+    {
+      "VardId": "MES_SCHEDULE_RESTAURANT_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_SCHEDULE_RESTAURANT_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_HOUSE_FRIEND",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_HOUSE_PINPOINT_00",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nWenn ich in der Stadt bin, findest du mich\nmeistens hier, am Arbeiten.\n<PAGE>\nBleib aber lieber von der Werkbank da weg!\nWill nicht, dass du dich verletzt."
+    },
+    {
+      "VardId": "MES_HOUSE_PINPOINT_01",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_LAUGH>\nMaurice kommt manchmal auf ein Schwätzchen\nhier vorbei. Wir reden meistens über Heimwer-\nkerarbeiten oder übers Angeln und so was."
+    },
+    {
+      "VardId": "MES_HOUSE_PINPOINT_02",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\n...Pssst... Sei bitte leise. Du verscheuchst noch\ndie Fische."
+    },
+    {
+      "VardId": "MES_AREA_FOREST_00",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nIch hab gehört, dass es tief im Wald einen guten\nAngelplatz gibt, aber selbst bin ich noch nie da\ngewesen."
+    },
+    {
+      "VardId": "MES_AREA_FOREST_01",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_LAUGH>\nHier gibt's immer noch 'ne Menge guter Bäume."
+    },
+    {
+      "VardId": "MES_AREA_RIVER_00",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nIn dem Fluss gibt's 'ne Menge Fische. Ich weiß,\nwovon ich rede - ich angle hier ziemlich oft.\n<PAGE>\nAlso wirf bloß keinen Müll in den Fluss, klar?\nDer ist schließlich für jeden da!"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_01",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDas hier ist mein üblicher Wanderweg. Ich\nkomm nie vom Weg ab! Ich geh immer\nnur weiter..."
+    },
+    {
+      "VardId": "MES_AREA_FARM_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_AREA_FARM_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_02",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_02",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_02",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_00",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nHier soll es angeblich total große Fische\ngeben. So richtige Kaventsmänner!\n<PAGE>\nIch selbst angle hier zwar oft, aber so 'nen\nBrocken hab ich noch nie an Land gezogen."
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_01",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nIch hab gehört, Reis soll hier ziemlich gut\nwachsen."
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_02",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nHab gehört, Elise nutzt dieses Reisfeld hier.\nDas Mädel arbeitet wohl ziemlich hart, hm?"
+    },
+    {
+      "VardId": "MES_AREA_OTHER_00",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nManchmal überleg ich mir, ob ich nicht mal die\nWildnis erkunden sollte, aber dann fällt mir ein,\nwie lästig es ist, diese Hügel hochzulaufen."
+    },
+    {
+      "VardId": "MES_AREA_OTHER_01",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nWenn ich gute Laune hab, find ich's manchmal\nschwierig, mich auf die Arbeit zu konzentrieren.\nIch will dann einfach nur spazieren gehen!"
+    },
+    {
+      "VardId": "MES_HEART_WHITE",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nWie läuft's auf der Farm? Wenn du gutes\nGemüse erntest, kannst du mir ja mal ein\nbisschen was vorbeibringen."
+    },
+    {
+      "VardId": "MES_HEART_PURPLE",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\n<cap><MYNAME>, angelst du gerne?\n<PAGE>\nWenn du wissen willst, wo die besten Angelplät-\nze sind, frag mich einfach. Ich angle schon seit\nJahren an diesem Fluss."
+    },
+    {
+      "VardId": "MES_HEART_BLUE",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nWie läuft's bei dir so? Wenn du findest, dass\ndein Haus zu klein ist, komm einfach zu mir und\nwir überlegen uns, wie wir es umbauen können."
+    },
+    {
+      "VardId": "MES_HEART_GREEN",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nIch bin in dieser Stadt geboren und\naufgewachsen.\n<PAGE>\nDie Leute hier sind also mehr für mich als nur\nNachbarn. Fast schon wie Familie.\n<PAGE>\nUnd du gehörst jetzt auch dazu, also wenn du\nmal irgendwelche Probleme hast: Nicht\nverzagen, Gunther fragen."
+    },
+    {
+      "VardId": "MES_HEART_YELLOW",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nHey, <MYNAME>. Kriegst du auch genug\nzwischen die Zähne?\n<PAGE>\nEgal, wie beschäftigt du bist, wer so arbeitet wie\ndu, braucht auf alle Fälle drei Mahlzeiten am\nTag. Mit knurrendem Magen schafft man nichts."
+    },
+    {
+      "VardId": "MES_HEART_ORANGE",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nMeine Familie ist schon seit Generationen im\nSchreinergeschäft.\n<PAGE>\nEiner meiner Vorfahren soll sogar zu den Leuten\ngehören, die Eichbaumhausen gegründet haben.\n<PAGE>\nIch hab schon als kleiner Knirps angefangen, das\nHandwerk von meinem Vater zu lernen, also\nkannst du dich auf meine Fähigkeiten verlassen."
+    },
+    {
+      "VardId": "MES_HEART_RED",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nSchön, dass du mit jedem in der Stadt so gut\nklarkommst.\n<PAGE>\nObwohl die Leute auch manchmal über dich\nreden. Dann heißt es immer, du arbeitest viel\nzu hart.\n<PAGE>\nDank dir ist 'n bisschen mehr Leben in diese\nStadt gekommen, also mach nur so weiter,\naber gönn dir ab und zu auch mal 'ne Pause."
+    },
+    {
+      "VardId": "MES_LOVER_HEART_WHITE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_PURPLE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_BLUE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_GREEN",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_YELLOW",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_ORANGE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_RED",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_WHITE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_PURPLE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_BLUE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_GREEN",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_YELLOW",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_ORANGE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_RED",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVERS_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVERS_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVERS_02",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_ENGAGEMENT",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_02",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_03",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_02",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_03",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_PRESENT_BEST",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_LAUGH>\nOh, ist das für mich? Woher wusstest du denn,\ndass ich <BLUE><ITEMNAME0_P></BLUE> am liebsten mag?\nDanke!"
+    },
+    {
+      "VardId": "MES_PRESENT_VERY",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_LAUGH>\nOh, das ist für mich? Ha, du hast echt\nGeschmack.\n<PAGE>\nDas nehm ich gerne. Danke!"
+    },
+    {
+      "VardId": "MES_PRESENT_LIKE",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_LAUGH>\nOh, woher wusstest du denn, dass mir so was\ngefällt? Du scheinst ziemlich gut zu wissen,\nwas ich mag. Danke!"
+    },
+    {
+      "VardId": "MES_PRESENT_NORMAL",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_LAUGH>\nEin Geschenk für mich? Danke."
+    },
+    {
+      "VardId": "MES_PRESENT_DISLIKE",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nHm? Ist das für mich? ...Na gut, schätze, ich\nkann es ruhig annehmen."
+    },
+    {
+      "VardId": "MES_PRESENT_HATE",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_SAD>\nBah, nicht gerade mein Fall... trotzdem nett von\ndir, also nehm ich's wohl besser."
+    },
+    {
+      "VardId": "MES_PRESENT_WORST",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_ANGRY>\nWürg... Das Zeug da hass ich mehr als alles\nandere. Aber es ist schließlich ein Geschenk,\nalso nehm ich's lieber zähneknirschend an."
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_VERY",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, das ist ja auffällig. Wenn ich das haben\nkann, nehm ich's gerne. Danke."
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_LIKE",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, das ist ja auffällig. Wenn ich das haben\nkann, nehm ich's gerne."
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_NORMAL",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, das ist ja auffällig. Wenn ich das haben\nkann, nehm ich's gerne."
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_DISLIKE",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_SAD>\nOh, das ist ja auffällig. Wär 'ne Schande, so was\nwegzuwerfen, also nehm ich's lieber."
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_HATE",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_SAD>\n...Das Teil glänzt ja richtig. Ist normalerweise\nnicht so mein Ding, aber was soll's, nehm ich's\nhalt."
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_WORST",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_SAD>\n...Das Teil glänzt ja richtig. Eigentlich kann ich\nsolchen Kram ja nicht leiden, aber was soll's,\nnehm ich's halt."
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_VERY",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_LIKE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_NORMAL",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_DISLIKE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_HATE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_WORST",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_PRESENT_CANNOT",
+      "Text": "Jetzt ist kein guter Zeitpunkt für ein Geschenk."
+    },
+    {
+      "VardId": "MES_PRESENT_RESERVE",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nMir ist gerade nicht nach 'nem Geschenk,\n'tschuldigung. Später vielleicht."
+    },
+    {
+      "VardId": "MES_LOVER_PRESENT_RESERVE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_PRESENT_RESERVE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_PRESENT_SECONDTIME",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nWas Geschenke angeht, bin ich für heute schon\nversorgt. Heb's dir doch einfach fürs nächste\nMal auf."
+    },
+    {
+      "VardId": "MES_LOVER_PRESENT_SECONDTIME",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_PRESENT_SECONDTIME",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_BEST",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nWas? Ein Geburtstagsgeschenk für mich? Jetzt,\nwo du's sagst, stimmt, ich hab ja echt\nGeburtstag! Und du hast sogar dran gedacht!\n<PAGE>\n<FACE_LAUGH>Oh, woher wusstest du denn, dass ich\n<ITEMNAME0> am liebsten mag?\nDanke!"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_VERY",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_LAUGH>\n...Hm?! Ein Geburtstagsgeschenk für mich?!\n<PAGE>\nOh... du hast recht. Heute ist ja echt mein\nGeburtstag. Nett, dass du dran gedacht hast.\nDas hab ich nämlich nicht."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_LIKE",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_LAUGH>\nOh! Nettes Geschenk. ...Was, zum Geburtstag?\n<PAGE>\nAh... Danke. Hatte total vergessen, dass der\nschon heute ist."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_NORMAL",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_LAUGH>\nHm? Ein Geburtstagsgeschenk für mich?! Oh,\ndanke schön."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_DISLIKE",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_SAD>\nHm? Ist das für mich? ...Ein Geburtstagsge-\nschenk, was? Dann sollt ich's wohl annehmen.\nDanke."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_HATE",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_SAD>\n...Was? Ein Geburtstagsgeschenk? Das da?\n...Na gut, schätze ich nehm es. Ich hasse\nVerschwendung."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_WORST",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_ANGRY>\n...Was? Du schenkst mir wirklich das da zum\nGeburtstag?!\n<PAGE>\n<FACE_SAD>...Na gut, weil du es bist, werd ich mal so nett\nsein und es annehmen."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_VERY",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_LIKE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_NORMAL",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nAlso das ist ja mal auffällig. Und du sagst, das\nist ein Geburtstagsgeschenk für mich? Wenn\ndas so ist, nehm ich's gerne. Danke."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_DISLIKE",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, das ist ja mal auffällig. Na gut, die nette\nGeste soll ja nicht umsonst gewesen sein,\nalso nehm ich's."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_HATE",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, das ist ja mal auffällig. Na gut, die nette\nGeste soll ja nicht umsonst gewesen sein,\nalso nehm ich's."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_WORST",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_VERY",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_LIKE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_NORMAL",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_DISLIKE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_HATE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_WORST",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_RABBIT",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_LAUGH>\nOh, süßes Kaninchen."
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_FOX",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_LAUGH>\nAh, das ist ja ein süßes Kerlchen."
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_OKOJO",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_LAUGH>\nOh, ein Hermelin! Niedliche kleine Biester, was?"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_OTHER",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_LAUGH>\nHm, eigentlich ganz süß."
+    },
+    {
+      "VardId": "MES_ANGORA",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_LAUGH>\nHab noch nie 'n Kaninchen wie das da\ngesehen. Scheint aber recht knuddlig\nzu sein."
+    },
+    {
+      "VardId": "MES_CHICK",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_LAUGH>\nDas ist ja ein putziges Tierchen."
+    },
+    {
+      "VardId": "MES_HEN",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_LAUGH>\nNettes Huhn. Wenn es das nächste Mal Eier legt,\nkannst du ja mal ein paar vorbeibringen."
+    },
+    {
+      "VardId": "MES_LARGE_HEN",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_DOG",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_LAUGH>\nBahaha, der Hund hat ja ein niedliches Gesicht."
+    },
+    {
+      "VardId": "MES_FAT_DOG",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_ANGRY>\nDer Hund da sollte mal 'n bisschen trainieren,\nsonst sieht er bald aus wie 'ne Wurst mit\nBeinen. "
+    },
+    {
+      "VardId": "MES_LARGEDOG",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_LAUGH>\nOh, wer ist ein braves Hundchen? Du, hm?\nDieser Hund hat 'n richtig schlauen\nGesichtsausdruck."
+    },
+    {
+      "VardId": "MES_FAT_LARGEDOG",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_ANGRY>\nNetter Hund, aber ganz schön dick. Du solltest\nmal öfters mit ihm trainieren."
+    },
+    {
+      "VardId": "MES_CAT",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_LAUGH>\nHaha, süßes Kätzchen."
+    },
+    {
+      "VardId": "MES_FAT_CAT",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_ANGRY>\nIst glaub ich nicht so 'ne gute Idee, deine Katze\nso dick werden zu lassen."
+    },
+    {
+      "VardId": "MES_LONGHAIR_CAT",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_LAUGH>\nOooh, das Fell von deiner Katze sieht ja richtig\nflauschig aus."
+    },
+    {
+      "VardId": "MES_FAT_LONGHAIR_CAT",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_ANGRY>\nHat die Katze da so ein bauschiges Fell, oder ist\nsie nur zu dick? Solltest ihr nicht so viel zu\nfressen geben."
+    },
+    {
+      "VardId": "MES_FLOWER_FESTIVAL",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_LAUGH>\nSchick, schick. Das ist ein Geschenk zur\nBlumenmesse, oder? Danke."
+    },
+    {
+      "VardId": "MES_LOVER_FLOWER_FESTIVAL",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FLOWER_FESTIVAL",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_THANKSGIVIING_FESTIVAL_S",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_THANKSGIVIING_FESTIVAL_S",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_THANKSGIVIING_FESTIVAL_S",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_THANKSGIVIING_FESTIVAL_W",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_THANKSGIVIING_FESTIVAL_W",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_THANKSGIVIING_FESTIVAL_W",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\n'ne Blaue Feder, hm? Die solltest du eigentlich\nnur jemandem zeigen, den du liebst.\n<PAGE>\nIch sag das nur zu deinem Besten. Du solltest\nsie gut aufheben, bis du <gender male=\"die Richtige\" female=\"den Richtigen\">\ngefunden hast."
+    },
+    {
+      "VardId": "MES_LOVER_BLUE_SHUTTLECOCK",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_EVENT_BLUE_SHUTTLECOCK",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_PROPOSAL_BLUE_SHUTTLECOCK",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_BLUE_SHUTTLECOCK",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_ANGER_BLUE_SHUTTLECOCK",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_RING",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nAh, du hast also einen Ring, was? Weißt du\nschon, wer ihn kriegen soll?"
+    },
+    {
+      "VardId": "MES_EVENT_RING",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_RING",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_RING",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_ANGER_RING",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_PRESENT_LAPPING_LIKE ",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nHübsche Verpackung. Das da ist sogar meine\nLieblingsfarbe. So, was ist da wohl drin?"
+    },
+    {
+      "VardId": "MES_PRESENT_LAPPING",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\n...Hm, schön verpackt, aber was ist denn drin?"
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_00",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, <MYNAME>. Weißt du, was heute für ein\nTag ist?\n<PAGE>\n...Alles Gute zum Geburtstag! Ist zwar nichts\nBesonderes, aber hier, das ist für dich."
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_01",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nHab gehört, du hast heute Geburtstag. Alles\nGute, hoffentlich genießt du ihn."
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_02",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_GIFT_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_GIFT_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_GIFT_02",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LONG_INTERVAL",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, <MYNAME>. Dich hab ich ja seit 'ner\nEwigkeit nicht gesehen. Zu beschäftigt\nmit der Arbeit?\n<PAGE>\nIst ja nichts verkehrt dran, aber komm ruhig mal\nauf 'nen Besuch vorbei."
+    },
+    {
+      "VardId": "MES_LOVER_LONG_INTERVAL",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRAGE_LONG_INTERVAL",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_SAFARI_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_SAFARI_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_SAFARI_02",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_CLOTHES_8",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nSchicke Klamotten hast du da."
+    },
+    {
+      "VardId": "MES_CLOTHES_13",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\n'ne nette Arbeitskluft hast du da. Kann man sich\nbestimmt gut drin bewegen."
+    },
+    {
+      "VardId": "MES_CLOTHES_39",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\n...Die Klamotten sind irgendwie... anders. Aber\ndir stehen sie."
+    },
+    {
+      "VardId": "MES_CLOTHES_47",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nSiehst richtig förmlich aus heute. Gibt's dafür\n'nen besonderen Anlass?"
+    },
+    {
+      "VardId": "MES_CLOTHES_64",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nNetter Regenmantel. Die Farbe ist auch nicht\nschlecht."
+    },
+    {
+      "VardId": "MES_CLOTHES_68",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\n...Ist das bei der Jugend gerade in Mode?"
+    },
+    {
+      "VardId": "MES_CLOTHES_73",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Klamotten sehen ganz schön schlicht aus.\nKennt man gar nicht von dir."
+    },
+    {
+      "VardId": "MES_CLOTHES_74",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, die Jacke hält bestimmt gut warm. Die\nFarbe gefällt mir auch."
+    },
+    {
+      "VardId": "MES_CLOTHES_83",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nSiehst richtig förmlich aus heute. Gibt's dafür\n'nen besonderen Anlass?"
+    },
+    {
+      "VardId": "MES_CLOTHES_88",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nKommen die Klamotten da aus 'nem anderen\nLand? Aus welchem?"
+    },
+    {
+      "VardId": "MES_CLOTHES_90",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\n...Was hast du denn da an?"
+    },
+    {
+      "VardId": "MES_CLOTHES_91",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Klamotten haben 'ne schöne Farbe."
+    },
+    {
+      "VardId": "MES_CLOTHES_93",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Klamotten haben 'ne schöne Farbe."
+    },
+    {
+      "VardId": "MES_CLOTHES_94",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\n...Mit den Klamotten siehst du richtig kindlich\naus."
+    },
+    {
+      "VardId": "MES_CLOTHES_96",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nSchicke Klamotten hast du da."
+    },
+    {
+      "VardId": "MES_CLOTHES_107",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Klamotten haben 'ne schöne Farbe."
+    },
+    {
+      "VardId": "MES_CLOTHES_110",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Klamotten haben 'ne schöne Farbe."
+    },
+    {
+      "VardId": "MES_CLOTHES_112",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Klamotten haben 'ne schöne Farbe."
+    },
+    {
+      "VardId": "MES_CLOTHES_121",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Klamotten stehen dir."
+    },
+    {
+      "VardId": "MES_CLOTHES_138",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nWo willst du denn in der Verkleidung hin?"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_4",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nNetten Hut hast du da."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_15",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDer Hut ist bestimmt perfekt zum Angeln."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_19",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nSchicken Hut hast du da."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_21",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDer Hut gefällt mir. Perfekt für\n<gender male=\"Farmer\" female=\"eine Farmerin wie dich\">."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_25",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDer Hut gefällt mir. Perfekt für\n<gender male=\"Farmer\" female=\"eine Farmerin wie dich\">."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_33",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDein Hut gefällt mir... aber mir würde er besser\nstehen."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_34",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDein Hut gefällt mir... aber mir würde er besser\nstehen."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_46",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDeine Brille hat 'ne schöne Farbe."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_49",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDeine Brille hat 'ne schöne Farbe."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_60",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\n...Oh, das steht dir irgendwie."
+    },
+    {
+      "VardId": "MES_FARM_WORKING",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\n..."
+    },
+    {
+      "VardId": "MES_CARE_ANIMAL",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SLEEP_00",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_PATI>\n...Zzz... Zzz... Zzzz... "
+    },
+    {
+      "VardId": "MES_SCHEDULE_SICK",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_SCHEDULE_SICK",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_SCHEDULE_SICK",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SLEEPY_00",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nWird Zeit, dass ich mich aufs Ohr haue. Willst\ndu nicht auch langsam mal nach Hause?"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_02",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_CANCEL",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_OK",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MEAL_00",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nIch esse gerade, warte 'nen Moment."
+    },
+    {
+      "VardId": "MES_MEAL_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_GREEN",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nJup, das ist 'ne gute Bank. Kann ich mich\nsetzen?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BARREL",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nHmmm, was ist denn in den Fässern da?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SCARECROW",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nHab lange keine Vogelscheuche mehr gesehen..."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_JAR_BLUE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_STREETLAMP_2",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOTEM POLE_2",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nEin Totempfahl, hm? ...Scheint ganz gut\ngemacht zu sein."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TABLE_WEST",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PARASOL_WEST",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PARASOL_BEACH",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_STATUE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_STATUE_SUN",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDas ist ja mal 'ne komische Statue. Hast du\nvor, ein Festival zu veranstalten oder so?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FOUNTAIN_2",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POND",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nIch frag mich, ob's in dem Teich Fische gibt."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WELL",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nKann man aus dem Brunnen da Wasser holen?\nWenn ja, wär's echt gut für die Stadt."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SWING_IRON",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SEASAW",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SLIDE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_HORIZONTAL_BAR",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SNOWIMAGE_COW",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_BLUELIGHT",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_HAMMOCK",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SLATE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_TULIP",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_TULIP",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BASKET_GREEN",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOPIARY_LION",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_CHERRYBLOSSOM",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OMANENT_COW",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ARCH_PLANTS",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_GREEN_1",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COLOR_1",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_LAUGH>\nHast 'ne Menge gelben Kram hier - ist meine\nLieblingsfarbe! Du hast 'nen guten Geschmack."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COLOR_2",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_LAUGH>\nWenn ich was Rotes sehe, fühl ich mich gleich\nlebendiger. Meine Frau Corona mag Rot auch.\nDu hast 'nen guten Geschmack."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ATMOSPHERE_1",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Dekoration hier find ich richtig entspannend.\nWie ein schönes Bad, weißt du?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ATMOSPHERE_2",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nHast ja ziemlich schicke Dekoration hier. Ist ab\nund zu ganz nett, sich so was anzugucken."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COMBO_1",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, ist das ein Bambushain? Nicht schlecht."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COMBO_2",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nCorona hat mir mal gesagt, dass ich wie so\n'ne Daruma-Figur aussehe. ...Was meinst du?\nHat sie recht?"
+    },
+    {
+      "VardId": "MES_TRADE_ASIA",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_TRADE_ALPS",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_TRADE_JAPAN",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_TRADE_USA",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_TRADE_EU",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_TRADE_SOUTHERN",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_TRADE_SOUTH_POLE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_PLACE_GOOD",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_PLACE_BEST",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MOVE_OUT",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_TOWN_POPULARITY_BEST",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Stadt ist ziemlich berühmt geworden, was?\nWir haben hier jetzt ständig Leute aus aller Welt\nzu Besuch."
+    },
+    {
+      "VardId": "MES_TOWN_POPULARITY_BETTER",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nVerglichen mit vor 'n paar Jahren, ist die Stadt\ndoch ziemlich bekannt geworden"
+    },
+    {
+      "VardId": "MES_AREA_TOWN_00",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nIch leb hier schon seit meiner Geburt und\nkann mich echt nicht beklagen. Die Stadt\nist zwar ruhig, aber mir gefällt's so."
+    },
+    {
+      "VardId": "MES_AREA_TOWN_01",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nNa ja, ich hab eigentlich nichts dagegen, dass\nin der Stadt jetzt mehr los ist, aber ich hoffe,\nes wird nicht noch mehr als jetzt."
+    },
+    {
+      "VardId": "MES_AREA_TOWN_02",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nIch geh manchmal zum Arbeiten in andere\nStädte, aber ich treffe kaum Leute, die diese\nStadt kennen."
+    },
+    {
+      "VardId": "MES_AREA_TOWN_03",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nÜberrascht mich, dass die Stadt so berühmt\ngeworden ist. Jetzt kommen hier Leute aus\naller Welt her."
+    },
+    {
+      "VardId": "MES_GRANDMA_MONEY_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOP_OPEN",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nWenn du was kaufen willst, sprich einfach mit\nCorona."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_YELLOW",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nJup, die Bank hat 'ne schöne Farbe. Kann ich\nmich setzen?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WOOD_BOX",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nNette Holzkiste. Die Abmessungen sind perfekt.\nDa könnt ich Werkzeuge oder Material drin\nlagern."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BLOCK_BRICH",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nHast du vor, mit den Backsteinen da was zu\nbauen? Wenn du sie nicht brauchst, kann\nich sie dir abnehmen."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SMALL_CART",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDen alten Karren hier kann man bestimmt noch\nbenutzen, oder? Soll ich ihn reparieren?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BONFIRE",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nFackeln haben ein richtig eigentümliches Licht,\nfindest du nicht?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GARDENLANTERN",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nNette Steinlaterne. Perfekt für den Garten."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PILLAR_WOOD",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDas ist 'ne anständige Säule, aber was willst du\ndenn damit abstützen?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TABLE_ORIENT",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDer Tisch hier ist irgendwie komisch geformt.\nGefällt mir aber."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_CHAIR_ORIENT",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nJeder halbwegs gute Schreiner könnte dir so 'n\nBaumstammstuhl machen."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PUMP",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDiese Pumpe erinnert mich an die, die wir\nhatten, als ich noch klein war. Heutzutage\nsieht man so was nur noch selten."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WATCHTOWER",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDiese Stadt braucht doch eigentlich gar keinen\nWachturm, oder?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_HORIZONTAL_BAR_HIGH",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nEine hohe Eisenstange, hm? Für Leichtathletik\nbin ich schon lange zu alt."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OPEN_SPACE_WOOD",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nNetter Platz. Bestimmt gut für Spaziergänge."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_YELLOWLIGHT",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Beleuchtung an dem Baum da ist echt nett. "
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POLE_YELLOWLIGHT",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nNette Beleuchtung an der Stange da."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GATE_YELLOWLIGHT",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Beleuchtung an dem Tor da gefällt mir."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_CASTLE_JAPAN",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOoooh, dieses Schloss ist echt beeindruckend!"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SHISHIODOSHI",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nEin Bambus-Wasserspiel... Du hast einen\neigenwilligen Geschmack. Ich glaube, irgendwo\nhab ich so was schon mal gesehen."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_SUNFLOWER",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nSonnenblumen sind meine Lieblingsblumen.\nWär klasse, wenn du richtig viele davon\nanpflanzt."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_SUNFLOWER",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nSonnenblumen sind meine Lieblingsblumen.\nWär klasse, wenn du richtig viele davon\nanpflanzt."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_GINGKO",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nIst 'n richtig schöner Anblick, wenn die Blätter\nan so 'nem Ginkobaum gelb werden."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOPIARY_BOX",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nMit solchen Hecken sieht die Stadt gleich\nbesser aus."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_GINGKO",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nIst 'n richtig schöner Anblick, wenn die Blätter\nan so 'nem Ginkobaum gelb werden."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_YELLOW_1",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDieser Zaun gefällt mir. Wahrscheinlich, weil\ndas da meine Lieblingsfarbe ist."
+    },
+    {
+      "VardId": "MES_CLOTHES_1",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\n'ne nette Arbeitskluft hast du da. Kann man sich\nbestimmt gut drin bewegen."
+    },
+    {
+      "VardId": "MES_CLOTHES_2",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\n'ne nette Arbeitskluft hast du da. Kann man sich\nbestimmt gut drin bewegen."
+    },
+    {
+      "VardId": "MES_CLOTHES_3",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_4",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nSchicke Klamotten hast du da."
+    },
+    {
+      "VardId": "MES_CLOTHES_5",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_6",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nSchicke Klamotten hast du da."
+    },
+    {
+      "VardId": "MES_CLOTHES_7",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nSchicke Klamotten hast du da."
+    },
+    {
+      "VardId": "MES_CLOTHES_9",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\n'ne nette Arbeitskluft hast du da. Kann man sich\nbestimmt gut drin bewegen."
+    },
+    {
+      "VardId": "MES_CLOTHES_10",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\n'ne nette Arbeitskluft hast du da. Kann man sich\nbestimmt gut drin bewegen."
+    },
+    {
+      "VardId": "MES_CLOTHES_11",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_12",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nSchicke Klamotten hast du da."
+    },
+    {
+      "VardId": "MES_CLOTHES_14",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\n'ne nette Arbeitskluft hast du da. Kann man sich\nbestimmt gut drin bewegen."
+    },
+    {
+      "VardId": "MES_CLOTHES_15",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_16",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\n'ne nette Arbeitskluft hast du da. Kann man sich\nbestimmt gut drin bewegen."
+    },
+    {
+      "VardId": "MES_CLOTHES_17",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_18",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nSchicke Klamotten hast du da."
+    },
+    {
+      "VardId": "MES_CLOTHES_19",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_20",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nSchicke Klamotten hast du da."
+    },
+    {
+      "VardId": "MES_CLOTHES_21",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_22",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_23",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_24",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_25",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_26",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_27",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_28",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_29",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_30",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_31",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_32",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_33",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_34",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_35",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_36",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_37",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_38",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_40",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_41",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_42",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_43",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_44",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_45",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_46",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_48",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_49",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_50",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_51",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_52",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_53",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_54",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_55",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_56",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_57",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_58",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_59",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_60",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_61",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_62",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_63",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_65",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_66",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_67",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_69",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_70",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_71",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_72",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_75",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_76",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_77",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_78",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_79",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_80",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_81",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_82",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_84",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_85",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_86",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_87",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_89",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_92",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_95",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_97",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_98",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_99",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_100",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_101",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_102",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_103",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_104",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_105",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_106",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_108",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_109",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_111",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_113",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_114",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_115",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_116",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_117",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_118",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_119",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_120",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOh, hast heute echt nette Klamotten an, hm?"
+    },
+    {
+      "VardId": "MES_CLOTHES_122",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Klamotten stehen dir."
+    },
+    {
+      "VardId": "MES_CLOTHES_123",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Klamotten stehen dir."
+    },
+    {
+      "VardId": "MES_CLOTHES_124",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Klamotten stehen dir."
+    },
+    {
+      "VardId": "MES_CLOTHES_125",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Klamotten stehen dir."
+    },
+    {
+      "VardId": "MES_CLOTHES_126",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Klamotten stehen dir."
+    },
+    {
+      "VardId": "MES_CLOTHES_127",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Klamotten stehen dir."
+    },
+    {
+      "VardId": "MES_CLOTHES_128",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Klamotten stehen dir."
+    },
+    {
+      "VardId": "MES_CLOTHES_129",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Klamotten stehen dir."
+    },
+    {
+      "VardId": "MES_CLOTHES_130",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Klamotten stehen dir."
+    },
+    {
+      "VardId": "MES_CLOTHES_131",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Klamotten stehen dir."
+    },
+    {
+      "VardId": "MES_CLOTHES_132",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Klamotten stehen dir."
+    },
+    {
+      "VardId": "MES_CLOTHES_133",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Klamotten stehen dir."
+    },
+    {
+      "VardId": "MES_CLOTHES_134",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Klamotten stehen dir."
+    },
+    {
+      "VardId": "MES_CLOTHES_139",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nWo willst du denn in der Verkleidung hin?"
+    },
+    {
+      "VardId": "MES_CLOTHES_140",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Klamotten stehen dir."
+    },
+    {
+      "VardId": "MES_CLOTHES_141",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Klamotten stehen dir."
+    },
+    {
+      "VardId": "MES_CLOTHES_142",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Klamotten stehen dir."
+    },
+    {
+      "VardId": "MES_CLOTHES_143",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Klamotten stehen dir."
+    },
+    {
+      "VardId": "MES_CLOTHES_144",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Klamotten stehen dir."
+    },
+    {
+      "VardId": "MES_CLOTHES_145",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Klamotten stehen dir."
+    },
+    {
+      "VardId": "MES_CLOTHES_146",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Klamotten stehen dir."
+    },
+    {
+      "VardId": "MES_CLOTHES_147",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Klamotten stehen dir."
+    },
+    {
+      "VardId": "MES_CLOTHES_148",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Klamotten stehen dir."
+    },
+    {
+      "VardId": "MES_CLOTHES_149",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Klamotten stehen dir."
+    },
+    {
+      "VardId": "MES_CLOTHES_150",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Klamotten stehen dir."
+    },
+    {
+      "VardId": "MES_CLOTHES_151",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDie Klamotten stehen dir."
+    },
+    {
+      "VardId": "MES_CLOTHES_152",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nWo willst du denn in der Verkleidung hin?"
+    },
+    {
+      "VardId": "MES_CLOTHES_153",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nWo willst du denn in der Verkleidung hin?"
+    },
+    {
+      "VardId": "MES_CLOTHES_154",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nWo willst du denn in der Verkleidung hin?"
+    },
+    {
+      "VardId": "MES_CLOTHES_155",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nWo willst du denn in der Verkleidung hin?"
+    },
+    {
+      "VardId": "MES_CLOTHES_156",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nWo willst du denn in der Verkleidung hin?"
+    },
+    {
+      "VardId": "MES_CLOTHES_157",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nWo willst du denn in der Verkleidung hin?"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_1",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nNetter Hut, den du da aufhast."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_2",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nNetter Hut, den du da aufhast."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_3",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nNetter Hut, den du da aufhast."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_5",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nNetter Hut, den du da aufhast."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_6",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nNetter Hut, den du da aufhast."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_7",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nNetter Hut, den du da aufhast."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_8",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nNetter Hut, den du da aufhast."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_9",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nNetter Hut, den du da aufhast."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_10",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nNetter Hut, den du da aufhast."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_11",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nNetter Hut, den du da aufhast."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_12",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nNetter Hut, den du da aufhast."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_13",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nNetter Hut, den du da aufhast."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_14",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nNetter Hut, den du da aufhast."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_17",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nNetter Hut, den du da aufhast."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_18",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nNetter Hut, den du da aufhast."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_20",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nSchicker Hut, den du da aufhast."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_22",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDer Hut gefällt mir. Perfekt für\n<gender male=\"Farmer\" female=\"eine Farmerin wie dich\">."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_23",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDer Hut gefällt mir. Perfekt für\n<gender male=\"Farmer\" female=\"eine Farmerin wie dich\">."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_24",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDer Hut gefällt mir. Perfekt für\n<gender male=\"Farmer\" female=\"eine Farmerin wie dich\">."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_26",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nNetter Hut, den du da aufhast."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_35",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDein Hut gefällt mir... aber mir würde er besser\nstehen."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_36",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nSchicker Hut, den du da aufhast."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_37",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nDein Hut gefällt mir... aber mir würde er besser\nstehen."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_38",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nSchicker Hut, den du da aufhast."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_39",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nSchicker Hut, den du da aufhast."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_63",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\n...Oh, das steht dir irgendwie."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_65",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\n...Oh, das steht dir irgendwie."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_WOOD",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nJup, das ist 'ne gute Bank. Kann ich mich\nsetzen?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_STONE",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nJup, das ist 'ne gute Bank. Kann ich mich\nsetzen?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_RED",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nJup, das ist 'ne gute Bank. Kann ich mich\nsetzen?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_BLUE",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nJup, das ist 'ne gute Bank. Kann ich mich\nsetzen?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_PINK",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nJup, das ist 'ne gute Bank. Kann ich mich\nsetzen?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_PURPLE",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nJup, das ist 'ne gute Bank. Kann ich mich\nsetzen?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_WHITE",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nJup, das ist 'ne gute Bank. Kann ich mich\nsetzen?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_BLACK",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nJup, das ist 'ne gute Bank. Kann ich mich\nsetzen?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_GOLD",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nJup, das ist 'ne gute Bank. Kann ich mich\nsetzen?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_SILVER",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nJup, das ist 'ne gute Bank. Kann ich mich\nsetzen?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SMALLPOND",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nIch frag mich, ob's in dem Teich Fische gibt."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_CASTLE_WEST",
+      "Text": "<FACE_KAISER><POS_RIGHT><FACE_NORMAL>\nOoooh, dieses Schloss ist echt beeindruckend!"
+    }
+  ]
+}

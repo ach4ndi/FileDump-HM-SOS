@@ -1,0 +1,1866 @@
+﻿{
+  "Date": "2016-06-10T19:22:16.6043902+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_CHECK_BED_00",
+      "Text": "È ora di <SPEED_IMME><BLUE>dormire</BLUE>?"
+    },
+    {
+      "VardId": "MES_CHECK_BED_01",
+      "Text": "Vai a dormire"
+    },
+    {
+      "VardId": "MES_CHECK_BED_02",
+      "Text": "<CANCEL_SELECT>\nNon ancora"
+    },
+    {
+      "VardId": "MES_CHECK_BED_FIRST",
+      "Text": "<SPEED_FAST>Questo è il <BLUE>letto</BLUE>. La giornata termina quando\ndecidi di andare a dormire.\n<PAGE>\n<SPEED_FAST>L'ora in cui scegli di andare a dormire determina\nl'ora in cui ti sveglierai. Perciò, se vuoi alzarti\ndi buon'ora, cerca di andare a letto presto."
+    },
+    {
+      "VardId": "MES_CHECK_ANSWER_YES",
+      "Text": "Sì"
+    },
+    {
+      "VardId": "MES_CHECK_ANSWER_NO",
+      "Text": "<CANCEL_SELECT>\nNo"
+    },
+    {
+      "VardId": "MES_CHECK_ANSWER_CANCEL",
+      "Text": "<CANCEL_SELECT>\nEsci"
+    },
+    {
+      "VardId": "MES_CHECK_ANSWER_BACK",
+      "Text": "<CANCEL_SELECT>\nIndietro"
+    },
+    {
+      "VardId": "MES_CHECK_ANSWER_NEXT",
+      "Text": "Avanti"
+    },
+    {
+      "VardId": "MES_CHECK_DUMMY_ASK",
+      "Text": "<SPEED_IMME>Cosa vuoi fare?"
+    },
+    {
+      "VardId": "MES_CHECK_FREE_EDIT_FARM",
+      "Text": "Modifica fattoria"
+    },
+    {
+      "VardId": "MES_CHECK_FREE_EDIT_ROOM",
+      "Text": "Modifica casa"
+    },
+    {
+      "VardId": "MES_CHECK_FREE_EDIT_ROOM_ASK",
+      "Text": "<SPEED_IMME>Quale vuoi modificare?"
+    },
+    {
+      "VardId": "MES_CHECK_FREE_EDIT_ROOM_1F",
+      "Text": "Primo piano"
+    },
+    {
+      "VardId": "MES_CHECK_FREE_EDIT_ROOM_2F",
+      "Text": "Secondo piano"
+    },
+    {
+      "VardId": "MES_CHECK_FREE_EDIT_ROOM_ASK_2",
+      "Text": "<SPEED_IMME>Cosa vuoi modificare?"
+    },
+    {
+      "VardId": "MES_CHECK_FREE_EDIT_ROOM_PLACEMENT",
+      "Text": "Arredo"
+    },
+    {
+      "VardId": "MES_CHECK_FREE_EDIT_ROOM_WALLPAPER",
+      "Text": "Parete"
+    },
+    {
+      "VardId": "MES_CHECK_FREE_EDIT_ROOM_FLOOR",
+      "Text": "Pavimento"
+    },
+    {
+      "VardId": "MES_CHECK_ASSEBLE_START",
+      "Text": "Costruisci"
+    },
+    {
+      "VardId": "MES_CHECK_ASSEBLE_BROWSE",
+      "Text": "Inventario"
+    },
+    {
+      "VardId": "MES_CHECK_FREE_EDIT_TOWN",
+      "Text": "<SPEED_IMME>Vuoi fare delle modifiche?"
+    },
+    {
+      "VardId": "MES_CHECK_MAKER_FOOD",
+      "Text": "Not used"
+    },
+    {
+      "VardId": "MES_CHECK_MAKER_CLOTH",
+      "Text": "Not used"
+    },
+    {
+      "VardId": "MES_CHECK_MAKER_SEED",
+      "Text": "Not used"
+    },
+    {
+      "VardId": "MES_CHECK_MAKER_DRUG",
+      "Text": "Not used"
+    },
+    {
+      "VardId": "MES_CHECK_MAKER_BREAK",
+      "Text": "Not used"
+    },
+    {
+      "VardId": "MES_CHECK_ATELIER_COMPLETE_ANSWER_00",
+      "Text": "Prendi"
+    },
+    {
+      "VardId": "MES_CHECK_ATELIER_COMPLETE_ANSWER_01",
+      "Text": "<CANCEL_SELECT>\nAnnulla"
+    },
+    {
+      "VardId": "MES_CHECK_ATELIER_COMPLETE",
+      "Text": "<SPEED_IMME>Vuoi prendere il prodotto completato?"
+    },
+    {
+      "VardId": "MES_CHECK_ATELIER_ANSWER_00",
+      "Text": "Prepara un prodotto"
+    },
+    {
+      "VardId": "MES_CHECK_ATELIER_ANSWER_01",
+      "Text": "Verifica stato"
+    },
+    {
+      "VardId": "MES_CHECK_ATELIER_ANSWER_02",
+      "Text": "<CANCEL_SELECT>\nNon fare niente"
+    },
+    {
+      "VardId": "MES_CHECK_ATELIER",
+      "Text": "<SPEED_IMME>Cosa vuoi fare?"
+    },
+    {
+      "VardId": "MES_CHECK_ATELIER_ERROR_00",
+      "Text": "Non c'è spazio nello zaino..."
+    },
+    {
+      "VardId": "MES_CHECK_ATELIER_ERROR_01",
+      "Text": "Ci sono troppi ingredienti."
+    },
+    {
+      "VardId": "MES_CHECK_MINE_ROCKS_0",
+      "Text": "Equipaggia un <BLUE>martello</BLUE> per estrarre i minerali!"
+    },
+    {
+      "VardId": "MES_CHECK_MINE_ROCKS_1",
+      "Text": "Sarà meglio interrompere l'estrazione..."
+    },
+    {
+      "VardId": "MES_CHECK_CHEST_DRAWER_SELECT_ASK",
+      "Text": "<SPEED_IMME>Cosa vuoi fare?"
+    },
+    {
+      "VardId": "MES_CHECK_CHEST_DRAWER_SELECT_0",
+      "Text": "Riponi"
+    },
+    {
+      "VardId": "MES_CHECK_CHEST_DRAWER_SELECT_1",
+      "Text": "Estrai"
+    },
+    {
+      "VardId": "MES_CHECK_CHEST_DRAWER_SELECT_2",
+      "Text": "<CANCEL_SELECT>\nNiente"
+    },
+    {
+      "VardId": "MES_CHECK_TOOL_BOX_SELECT_ASK",
+      "Text": "<SPEED_IMME>Cosa vuoi fare?"
+    },
+    {
+      "VardId": "MES_CHECK_TOOL_BOX_SELECT_0",
+      "Text": "Riponi"
+    },
+    {
+      "VardId": "MES_CHECK_TOOL_BOX_SELECT_1",
+      "Text": "Estrai"
+    },
+    {
+      "VardId": "MES_CHECK_TOOL_BOX_SELECT_2",
+      "Text": "<CANCEL_SELECT>\nNiente"
+    },
+    {
+      "VardId": "MES_CHECK_REFRIGERATER_SELECT_ASK",
+      "Text": "<SPEED_IMME>Cosa vuoi fare?"
+    },
+    {
+      "VardId": "MES_CHECK_REFRIGERATER_SELECT_0",
+      "Text": "Riponi"
+    },
+    {
+      "VardId": "MES_CHECK_REFRIGERATER_SELECT_1",
+      "Text": "Estrai"
+    },
+    {
+      "VardId": "MES_CHECK_REFRIGERATER_SELECT_2",
+      "Text": "<CANCEL_SELECT>\nNiente"
+    },
+    {
+      "VardId": "MES_CHECK_MATERIALS_BOX_SELECT_ASK",
+      "Text": "<SPEED_IMME>Cosa vuoi fare?"
+    },
+    {
+      "VardId": "MES_CHECK_MATERIALS_BOX_SELECT_0",
+      "Text": "Riponi"
+    },
+    {
+      "VardId": "MES_CHECK_MATERIALS_BOX_SELECT_1",
+      "Text": "Estrai"
+    },
+    {
+      "VardId": "MES_CHECK_MATERIALS_BOX_SELECT_2",
+      "Text": "<CANCEL_SELECT>\nNiente"
+    },
+    {
+      "VardId": "MES_CHECK_CLOSET_SELECT_ASK",
+      "Text": "<SPEED_IMME>Cosa vuoi fare?"
+    },
+    {
+      "VardId": "MES_CHECK_CLOSET_SELECT_0",
+      "Text": "Cambia"
+    },
+    {
+      "VardId": "MES_CHECK_CLOSET_SELECT_1",
+      "Text": "Riponi"
+    },
+    {
+      "VardId": "MES_CHECK_CLOSET_SELECT_2",
+      "Text": "Estrai"
+    },
+    {
+      "VardId": "MES_CHECK_CLOSET_SELECT_3",
+      "Text": "<CANCEL_SELECT>\nNiente"
+    },
+    {
+      "VardId": "MES_CUL_NEED_TOOL",
+      "Text": "Qui potresti posizionare un <BLUE>vivaio</BLUE>."
+    },
+    {
+      "VardId": "MES_CUL_CULTIVATION_SET",
+      "Text": "<SPEED_IMME>Vuoi posizionare un <BLUE>vivaio</BLUE>?"
+    },
+    {
+      "VardId": "MES_CUL_CULTIVATION_SET_YES",
+      "Text": "Posiziona"
+    },
+    {
+      "VardId": "MES_CUL_CULTIVATION_SET_NO",
+      "Text": "<CANCEL_SELECT>\nNon posizionare"
+    },
+    {
+      "VardId": "MES_CUL_SET_FISH",
+      "Text": "Aggiungi un pesce"
+    },
+    {
+      "VardId": "MES_CUL_SET_PEARL",
+      "Text": "Aggiungi un'ostrica perlifera"
+    },
+    {
+      "VardId": "MES_CUL_SET_CANCEL",
+      "Text": "<CANCEL_SELECT>\nEsci"
+    },
+    {
+      "VardId": "MES_CUL_NEED_FISH",
+      "Text": "Non hai né pesci né ostriche perlifere."
+    },
+    {
+      "VardId": "MES_CUL_ALREADY",
+      "Text": "Ci sono già dei pesci all'interno."
+    },
+    {
+      "VardId": "MES_CUL_BAG_FULL",
+      "Text": "Non c'è abbastanza spazio."
+    },
+    {
+      "VardId": "MES_CUL_USESELECT",
+      "Text": "<SPEED_IMME>Vuoi popolare il vivaio?"
+    },
+    {
+      "VardId": "MES_CUL_CANT_GET_PEARL",
+      "Text": "Le <BLUE>perle</BLUE> non sono ancora abbastanza grandi."
+    },
+    {
+      "VardId": "MES_CUL_NOUSE_BAIT",
+      "Text": "Gli hai già dato da mangiare oggi."
+    },
+    {
+      "VardId": "MES_CUL_FULLFISH_BAIT",
+      "Text": "Ce n'è a sufficienza, per ora può bastare."
+    },
+    {
+      "VardId": "MES_CUL_NOMORE_BAIT",
+      "Text": "Non serve dargliene ancora."
+    },
+    {
+      "VardId": "MES_CUL_YES_ALL",
+      "Text": "Estrai tutto"
+    },
+    {
+      "VardId": "MES_CUL_YES_NUMBER",
+      "Text": "Lasciane solo un esemplare"
+    },
+    {
+      "VardId": "MES_CUL_YES_ONLY_ONE",
+      "Text": "Estrai"
+    },
+    {
+      "VardId": "MES_CUL_YES_FISH_FOOD",
+      "Text": "Nutri"
+    },
+    {
+      "VardId": "MES_CUL_NO_01",
+      "Text": "<CANCEL_SELECT>\nEsci"
+    },
+    {
+      "VardId": "MES_CUL_GETSELECT_00",
+      "Text": "<BLUE>Stato <article-d_di> <low><MOJI0></BLUE>:\nCi sono <BLUE><MOJI1></BLUE> esemplari all'interno."
+    },
+    {
+      "VardId": "MES_CUL_GETSELECT_01",
+      "Text": "C'è <adjective male-s=\"un solo\" female-s=\"una sola\"> <BLUE><low><MOJI0></BLUE>\nall'interno."
+    },
+    {
+      "VardId": "MES_CUL_GET_ITEM_00",
+      "Text": "Hai ottenuto: <BLUE><low><MOJI0></BLUE> x <BLUE><MOJI1></BLUE>!"
+    },
+    {
+      "VardId": "MES_CUL_GET_ITEM_01",
+      "Text": "Hai ottenuto: <BLUE><low><MOJI0></BLUE>!"
+    },
+    {
+      "VardId": "MES_CUL_BROKEN_00",
+      "Text": "Il <BLUE>vivaio</BLUE> si è rotto..."
+    },
+    {
+      "VardId": "MES_CUL_BROKEN_01",
+      "Text": "Il pesce è fuggito."
+    },
+    {
+      "VardId": "MES_CHECK_ITEM_BOX_SELECT_0",
+      "Text": "Frigorifero<m>"
+    },
+    {
+      "VardId": "MES_CHECK_ITEM_BOX_SELECT_1",
+      "Text": "Cassapanca<f>"
+    },
+    {
+      "VardId": "MES_CHECK_ITEM_BOX_SELECT_2",
+      "Text": "Cassetta degli attrezzi<f>"
+    },
+    {
+      "VardId": "MES_CHECK_ITEM_BOX_SELECT_3",
+      "Text": "<CANCEL_SELECT>\nNiente"
+    },
+    {
+      "VardId": "MES_CHECK_ITEM_BOX_SELECT_ASK",
+      "Text": "<SPEED_IMME>Cosa vuoi fare?"
+    },
+    {
+      "VardId": "MES_CHECK_ITEM_BOX_SELECT_NO",
+      "Text": "Non hai spazio per riporre nulla."
+    },
+    {
+      "VardId": "MES_MAPCHANGE_DISP_FORMAT",
+      "Text": "%ls"
+    },
+    {
+      "VardId": "MES_CHANGE_HOUSE_NAME",
+      "Text": "<SPEED_IMME>Nome <article-d_di> <low><MOJI1>: <BLUE><MOJI0></BLUE>\nVuoi cambiarlo?"
+    },
+    {
+      "VardId": "MES_CHECK_KITCHEN_FIRST",
+      "Text": "<SPEED_FAST>Questa è la <BLUE>cucina</BLUE>. Qui potrai preparare piatti\nusando tutte le ricette di cui sei in possesso."
+    },
+    {
+      "VardId": "MES_CHECK_VINYLHOUSE_SUN",
+      "Text": "<BLUE>Hai costruito <article-i> <low><MOJI0></BLUE>."
+    },
+    {
+      "VardId": "MES_CHECK_VINYLHOUSE_SUN_SELECT",
+      "Text": "<SPEED_IMME><BLUE>Hai costruito <article-i> <low><MOJI0></BLUE>.\nCosa vuoi fare ora?"
+    },
+    {
+      "VardId": "MES_CHECK_VINYLHOUSE_SUN_SELECT_SPRING",
+      "Text": "Scambia con il sole primaverile."
+    },
+    {
+      "VardId": "MES_CHECK_VINYLHOUSE_SUN_SELECT_SUMMER",
+      "Text": "Scambia con il sole estivo."
+    },
+    {
+      "VardId": "MES_CHECK_VINYLHOUSE_SUN_SELECT_AUTUMN",
+      "Text": "Scambia con il sole autunnale."
+    },
+    {
+      "VardId": "MES_CHECK_VINYLHOUSE_SUN_SELECT_WINTER",
+      "Text": "Scambia con il sole invernale."
+    },
+    {
+      "VardId": "MES_CHECK_VINYLHOUSE_SUN_SELECT_STAY",
+      "Text": "<CANCEL_SELECT>\nNon fare nulla"
+    },
+    {
+      "VardId": "MES_CHECK_VINYLHOUSE_SUN_CANT_PICKUP",
+      "Text": "Non c'è spazio per riporre il sole attualmente\nin uso!"
+    },
+    {
+      "VardId": "MES_CHECK_VINYLHOUSE_SUN_CANT_PICKUP_2",
+      "Text": "Non puoi effettuare lo scambio\ncon il sole selezionato."
+    },
+    {
+      "VardId": "MES_CHECK_GUILD_WELCOME",
+      "Text": "<gender male=\"Benvenuto\" female=\"Benvenuta\"> alla gilda."
+    },
+    {
+      "VardId": "MES_CHECK_GUILD_SELECT_0",
+      "Text": "Partecipa alla conquista del terreno"
+    },
+    {
+      "VardId": "MES_CHECK_GUILD_SELECT_1",
+      "Text": "Vai al Parco Safari"
+    },
+    {
+      "VardId": "MES_CHECK_GUILD_SELECT_2",
+      "Text": "Scegli il tipo di matrimonio da organizzare"
+    },
+    {
+      "VardId": "MES_CHECK_GUILD_SELECT_3",
+      "Text": "<CANCEL_SELECT>\nNon fare nulla"
+    },
+    {
+      "VardId": "MES_CHECK_GUILD_SELECT_ASK",
+      "Text": "<SPEED_IMME>Cosa desideri?"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_SELECT_0",
+      "Text": "Almanacco"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_SELECT_1",
+      "Text": "Trofei"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_SELECT_2",
+      "Text": "Lettere"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_SELECT_3",
+      "Text": "Guide della fattoria"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_SELECT_4",
+      "Text": "Cartoline speciali"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_SELECT_5",
+      "Text": "<CANCEL_SELECT>\nNiente"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_SELECT_ASK",
+      "Text": "<SPEED_IMME>Cosa vuoi vedere?"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_SP_CARD_0",
+      "Text": "Fritz"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_SP_CARD_1",
+      "Text": "Klaus"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_SP_CARD_2",
+      "Text": "Raeger"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_SP_CARD_3",
+      "Text": "Mistel"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_SP_CARD_4",
+      "Text": "Nadi"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_SP_CARD_5",
+      "Text": "Kamil"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_SP_CARD_6",
+      "Text": "Elise"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_SP_CARD_7",
+      "Text": "Iris"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_SP_CARD_8",
+      "Text": "Lillie"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_SP_CARD_9",
+      "Text": "Agate"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_SP_CARD_10",
+      "Text": "Angela"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_SP_CARD_11",
+      "Text": "Licorice"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_SP_CARD_NEXT",
+      "Text": "Avanti"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_SP_CARD_RETURN_FIRST",
+      "Text": "Torna all'inizio"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_SP_CARD_RETURN",
+      "Text": "<CANCEL_SELECT>\nTorna alla libreria"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_WAIT_BUTTON",
+      "Text": "Questa è una cartolina speciale\ndi <MOJI0>."
+    },
+    {
+      "VardId": "MES_FERRIS_WHEEL_SELECT_ASK",
+      "Text": "<SPEED_IMME>In quale cabina vuoi entrare?"
+    },
+    {
+      "VardId": "MES_FERRIS_WHEEL_SELECT_RED",
+      "Text": "Cabina rossa"
+    },
+    {
+      "VardId": "MES_FERRIS_WHEEL_SELECT_BLUE",
+      "Text": "Cabina blu"
+    },
+    {
+      "VardId": "MES_FERRIS_WHEEL_SELECT_YELLOW",
+      "Text": "Cabina gialla"
+    },
+    {
+      "VardId": "MES_FERRIS_WHEEL_SELECT_GREEN",
+      "Text": "Cabina verde"
+    },
+    {
+      "VardId": "MES_FERRIS_WHEEL_SELECT_LIGHTBLUE",
+      "Text": "Cabina azzurra"
+    },
+    {
+      "VardId": "MES_FERRIS_WHEEL_SELECT_PURPLE",
+      "Text": "Cabina viola"
+    },
+    {
+      "VardId": "MES_VASE_INSERT_ASK",
+      "Text": "<SPEED_IMME>Vuoi mettere il mazzo di fiori qui?"
+    },
+    {
+      "VardId": "MES_VASE_INSERT_YES",
+      "Text": "Sì"
+    },
+    {
+      "VardId": "MES_VASE_INSERT_NO",
+      "Text": "<CANCEL_SELECT>\nNo"
+    },
+    {
+      "VardId": "MES_VASE_REMOVE_ASK",
+      "Text": "Il mazzo di fiori aggiunge un tocco di colore.\nÈ perfetto!♪\nSostituiscilo quando inizia ad appassire."
+    },
+    {
+      "VardId": "MES_VASE_REMOVE_YES",
+      "Text": "Svuota il vaso"
+    },
+    {
+      "VardId": "MES_VASE_REMOVE_NO",
+      "Text": "<CANCEL_SELECT>\nNon fare niente"
+    },
+    {
+      "VardId": "MES_CHECK_PREGNANCY_SPACE_00",
+      "Text": "Non ci sono animali in dolce attesa al momento."
+    },
+    {
+      "VardId": "MES_CHECK_PREGNANCY_SPACE_01",
+      "Text": "Comincia ad avere l'aspetto di una mamma."
+    },
+    {
+      "VardId": "MES_BIRD_MAX",
+      "Text": "Non c'è spazio nel <GREEN>pollaio</GREEN>..."
+    },
+    {
+      "VardId": "MES_CHECK_INCUBATE_BOX_00",
+      "Text": "C'è già un uovo."
+    },
+    {
+      "VardId": "MES_HOUSE_RENAME_ASK",
+      "Text": "<SPEED_IMME>Nome <article-d_di> <low><MOJI1>: <GREEN><MOJI0></GREEN>\nVuoi cambiarlo?"
+    },
+    {
+      "VardId": "MES_CHECK_DRAWER_GROUND_00",
+      "Text": "L'<BLUE>annaffiatoio</BLUE> è pieno!"
+    },
+    {
+      "VardId": "MES_CHECK_DRAWER_GROUND_01",
+      "Text": "Equipaggia l'<BLUE>annaffiatoio</BLUE> e riempilo d'acqua."
+    },
+    {
+      "VardId": "MES_CHECK_GUIDE_01",
+      "Text": "<SPEED_IMME>　　　　　　　↑Fattoria\n←Colle Fertile　　　 Colle Arroccato→\n　　　　　　　↓Querciallegra"
+    },
+    {
+      "VardId": "MES_CHECK_GUIDE_02",
+      "Text": "<SPEED_IMME>　　　　　　　↑Fattoria\n←Pascolo sul fiume\n　 Querciallegra　　　　　→Colle Zefiro"
+    },
+    {
+      "VardId": "MES_CHECK_SIGNBOARD_1",
+      "Text": "<SPEED_IMME>Nei campi indicati dalla freccia puoi coltivare\n<BLUE>tè, alberi da frutto e spezie</BLUE>.\n<PAGE>\n<SPEED_IMME><RED>Nota: per utilizzare questo terreno devi ottenere\nil permesso della gilda!</RED>"
+    },
+    {
+      "VardId": "MES_CHECK_SIGNBOARD_2",
+      "Text": "<SPEED_IMME>Nei campi indicati dalla freccia puoi usufruire\ndelle <BLUE>arnie</BLUE> o piantare <BLUE>fiori, funghi e\ncoltivazioni alte</BLUE>.\n<PAGE>\n<SPEED_IMME><RED>Nota: per utilizzare questo terreno devi ottenere\nil permesso della gilda!</RED>"
+    },
+    {
+      "VardId": "MES_CHECK_SIGNBOARD_3",
+      "Text": "<SPEED_IMME>Nei campi indicati dalla freccia puoi produrre\n<BLUE>coltivazioni da radice e da foglia</BLUE>.\n<PAGE>\n<SPEED_IMME><RED>Nota: per utilizzare questo terreno devi ottenere\nil permesso della gilda!</RED>"
+    },
+    {
+      "VardId": "MES_CHECK_SIGNBOARD_4",
+      "Text": "<SPEED_IMME>Nei campi indicati dalla freccia puoi coltivare\n<BLUE>riso e grano</BLUE>.\n<PAGE>\n<SPEED_IMME><RED>Nota: per utilizzare questo terreno devi ottenere\nil permesso della gilda!</RED>"
+    },
+    {
+      "VardId": "MES_CHECK_TABLE_MYHOUSE_01",
+      "Text": "È ora di mangiare!"
+    },
+    {
+      "VardId": "MES_CHECK_TABLE_MYHOUSE_02",
+      "Text": "Mangia"
+    },
+    {
+      "VardId": "MES_CHECK_TABLE_MYHOUSE_03",
+      "Text": "<CANCEL_SELECT>\nNon mangiare"
+    },
+    {
+      "VardId": "MES_CHECK_TABLE_MYHOUSE_04",
+      "Text": "<SPEED_IMME>Chi vuoi che prepari da mangiare?"
+    },
+    {
+      "VardId": "MES_CHECK_TABLE_MYHOUSE_05",
+      "Text": "Cucinerai tu"
+    },
+    {
+      "VardId": "MES_CHECK_TABLE_MYHOUSE_06",
+      "Text": "Cucinerà la tua dolce metà"
+    },
+    {
+      "VardId": "MES_CHECK_TABLE_MYHOUSE_07",
+      "Text": "È ancora troppo presto.\nLa colazione è alle <BLUE>6:00</BLUE>."
+    },
+    {
+      "VardId": "MES_CHECK_TABLE_MYHOUSE_08",
+      "Text": "È ancora troppo presto.\nIl pranzo è alle <BLUE>12:00</BLUE>."
+    },
+    {
+      "VardId": "MES_CHECK_TABLE_MYHOUSE_09",
+      "Text": "È ancora troppo presto.\nLa cena è alle <BLUE>19:00</BLUE>."
+    },
+    {
+      "VardId": "MES_CHECK_TABLE_MYHOUSE_10",
+      "Text": "È ancora troppo presto.\nLa colazione è alle <BLUE>6:00</BLUE>."
+    },
+    {
+      "VardId": "MES_CHECK_TABLE_MYHOUSE_11",
+      "Text": "Hai già mangiato\n<article-i> <low><MOJI0>."
+    },
+    {
+      "VardId": "MES_CHECK_TABLE_MYHOUSE_12",
+      "Text": "Non riuscirai a condividere\n<article-d> <low><MOJI0>\ncon la tua famiglia."
+    },
+    {
+      "VardId": "MES_CHECK_TABLE_MYHOUSE_HELP",
+      "Text": "<SPEED_FAST>Per poter mangiare, esamina il <BLUE>tavolo</BLUE>.\n<PAGE>\n<SPEED_FAST>Seleziona <RED>Mangia</RED>, e poi scegli chi preparerà\nda mangiare."
+    },
+    {
+      "VardId": "MES_CHECK_VASE_1",
+      "Text": "Mettilo nel vaso"
+    },
+    {
+      "VardId": "MES_CHECK_VASE_2",
+      "Text": "Non metterlo nel vaso"
+    },
+    {
+      "VardId": "MES_CHECK_VASE_3",
+      "Text": "Cambia i fiori"
+    },
+    {
+      "VardId": "MES_CHECK_VASE_4",
+      "Text": "Non cambiare i fiori"
+    },
+    {
+      "VardId": "MES_CHECK_VASE_5",
+      "Text": "Puoi decorarlo con un <BLUE>mazzo di fiori</BLUE>."
+    },
+    {
+      "VardId": "MES_CHECK_SPA_1",
+      "Text": "Entra nella sorgente termale"
+    },
+    {
+      "VardId": "MES_CHECK_SPA_2",
+      "Text": "<CANCEL_SELECT>\nNon entrare nella sorgente termale"
+    },
+    {
+      "VardId": "MES_CHECK_CHEST_DRAWER_USE_HELP",
+      "Text": "<SPEED_FAST>Puoi depositare grandi quantità di insetti\ne oggetti vari nella <BLUE>cassapanca</BLUE>."
+    },
+    {
+      "VardId": "MES_CHECK_REFRIGERATER_USE_HELP",
+      "Text": "<SPEED_FAST>Puoi depositare grandi quantità di cibo\nnel <BLUE>frigorifero</BLUE>."
+    },
+    {
+      "VardId": "MES_CHECK_TOOL_BOX_USE_HELP",
+      "Text": "<SPEED_FAST>Puoi depositare grandi quantità di attrezzi\ne semi nella <BLUE>cassetta degli attrezzi</BLUE>."
+    },
+    {
+      "VardId": "MES_CHECK_MATERIALS_BOX_USE_HELP",
+      "Text": "<SPEED_FAST>Puoi depositare grandi quantità di materiali\nnel <BLUE>cesto dei materiali</BLUE>."
+    },
+    {
+      "VardId": "MES_CHECK_RECORD_1",
+      "Text": "Traccia 1"
+    },
+    {
+      "VardId": "MES_CHECK_RECORD_2",
+      "Text": "Traccia 2"
+    },
+    {
+      "VardId": "MES_CHECK_RECORD_3",
+      "Text": "Traccia 3"
+    },
+    {
+      "VardId": "MES_CHECK_RECORD_4",
+      "Text": "Traccia 4"
+    },
+    {
+      "VardId": "MES_CHECK_RECORD_5",
+      "Text": "<CANCEL_SELECT>\nEsci"
+    },
+    {
+      "VardId": "MES_CHECK_PET_FOOD_MACHINE",
+      "Text": "Porzioni di cibo rimaste: <BLUE><MOJI0></BLUE>."
+    },
+    {
+      "VardId": "MES_CHECK_CALENDAR_HELP",
+      "Text": "<SPEED_FAST>Il <BLUE>calendario</BLUE> ti permette di controllare quali sono\ngli eventi in programma."
+    },
+    {
+      "VardId": "MES_CHECK_CALENDAR_SELECT_1",
+      "Text": "Guarda il calendario"
+    },
+    {
+      "VardId": "MES_CHECK_CALENDAR_SELECT_2",
+      "Text": "<CANCEL_SELECT>\nNon guardare il calendario"
+    },
+    {
+      "VardId": "MES_CHECK_TAXI_HELP_1",
+      "Text": "Non puoi utilizzarla al momento."
+    },
+    {
+      "VardId": "MES_CHECK_TAXI_HELP_2",
+      "Text": "Non puoi chiamare il cavallo mentre\nstai passeggiando con un animale."
+    },
+    {
+      "VardId": "MES_CHECK_TAXI_1",
+      "Text": "Chiama il cavallo"
+    },
+    {
+      "VardId": "MES_CHECK_TAXI_2",
+      "Text": "Vai al Parco Safari"
+    },
+    {
+      "VardId": "MES_CHECK_TAXI_3",
+      "Text": "<CANCEL_SELECT>\nEsci"
+    },
+    {
+      "VardId": "MES_CHECK_TAXI_4",
+      "Text": "Torna alla fattoria"
+    },
+    {
+      "VardId": "MES_CHECK_TAXI_5",
+      "Text": "Chiama il cavallo e vai al villaggio"
+    },
+    {
+      "VardId": "MES_CHECK_TAXI_6",
+      "Text": "Chiama il cavallo e vai alla piazza del mercato"
+    },
+    {
+      "VardId": "MES_CHECK_TAXI_7",
+      "Text": "Dagli una carota"
+    },
+    {
+      "VardId": "MES_CHECK_TAXI_8",
+      "Text": "Dagli una carota dorata"
+    },
+    {
+      "VardId": "MES_CHECK_TAXI_9",
+      "Text": "<CANCEL_SELECT>\nAnnulla tutto"
+    },
+    {
+      "VardId": "MES_CHECK_TAXI_ASK",
+      "Text": "<SPEED_IMME>Cosa vuoi fare?"
+    },
+    {
+      "VardId": "MES_CHECK_TAXI_ASK_2",
+      "Text": "<SPEED_IMME>Vuoi prendere una carota dallo zaino?"
+    },
+    {
+      "VardId": "MES_CHECK_TAXI_NO_CARROT",
+      "Text": "<SPEED_IMME>Cosa vuoi fare?\n<RED>Se conservi una carota nello zaino, raggiungere\nil villaggio sarà molto più rapido.</RED>"
+    },
+    {
+      "VardId": "MES_CHECK_FISHING_HELP",
+      "Text": "Equipaggia una <BLUE>canna da pesca</BLUE> se vuoi pescare."
+    },
+    {
+      "VardId": "MES_CHECK_SHOP_SIGNBOARD_1",
+      "Text": "<SPEED_IMME>[Emporio]\nApertura: <BLUE>Lun-Sab</BLUE>\nOrario: <BLUE>9:00-18:00</BLUE>"
+    },
+    {
+      "VardId": "MES_CHECK_SHOP_SIGNBOARD_2",
+      "Text": "<SPEED_IMME>[Locanda]\nApertura: <BLUE>Lun-Sab</BLUE>\nOrario: <BLUE>8:00-18:00</BLUE>"
+    },
+    {
+      "VardId": "MES_CHECK_SHOP_SIGNBOARD_3",
+      "Text": "<SPEED_IMME>[Gilda]\nApertura: <BLUE>Lun-Dom</BLUE>\nOrario: <BLUE>9:00-17:00</BLUE>\n<PAGE>\n<SPEED_IMME>[Clinica] *Stanza sul retro\nApertura: <BLUE>Lun-Dom</BLUE>\nOrario: <BLUE>9:00-17:30</BLUE>"
+    },
+    {
+      "VardId": "MES_CHECK_SHOP_SIGNBOARD_4",
+      "Text": "<SPEED_IMME>[Ristorante]\nApertura: <BLUE>Lun-Dom *Chiuso il mercoledì</BLUE>\nOrario: <BLUE>11:00-21:30</BLUE>"
+    },
+    {
+      "VardId": "MES_CHECK_SHOP_SIGNBOARD_5",
+      "Text": "<SPEED_IMME>[Carpentiere]\nApertura: <BLUE>Lun-Sab</BLUE>\nOrario: <BLUE>8:00-18:00</BLUE>"
+    },
+    {
+      "VardId": "MES_CHECK_SHOP_SIGNBOARD_6",
+      "Text": "<SPEED_IMME>[Antiquario]\nApertura: <BLUE>Mar, Mer, Ven, Dom</BLUE>\nOrario: <BLUE>9:00-19:00</BLUE>"
+    },
+    {
+      "VardId": "MES_CHECK_SHOP_SIGNBOARD_7",
+      "Text": "<SPEED_IMME>[Ufficio del dottore]\nApertura: <BLUE>Lun-Sab</BLUE>\nOrario: <BLUE>9:00-17:30</BLUE>"
+    },
+    {
+      "VardId": "MES_CHECK_EDIT_POINT_1",
+      "Text": "Modifica"
+    },
+    {
+      "VardId": "MES_CHECK_EDIT_POINT_2",
+      "Text": "<CANCEL_SELECT>\nNon modificare"
+    },
+    {
+      "VardId": "MES_CHECK_EDIT_POINT_NG",
+      "Text": "Non si puoi usare ora."
+    },
+    {
+      "VardId": "MES_CHECK_FOOD_BOX_SAFARI_HELP",
+      "Text": "Metti il cibo nella <GREEN>zona foraggio</GREEN>."
+    },
+    {
+      "VardId": "MES_CHECK_FOOD_BOX_SAFARI_FULL",
+      "Text": "C'è già da mangiare."
+    },
+    {
+      "VardId": "MES_CHECK_STUMP_GET_ITEM",
+      "Text": "Hai trovato <article-i> <BLUE><low><MOJI0></BLUE>!"
+    },
+    {
+      "VardId": "MES_CHECK_STUMP_00",
+      "Text": "Lo zaino è stracolmo."
+    },
+    {
+      "VardId": "MES_CHECK_STUMP_END",
+      "Text": "Non c'è niente di particolarmente interessante."
+    },
+    {
+      "VardId": "MES_CHECK_MINE_ROCKS_HELP",
+      "Text": "Equipaggia il <BLUE>martello</BLUE> e dai un bel colpo!"
+    },
+    {
+      "VardId": "MES_CHECK_SUN_PLACE_1",
+      "Text": "Posiziona il sole"
+    },
+    {
+      "VardId": "MES_CHECK_SUN_PLACE_2",
+      "Text": "<CANCEL_SELECT>\nEsci"
+    },
+    {
+      "VardId": "MES_CHECK_SUN_PLACE_HELP",
+      "Text": "Posiziona qui il sole stagionale per cambiare\nla stagione all'interno della stanza."
+    },
+    {
+      "VardId": "MES_CHECK_FODDER_STOCK",
+      "Text": "Non c'è <BLUE>foraggio</BLUE> nella <BLUE>cassapanca</BLUE>."
+    },
+    {
+      "VardId": "MES_CHECK_USAGI_FODDER_STOCK",
+      "Text": "Non c'è <BLUE>mangime per conigli</BLUE> nella <BLUE>cassapanca</BLUE>."
+    },
+    {
+      "VardId": "MES_CHECK_SNACK_STOOK_1",
+      "Text": "Non ci sono <BLUE>dolcetti premio</BLUE> nella <BLUE>cassapanca</BLUE>."
+    },
+    {
+      "VardId": "MES_CHECK_SNACK_STOOK_2",
+      "Text": "Non ci sono <BLUE>dolcetti mu-mu</BLUE> nella <BLUE>cassapanca</BLUE>."
+    },
+    {
+      "VardId": "MES_CHECK_SNACK_STOOK_3",
+      "Text": "Non ci sono <BLUE>dolcetti bee-bee</BLUE> nella <BLUE>cassapanca</BLUE>."
+    },
+    {
+      "VardId": "MES_CHECK_SNACK_STOOK_4",
+      "Text": "Non ci sono <BLUE>dolcetti flip-flop</BLUE> nella <BLUE>cassapanca</BLUE>."
+    },
+    {
+      "VardId": "MES_ITEM_PUT_AWAY_1",
+      "Text": "Hai le mani occupate."
+    },
+    {
+      "VardId": "MES_ITEM_PUT_AWAY_2",
+      "Text": "Hai le mani occupate."
+    },
+    {
+      "VardId": "MES_ITEM_PUT_AWAY_3",
+      "Text": "Non c'è abbastanza spazio nello zaino."
+    },
+    {
+      "VardId": "MES_CHECK_PREGNANCY_SPACE_1",
+      "Text": "Non ci sono animali in dolce attesa al momento."
+    },
+    {
+      "VardId": "MES_CHECK_PREGNANCY_SPACE_2",
+      "Text": "Comincia ad avere l'aspetto di una mamma."
+    },
+    {
+      "VardId": "MES_CHECK_HEN_FOOD_STOCK",
+      "Text": "Non c'è <BLUE>mangime per galline</BLUE> nella <BLUE>cassapanca</BLUE>."
+    },
+    {
+      "VardId": "MES_CHECK_SNACK_STOOK_5",
+      "Text": "Non ci sono <BLUE>dolc. chicchirichì</BLUE> nella <BLUE>cassapanca</BLUE>."
+    },
+    {
+      "VardId": "MES_CHECK_HATCH_1",
+      "Text": "Posa qui un uovo"
+    },
+    {
+      "VardId": "MES_CHECK_HATCH_2",
+      "Text": "<CANCEL_SELECT>\nEsci"
+    },
+    {
+      "VardId": "MES_CHECK_HATCH_HELP_1",
+      "Text": "Se metti un <BLUE>uovo</BLUE> qui, verrà covato."
+    },
+    {
+      "VardId": "MES_CHECK_HATCH_HELP_2",
+      "Text": "La cova è in corso."
+    },
+    {
+      "VardId": "MES_CHECK_PET_FOOD_STOCK",
+      "Text": "Non c'è <BLUE>mang. per cani e gatti</BLUE> nella <BLUE>cassapanca</BLUE>."
+    },
+    {
+      "VardId": "MES_CHECK_PET_FOOD_BOX_HELP",
+      "Text": "Metti qui il <BLUE>mangime per cani e gatti</BLUE>."
+    },
+    {
+      "VardId": "MES_CHECK_BORD_NONE",
+      "Text": "Non ci sono animali qui."
+    },
+    {
+      "VardId": "MES_CHECK_BORD_SELECT_ASK",
+      "Text": "<SPEED_IMME>Cosa vuoi fare?"
+    },
+    {
+      "VardId": "MES_CHECK_BORD_1",
+      "Text": "Vedi informazioni"
+    },
+    {
+      "VardId": "MES_CHECK_BORD_2",
+      "Text": "<CANCEL_SELECT>\nEsci"
+    },
+    {
+      "VardId": "MES_CHECK_ITEM_BOX_4_1",
+      "Text": "Frigorifero"
+    },
+    {
+      "VardId": "MES_CHECK_ITEM_BOX_4_2",
+      "Text": "Cassapanca"
+    },
+    {
+      "VardId": "MES_CHECK_ITEM_BOX_4_3",
+      "Text": "Cassetta degli attrezzi"
+    },
+    {
+      "VardId": "MES_CHECK_ITEM_BOX_4_4",
+      "Text": "<CANCEL_SELECT>\nEsci"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_HELP_1",
+      "Text": "È chiuso. Non dovresti suonare il campanello."
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_HELP_2",
+      "Text": "È un <RED>giorno festivo</RED>. Non suonare il campanello."
+    },
+    {
+      "VardId": "MES_CHECK_COMPOSITION_STAND_2_1",
+      "Text": "Modifica fattoria"
+    },
+    {
+      "VardId": "MES_CHECK_COMPOSITION_STAND_2_2",
+      "Text": "Modifica casa"
+    },
+    {
+      "VardId": "MES_CHECK_VINYL_HOUSE",
+      "Text": "Serra"
+    },
+    {
+      "VardId": "MES_CHECK_SEWING_STUDIO",
+      "Text": "Sartoria"
+    },
+    {
+      "VardId": "MES_CHECK_POTTERY_STUDIO",
+      "Text": "Laboratorio di ceramica"
+    },
+    {
+      "VardId": "MES_CHECK_CHAI",
+      "Text": "Azienda vinicola"
+    },
+    {
+      "VardId": "MES_CHECK_SEED_MAKER",
+      "Text": "Fabbrica di semi"
+    },
+    {
+      "VardId": "MES_CHECK_SEASONING_HOUSE",
+      "Text": "Fabbrica di spezie"
+    },
+    {
+      "VardId": "MES_CHECK_CHEESE_HOUSE",
+      "Text": "Caseificio"
+    },
+    {
+      "VardId": "MES_CHECK_AROUND_TEACUP_1",
+      "Text": "Produci un filato"
+    },
+    {
+      "VardId": "MES_CHECK_AROUND_TEACUP_2",
+      "Text": "Tingi un filato"
+    },
+    {
+      "VardId": "MES_CHECK_AROUND_TEACUP_3",
+      "Text": "Produci un tessuto"
+    },
+    {
+      "VardId": "MES_CHECK_AROUND_TEACUP_4",
+      "Text": "Crea un vestito"
+    },
+    {
+      "VardId": "MES_CHECK_AROUND_TEACUP_5",
+      "Text": "Crea un accessorio"
+    },
+    {
+      "VardId": "MES_CHECK_AROUND_TEACUP_2_1",
+      "Text": "Modella un oggetto"
+    },
+    {
+      "VardId": "MES_CHECK_AROUND_TEACUP_2_2",
+      "Text": "Cuoci un oggetto"
+    },
+    {
+      "VardId": "MES_CHECK_AROUND_TEACUP_2_3",
+      "Text": "Cuci del tessuto"
+    },
+    {
+      "VardId": "MES_CHECK_AROUND_TEACUP_2_4",
+      "Text": "Smalta un oggetto"
+    },
+    {
+      "VardId": "MES_CHECK_FLYING_SHIP_1",
+      "Text": "Spremi un frutto"
+    },
+    {
+      "VardId": "MES_CHECK_FLYING_SHIP_2",
+      "Text": "Fai fermentare il mosto"
+    },
+    {
+      "VardId": "MES_CHECK_FLYING_SHIP_3",
+      "Text": "Cuci del tessuto"
+    },
+    {
+      "VardId": "MES_CHECK_MARRY_GO_ROUND_1",
+      "Text": "Essicca"
+    },
+    {
+      "VardId": "MES_CHECK_MARRY_GO_ROUND_2",
+      "Text": "Trebbia"
+    },
+    {
+      "VardId": "MES_CHECK_MARRY_GO_ROUND_3",
+      "Text": "Produci del fertilizzante"
+    },
+    {
+      "VardId": "MES_CHECK_MARRY_GO_ROUND_2_1",
+      "Text": "Fai fermentare un condimento"
+    },
+    {
+      "VardId": "MES_CHECK_MARRY_GO_ROUND_2_2",
+      "Text": "Confeziona un prodotto"
+    },
+    {
+      "VardId": "MES_CHECK_MARRY_GO_ROUND_2_3",
+      "Text": "Macina"
+    },
+    {
+      "VardId": "MES_CHECK_FREE_FALL_1",
+      "Text": "Caglia"
+    },
+    {
+      "VardId": "MES_CHECK_FREE_FALL_2",
+      "Text": "Stagiona"
+    },
+    {
+      "VardId": "MES_CHECK_FREE_FALL_3",
+      "Text": "Emulsiona"
+    },
+    {
+      "VardId": "MES_CHECK_FERRIS_WHEEL_1",
+      "Text": "Cabina rossa"
+    },
+    {
+      "VardId": "MES_CHECK_FERRIS_WHEEL_2",
+      "Text": "Cabina blu"
+    },
+    {
+      "VardId": "MES_CHECK_FERRIS_WHEEL_3",
+      "Text": "Cabina gialla"
+    },
+    {
+      "VardId": "MES_CHECK_FERRIS_WHEEL_4",
+      "Text": "Cabina verde"
+    },
+    {
+      "VardId": "MES_CHECK_FERRIS_WHEEL_5",
+      "Text": "Cabina azzurra"
+    },
+    {
+      "VardId": "MES_CHECK_FERRIS_WHEEL_6",
+      "Text": "Cabina viola"
+    },
+    {
+      "VardId": "MES_CHECK_NEXT",
+      "Text": "Avanti"
+    },
+    {
+      "VardId": "MES_CHECK_BACK",
+      "Text": "Indietro"
+    },
+    {
+      "VardId": "MES_CHECK_CANCEL",
+      "Text": "<CANCEL_SELECT>\nNon fare nulla"
+    },
+    {
+      "VardId": "MES_CHECK_GRAVE_1",
+      "Text": "La cara Eda... Ti stai prendendo buona cura\ndella sua fattoria."
+    },
+    {
+      "VardId": "MES_CHECK_GRAVE_2",
+      "Text": "Puoi omaggiarla con un <BLUE>mazzo di fiori</BLUE>."
+    },
+    {
+      "VardId": "MES_CHECK_GRAVE_3",
+      "Text": "Prima rimuovi l'oggetto equipaggiato."
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_1",
+      "Text": "Apri il negozio"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_2",
+      "Text": "Seleziona le merci"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_3",
+      "Text": "Incassa i guadagni"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_4",
+      "Text": "Seleziona le merci"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_5",
+      "Text": "Cambia negozio"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_6",
+      "Text": "Chiudi il negozio"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_7",
+      "Text": "Rimuovi le merci in vendita"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_CANCEL",
+      "Text": "<CANCEL_SELECT>\nNiente"
+    },
+    {
+      "VardId": "MES_CHECK_SIGNBOARD_TRADE_1",
+      "Text": "<SPEED_IMME>Paese della seta"
+    },
+    {
+      "VardId": "MES_CHECK_SIGNBOARD_TRADE_2",
+      "Text": "<SPEED_IMME>Paese dei villini"
+    },
+    {
+      "VardId": "MES_CHECK_SIGNBOARD_TRADE_3",
+      "Text": "<SPEED_IMME>Paese dei ciliegi"
+    },
+    {
+      "VardId": "MES_CHECK_SIGNBOARD_TRADE_4",
+      "Text": "<SPEED_IMME>Paese del grano"
+    },
+    {
+      "VardId": "MES_CHECK_SIGNBOARD_TRADE_5",
+      "Text": "<SPEED_IMME>Paese delle rose"
+    },
+    {
+      "VardId": "MES_CHECK_SIGNBOARD_TRADE_6",
+      "Text": "<SPEED_IMME>Paese dei tropici"
+    },
+    {
+      "VardId": "MES_CHECK_SIGNBOARD_TRADE_7",
+      "Text": "<SPEED_IMME>Paese dei ghiacci"
+    },
+    {
+      "VardId": "MES_CHECK_MILESTONE_1",
+      "Text": "Accesso alla montagna"
+    },
+    {
+      "VardId": "MES_CHECK_MILESTONE_2",
+      "Text": "Secondo livello"
+    },
+    {
+      "VardId": "MES_CHECK_MILESTONE_3",
+      "Text": "Terzo livello"
+    },
+    {
+      "VardId": "MES_CHECK_MILESTONE_4",
+      "Text": "Quarto livello"
+    },
+    {
+      "VardId": "MES_CHECK_MILESTONE_5",
+      "Text": "Vetta"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_SELECT_1",
+      "Text": "<SPEED_IMME>Cosa vuoi fare?"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_SELECT_2",
+      "Text": "<SPEED_IMME>Da dove vuoi iniziare?"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_SELECT_3",
+      "Text": "<SPEED_IMME>Quale negozio vuoi chiudere?"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_SELECT_4",
+      "Text": "<SPEED_IMME>A quale negozio vuoi passare?"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_SHOP_SELECT_CANCEL",
+      "Text": "<CANCEL_SELECT>\nAspetta"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_SHOP_SELECT_CANCEL_2",
+      "Text": "<CANCEL_SELECT>\nNon cambiare"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_SHOP_SELECT_00",
+      "Text": "Negozio agricolo"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_SHOP_SELECT_01",
+      "Text": "Emporio"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_SHOP_SELECT_02",
+      "Text": "Ristorante"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_SHOP_SELECT_03",
+      "Text": "Panificio"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_SHOP_SELECT_04",
+      "Text": "Negozio di dolciumi"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_SHOP_SELECT_05",
+      "Text": "Bancarella delle bevande"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_SHOP_SELECT_06",
+      "Text": "Sartoria"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_SHOP_SELECT_07",
+      "Text": "Pescheria"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_SHOP_SELECT_08",
+      "Text": "Negozio di fiori"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_SHOP_SELECT_09",
+      "Text": "Ortofrutta"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_SHOP_SELECT_10",
+      "Text": "Negozio di arredamento"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_SHOP_SELECT_11",
+      "Text": "Antiquario"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_SHOP_SELECT_12",
+      "Text": "Negozio di cianfrusaglie"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_SHOP_SELECT_NEXT",
+      "Text": "Avanti"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_SHOP_SELECT_RETURN",
+      "Text": "Torna all'inizio"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_STORAGE_SELECT_00",
+      "Text": "Zaino"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_STORAGE_SELECT_01",
+      "Text": "Cassetta degli attrezzi"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_STORAGE_SELECT_02",
+      "Text": "Frigorifero"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_STORAGE_SELECT_03",
+      "Text": "Cesto dei materiali"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_STORAGE_SELECT_04",
+      "Text": "Cassapanca"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_STORAGE_SELECT_05",
+      "Text": "Armadio"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_STORAGE_SELECT_06",
+      "Text": "Inventario"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_STORAGE_SELECT_CANCEL",
+      "Text": "<CANCEL_SELECT>\nEsci"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_STORAGE_SELECT_RETURN",
+      "Text": "Torna all'inizio"
+    },
+    {
+      "VardId": "MES_CHECK_COUNTER_PLAYER_STORAGE_SELECT_NEXT",
+      "Text": "Avanti"
+    },
+    {
+      "VardId": "MES_CHECK_BOOKSHELF",
+      "Text": "<SPEED_FAST>Questa è la <BLUE>libreria</BLUE>. Al suo interno troverai\ninformazioni utili su vari argomenti.\n<PAGE>\n<SPEED_FAST>Facendo nuove esperienze, la libreria conterrà\nsempre più libri e nuove informazioni.\n<PAGE>\nNota: troverai ulteriori informazioni nel manuale\nelettronico. Sarà bene darci un'occhiata!"
+    },
+    {
+      "VardId": "MES_CHECK_CLOSET",
+      "Text": "<SPEED_FAST>Questo è l'<BLUE>armadio</BLUE>. Qui dentro potrai mettere\ntutti i tuoi vestiti e gli accessori.\n<PAGE>\n<SPEED_FAST>Quando crei nuovi vestiti e accessori, puoi\nvenire a indossarli qui."
+    },
+    {
+      "VardId": "MES_CHECK_CALENDER",
+      "Text": "<SPEED_FAST>Questo è il <BLUE>calendario</BLUE>. Usalo per sapere quali\nsono gli eventi e i compleanni in vista.\n<PAGE>\n<SPEED_FAST>Ci sono sempre nuovi eventi e nuovi compleanni\nda festeggiare, quindi ricorda di controllare\ndi tanto in tanto."
+    },
+    {
+      "VardId": "MES_CHECK_TOOLBOX",
+      "Text": "<SPEED_FAST>Questa è la <BLUE>cassetta degli attrezzi</BLUE>. Qui potrai\nriporre la tua zappa, la falce e così via.\n<PAGE>\n<SPEED_FAST>Riponi nella cassetta degli attrezzi gli oggetti\nche non ti servono, potrai sempre riprenderli\nin un secondo momento."
+    },
+    {
+      "VardId": "MES_CHECK_SORTBOX",
+      "Text": "<SPEED_FAST>Questa è la <BLUE>cassapanca</BLUE>. Qui dentro puoi mettere\nfiori, insetti e molti altri oggetti.\n<PAGE>\n<SPEED_FAST>Quando hai troppi fiori, insetti e oggetti\nnello zaino, puoi riporli qui dentro."
+    },
+    {
+      "VardId": "MES_CHECK_REFRIGERATOR",
+      "Text": "<SPEED_FAST>Questo è il <BLUE>frigorifero</BLUE>. Qui dentro puoi riporre\nvari tipi di cose da mangiare.\n<PAGE>\n<SPEED_FAST>Se hai troppo cibo nello zaino, puoi riporne\nuna parte nel frigorifero."
+    },
+    {
+      "VardId": "MES_CHECK_POST",
+      "Text": "<SPEED_FAST>Questa è la <BLUE>cassetta delle lettere</BLUE>. Qui riceverai\nvolantini dei negozi, lettere e cartoline.\n<PAGE>\n<SPEED_FAST>Non è molto grande, quindi controlla la posta\npiù spesso che puoi!"
+    },
+    {
+      "VardId": "MES_CHECK_ANIMALFODDER",
+      "Text": "<SPEED_FAST>Questo è il <GREEN>dispenser del foraggio</GREEN>. Puoi prendere\nqui il <BLUE>foraggio</BLUE> che hai depositato\nnella cassapanca.\n<PAGE>\n<SPEED_FAST>Controlla che ci sia sempre del foraggio\nnella cassapanca, così non resterai mai senza!"
+    },
+    {
+      "VardId": "MES_CHECK_ANIMALSNACK",
+      "Text": "<SPEED_FAST>Questo è il <GREEN>dispenser dei dolcetti premio</GREEN>. Puoi\nprendere qui i <BLUE>dolcetti premio</BLUE> che hai\ndepositato nella cassapanca.\n<PAGE>\n<SPEED_FAST>Ci sono diversi tipi di dolcetti premio e ognuno\nha il suo dispenser.\n<PAGE>\n<SPEED_FAST>Controlla che ci siano sempre dolcetti premio\nnella cassapanca, così non resterai mai senza!"
+    },
+    {
+      "VardId": "MES_CHECK_ANIMALPREGNANCYSPACE",
+      "Text": "<SPEED_FAST>Questa è l'<GREEN>area maternità</GREEN>. Gli animali in dolce\nattesa vengono spostati qui.\n<PAGE>\n<SPEED_FAST>Gli animali nell'area maternità non devono essere\nnutriti, tuttavia è importante verificare il loro\nstato di salute fino alla nascita dei loro cuccioli."
+    },
+    {
+      "VardId": "MES_CHECK_ANIAMLBAITSPACE",
+      "Text": "<SPEED_FAST>Questa è la <GREEN>zona foraggio</GREEN>. Deposita il <BLUE>foraggio</BLUE>\nqui dentro e gli animali verranno a\nmangiare spontaneamente.\n<PAGE>\n<SPEED_FAST>Assicurati che il foraggio cada tutto all'interno\ndi questa zona quando nutri i tuoi animali!"
+    },
+    {
+      "VardId": "MES_CHECK_ANIMALNOTE",
+      "Text": "<SPEED_FAST>Questo è il <GREEN>diario degli animali</GREEN>. Qui potrai vedere\nil nome dei tuoi animali e il loro stato di salute.\n<PAGE>\n<SPEED_FAST>Ricordati di leggere il diario dall'inizio alla fine\ncon regolarità, perché la salute degli animali\ndipende da te!"
+    },
+    {
+      "VardId": "MES_CHECK_CHICKENFODDER",
+      "Text": "<SPEED_FAST>Questo è il <GREEN>dispenser del mangime per galline</GREEN>.\nUsalo per prendere il <BLUE>mangime per galline</BLUE>\ndepositato nella cassapanca.\n<PAGE>\n<SPEED_FAST>Controlla che ci sia sempre del mangime\nnella cassapanca, così non resterai mai senza!"
+    },
+    {
+      "VardId": "MES_CHECK_RABBITFODDER",
+      "Text": "<SPEED_FAST>Questo è il <GREEN>dispenser del mangime per conigli</GREEN>.\nUsalo per prendere il <BLUE>mangime per conigli</BLUE>\ndepositato nella cassapanca.\n<PAGE>\n<SPEED_FAST>Controlla che ci sia sempre del mangime\nnella cassapanca, così non resterai mai senza!"
+    },
+    {
+      "VardId": "MES_CHECK_CHICKENSNACK",
+      "Text": "<SPEED_FAST>Questo è il <GREEN>dispenser dei dolcetti premio</GREEN>. Puoi\nprendere qui i <BLUE>dolcetti premio</BLUE> che hai\ndepositato nella cassapanca.\n<PAGE>\n<SPEED_FAST>Controlla che ci siano sempre dolcetti premio\nnella cassapanca, così non resterai mai senza!"
+    },
+    {
+      "VardId": "MES_CHECK_CHICKENHATCHBOX",
+      "Text": "<SPEED_FAST>Questa è l'<GREEN>area cova</GREEN>. Metti un uovo qui dentro\ne un pulcino nascerà nel giro di pochi giorni.\n<PAGE>\n<SPEED_FAST>Non lasciare le uova fertilizzate qui dentro troppo\na lungo, però! Ricordati di verificare il loro stato\ncon frequenza."
+    },
+    {
+      "VardId": "MES_CHECK_CHICKENBAITSPACE",
+      "Text": "<SPEED_FAST>Questa è la <GREEN>zona del mangime per le galline</GREEN>.\nDeposita il <BLUE>mangime per galline</BLUE> qui dentro e\nloro verranno a mangiare spontaneamente.\n<PAGE>\n<SPEED_FAST>Assicurati che il mangime cada tutto all'interno\ndi questa zona quando nutri i tuoi animali!"
+    },
+    {
+      "VardId": "MES_CHECK_CHICKENNOTE",
+      "Text": "<SPEED_FAST>Questo è il <GREEN>diario degli animali</GREEN>. Qui potrai vedere\nil nome dei tuoi animali e il loro stato di salute.\n<PAGE>\n<SPEED_FAST>Ricordati di leggere il diario dall'inizio alla fine\ncon regolarità, perché la salute degli animali\ndipende da te!"
+    },
+    {
+      "VardId": "MES_CHECK_PETFODDER",
+      "Text": "<SPEED_FAST>Questo è il <GREEN>dispenser del mangime per cani e\ngatti</GREEN>. Usalo per prendere il <BLUE>mangime per cani e\ngatti </BLUE>depositato nella cassapanca.\n<PAGE>\n<SPEED_FAST>Controlla che ci sia sempre del mangime\nnella cassapanca, così non resterai mai senza!"
+    },
+    {
+      "VardId": "MES_CHECK_PETBAITSPACE",
+      "Text": "<SPEED_FAST>Questa è la <GREEN>mangiatoia per cani e gatti</GREEN>. Deposita\nil <BLUE>mangime per cani e gatti</BLUE> qui dentro e\nloro verranno a mangiare spontaneamente.\n<PAGE>\n<SPEED_FAST>Assicurati che il mangime cada tutto all'interno\ndi questa zona quando nutri i tuoi animali!"
+    },
+    {
+      "VardId": "MES_CHECK_PETNOTE",
+      "Text": "<SPEED_FAST>Questo è il <GREEN>diario degli animali</GREEN>. Qui potrai vedere\nil nome dei tuoi animali e il loro stato di salute.\n<PAGE>\n<SPEED_FAST>Ricordati di leggere il diario dall'inizio alla fine\ncon regolarità, perché la salute degli animali\ndipende da te!"
+    },
+    {
+      "VardId": "MES_CHECK_ACCEWORK",
+      "Text": "<SPEED_FAST>Questo è il <GREEN>tavolo creazione accessori</GREEN>. Qui\npuoi usare vari materiali per creare accessori\ndi tutti i tipi.\n<PAGE>\n<SPEED_FAST>Per creare un accessorio, devi prima\nacquistarne il progetto."
+    },
+    {
+      "VardId": "MES_CHECK_SEWINGMACHINE",
+      "Text": "<SPEED_FAST>Questa è la <GREEN>macchina da cucire</GREEN>.\nUsala per creare dei vestiti."
+    },
+    {
+      "VardId": "MES_CHECK_WEAVINGMACHINE",
+      "Text": "<SPEED_FAST>Questo è il <GREEN>telaio</GREEN>. Usalo per produrre dei tessuti\nusando filati di vari colori."
+    },
+    {
+      "VardId": "MES_CHECK_THREADHUBCAP",
+      "Text": "<SPEED_FAST>Questo è il <GREEN>filatoio</GREEN>. Puoi produrre filati usando\nil vello di vari animali e le fibre vegetali."
+    },
+    {
+      "VardId": "MES_CHECK_ITEMBOX",
+      "Text": "<SPEED_FAST>Questo è il <GREEN>deposito oggetti</GREEN>. Puoi conservare\noggetti al suo interno ed estrarli in seguito."
+    },
+    {
+      "VardId": "MES_CHECK_POT",
+      "Text": "<SPEED_FAST>Questi sono i <GREEN>recipienti per la tintura</GREEN>. Puoi usarli\nper tingere i filati."
+    },
+    {
+      "VardId": "MES_CHECK_POTTERSWHEEL",
+      "Text": "<SPEED_FAST>Questo è il <GREEN>tornio</GREEN>. Puoi usarlo per modellare\noggetti d'argilla usando la terra."
+    },
+    {
+      "VardId": "MES_CHECK_KILN",
+      "Text": "<SPEED_FAST>Questa è la <GREEN>fornace</GREEN>. Usala per cuocere l'argilla\ne creare oggetti in ceramica, ma c'è un limite\nal numero di oggetti che puoi cuocere."
+    },
+    {
+      "VardId": "MES_CHECK_COLORINGWORK",
+      "Text": "<SPEED_FAST>Questo è il <GREEN>tavolo dei colori</GREEN>. Qui puoi smaltare\ngli oggetti dopo averli cotti nella fornace."
+    },
+    {
+      "VardId": "MES_CHECK_TIEDYEING",
+      "Text": "<SPEED_FAST>Questo è il <GREEN>torchio</GREEN>. Puoi usarlo per ottenere\nil mosto da vari tipi di frutta."
+    },
+    {
+      "VardId": "MES_CHECK_BARREL",
+      "Text": "<SPEED_FAST>Questa è la <GREEN>botte del vino</GREEN>. Qui puoi mettere\na fermentare il mosto per farne del vino."
+    },
+    {
+      "VardId": "MES_CHECK_DRY",
+      "Text": "<SPEED_FAST>Questo è l'<GREEN>essiccatoio</GREEN>. È un macchinario che\nsemplifica l'estrazione dei semi\ndalle coltivazioni."
+    },
+    {
+      "VardId": "MES_CHECK_SEED",
+      "Text": "<SPEED_FAST>Questa è la <GREEN>trebbiatrice</GREEN>. È un macchinario che\nrimuove i semi dalle coltivazioni essiccate."
+    },
+    {
+      "VardId": "MES_CHECK_FERTILIZER",
+      "Text": "<SPEED_FAST>Questa è la <GREEN>macchina per il fertilizzante</GREEN>.\nServe a preparare il fertilizzante."
+    },
+    {
+      "VardId": "MES_CHECK_POTMAKER",
+      "Text": "<SPEED_FAST>Questo è il <GREEN>tino</GREEN>. Usalo per produrre condimenti\nfermentati, come il miso."
+    },
+    {
+      "VardId": "MES_CHECK_SPICEMAKER",
+      "Text": "<SPEED_FAST>Questa è la <GREEN>macchina confezionatrice</GREEN>. Usala per\ntrasformare i prodotti freschi e inscatolarli."
+    },
+    {
+      "VardId": "MES_CHECK_STONEMILL",
+      "Text": "<SPEED_FAST>Questa è la <GREEN>macina</GREEN>. Serve soprattutto per\ntriturare ingredienti come il grano."
+    },
+    {
+      "VardId": "MES_CHECK_STEWPAN",
+      "Text": "<SPEED_FAST>Questo è il <GREEN>contenitore per la cagliatura</GREEN>. Qui puoi\nprodurre del formaggio riscaldando il latte."
+    },
+    {
+      "VardId": "MES_CHECK_MATURE",
+      "Text": "<SPEED_FAST>Questo è lo <GREEN>scaffale per la stagionatura</GREEN>. Qui puoi\nmettere i formaggi a maturare."
+    },
+    {
+      "VardId": "MES_CHECK_SHELF",
+      "Text": "<SPEED_FAST>Questo è l'<GREEN>emulsionatore</GREEN>. Usalo per preparare\nyogurt e maionese."
+    },
+    {
+      "VardId": "MES_CHECK_HORSETAXI",
+      "Text": "<SPEED_FAST>Questa è la <GREEN>stazione di posta</GREEN>. Qui puoi chiamare\nil tuo <BLUE>cavallo</BLUE> per farti portare dove vuoi."
+    },
+    {
+      "VardId": "MES_CHECK_TYPHOON_RIVER_HELP",
+      "Text": "Non entrare in acqua durante un uragano."
+    },
+    {
+      "VardId": "MES_CHECK_HEAVYSNOW_RIVER_HELP",
+      "Text": "È rischioso entrare in acqua durante le bufere."
+    },
+    {
+      "VardId": "MES_CHECK_RIVER_IN_FISHING_FES",
+      "Text": "Aspetta fino al termine della <RED>gara di pesca</RED>."
+    },
+    {
+      "VardId": "MES_CHECK_RIVER_IN_PET_WALK",
+      "Text": "Stai <RED>passeggiando</RED>. Rimanda a più tardi."
+    },
+    {
+      "VardId": "MSG_CHECK_MACHINE_BOX_ASK",
+      "Text": "<SPEED_IMME>Quale vuoi guidare?"
+    },
+    {
+      "VardId": "MSG_CHECK_MACHINE_BOX_SELECT_1",
+      "Text": "Triciclo a motore<m>"
+    },
+    {
+      "VardId": "MSG_CHECK_MACHINE_BOX_SELECT_2",
+      "Text": "Leone meccanico<m>"
+    },
+    {
+      "VardId": "MSG_CHECK_MACHINE_BOX_SELECT_3",
+      "Text": "Panda meccanico<m>"
+    },
+    {
+      "VardId": "MSG_CHECK_MACHINE_BOX_SELECT_4",
+      "Text": "Anatra meccanica<f'>"
+    },
+    {
+      "VardId": "MSG_CHECK_MACHINE_BOX_SELECT_5",
+      "Text": "Pinguino meccanico<m>"
+    },
+    {
+      "VardId": "MSG_CHECK_MACHINE_BOX_SELECT_NEXT",
+      "Text": "Avanti"
+    },
+    {
+      "VardId": "MSG_CHECK_MACHINE_BOX_SELECT_BACK",
+      "Text": "Indietro"
+    },
+    {
+      "VardId": "MSG_CHECK_MACHINE_BOX_SELECT_END",
+      "Text": "<CANCEL_SELECT>\nEsci"
+    },
+    {
+      "VardId": "MSG_MSG_CHECK_MACHINE_BOX_NOCAR",
+      "Text": "Non hai un veicolo."
+    },
+    {
+      "VardId": "MSG_CHECK_MACHINE_BOX_GOOUT",
+      "Text": "È già fuori."
+    },
+    {
+      "VardId": "MSG_CHECK_SIT_DOWN_NO",
+      "Text": "Non puoi sederti da questo lato."
+    },
+    {
+      "VardId": "MSG_CHECK_SIT_DOWN_NG",
+      "Text": "Non puoi sederti qui."
+    },
+    {
+      "VardId": "MES_CHECK_PET_FOOD_MACHINE_00",
+      "Text": "Porzioni di cibo disponibili: <BLUE><MOJI0></BLUE>."
+    },
+    {
+      "VardId": "MES_CHECK_PET_FOOD_MACHINE_01",
+      "Text": "È vuoto. Aggiungi del cibo nella <BLUE>cassapanca</BLUE>."
+    },
+    {
+      "VardId": "MES_CHECK_PET_FOOD_MACHINE_02",
+      "Text": "Non preoccuparti, c'è cibo in abbondanza. ♪"
+    },
+    {
+      "VardId": "MSG_CHECK_TOILET_ASK",
+      "Text": "<SPEED_IMME>Quale vuoi usare?"
+    },
+    {
+      "VardId": "MSG_CHECK_TOILET_SELECT_1",
+      "Text": "Fai il bagno"
+    },
+    {
+      "VardId": "MSG_CHECK_TOILET_SELECT_2",
+      "Text": "Usa la toilette"
+    },
+    {
+      "VardId": "MSG_CHECK_TOILET_SELECT_CANCEL",
+      "Text": "<CANCEL_SELECT>\nNon fare nulla"
+    },
+    {
+      "VardId": "MSG_CHECK_TOILET_COMMENT_BATH_1",
+      "Text": "Aaah, ci voleva proprio!\nFare il bagno è davvero rilassante."
+    },
+    {
+      "VardId": "MSG_CHECK_TOILET_COMMENT_TOILET_1",
+      "Text": "Ora va meglio! Cosa vuoi fare ora?"
+    },
+    {
+      "VardId": "MSG_CHECK_TOILET_COMMENT_BATH_2",
+      "Text": "Hai già fatto il bagno da poco, quindi stavolta\nè bastato mettere le punte dei piedi in acqua!"
+    },
+    {
+      "VardId": "MSG_CHECK_TOILET_COMMENT_TOILET_2",
+      "Text": "Hai appena usato il bagno.\nTorna quando ne hai bisogno."
+    },
+    {
+      "VardId": "MSG_CHECK_SPA_ASK",
+      "Text": "<SPEED_IMME>Vuoi entrare nella sorgente termale?"
+    },
+    {
+      "VardId": "MSG_CHECK_SPA_SELECT_1",
+      "Text": "Entra"
+    },
+    {
+      "VardId": "MSG_CHECK_SPA_SELECT_CANSEL",
+      "Text": "<CANCEL_SELECT>\nNon fare niente"
+    },
+    {
+      "VardId": "MSG_CHECK_SPA_COMMENT_1",
+      "Text": "Aaah, ci voleva proprio!\nLe sorgenti termali sono davvero rilassanti."
+    },
+    {
+      "VardId": "MSG_CHECK_SPA_COMMENT_2",
+      "Text": "Hai già fatto il bagno da poco, quindi stavolta\nè bastato mettere le punte dei piedi in acqua!"
+    },
+    {
+      "VardId": "MES_CHECK_ALARM_00",
+      "Text": "<SPEED_IMME>Quanto vuoi dormire?"
+    },
+    {
+      "VardId": "MES_CHECK_ALARM_01",
+      "Text": "Dormi per un'ora"
+    },
+    {
+      "VardId": "MES_CHECK_ALARM_02",
+      "Text": "Dormi per due ore"
+    },
+    {
+      "VardId": "MES_CHECK_ALARM_03",
+      "Text": "Dormi per tre ore"
+    },
+    {
+      "VardId": "MES_CHECK_ALARM_04",
+      "Text": "<CANCEL_SELECT>\nNon dormire"
+    },
+    {
+      "VardId": "MES_CHECK_ALARM_05",
+      "Text": "Si sta facendo tardi... se vuoi andare a dormire,\nti conviene farlo al più presto!"
+    },
+    {
+      "VardId": "MSG_CANNON_USE_CHOICE",
+      "Text": "<SPEED_IMME>Vuoi usare il <BLUE>cannone</BLUE> per volare?"
+    },
+    {
+      "VardId": "MSG_CANNON_USE_YES",
+      "Text": "Vola"
+    },
+    {
+      "VardId": "MSG_CANNON_USE_NO",
+      "Text": "<CANCEL_SELECT>\nNo"
+    },
+    {
+      "VardId": "MES_CHECK_FIRE_EXTINGUISHER_00",
+      "Text": "Guarda, sta funzionando a meraviglia!"
+    },
+    {
+      "VardId": "MES_CHECK_FIRE_EXTINGUISHER_01",
+      "Text": "Ehm... non ha funzionato molto bene."
+    },
+    {
+      "VardId": "MES_CHECK_FOOD_BOX_NG",
+      "Text": "Non si può mettere lì."
+    },
+    {
+      "VardId": "MES_CHECK_VASE",
+      "Text": "Un <BLUE>mazzo di fiori</BLUE> starebbe benissimo qui."
+    },
+    {
+      "VardId": "MSG_WRAPPING_SELECT",
+      "Text": "Cosa vuoi fare?"
+    },
+    {
+      "VardId": "MSG_WRAPPING_SELECT_00",
+      "Text": "Incarta"
+    },
+    {
+      "VardId": "MSG_WRAPPING_SELECT_01",
+      "Text": "Rimuovi l'incarto"
+    },
+    {
+      "VardId": "MSG_WRAPPING_SELECT_02",
+      "Text": "Crea un mazzo di fiori"
+    },
+    {
+      "VardId": "MSG_WRAPPING_SELECT_03",
+      "Text": "Crea un fiocco"
+    },
+    {
+      "VardId": "MSG_WRAPPING_SELECT_04",
+      "Text": "<CANCEL_SELECT>\nEsci"
+    },
+    {
+      "VardId": "MSG_FLOWER_ARRANGEMENT_BAG_FULL",
+      "Text": "Non hai spazio per un <BLUE>mazzo di fiori</BLUE> nello zaino\nal momento."
+    },
+    {
+      "VardId": "MES_GRAVE_BOUQUET_ASK",
+      "Text": "<SPEED_IMME>Vuoi offrire il tuo <BLUE>mazzo di fiori</BLUE>?"
+    },
+    {
+      "VardId": "MES_GRAVE_BOUQUET_YES",
+      "Text": "Sì"
+    },
+    {
+      "VardId": "MES_GRAVE_BOUQUET_NO",
+      "Text": "<CANCEL_SELECT>\nNo"
+    },
+    {
+      "VardId": "MSG_RIBBON_SELECT",
+      "Text": "<SPEED_IMME>Cosa vuoi fare?"
+    },
+    {
+      "VardId": "MSG_RIBBON_SELECT_00",
+      "Text": "Seleziona il materiale per il fiocco"
+    },
+    {
+      "VardId": "MSG_RIBBON_SELECT_01",
+      "Text": "Guarda i fiocchi rimasti"
+    },
+    {
+      "VardId": "MSG_RIBBON_SELECT_02",
+      "Text": "<CANCEL_SELECT>\nEsci"
+    },
+    {
+      "VardId": "MSG_WRAPPING_COMPLETE",
+      "Text": "Hai impacchettato:\n<BLUE><low><MOJI0></BLUE> x <BLUE><MOJI1></BLUE>!"
+    },
+    {
+      "VardId": "MES_FOOD_BOXINSERT_ASK",
+      "Text": "<SPEED_IMME>Vuoi posizionare il tuo cibo?"
+    },
+    {
+      "VardId": "MES_FOOD_BOX_INSERT_YES",
+      "Text": "Sì"
+    },
+    {
+      "VardId": "MES_FOOD_BOX_INSERT_NO",
+      "Text": "<CANCEL_SELECT>\nNo"
+    },
+    {
+      "VardId": "MES_HOUSE_RENAME_FINALANSWER",
+      "Text": "<SPEED_IMME>Hai scelto il nome \"<GREEN><MOJI0></GREEN>\". Va bene?"
+    },
+    {
+      "VardId": "MES_CHECK_RABBIT_FOOD_BOX_HELP",
+      "Text": "Mettilo nel <BLUE>mangime per conigli</BLUE>."
+    },
+    {
+      "VardId": "EV_CHECK_WAR_AREA_FANCE",
+      "Text": "Preparativi in corso. Non puoi passare."
+    },
+    {
+      "VardId": "MES_CHECK_IN_RIVER",
+      "Text": "Tuffati nel fiume"
+    },
+    {
+      "VardId": "MES_CHECK_IN_LAKE",
+      "Text": "Tuffati nel lago"
+    },
+    {
+      "VardId": "MES_CHECK_MYSHOP_EMPTY",
+      "Text": "Non ci sono merci in mostra."
+    },
+    {
+      "VardId": "MES_CHECK_MYSHOP_NO_INCOME",
+      "Text": "Non ci sono state vendite."
+    },
+    {
+      "VardId": "MES_CHECK_MYSHOP_GET_INCOME",
+      "Text": "Hai ottenuto un guadagno di <BLUE><MOJI0> G</BLUE>."
+    },
+    {
+      "VardId": "MES_CHECK_MYSHOP_GET_INCOME_QUESTION",
+      "Text": "<SPEED_IMME>C'è un guadagno di <BLUE><MOJI0> G</BLUE> in attesa.\nVuoi ritirarlo?"
+    },
+    {
+      "VardId": "MES_CHECK_MYSHOP_GET_INCOME_QUESTION_GET",
+      "Text": "Ritira"
+    },
+    {
+      "VardId": "MES_CHECK_MYSHOP_GET_INCOME_QUESTION_CANCEL",
+      "Text": "<CANCEL_SELECT>\nAspetta"
+    },
+    {
+      "VardId": "MES_CHECK_NOT_JUMP_VERANDA",
+      "Text": "È meglio rimandare per via del tempo."
+    }
+  ]
+}

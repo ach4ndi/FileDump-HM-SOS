@@ -1,0 +1,966 @@
+﻿{
+  "Date": "2016-06-10T19:21:59.3690923+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_LEFT><FACE_LOSS>\n<cap><MYNAME>, tu es vraiment pâle. Tout va bien ?\n<PAGE>\n<WINDOW_QUESTION_L><FACE_ANGRY>Quoi ? Le bébé arrive ?! Il faut vite qu'on aille\nà la clinique !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_POORFARMER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nC'est bien. Continue comme ça, mon chou.\nOn y est presque.\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_NORMAL>Le bébé y met du sien aussi. Tu y es presque."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_POORFARMER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_ANGRY>\nJe suis désolée, donne-nous un peu de temps.\nL'accouchement est toujours en cours."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_POORFARMER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nFélicitations. Les bébés sont arrivés et sont tous\nles deux en parfaite santé.\n<PAGE>\n<FACE_MARIAN><POS_LEFT><FACE_LAUGH>Voyez donc ça, des jumeaux ! Un garçon et une\nfille ; ils sont tous les deux à croquer.\n<PAGE>\nBien. Angela, mon petit chou, veux-tu bien faire\nentrer Fritz ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_POORFARMER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nComme tu as entendu, tu es le père de jumeaux,\nun garçon et une fille. Ils sont en parfaite santé.\n<PAGE>\nSi tu veux bien me suivre."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_POORFARMER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nFélicitations, mon chou ! Ça n'a pas dû être\nfacile pour une première grossesse, mais tu t'en\nes très bien sortie !\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_LAUGH>Bravo <MYNAME>. Tu as fait preuve d'un sacré\ncourage, c'était très honorable, surtout pour une\npremière fois."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\nOuah, je pensais pas avoir des jumeaux ! Ça a\npas dû être évident pour toi, <MYNAME> !\nMerci de leur avoir donné la vie !\n<PAGE>\nMaintenant, il nous reste plus qu'à faire de notre\nmieux pour bien les élever."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOVE>\n<WINDOW_HEART1_R>Hé hé ! Regarde, ils ont des mains minuscules.\nIls sont tellement mignons ! Je savais que nos\nenfants seraient les meilleurs.♪"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_POORFARMER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nEst-ce que vous avez choisi des prénoms pour\nces petites merveilles ?\n<PAGE>\n<FACE_LAUGH>Ils n'en n'auront qu'un tout au long de leur vie,\nalors mettez-vous d'accord, mes choux."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\nHmm, bonne question... Choisissons celui pour\nnotre fils pour commencer.\n<PAGE>\n<FACE_LAUGH>Il faut qu'on lui trouve un prénom super cool !\nEst-ce que tu as une idée, <MYNAME> ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\nAlors, tu veux appeler notre fils <CHILD_NAME_M> ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_POORFARMER",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_POORFARMER",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\n<cap><CHILD_NAME_M>, alors ? D'accord ! Ça sonne bien !\n<PAGE>\n<FACE_NORMAL>Et maintenant, au tour de notre fille !\nIl faut qu'on lui trouve un prénom tout mignon."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\nAlors, tu veux appeler notre fille <CHILD_NAME_W> ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_POORFARMER",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_POORFARMER",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\n<cap><CHILD_NAME_W>, alors ? Ouais, c'est parfait !\nT'es vraiment douée pour trouver des prénoms,\n<MYNAME>.♪\n<PAGE>\n<WINDOW_HEART2_R><FACE_LOVE>Eh bien, <CHILD_NAME_M> et <CHILD_NAME_W>, bienvenue\ndans notre belle et grande famille !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_POORFARMER",
+      "Text": "À partir de maintenant, Fritz et moi allons devoir\nélever <CHILD_NAME_M> et <CHILD_NAME_W> de notre\nmieux. On peut le faire !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\nAllez, il faut lui trouver un beau prénom."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_LEFT><FACE_SAD>\n<cap><MYNAME>, je ne sais pas si c'est à cause de la\nluminosité, mais tu m'as l'air drôlement pâle...\n<PAGE>\n<WINDOW_QUESTION_L><FACE_LOSS>Quoi ?? Le bébé arrive ?!\n<PAGE>\n<WINDOW_DEFAULT><FACE_NORMAL>Très bien, surtout ne t'inquiètes pas. Je suis là\navec toi. Viens, nous devons aller à la clinique\nau plus vite."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_PERFUMER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nC'est bien. Continue comme ça, mon chou.\nOn y est presque.\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_NORMAL>Le bébé y met du sien aussi. Tu y es presque."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_PERFUMER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_ANGRY>\nJe suis désolée, donne-nous un peu de temps.\nL'accouchement est toujours en cours."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_PERFUMER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nFélicitations. Les bébés sont arrivés et sont tous\nles deux en parfaite santé.\n<PAGE>\n<FACE_MARIAN><POS_LEFT><FACE_LAUGH>Voyez donc ça, des jumeaux ! Un garçon et une\nfille ; ils sont tous les deux à croquer.\n<PAGE>\nBien. Angela, mon petit chou, veux-tu bien faire\nentrer Klaus ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_PERFUMER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nComme tu as entendu, tu es le père de jumeaux,\nun garçon et une fille. Ils sont en parfaite santé.\n<PAGE>\nSi tu veux bien me suivre."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_PERFUMER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nFélicitations, mon chou ! Ça n'a pas dû être\nfacile pour une première grossesse, mais tu t'en\nes très bien sortie !\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_LAUGH>Bravo <MYNAME>. Tu as fait preuve d'un sacré\ncourage, c'était très honorable, surtout pour une\npremière fois."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_LAUGH>\nDes jumeaux ? Eh bien, je ne m'y attendais pas !\nLes mettre au monde n'a pas dû être évident...\nFélicitations, <MYNAME> !\n<PAGE>\nMerci de leur avoir donné la vie. À partir de\nmaintenant, faisons tout ce que nous pouvons\npour en faire des personnes remarquables !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_LAUGH>\nIls sont adorables ! Notre fille a tes yeux. Je suis\nsûr qu'elle deviendra une jeune fille magnifique."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_PERFUMER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nEst-ce que vous avez choisi des prénoms pour\nces petites merveilles ?\n<PAGE>\n<FACE_LAUGH>Ils n'en n'auront qu'un tout au long de leur vie,\nalors mettez-vous d'accord, mes choux."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\nC'est vrai. Nos enfants garderont leur prénom\ntoute leur vie, il va donc falloir qu'on y\nréfléchisse attentivement.\n<PAGE>\nCommençons par choisir celui de notre fils.\nEst-ce que tu as une idée, <MYNAME> ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\nVeux-tu appeler notre fils, <CHILD_NAME_M> ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_PERFUMER",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_PERFUMER",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_LAUGH>\n<cap><CHILD_NAME_M> ? Oui, c'est très joli ! Et maintenant,\npassons à notre fille. As-tu une préférence ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\nVeux-tu appeler notre fille, <CHILD_NAME_W> ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_PERFUMER",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_PERFUMER",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\n<cap><CHILD_NAME_W> ? Pas mal. Pas mal du tout !\n<PAGE>\n<WINDOW_PALPITATION_R><FACE_LAUGH>Donc, ça sera <CHILD_NAME_M>, <CHILD_NAME_W>, toi et\nmoi. Il va falloir faire de notre mieux pour que\nnotre famille de quatre soit dès plus heureuse !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_PERFUMER",
+      "Text": "À partir de maintenant, Klaus et moi allons\ndevoir élever <CHILD_NAME_M> et <CHILD_NAME_W> de\nnotre mieux. On peut le faire !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\nIl faut que tu choisisses un vrai prénom. Nous\nne pouvons décemment pas appeler nos enfants\n\"Toi, là\"."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_CHEF",
+      "Text": "<FACE_REGER><POS_LEFT><FACE_NORMAL>\nOuah, <MYNAME>, tu es blanche comme un\nlinge. Est-ce que tout va bien ?\n<PAGE>\n<WINDOW_QUESTION_L><FACE_ANGRY>Qu-quoi ? Le bébé arrive ?!\n<PAGE>\n<WINDOW_DEFAULT><FACE_LOSS>Nom de nom, il faut t'emmener à la clinique !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_CHEF",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nC'est bien. Continue comme ça, mon chou.\nOn y est presque.\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_NORMAL>Le bébé y met du sien aussi. Tu y es presque."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_CHEF",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_ANGRY>\nJe suis désolée, donne-nous un peu de temps.\nL'accouchement est toujours en cours."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_CHEF",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nFélicitations. Les bébés sont arrivés et sont tous\nles deux en parfaite santé.\n<PAGE>\n<FACE_MARIAN><POS_LEFT><FACE_LAUGH>Voyez donc ça, des jumeaux ! Un garçon et une\nfille ; ils sont tous les deux à croquer.\n<PAGE>\nBien. Angela, mon petit chou, veux-tu bien faire\nentrer Raeger ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_CHEF",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nComme tu as entendu, tu es le père de jumeaux,\nun garçon et une fille. Ils sont en parfaite santé.\n<PAGE>\nSi tu veux bien me suivre."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_CHEF",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nFélicitations, mon chou ! Ça n'a pas dû être\nfacile pour une première grossesse, mais tu t'en\nes très bien sortie !\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_LAUGH>Bravo <MYNAME>. Tu as fait preuve d'un sacré\ncourage, c'était très honorable, surtout pour une\npremière fois."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_LAUGH>\nOuah, deux pour le prix d'un ! Je sais que ça n'a\npas dû être facile pour toi, alors merci de les\navoir mis au monde.\n<PAGE>\nFaisons tout ce qui est en notre pouvoir pour\nélever dignement nos enfants."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_LAUGH>\nIls sont magnifiques. Est-ce que tous les bébés\nsont aussi beaux ? Non, c'est juste impossible.\nRegarde-moi, à peine nés et j'en suis déjà gaga !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CHEF",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nEst-ce que vous avez choisi des prénoms pour\nces petites merveilles ?\n<PAGE>\n<FACE_LAUGH>Ils n'en n'auront qu'un tout au long de leur vie,\nalors mettez-vous d'accord, mes choux."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_NORMAL>\nBon, commençons par trouver un prénom à\nnotre fils. À toi l'honneur, <MYNAME> !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_NORMAL>\nTu veux appeler notre fils <CHILD_NAME_M>, alors ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_CHEF",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_CHEF",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_LAUGH>\n<cap><CHILD_NAME_M> ? Oui, ça me plaît beaucoup aussi.\nEt pour notre petite fille, maintenant ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_NORMAL>\n<CHILD_NAME_W> te plaît pour notre fille ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_CHEF",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_CHEF",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_NORMAL>\n<cap><CHILD_NAME_W> ? Ça lui va comme un gant ! C'est\nparfait !\n<PAGE>\n<WINDOW_HEART2_R><FACE_LAUGH>Très bien, <CHILD_NAME_M> et <CHILD_NAME_W> font\ndésormais partis de notre belle et heureuse petite\nfamille."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_CHEF",
+      "Text": "À partir de maintenant, Raeger et moi allons\ndevoir élever <CHILD_NAME_M> et <CHILD_NAME_W> de\nnotre mieux. On peut le faire !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_NORMAL>\nAllons ! On parle de nos enfants. On ne va pas\nles appeler \"truc\" et \"bidule\" quand même."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_LEFT><FACE_NORMAL>\n<cap><MYNAME>, tu as une toute petite mine. Est-ce\nque tu te sens bien ?\n<PAGE>\n<WINDOW_QUESTION_L><FACE_SAD>Quoi ? Le bébé est en route ?\n<PAGE>\n<WINDOW_DEFAULT><FACE_NORMAL>J-Je vois. Ne t'en fais pas... Je suis là ! Tout va\nbien se passer. Il faut vite aller à la clinique !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_ANTIQUE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nC'est bien. Continue comme ça, mon chou.\nOn y est presque.\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_NORMAL>Le bébé y met du sien aussi. Tu y es presque."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_ANTIQUE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_ANGRY>\nJe suis désolée, donne-nous un peu de temps.\nL'accouchement est toujours en cours."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_ANTIQUE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nFélicitations. Les bébés sont arrivés et sont tous\nles deux en parfaite santé.\n<PAGE>\n<FACE_MARIAN><POS_LEFT><FACE_LAUGH>Voyez donc ça, des jumeaux ! Un garçon et une\nfille ; ils sont tous les deux à croquer.\n<PAGE>\nBien. Angela, mon petit chou, veux-tu bien faire\nentrer Mistel ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_ANTIQUE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nComme tu as entendu, tu es le père de jumeaux,\nun garçon et une fille. Ils sont en parfaite santé.\n<PAGE>\nSi tu veux bien me suivre."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_ANTIQUE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nFélicitations, mon chou ! Ça n'a pas dû être\nfacile pour une première grossesse, mais tu t'en\nes très bien sortie !\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_LAUGH>Bravo <MYNAME>. Tu as fait preuve d'un sacré\ncourage, c'était très honorable, surtout pour une\npremière fois."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_LAUGH>\nIncroyable... Je n'étais pas sûr du résultat, mais\nje ne m'attendais absolument pas à des jumeaux.\n<PAGE>\nTu dois être épuisée après ce que ton corps a dû\nsubir durant tout ce temps !\n<PAGE>\nMais en tout cas, merci infiniment d'avoir mis au\nmonde nos deux magnifiques enfants !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_LAUGH>\nRegarde comme ils sont mignons... Notre fille a\nle même sourire que toi. Elle va en faire tourner\ndes têtes, un jour !\n<PAGE>\nEt notre fils... Je serais drôlement fier s'il finissait\npar me ressembler en grandissant."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_ANTIQUE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nEst-ce que vous avez choisi des prénoms pour\nces petites merveilles ?\n<PAGE>\n<FACE_LAUGH>Ils n'en n'auront qu'un tout au long de leur vie,\nalors mettez-vous d'accord, mes choux."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_NORMAL>\nTrès juste. Est-ce que tu as une idée de prénom\nen tête, <MYNAME> ? Commençons par celui\nde notre fils."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_NORMAL>\nTu veux appeler notre fils <CHILD_NAME_M>, c'est ça ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_ANTIQUE",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_ANTIQUE",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_LAUGH>\n<cap><CHILD_NAME_M> ? C'est un très joli prénom ! J'espère\nqu'il l'aimera aussi.\n<PAGE>\nEt maintenant, pour notre fille ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_NORMAL>\nBien, notre fille s'appellera <CHILD_NAME_W>, alors ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_ANTIQUE",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_ANTIQUE",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_LAUGH>\n<cap><CHILD_NAME_W> ? Ça sonne très bien !\n<PAGE>\n<WINDOW_HEART2_R><FACE_NORMAL>Notre famille a doublé de volume ! Faisons en\nsorte que <CHILD_NAME_M> et <CHILD_NAME_W> aient de\nmerveilleuses vies !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_ANTIQUE",
+      "Text": "À partir de maintenant, Mistel et moi allons\ndevoir élever <CHILD_NAME_M> et <CHILD_NAME_W> de\nnotre mieux. On peut le faire !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_NORMAL>\nJ'ai bien peur qu'on ne puisse aller nulle part\nsans donner de vrais prénoms à nos enfants."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_GARDENER",
+      "Text": "<FACE_NADI><POS_LEFT><FACE_LOSS>\nEuh, <MYNAME> ? Tu es vraiment pâle.\n<PAGE>\n<WINDOW_QUESTION_L><FACE_SAD>\nQuoi ? Le bébé arrive ? A-Attends, déjà ?!\n<PAGE>\n<WINDOW_DEFAULT><FACE_LOSS>Bon d'accord, peut-être que c'est le moment,\nmais... bref, oublie donc ça ! Il faut que nous\nt'emmenions à la clinique !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_GARDENER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nC'est bien. Continue comme ça, mon chou.\nOn y est presque.\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_NORMAL>Le bébé y met du sien aussi. Tu y es presque."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_GARDENER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_ANGRY>\nJe suis désolée, donne-nous un peu de temps.\nL'accouchement est toujours en cours."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_GARDENER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nFélicitations. Les bébés sont arrivés et sont tous\nles deux en parfaite santé.\n<PAGE>\n<FACE_MARIAN><POS_LEFT><FACE_LAUGH>Voyez donc ça, des jumeaux ! Un garçon et une\nfille ; ils sont tous les deux à croquer.\n<PAGE>\nBien. Angela, mon petit chou, veux-tu bien faire\nentrer Nadi ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_GARDENER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nComme tu as entendu, tu es le père de jumeaux,\nun garçon et une fille. Ils sont en parfaite santé.\n<PAGE>\nSi tu veux bien me suivre."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_GARDENER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nFélicitations, mon chou ! Ça n'a pas dû être\nfacile pour une première grossesse, mais tu t'en\nes très bien sortie !\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_LAUGH>Bravo <MYNAME>. Tu as fait preuve d'un sacré\ncourage, c'était très honorable, surtout pour une\npremière fois."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_LAUGH>\nOuah, des jumeaux. Je l'ai pas vu venir celle-là.\n<PAGE>\nÇa a pas dû être facile de les balader partout et\nde manger pour trois. Mais, merci de les avoir\nmis au monde quand même !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_LAUGH>\nIls sont si petits. C'est dur de se dire qu'à une\népoque, on était aussi petit qu'eux, nous aussi.\n<PAGE>\n<FACE_LOVE>Ils sont adorables..."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GARDENER",
+      "Text": "<FACE_MARIAN><POS_RIGHT><FACE_NORMAL>\nEst-ce que vous avez choisi des prénoms pour\nces petites merveilles ?\n<PAGE>\n<FACE_LAUGH>Ils n'en n'auront qu'un tout au long de leur vie,\nalors mettez-vous d'accord, mes choux."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_NORMAL>\nGénial. Maintenant, j'ai trop de pression. J'ai\ntellement de choses en tête que j'ai l'impression\nqu'elle va bientôt exploser.\n<PAGE>\nQu'en dis-tu, <MYNAME> ? Tu as des idées ?\nOn va commencer par le prénom de notre fils."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_NORMAL>\nTu veux appeler notre fils, <CHILD_NAME_M> ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_GARDENER",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_GARDENER",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_LAUGH>\n<cap><CHILD_NAME_M> ? Oui, ça me plaît aussi.\n<PAGE>\n<FACE_NORMAL>Mais il nous reste encore à trouver le prénom de\nnotre fille !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_NORMAL>\nNotre fille s'appellera <CHILD_NAME_W>, ça te va ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_GARDENER",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_GARDENER",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_LAUGH>\n<cap><CHILD_NAME_W> ? J'aime bien. C'est dans la poche !\n<PAGE>\n<WINDOW_PALPITATION_R><CHILD_NAME_M> et <CHILD_NAME_W>, du coup. Faisons ce\nqu'il faut pour que notre famille soit heureuse !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_GARDENER",
+      "Text": "À partir de maintenant, Nadi et moi allons\ndevoir élever <CHILD_NAME_M> et <CHILD_NAME_W> de\nnotre mieux. On peut le faire !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_NORMAL>\nMême tes animaux ont de plus jolis prénoms.\nChoisis-en des mieux pour nos enfants."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_LEFT><FACE_LOSS>\nTu m'as l'air pâle, <MYNAME>. Tout va bien ?\n<PAGE>\n<WINDOW_QUESTION_L><FACE_ANGRY>Attends, quoi ? Le bébé arrive ? Oh oh, il faut\nt'emmener à la clinique immédiatement !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_KAMIRU",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nC'est bien. Continue comme ça, mon chou.\nOn y est presque.\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_NORMAL>Le bébé y met du sien aussi. Tu y es presque."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_KAMIRU",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_ANGRY>\nJe suis désolée, donne-nous un peu de temps.\nL'accouchement est toujours en cours."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_KAMIRU",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nFélicitations. Les bébés sont arrivés et sont tous\nles deux en parfaite santé.\n<PAGE>\n<FACE_MARIAN><POS_LEFT><FACE_LAUGH>Voyez donc ça, des jumeaux ! Un garçon et une\nfille ; ils sont tous les deux à croquer.\n<PAGE>\nBien. Angela, mon petit chou, veux-tu bien faire\nentrer Kamil ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_KAMIRU",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nComme tu as entendu, tu es le père de jumeaux,\nun garçon et une fille. Ils sont en parfaite santé.\n<PAGE>\nSi tu veux bien me suivre."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_KAMIRU",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nFélicitations, mon chou ! Ça n'a pas dû être\n facile pour une première grossesse, mais tu t'en\nes très bien sortie !\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_LAUGH>Bravo <MYNAME>. Tu as fait preuve d'un sacré\ncourage, c'était très honorable, surtout pour une\npremière fois."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_LAUGH>\nOuah, des jumeaux. Tu as dû travailler deux fois\nplus dur, <MYNAME>. Tu dois être lessivée !\n<PAGE>\nÇa a dû être un sacré boulot, mais merci de les\navoir mis au monde. Ça en vaudra la peine, tu\nverras. Je te le jure."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_LAUGH>\nHé hé, ils sont si mignons. Regarde, ils arrivent à\npeine à tenir mon index avec leurs petites mains.\n<PAGE>\nHey, les petits gars. Bienvenue par ici !\n<PAGE>\nVotre maman et votre papa ont attendu un sacré\nmoment avant de vous rencontrer."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_KAMIRU",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nEst-ce que vous avez choisi des prénoms pour\nces petites merveilles ?\n<PAGE>\n<FACE_LAUGH>Ils n'en n'auront qu'un tout au long de leur vie,\nalors mettez-vous d'accord, mes choux."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_NORMAL>\nDes prénoms ? C'est une bonne question, ça.\nCommençons par notre adorable petit garçon.\n<PAGE>\nEst-ce que tu as une petite idée, <MYNAME> ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_NORMAL>\nAlors, <CHILD_NAME_M> te plaît ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_KAMIRU",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_KAMIRU",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_LAUGH>\n<cap><CHILD_NAME_M>, alors ? Je trouve que c'est un beau\nprénom. Il sera fier de le porter... Quand il sera\nsuffisamment âgé pour le dire, bien sûr.\n<PAGE>\n<FACE_NORMAL>Très bien, une bonne chose de faite. Maintenant,\ncomment allons-nous appeler notre petite fille ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_NORMAL>\nTu trouves que <CHILD_NAME_W> est un joli prénom ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_KAMIRU",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_KAMIRU",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_LAUGH>\n<cap><CHILD_NAME_W> ? Oui, ça lui va à ravir, c'est vrai !\n<PAGE>\n<WINDOW_HEART2_R>Alors, <CHILD_NAME_M>, <CHILD_NAME_W>, et nous deux.\nQuelle belle famille nous formons déjà !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_KAMIRU",
+      "Text": "À partir de maintenant, Kamil et moi allons\ndevoir élever <CHILD_NAME_M> et <CHILD_NAME_W> de\nnotre mieux. On peut le faire !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_NORMAL>\nOuah, minute papillon ! Si tu ne trouves pas de\nprénoms à nos enfants, je ne sais pas comment\nje m'adresserai à eux quand j'en aurai besoin."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_LEFT><FACE_SAD>\nO-Oh mon... J'ai de vives douleurs au ventre tout\nà coup... E-Est-ce que ça serait déjà le bébé ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_RICHGIRL",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nC'est bien. Continue comme ça, mon chou.\nOn y est presque.\n<PAGE>\n<FACE_ELISE><POS_LEFT><FACE_SAD>Aïe, ça fait mal ! J-Je ne peux pas pousser plus !\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_NORMAL>Tu peux le faire ! Le bébé y met du sien aussi.\nTu y es presque."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_RICHGIRL",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_ANGRY>\nJe suis désolée, donne-nous un peu de temps.\nL'accouchement est toujours en cours."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_RICHGIRL",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nFélicitations. Les bébés sont arrivés et sont tous\nles deux en parfaite santé.\n<PAGE>\n<FACE_MARIAN><POS_LEFT><FACE_LAUGH>Voyez donc ça, des jumeaux ! Un garçon et une\nfille ; ils sont tous les deux à croquer.\n<PAGE>\nBien. Angela, mon petit chou, veux-tu bien faire\nentrer <MYNAME> ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_RICHGIRL",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nComme tu as entendu, tu es le père de jumeaux,\nun garçon et une fille. Ils sont en parfaite santé.\n<PAGE>\nSi tu veux bien me suivre."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_RICHGIRL",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nFélicitations, mon chou ! Ça n'a pas dû être\nfacile pour une première grossesse, mais tu t'en\nes très bien sortie, Elise !\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_LAUGH>Oui, bravo ! Tu as fait preuve de beaucoup de\ncourage, c'était très honorable, surtout pour une\npremière fois."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nMerci. La douleur était atroce, j'ai bien cru que\nj'allais m'évanouir...\n<PAGE>\n<FACE_LOVE>Mais je ne pourrais être plus heureuse. Je ne\npensais pas avoir des jumeaux, mais je ne peux\ndéjà plus m'imaginer vivre sans l'un d'eux."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nHo ho ho... Tu m'as l'air content, <MYNAME>.\nIl va falloir s'assurer que nos petits aient tout\nl'amour et l'attention qu'ils méritent !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_RICHGIRL",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nEst-ce que vous avez choisi des prénoms pour\nces petites merveilles ?\n<PAGE>\n<FACE_LAUGH>Ils n'en n'auront qu'un tout au long de leur vie,\nalors mettez-vous d'accord, mes choux."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nTrès juste. Il faut leur trouver des prénoms à la\nfois nobles et princiers pour aller avec leur rang !\nJe suis sûre que tu as des idées, <MYNAME> ?\n<PAGE>\nCommençons par notre petit prince."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nAh, alors tu as choisi <CHILD_NAME_M> comme\nprénom pour notre fils ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_RICHGIRL",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_RICHGIRL",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\n<cap><CHILD_NAME_M> ? Oui, ça sonne bien. C'est un très\nbon choix, surtout venant de toi !\n<PAGE>\n<FACE_NORMAL>Bien, et pour notre petite princesse maintenant ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nHmm. Tu trouves que <CHILD_NAME_W> sonne bien ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_RICHGIRL",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_RICHGIRL",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\n<cap><CHILD_NAME_W> ? Je suis totalement d'accord. C'est\nun choix parfait pour elle.\n<PAGE>\n<WINDOW_HEART2_R>Bienvenue <CHILD_NAME_M> et <CHILD_NAME_W> ! À partir\nde maintenant, nous n'allons vous offrir que le\nmeilleur de ce que la vie a à apporter."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_RICHGIRL",
+      "Text": "À partir de maintenant, Elise et moi allons\ndevoir élever <CHILD_NAME_M> et <CHILD_NAME_W> de\nnotre mieux. On peut le faire !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nQuoi ?! Tu dois bien avoir des prénoms mieux\nque ça en réserve, non ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_WRITER",
+      "Text": "<FACE_IRIS><POS_LEFT><FACE_SAD>\nOh non. Je viens d'avoir de fortes contractions !\nJ-Je crois bien que le bébé est en route..."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_WRITER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nC'est bien. Continue comme ça, mon chou.\nOn y est presque.\n<PAGE>\n<FACE_IRIS><POS_LEFT><FACE_SAD>N... nnnngh... !\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_NORMAL>Tu peux le faire ! Le bébé y met du sien aussi.\nTu y es presque."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_WRITER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_ANGRY>\nJe suis désolée, donne-nous un peu de temps.\nL'accouchement est toujours en cours."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_WRITER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nFélicitations. Les bébés sont arrivés et sont tous\nles deux en parfaite santé.\n<PAGE>\n<FACE_MARIAN><POS_LEFT><FACE_LAUGH>Voyez donc ça, des jumeaux ! Un garçon et une\nfille ; ils sont tous les deux à croquer.\n<PAGE>\nBien. Angela, mon petit chou, veux-tu bien faire\nentrer <MYNAME> ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_WRITER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nComme tu as entendu, tu es le père de jumeaux,\nun garçon et une fille. Ils sont en parfaite santé.\n<PAGE>\nSi tu veux bien me suivre."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_WRITER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nFélicitations, mon chou ! Ça n'a pas dû être\nfacile pour une première grossesse, mais tu t'en\nes très bien sortie, Iris !\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_LAUGH>Oui, bravo ! Tu as fait preuve de beaucoup de\ncourage, c'était très honorable, surtout pour une\npremière fois."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\nMerci. Je n'avais aucune idée que ça serait des\njumeaux, ça a été une sacrée épreuve...\n<PAGE>\n<FACE_LAUGH>Mais maintenant qu'ils sont tous les deux là,\nje ne saurais être plus heureuse."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_LAUGH>\nRegarde-toi, <MYNAME>, tu as l'air aux anges !\nIl va falloir élever ces deux petits bouts avec\ntout l'amour que nous avons."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_WRITER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nEst-ce que vous avez choisi des prénoms pour\nces petites merveilles ?\n<PAGE>\n<FACE_LAUGH>Ils n'en n'auront qu'un tout au long de leur vie,\nalors mettez-vous d'accord, mes choux."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\nC'est vrai. Beaucoup de choses sont éphémères,\nmais un prénom se garde à vie. Il faudra y\nsonger avec attention.\n<PAGE>\nTout d'abord, penchons-nous sur notre fils.\nEst-ce que tu as une petite idée, <MYNAME> ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\nAh, donc tu penses que <CHILD_NAME_M> ferait un\nbon prénom pour notre fils ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_WRITER",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_WRITER",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_LAUGH>\n<cap><CHILD_NAME_M> ? C'est un très joli prénom. Ça sera\nparfait pour notre petit héros !\n<PAGE>\n<FACE_NORMAL>J'espère que tu as une seconde idée de génie,\nparce qu'il faut penser au prénom de notre fille."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\nAh, tu aimes la consonance de <CHILD_NAME_W> ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_WRITER",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_WRITER",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_LAUGH>\n<cap><CHILD_NAME_W> ? C'est un choix merveilleux pour\nnotre petite héroïne.\n<PAGE>\nJe suis sûre qu'en grandissant, ils apprécieront\nl'effort que tu as mis à choisir leurs prénoms.\n<PAGE>\n<WINDOW_HEART2_R>Avec l'arrivée de <CHILD_NAME_M> et <CHILD_NAME_W>,\nnous voilà au complet ! Nous allons fonder une\nbien belle famille tous ensemble."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_WRITER",
+      "Text": "À partir de maintenant, Iris et moi allons\ndevoir élever <CHILD_NAME_M> et <CHILD_NAME_W> de\nnotre mieux. On peut le faire !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\nOh, voyons ! Qu'as-tu fait de ton esprit créatif ?\nJe suis sûre que tu peux faire mieux."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_LEFT><FACE_SAD>\nAaah ! Ouilleouilleouille, mon ventre... ! Oh non !\nJ-Je crois que le bébé est en route !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_WEATHERGIRL",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nC'est bien. Continue comme ça, mon chou.\nOn y est presque.\n<PAGE>\n<FACE_LILIE><POS_LEFT><FACE_SAD>Nnnnnnnnngh... ! *souffle* *souffle*\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_NORMAL>Tu peux le faire ! Le bébé y met du sien aussi.\nTu y es presque."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_WEATHERGIRL",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_ANGRY>\nJe suis désolée, donne-nous un peu de temps.\nL'accouchement est toujours en cours."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_WEATHERGIRL",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nFélicitations. Les bébés sont arrivés et sont tous\nles deux en parfaite santé.\n<PAGE>\n<FACE_MARIAN><POS_LEFT><FACE_LAUGH>Voyez donc ça, des jumeaux ! Un garçon et une\nfille ; ils sont tous les deux à croquer.\n<PAGE>\nBien. Angela, mon petit chou, veux-tu bien faire\nentrer <MYNAME> ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_WEATHERGIRL",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nComme tu as entendu, tu es le père de jumeaux,\nun garçon et une fille. Ils sont en parfaite santé.\n<PAGE>\nSi tu veux bien me suivre."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_WEATHERGIRL",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nFélicitations, mon chou ! Ça n'a pas dû être\nfacile pour une première grossesse, mais tu t'en\nes très bien sortie, Lillie !\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_LAUGH>Oui, bravo ! Tu as fait preuve de beaucoup de\ncourage, c'était très honorable, surtout pour une\npremière fois."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_NORMAL>\nMerci. J'avais tellement mal que je ne savais pas\ncombien de temps j'allais pouvoir continuer,\nmais je suis très contente d'y être arrivée.\n<PAGE>\n<FACE_LAUGH>Je suis tellement heureuse d'accueillir nos petits\nrayons de soleil sur cette terre !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_LAUGH>\nEt regarde-toi, tu m'as l'air d'être plutôt fier aussi,\n<MYNAME> ! Il faudra travailler dur pour que nos\nenfants deviennent des adultes responsables."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_WEATHERGIRL",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nEst-ce que vous avez choisi des prénoms pour\nces petites merveilles ?\n<PAGE>\n<FACE_LAUGH>Ils n'en n'auront qu'un tout au long de leur vie,\nalors mettez-vous d'accord, mes choux."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_NORMAL>\nHmm... C'est une bonne question. Comment\nallons-nous les appeler ?\n<PAGE>\nJ'ai envie de commencer par notre fils. Tu as\nune idée en tête, <MYNAME> ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_NORMAL>\nHmm... Tu as donc choisis <CHILD_NAME_M> pour\nnotre fils, c'est bien ça ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_WEATHERGIRL",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_WEATHERGIRL",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_LAUGH>\nVa pour <CHILD_NAME_M> ! Notre fils méritait d'avoir\nun prénom aussi cool que celui-là !\n<PAGE>\n<FACE_NORMAL>Et pour notre fille alors ? Qu'est-ce que ça sera ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_NORMAL>\nTu aimes <CHILD_NAME_W> pour notre fille ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_WEATHERGIRL",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_WEATHERGIRL",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_LAUGH>\n<cap><CHILD_NAME_W> ? Hmm... Oui, ça accroche bien !\nJe suis sûre qu'elle adorera !\n<PAGE>\n<WINDOW_HEART2_R>Super, <CHILD_NAME_M> et <CHILD_NAME_W> sont enfin là !\nIl n'y a plus qu'à rendre notre famille aussi belle,\nheureuse et parfaite que possible !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_WEATHERGIRL",
+      "Text": "À partir de maintenant, Lillie et moi allons\ndevoir élever <CHILD_NAME_M> et <CHILD_NAME_W> de\nnotre mieux. On peut le faire !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_NORMAL>\nAllez, tu es pourtant si brillant d'habitude. Je sais\nque tu peux trouver bien mieux que ça."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_RANGER",
+      "Text": "<FACE_MENOU><POS_LEFT><FACE_SAD>\nOuille... J'ai mal au ventre !\n<PAGE>\nEuh, <MYNAME>, je vais avoir besoin de toi. Je\ncrois que le bébé a besoin de sortir... !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_RANGER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nC'est bien. Continue comme ça, mon chou.\nOn y est presque.\n<PAGE>\n<FACE_MENOU><POS_LEFT><FACE_SAD>Arg... Arrrgg ! Aïe aïe aïe !\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_NORMAL>Tu peux le faire ! Le bébé y met du sien aussi.\nTu y es presque."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_RANGER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_ANGRY>\nJe suis désolée, donne-nous un peu de temps.\nL'accouchement est toujours en cours."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_RANGER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nFélicitations. Les bébés sont arrivés et sont tous\nles deux en parfaite santé.\n<PAGE>\n<FACE_MARIAN><POS_LEFT><FACE_LAUGH>Voyez donc ça, des jumeaux ! Un garçon et une\nfille ; ils sont tous les deux à croquer.\n<PAGE>\nBien. Angela, mon petit chou, veux-tu bien faire\nentrer <MYNAME> ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_RANGER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nComme tu as entendu, tu es le père de jumeaux,\nun garçon et une fille. Ils sont en parfaite santé.\n<PAGE>\nSi tu veux bien me suivre."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_RANGER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nFélicitations, mon chou ! Ça n'a pas dû être\nfacile pour une première grossesse, mais tu t'en\nes très bien sortie, Agate !\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_LAUGH>Oui, bravo ! Tu as fait preuve de beaucoup de\ncourage, c'était très honorable, surtout pour une\npremière fois."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_NORMAL>\nMerci !\n<PAGE>\nMon ventre était tellement gonflé que j'avais peur\nqu'il ne s'envole ! Mais ils sont là maintenant,\nnos bébés, et en pleine forme qui plus est !\n<PAGE>\n<FACE_LOVE>Et deux bébés en plus ! Un garçon et une fille, je\nsuis deux fois plus heureuse avec cette\nmerveilleuse surprise !♪"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_LAUGH>\nHé hé ! <cap><MYNAME>, tu as l'air heureux aussi !\n<PAGE>\nFaisons en sorte de déjouer toutes les épreuves\nque la vie pourrait mettre sur notre chemin, et\nélevons nos bébés avec tout l'amour du monde !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_RANGER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nEst-ce que vous avez choisi des prénoms pour\nces petites merveilles ?\n<PAGE>\n<FACE_LAUGH>Ils n'en n'auront qu'un tout au long de leur vie,\nalors mettez-vous d'accord, mes choux."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_LAUGH>\nOui. J'aimerais qu'ils aient des prénoms dont ils\nsoient fiers tout au long de leur vie !\n<PAGE>\n<FACE_NORMAL>On va commencer par notre fils. Quel prénom\nas-tu en tête pour lui, <MYNAME> ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_NORMAL>\nOooh, tu as décidé de choisir <CHILD_NAME_M> pour\nnotre fils alors ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_RANGER",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_RANGER",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_LAUGH>\n<cap><CHILD_NAME_M> ? C'est un super prénom ! Je suis\nsûre qu'il sera fier de le porter.♪\n<PAGE>\n<FACE_NORMAL>Et maintenant, passons à notre fille."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_NORMAL>\nEst-ce que <CHILD_NAME_W> te plaît pour notre fille ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_RANGER",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_RANGER",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_LAUGH>\n<cap><CHILD_NAME_W> ? Parfait ! Tu es en pleine forme\naujourd'hui, <MYNAME> ! Allons pour ça.♪\n<PAGE>\n<WINDOW_HEART2_R>Désormais, ça sera toi, moi, <CHILD_NAME_M> et\n<CHILD_NAME_W>. On va former une belle équipe, tous\nensemble ! Il faudra les aider à grandir, bien sûr !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_RANGER",
+      "Text": "À partir de maintenant, Agate et moi allons\ndevoir élever <CHILD_NAME_M> et <CHILD_NAME_W> de\nnotre mieux. On peut le faire !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_NORMAL>\nAllez, tu trouves bien des prénoms pour tes\nvaches et tes chiens, tu peux faire mieux pour\ntes enfants tout de même, non ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_NURSE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_SAD>\nAhem... Mes contractions deviennent de plus en\nplus douloureuses... J-Je pense que le travail a\ndéjà commencé..."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_NURSE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nC'est bien. Continue comme ça, mon chou.\nOn y est presque.\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_SAD>Nnngh... ! J-J'essaye... !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_NURSE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_ANGRY>\n<cap><MYNAME>, mon chou, n'entre pas s'il te plaît,\nelle est toujours en plein travail, et ça risque de\nprendre un peu plus de temps que prévu."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_NURSE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nEt voilà, mon chou... des jumeaux !♪\nUn garçon et une fille, tous les deux à croquer !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_NURSE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nPardon de t'avoir fait attendre si longtemps,\n<MYNAME>, mais tu as entendu la nouvelle !\n<PAGE>\nTu es l'heureux papa de deux beaux bébés, un\ngarçon et une fille. Viens donc les voir !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_NURSE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nFélicitations, mon chou ! Ça n'a pas dû être\nfacile pour une première grossesse, mais tu t'en\nes très bien sortie, Angela !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LAUGH>\nMerci beaucoup, Docteur. J'ai rarement eu aussi\nmal de ma vie, mais je suis heureuse que les\ndeux bébés soient en pleine forme.\n<PAGE>\nDes jumeaux... Je ne m'y attendais pas du tout,\nmais je suis deux fois plus heureuse à présent !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LAUGH>\nHé hé. Tu as l'air content aussi, <MYNAME>.\n<PAGE>\nIl faudra que l'on travaille dur mais je sais que\nnous pourrons offrir un bon environnement à\nnos enfants pour qu'ils grandissent heureux."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_NURSE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nEst-ce que vous avez choisi des prénoms pour\nces petites merveilles ?\n<PAGE>\n<FACE_LAUGH>Ils n'en n'auront qu'un tout au long de leur vie,\nalors mettez-vous d'accord, mes choux."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_NORMAL>\nHmm... Je crois qu'il est temps de se concerter.\n<PAGE>\nCommençons par notre fils. Quel genre de\nprénom as-tu en tête, <MYNAME> ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_NORMAL>\nOn dirait que <CHILD_NAME_M> te tient beaucoup à\ncœur."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_NURSE",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_NURSE",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LAUGH>\n<cap><CHILD_NAME_M>, alors ? Je trouve que c'est un très\nbon choix.\n<PAGE>\nBien, maintenant que nous sommes d'accord\npour notre fils, il reste notre petite fille..."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_NORMAL>\nTu as l'air de tenir à ce que notre fille s'appelle\n<CHILD_NAME_W>, je me trompe ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_NURSE",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_NURSE",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LAUGH>\n<cap><CHILD_NAME_W> ? Je trouve que c'est très mignon.\n<PAGE>\n<WINDOW_HEART2_R>Avec l'arrivée de <CHILD_NAME_M> et <CHILD_NAME_W>,\nnous allons devoir faire notre maximum pour\nqu'ils se sentent aimés et choyés en tout temps."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_NURSE",
+      "Text": "À partir de maintenant, Angela et moi allons\ndevoir élever <CHILD_NAME_M> et <CHILD_NAME_W> de\nnotre mieux. On peut le faire !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_NORMAL>\nJe viens d'accoucher de deux bébés.\nTu t'occupes de leur trouver un prénom."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_LEFT><FACE_SAD>\nAïe... J'ai mal au ventre. Est-ce que j'ai mangé\nquelque chose de périmé ? Ou... Non... Je crois\nque le bébé est sur le point d'arriver... !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_RIKORISU",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nC'est bien. Continue comme ça, mon chou.\nOn y est presque.\n<PAGE>\n<FACE_LICORICE><POS_LEFT><FACE_SAD>Nnnngggh... !\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_NORMAL>Tu peux le faire ! Le bébé y met du sien aussi.\nTu y es presque."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_RIKORISU",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_ANGRY>\nJe suis désolée, donne-nous un peu de temps.\nL'accouchement est toujours en cours."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_RIKORISU",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nFélicitations. Les bébés sont arrivés et sont tous\nles deux en parfaite santé.\n<PAGE>\n<FACE_MARIAN><POS_LEFT><FACE_LAUGH>Voyez donc ça, des jumeaux ! Un garçon et une\nfille ; ils sont tous les deux à croquer.\n<PAGE>\nBien. Angela, mon petit chou, veux-tu bien faire\nentrer <MYNAME> ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_RIKORISU",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nComme tu as entendu, tu es le père de jumeaux,\nun garçon et une fille. Ils sont en parfaite santé.\n<PAGE>\nSi tu veux bien me suivre."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_RIKORISU",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nFélicitations, mon chou ! Ça n'a pas dû être\nfacile pour une première grossesse, mais tu t'en\nes très bien sortie, Licorice !\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_LAUGH>Oui, bravo ! Tu as fait preuve de beaucoup de\ncourage, c'était très honorable, surtout pour une\npremière fois."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\nM-Merci...\n<PAGE>\n<FACE_LOVE>Mon premier enfant se trouve être deux enfants.\nJe suis encore sous le choc de la nouvelle, mais\nvoir leurs petites bouilles me rend si heureuse !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\nTu m'as l'air drôlement heureux, <MYNAME> !\nIl faudra qu'on unisse nos forces pour les\nélever le mieux possible !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_RIKORISU",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nEst-ce que vous avez choisi des prénoms pour\nces petites merveilles ?\n<PAGE>\n<FACE_LAUGH>Ils n'en n'auront qu'un tout au long de leur vie,\nalors mettez-vous d'accord, mes choux."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\nTrès juste. Ils garderont leurs prénoms à vie, on\ndoit s'assurer qu'ils soient sympa, et aussi qu'ils\nsoient faciles à retenir.\n<PAGE>\nCommençons par notre fils. As-tu une petite\nidée en tête ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\nHmm, tu veux l'appeler <CHILD_NAME_M>, alors ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_RIKORISU",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_RIKORISU",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\n<cap><CHILD_NAME_M> ? Ouais, ça me plaît bien. Ça roule !\n<PAGE>\n<FACE_NORMAL>Et maintenant, une petite idée pour cette jeune\ndemoiselle ici présente ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\nDonc tu veux qu'on l'appelle, <CHILD_NAME_W>, hein ?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_RIKORISU",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_RIKORISU",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\n<cap><CHILD_NAME_W> ? Pas d'objection, non. Ça sonne\ntrès bien.\n<PAGE>\n<WINDOW_HEART2_R>Donc, nous avons <CHILD_NAME_M> et <CHILD_NAME_W>\nen plus de nous deux. Donnons notre maximum\npour former une famille heureuse !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_RIKORISU",
+      "Text": "À partir de maintenant, Licorice et moi allons\ndevoir élever <CHILD_NAME_M> et <CHILD_NAME_W> de\nnotre mieux. On peut le faire !"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\nJe ne te demande pas de trouver un prénom\nscientifique... Juste un prénom de bébé."
+    }
+  ]
+}

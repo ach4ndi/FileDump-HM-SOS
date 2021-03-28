@@ -1,0 +1,802 @@
+﻿{
+  "Date": "2016-06-10T19:47:34.1079988+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_LOVE_3B_TALK_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_LEFT><FACE_NORMAL>\r\nよう、<MYNAME>。\nオレ様に会いに来たのか？\nいい心がけだな。\n<PAGE>\n………ちょうどよかった。\nオマエに話したいことがある。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_OUT_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_LEFT><FACE_LOSS>\r\nそうだな…。\nここじゃ話しにくいから\nちょっとついて来い。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_CONFESSION_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_SAD>\r\nオマエはよく、\nオレ様に話しかけてくるよな。\nそんなにオレ様のことが気になるのか？\n<PAGE>\n最近、オマエと付き合ってるのかって\n色んなヤツに聞かれることが多くてな。\n…いちいち否定するのもメンドウなんだ。\n<PAGE>\nならいっそ\n本当に付き合ってみようかと思ってな。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_00_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_ROUGH>\r\nどうだ、<MYNAME>？\nオレ様のオンナになれよ。\n…絶対にソンはさせないぜ。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_01_CHARA_ALLEN",
+      "Text": "付き合う"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_02_CHARA_ALLEN",
+      "Text": "付き合わない"
+    },
+    {
+      "VardId": "MES_LOVE_3B_YES_COMMENT_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_ROUGH>\r\nイイ返事だ。\nまあ、オマエがオレ様を断るなんてこと\nあり得ないと思ってたがな。\n<PAGE>\n<FACE_LOVE><ACTION_RIBBON>…今からオマエは、オレ様のオンナだ。\nよろしくな、姫君。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_00_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>\r\nついでにお互いの呼び名も変えておくか？\nその方が恋人らしいだろ。\n何かリクエストはあるか？"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_01_CHARA_ALLEN",
+      "Text": "今のままがいい"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_02_CHARA_ALLEN",
+      "Text": "呼び名を変える"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_00_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>\r\n<BLUE><MYNAME></BLUE>でいいのか？"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_01_CHARA_ALLEN",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_02_CHARA_ALLEN",
+      "Text": "いいえ"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_COMMENT_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>\r\nそうか、分かった。\n<PAGE>\nおい、<MYNAME>。\nオレ様と付き合うからには\n他のヤツに目を向けるなよ。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_END_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_ROUGH>\r\nおっと、もうこんな時間か。\nオレ様は先に帰るぜ。\n<MYNAME>、また会いに来いよ。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NO_COMMENT_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_SAD>\r\nやれやれ…。\nオマエは男を見る目がないな。\nガッカリだよ。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_HOME_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_SAD>\r\n話はそれだけだ。\nオレ様も誤解されたくないからな。\n今後はあまり近づいてくるなよ？"
+    },
+    {
+      "VardId": "MES_LOVE_3B_TALK_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_ROUGH>\r\n<MYNAME>！\n…………会いに来てくれたの？\nすっごくうれしいよ。\n<PAGE>\n<FACE_SAD>……………………………。\nあの…えっとさ、今時間あるかな？\n…………キミに話があるんだ。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_OUT_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_LOSS>\r\nいや、別に\nそんな大したことじゃないんだけど…。\nここだと話しにくいから、ついて来て。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_CONFESSION_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_LOVE>\r\nえーと、その…………。\nか、風が気持ちいいよね。\nボク山頂って好きなんだ！\n<PAGE>\nああ…いや、\nそういうことじゃなくて…。\nなにやってるんだ…ボク。\n<PAGE>\n聞いて、<MYNAME>。\nボクはキミのことが、好きだ…！"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_00_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_LOVE>\r\nキミともっと一緒にいたいんだ。\n…もしよかったら\nボクの彼女になってくれないかな？"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_01_CHARA_ROD",
+      "Text": "彼女になる"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_02_CHARA_ROD",
+      "Text": "ごめんなさい"
+    },
+    {
+      "VardId": "MES_LOVE_3B_YES_COMMENT_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_ROUGH>\r\n…ほ、本当！？\nヤッターーーーーーーー！\n<PAGE>\n<ACTION_RIBBON>ありがとう、<MYNAME>！\nボクすっごくうれしいよ！！\nキミのこと大事にするよ、約束する。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_00_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_NORMAL>\r\n<FACE_LOVE>…ねえ、せっかくだから\nお互いの呼び名を変えようよ。\n<PAGE>\nその方が、彼氏彼女の実感が\nわく気がするしさ。\nねえ、なんて呼べばいいかな？"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_01_CHARA_ROD",
+      "Text": "今のままがいい"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_02_CHARA_ROD",
+      "Text": "呼び名を変える"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_00_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_NORMAL>\r\n<BLUE><MYNAME></BLUE>でいいかな？"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_01_CHARA_ROD",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_02_CHARA_ROD",
+      "Text": "いいえ"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_COMMENT_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>、だね。\n分かったよ。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_END_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_ROUGH>\r\nそれじゃあ、\nボクは用事があるからこれで…。\n送ってあげられなくてゴメンね？\n<PAGE>\nまたね、<MYNAME>♪\nこれからヨロシク！！"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NO_COMMENT_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_SAD>\r\n……………！\n<PAGE>\n<FACE_LOSS>そ、そうだよね。\nイキナリこんなこと言われても困るよね。\n<PAGE>\n今言ったことは、\n聞かなかったことにしてくれていいから。\n…ゴメン、<MYNAME>。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_HOME_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_LOSS>\r\nじゃ、じゃあボクはこれで…………。\nまたね、<MYNAME>。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_TALK_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_LEFT><FACE_ROUGH>\r\nやぁ、<MYNAME>ちゃん。\nよく来たね〜。\n待ってたんだよ。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_OUT_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_LEFT><FACE_NORMAL>\r\n<MYNAME>ちゃんに話があってね。\n…ちょっと場所を変えようか。\nついておいで。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_CONFESSION_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_LOSS>\r\nあのねぇ、<MYNAME>ちゃん。\n…おっちゃんってこう見えても\nけっこう経験豊富な大人なんだよね〜。\n<PAGE>\n<FACE_NORMAL>だから、<MYNAME>ちゃんが\n困った時にもっと頼ってほしいんだ。\nキミのこと、支えてあげたくてね〜。\n<PAGE>\n<FACE_ROUGH>まあ、要はおっちゃんと\n付き合ってみるつもりはないかい？\n…ってことなんだけど。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_00_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_ROUGH>\r\nああ、そんなに深刻に考えず\n試しにってカンジのかる〜い気持ちでさ。\nどうかな？"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_01_CHARA_SENGOKU",
+      "Text": "付き合う"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_02_CHARA_SENGOKU",
+      "Text": "付き合わない"
+    },
+    {
+      "VardId": "MES_LOVE_3B_YES_COMMENT_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_ROUGH>\r\nいや〜、言ってみるもんだね。\n良かったよ〜。\nありがとう、<MYNAME>ちゃん。\n<PAGE>\n<ACTION_RIBBON>じゃ、今日からおっちゃんは\n<MYNAME>ちゃんの恋人ってことで。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_00_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_NORMAL>\r\nせっかく恋人になったんだし、\n雰囲気を盛り上げるためにも\nお互いの呼び名を変えてみようか。\n<PAGE>\nおっちゃんになんて呼ばれたい？\n考えてみてよ。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_01_CHARA_SENGOKU",
+      "Text": "今のままがいい"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_02_CHARA_SENGOKU",
+      "Text": "呼び名を変える"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_00_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_NORMAL>\r\n<BLUE><MYNAME></BLUE>ちゃん、でいいのかな？"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_01_CHARA_SENGOKU",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_02_CHARA_SENGOKU",
+      "Text": "いいえ"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_COMMENT_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>ちゃんね〜。\nうん、いいんじゃないかな〜。\n…ん？　ちゃんは無しにしてって？\n<PAGE>\n<FACE_LOSS>いや〜、今までずっと\nちゃん付けだったから、\nこっちの方がしっくりくるんだよね〜。\n<PAGE>\n<FACE_ROUGH>それに、<MYNAME>ちゃんって\n可愛くていいじゃない。\nこれにしようよ〜。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_END_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_ROUGH>\r\nじゃ、改めて。\nこれからよろしくね〜。\n<PAGE>\n<FACE_NORMAL>…おっと、ヤボ用があるのを忘れてたよ。\nおっちゃんは先に帰るから。\nまたね、<MYNAME>ちゃん。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NO_COMMENT_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_ROUGH>\r\nあ、やっぱり？\n実は、おっちゃんもそうじゃないかと\n思ってたんだよね〜。\n<PAGE>\nすまなかったねぇ〜、\n<MYNAME>ちゃん。\n今言ったことは忘れていいよ。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_HOME_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_NORMAL>\r\nじゃ、オレはこれで。\nまたね〜。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_TALK_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nようこそ、<MYNAME>様。\nよく来てくださいました。\nお待ちしておりましたよ。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_OUT_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n今日は<MYNAME>様に\nお話ししたいことがあるんです。\nよろしかったら、お時間いただけますか？"
+    },
+    {
+      "VardId": "MES_LOVE_3B_CONFESSION_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_PATI>\r\n………………。\n<PAGE>\n<FACE_NORMAL>ああ、すみません。\nなにぶん初めてのことですから\n少し緊張しているようです……。\n<PAGE>\n<MYNAME>様。\nどうかわたしと、\nお付き合いしていただけませんか？"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_00_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_PATI>\r\n<MYNAME>様を\n困らせるつもりはありません。\nもしよろしければ、の話です。\n<PAGE>\n無理なら無理と\nおっしゃっていただいて構いませんよ。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_01_CHARA_SERUKA",
+      "Text": "付き合う"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_02_CHARA_SERUKA",
+      "Text": "付き合わない"
+    },
+    {
+      "VardId": "MES_LOVE_3B_YES_COMMENT_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_LOVE>\r\n<ACTION_RIBBON>ありがとうございます。\n…これからはお付き合い相手として\n仲を深めていきましょう。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_00_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n女性との付き合いには不慣れですので、\nなにかとご迷惑をかけると思いますが\nよろしくお願いしますね。\n<PAGE>\n…それと、お付き合いしている相手に\n「様」をつけるのは\n少々かたくるしいですね。\n<PAGE>\nこれからは「さん」に変えて\n名前を呼ぶことにしましょう。\n何かご希望の呼び名はありますか？"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_01_CHARA_SERUKA",
+      "Text": "今のままがいい"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_02_CHARA_SERUKA",
+      "Text": "呼び名を変える"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_00_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n<BLUE><MYNAME></BLUE>さん、でいいですか？"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_01_CHARA_SERUKA",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_02_CHARA_SERUKA",
+      "Text": "いいえ"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_COMMENT_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n<MYNAME>さん…。\n<PAGE>\n…少し気はずかしいですね。\n慣れるのに時間がかかりそうです。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_END_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_SAD>\r\nおや、もうこんな時間ですか。\n<PAGE>\n<FACE_NORMAL>すみません、<MYNAME>さん。\nわたしはこれから用がありますので\n先に失礼しますね。\n<PAGE>\nそれでは、また。\n気をつけてお帰りくださいね。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NO_COMMENT_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nそうですか…分かりました。\nお時間を取らせてしまって\n申し訳ございません。\n<PAGE>\n<FACE_ROUGH>今のことはどうかお気になさらず。\nこれまで通り、良き関係でいましょう。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_HOME_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nそれではわたしはこれで失礼します。\nまた屋敷に遊びに来てくださいね。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_TALK_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_NORMAL>\r\nよぉ、<MYNAME>。\nちょうどよかった。\nお前に聞きたいことがあるんだよ。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_OUT_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_LOSS>\r\nうーん…。\nちょっとここじゃ言いにくいなぁ。\n山頂にでも行こうぜ。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_CONFESSION_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_ANGRY>\r\n……………………。\n<PAGE>\n<FACE_NORMAL>ああ、ワリィ。\nついガン見しちまった。\n<PAGE>\n………あのよぉ、<MYNAME>。\nお前今、気になってるヤツとか\n付き合いたいヤツって、いるのか？"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_00_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_LOVE>\r\n…も、もし、いないならよぉ。\nオレが代わりになってやろうか？"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_01_CHARA_NEEL",
+      "Text": "なってほしい"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_02_CHARA_NEEL",
+      "Text": "別にならなくていい"
+    },
+    {
+      "VardId": "MES_LOVE_3B_YES_COMMENT_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_LOVE>\r\n<ACTION_RIBBON>…そ、そうか。\nそれなら……オレたち、\nつ、付き合う、か…。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_00_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_LOVE>\r\nで、これからどうすりゃいいんだ？\n……全然分かんねぇな。\n<PAGE>\nそういや、こういう時って\nなんかお互いの呼び名とか\n変えたりするんだっけか？\n<PAGE>\n<FACE_LOSS>って言っても、\nスグには思いつかねぇなぁ。\nお前はどうしたいんだ？"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_01_CHARA_NEEL",
+      "Text": "今のままがいい"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_02_CHARA_NEEL",
+      "Text": "呼び名を変える"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_00_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_NORMAL>\r\n<BLUE><MYNAME></BLUE>で、いいのか？"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_01_CHARA_NEEL",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_02_CHARA_NEEL",
+      "Text": "いいえ"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_COMMENT_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_NORMAL>\r\nそっか、分かったよ。\n…オレのことは好きに呼んでくれ。\nだからってヘンな呼び方すんじゃねーぞ？"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_END_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_LOVE>\r\n…じゃ、まぁそういうことで。\nオレはそろそろ帰る。\nまたな、<MYNAME>。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NO_COMMENT_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_SAD>\r\n………………………。\n<PAGE>\n<FACE_ANGRY>そうか、分かったよ。\nヘンなこと言って悪かったな。\nもう二度と言わねぇから、安心しろ。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_HOME_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_ANGRY>\r\nオレ、帰るわ。\nじゃあな。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_TALK_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_LEFT><FACE_NORMAL>\r\nああ、<MYNAME>。\n来てくれたんだ。\nちょうどよかった。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_OUT_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_LEFT><FACE_LOSS>\r\n実はキミに聞きたいことがあってね。\n…ここでは話しづらいから、\nちょっと山頂まで出かけよう。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_CONFESSION_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_PATI>\r\n………………………。\n<PAGE>\n<FACE_NORMAL>ああ、すまない。\n心の準備を整えてたんだ。\nもう大丈夫だ。\n<PAGE>\n…<MYNAME>、率直に聞く。\nキミはオレのこと…どう思ってる？"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_00_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_PATI>\r\nオレはキミが好きだ。\nオレと、付き合ってほしい。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_01_CHARA_SYUMITTO",
+      "Text": "付き合う"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_02_CHARA_SYUMITTO",
+      "Text": "付き合わない"
+    },
+    {
+      "VardId": "MES_LOVE_3B_YES_COMMENT_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_ROUGH>\r\n<ACTION_RIBBON>そうか…！\nありがとう、<MYNAME>。\nとてもうれしいよ。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_00_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_NORMAL>\r\nこれで、オレたちは恋人同士だな。\n…改めて、よろしく。\n<PAGE>\n<FACE_LOVE>その、恋人の証として、\n今後は違う呼び方をしたいんだが…。\n希望の呼び名はあるだろうか？"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_01_CHARA_SYUMITTO",
+      "Text": "呼び捨てでいい"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_02_CHARA_SYUMITTO",
+      "Text": "呼び名を変える"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_00_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_NORMAL>\r\n<BLUE><MYNAME></BLUE>で、いいのか？"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_01_CHARA_SYUMITTO",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_02_CHARA_SYUMITTO",
+      "Text": "いいえ"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_COMMENT_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_ROUGH>\r\nそれじゃあ、<MYNAME>。\nこれからはオレがキミの力になるから\n困った時はいつでも頼ってくれ。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_END_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_NORMAL>\r\n…ああ、もうこんな時間なのか。\nすまない<MYNAME>。\nオレは用があるから先に戻るよ。\n<PAGE>\n……送ってやれなくてすまない。\n気をつけて帰ってくれ。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NO_COMMENT_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_LOSS>\r\nそうか…。\n急にこんなことを言ってすまなかった。\n気にしないでくれ。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_HOME_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_NORMAL>\r\nそれじゃ、オレはこれで。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_TALK_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_LEFT><FACE_NORMAL>\r\n<MYNAME>！\n会えてよかった〜！\n今からあんたの家に行こうとしてたのよ。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_OUT_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_LEFT><FACE_LOSS>\r\n実は、<MYNAME>に\n言いたいことがあるんだ。\n話、聞いてくれる？"
+    },
+    {
+      "VardId": "MES_LOVE_3B_CONFESSION_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_LOSS>\r\nごめんねー、\nこんなとこまで連れてきて。\nでもあたしの家じゃ言いにくくて…。\n<PAGE>\n<FACE_NORMAL>うじうじするのはイヤだから\nハッキリ言うね。\nあたしは、<MYNAME>のことが好き。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_00_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_NORMAL>\r\nよかったらあたしと付き合って。\nお願い！"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_01_CHARA_TINA",
+      "Text": "付き合う"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_02_CHARA_TINA",
+      "Text": "付き合わない"
+    },
+    {
+      "VardId": "MES_LOVE_3B_YES_COMMENT_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_LOVE>\r\n<ACTION_RIBBON><MYNAME>…！\nすっごくうれしい！！\nありがとう<RED>∀</RED>"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_00_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_LOVE>\r\nそれじゃあ、<MYNAME>。\n早速なんだけど、お互いの呼び名作らない？\n…その方が恋人っぽくていいし♪\n<PAGE>\n<FACE_NORMAL>これから、なんて呼べばいいかな？"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_01_CHARA_TINA",
+      "Text": "今のままでいい"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_02_CHARA_TINA",
+      "Text": "呼び名を変える"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_00_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_NORMAL>\r\n<BLUE><MYNAME></BLUE>で、いい？"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_01_CHARA_TINA",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_02_CHARA_TINA",
+      "Text": "いいえ"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_COMMENT_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_ROUGH>\r\n分かったわ、<MYNAME>。\nこれからは彼氏彼女として\n仲良くやってこうね♪"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_END_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_NORMAL>\r\nああっ、もうこんな時間なの！？\nせっかくだからもう少し\n一緒にいたかったのにー！\n<PAGE>\nゴメン、<MYNAME>。\nこれからちょっと急ぎの用があるの。\nまた会いに来て！　それじゃ！"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NO_COMMENT_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_SAD>\r\nそっか…。\n残念だけど、コレばっかりは\nどうしようもないよね。\n<PAGE>\n<FACE_NORMAL>でも、フラれてスッキリしたよ。\nありがとう、<MYNAME>。\n今後も普通に接してくれるとうれしいな。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_HOME_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_NORMAL>\r\nじゃ、あたしはこれで。\nまたね。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_TALK_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_LEFT><FACE_ROUGH>\r\nわぁ、<MYNAME>さん！\n来てくれたの？\nわたしすっごくうれしい<RED>∀</RED>\n<PAGE>\nねぇねぇ、<MYNAME>さん。\nとっても大事なお願いがあるの。\n少し話せないかな？"
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_OUT_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_LEFT><FACE_NORMAL>\r\n…ここじゃちょっと話しにくいなぁ。\n外に出かけましょ。\nわたしについてきて。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_CONFESSION_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_SAD>\r\n<MYNAME>さん、聞いて？\n…実はわたし\n気になる人がいるの。\n<PAGE>\nその人のことを想うと…\nドキドキして眠れなくなっちゃうの。\n胸が苦しいの。\n<PAGE>\nその気になる人っていうのが…\n<MYNAME>さんなの。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_00_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_SAD>\r\nお願い、<MYNAME>さん。\nわたしの恋人になって？\nわたしじゃダメかな………………？"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_01_CHARA_MICHEL",
+      "Text": "もちろん"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_02_CHARA_MICHEL",
+      "Text": "ごめんね"
+    },
+    {
+      "VardId": "MES_LOVE_3B_YES_COMMENT_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_ROUGH>\r\n…良かったぁ<RED>∀</RED>\nもし断られたら、\nどうしようかと思っちゃった。\n<PAGE>\n<ACTION_RIBBON>ありがとう、<MYNAME>さん。\n今日からわたしは\n<MYNAME>さんの恋人ね<RED>∀</RED>"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_00_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_ROUGH>\r\n指輪、もらっちゃった♪\nうれしいなぁ〜。\n<PAGE>\n<FACE_NORMAL>あ、そうだ。\n今度から、なんて呼べばいいかな？\n恋人らしく呼び名とか変えてみる？"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_01_CHARA_MICHEL",
+      "Text": "今のままでいい"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_02_CHARA_MICHEL",
+      "Text": "呼び名を変える"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_00_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_NORMAL>\r\n<BLUE><MYNAME></BLUE>さん、でいい？"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_01_CHARA_MICHEL",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_02_CHARA_MICHEL",
+      "Text": "いいえ"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_COMMENT_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_ROUGH>\r\n<MYNAME>さんね<RED>∀</RED>\nふふっ、これからよろしくね♪"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_END_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_NORMAL>\r\nあ〜ん、残念。\n時間切れだわ…。\nわたしこれから用事があるの。\n<PAGE>\n先に帰ってゴメンナサイ。\n…また会いに来てくれる？\n楽しみに待ってるね<RED>∀</RED>"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NO_COMMENT_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_SAD>\r\nそう…………。\n無理なお願いしちゃってごめんなさい。\n……もう二度と言わないわ。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_HOME_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_SAD>\r\nわたしは平気だから、気にしないで。\nそれじゃ。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_TALK_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_LEFT><FACE_ROUGH>\r\n……<MYNAME>、ようこそ。\n………………待ってた。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_OUT_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_LEFT><FACE_NORMAL>\r\n…………話、ある。\nついて来て………………………。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_CONFESSION_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_NORMAL>\r\n…………………………。\n<PAGE>\n……………<MYNAME>といるの、\nとても楽しい……………。\n<PAGE>\nだから…………………………\n………………もっと、一緒にいたい。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_00_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_NORMAL>\r\n…………わたしと\n付き合って………………欲しい。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_01_CHARA_YURI",
+      "Text": "もちろん"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_02_CHARA_YURI",
+      "Text": "ごめんね"
+    },
+    {
+      "VardId": "MES_LOVE_3B_YES_COMMENT_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_PATI>\r\n…………………………。\n<PAGE>\n<FACE_LOVE><ACTION_RIBBON>……うれしい。\n…………ありがとう。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_00_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_NORMAL>\r\nそうだ……。　呼び名……変える？\n…そうした方がいいって……\n本で読んだことある……。\n<PAGE>\n…………呼び名、何がいい？\n……教えて。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_01_CHARA_YURI",
+      "Text": "今のままがいい"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_02_CHARA_YURI",
+      "Text": "呼び名を変える"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_00_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_NORMAL>\r\n<BLUE><MYNAME></BLUE>…………でいい？"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_01_CHARA_YURI",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_02_CHARA_YURI",
+      "Text": "いいえ"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_COMMENT_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_NORMAL>\r\n………うん、………分かった。\n<MYNAME>…………。\n………これから、よろしく。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_END_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_ROUGH>\r\n………母さんに、言わなきゃ。\nきっと、喜ぶ……。\n<PAGE>\nそれじゃ…………<MYNAME>。\n………またね。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NO_COMMENT_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_SAD>\r\nわかった………………。\n………………このことは、忘れて。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_HOME_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_SAD>\r\n…………帰る。\n………………………………それじゃ。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_TALK_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_ROUGH>\r\n<MYNAME>さん、\n来てくださったんですね。\nうれしいです。\n<PAGE>\n<FACE_NORMAL>あの…<MYNAME>さん。\nイキナリで申し訳ございませんが、\n今お時間いただいてもいいですか？"
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_OUT_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>さんに\nお伝えしたいことがあるんです。\n<PAGE>\nここでは言いづらいので\n場所を変えてもいいですか？\nさあ、参りましょう。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_CONFESSION_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_SAD>\r\n…<MYNAME>さん、\nお伝えしたいというのは\n貴方に対するわたしの気持ちなんです。\n<PAGE>\n<FACE_LOVE>…正直に申し上げます。\nわたしは、<MYNAME>さんのことを\nお慕（した）いしています。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_00_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_NORMAL>\r\n鍛冶師としてはまだ半人前ですが\n<MYNAME>さんにふさわしい人に\nなれるよう、精一杯頑張ります。\n<PAGE>\nもし、少しでもわたしに対して\n好意を抱いていてくださるなら…\nわたしとお付き合いしてくださいませんか？"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_01_CHARA_IROHA",
+      "Text": "付き合う"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_02_CHARA_IROHA",
+      "Text": "付き合わない"
+    },
+    {
+      "VardId": "MES_LOVE_3B_YES_COMMENT_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_LOVE>\r\n<ACTION_RIBBON>あ、ありがとうございます！\nふつつか者ですが、\nよろしくお願いします。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_00_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_LOVE>\r\nあの………。\nせっかく恋仲になれたのですから\n呼び名などを変えてみませんか？\n<PAGE>\n…実は、幼少の時から\nそういうのにあこがれていたんです。\nもしよろしければ、ですが…。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_01_CHARA_IROHA",
+      "Text": "今のままでいい"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_02_CHARA_IROHA",
+      "Text": "呼び名を変える"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_00_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_NORMAL>\r\n<BLUE><MYNAME></BLUE>で、いいですか？"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_01_CHARA_IROHA",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_02_CHARA_IROHA",
+      "Text": "いいえ"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_COMMENT_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_NORMAL>\r\n分かりました。\nそれでは<MYNAME>、\nこれからよろしくお願いいたしますね。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_END_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_NORMAL>\r\n…いけない、もうこんな時間。\nわたしはこれから用事があるので\n先に失礼しますね。\n<PAGE>\n<MYNAME>もお気をつけて。\n…それでは、また。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NO_COMMENT_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_SAD>\r\n…そ、そうですか。\n分かりました。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_HOME_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_SAD>\r\nわたしはこれで帰りますね。\n<MYNAME>さん、それでは。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_TALK_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_ROUGH>\r\n<MYNAME>さん、ようこそ♪\n遊びに来てくれて\nありがとうございます〜。\n<PAGE>\n<FACE_LOSS>ああ、そうでした。\nわたし<MYNAME>さんに\n大事なお話があるんです。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_OUT_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_NORMAL>\r\n…せっかくですし、\nよかったら外で話しませんか？\nさあ、行きましょう。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_CONFESSION_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_ROUGH>\r\n空気が気持ちいいですね〜。\n水もキレイで、気持ちがホッとします。\n<PAGE>\n<MYNAME>さんと一緒にいる時も、\n同じ気持ちになるんですよ？\n…いつも心地よくて、いやされてます。\n<PAGE>\n<FACE_LOVE>だからわたし、\n<MYNAME>さんと一緒に過ごす時間が\nもっともっと欲しいです。\n<PAGE>\n<MYNAME>さんのことが\n好きなんです。\n…今のままじゃ全然足りません。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_00_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_ROUGH>\r\n<MYNAME>さん、\nわたしとお付き合いしてください。\n<PAGE>\n二人でたくさん\n美味しいものを食べたりしながら\n楽しい想い出をたくさん作りましょう。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_01_CHARA_FELICIA",
+      "Text": "付き合う"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_02_CHARA_FELICIA",
+      "Text": "付き合わない"
+    },
+    {
+      "VardId": "MES_LOVE_3B_YES_COMMENT_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_LOVE>\r\n<ACTION_RIBBON>これで晴れて、\nコ・イ・ビ・トですね♪\n幸せです〜<RED>∀</RED>"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_00_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_ROUGH>\r\nそうだ、せっかくなら\nラブラブのしるしに\nお互いの呼び名を作りましょう♪\n<PAGE>\nあ、でも恋人らしく\n呼び捨てというのもアリですね〜<RED>∀</RED>\nどう思います？"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_01_CHARA_FELICIA",
+      "Text": "呼び捨てでいい"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_02_CHARA_FELICIA",
+      "Text": "呼び名を変える"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_00_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_NORMAL>\r\n<BLUE><MYNAME></BLUE>、でいいですか？"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_01_CHARA_FELICIA",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_02_CHARA_FELICIA",
+      "Text": "いいえ"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_COMMENT_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_ROUGH>\r\nそれじゃあ、<MYNAME>で♪\nわたしのこともたくさん\n呼んでくださいね♪\n<PAGE>\n<MYNAME>に名前を呼ばれるだけで\nとっても幸せになりますから<RED>∀</RED>"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_END_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_NORMAL>\r\nでは、わたしは用事があるので\n先に帰りますね。\n<PAGE>\n<FACE_ROUGH><MYNAME>、また<RED>∀</RED>\nこれからは恋人として\nたくさん会いに来てくださいね♪"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NO_COMMENT_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_SAD>\r\nそうですか…。\n残念ですけど、仕方ないですよね。\nワガママなこと言って、すみません。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_HOME_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_SAD>\r\n…わたしはこれで帰ります。\n今言ったことは\nどうか気にしないでくださいね。\n<PAGE>\n<FACE_NORMAL>またお店に\nご飯食べに来てくださいね。\nそれじゃ。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_TALK_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_LEFT><FACE_NORMAL>\r\nあら<MYNAME>ちゃん。\nよく来たわね。\n待ってたのよ。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_OUT_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_LEFT><FACE_NORMAL>\r\nああ、大したことじゃないんだけど\nちょっと聞きたいことがあってね。\n<PAGE>\nくわしいことは\n<MYNAME>ちゃんの家で話すわ。\nじゃ、行きましょ。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_CONFESSION_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>ちゃん、今から\nわたしの言うことに正直に答えなさい。\nウソをついても見破るからムダよ？\n<PAGE>\n…<MYNAME>ちゃん、\nわたしのこと好きでしょ？"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_00_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_ROUGH>\r\nやっぱりね〜！\nそうだと思ってたのよ〜。\n<PAGE>\n仕方ないわねぇ。\nちょうどタイクツしてたところだし…\n付き合ってあげてもいいわよ？"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_01_CHARA_WITCH",
+      "Text": "付き合う"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_02_CHARA_WITCH",
+      "Text": "付き合わない"
+    },
+    {
+      "VardId": "MES_LOVE_3B_YES_COMMENT_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_ROUGH>\r\n<ACTION_RIBBON>フフッ、いいコね〜。\nそれじゃあ、今日から\n<MYNAME>ちゃんはわたしのものね！"
+    },
+    {
+      "VardId": "MES_LOVE_3A_NAME_INPUT_00_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_LOSS>\r\nえ、なぁに？\n…付き合うんだから、今までとは違う\n呼び名で呼んで欲しいって？\n<PAGE>\n<FACE_NORMAL>メンドウだから、イヤ。\n<MYNAME>ちゃんでいいじゃない。\nワガママ言うなら付き合わないわよ？"
+    },
+    {
+      "VardId": "MES_LOVE_3A_NAME_COMMENT_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_ROUGH>\r\nそうそう、それでいいのよ。\n<PAGE>\nそれよりも<MYNAME>ちゃん、\nわたしの実験にたくさん\n付き合ってちょうだいね♪"
+    },
+    {
+      "VardId": "MES_LOVE_3A_NAME_END_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_ROUGH>\r\nそういうことで、<MYNAME>ちゃん。\nこれからよろしく♪\nじゃね〜。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NO_COMMENT_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_ANGRY>\r\n…………あー、そう。\nそんなこと言うんだ？\nじゃ、もういいわ。"
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_HOME_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_ANGRY>\r\n…………帰るわ。\nさよなら。"
+    }
+  ]
+}

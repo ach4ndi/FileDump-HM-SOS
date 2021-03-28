@@ -1,0 +1,3926 @@
+﻿{
+  "Date": "2016-06-25T01:44:51.6638624+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_MAN_FIRST_MEETING",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nあっ！\nお前、近くの牧場に住み始めたやつだろ？\nウェインから話は聞いてたんだよ。\n<PAGE>\n<FACE_LAUGH>オレの名前はヒナタ。\n大黒屋で商人やってるんだ。\n<PAGE>\n年も近いし、男同士だし、\nお前とは仲良くなれそうな気がするぜ。\nこれからよろしくな！"
+    },
+    {
+      "VardId": "MES_WOMAN_FIRST_MEETING",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nあっ！\nお前、近くの牧場に\n住み始めたやつだろ？\n<PAGE>\n<FACE_LAUGH>オレの名前はヒナタ。\n大黒屋で商人やってるんだ。\n<PAGE>\nウェインから話は聞いてたけど\n女なのに一人で牧場やってるんだって？\nかわいい顔して、けっこう根性あるんだな。\n<PAGE>\n…………。\n……………………あ。\n<PAGE>\n<FACE_LOSS>い、今のは\nあんまり深い意味はねえから！\nとにかく、これからよろしくな！"
+    },
+    {
+      "VardId": "MES_LONG_INTERVAL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n…最近会ってなかったから\nちょっと心配してたんだぜ。\n元気そうで良かったよ。"
+    },
+    {
+      "VardId": "MES_LOVER_LONG_INTERVAL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n久しぶりに顔を合わせたから、\nうれしくて思わず笑っちまったよ。\n元気そうだな。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_LONG_INTERVAL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\n…同じ屋根の下で暮らしてるのに\n心だけ、そうじゃねえのかな？\n<PAGE>\n<_____MYNAME_____>があんまりにも\n話しかけてくれなかったから、\n途中から意地になったオレも悪いけど…。\n<PAGE>\n<_____MYNAME_____>と話せないのは\nけっこうキツかった…。\nこんなことは、もう今回限りにしてくれよ。"
+    },
+    {
+      "VardId": "MES_PLAYER_DOWN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\n<_____MYNAME_____>聞いたぜ。\n昨日、たおれたんだって？\n何やってんだか…しっかりしろよ。\n<PAGE>\n<FACE_NORMAL>お前に何かあったら\n心配するやつがいるだろ。\nオレだってそうだし。\n<PAGE>\nとにかく、今日くらいは\nしっかりとめしを食って\nちゃんとゆっくり休めよ。"
+    },
+    {
+      "VardId": "WORKING_REQUEST_000",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "WORKING_REQUEST_001",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "WORKING_DELIVERY_000",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nおっ、オレに配達物か。\nそろそろ来るころだと\n思ってたんだよな！"
+    },
+    {
+      "VardId": "WORKING_DELIVERY_001",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n届けてくれて、ありがとな。\nアルバイトがんばれよ〜。"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_A_BRIDGE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_A_BELL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_A_BRONZE_STATUE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_A_GODDESS_STATUE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_TOWN_COLLABO_A_RESTAURANT_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_TOWN_COLLABO_A_RESTAURANT_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_TOWN_COLLABO_A_PERFUME",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_J_BRIDGE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n橋のことは、ずっと\nウメキチさんたちのためにも早く\nなんとかできたらって思ってたんだよな。\n<PAGE>\n<FACE_LAUGH>ああして、ちゃんと修理する機会が\nできて本当によかったよ。\nこれで、もう危なくないな！"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_J_BATHSHOP",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nやっぱ、湯屋があると全然ちがうよなー。\n大きな風呂で、仕事のつかれも\nあっという間にふきとぶぜ！\n<PAGE>\n<FACE_LOSS>…え、オヤジくさい？\nそりゃねえよ、<_____MYNAME_____>…。"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_J_RELIEF",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nいこいの場、かなり\n居心地がよくなったよな〜。\n<PAGE>\n今まで見た目で休むのをためらってた人も\n気軽に休めるようになったみたいだし\nがんばって直したかいがあったな！"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_J_SHRINE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>、オレさ…\nすげー変な夢見たんだ。\n<PAGE>\n<FACE_LOSS>耳の生えた子どもにやたらと\n感謝される夢なんだけど…\nうーん、なんであんな夢見たんだろうな？"
+    },
+    {
+      "VardId": "MES_TOWN_COLLABO_J_TEA",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nそうそう、お前と\nコマリで協力して作ったっていう\n例のどらやき、食ったぜ。\n<PAGE>\nすっげえうまかったよ！\nオレ、どらやきって元々好物なんだけど\nあれはなんていうか…どらやきの王様？\n<PAGE>\n<FACE_LOSS>あっ、こら笑うな！　仕方ねえだろ！\nあのうまさを表現できるいい言葉が\nほかに思いつかねーんだから！"
+    },
+    {
+      "VardId": "MES_TOWN_COLLABO_J_BATH",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nお前と湯屋が協力して作ったっていう\n風呂に入ったんだけどさ。\n<PAGE>\n<FACE_LAUGH>なんか、あれだな。\n風呂なのに食欲がわくっていうか…\nうまそうなにおいだった。面白いなあれ！"
+    },
+    {
+      "VardId": "MES_TOWN_COLLABO_J_ACCESSORY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>がユヅキと作った\nかんざし、かなりの売れ行きだぜ。\n<PAGE>\nまあ、材料の質もそれを生かす技術にも\n文句なしの最強の２人が組んだ\nわけだから、当然の結果だけどな！"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_S_KITCHEN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_S_BONFIRE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_S_INN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_S_LANDING",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_TOWN_COLLABO_S_FOOD",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_TOWN_COLLABO_S_TEA",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_TOWN_COLLABO_S_DRESS",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_WEATHER_A_SUNNY_SPRING",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nおーおー、<_____MYNAME_____>。\nほら、そこにわた毛ついてるぞ。\n<PAGE>\n…なんてな、じょうだんだよ。"
+    },
+    {
+      "VardId": "MES_WEATHER_A_RAIN_SPRING",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\n雨の中、遠出したから\n足元がドロだらけだ。\nちょっとはずかしいから、足元見るなよ。"
+    },
+    {
+      "VardId": "MES_WEATHER_A_SNOW_SPRING",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n雪か〜。\n明日は晴れるといいんだけどな…。"
+    },
+    {
+      "VardId": "MES_WEATHER_A_SUNNY_SUMMER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\nつゆくさの里だろうが、この町だろうが\nどこにいても暑いもんは暑いな。\n湯につかって、サッパリしたいぜ。"
+    },
+    {
+      "VardId": "MES_WEATHER_A_RAIN_SUMMER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n今日は、雨で助かったぜ。\nさすがにあの日差しの中を\nここまで来るのは、少しきついからな。"
+    },
+    {
+      "VardId": "MES_WEATHER_A_SNOW_SUMMER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n雪か〜。\n明日は晴れるといいんだけどな…。"
+    },
+    {
+      "VardId": "MES_WEATHER_A_SUNNY_AUTUMN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nこの町は、標高が高いから\nうちの里よりも空気が冷たくて\n気持ちいいな。"
+    },
+    {
+      "VardId": "MES_WEATHER_A_RAIN_AUTUMN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>、そこ\n雨ですべりやすくなってるからな。\n気をつけろよ。"
+    },
+    {
+      "VardId": "MES_WEATHER_A_SNOW_AUTUMN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n雪か〜。\n明日は晴れるといいんだけどな…。"
+    },
+    {
+      "VardId": "MES_WEATHER_A_SUNNY_WINTER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\nう〜。\n寒さで耳がすげージンジンする。\nこれ、いやなんだよな。"
+    },
+    {
+      "VardId": "MES_WEATHER_A_RAIN_WINTER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>、そこ\n雨ですべりやすくなってるからな。\n気をつけろよ。"
+    },
+    {
+      "VardId": "MES_WEATHER_A_SNOW_WINTER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n明日は晴れるといいんだけど…。\n雪かきのしすぎで、\nこしが曲がりそうだぜ。"
+    },
+    {
+      "VardId": "MES_WEATHER_J_SUNNY_SPRING",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nこの里の春は、本当にきれいだよな。\n花吹雪が見事だ。\nうちの兄弟たちにも見せてやりたいぜ。"
+    },
+    {
+      "VardId": "MES_WEATHER_J_RAIN_SPRING",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n雨の中、ここまで来るのは\n大変だっただろ？\nつかれてるなら、そのへんで休んでいけよ。"
+    },
+    {
+      "VardId": "MES_WEATHER_J_SNOW_SPRING",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nオレのふるさとは\nここよりもよく雪がふるんだ。\n<PAGE>\n兄ちゃんたち、\nかぜをひいてないといいけど…。"
+    },
+    {
+      "VardId": "MES_WEATHER_J_SUNNY_SUMMER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\nあちーなぁ…。\n今すぐ川に飛びこんで、水浴びしたい…。\n<_____MYNAME_____>もやるか？"
+    },
+    {
+      "VardId": "MES_WEATHER_J_RAIN_SUMMER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nオレ、夏の雨は好きなんだ。\n夏草と雨のにおいが混じった香りは、\nふるさとを思い出すよ。"
+    },
+    {
+      "VardId": "MES_WEATHER_J_SNOW_SUMMER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nオレのふるさとは\nここよりもよく雪がふるんだ。\n<PAGE>\n兄ちゃんたち、\nかぜをひいてないといいけど…。"
+    },
+    {
+      "VardId": "MES_WEATHER_J_SUNNY_AUTUMN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nまさに収穫日和の天気だな〜。\n<_____MYNAME_____>の牧場の作物も\nきっと喜んでると思うぜ。"
+    },
+    {
+      "VardId": "MES_WEATHER_J_RAIN_AUTUMN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\nオレのかみの毛はゴワゴワしてるから\n雨だとすぐはねるんだよ…。\nねぐせを直すのに、一苦労だぜ。"
+    },
+    {
+      "VardId": "MES_WEATHER_J_SNOW_AUTUMN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nオレのふるさとは\nここよりもよく雪がふるんだ。\n<PAGE>\n兄ちゃんたち、\nかぜをひいてないといいけど…。"
+    },
+    {
+      "VardId": "MES_WEATHER_J_SUNNY_WINTER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n牧場は季節を問わず\n水仕事があるから、寒い日は大変だよな。\n今日もおつかれさま！"
+    },
+    {
+      "VardId": "MES_WEATHER_J_RAIN_WINTER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\nオレのかみの毛はゴワゴワしてるから\n雨だとすぐはねるんだよ…。\nねぐせを直すのに、一苦労だぜ。"
+    },
+    {
+      "VardId": "MES_WEATHER_J_SNOW_WINTER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nオレのふるさとは\nここよりもよく雪がふるんだ。\n<PAGE>\n兄ちゃんたち、\nかぜをひいてないといいけど…。"
+    },
+    {
+      "VardId": "MES_WEATHER_S_SUNNY_SPRING",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\n暑いのは、きらいじゃないんだけど\nそれがずっと続くのはさすがにな…。\nこの村の人たちは、すげえよ。"
+    },
+    {
+      "VardId": "MES_WEATHER_S_RAIN_SPRING",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nこの村の植物は、雨の方がきれいだよな。\n花も葉っぱも全部にツヤが出てて\nキラキラしてるよ。"
+    },
+    {
+      "VardId": "MES_WEATHER_S_SNOW_SPRING",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nこんなにあったかい村でも\n雪がふるんだな。\nなんか、変な感じだ。"
+    },
+    {
+      "VardId": "MES_WEATHER_S_SUNNY_SUMMER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\n…今のオレには\n近づかねえ方がいいと思う。\nたぶん、あせくさいぞ。\n<PAGE>\n<FACE_SAD>接客仕事だから\nにおいには気をつけてるんだけど\nこの暑さじゃ、防ぎようがねえよ。"
+    },
+    {
+      "VardId": "MES_WEATHER_S_RAIN_SUMMER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n夏といえば、うちの里だと\nこわい話で盛りあがるんだけど\nここでもそういうのはあるのかな？"
+    },
+    {
+      "VardId": "MES_WEATHER_S_SNOW_SUMMER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nこんなにあったかい村でも\n雪がふるんだな。\nなんか、変な感じだ。"
+    },
+    {
+      "VardId": "MES_WEATHER_S_SUNNY_AUTUMN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nよう、<_____MYNAME_____>！\n異国の村で異国人同士が会うのって\nなんだかうれしいよな。"
+    },
+    {
+      "VardId": "MES_WEATHER_S_RAIN_AUTUMN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nここは、いつも花の甘い香りがするよな。\n甘いもの好きのオレとしては\nいやされる香りだよ。"
+    },
+    {
+      "VardId": "MES_WEATHER_S_SNOW_AUTUMN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nこんなにあったかい村でも\n雪がふるんだな。\nなんか、変な感じだ。"
+    },
+    {
+      "VardId": "MES_WEATHER_S_SUNNY_WINTER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nこの村の服は見た目があざやかだよな。\nああいう、面白い模様の反物(たんもの)を\nうちの店にも仕入れてみようかな。"
+    },
+    {
+      "VardId": "MES_WEATHER_S_RAIN_WINTER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nここは、いつも花の甘い香りがするよな。\n甘いもの好きのオレとしては\nいやされる香りだよ。"
+    },
+    {
+      "VardId": "MES_WEATHER_S_SNOW_WINTER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nさすがに、このくらいの寒さになると\nこの村でも雪がふるんだよな。\n<PAGE>\nそれでも、うちの里に比べれば\nずいぶんとあったかいから\n冬の間はここで暮らしたいくらいだ。"
+    },
+    {
+      "VardId": "MES_WEATHER_TYPHOON",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\nえっ、<_____MYNAME_____>！？\nこんな台風の中、ここまで来たのか！？\nあぶねえだろ！\n<PAGE>\n<FACE_NORMAL>わざわざ会いに来てくれたのは\nうれしいけどさ、無茶するなよ。\nまあ、ゆっくりしてってくれ。"
+    },
+    {
+      "VardId": "MES_WEATHER_HEAVYSNOW",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\nえっ、<_____MYNAME_____>！？\nこんな大雪の中、ここまで来たのか！？\nあぶねえだろ！\n<PAGE>\n<FACE_NORMAL>とにかく、あんまり無茶なことするな。\nみんなお前のことを\n気にかけてるんだからさ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_WEATHER_TYPHOON",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_ANGRY>\r\n<_____MYNAME_____>、オレの言いたいことは\n分かってるよな？\n<PAGE>\n<FACE_NORMAL>…分かってるなら、いいんだ。\n牧場のことが心配なんだろ？\n<PAGE>\n<FACE_LAUGH>気をつけて行ってこいよ。\nおふろをわかして、待ってるから。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_WEATHER_HEAVYSNOW",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_ANGRY>\r\n<_____MYNAME_____>、オレの言いたいことは\n分かってるよな？\n<PAGE>\n<FACE_NORMAL>…分かってるなら、いいんだ。\n牧場のことが心配なんだろ？\n<PAGE>\n<FACE_LAUGH>気をつけて行ってこいよ。\nおふろをわかして、待ってるから。"
+    },
+    {
+      "VardId": "MES_MAN_MORNING_TALK_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nよう、<_____MYNAME_____>。\n…ふぁ。\n<PAGE>\n<FACE_LAUGH>おいおい、お前のあくびが\nオレにまでうつったじゃねえか。"
+    },
+    {
+      "VardId": "MES_MAN_MORNING_TALK_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nおお、<_____MYNAME_____>。\nねむそうな顔してるぞ。\n牧場仕事は、朝が早いから大変だな。"
+    },
+    {
+      "VardId": "MES_WOMAN_MORNING_TALK_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nよっ、<_____MYNAME_____>。\n…ん？\n朝から元気だねって？\n<PAGE>\n朝だから元気出すんだよ。\n元気のない人に、自分の元気を\n分けてあげられるようにな。"
+    },
+    {
+      "VardId": "MES_WOMAN_MORNING_TALK_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nよう、<_____MYNAME_____>。\nオレの今日は、いい一日になりそうだよ。\nお前もがんばれよ。"
+    },
+    {
+      "VardId": "MES_MAN_AFTERNOON_TALK_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nヒマだったら、<_____MYNAME_____>と\n釣りがしたいと思ったんだけど…\n今日は予定が入ってるからな。残念だ。"
+    },
+    {
+      "VardId": "MES_MAN_AFTERNOON_TALK_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\nさっき、おなかの音が鳴ったのを\n通りすがりの人に聞かれて笑われたよ。\n…あれは、はずかしかったな。"
+    },
+    {
+      "VardId": "MES_WOMAN_AFTERNOON_TALK_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n牧場仕事は一息ついたってところか？\nせっかくこっちまで来たんだから\nみんなに会って行けよ。"
+    },
+    {
+      "VardId": "MES_WOMAN_AFTERNOON_TALK_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n牧場をがんばってるお前を見てると、\nオレも負けてられねえなって思うよ。"
+    },
+    {
+      "VardId": "MES_MAN_EVENING_TALK_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nうーん…。\n今日はねる前に何か本でも読もうかな。\nなあ、おすすめとか教えてくれよ。"
+    },
+    {
+      "VardId": "MES_MAN_EVENING_TALK_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nおつかれ、今日の仕事は終了か？\nオレも今日はクタクタだよ。"
+    },
+    {
+      "VardId": "MES_WOMAN_EVENING_TALK_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n暗いと仕事がしにくいだろ？\n今日はもう、ほどほどに切り上げとけよ。"
+    },
+    {
+      "VardId": "MES_WOMAN_EVENING_TALK_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n今日も大変だったのか？\n来る日も来る日も大変そうだな。\n今夜は、ゆっくり休めよ。"
+    },
+    {
+      "VardId": "MES_LOVER_MORNING_TALK_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>、おはよう。\n朝から顔を見れるなんて、ついてるぜ。\n一日がんばれそうだよ。"
+    },
+    {
+      "VardId": "MES_LOVER_MORNING_TALK_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>、おはよう。\nお前の足音って、とくちょう的だよな。\nすぐに分かるよ。"
+    },
+    {
+      "VardId": "MES_LOVER_MORNING_TALK_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nああ、お前か。\nこんなところでなにしてるんだ？"
+    },
+    {
+      "VardId": "MES_LOVER_AFTERNOON_TALK_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>の笑顔が好きだよ。\n昼間のお天道さまみてえで\nキラキラしてるんだ。"
+    },
+    {
+      "VardId": "MES_LOVER_AFTERNOON_TALK_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n今日は、いい日だな。\nこうして<_____MYNAME_____>と\n話せるんだから。\n<PAGE>\nこのまま夜まで、ずっといっしょに\nいられたらいいのにな。"
+    },
+    {
+      "VardId": "MES_LOVER_AFTERNOON_TALK_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\n仕事いそがしいんだろ。\nオレに構ってる時間なんてあるのか？"
+    },
+    {
+      "VardId": "MES_LOVER_EVENING_TALK_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前に会えなかった日は\n一日が無事に終わった気がしないんだ。\n明日も会えるといいな！"
+    },
+    {
+      "VardId": "MES_LOVER_EVENING_TALK_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>のことだから\n今日もがんばって働いてたんだろ？\nいつも、ほんとにおつかれさま！"
+    },
+    {
+      "VardId": "MES_LOVER_EVENING_TALK_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nもうこんな時間か。\n夜道はあぶないから、帰った方がいいぞ。\n送れないけど、気をつけて帰れよ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_MORNING_TALK_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nおはよう、<_____MYNAME_____>。\nちょっとの間だけ、だきしめてもいいか？\n今日も一日がんばれるように。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_MORNING_TALK_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n毎日いっしょに朝をむかえられて\nこうして、朝一番に顔が見れる。\n結婚して良かったって思うよ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_MORNING_TALK_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nそういえば、お前うなされてたぞ。\n仕事のしすぎじゃないのか？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_AFTERNOON_TALK_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\nあのなあ、<_____MYNAME_____>。\n朝からほかのことに集中しすぎだぞ。\n<PAGE>\nあいさつは大事なんだから\nわすれんなよ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_AFTERNOON_TALK_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nうん。\nやっぱり、<_____MYNAME_____>の声がないと\nオレの一日が始まらないみたいだ。\n<PAGE>\n<FACE_LAUGH>明日は、朝いちで\nお前の声を聞かせてくれよ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_AFTERNOON_TALK_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\nああ…おそくなったけど、おはよう。\n今日は、朝から一言も\n口きいてなかったしな。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_EVENING_TALK_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n夫婦なのに\n夜が初めての会話ってのは\nちょっとさびしいな。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_EVENING_TALK_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\nくだらないことかもしんねえけど、\n好きで好きでいっしょになった女と\nこんな時間まで話せないのは、いやだな。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_EVENING_TALK_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\n夜に今日初めての会話か…。\nオレたち、いっしょに暮らしてる意味\nあるのかな？"
+    },
+    {
+      "VardId": "MES_GREETING_WEEKDAYS_0",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nよし、今日も売って売って\n売りまくるか！\n<PAGE>\n<_____MYNAME_____>も、うちの店で\n１品くらい買ってけよ。"
+    },
+    {
+      "VardId": "MES_GREETING_WEEKDAYS_1",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n仕事のあとはいつも\nしばいの練習に行ってるんだ。\nそのおかげで、毎日仕事をがんばれるよ。"
+    },
+    {
+      "VardId": "MES_GREETING_WEEKDAYS_2",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_FEERING_GOOD_TALK_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nおう、<_____MYNAME_____>！\n調子はどうだ？\nオレは絶好調だぜ〜♪"
+    },
+    {
+      "VardId": "MES_FEERING_GOOD_TALK_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nふふ〜ふん〜ふんふん〜。\n<PAGE>\n気分がいいと、鼻歌が出ちまうよな。\n今日はずっといい気分だぜ。"
+    },
+    {
+      "VardId": "MES_LOVER_FEERING_GOOD_TALK_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>、どうした？\nオレに会いに来てくれたのか？\nうれしいなあ。\n<PAGE>\n今日は気分がいい上に\n<_____MYNAME_____>と会えたんだから\n言うことなしだぜ。"
+    },
+    {
+      "VardId": "MES_LOVER_FEERING_GOOD_TALK_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>、いいところに来たな。\n手を出せよ。\n<PAGE>\nオレは、今日いいことがあったから\nすげえ幸せなんだ。\nだから、お前にも分けてやるよ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FEERING_GOOD_TALK_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>、今日もきれいだな！\nさすがはオレのヨメさんだ。\n<PAGE>\n<FACE_NORMAL>うん？\n…今日はきげんがいいんだねって？\n<PAGE>\n<FACE_LAUGH><_____MYNAME_____>がオレの名前を\nねごとでつぶやいてたからな。\nもう、うれしくってしかたないんだよ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FEERING_GOOD_TALK_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n結婚してから、独身だったころよりも\n気分よく過ごせる日が多くなったな。\n今日も幸せに過ごせそうだ。"
+    },
+    {
+      "VardId": "MES_FEERING_TIRED_TALK_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\n特になにかあったわけじゃないけど\n今日は、ゆううつだな。\nつい、ため息が出そうになる。"
+    },
+    {
+      "VardId": "MES_FEERING_TIRED_TALK_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\nふぁ…。\nさっきからあくびが止まんないんだよ。\nつかれてんのかな、オレ。"
+    },
+    {
+      "VardId": "MES_LOVER_FEERING_TIRED_TALK_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>ってすごいな。\n声聞いただけで、\nつかれが取れていく気がするよ。\n<PAGE>\nなあ、わがまま言ってもいいかな？\nあと少しだけ、オレのそばにいてくれ。"
+    },
+    {
+      "VardId": "MES_LOVER_FEERING_TIRED_TALK_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n今日は、朝から調子が出ないんだ。\nお前がひざまくらしてくれたら\nつかれも取れそうな気がするんだけど。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FEERING_TIRED_TALK_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nうん？　オレがつかれた顔してるって？\n…やっぱりそう見えるのか。\n<_____MYNAME_____>は何でもお見通しだな。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FEERING_TIRED_TALK_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n今日は元気が出ないんだ。\nだから、たくさん\n<_____MYNAME_____>の笑った顔が見たいな。"
+    },
+    {
+      "VardId": "MES_MAN_CHANGE_FEELING_GOOD",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nありがとな、<_____MYNAME_____>。\nなんだか気分が上向いてきたよ。\nやっぱり、持つべきものは男友達だな！"
+    },
+    {
+      "VardId": "MES_WOMAN_CHANGE_FEELING_GOOD",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nありがとな、<_____MYNAME_____>！\nこの笑顔はお前のおかげで出せたんだ。\n今日会えてよかったよ。"
+    },
+    {
+      "VardId": "MES_LOVER_CHANGE_FEELING_GOOD",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n…お前と恋人になってから、\nいやな気分のまま\n一日を終わることが少なくなったな。\n<PAGE>\nありがとう、<_____MYNAME_____>。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_CHANGE_FEELING_GOOD",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>のおかげで\n元気が出てきたよ。\nわれながら現金だな…。\n<PAGE>\nまあ、それだけ<_____MYNAME_____>は\nオレにとって良くも悪くも\n力をくれる存在ってことだな。"
+    },
+    {
+      "VardId": "MES_MAN_CHANGE_FEELING_BAD",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\n…なんかつかれちまったな。\n今日はもう元気が出ねえや。"
+    },
+    {
+      "VardId": "MES_WOMAN_CHANGE_FEELING_BAD",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\n…なんかつかれちまったな。\n悪いけど、あまり話しかけないでくれ。"
+    },
+    {
+      "VardId": "MES_LOVER_CHANGE_FEELING_BAD",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\nうーん…。\n調子が上がらねえな。\n今日は早めにねむろう。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_CHANGE_FEELING_BAD",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\nなんだか、どっとつかれが出てきたな。\n話すのもおっくうだ。"
+    },
+    {
+      "VardId": "MES_TODAY_GODDESS",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_TODAY_RICE_EAR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n今日は、いなほ祭だな！\n<_____MYNAME_____>も来るんだろ？\n一年に一度だし、いっしょに楽しもうぜ。"
+    },
+    {
+      "VardId": "MES_TODAY_WITCH",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_TODAY_GAME",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n今日は、ゲーム大会か。\nやるからには優勝を目指すぜ！\n勝ったら家族にも報告するんだ。"
+    },
+    {
+      "VardId": "MES_TODAY_DRINK",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n今日のドリンク祭、\nどんな味の飲み物が出てくるか\n楽しみだな！\n<PAGE>\n<_____MYNAME_____>も、\n持っていくドリンクの材料\nわすれないようにしろよ。"
+    },
+    {
+      "VardId": "MES_MAN_TODAY_FRIENDSHIP",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n今日は七夕祭だろ？\nきのうから短冊作りとかの準備で\nあんまり寝てないんだ…。\n<PAGE>\nもしお前が参加して、さらに\nオレが眠そうにしてたら\n起こしてくれよな。"
+    },
+    {
+      "VardId": "MES_WOMAN_TODAY_FRIENDSHIP",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n今夜の七夕祭、\nお前もぜったい参加しろよ？\n<PAGE>\n<FACE_LAUGH>ササの葉の音を聞きながら見る\n天の川はきれいだぞ〜！"
+    },
+    {
+      "VardId": "MES_LOVER_TODAY_FRIENDSHIP",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOVE>\r\nいいか、<_____MYNAME_____>。\n今夜は七夕祭に参加しろよ？\nほかのところになんか、行くなよ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TODAY_FRIENDSHIP",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n七夕祭の参加、別に無理強いはしないから。\n今日くらいは別々でも、\nがまんしてやるよ。\n<PAGE>\n<FACE_LAUGH>…その代わり、帰って来たら\nベタベタにくっついてやるからな！"
+    },
+    {
+      "VardId": "MES_TODAY_NEW_YEAR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nうちの里の新年祭は\n年明けに、もちつきがあるんだ。\n出来立てのもちはうまいぜ〜！\n<PAGE>\n…本当は、今日は静かに\n一年をふり返る日なんだけど、\nどうしても、もちのことを考えちまうな。"
+    },
+    {
+      "VardId": "MES_TODAY_FLOWER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_LOVER_TODAY_FLOWER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TODAY_FLOWER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_TODAY_FLOWER_NOT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_FORGET_FLOWER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_LOVER_FORGET_FLOWER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FORGET_FLOWER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_TODAY_GRUEL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nおっ、<_____MYNAME_____>！\nオレの作ったおかゆ、お前にやるよ。\n<PAGE>\n今年もたくさん笑って\n元気に過ごそうぜ！"
+    },
+    {
+      "VardId": "MES_LOVER_TODAY_GRUEL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nほら、<_____MYNAME_____>。\nオレ特製のおかゆだ！\nよかったら食べてくれ。\n<PAGE>\nお前や、牧場の作物や動物たちが\n一年元気に過ごせるといいな！\n心からそう願ってるよ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TODAY_GRUEL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nほら、<_____MYNAME_____>。\nオレの作ったおかゆだぞ。\n<PAGE>\nしっかり愛情こめて作ったんだから\n絶対に、ご利益があるぞ！\n残さず食べろよ。"
+    },
+    {
+      "VardId": "MES_TODAY_GRUEL_NOT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n…あれ？\nカバンがいっぱいみたいだな。\n整理してこいよ。"
+    },
+    {
+      "VardId": "MES_FORGET_GRUEL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nそうだ、これ。\nさっきわたしそびれたおかゆな！\n<PAGE>\n<FACE_LAUGH>今年もたくさん笑って\n元気に過ごそうぜ！"
+    },
+    {
+      "VardId": "MES_LOVER_FORGET_GRUEL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>、これやるよ。\nお前のために作ったおかゆだ！\nよかったら食べてくれ。\n<PAGE>\nお前や、牧場の作物や動物たちが\n一年元気に過ごせるといいな！\n心からそう願ってるよ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FORGET_GRUEL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nそうそう、わすれるところだった…。\nこの日のための用意した\nオレの特製のおかゆ、わたしておくぜ。\n<PAGE>\nしっかり愛情こめて作ったんだから\n絶対に、ご利益があるぞ！\n残さず食べろよ。"
+    },
+    {
+      "VardId": "MES_TODAY_FRUIT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_LOVER_TODAY_FRUIT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TODAY_FRUIT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_TODAY_FRUIT_NOT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_FORGET_FRUIT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_LOVER_FORGET_FRUIT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FORGET_FRUIT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_GODDESS_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_GODDESS_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_GODDESS_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_GODDESS_SELECT_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_GODDESS_SELECT_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_GODDESS_SELECT_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_GODDESS_SELECT_03",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_RICE_EAR_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nいなほ祭のカンパ？\nそうか、もうそんな季節だもんな。\n回収ご苦労さま！\n<PAGE>\n<FACE_NORMAL>多めに出したい気持ちは山々だけど\n今月は、ふところがさびしいんだ。\nこまったなあ…。"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_RICE_EAR_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nずるいな〜！　そんな風にされると\n奮発(ふんぱつ)しないわけには\nいかないじゃないか！\n<PAGE>\nほら、手元にある金全部だ！\n持ってけ、どろぼー！！"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_RICE_EAR_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nうーん…。\n今回はこれくらいで見のがしてくれ。\n来年は奮発(ふんぱつ)するからさ！"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_RICE_EAR_SELECT_00",
+      "Text": "おがむ"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_RICE_EAR_SELECT_01",
+      "Text": "せっとくする"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_RICE_EAR_SELECT_02",
+      "Text": "こまる"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_RICE_EAR_SELECT_03",
+      "Text": "すねる"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_WITCH_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_WITCH_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_WITCH_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_WITCH_SELECT_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_WITCH_SELECT_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_WITCH_SELECT_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_WITCH_SELECT_03",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_FINISH",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_1_MORE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_2_MORE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_3_MORE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_4_MORE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_5_MORE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_6_MORE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nこんな広い土地を\n１人で使うなんてな。\n大変そうだけど、うらやましいぜ！"
+    },
+    {
+      "VardId": "MES_MAP_FARM_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n牧場にいる時の<_____MYNAME_____>って\nちょっと顔つきが変わるよな。\n<PAGE>\n<FACE_LAUGH>きっちり仕事と向き合ってるって\n表情をしてるぜ。\nうん、かっこいいな！"
+    },
+    {
+      "VardId": "MES_MAP_THREE_FORKED_ROAD_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nそこの小さいわき水で\n顔をあらうと、サッパリするぜ。\n足がつかれた時の小休止にぴったりだ。"
+    },
+    {
+      "VardId": "MES_MAP_THREE_FORKED_ROAD_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n３つの門を見くらべてると\n自分の里の門も、けっこう変わった形を\nしてるんだなって思うよ。\n<PAGE>\nふだん見なれてるから分かりにくいけど\nほかの町のやつからしたら\nオレの里もじゅうぶん異国なんだろうな。"
+    },
+    {
+      "VardId": "MES_MAP_AMERICA_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n歩いて来れるくらい近い町なのに\nオレの町とはふんいきも全然ちがうよな。\n何回来ても、新しい発見があるよ。"
+    },
+    {
+      "VardId": "MES_MAP_AMERICA_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n仕事がら、この町に来ると\nお店にならんでる品物を見ちまうんだ。\n<PAGE>\nいい品は、だんなさまにかけあって\nうちの店にも仕入れるんだ。\nめずらしい物好きの客に売ってるよ。"
+    },
+    {
+      "VardId": "MES_MAP_AMERICA_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MAP_AMERICA_03",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MAP_AMERICA_04",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MAP_AMERICA_05",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MAP_JAPAN_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nこのへんは、年中川風が吹くんだ。\n春や夏はいいんだけど\n寒い季節になると、ほんとに冷えるぜ。"
+    },
+    {
+      "VardId": "MES_MAP_JAPAN_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n川には小舟(こぶね)がよく通るんだ。\nそうそう、うちの店専用の小舟もあるぜ。\nオレもたまに使ってるよ。"
+    },
+    {
+      "VardId": "MES_MAP_JAPAN_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nイッテツさんの家で飼ってる\nニワトリの卵とウメキチじいちゃんの米は\nうちの店からほかの町へ出荷してるんだ。\n<PAGE>\n<FACE_LAUGH>どっちの品も、お客さんから\nおいしいって大人気でさ。\nオレまでうれしくなるよ。"
+    },
+    {
+      "VardId": "MES_MAP_JAPAN_03",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nここの竹を使って\nよく竹細工を作るんだ。\n<PAGE>\nえっ、<_____MYNAME_____>にも\nなんか作れって？　そうだな…。\n気が向いたら、作ってやるよ。"
+    },
+    {
+      "VardId": "MES_MAP_JAPAN_04",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n奥の大木は、３００年以上も\n前からあるんだってよ。\n豊作の神が宿ってるみたいだぜ。\n<PAGE>\n<_____MYNAME_____>も牧場主なんだし\nお祈りしたら、ご利益あるかもな。"
+    },
+    {
+      "VardId": "MES_MAP_JAPAN_05",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nたまにここで釣りをするんだ。\nとれたてのアユは、\nアライにして食べると絶品だぜ。"
+    },
+    {
+      "VardId": "MES_MAP_SOUTH_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nこの村の人たちって\n自分の手や耳にかざり物を\nたくさん身につけてるよな。\n<PAGE>\n<FACE_LOSS>特にさ、耳にあなを開けるなんて、\nオレならおそろしくて泣いちまうよ…！\nみんな勇気あるよな。"
+    },
+    {
+      "VardId": "MES_MAP_SOUTH_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nこの村の人たちって、\nオレみたいなほかの町から来たヤツにも\nしきりに声をかけてくるんだ。\n<PAGE>\n友好的で陽気だよな。\nオレ、この村が好きだよ！"
+    },
+    {
+      "VardId": "MES_MAP_SOUTH_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MAP_SOUTH_03",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MAP_SOUTH_04",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nこの場所は、オレのお気に入りなんだ。\n海が一面に広がっててさ。\n見てると、心がすーっとするんだ。"
+    },
+    {
+      "VardId": "MES_MAP_SOUTH_05",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nここの浜茶屋で、\n波音を聞きながら食事するってのは\nいいもんだぜ。"
+    },
+    {
+      "VardId": "MES_MAP_SHOOTING_STAR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MAP_WINDMILL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nあの風車、でっけえよな。\n頭より上の高さに、\nあんなのが回ってるなんて…。\n<PAGE>\n<FACE_LOSS>…見ながら口が開いてるって？\nうるせー！\nあ、こら、笑うなよ！"
+    },
+    {
+      "VardId": "MES_MAP_MILKY_WAY_A",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MAP_SNOWMAN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nオレも、うちの里の子と\n雪だるまを作るときがあるけど\nこの町の雪だるまは、まるで別ものだな。\n<PAGE>\nそういうところにも\n異国のちがいってのが出てくるんだな。\n面白いよ。"
+    },
+    {
+      "VardId": "MES_MAP_TREE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nウェインに聞いたんだけど\nこの町にかざってあるモミの木は\n神さまを示してるものらしいぜ。\n<PAGE>\nうちの里で新年にかざる門松も\n似たようなもんだって教えたら、\nどこも同じなんだなって、２人で笑ったよ。\n<PAGE>\n<FACE_LAUGH>ちがいも多いけど、それに負けないくらい\n同じところもたくさんある。\nそれって、なんかうれしいよな！"
+    },
+    {
+      "VardId": "MES_MAP_WIND_BELL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n…風鈴(ふうりん)が鳴ってる。\n家ごとにちがう風鈴をつるしてるから、\nみんなで歌ってるみたいだな！"
+    },
+    {
+      "VardId": "MES_MAP_COLD_VEGETABLE_J",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n川辺に冷やした野菜っていよな！\nちょっぴり塩やみそをつけて食べると\n野菜のあまみが増して最高だよ。"
+    },
+    {
+      "VardId": "MES_MAP_FIREFLY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n夏の夜のホタル…風情がある景色だな。\nあのゆるゆると光ってるさまが、\n世のはかなさとたとえられるのも分かるよ。\n<PAGE>\n<FACE_LOSS>…おい、笑うことないだろ。\nこう見えても演じ手のはしくれだぞ。\n人並み以上の感性は持ってるつもりだよ。"
+    },
+    {
+      "VardId": "MES_MAP_MORNING_GRLORY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nアサガオきれいだよな！\nオレは水色のやつが好きなんだ。\n見た目が一番すずしげだと思わないか？"
+    },
+    {
+      "VardId": "MES_MAP_SILVER_GRASS",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nオレの実家の周辺は、ススキを使った\nかやぶきの屋根が多いんだ。\nススキを見ると、なつかしい気分になるよ。"
+    },
+    {
+      "VardId": "MES_MAP_DRAGONFLY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nヤイチがさ、トンボ好きなんだよ。\nつかまえて見せてあげると\n大喜びするんだ。"
+    },
+    {
+      "VardId": "MES_MAP_STRAW",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n毎年、このあたりに干されてる\nわらを分けてもらって\n自分でカサやワラジを作るんだ。\n<PAGE>\n<FACE_LAUGH>オレのやつは\nなかなか出来がいいんだぜ。\nちょっとした金かせぎになってるよ。"
+    },
+    {
+      "VardId": "MES_MAP_DRIED_PERSIMMON",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\n小さいころ、兄ちゃんにだまされて\nまだ甘くないほしがきを\n食べさせられたことがあってさ…。\n<PAGE>\nそれ以来、ほしがきは苦手なんだ。\nかきは好きなんだけどなー。"
+    },
+    {
+      "VardId": "MES_MAP_THUNDERHEAD",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nほら、海の方見てみろよ！\nすげえでっかい雲があるぜ。\n迫力(はくりょく)があるよなー。"
+    },
+    {
+      "VardId": "MES_MAP_NOCTILUCA",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MAP_MILKY_WAY_S",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MAP_COLD_VEGETABLE_S",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n果物が水につかってるぜ。\nうらやましい…。\nオレもいっしょにつかりたいよ。"
+    },
+    {
+      "VardId": "MES_MAP_GULL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n見ろよ、カモメが飛んでる。\nあのへんに魚でも集まってんのかな？\n釣り道具を持ってくればよかったぜ。"
+    },
+    {
+      "VardId": "MES_PLAYER_HOUSE_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nこの家、<_____MYNAME_____>が\nいっしょうけんめい働いた金で\n建てたんだよな。\n<PAGE>\nオレも大事に使うからな！\n安心しろよ。"
+    },
+    {
+      "VardId": "MES_PLAYER_HOUSE_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nこっちに住み始めてから\n台本のせりふ読みがはかどってるよ。\n<PAGE>\nこれまでは、だんなさまやスモモから\nうるさいって言われやしないかって\nビクビクしながらやってたからさ。\n<PAGE>\nあ、でも<_____MYNAME_____>の\nじゃまにならないようにってのは\nもちろん気をつけてるよ。"
+    },
+    {
+      "VardId": "MES_MY_HOUSE_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nオレの荷物の周辺\nけっこう片付いてるだろ？\nこう見えて、きれい好きなんだぜ。"
+    },
+    {
+      "VardId": "MES_MY_HOUSE_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nオレの部屋って\nけっこう片付いてるんだぜ。"
+    },
+    {
+      "VardId": "MES_FRIEND_HOUSE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nオレの部屋って\nけっこう片付いてるんだぜ。"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_A_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_A_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_A_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_A_03",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_A_04",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_A_05",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_A_06",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_A_07",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_A_08",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_A_09",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_J_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_J_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_J_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_J_03",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_J_04",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_J_06",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_J_08",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_J_09",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_S_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_S_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_S_03",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_S_05",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_S_07",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_S_08",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_S_09",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOP_OPEN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nようこそいらっしゃいませ。\nなにかお探しのときは、\nえんりょなく声をおかけください。"
+    },
+    {
+      "VardId": "MES_LOVER_SCHEDULE_SHOP_OPEN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいらっしゃいませ。\nいつもご利用ありがとうございます。\nどうぞごゆっくり。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_SCHEDULE_SHOP_OPEN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nようこそおいでくださいました。\n本日も、良い品がそろっておりますよ。\nどうぞごらんになってください。"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOP_FREETALK_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n…なんだよ？\nオレの口調が変だって？\n<PAGE>\n店員なんだから、お客様に\nていねいな言葉を使うのは当然だろ。\n<PAGE>\nうちの店は、たとえ家族や友人でも\nほかのお客様と区別しない決まりなんだ。\n仕事中に、私的な関係は持ちこまねえの。"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOP_FREETALK_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nおくり物用の品などございましたら\nどうぞ、私におっしゃってください。\n真心をこめて、お包みいたしますよ。"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOP_FREETALK_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n商売上、私どもは\nさまざまな品をおすすめしますが\n最終的に決めるのは、お客さまです。\n<PAGE>\nどうかご自身の気持ちに沿ったものを\nお買い上げくださいませ。\nその手伝いができれば、私は幸せです。"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SLEEP",
+      "Text": "<FACE_APPRENTICE>\r\nやったよ…兄ちゃんたち………。\nオレ………主役やるんだ…。"
+    },
+    {
+      "VardId": "MES_LOVER_SCHEDULE_SLEEP",
+      "Text": "<FACE_APPRENTICE>\r\nそいつに…手を……出すな…………。\n<_____MYNAME_____>は………………\n………オレの…女だ…。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_SCHEDULE_SLEEP",
+      "Text": "<FACE_APPRENTICE>\r\n大丈夫だ………………。\n……オレが守るぞ。"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SICK",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\nあれくらいのことで\nからだを悪くするなんて……。\n…………情けねえ。\n<PAGE>\n<_____MYNAME_____>、悪いけど\n用件はまた明日にしてくれ。"
+    },
+    {
+      "VardId": "MES_LOVER_SCHEDULE_SICK",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\n今日はからだが…………\n言うことをきかねえんだ。\nお前の相手はできそうにない。\n<PAGE>\n…………なんだよ。\n今日はやけに優しいんだな。\n<PAGE>\n病気で苦しいのと\nうれしいのが、ごっちゃになって\nわけが分かんなくなってきた。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_SCHEDULE_SICK",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\n悪いな、<_____MYNAME_____>……。\n病気でめいわくをかけちまって。\n<PAGE>\n自分では、どうってことないって\nそう思ってたんだが…。\nこういう時だけ、からだは正直だな。\n<PAGE>\n今日はこのまま\nゆっくり休むことにするよ…。"
+    },
+    {
+      "VardId": "MES_MEAL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nはあ……うめえ。\nうまいもの食べてる時って\nなんでこんなに幸せなんだろうな。"
+    },
+    {
+      "VardId": "MES_LOVER_MEAL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nご飯食べてる時に\nこうして<_____MYNAME_____>と話してると、\nなんか…いっしょに生活してるみたいだな。"
+    },
+    {
+      "VardId": "MES_MEAL_RESTAURANT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n休みの日は、時々こうして\nほかの町へ甘いものを食べに来るんだ。\n<PAGE>\n元々は、ユヅキに付き合ってるだけ\nだったんだけどさ。\nこれが、いい気晴らしになるんだ。"
+    },
+    {
+      "VardId": "MES_MEAL_JAPANESE_TEA",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nほかの町での食事もいいけど、\nやっぱりここが一番落ち着いて\n食べられるな。"
+    },
+    {
+      "VardId": "MES_MEAL_SOUTH_TEA",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n休みの日は、時々こうして\nほかの町へ甘いものを食べに来るんだ。\n<PAGE>\n元々はユヅキに付き合ってるだけ\nだったんだけどさ。\nこれが、いい気晴らしになるんだ。"
+    },
+    {
+      "VardId": "MES_MEAL_WITH_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nそうだ、良かったら\nお前もいっしょにどうだ？\n<PAGE>\nほら、食事は人数が多いほうが楽しいだろ。\n<BLUE><____ITEMNAME0____></BLUE>でよければ\n食べていけよ。"
+    },
+    {
+      "VardId": "MES_MEAL_WITH_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nそうこなくっちゃな！\nさあ、そこにすわれよ。"
+    },
+    {
+      "VardId": "MES_MEAL_WITH_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nそっか、残念だな。\n今度はいっしょに食べようぜ。"
+    },
+    {
+      "VardId": "MES_LOVER_MEAL_WITH_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nそうだ。\nご飯まだなら、いっしょに食べないか？\n<BLUE><____ITEMNAME0____></BLUE>で良ければだけど。\n<PAGE>\nせっかく会ったのに、\nこれっきりっていうのも\n物足りないし。"
+    },
+    {
+      "VardId": "MES_LOVER_MEAL_WITH_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nありがとう、<_____MYNAME_____>。\nほら、座れよ。"
+    },
+    {
+      "VardId": "MES_LOVER_MEAL_WITH_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nそうか、それじゃまたの機会に。\n楽しみにしてるよ。"
+    },
+    {
+      "VardId": "MES_MEAL_SELECT_00",
+      "Text": "食べる"
+    },
+    {
+      "VardId": "MES_MEAL_SELECT_01",
+      "Text": "今日はやめておく"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_03",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_04",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_05",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_06",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_07",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_08",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_09",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_10",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_11",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_12",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_13",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_14",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nどうだ？　<_____MYNAME_____>、\nオレはボチボチってとこだな。\n<PAGE>\nまだ時間はあるから、\nもうひとがんばりって感じだな！"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_15",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nあっ、<_____MYNAME_____>。\n今日は、落ち物拾いの手伝いとか\n必要だったりするか？"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_01",
+      "Text": "お手伝いを頼む"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_02",
+      "Text": "お手伝いを頼まない"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_CANCEL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nそっか、いらないならいいんだ。\nじゃ、また今度な！"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_OK",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nうし、まかせとけ。\nなんか集めておくぜ。\n<PAGE>\n<BLUE>18：00</BLUE>ごろには終わってると思うから\nまた話しかけてくれよ！"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_RESULT_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nそうだ。\nお手伝い、やっといたぜ！\n<PAGE>\n<BLUE><____ITEMNAME0____></BLUE>、<MOJI0>個だ。\nカバンに入れといたからな。"
+    },
+    {
+      "VardId": "MES_MAN_FRENDSHIP_CONVERSATION_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nオレ、人見知りとかしないんだ。\nだからお前も、\n気楽に声かけてくれよな！"
+    },
+    {
+      "VardId": "MES_MAN_FRENDSHIP_CONVERSATION_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n部屋でしばいの練習をするんだけど\nせりふを読むときは、\nスモモがいるとやりにくいんだよ。\n<PAGE>\nだからさ、たまに\nお前の牧場で練習してもいいか？\nめいわくはかけないからさ！"
+    },
+    {
+      "VardId": "MES_MAN_FRENDSHIP_CONVERSATION_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前といると、楽しいんだよな。\nくだらない話でも真面目な話でも\nお前は、なんでも聞いてくれるから。"
+    },
+    {
+      "VardId": "MES_MAN_FRENDSHIP_CONVERSATION_03",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nしばいのことで落ちこんだ時に\nお前と話すと、\n不思議と前向きになれるんだ。\n<PAGE>\nお前が上手くいかない時は\nオレが力になってやるよ。\nだから、なんでも言ってくれ。"
+    },
+    {
+      "VardId": "MES_MAN_FRENDSHIP_CONVERSATION_04",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nこんなに心をゆるせる\n友達ができるなんて、\nオレは運がいいのかもしれないな。\n<PAGE>\nこしが曲がって\n歯が抜けたジジイになっても\n今みたいに仲良くしようぜ。"
+    },
+    {
+      "VardId": "MES_WOMAN_FRENDSHIP_CONVERSATION_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nなにかの縁があって\nこうして知り合ったわけだし、\n気楽に話しかけてくれ。"
+    },
+    {
+      "VardId": "MES_WOMAN_FRENDSHIP_CONVERSATION_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n女でここまで話が合うのって\n初めてだな！\n性別を意識しないでしゃべれるよ。"
+    },
+    {
+      "VardId": "MES_WOMAN_FRENDSHIP_CONVERSATION_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前の目って、\nキラキラしてるよな。\n目標持って、がんばってるからかな？"
+    },
+    {
+      "VardId": "MES_WOMAN_FRENDSHIP_CONVERSATION_03",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nお前が思ってる以上に\nオレはお前の力になりたいと\n思ってるよ。\n<PAGE>\n<FACE_LAUGH>だからこまったことがあったら、\n一番にオレをたよってくれよな。"
+    },
+    {
+      "VardId": "MES_WOMAN_FRENDSHIP_CONVERSATION_04",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nオレにとって、お前は\n友達よりもずっと深い存在だよ。\n<PAGE>\nほかのやつと\nひとくくりになんてできないんだ。\nつい、特別あつかいしちまうよ。"
+    },
+    {
+      "VardId": "MES_LOVER_CONVERSATION_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\nオレ、お前との関係に\n期待しすぎてたのかもな。\n…われながら、自分勝手だと思うけど。"
+    },
+    {
+      "VardId": "MES_LOVER_CONVERSATION_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n恋人になったけど\nオレたち、まだまだこれからだよな。\n<PAGE>\n時間はたくさんあるんだし\n二人でゆっくり、恋人にふさわしい\n関係になっていこうぜ。"
+    },
+    {
+      "VardId": "MES_LOVER_CONVERSATION_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOVE>\r\n<_____MYNAME_____>のことを\nひとりじめしたいなって\n思っちまうことがあるんだ。\n<PAGE>\nなんか、よゆうがなくて\nかっこ悪いよな。\n自分がちょっと情けねえよ。"
+    },
+    {
+      "VardId": "MES_LOVER_CONVERSATION_03",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n今までは、どうしたら\nもっとオレを好いてくれるかなって\n考えてたんだ。\n<PAGE>\n<FACE_LAUGH>でも今は、どうしたら\n<_____MYNAME_____>が笑ってくれるかなって\n考えてるよ。"
+    },
+    {
+      "VardId": "MES_LOVER_CONVERSATION_04",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>といっしょにいると\n幸せな気持ちがどんどん\n増えていくんだ。\n<PAGE>\nきっと、<_____MYNAME_____>がオレのことを\n恋人として大事にしてくれてて、\nそれをオレが実感できてるからだと思う。"
+    },
+    {
+      "VardId": "MES_LOVER_CONVERSATION_05",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOVE>\r\nオレがほれてる女は、\n<_____MYNAME_____>だけだ。\n<PAGE>\nオレの一番と特別は、\nこれからもずっと\n<_____MYNAME_____>のものだよ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_CONVERSATION_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\n結婚式をあげた日、\nオレがなんて言ったか覚えてるか？\n<PAGE>\n<_____MYNAME_____>はわすれてるだろうけど\nオレは覚えてるよ。\n…これからもずっと、わすれねえよ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_CONVERSATION_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n結婚生活がこんなに楽しいものだとは\n思ってもみなかったよ。\nもっと早く求婚すれば良かったな。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_CONVERSATION_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n毎日幸せなのは、\n<_____MYNAME_____>がいるおかげだな。\nいいヨメさんをもらったよ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_CONVERSATION_03",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n仕事をしてる<_____MYNAME_____>、\n料理を作ってる<_____MYNAME_____>、\nねている時の<_____MYNAME_____>…。\n<PAGE>\n<FACE_LOVE>全部かわいくて、しょうがないんだ。\nどうすりゃいいんだ…。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_CONVERSATION_04",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nユヅキがさ、結婚してから\nオレのふんいきが変わったって言うんだ。\n…まあ、自分でもそう思うけど。\n<PAGE>\n<FACE_LAUGH>店の仕事にしろ、しばいの練習にしろ\nもっとひたむきになった気がするよ。\n守るものができたからな。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_CONVERSATION_05",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>との結婚は\nオレにとっての\nごほうびだったのかもな。\n<PAGE>\nいやなことや、つらいことも\nたくさんあったけど、\nそれでもおつりがくるくらいだよ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_CONVERSATION_06",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n長い人生を歩む相手に\nオレを選んでくれて、本当にありがとう。\n死ぬまでずっと、幸せにしてやるからな。"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_1_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nかくれんぼ、楽しかったなあ！\n昔から、かくれるよりも\nオニになってさがす方が好きだったんだ。\n<PAGE>\n…かくれるのって、\nじっとしてなきゃダメだから\n性に合わないんだよなあ。"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_1_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_1_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_1_03",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_2_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nちらしずし、いっしょに作って食べて\nいい思い出が出来たよ。\n<PAGE>\n何かお祝いごとがあったら\nまた三人で集まろうな！"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_2_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_2_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_2_03",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_3_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n護符(ごふ)、返しに来てくれたのか！\nありがとう。\n<PAGE>\nしかしまあ、あの帰り道の\n<_____MYNAME_____>のビビりようは\nすごかったな。\n<PAGE>\nからかってるのかって？\nちがう、ちがう。\nなんて言うか、あの時のお前…\n<PAGE>\n…いや、なんでもねえ。\nこっちの話だ。"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_3_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_3_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_3_03",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_4_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nあっ、<_____MYNAME_____>。\n<PAGE>\n…。\n<PAGE>\nこないだは\n接客ほめてくれて、ありがとな。\nあの時の言葉、力になったよ。"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_4_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nあっ、<_____MYNAME_____>。\nこないだは\n接客ほめてくれて、ありがとな。\n<PAGE>\nいつかお前に\n真面目なオレもカッコイイって\n言わせてやるからな！"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_4_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_4_03",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_5_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n…本気なのか？\nオレのものに、なってくれるのか？\n<PAGE>\n…うわあっ！\n<_____MYNAME_____>！？\n<PAGE>\n今のは、しばい練習だよ。\n本当に練習だから！　気にするな！"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_5_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n…あのさ、練習の件なんだけど。\n<PAGE>\n……。\nいや、何でもねえ。\n<PAGE>\nえっ、顔が赤いって？\n気のせいだって、気のせい！"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_5_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_5_03",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_6_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_6_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_6_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_6_03",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_7_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_7_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_7_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_7_03",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_8_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_8_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_8_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_8_03",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_9_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_9_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_9_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_9_03",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_10_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_10_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_10_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_10_03",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_11_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_11_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_11_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_11_03",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_12_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_12_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_12_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_12_03",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_13_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_13_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_13_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_13_03",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_14_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_14_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_14_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_14_03",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_15_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_15_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_15_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_15_03",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_PROPOSAL_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nあのさ、今ちょっと話せないかな？\nどうしても、お前に\n伝えたいことがあるんだ。"
+    },
+    {
+      "VardId": "MES_PROPOSAL_SELECT_00",
+      "Text": "もちろん"
+    },
+    {
+      "VardId": "MES_PROPOSAL_SELECT_01",
+      "Text": "いそがしいからダメ"
+    },
+    {
+      "VardId": "MES_PROPOSAL_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nありがとう。\n二人きりの場所で話したいから、\nついてきてくれ。\n<PAGE>\n…落ち着けオレ。\nしっかりしろ。\n<PAGE>\nえっ、今何か言ったかって？\n言ってねえよ？\n…ただの空耳だろ。行こうぜ。"
+    },
+    {
+      "VardId": "MES_PROPOSAL_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nそっか…。\nじゃあ、また今度聞いてくれ。\nオレ待ってるから。"
+    },
+    {
+      "VardId": "MES_CONFESSION_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nなあ、<_____MYNAME_____>。\nお前に大事な話があるんだけど…\n聞いてくれないか？"
+    },
+    {
+      "VardId": "MES_CONFESSION_SELECT_00",
+      "Text": "もちろん"
+    },
+    {
+      "VardId": "MES_CONFESSION_SELECT_01",
+      "Text": "いそがしいからダメ"
+    },
+    {
+      "VardId": "MES_CONFESSION_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nありがとう。\n二人きりの場所で話したいから、\nついてきてくれ。\n<PAGE>\n…しばいの本番より\nきんちょうするな。\n<PAGE>\nえっ、今何か言ったかって？\n言ってねえよ？\n…ただの空耳だろ。行こうぜ。"
+    },
+    {
+      "VardId": "MES_CONFESSION_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nそっか…。\nじゃあ、また今度聞いてくれ。\nオレ待ってるから。"
+    },
+    {
+      "VardId": "MES_LOVE_CANCEL_00",
+      "Text": "もうこの恋は終わらせるべきなのかも\nしれない…。\nヒナタに別れを切り出そうかな？"
+    },
+    {
+      "VardId": "MES_LOVE_CANCEL_SELECT_00",
+      "Text": "話を切り出す"
+    },
+    {
+      "VardId": "MES_LOVE_CANCEL_SELECT_01",
+      "Text": "今日はやめておく"
+    },
+    {
+      "VardId": "MES_LOVE_CANCEL_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n…ああ、ちゃんと話をしないとな。\nお前の家に行くか。"
+    },
+    {
+      "VardId": "MES_LOVERS_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOVE>\r\n<_____MYNAME_____>が笑うだけで、\nからだがムズムズする…。\n生きてきて初めての感覚だ。\n<PAGE>\nこれが、恋人になったばかりの\n初々しい気持ちってやつなんだろうな。"
+    },
+    {
+      "VardId": "MES_LOVERS_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n別れたこと、後悔(こうかい)してないけど\nお前の恋人だったことも\n後悔してないぞ。\n<PAGE>\nきっと大丈夫だ。\n前のような友達にもどれるさ。"
+    },
+    {
+      "VardId": "MES_LOVERS_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOVE>\r\n初めて恋人になれた時よりも、\n気持ちがうかれてる気がする。\n<PAGE>\nオレ、<_____MYNAME_____>のこと\nずっとあきらめきれなかったんだな。"
+    },
+    {
+      "VardId": "MES_ENGAGEMENT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n…早く、いっしょになりたいな。\n祝言(しゅうげん)が待ち遠しいよ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nだんなさまの離れにいた時よりも\nぐっすりねむれるんだ。\n<_____MYNAME_____>のとなりは心地いいな。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOVE>\r\nオレたちの子ども…か…。\nダメだ……。\nうれしくてつい、ほおがゆるむ…。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nからだの方はどうだ？\nつらい時はちゃんと言えよ。\nずっとそばにいてやるからな。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_03",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n今つらくないなら\n少しだけ、おなかをさわってもいいか？\n<PAGE>\n<FACE_LAUGH>…ハハッ、動いてる動いてる。\nおい、聞こえるか？　お前のお父さんだぞ。\n会えるのを楽しみにしてるぜ。"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME>に指先でふれると\n無意識にオレの指をにぎるんだよ。\nかわいいなあ…！"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n小さいころの弟たちも\nそりゃあかわいかったけど、\nやっぱり自分の子が一番だな。"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n小さかった<CHILD_NAME>が\nもうあんなに大きくなったのか…。\n年月がたつのは早いな。\n<PAGE>\n<FACE_LAUGH>でも、<_____MYNAME_____>は変わらないな！\nずっときれいなままだ。"
+    },
+    {
+      "VardId": "MES_MAN_BLESSING_LOVER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nへえ、ついにくっついたのか！\n良かったな。おめでとう！！\n<PAGE>\nお前の気持ちには、すぐに気づいたよ。\nこれでもかげながら\n応援(おうえん)してたんだぜ。\n<PAGE>\nこれからも見守ってるからな。\nがんばれよ。"
+    },
+    {
+      "VardId": "MES_WOMAN_BLESSING_LOVER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n…ついにユヅキとくっついたんだな。\nおめでとう、<_____MYNAME_____>。\nオレもうれしいよ。\n<PAGE>\nユヅキは良くも悪くも\n自分のことには、にぶいからさ。\nその分、お前が大切にしてやってくれ。"
+    },
+    {
+      "VardId": "MES_BLESSING_LOVER_OTHER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n聞いたぜ、<_____MYNAME_____>。\nとなり町に恋人ができたらしいな。\n今度会わせてくれよ。"
+    },
+    {
+      "VardId": "MES_BLESSING_LOVER_FAMILY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MAN_BLESSING_ENGAGEMENT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n祝言の話、聞いたぜ。\nおめでとう！\nオレも式には参加させてもらうよ。\n<PAGE>\n本音を言うと、先をこされて\nすげえくやしいけどな！\nオレも早くいい人見つけて結婚したいな…。"
+    },
+    {
+      "VardId": "MES_WOMAN_BLESSING_ENGAGEMENT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n実はユヅキから、そろそろ\nお前といっしょになりたいって\n聞いてたんだ。\n<PAGE>\nおめでとう、<_____MYNAME_____>。\nオレも式には参加させてもらうよ。"
+    },
+    {
+      "VardId": "MES_BLESSING_ENGAGEMENT_OTHER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n聞いたぜ、<_____MYNAME_____>。\nついに結婚するらしいな。\nおめでとう！！\n<PAGE>\nオレは式には参加できないから\nその分、後日に式の感想を\nたっぷり聞かせてもらうからな。"
+    },
+    {
+      "VardId": "MES_BLESSING_ENGAGEMENT_FAMILY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MAN_BLESSING_MARRIAGE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nあらためて、結婚おめでとう。\n…いい祝言だったな。\n<PAGE>\n二人の関係を恋人になる前から\n観察していたオレとしても\n胸にくるものがあったよ。\n<PAGE>\n一家の大黒柱として\n奥さんのこと、ちゃんと守ってやれよ。"
+    },
+    {
+      "VardId": "MES_WOMAN_BLESSING_MARRIAGE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n…いい祝言だったな。\nユヅキのあんなうれしそうな笑顔、\n初めて見たよ。\n<PAGE>\nユヅキは、オレの一番の友達だ。\n…いい家庭を持たせてやってくれ。\n末永く、お幸せに。"
+    },
+    {
+      "VardId": "MES_BLESSING_MARRIAGE_OTHER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>、約束通り\n式の感想を聞かせてもらうぜ。\nどうだった？\n<PAGE>\n…ふむふむ。\n……ほうほう。\n………へえー、なるほどね。\n<PAGE>\n幸せな式になったみたいでなによりだ。\nあらためておめでとう。\nほかのみんなにも、のろけろよ！"
+    },
+    {
+      "VardId": "MES_BLESSING_MARRIAGE_PRESENT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nそれと、これはオレからの結婚祝いだ。\nたいしたものじゃねえが、\n良かったら使ってくれ。"
+    },
+    {
+      "VardId": "MES_BLESSING_MARRIAGE_FAMILY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_BLESSING_MARRIAGE_FAMILY_PRESENT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MAN_BLESSING_CHILD_BIRTH",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n子ども生まれたんだって？\nおめでとう、<_____MYNAME_____>。\n奥さんにも、そう伝えてくれ。\n<PAGE>\n…にしても、さっきから本当に\n幸せそうな顔してるな。\nオレまでうれしくなっちまうよ。"
+    },
+    {
+      "VardId": "MES_WOMAN_BLESSING_CHILD_BIRTH",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n子ども生まれたんだって？\nおめでとう、<_____MYNAME_____>。\n<PAGE>\n二人そろって親バカになるのが\n目にうかぶよ。\n大変だろうけど、これからがんばれよ。"
+    },
+    {
+      "VardId": "MES_BLESSING_CHILD_BIRTH_OTHER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n子ども生まれたんだって？\nおめでとう、<_____MYNAME_____>。\n今度オレにも見せてくれよな。"
+    },
+    {
+      "VardId": "MES_BLESSING_CHILD_BIRTH_PRESENT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nそれと、これは\nささやかだけど、オレからのお祝いだ。\n受け取ってくれ。"
+    },
+    {
+      "VardId": "MES_BLESSING_CHILD_BIRTH_FAMILY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_BLESSING_CHILD_BIRTH_FAMILY_PRESENT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_COMING_SYSTER_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>の妹が\n遊びに来てるんだって？\n仲良いんだな。\n<PAGE>\nオレも兄弟のみんなに会いたいよ。\n弟や妹なんかは、おどろくくらい\n成長してるんだろうなー。"
+    },
+    {
+      "VardId": "MES_COMING_MOTHER_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>のおふくろさんが\n遊びに来てるんだって？\n良かったな、しっかり親孝行してやれよ。"
+    },
+    {
+      "VardId": "MES_LOVER_GIFT_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n男でも女でも\n腹がへっては仕事はできぬ！\nこれでも食べて元気だせよ！"
+    },
+    {
+      "VardId": "MES_LOVER_GIFT_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nつかれて元気のない\n<_____MYNAME_____>をはげますのは\n恋人のオレの特権だよな。\n<PAGE>\nってことで、これは差し入れ。\nいつもおつかれさま！"
+    },
+    {
+      "VardId": "MES_LOVER_GIFT_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nオレが<_____MYNAME_____>のために\nできることは、これくらいだからな。\nつかれた時はオレに会いに来いよ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_GIFT_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nはい、これおべんとう。\nあんだけ働いてたら、\nきっとご飯だけじゃ足りないよな。\n<PAGE>\nオレの手作りだから\n味はイマイチかもしれないけど…。\nよかったら食べてくれ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_GIFT_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nオレは夫だからな。\n<_____MYNAME_____>がつかれてることくらい\nちゃんと見れば分かるよ。\n<PAGE>\n<FACE_LAUGH>ほら、おべんとう。\nこれでも食べて、ひと休みしろよ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_GIFT_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nはい、おべんとう。\n楽しく作業ができなくなったら、\nもう今日の仕事は切り上げろよ。"
+    },
+    {
+      "VardId": "MES_MAN_PLAYER_BIRTHDAY_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n誕生日おめでとう！\nまたひとつ、オッサンに近づいたな。\n今日くらいは、ゆっくり休めよ。"
+    },
+    {
+      "VardId": "MES_MAN_PLAYER_BIRTHDAY_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n誕生日おめでとう！\nって、なにおどろいてんだよ。\n友達の誕生日をわすれるわけないだろ！\n<PAGE>\nはい、これお祝いな。\nいい誕生日をすごせよ。"
+    },
+    {
+      "VardId": "MES_WOMAN_PLAYER_BIRTHDAY_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n誕生日おめでとう！\n生んでくれた両親にも\nちゃんとお礼を言っておけよ。"
+    },
+    {
+      "VardId": "MES_WOMAN_PLAYER_BIRTHDAY_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n誕生日おめでとう！\n今日は<_____MYNAME_____>にとって\n一番大切な日だろ？\n<PAGE>\nってことで、誕生日祝いだ。\nよかったら使ってくれ。\nほかのやつにも、しっかり祝ってもらえよ！"
+    },
+    {
+      "VardId": "MES_LOVER_PLAYER_BIRTHDAY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n誕生日おめでとう。\nちゃんとお祝いしたいから、\n今夜は予定を空けておけよ。\n<PAGE>\n<BLUE>19:00</BLUE>になったら\n<GREEN><_____MYNAME_____>の家</GREEN>で待っててくれ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_PLAYER_BIRTHDAY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n誕生日おめでとう。\n今日のために色々と計画してたんだ。\nあとでいっしょにお祝いしような。\n<PAGE>\n<BLUE>19:00</BLUE>になったら\n<GREEN>家</GREEN>で待っててくれ。"
+    },
+    {
+      "VardId": "MES_NO_EMPTY_BIRTHDAY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n…って、今は持ち物が多すぎて\nカバンに入らないみたいだな。\n<PAGE>\n良かったら、またあとで来てくれよ。\n待ってる。"
+    },
+    {
+      "VardId": "MES_FORGET_BIRTHDAY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n持ち物を整理したみたいだな。\nそれじゃあ、あらためてわたすよ。\n誕生日おめでとう！"
+    },
+    {
+      "VardId": "MES_TOWN_BIRTHDAY_PARTY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nそういえば、茶屋のギンジロウさんが\n大事な話があるって言ってたぜ。\n<PAGE>\n<BLUE>13:00</BLUE>になったら\n<GREEN>茶屋</GREEN>に来てくれだとさ。\nじゃ、たしかに伝えたぜ。"
+    },
+    {
+      "VardId": "MES_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n結婚かあ…。\n恋人すらいないオレにとっては\nまだ遠い世界の話だな。"
+    },
+    {
+      "VardId": "MES_LOVER_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOVE>\r\n…あのな、<_____MYNAME_____>。\nオレにもケジメと準備が必要なんだ。\nだから、もう少し待っててくれ。"
+    },
+    {
+      "VardId": "MES_EVENT_BLUE_SHUTTLECOCK_00",
+      "Text": "はずかしいけど…\nヒナタにプロポーズしようかな？"
+    },
+    {
+      "VardId": "MES_EVENT_BLUE_SHUTTLECOCK_SELECT_00",
+      "Text": "する"
+    },
+    {
+      "VardId": "MES_EVENT_BLUE_SHUTTLECOCK_SELECT_01",
+      "Text": "しない"
+    },
+    {
+      "VardId": "MES_EVENT_BLUE_SHUTTLECOCK_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOVE>\r\nへ！？\nこれって、つまり…。\n<PAGE>\n…分かった。\nこっち来い、今スグ来い！\nお前にオレの本気も見せてやる！"
+    },
+    {
+      "VardId": "MES_PROPOSAL_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nもうすぐだな、オレたちの式…。\n恋人気分を味わえるのもあと少しか。\n<PAGE>\nオレ、本当に\nお前と出会えてよかった。\n…ありがとう。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nもう一度、式あげたいな。\n今度は二人きりでさ。\n<PAGE>\n<_____MYNAME_____>の花ヨメすがた\nひとりじめさせてくれ。"
+    },
+    {
+      "VardId": "MES_PENDANT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\nええ！？\nこれって…え…？\nまさかオレにじゃないよな？\n<PAGE>\n<FACE_SAD>そ、そうだよな…いろんな意味で\nどう返事するべきかって、いっしゅん\n真剣(しんけん)になやんじまったよ…。"
+    },
+    {
+      "VardId": "MES_EVENT_PENDANT_00",
+      "Text": "ゆうきを出して…\nヒナタに告白しようかな？"
+    },
+    {
+      "VardId": "MES_EVENT_PENDANT_SELECT_00",
+      "Text": "する"
+    },
+    {
+      "VardId": "MES_EVENT_PENDANT_SELECT_01",
+      "Text": "しない"
+    },
+    {
+      "VardId": "MES_EVENT_PENDANT_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOVE>\r\nへ！？\nこれって、つまり…。\n<PAGE>\n…分かった。\nこっち来い、今スグ来い！\nお前にオレの本気も見せてやる！"
+    },
+    {
+      "VardId": "MES_LOVER_PENDANT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n告白の時に見せてくれた\nお前の笑顔、すげえかわいかった。\nオレ、一生わすれないよ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_PENDANT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nなつかしいな、あの告白…。\nオレ本当にうれしかったんだ。\n<PAGE>\n気持ちのまま\nだきしめそうになるのを\nすげえ必死にガマンしてたよ。"
+    },
+    {
+      "VardId": "MES_LOVER_ANGER_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_ANGRY>\r\n…あのなあ、<_____MYNAME_____>。\nほかの男にプロポーズするなんて\nどういうつもりだ？\n<PAGE>\n言っとくけど、\nオレはお前と別れねえからな！\nぜっっったいに、別れねえぞ！！\n<PAGE>\n<FACE_LOSS>…はあ！？\nただのカンちがい？\n<PAGE>\n<FACE_LOVE>……ごめん！　ゴカイして悪かった。\nたのむから、\nさっきの発言はわすれてくれ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_ANGER_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_ANGRY>\r\n…あのなあ、<_____MYNAME_____>。\nほかの男にプロポーズするなんて\nどういうつもりだ？\n<PAGE>\nお前とオレは、そういう\nヤワな関係じゃねえって信じてるけど\n…あんまり不安にさせないでくれ。"
+    },
+    {
+      "VardId": "MES_LOVER_ANGER_PENDANT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_ANGRY>\r\n…あのなあ、<_____MYNAME_____>。\nほかの男にペンダントを\n見せるなんて、どういうつもりだ？\n<PAGE>\n言っとくけど、\nオレはお前と別れねえからな！\nぜっっったいに、別れねえぞ！！\n<PAGE>\n<FACE_LOSS>…はあ！？\nただのカンちがい？\n<PAGE>\n<FACE_LOVE>……ごめん！　ゴカイして悪かった。\nたのむから、\nさっきの発言はわすれてくれ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_ANGER_PENDANT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_ANGRY>\r\n…あのなあ、<_____MYNAME_____>。\nほかの男にペンダントを\n見せるなんて、どういうつもりだ？\n<PAGE>\nお前とオレは、そういう\nヤワな関係じゃねえって信じてるけど\n…あんまり不安にさせないでくれ。"
+    },
+    {
+      "VardId": "MES_PRESENT_CANNOT_00",
+      "Text": "今はプレゼントをわたせないみたいだ。\nまた後にしよう。"
+    },
+    {
+      "VardId": "MES_PRESENT_CANNOT_01",
+      "Text": "…さっきもプレゼントをわたしたな。\nまた明日にしよう。"
+    },
+    {
+      "VardId": "MES_WRAPPING_FLOWER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_WRAPPING_RICE_GRUEL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nこれオレが包んだやつだよな。\n限定ふろしきだから、今日はよく使ったよ。\n…えっ、オレにくれるのか？"
+    },
+    {
+      "VardId": "MES_WRAPPING_FRUIT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_WRAPPING_LIKE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nおっ、その柄いいな〜。\n…えっ、オレにくれるのか？"
+    },
+    {
+      "VardId": "MES_WRAPPING_NORMAL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nだれかにおくりものか？\n…えっ、オレに？"
+    },
+    {
+      "VardId": "MES_PRESENT_BEST",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nオレの一番好きなものなんだよ。\nもらっていいのか！？\nありがとう、かみしめて食べるよ！"
+    },
+    {
+      "VardId": "MES_PRESENT_VERY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nさすが、<_____MYNAME_____>！\n大好きなものをくれるなんて、\nオレのことよく分かってくれてるんだな。\n<PAGE>\nおくり物の目のつけどころも上手いなんて\n商売の才もあると思うぜ。\nありがとう！"
+    },
+    {
+      "VardId": "MES_PRESENT_LIKE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nこれ好きなんだよ。\nこの恩はいつか返すからな！"
+    },
+    {
+      "VardId": "MES_PRESENT_NORMAL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nありがとう。\n<_____MYNAME_____>のやさしさが\nうれしいよ。"
+    },
+    {
+      "VardId": "MES_PRESENT_DISLIKE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\nうーん……。\n実はこれ、苦手なんだよな。\n次もらうなら、別のものがうれしいな。"
+    },
+    {
+      "VardId": "MES_PRESENT_HATE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\n……。\nオレにこれをくれるなんて\n<_____MYNAME_____>はひどいやつだな。"
+    },
+    {
+      "VardId": "MES_PRESENT_WORST",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\n<_____MYNAME_____>は\nオレのこといじめるつもりかよ？\n<PAGE>\n<FACE_SAD>これ、一番きらいなんだ。\n甘いサラダはありえないだろ。\n次はかんべんしてくれよ。"
+    },
+    {
+      "VardId": "MES_PRESENT_HUGE_VERY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nオレの大好きなものを\n選んでくれるなんて、最高だぜ。\nありがとう、<_____MYNAME_____>。\n<PAGE>\nこんなに大きいんだから、\n店のみんなにも分けてあげたいけど\nせっかくだから、一人で大事に食べるよ。"
+    },
+    {
+      "VardId": "MES_PRESENT_HUGE_LIKE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nこれ、オレの好きなものなんだ。\nさすが<_____MYNAME_____>だな！\nありがとう！\n<PAGE>\nせっかくこんなに大きいんだから、\nうちの店のみんなにも\nおすそ分けするよ。"
+    },
+    {
+      "VardId": "MES_PRESENT_GOLD_VERY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nオレの大好きなものを\n選んでくれるなんて、最高だぜ。\nありがとう、<_____MYNAME_____>。\n<PAGE>\nめずらしいものだから、\n店のみんなにも分けてあげたいけど\nせっかくだから、一人で大事に食べるよ。"
+    },
+    {
+      "VardId": "MES_PRESENT_GOLD_LIKE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nこれ、オレの好きなものなんだ。\nさすが<_____MYNAME_____>だな！\nありがとう！\n<PAGE>\nせっかくのめずらしいものだから、\nうちの店のみんなにも\nおすそ分けするよ。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_BEST",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n誕生日を祝ってくれるだけでも\nうれしいのに、一番好きなものまで\n用意してくれるなんて…。\n<PAGE>\n順番なんてつけるものじゃねえけど、\nまちがいなく、これが今日最高の\nおくりものだよ！！\n<PAGE>\nありがとう、<_____MYNAME_____>。\nオレ幸せだよ！"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_VERY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n誕生日を祝ってくれるだけでも\nうれしいのに、大好きなものまで\n用意してくれるなんて…！\n<PAGE>\nオレのこと喜ばせてくれてありがとう！\n<_____MYNAME_____>の気持ち、\nたしかに伝わったよ！"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_LIKE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n誕生日を祝ってくれるだけでも\nうれしいのに、好きなものまで\n用意してくれるなんて…！\n<PAGE>\n<_____MYNAME_____>のおかげで\nいい誕生日がすごせそうだよ。\n本当にありがとう。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_NORMAL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n誕生日を祝ってくれるだけでも\nうれしいのに、おくりものまで\n用意してくれるなんて…！\n<PAGE>\nそういう優しい気づかいができるところ、\nオレ、尊敬(そんけい)してるよ。\nありがとう。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_DISLIKE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\n<_____MYNAME_____>だから、\nハッキリ言うな。オレの誕生日を\n祝ってくれるのはうれしいけど…\n<PAGE>\nせっかくなら\nオレの好みもちゃんと調べてくれよ。\n喜びたいのに、喜べねえよ。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_HATE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\n<_____MYNAME_____>だから、\nハッキリ言うな。オレの誕生日を\n祝ってくれるのはうれしいけど…\n<PAGE>\n大キライなものを出されちまうと\nうれしさが半分になっちまうよ。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_WORST",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\n<_____MYNAME_____>だから、\nハッキリ言うな。オレの誕生日を\n祝ってくれるのはうれしいけど…\n<PAGE>\nよりによって、なんで\n<BLUE><____ITEMNAME0____></BLUE>を選ぶんだよ。\nこれだけは、今日はもらいたくなかったよ。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_HUGE_VERY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n誕生日を祝ってくれるだけでも\nうれしいのに、大好きなものまで\n用意してくれるなんて…！\n<PAGE>\nオレのこと喜ばせてくれてありがとう！\n<_____MYNAME_____>の気持ち、\nたしかに伝わったよ！\n<PAGE>\nそれに、こんなにでっかいお祝いは\nそうそうお目にかかれないからな。\nふるさとの家族に、手紙でじまんするよ。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_HUGE_LIKE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n誕生日を祝ってくれるだけでも\nうれしいのに、好きなものまで\n用意してくれるなんて…！\n<PAGE>\n<_____MYNAME_____>のおかげで\nいい誕生日がすごせそうだよ。\n本当にありがとう。\n<PAGE>\nそれに、こんなにでっかいお祝いは\nそうそうお目にかかれないからな。\nふるさとの家族に、手紙でじまんするよ。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_GOLD_VERY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n誕生日を祝ってくれるだけでも\nうれしいのに、大好きなものまで\n用意してくれるなんて…！\n<PAGE>\nオレのこと喜ばせてくれてありがとう！\n<_____MYNAME_____>の気持ち、\nたしかに伝わったよ！\n<PAGE>\nそれに、こんなにピカピカのお祝いは\nそうそうお目にかかれないからな。\nふるさとの家族に、手紙でじまんするよ。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_GOLD_LIKE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n誕生日を祝ってくれるだけでも\nうれしいのに、好きなものまで\n用意してくれるなんて…！\n<PAGE>\n<_____MYNAME_____>のおかげで\nいい誕生日がすごせそうだよ。\n本当にありがとう。\n<PAGE>\nそれに、こんなにピカピカのお祝いは\nそうそうお目にかかれないからな。\nふるさとの家族に、手紙でじまんするよ。"
+    },
+    {
+      "VardId": "MES_FLOWER_FESTIVAL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_LOVER_FLOWER_FESTIVAL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FLOWER_FESTIVAL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_FLOWER_FESTIVAL_RETURN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_LOVER_FLOWER_FESTIVAL_RETURN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FLOWER_FESTIVAL_RETURN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_RICE_GRUEL_FESTIVAL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nこれ、育った町の風習でも無いのに\nわざわざ用意してくれたのか？\n<PAGE>\n<FACE_LAUGH>ありがとう、<_____MYNAME_____>。\nお前の優しさは、心にしみるよ。"
+    },
+    {
+      "VardId": "MES_LOVER_RICE_GRUEL_FESTIVAL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nオレのために、\nおかゆを用意してくれるなんて…。\nすげえ、うれしい。\n<PAGE>\nこんなにおいしそうなの食べたら\n今年一年、絶対に元気でいられるよ。\n<PAGE>\n<FACE_LOVE>いや、でもどうだろうな？\nだってこんなにドキドキさせられたら。\n……身が持たねえかも。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_RICE_GRUEL_FESTIVAL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n……！！\nおかゆ、用意してくれたんだな！\n<PAGE>\nオレのなれ親しんだ風習を\n覚えててくれた上に、結婚した後も\nこうして家庭に取り入れてくれるなんて…。\n<PAGE>\n今までの人生もひっくるめて、\nオレを大切にしてくれてるってことだろ？\nありがとう、<_____MYNAME_____>。"
+    },
+    {
+      "VardId": "MES_RICE_GRUEL_FESTIVAL_RETURN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nそれじゃあ、オレからも\n<_____MYNAME_____>へおかゆをおくるよ。\n<PAGE>\n今年もたくさん笑って\n元気に過ごそうぜ！"
+    },
+    {
+      "VardId": "MES_LOVER_RICE_GRUEL_FESTIVAL_RETURN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nそれじゃあ、オレからも\n<_____MYNAME_____>へおかゆをおくるよ。\n<PAGE>\n<_____MYNAME_____>や\n牧場の作物、動物たちが\n一年元気に過ごせるといいな！"
+    },
+    {
+      "VardId": "MES_MARRIAGE_RICE_GRUEL_FESTIVAL_RETURN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nそれじゃあ、オレからも\n<_____MYNAME_____>へおかゆをおくるよ。\n<PAGE>\nしっかり愛情こめて作ったんだから\n絶対にご利益があるぞ！\n残さず食べろよ。"
+    },
+    {
+      "VardId": "MES_FRUIT_FESTIVAL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_LOVER_FRUIT_FESTIVAL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FRUIT_FESTIVAL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_FRUIT_FESTIVAL_RETURN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_LOVER_FRUIT_FESTIVAL_RETURN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FRUIT_FESTIVAL_RETURN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_THANKS_FESTIVAL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nこれ、まさか感謝祭のか…？\n<PAGE>\n<FACE_LAUGH>ありがとう、<_____MYNAME_____>。\nお前からもらえるなんて\n思ってなかったから、すげーうれしいよ。"
+    },
+    {
+      "VardId": "MES_THANKS_FESTIVAL_RETURN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nじゃあ、これはオレからのお返し。\n…また来年もオレにくれよな♪"
+    },
+    {
+      "VardId": "MES_LOVER_THANKS_FESTIVAL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nこれ、感謝祭のお菓子…だよな？\nオレのためにじゅんびしてくれたんだな。\nありがとう、<_____MYNAME_____>。\n<PAGE>\n実はオレも用意してたんだ。\n今から一緒にたべようぜ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_THANKS_FESTIVAL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nおっ、感謝祭のお菓子か！\nいつもらえるんだろうって、\nずっとワクワクしてたんだ♪\n<PAGE>\nもちろん、オレも\nお前のために用意してるよ。\n今から一緒に食べようぜ。"
+    },
+    {
+      "VardId": "MES_PUMPKIN_FESTIVAL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\nえ、プリンをオレに？\nいや、背は低いかもしれないけど、\n子どもじゃないから、もらうわけには…\n<PAGE>\n<FACE_NORMAL>…え、大人でもいいじゃないかって？\nうーん、まぁ…そうだな。\n<PAGE>\n<FACE_LAUGH>あまり断る理由もないし、\nやっぱりもらっとくわ！\nありがとな！"
+    },
+    {
+      "VardId": "MES_NO_EMPTY_FESTIVAL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n…って、カバンがいっぱいみたいだな。\n持ち物を整理して来いよ。\n待ってるからさ。"
+    },
+    {
+      "VardId": "MES_REACTION_PRESENT_HARVEST",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nそうそう、昨日の<BLUE><____ITEMNAME0____></BLUE>、\nあれ…すげえうまかったよ！！\n食べて感動した！\n<PAGE>\nあんな<BLUE><____ITEMNAME0____></BLUE>が\n作れるなんてすごいな。\nよかったら、また食べさせてくれよ。"
+    },
+    {
+      "VardId": "MES_REACTION_PRESENT_COOKING",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nそうそう、昨日の<BLUE><____ITEMNAME0____></BLUE>、\nあれ…すげえうまかったよ！！\n食べて感動した！\n<PAGE>\nあの<BLUE><____ITEMNAME0____></BLUE>を食べたらもう\nほかの人が作ったのじゃ満足できねえよ。\nよかったら、また食べさせてくれよ。"
+    },
+    {
+      "VardId": "MES_REACTION_PRESENT_FLOWER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n昨日もらった<BLUE><____ITEMNAME0____></BLUE>、\nさっそく部屋に置いてるよ。\nすげえいい香りだな。\n<PAGE>\n今度だれかにおくりものをすすめる時は\n<_____MYNAME_____>の作った\n<BLUE><____ITEMNAME0____></BLUE>にするぜ。"
+    },
+    {
+      "VardId": "MES_REACTION_PRESENT_PRODUCT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n昨日もらった<BLUE><____ITEMNAME0____></BLUE>、\nさわり心地が最高で、ずっとなでてたよ。\nありがとな！"
+    },
+    {
+      "VardId": "MES_REACTION_PRESENT_FOOD",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n昨日はありがとう。\nあの<BLUE><____ITEMNAME0____></BLUE>、うますぎて\nあっという間に食べちまったよ。"
+    },
+    {
+      "VardId": "MES_REACTION_PRESENT_FLOWER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n昨日はありがとう。\nあの<BLUE><____ITEMNAME0____></BLUE>、\n大切にするからな。"
+    },
+    {
+      "VardId": "MES_REACTION_PRESENT_OTHER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n昨日はありがとう。\nあの<BLUE><____ITEMNAME0____></BLUE>、\n機会があったらさっそく使うな！"
+    },
+    {
+      "VardId": "MES_RETURN_PRESENT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nで、これは昨日のお礼だ。\nたいしたものじゃねえけど\n受け取ってくれ。"
+    },
+    {
+      "VardId": "MES_LOVER_RETURN_PRESENT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nで、これは昨日のお礼だ。\n喜んでくれるといいんだけど…。\nよかったら、役立ててくれ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_RETURN_PRESENT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nで、これは昨日のお礼だ。\nオレのうれしかった気持ちを\n少しでもお返しさせてくれ。"
+    },
+    {
+      "VardId": "MES_Tosa",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_Great_Pyrenees",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_Bernese",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_Weimaraner",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_Husky",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_Doberman",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_Shepherd",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_Bull_Terrier",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_Tibetan",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_Border_Collie",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_Jack_Russell_Terrier",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_Dachshund",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_Beagle",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_Shiba",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nかわいいやつだなあ、よしよし！\nへへっ、オレすげえ柴犬好きなんだよ。\nやっぱいいよな〜、柴犬は！"
+    },
+    {
+      "VardId": "MES_Chihuahua",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_Poodle",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_CatA",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_CatB",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_CatC",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nトラネコって、名前の通り\nネコなのにトラみたいな\nしま模様が、かっこいいよな！"
+    },
+    {
+      "VardId": "MES_CatD",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_CatE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_CatLongHairA",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_CatLongHairB",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_CatLongHairC",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_CatLongHairD",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_CatLongHairE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n大黒屋で飼ってる黒ネコの\nダイコクの毛は、ツヤツヤしてて\n絹糸って感じだけど…\n<PAGE>\n<FACE_LAUGH>こいつの毛は、フワフワしてて\n綿毛って感じだな。さわり心地がよくて\nついなで回したくなっちまうよ。"
+    },
+    {
+      "VardId": "MES_KapibaraA",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_KapibaraB",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_Cacatua",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_Turtle",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_Shoebill",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_Eagle",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_Kiji",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n前に、しばいで\nきびだんごにつられてオニ退治の\nお供をするキジの役を任されたんだ。\n<PAGE>\nそれで、来る日も来る日も\nずっとキジを観察してたら、\nいつの間にか愛着がわいちゃってさ。\n<PAGE>\nそのキジの演技が良かったって\nほめられたのもあって、\n動物の中では一番好きだな。"
+    },
+    {
+      "VardId": "MES_RainbowBird",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_Monkey",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_Verreauxi",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_RacoonDog",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nおっ、タヌキだ。\nえっと、なんかエサになるようなもの…\nうーん…なんもないな…。\n<PAGE>\n<FACE_SAD>うおっ、そんな\nかなしそうな顔すんなよ！\nわかった、また今度用意しとくから…！\n<PAGE>\n<FACE_LOSS>…うう、笑うなよ<_____MYNAME_____>。\nお前だってこんなうるうるの目で\n見られたら、絶対同じ反応になるぞ！"
+    },
+    {
+      "VardId": "MES_Grizzly",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_Ermine",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_Fox",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_Sparrow",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_Chicken",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_Chicken_Huge",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nでっかく育ったなー！\nそれだけ、かわいがられてるんだな。\nまあ、実際かわいいもんな！"
+    },
+    {
+      "VardId": "MES_Silky",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_Silky_Huge",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_Quail",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_Quail_Huge",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_AngoraRabbitA",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_AngoraRabbitA_Huge",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_AngoraRabbitB",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_AngoraRabbitB_Huge",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお前と動物がいっしょにいるのって\nなんか、しっくりくるよな！"
+    },
+    {
+      "VardId": "MES_Hamutaro",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nへぇ、まだら模様のネズミなんて\n変わってるな〜！\n<PAGE>\n<FACE_LOSS>え、ハムスター？\nネズミとはちがうのか？\nうーん…ちがいがわかんねえ…。"
+    },
+    {
+      "VardId": "MES_TALK_0",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nオレの知人がモリヤさんと親しい人でさ。\nその縁で、ここへ出かせぎに来たんだ。\n１３才の時だったな。"
+    },
+    {
+      "VardId": "MES_TALK_1",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nモリヤさんのところで働き始めた\n当初は、これでもかってくらい\nしかられたな…。\n<PAGE>\n<FACE_SAD>ああ…今思い出しても\nゆううつだぜ。"
+    },
+    {
+      "VardId": "MES_TALK_2",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nうちの店は、店主のモリヤさん、\nイッテツさん、スモモ、オレの４人が\n客の相手をしてるんだ。\n<PAGE>\n働いてる人は、ほかにも何人かいるぜ。\n蔵の整理や品物の仕入れなんかを\nやってもらってるよ。"
+    },
+    {
+      "VardId": "MES_TALK_3",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nお客さま相手の仕事は\n気苦労も多いし、毎日へとへとになるけど\nやりがいがあるよ。"
+    },
+    {
+      "VardId": "MES_TALK_4",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nオレ、店で働いてるほかに\n舞台役者の見習いとして\nしばいの練習もしてるんだ。\n<PAGE>\n大黒屋の仕事が終わると、\nとなり町のしばい小屋へ出かけて行って\nみっちり練習してるよ。"
+    },
+    {
+      "VardId": "MES_TALK_5",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nしばいの練習って、けっこうきついんだよ。\n声の音量や、目線、手や足の動かし方…。\nひとつひとつに気が抜けないんだ。\n<PAGE>\nで、それをしばいの間ずっと続けるんだ。\n集中力や体力がないと、\nすぐたおれちまうよ。"
+    },
+    {
+      "VardId": "MES_TALK_6",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n見習いとして通ってるしばい小屋は\nこの業界じゃ、けっこう有名でさ。\n上演日は毎回大入りだぜ。\n<PAGE>\nオミヨさんやシズさんも\nうちのしばいが好きでさ。\n新作の舞台(ぶたい)には、必ず来てるんだ。"
+    },
+    {
+      "VardId": "MES_TALK_7",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nオレ、釣りが好きなんだ。\nけっこう上手いんだぜ？\n手先の器用さには、自信があるんだ。"
+    },
+    {
+      "VardId": "MES_TALK_8",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nひまな時は、\n家で小物なんかを作ってるぜ。\n<PAGE>\n<FACE_LAUGH>昔はこづかいかせぎでやってたんだけど、\nこれがけっこう楽しくてさ。\n釣りと同じくらい、はまってるよ。"
+    },
+    {
+      "VardId": "MES_TALK_9",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nユヅキほどじゃねえけど、\n甘いものは、好きだな。\nつかれた時はよく食べるんだ。"
+    },
+    {
+      "VardId": "MES_TALK_10",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n店で働いてるせいか、\n異国のめずらしい物や高価な物は\nついつい興味(きょうみ)をひかれるんだ。"
+    },
+    {
+      "VardId": "MES_TALK_11",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nオレの好きな色？\nうーん…赤とか、みかん色は好きだな。\n見てて元気が出てくるんだ。"
+    },
+    {
+      "VardId": "MES_TALK_12",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nオレの家族は、じいちゃんばあちゃんに\nおやじ、おふくろ、兄ちゃん二人、\n弟二人に、さらに妹一人の大家族なんだ。\n<PAGE>\nくだらないことで\nしょっちゅうケンカもするけど\n本当はなかよしだよ。"
+    },
+    {
+      "VardId": "MES_TALK_13",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n昔のユヅキは、ひょろいからだで\n顔立ちも今よりずっと\n女っぽかったんだ。\n<PAGE>\n初めて見た時、\nなんで女が男のかっこしてるんだ？\nって、思ったよ。"
+    },
+    {
+      "VardId": "MES_TALK_14",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nユヅキは、本当の意味で優しいやつだよ。\nいつでもだれに対しても\n相手を大切にする心をわすれないんだ。"
+    },
+    {
+      "VardId": "MES_TALK_15",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nユヅキとは、ここに来てすぐに\n仲良くなったんだ。\n<PAGE>\nオレが落とし物してこまってた時に\nぐうぜんユヅキが通りかかってさ…。\n見つかるまでいっしょに探してくれたんだ。\n<PAGE>\nそれがきっかけで\n色々話すようになったんだよ。\nやー、なつかしいな。\n<PAGE>\n…その落とした物か？　せんすだよ。\n初めてもらった金で買った\n親へのおくりものだ。"
+    },
+    {
+      "VardId": "MES_TALK_16",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n住んでる町はちがうけど\nウェインとは仲がいいんだよ。\n<PAGE>\nあいつの仕事はゆうびん屋だろ？\n配送とかで、よくうちの店に来るんだ。\n来るたびに軽口を言い合ってるよ。\n<PAGE>\nちなみに、あいつは\nうちの女性客にも大人気だぜ。\nかっこいい顔立ちってのは万国共通だな。"
+    },
+    {
+      "VardId": "MES_TALK_17",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nイッテツさんって無口だけど\n仕事もできるし、すげえ優しいんだ。\nああいう男ってあこがれるよな。"
+    },
+    {
+      "VardId": "MES_TALK_18",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nここにきた当初は、イッテツさんの家で\n奥さんのシズさんの作ったご飯を\nよくごちそうしてもらったよ。\n<PAGE>\nそのせいもあって、\nシズさんにはすごく感謝してるし\n頭が上がらないんだ。\n<PAGE>\n<FACE_SAD>ただ、いまだにオレのこと\n「ヒナタちゃん」って呼ぶのはなあ…。\nはずかしいから、やめてほしい…。"
+    },
+    {
+      "VardId": "MES_TALK_19",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nタツミが小さいころは\nオレがよくお守りしてやったんだよ。\n<PAGE>\nあいつは、昔からあんな感じでさ。\n勝手に色んな人の家に上がりこむけど\n怒られることなく、かわいがられてたよ。"
+    },
+    {
+      "VardId": "MES_TALK_20",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nヤイチは、たいていの人がビビる\nだんなさまのどなり声にも\n表情を変えずに、ケロッとしてるんだ。\n<PAGE>\n<FACE_LAUGH>まだ小さいのにすげえよな！\n大人になったら、きっと大物になるぜ。"
+    },
+    {
+      "VardId": "MES_TALK_21",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nスモモは出かせぎ仲間だからな。\nふだんから、色々と\n面倒(めんどう)見てるんだ。\n<PAGE>\nドジも多いし、すぐ泣くけど\n弱音は絶対に言わないな。\n…あいつなりに必死にやってるよ。"
+    },
+    {
+      "VardId": "MES_TALK_22",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n物事の両立ってむずかしいけどさ、\n一度きりの人生なんだから\nよくばっていいと思うんだ。\n<PAGE>\nゆずれないことや大切なものが\nひとつだけじゃないって、\n幸せなことだろ？\n<PAGE>\n<FACE_LAUGH>片方がつらい時は、\nもう片方が絶対に支えになる。\nオレは、そう信じてるよ。"
+    },
+    {
+      "VardId": "MES_TALK_23",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\nあー、あー、あー。\n…うーん、ちょっとノドの調子が変だな。\n<PAGE>\nしばいの練習で\n声を出しすぎたせいかな？\n早く治したいんだけど…。"
+    },
+    {
+      "VardId": "MES_TALK_24",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\nノドが治らねえ…！\nやっぱりユヅキの言うとおり、\nフォードに見てもらうべきなのか…。\n<PAGE>\nフォードは悪いやつじゃないんだけど、\nでかいし、こわいんだよな。\n気が重いぜ…。"
+    },
+    {
+      "VardId": "MES_TALK_25",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nこないだ医院に行って\nフォードにノドを見てもらったんだ。\n<PAGE>\nもらった薬を飲んだら、\nノドはすぐに回復したよ。\nまあ、それは良かったんだけど…。\n<PAGE>\n<FACE_SAD>オレの生活習慣(せいかつしゅうかん)が\n良くなかったらしくてさ。\n長時間、説教くらったよ…こわかった。"
+    },
+    {
+      "VardId": "MES_TALK_26",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\n聞いてくれよ、<_____MYNAME_____>。\nフォードから手紙がとどいたんだ。\n<PAGE>\nしかも、内容が\n「健康生活のすゝめ」っていう\n分厚い手書きの本なんだ。\n<PAGE>\n手書きの本だぜ！？　手書きの本！\nなんというか…その、おどろいたぜ。\nとりあえず読んでみるよ。"
+    },
+    {
+      "VardId": "MES_TALK_27",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n「健康生活のすゝめ」っていう\nフォード手書きの本、全部読んだぜ。\n<PAGE>\n<FACE_SAD>内容？　オレの知らない異国の言葉と\nむずかしい専門用語だらけで\nぜんっぜん分かんなかったよ…。\n<PAGE>\n<FACE_LAUGH>けどまあ、あの本を毎日ねる前に\n読んだおかげですぐにねむくなったから\n健康的な生活は送れたよ。"
+    },
+    {
+      "VardId": "MES_TALK_28",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nこないだフォードに会った時、\n「健康生活のすゝめ」の感想を\nたずねられたんだ…。\n<PAGE>\nあの本のおかげで、すいみん時間が\nふえたって話したら喜んでたよ。\n…うそは言ってないから、いいよな！"
+    },
+    {
+      "VardId": "MES_TALK_29",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n抜きにくいクギ、引き抜きにくいクギ\nクギ抜きで抜くクギ。　抜きにくいクギ\n引き抜きにくいクギ、クギ抜きで抜くクギ。\n<PAGE>\n<FACE_LAUGH>ああ、これか…？\n発音の練習だよ。ずっとやりすぎて\nくせになってるみたいでな。\n<PAGE>\n<FACE_NORMAL>仕事中でも思わずつぶやいちまうから\nこまってるんだけど、\nどうにも直らないんだよな。"
+    },
+    {
+      "VardId": "MES_TALK_30",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n身長…ほしいなあ。\nやっぱり背が高いと、立ち回りなんかで\n迫力(はくりょく)がちがうんだよ。\n<PAGE>\n<FACE_LOSS>は…？　イナリずしをそなえて\nご神木においのりしてみろ？\nなんだそれ？\n<PAGE>\n…まあ、<_____MYNAME_____>が\nそんなにすすめてくれるなら\n試しにやってみるよ。"
+    },
+    {
+      "VardId": "MES_TALK_31",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n通りすがりのまじない屋に聞いたんだけど、\nオレと<_____MYNAME_____>って\n相性が良いんだとさ。\n<PAGE>\nだからどうしたって話だけど、\nせっかくこうして出会ったんだから\nいい縁だって言われるのは、うれしいぜ。"
+    },
+    {
+      "VardId": "MES_TALK_32",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nオレが役者を目指すキッカケになったのは\nオミヨさんとユヅキと三人で見に行った\nしばいなんだ。\n<PAGE>\n<FACE_LAUGH>そのしばいが、すげえ面白くてさ。\nオレもこういうのを\nやってみたいって思ったんだ。"
+    },
+    {
+      "VardId": "MES_TALK_33",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n毎月末に給金をもらってるんだ。\nその金で必ず家族へ仕送りしてるよ。\n今月は、なにを送ろうかな。"
+    },
+    {
+      "VardId": "MES_TALK_34",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nオレの苦手なもの？\nありきたりなものや、\nいかにもゴミってものは好きじゃねえな。"
+    },
+    {
+      "VardId": "MES_TALK_35",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nうちの里のいいところは、\n景色がきれいなとこだな。\n<PAGE>\nそれに、春は桜ふぶき、夏はホタル、\n秋はモミジと、季節によって\n見どころが多いのも美点だと思うぜ。"
+    },
+    {
+      "VardId": "MES_TALK_36",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\nなあ、オレって\n字が下手そうに見えるのかな？\n<PAGE>\n<FACE_SAD>そうか…下手そうに見えるのか。\nこれでも、うちの店の中じゃ\nだんなさまと同じくらい上手いんだぜ…。"
+    },
+    {
+      "VardId": "MES_TALK_37",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n子どものころ、近くに住んでた\nじいさんと仲が良くてさ。\nオレに読み書きなんかを教えてくれたんだ。\n<PAGE>\n<FACE_LAUGH>前に話しただろ？　だんなさまの親しい人と\n縁があって、ここへ来たんだって。\nこのじいさんがそうなんだ。\n<PAGE>\n<FACE_NORMAL>…オレがこっちへ来てすぐに\n流行り病で亡くなったけどな。\nでも、オレの一生の先生だよ。"
+    },
+    {
+      "VardId": "MES_TALK_38",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nカスミさんを見てると、\n亡くなったオレの先生を思い出すよ。\n…性格は、全然ちがうけどな。"
+    },
+    {
+      "VardId": "MES_TALK_39",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nオレと兄ちゃんたちは\n１０も年がはなれてたんだ。\nそれもあって、かわいがってもらったよ。\n<PAGE>\n今、うちの里の子どもたちと遊んでるとさ\nあの時、兄ちゃんたちも\nこんな感じだったのかなって思うんだ。\n<PAGE>\n<FACE_LAUGH>素直で、キラキラしてて\nくすぐったくて見てられないような\n見守っていたいようなヘンな気分だよ。"
+    },
+    {
+      "VardId": "MES_TALK_40",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n弟二人や妹とは年が近くてさ、\nいっしょに悪さをしたりして\n親にも兄ちゃんにもよくしかられたよ。\n<PAGE>\n今は三人とも、親の仕事を手伝ってるぜ。\nすげえ助かってるって、\nおふくろも手紙で言ってたなあ。\n<PAGE>\n元気でりっぱに育ってくれて、\nオレもうれしい限りだよ。"
+    },
+    {
+      "VardId": "MES_TALK_41",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n時は金なり。\n年をとってくると、\nこの言葉が身にしみてくるよな。\n<PAGE>\nもっと早くこうしておけば、とか\n色んな物事に、しんけんに取り組めば\nよかったとかさ…。\n<PAGE>\n<FACE_LOSS>ジジイみたいだって？\nうるせー、オレだって\nこれでも色々苦労してんだよ。"
+    },
+    {
+      "VardId": "MES_TALK_42",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n見てくれよ、このお守り。\nオレの兄弟が合作してくれたんだ。\nカッコイイだろ？\n<PAGE>\n家をはなれる時にもらったんだ。\n苦しい時はいつも、\nこれを見てがんばってるよ。"
+    },
+    {
+      "VardId": "MES_TALK_43",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\n料理ってむずかしいよな。\nオレ、魚をさばくのは得意だけど、\nいかんせん味付けが雑なんだ。"
+    },
+    {
+      "VardId": "MES_TALK_44",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n悪いやつってのは\nどこにでもいるもんだ。\nでも、いいやつも、どこにでもいる。\n<PAGE>\nだから、自分を好きになってくれるやつも\nどこにでもいるもんだ。\n自分なんかって、ヤケになっちゃいけねえ。\n<PAGE>\n<FACE_LAUGH>…オレの先生がよくそう言ってたんだ。\nこっちへ来てから、\nこの言葉にたくさん助けられたよ。"
+    },
+    {
+      "VardId": "MES_TALK_45",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n店の仕事をやってて一番大変なこと？\nそうだな…。\n荷運びと、品物の検査(けんさ)かな。\n<PAGE>\n不良品なんかを売っちまったら\n店の信用にかかわるからな。\n一番気をつかってるよ。"
+    },
+    {
+      "VardId": "MES_TALK_46",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\n…目が痛い。\n台本の読みすぎかな。\n<PAGE>\n<FACE_LAUGH>おっ、かたをもんでくれるなんて\n気が利くな。\nありがとよ、<_____MYNAME_____>。"
+    },
+    {
+      "VardId": "MES_TALK_47",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\nこないだ釣りをしてたら\nなんと、だるまを釣り上げたんだ。\n縁起物を捨てるなんて、ひでえよな！\n<PAGE>\n<FACE_NORMAL>だるまは、となり町で\nちゃんと供養(くよう)してもらったよ。\n<PAGE>\n<_____MYNAME_____>も、縁起物を手放す時は\n気をつけるんだぞ。"
+    },
+    {
+      "VardId": "MES_TALK_48",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nなあ、<_____MYNAME_____>。\n幽霊(ゆうれい)や妖怪(ようかい)って\n信じるか？\n<PAGE>\n<FACE_SAD>オレは信じてるよ。\n…あんな体験をしたら、\n信じないわけにはいかないぜ。"
+    },
+    {
+      "VardId": "MES_TALK_49",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n前にさ、ご神木にイナリずしをそなえて\nお祈りしてみろって言ったよな。\n…こないだやってみたんだよ。\n<PAGE>\nそしたらさ、その日の夢で、\n白いオカッパの少年が現れたんだよ。\n<PAGE>\nそいつ、半泣きで\n「ごめんなさい。身長はのばせない」って\nあやまってたんだ。\n<PAGE>\n<FACE_LOSS>…あれ、何だったんだろ？\nふしぎな体験だったぜ。"
+    },
+    {
+      "VardId": "MES_TALK_50",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n遊び心のある大人って\nかっこいいよな。\nオレ、そういう人にあこがれるんだ。\n<PAGE>\nたとえばお前のおじさんとか！\nオレもあと２０年後には\nああいうおじさんになりたいな！\n<PAGE>\n<FACE_LOSS>…って、笑うなよ！\n似合わないって？　うるせー！\n絶対に、なってやるからな！"
+    },
+    {
+      "VardId": "MES_TALK_51",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nしばいのせりふは、紙に書いて覚えるんだ。\nつぶやきながら何度も書くことで、\n自然と頭に入ってくるんだよ。\n<PAGE>\nはたから見ると\nちょっとこわいけどな。\n昔、スモモがビビってたよ。"
+    },
+    {
+      "VardId": "MES_TALK_52",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n役者やってると、数の大小はあれど\nおっかけみたいな人は現れるんだ。\nなにをかくそう、オレにもいるんだぜ？\n<PAGE>\nみんな、すげえ野太い声で\nオレの名前をよんでくれるよ！\n<PAGE>\n<FACE_SAD>…うちのシバイ小屋、\n大半が女性客なのになあ…。\nなんで男ばっかりなんだよ。"
+    },
+    {
+      "VardId": "MES_TALK_53",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n勉強がてら、役者仲間と\nしばいを見に行くことも多いんだ。\nすげえ刺激(しげき)を受けるよ。\n<PAGE>\n<FACE_LAUGH>そのおかげで、コウフンしすぎて\n夜にねむれなくなっちまうけどな。"
+    },
+    {
+      "VardId": "MES_TALK_54",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nオレの役者名？\nそのまま「ヒナタ」でやってるよ。\n自分の名前、気にいってるからな。"
+    },
+    {
+      "VardId": "MES_TALK_55",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n…金、ほしいなあ。\n大金の入ったふくろとか\nどっかに落ちてねえかな？\n<PAGE>\nもし拾ったら、絶対に\n……………持ち主を探しちまうな。"
+    },
+    {
+      "VardId": "MES_TALK_56",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n今着てるハンテンは\nだんなさまにもらったものなんだ。\n毎日着てるよ。\n<PAGE>\nこれを着てると、大黒屋の店のものとして\nはずかしくない行動をしないとって\n自然と気をつかうようになるんだ。\n<PAGE>\n<FACE_LAUGH>…っていうのは建前で、本当は\n店の広告代わりにいつでも着とけって\nだんなさまに命じられたからだけどな！"
+    },
+    {
+      "VardId": "MES_TALK_57",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n大昔はさ、文化や風習のちがいから\nとなり町同士で、小さなケンカが\nひんぱんに起こってたらしいんだ。\n<PAGE>\n<FACE_LAUGH>今はそんなこと全然無いぜ。\n平和だし、おたがいの町を\nちゃんと尊重(そんちょう)してるんだ。\n<PAGE>\nこれも、昔の人たちが年月をかけて\n努力してきたことが実った結果だ。\n感謝しないとな！"
+    },
+    {
+      "VardId": "MES_TALK_58",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n分からない言葉は、辞書を使って\nすぐに調べるようにしてるんだ。\n<PAGE>\n役者たるもの、言葉の意味を理解して\nせりふをしゃべらないと\n心にひびく演技はできねえよ。"
+    },
+    {
+      "VardId": "MES_TALK_59",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>の出荷したものが\nとなり町で売られてるところを\nたまに見かけるぜ。\n<PAGE>\n<FACE_LAUGH>自分のことじゃねえのに\nなんだか鼻が高いよ。"
+    },
+    {
+      "VardId": "MES_TALK_60",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n…ときどき、\n仕事や取り組んでる物事を\n投げ出したくなることってあるよな。\n<PAGE>\nがんばりたい自分と、\nもうがんばれないって思う自分が\n戦ってて…苦しいよな。\n<PAGE>\nそういう時は、\n今の気持ちを口に出すことが大切だ。\n心が軽くなるぜ。\n<PAGE>\n<FACE_LAUGH>あとは…そうだな。\n少しだけ人に寄っかかってみるとか。\n「少し」ってのがミソだよ。\n<PAGE>\nなんでこんなことを言うかって？\n……<_____MYNAME_____>の顔を見てたら\nなんとなくな。"
+    },
+    {
+      "VardId": "MES_TALK_61",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nイッテツさんが\nオレのあこがれてる役者の絵を\nかいてくれたんだ。\n<PAGE>\nいや、もう、うれしくってさ。\nずっとお守りに入れて\n持ち歩いてるよ。\n<PAGE>\nオレもいつか、こうやって\n絵にかいてもらえる役者になるぜ！"
+    },
+    {
+      "VardId": "MES_FASHION_NOT_MATCH_HOT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n人の着てる服に\nいちいち文句をつけたくはねえが…。\nその服、暑くねえか？\n<PAGE>\n具合でも悪いのかって\n心配になっちまうよ。"
+    },
+    {
+      "VardId": "MES_FASHION_NOT_MATCH_COOL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n人の着てる服に\nいちいち文句をつけたくはねえが…。\nその服、寒くねえか？\n<PAGE>\nオレは寒くないのかって？\n中は多少着こんでるから平気だよ。"
+    },
+    {
+      "VardId": "MES_FASHION_BASICBOYWEAR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_BASICGIRLWEAR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SALOPETTEBOY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SALOPETTEGIRL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SUSPENDERS",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_OVERALL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_JINBEIBLUE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_JINBEIBLACK",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_MATABIKI",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_MINO",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SIMPLENORAGI",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SAOTOME",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_KAPPOUGI",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_WILDFARMER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_WORKINGWEAR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_ETHNICTANKTOPRED",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_ETHNICTANKTOPBLUE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_ETHNICTANKTOPCASUAL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_WORKINGSHORTPANTS",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_CAPECASUAL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_KONOHANAWEAR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_KUNGFUFARMER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_BLUEBELLWEAR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_WARKINGCHINA",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_DOTCULOTTEBLUE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_DOTCULOTTERED",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_GUNMAN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_COWBOYSTYLE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_COWSPOTCOWBOY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_COWGIRL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_FRINGECASUAL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_KNICKERBOCKERS",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_CHECKVEST",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_GREENCARDIGAN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_GILLETVEST",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_POLOSHIRTSTYLE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SPRINGAPRONSKIRT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_COUNTRYONEPIECE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nおお、その服！\n見てるだけで明るい気分になるな。\nすげえいいと思うぜ！"
+    },
+    {
+      "VardId": "MES_FASHION_APRONDRESS",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_FLOWERAPRONDRESS",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_MAXIAPRONDRESS",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_YUKATABOYBLUE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_YUKATABOYRED",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nいい色のゆかただな。\nキレイな茜色が\n<_____MYNAME_____>によく似合ってる。"
+    },
+    {
+      "VardId": "MES_FASHION_OKAPPIKI",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nその服、しぶくていいな。\nよく似合ってて、かっこいいぜ。"
+    },
+    {
+      "VardId": "MES_FASHION_KABUKIFASHION",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nおっ、かっこいい服着てるなー！\nオレ、そういうのすげえ好き！"
+    },
+    {
+      "VardId": "MES_FASHION_HAIKARASANRED",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_HAIKARASANGREEN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_YUKATAGIRLBLUE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_YUKATAGIRLRED",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_OLDTOWNSTYLE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nその着物、よく似合ってるな！\n上手く着こなしてくれる人の元に行けて\nきっと、その着物もよろこんでるよ。"
+    },
+    {
+      "VardId": "MES_FASHION_NADESHIKOSTYLE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_KYUDOWEAR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_FARMERTSHIRT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SOUTHERNTANKTOP",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nそれ、ルルココ村の服だよな？\n動きやすそうでいいな！"
+    },
+    {
+      "VardId": "MES_FASHION_WHITEPONCHO",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_ARABIANSTYLE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_RESORTCASUAL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_HULADANCEBOY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_TUBETOP",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_HULADANCEGIRL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_REDPONCHO",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_TUNICGOLD",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_TUNICSILVER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_BLUEWHITENOSLEEVE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_QUILTWEAR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_YELLOWSWEATER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_COOLVESTWEAR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_WHITEJACKET",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_AQUACOAT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_RIDINGCLOTHESBLUE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_RIDINGCLOTHESRED",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SCHWARZCOAT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_STEAMPUNKCOAT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_NOBLEJACKET",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_FLOWERSKIRT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n面白い形のはかま着てるな〜。\nへえ、ばるーんすかーとって言うのか。\n確かに、ふわふわして風船みたいだな！"
+    },
+    {
+      "VardId": "MES_FASHION_DOTSKIRT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_CLASSICSTYLE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_ELEGANTONEPIECE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_CREAMONEPIECE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_RAINCOAT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_BUTTONDRESS",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_HIGHWAISTSKIRT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_STEAMPUNKDRESS",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_MODERNKIMONO",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_AKINDOAOTAKE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_AKINDOYANAGI",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nなんか、商売人って感じの\n服着てるけど、もしかしてモリヤさんに\n手伝いでも頼まれてるのか？\n<PAGE>\n<FACE_LAUGH>なんだ、ちがうのか。\n<_____MYNAME_____>といっしょに働けるなら\n楽しそうだと思ったんだけどな。"
+    },
+    {
+      "VardId": "MES_FASHION_SAMURAISTYLE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_PLAYBOYSTYLE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_OMMYOJI",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SNOWKIMONO",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_FLOWERKIMONO",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_UROKOKIMONO",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_KIMONODRESS",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_KNEEHIGHKIMONO",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_MICHIYUKICOAT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_GREENHOODIE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_ETHNICSTYLE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nお前って、いつもおしゃれだよなー。\n役者は人に見られるのが仕事だし…\n最高の役者になるのを目指す身としては\n<PAGE>\nオレも<_____MYNAME_____>のことを\n見習って、もっとおしゃれに\n気をつかっていかないとだな！"
+    },
+    {
+      "VardId": "MES_FASHION_RESORTFORMAL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SOUTHERNSTYLE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_ASYMMETRYSKIRT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nおっ、動きやすそうな服！\n…けど、へそとか丸見えだし\nカゼ引きそうだな。\n<PAGE>\n<FACE_LAUGH>おしゃれもいいけど、健康第一だぜ。\nオレのでよければ、上着貸すし。\n必要になったら、エンリョなく言えよ！"
+    },
+    {
+      "VardId": "MES_FASHION_FRILLSKIRT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_RESORTONEPIECEGREEN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_RESORTONEPIECERED",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SARIBLUE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SARIYELLOW",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_ETHNICJADE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_WILDROCKER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nへぇー！　その服かっこいいな！\n色とかすげえ好み！\n<PAGE>\n…けど、オレには似合わないんだろうなあ。\nなんでも似合う<_____MYNAME_____>が\nうらやましいぜ。"
+    },
+    {
+      "VardId": "MES_FASHION_HUIPIL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_NORDICDRESSPINK",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_NORDICDRESSBLUE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_ALPSSKIRT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_GOTHICSTYLE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_RUBYREDCHINA",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SAPPHIRECHINA",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SNOWCOAT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_DRACULACLOAK",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_PUMPKINSTYE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_EUROPEANARMOR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_CLOWNWEAR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_COCKWEAR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_BUTLERWEAR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_MAIDROYAL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_KUNOICHI",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_NINJASTYLE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_HIBAKAMA",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SMITHWEAR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_HAPPI",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_HAPPIGIRL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_DESSERTTUXEDO",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_DESSERTDRESS",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_WAGASHIHAORI",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_WAGASHIWEAR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_FRUITSPARLORMAN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_FRUITSPARLORLADY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_KASHINOKITOWNBOY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_KASHINOKITOWNGIRL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_REGERWEAR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_MENOUWEAR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMECATBODY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMEDOGBODY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMEBEARBODY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMEPANDABODY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMEPENGUINBODY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMECOWBODY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_POSTMANWEAR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_DOCTORWEAR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_CHASERWEAR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_APPRENTICEWEAR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nおっ、その服って\nもしかしてオレとおそろい？\n…え、かっこよかったからマネしてみた？\n<PAGE>\n<FACE_LAUGH>お、おう…なんかてれるな〜…。\nけど、だれかにマネしたいと思って\nもらえるのって、うれしいもんだな！"
+    },
+    {
+      "VardId": "MES_FASHION_CRAFTMANWEAR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_FLORISTWEAR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_TEAGIRLWEAR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_TEACHERWEAR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_TWIN1WEAR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_TWIN2WEAR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_AMERICAWEDDINGMAN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_AMERICAWEDDINGLADY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_JAPANWEDDINGLADY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_JAPANWEDDINGMAN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SOUTHWEDDINGMAN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SOUTHWEDDINGLADY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_CASQUETTEBROWN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_CASQUETTEBLACK",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_CASQUETTEWHITE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_CASQUETTEBLUE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_TENGALLONHATBROWN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_TENGALLONHATBLACK",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_TENGALLONHATBLUE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_TENGALLONHATRED",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_COWGIRLHAT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_STRAWHAT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_KASAHAT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_HOKKAMURI",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_HACHIMAKI",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_TROPICAL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_KANKANHAT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_KANKANHATWHITE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SOUTHERNSTRAWHAT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_DARKBROWNSTRAWHAT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_FLOWERCROWNWHITE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_FLOWERCROWNRED",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_ORNAMENTFEATHER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_ETHNICHEADBAND",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_KOSAKHAT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_BERET",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_KNITCAP",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_TOPHAT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_STEAMPUNKHAT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_GOGGLE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_GOTHICHEADBAND",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_GORGEOUSHAT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_ELEGANTHAT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_RIBBONPURPLE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_RIBBONRED",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_BONNET",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_BENIKANZASHI",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_FUJIKANZASHI",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_BEKKOUKANZASHI",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_GORGEOUSKANZASHI",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_FLOWERRINGYELLOW",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_FLOWERRINGRED",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_FLOWERRINGWHITE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_MAIDHEADBAND",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_CROWNHAT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_ONIMASK",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_FOXMASK",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_NINJAHOOD",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_WAGASHIHAT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SOFTTOYCAT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_WITCHHAT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_MONSTERMASK",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_FRUITSPARLORHAT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_DESSERTSILKHAT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_KASHINOKIHAT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_KASHINOKIBANDANA",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_ROYALCROWN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>の頭に乗ってる\nそれって、王冠だよな？\n<PAGE>\n<FACE_LAUGH>かっこいいなー！\nそんなのどこで手に入れたんだ？"
+    },
+    {
+      "VardId": "MES_FASHION_COCKCAP",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_CATHEADBAND",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_DOGHEADBAND",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMECATHEAD",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMEDOGHEAD",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMEBEARHEAD",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMEPANDAHEAD",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMEPENGUINHEAD",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMECOWHEAD",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_MENOUHAT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_AMERICAWEDDINGLADYHAT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_JAPANWEDDINGLADYHAT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SOUTHWEDDINGLADYHAT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SOUTHWEDDINGMANHAT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_EUROPEANHELM",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_FULLFRAMEBLACK",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_FULLFRAMEBLUE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_FULLFRAMERED",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nへえ、赤いメガネなんてあるのか。\nいいな、それ。\nお前によく似合ってる。"
+    },
+    {
+      "VardId": "MES_FASHION_FULLFRAMEYELLOW",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_FULLFRAMEGREEN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_UNDERFRAMEBLACK",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_UNDERFRAMEBLUE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_UNDERFRAMERED",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_UNDERFRAMEYELLOW",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_UNDERFRAMEGREEN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_HEAVYFRAMEBLACK",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_HEAVYFRAMEBLUE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_HEAVYFRAMERED",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_HEAVYFRAMEYELLOW",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_HEAVYFRAMEGREEN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_HEAVYFRAMEWHITE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SUNGLASSES",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_ROUNDSUNGLASSES",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_ROUNDGLASSES",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_MONOCLE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_EYEPATCHBLACK",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_EYEPATCHWHITE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_BUTTERFLYMASK",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMEGLASSES",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_STEAMGOGGLE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SETMINO",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SETSAOTOME",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SETKAPPOUGI",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SETCOWGIRL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SETSTEAMPUNKCOAT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SETSTEAMPUNKDRESS",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SETGOTHICSTYLE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SETCLOWNWEAR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SETEUROPEANARMOR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nうおっ！？\nなんだそれ、甲冑！？\n<PAGE>\n<FACE_LAUGH>すげー、かっけー！！\nオレも着てみてえ！！"
+    },
+    {
+      "VardId": "MES_FASHION_SETHAPPI",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nあれ、今日って\nどっかで祭りとかやってたっけ？\n…え、ないけど祭り気分で着てみた？\n<PAGE>\n<FACE_LAUGH>アハハ、なんだそれ！\nまあでも似合ってるし、いいと思うぜ。\nそういう発想ってキライじゃないよ。"
+    },
+    {
+      "VardId": "MES_FASHION_SETHAPPIGIRL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nあれ、今日って\nどっかで祭りとかやってたっけ？\n…え、ないけど祭り気分で着てみた？\n<PAGE>\n<FACE_LAUGH>アハハ、なんだそれ！\nまあでも似合ってるし、いいと思うぜ。\nそういう発想ってキライじゃないよ。"
+    },
+    {
+      "VardId": "MES_FASHION_SETCOCKWEAR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SETMAIDROYAL",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SETCOSTUMECATBODY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SETCOSTUMEDOGBODY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SETCOSTUMEBEARBODY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SETCOSTUMEPANDABODY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SETCOSTUMEPENGUINBODY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SETCOSTUMECOWBODY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SETMENOUWEAR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SETDESSERTTUXEDO",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SETDESSERTDRESS",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SETWAGASHIHAORI",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nなんか、今日の<_____MYNAME_____>\n面白いかっこうしてるな〜。\n…面白いっていうか、おいしそう？\n<PAGE>\nあー、見てたらすげえ和菓子…\n特にたいやきが食べたくなってきた…。\n…って、もしかして茶屋の回し者か！？"
+    },
+    {
+      "VardId": "MES_FASHION_SETWAGASHIWEAR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nなんか、今日の<_____MYNAME_____>\n面白いかっこうしてるな〜。\n…面白いっていうか、おいしそう？\n<PAGE>\nあー、見てたらすげえ和菓子…\n特にだんごが食べたくなってきた…。\n…って、もしかして茶屋の回し者か！？"
+    },
+    {
+      "VardId": "MES_FASHION_SETFRUITSPARLORMAN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SETFRUITSPARLORLADY",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SETNINJASTYLE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nおおっ、忍者服！？\nかっこいいな！\nよく似合ってるぜ。\n<PAGE>\n<FACE_NORMAL>…あれ？　でもなんで\nそんなかっこうしてるんだ？\n忍者に弟子入りでもしたのか？"
+    },
+    {
+      "VardId": "MES_FASHION_SETHULADANCEBOYWHITE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SETHULADANCEBOYRED",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SETHULADANCEGIRLWHITE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SETHULADANCEGIRLRED",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SETSNOWCOAT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SETDRACULACLOAK",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SETPUMPKINSTYE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SETBUTLERWEAR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SETELEGANTONEPIECE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_FASHION_SETCREAMONEPIECE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいいじゃん、その服！"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_02",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_03",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_04",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_05",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_06",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_07",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_08",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_09",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_10",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_11",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_12",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_13",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nん？　どうした？"
+    },
+    {
+      "VardId": "MES_MISSION_START",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nああ、<_____MYNAME_____>。\n<PAGE>\nちょうどいい。\n話したいことがあったんだよ。\n<PAGE>\nすまないが、いっしょに来てくれるかい？"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_A_RANKD_BRIDGE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nところで…"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_A_RANKC_BELLTOWER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nところで…"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_A_RANKC_COLLABO_MENU1",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nところで…"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_A_RANKB_BRONZE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nところで…"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_A_RANKB_COLLABO_PERFUME",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nところで…"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_A_RANKA_GODDESS",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nところで…"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_A_RANKA_COLLABO_MENU2",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nところで…"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_J_RANKD_FARMBRIDGE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nところで…"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_J_RANKC_SPA",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nところで…"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_J_RANKC_COLLABO_MENU",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nところで…"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_J_RANKB_PARK",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nところで…"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_J_RANKB_COLLABO_KANZASHI",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nところで…"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_J_RANKA_INARI",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nところで…"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_J_RANKA_COLLABO_SPA",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nところで…"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_S_RANKD_OUTSIDEKITCHEN",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nところで…"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_S_RANKC_FIRE",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nところで…"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_S_RANKC_COLLABO_FOODSTUFF",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nところで…"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_S_RANKB_INNAROUND",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nところで…"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_S_RANKB_COLLABO_AVATAR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nところで…"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_S_RANKA_PIER",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nところで…"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_S_RANKA_COLLABO_MENU",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nところで…"
+    },
+    {
+      "VardId": "MES_MISSION_CHOICE_00",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nわたす"
+    },
+    {
+      "VardId": "MES_MISSION_CHOICE_01",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nわたさない"
+    },
+    {
+      "VardId": "MES_MISSION_NG",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nそうかい、まああせらなくていいよ。\n材料がそろったら、\nまた持ってきておくれ。"
+    },
+    {
+      "VardId": "MES_MISSION_OK",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nそうかい、持ってきてくれたんだね。\nありがとうよ！"
+    },
+    {
+      "VardId": "MES_MISSION_CANNOT",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n…見たところ、\nまだそろってないようだが…。\n<PAGE>\n材料が全部そろったら、\nまた持ってきておくれ。"
+    },
+    {
+      "VardId": "MES_MISSION_CLEAR",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n確かに受け取ったよ！\n<PAGE>\nじゃあ準備ができしだい、\nさっそくとりかかるとしよう。\n<PAGE>\nまた呼びに行くから、\n待っていておくれ。"
+    },
+    {
+      "VardId": "MES_MISSION_RESULT_00",
+      "Text": "<MOJI0>を<MOJI1>わたした！"
+    },
+    {
+      "VardId": "MES_MISSION_RESULT_01",
+      "Text": "<MOJI0>を<MOJI1>、\n<MOJI2>を<MOJI3>わたした！"
+    },
+    {
+      "VardId": "MES_MISSION_RESULT_02",
+      "Text": "<MOJI0>を<MOJI1>、\n<MOJI2>を<MOJI3>、\n<MOJI4>を<MOJI5>わたした！"
+    }
+  ]
+}

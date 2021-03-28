@@ -1,0 +1,910 @@
+﻿{
+  "Date": "2016-06-06T19:37:49.8537955+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MSG_NONE",
+      "Text": "-------"
+    },
+    {
+      "VardId": "MSG_CHOICE_000",
+      "Text": "畑をかりる"
+    },
+    {
+      "VardId": "MSG_CHOICE_001",
+      "Text": "<CANCEL_SELECT>\r\nなんでもない"
+    },
+    {
+      "VardId": "MSG_CHOICE_002",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\r\nギルドへようこそ。\nどのようなご用でしょう？"
+    },
+    {
+      "VardId": "MSG_000",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\r\nどの畑を借りられますか？"
+    },
+    {
+      "VardId": "MSG_001",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\r\nその畑は誰も使っていないようですね。\n登録しておきますので\n<RED>今日から</RED>使っていただいてかまいませんよ。"
+    },
+    {
+      "VardId": "MSG_002",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\r\nその畑は<BLUE><MYNAME></BLUE>が\n使っている畑ですね。\n<PAGE>\nでは、引き続き<BLUE><MYNAME></BLUE>を\n使用者として登録しておきますね。"
+    },
+    {
+      "VardId": "MSG_003",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\r\nその畑を使っている方がいますね。\n<PAGE>\nでは、<BLUE><CHARANAME0>さん</BLUE>を\n呼んで話し合いをしましょう。"
+    },
+    {
+      "VardId": "MSG_003_1",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\r\nその畑を使っている方は、\n<BLUE><CHARANAME0>さん</BLUE>ですね。\n<PAGE>\n<FACE_SAD><BLUE><CHARANAME0>さん</BLUE>ですが、\n今日は体調をくずしているそうですので\nその畑の申請は<BLUE>明日以降</BLUE>にお願いします。"
+    },
+    {
+      "VardId": "MSG_004_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_SAD>\r\nほう……ボクが使っている畑を\n借りたいのかい？"
+    },
+    {
+      "VardId": "MSG_004_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nフフッ、ボクが使っている畑を\n借りたいそうだね、<MYNAME>？"
+    },
+    {
+      "VardId": "MSG_004_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SPECIAL>\r\nわたくしの畑を借りたいなんて、\n自分の立場をわきまえていないのかしら？"
+    },
+    {
+      "VardId": "MSG_004_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\r\nわたくしの使っている畑を借りたい？\n急にそんなことを言われても…。"
+    },
+    {
+      "VardId": "MSG_004_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\r\nわたくしの使っている畑を借りたい？\n急にそんなことを言われても…。"
+    },
+    {
+      "VardId": "MSG_004_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\r\nわたしの使ってる畑を借りたいって？\nおやおや、どうしようかねぇ？"
+    },
+    {
+      "VardId": "MSG_004_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\r\nオレが使ってる畑を借りたいって？\nん〜、どうすっかなぁ…。"
+    },
+    {
+      "VardId": "MSG_004_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\r\nオレが使ってる畑を借りたいって？\nん〜、どうすっかなぁ…。"
+    },
+    {
+      "VardId": "MSG_004_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\r\nオレが使ってる畑を借りたいって？\n<MYNAME>の頼みなら何でも\n聞いてやりたいとこだけど…でもなぁ…。"
+    },
+    {
+      "VardId": "MSG_CHOICE_003",
+      "Text": "年間行事で対決！"
+    },
+    {
+      "VardId": "MSG_CHOICE_004",
+      "Text": "貿易の出荷額で対決！"
+    },
+    {
+      "VardId": "MSG_CHOICE_005",
+      "Text": "貿易の出荷数で対決！"
+    },
+    {
+      "VardId": "MSG_CHOICE_006",
+      "Text": "貿易の出荷種類数で対決！"
+    },
+    {
+      "VardId": "MSG_CHOICE_007",
+      "Text": "話し合う"
+    },
+    {
+      "VardId": "MSG_CHOICE_008",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\r\n<SPEED_IMME>どうされますか？"
+    },
+    {
+      "VardId": "MSG_005",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\r\n対決が可能な年間行事で、\n順位が最も高い方に畑をお貸しします。\n<PAGE>\n一番近いイベントは\n<RED><MOJI0></RED>ですね。"
+    },
+    {
+      "VardId": "MSG_006",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_SAD>\r\n対決できる年間行事は\n近くには予定されていませんね。\n<PAGE>\n<FACE_NORMAL>他の対決を選んでいただけますか？"
+    },
+    {
+      "VardId": "MSG_CHOICE_009",
+      "Text": "対決する！"
+    },
+    {
+      "VardId": "MSG_CHOICE_010",
+      "Text": "<CANCEL_SELECT>\r\n考えなおす"
+    },
+    {
+      "VardId": "MSG_CHOICE_011",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\r\n<RED><MOJI0></RED>で\nよろしいでしょうか？"
+    },
+    {
+      "VardId": "MSG_007",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\r\n<BLUE><MOJI0>の月 <MOJI1>日</BLUE>の貿易で入手した\n<RED>出荷金額</RED>の<RED>合計</RED>で対決します。"
+    },
+    {
+      "VardId": "MSG_008",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\r\n<BLUE><MOJI0>の月 <MOJI1>日</BLUE>の貿易で<RED><MOJI2></RED>を\nどれだけ出荷したか、\n<RED>総出荷数</RED>で対決します。"
+    },
+    {
+      "VardId": "MSG_008_ALL",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\r\n<BLUE><MOJI0>の月 <MOJI1>日</BLUE>の貿易で\nどれだけ出荷したか、\n<RED>総出荷数</RED>で対決します。\n<PAGE>\n出荷していただくものは\n<RED>何でも</RED>かまいませんよ。"
+    },
+    {
+      "VardId": "MSG_009",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\r\n<BLUE><MOJI0>の月 <MOJI1>日</BLUE>の貿易で\n出荷したものの<RED>種類の多さ</RED>で対決します。"
+    },
+    {
+      "VardId": "MSG_CHOICE_012",
+      "Text": "話し合い"
+    },
+    {
+      "VardId": "MSG_CHOICE_013",
+      "Text": "<CANCEL_SELECT>\r\n考えなおす"
+    },
+    {
+      "VardId": "MSG_CHOICE_014",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\r\n<CHARANAME0>さんと話し合っていただいて\n問題なければ畑を借りる事ができます。\n<PAGE>\nただし、話し合いで断られますと\n<CHARANAME0>さんが対決内容を\n決めることになります。\n<PAGE>\nよろしいでしょうか？"
+    },
+    {
+      "VardId": "MSG_010_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_SAD>\r\n話し合いがしたいって？\nちょっと、待ってくれないか？\nふむ…どうするべきか……。"
+    },
+    {
+      "VardId": "MSG_010_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_SAD>\r\n話し合いがしたいって？\nちょっと、待ってくれないか？\nふむ…どうするべきか……。"
+    },
+    {
+      "VardId": "MSG_010_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\r\n話し合いですって？\nちょっと待ってちょうだい。\n今、考えるわ…。"
+    },
+    {
+      "VardId": "MSG_010_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\r\n話し合いですって？\nちょっと待ってちょうだい。\n今、考えるわ…。"
+    },
+    {
+      "VardId": "MSG_010_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\r\n話し合いですって？\nちょっと待ってちょうだい。\n今、考えるわ…。"
+    },
+    {
+      "VardId": "MSG_010_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\r\n話し合いかい？\nさて、どうしようかねぇ…。"
+    },
+    {
+      "VardId": "MSG_010_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\r\n話し合いがしたい？\nうーん、どうしよっかなぁ…。"
+    },
+    {
+      "VardId": "MSG_010_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\r\n話し合いがしたい？\nうーん、どうしよっかなぁ…。"
+    },
+    {
+      "VardId": "MSG_010_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\r\n話し合いがしたい？\nうーん、どうしよっかなぁ…。"
+    },
+    {
+      "VardId": "MSG_CHOICE_015",
+      "Text": "じっと待つ"
+    },
+    {
+      "VardId": "MSG_CHOICE_016",
+      "Text": "お金で交渉を持ちかける"
+    },
+    {
+      "VardId": "MSG_CHOICE_017",
+      "Text": "考え込んでいるようだ…。"
+    },
+    {
+      "VardId": "MSG_011_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_SAD>\r\nふむ………うーん。"
+    },
+    {
+      "VardId": "MSG_011_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_SAD>\r\nふむ………うーん。"
+    },
+    {
+      "VardId": "MSG_011_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\r\nどうしようかしら…。\nここは………なやみどころね………。"
+    },
+    {
+      "VardId": "MSG_011_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\r\nどうしようかしら…。\nここは………なやみどころね………。"
+    },
+    {
+      "VardId": "MSG_011_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\r\nどうしようかしら…。\nここは………なやみどころね………。"
+    },
+    {
+      "VardId": "MSG_011_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\r\nどうしたものかねぇ…。"
+    },
+    {
+      "VardId": "MSG_011_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\r\n考えるのは、苦手なんだよなぁ…。\nあー、頭がかゆくなってきた…。"
+    },
+    {
+      "VardId": "MSG_011_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\r\n考えるのは、苦手なんだよなぁ…。\nあー、頭がかゆくなってきた…。"
+    },
+    {
+      "VardId": "MSG_011_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\r\n考えるのは、苦手なんだよなぁ…。\nあー、頭がかゆくなってきた…。"
+    },
+    {
+      "VardId": "MSG_012",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\r\nそれでは、\nいくらで話し合いをされますか？"
+    },
+    {
+      "VardId": "MSG_013_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\n！？\nそうくるとは思わなかったな。\n………むう………。"
+    },
+    {
+      "VardId": "MSG_013_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\n！？\nそうくるとは思わなかったな。\n………むう………。"
+    },
+    {
+      "VardId": "MSG_013_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\r\nわたくしにむかって、\nお金で解決しようというの？"
+    },
+    {
+      "VardId": "MSG_013_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\r\n…何よ、そこまでするほど\nあの畑が必要なの？"
+    },
+    {
+      "VardId": "MSG_013_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\r\n…何よ、そこまでするほど\nあの畑が必要なの？"
+    },
+    {
+      "VardId": "MSG_013_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_SAD>\r\nこのお金で土地を借りたいのかい？\nうーん、困ったねぇ。"
+    },
+    {
+      "VardId": "MSG_013_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\r\nいやー、まいったなぁ。\nお金出されちゃったよ。\nどうしよっかなぁ…。"
+    },
+    {
+      "VardId": "MSG_013_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\r\nいやー、まいったなぁ。\nお金出されちゃったよ。\nどうしよっかなぁ…。"
+    },
+    {
+      "VardId": "MSG_013_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\r\nいやー、まいったなぁ。\nお金出されちゃったよ。\nどうしよっかなぁ…。"
+    },
+    {
+      "VardId": "MSG_014_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_ROSE_R>基本的に、\nボクは争いごとは好まないんだ。\n<PAGE>\nいいだろう。\nキミに畑はまかせるから\n美しく使ってくれよ。"
+    },
+    {
+      "VardId": "MSG_014_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_ROSE_R>他ならぬ\n<MYNAME>のたのみだからね。\n<PAGE>\nいいだろう。\nキミにまかせておけば\n畑も美しくかがやいてくれるだろう。"
+    },
+    {
+      "VardId": "MSG_014_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_PLEASANT_R>いいわ。\nここはゆずってあげる。\nわたくしに、感謝なさい！"
+    },
+    {
+      "VardId": "MSG_014_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_PLEASANT_R>いいわ。\nここはゆずってあげる。\nわたくしに、感謝なさい！"
+    },
+    {
+      "VardId": "MSG_014_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\r\n…あなたにそんなに真剣に頼まれたら\n断れるわけないじゃない。\nもう、仕方ないわね。\n<PAGE>\n<FACE_LAUGH><WINDOW_PLEASANT_R>いいわ。ここはゆずってあげる。\nこの借りは家族サービスで\nしっかり返してちょうだいね。"
+    },
+    {
+      "VardId": "MSG_014_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_PLEASANT_R><MYNAME>の情熱はわかったわ。\nがんばって作物を作っておくれ。"
+    },
+    {
+      "VardId": "MSG_014_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_PLEASANT_R>よーし、わかった。\nそこまでいうなら、ゆずってやるよ。"
+    },
+    {
+      "VardId": "MSG_014_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_PLEASANT_R>よーし、わかった。\nほかならぬ<MYNAME>の頼みだしな。\nそこまでいうなら、ゆずってやるよ！"
+    },
+    {
+      "VardId": "MSG_014_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_PLEASANT_R><MYNAME>にそんなに真剣に\n頼まれたら断れるわけないよな〜。\nわかった。ここは<MYNAME>にゆずる。\n<PAGE>\nそのかわり明日の朝食に\nオレの好物、作ってくれよな♪"
+    },
+    {
+      "VardId": "MSG_015",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\r\nそれでは、\n畑の使用者の登録をしますね。"
+    },
+    {
+      "VardId": "MSG_016_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nよく考えたけど不可能だよ。\n<PAGE>\n<FACE_LAUGH>だが、キミも後には引けないようだし\nここは<RED><MOJI0></RED>で\n対決しよう。"
+    },
+    {
+      "VardId": "MSG_016_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_SAD>\r\n<MYNAME>のたのみだが…\nやはり不可能だよ。\n<PAGE>\n<FACE_LAUGH>だが、キミも後には引けないようだし\nここは<RED><MOJI0></RED>で\n対決しよう。"
+    },
+    {
+      "VardId": "MSG_016_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\r\nダメよ。\nわたくしにもプライドがあるわ。\n<PAGE>\n<FACE_SPECIAL>でも、どうしてもというなら、\n<RED><MOJI0></RED>で\n対決してあげてもよくってよ。"
+    },
+    {
+      "VardId": "MSG_016_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\r\nいくらあなたの頼みでも、ダメよ。\nわたくしだって一流の牧場主を\n目指しているんだから。\n<PAGE>\n<FACE_LAUGH>どうしてもというなら、\n正々堂々、<RED><MOJI0></RED>で\n対決しましょう！"
+    },
+    {
+      "VardId": "MSG_016_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\r\nいくらあなたの頼みでも、ダメよ。\nわたくしだって一流の牧場主を\n目指しているんだから。\n<PAGE>\n<FACE_LAUGH>でも、どうしてもというなら、\n正々堂々、<RED><MOJI0></RED>で\n対決しましょう！"
+    },
+    {
+      "VardId": "MSG_016_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_SAD>\r\n今、大事なものを育ててるからねぇ、\nゆずれないんだけど……。\n<PAGE>\n<FACE_NORMAL>どうしてもゆずってほしいみたいだし、\n<RED><MOJI0></RED>で\n対決しようか。"
+    },
+    {
+      "VardId": "MSG_016_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_ANGRY>\r\n<WINDOW_FLAME_R>あー、いろいろ考えたけど無理！\nどうしてもってんなら\n<RED><MOJI0></RED>で対決だ！"
+    },
+    {
+      "VardId": "MSG_016_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\r\nう〜ん、いろいろ考えたけど\nオレにも生活があるし…やっぱ無理！\n<PAGE>\n<FACE_LAUGH>どうしてもってんなら\n<RED><MOJI0></RED>で対決しようぜ！"
+    },
+    {
+      "VardId": "MSG_016_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\r\nう〜ん、いろいろ考えたけど…。\n夫婦そろって世界一の牧場主になるためには\nたまに競い合うことも、大切だよな！\n<PAGE>\n<FACE_LAUGH>ってわけで、どうしてもってんなら\n正々堂々、<RED><MOJI0></RED>で\n対決しようぜ！"
+    },
+    {
+      "VardId": "MSG_017_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nでは、美しい対決にしよう！\n楽しみにしているよ。"
+    },
+    {
+      "VardId": "MSG_017_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nでは、美しい対決にしよう！\n楽しみにしているよ、<MYNAME>。"
+    },
+    {
+      "VardId": "MSG_017_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\r\nわたくしが勝つでしょうけど、\nせいぜい、がんばってちょうだい。"
+    },
+    {
+      "VardId": "MSG_017_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\r\nフフッ、負けないわよ。\n絶対にわたくしが勝ってみせるんだから！\nそれじゃ、対決楽しみにしているわ。"
+    },
+    {
+      "VardId": "MSG_017_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\r\nフフッ、負けないわよ。\n絶対にわたくしが勝ってみせるんだから！\nそれじゃ、対決楽しみにしているわ。"
+    },
+    {
+      "VardId": "MSG_017_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\r\nおたがいがんばろうね。\nなんだか、今から楽しみだよ。"
+    },
+    {
+      "VardId": "MSG_017_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\r\nそれじゃ、対決楽しみにしてるぜ！"
+    },
+    {
+      "VardId": "MSG_017_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\r\nそれじゃ、対決楽しみにしてるぜ！\n<MYNAME>！"
+    },
+    {
+      "VardId": "MSG_017_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\r\nそれじゃ、対決楽しみにしてるぜ！\n夫婦だからって、手を抜くとかは\nいっさいなしだからな！"
+    },
+    {
+      "VardId": "MSG_CHOICE_018",
+      "Text": "所持金:%lldG"
+    },
+    {
+      "VardId": "MSG_018_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nうーん、やはり無理だな。\n美しくない。\n<PAGE>\nここは美しい形で争うべきだ。\n<RED><MOJI0></RED>で\n対決しよう。"
+    },
+    {
+      "VardId": "MSG_018_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nうーん、やはり無理だな。\n美しくない。\n<PAGE>\nここは美しい形で争うべきだ。\n<RED><MOJI0></RED>で\n対決しよう。"
+    },
+    {
+      "VardId": "MSG_018_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\r\nどう考えても無理ね。\nでもまぁ、チャンスくらいあげるわ。\n<PAGE>\n<FACE_SPECIAL>わたくしと対決して勝ったほうが、\n土地を使えることにしましょ。\n<RED><MOJI0></RED>で対決よ！"
+    },
+    {
+      "VardId": "MSG_018_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\r\nそれじゃ無理よ。\nでもまぁ、チャンスくらいはあげる。\n<PAGE>\n<FACE_LAUGH>わたくしと対決して勝ったほうが、\n土地を使えることにしましょ。\n<RED><MOJI0></RED>で対決よ！"
+    },
+    {
+      "VardId": "MSG_018_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\r\nそれじゃ無理よ。\nでもまぁ、チャンスくらいはあげる。\n<PAGE>\n<FACE_LAUGH>わたくしと対決して勝ったほうが、\n土地を使えることにしましょ。\n<RED><MOJI0></RED>で対決よ！"
+    },
+    {
+      "VardId": "MSG_018_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>の成長のためにも、\nここは<RED><MOJI0></RED>で\n対決しようか。"
+    },
+    {
+      "VardId": "MSG_018_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_ANGRY>\r\nあ〜やっぱり、話し合いとか無理だ！\n頭が痛くなる！\n<PAGE>\n<FACE_LAUGH>ここはおたがいスッキリ決めるために、\n<RED><MOJI0></RED>で対決しようぜ！"
+    },
+    {
+      "VardId": "MSG_018_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_ANGRY>\r\nあ〜やっぱり、話し合いとか無理だ！\n頭が痛くなる！\n<PAGE>\n<FACE_LAUGH>ここはおたがいスッキリ決めるために、\n<RED><MOJI0></RED>で対決しようぜ！"
+    },
+    {
+      "VardId": "MSG_018_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_ANGRY>\r\nあ〜やっぱり、話し合いとか無理だ！\n頭が痛くなる！\n<PAGE>\n<FACE_LAUGH>ここはおたがいスッキリ決めるために、\n<RED><MOJI0></RED>で対決しようぜ！"
+    },
+    {
+      "VardId": "MSG_019_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_EXCLAMATION_R>ちょっと待ちたまえ！"
+    },
+    {
+      "VardId": "MSG_019_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_EXCLAMATION_R>ちょっと待ちたまえ！"
+    },
+    {
+      "VardId": "MSG_019_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SPECIAL>\r\n<WINDOW_EXCLAMATION_R>ちょっとお待ちになって！"
+    },
+    {
+      "VardId": "MSG_019_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SPECIAL>\r\n<WINDOW_EXCLAMATION_R>ちょっとお待ちになって！"
+    },
+    {
+      "VardId": "MSG_019_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SPECIAL>\r\n<WINDOW_EXCLAMATION_R>ちょっとお待ちになって！"
+    },
+    {
+      "VardId": "MSG_019_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\r\nちょっと待っておくれ。"
+    },
+    {
+      "VardId": "MSG_019_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_ANGRY>\r\n<WINDOW_FLAME_R>ちょっと待ったー！！"
+    },
+    {
+      "VardId": "MSG_019_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_ANGRY>\r\n<WINDOW_FLAME_R>ちょっと待ったー！！"
+    },
+    {
+      "VardId": "MSG_019_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_ANGRY>\r\n<WINDOW_FLAME_R>ちょっと待ったー！！"
+    },
+    {
+      "VardId": "MSG_020_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nその対決、ボクも参加させてもらうよ。"
+    },
+    {
+      "VardId": "MSG_020_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nその対決、ボクも参加させてもらうよ。"
+    },
+    {
+      "VardId": "MSG_020_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\r\nその対決、わたくしも\n参加させてもらうわ！"
+    },
+    {
+      "VardId": "MSG_020_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\r\nその対決、わたくしも\n参加させてもらうわ！"
+    },
+    {
+      "VardId": "MSG_020_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\r\nその対決、わたくしも\n参加させてもらうわ！"
+    },
+    {
+      "VardId": "MSG_020_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\r\nその対決、\nわたしも参加させてもらえるかい？"
+    },
+    {
+      "VardId": "MSG_020_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\r\nその対決、オレも参加するぜ！"
+    },
+    {
+      "VardId": "MSG_020_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\r\nその対決、オレも参加するぜ！"
+    },
+    {
+      "VardId": "MSG_020_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\r\nその対決、オレも参加するぜ！"
+    },
+    {
+      "VardId": "MSG_021_EV",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\r\nでは、<BLUE><MOJI0>の月 <MOJI1>日</BLUE>の\n<RED><MOJI2></RED>で\n<BLUE><MOJI3></BLUE>が対決ですね。"
+    },
+    {
+      "VardId": "MSG_021_1",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\r\nでは、<BLUE><MOJI0>の月 <MOJI1>日</BLUE>の貿易で入手した\n<RED>出荷金額</RED>の<RED>合計</RED>で\n<BLUE><MOJI3></BLUE>が対決ですね。"
+    },
+    {
+      "VardId": "MSG_021_2_ALL",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\r\nでは、<BLUE><MOJI0>の月 <MOJI1>日</BLUE>の貿易で\nどれだけ出荷したか、<RED>総出荷数</RED>で\n<BLUE><MOJI3></BLUE>が対決ですね。\n<PAGE>\n出荷していただくものは\n<RED>何でも</RED>かまわないことにしましょう。"
+    },
+    {
+      "VardId": "MSG_021_2",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\r\nでは、<BLUE><MOJI0>の月 <MOJI1>日</BLUE>の貿易で\n<RED><MOJI2></RED>をどれだけ出荷したか、\n<PAGE>\n<RED>総出荷数</RED>で\n<BLUE><MOJI3></BLUE>が対決ですね。"
+    },
+    {
+      "VardId": "MSG_021_3",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\r\nでは、<BLUE><MOJI0>の月 <MOJI1>日</BLUE>の貿易で\n出荷したものの<RED>種類の多さ</RED>で\n<BLUE><MOJI3></BLUE>が対決ですね。"
+    },
+    {
+      "VardId": "MSG_022",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\r\nこれでは対決内容が\n決めにくいでしょうし、\nこちらで決めてしまいますね。"
+    },
+    {
+      "VardId": "MSG_023_EV",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\r\n<BLUE><MOJI0>の月 <MOJI1>日</BLUE>の\n<RED><MOJI2></RED>で\n<BLUE><MOJI3></BLUE>が対決、ということにしましょう。"
+    },
+    {
+      "VardId": "MSG_023_1",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\r\n<BLUE><MOJI0>の月 <MOJI1>日</BLUE>の貿易で入手した\n<RED>出荷金額</RED>の<RED>合計</RED>で\n<BLUE><MOJI3></BLUE>が対決、ということにしましょう。"
+    },
+    {
+      "VardId": "MSG_023_2_ALL",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\r\n<BLUE><MOJI0>の月 <MOJI1>日</BLUE>の貿易で\nどれだけ出荷したか、<RED>総出荷数</RED>で\n<BLUE><MOJI3></BLUE>が対決、ということにしましょう。\n<PAGE>\n出荷していただくものは\n<RED>何でも</RED>かまいませんよ。"
+    },
+    {
+      "VardId": "MSG_023_2",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\r\n<BLUE><MOJI0>の月 <MOJI1>日</BLUE>の貿易で<RED><MOJI2></RED>を\nどれだけ出荷したか、<RED>総出荷数</RED>で\n<BLUE><MOJI3></BLUE>が対決、ということにしましょう。"
+    },
+    {
+      "VardId": "MSG_023_3",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\r\n<BLUE><MOJI0>の月 <MOJI1>日</BLUE>の貿易で\n出荷したものの<RED>種類の多さ</RED>で\n<BLUE><MOJI3></BLUE>が対決、ということにしましょう。"
+    },
+    {
+      "VardId": "MSG_024_1",
+      "Text": "２人"
+    },
+    {
+      "VardId": "MSG_024_2",
+      "Text": "３人"
+    },
+    {
+      "VardId": "MSG_024_3",
+      "Text": "４人"
+    },
+    {
+      "VardId": "MSG_026",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\r\n…と言いましたが、\nどうやら選べる選択肢は残り１つですね。\n<PAGE>\n<BLUE><MOJI0>の月 <MOJI1>日</BLUE>の貿易で入手した\n<RED>出荷金額</RED>の<RED>合計</RED>で\n<BLUE><MOJI3></BLUE>が対決となります。"
+    },
+    {
+      "VardId": "MSG_027",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\r\nおはようございます、\n<MYNAME>。"
+    },
+    {
+      "VardId": "MSG_028",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\r\n朝早くから失礼しますね。\nお知らせしたい事がありますので\nギルドまでご一緒いただけますか？"
+    },
+    {
+      "VardId": "MSG_029_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nやあ、待ってたよ。\nキミが使ってる<RED><MOJI0></RED>、\n使用期限が切れているよね。\n<PAGE>\n次は、ボクが使わせてもらいたいのだが、\nかまわないかな？"
+    },
+    {
+      "VardId": "MSG_029_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\nやあ、待ってたよ。\nキミが使ってる<RED><MOJI0></RED>、\n使用期限が切れているよね。\n<PAGE>\n<FACE_NORMAL>次は、ボクが使わせてもらいたいのだが、\nかまわないかな？"
+    },
+    {
+      "VardId": "MSG_029_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\r\n待っていたわよ、<MYNAME>！\nあなたの使っている<RED><MOJI0></RED>、\n使用期限が切れているでしょう。\n<PAGE>\n<FACE_NORMAL>それなら次は、わたくしが\n使用してもいいわよね？"
+    },
+    {
+      "VardId": "MSG_029_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\r\n待っていたわよ、<MYNAME>！\nあなたの使っている<RED><MOJI0></RED>、\n使用期限が切れているでしょう。\n<PAGE>\n<FACE_NORMAL>それなら次は、わたくしが\n使用してもいいわよね？"
+    },
+    {
+      "VardId": "MSG_029_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\r\n待っていたわよ、<MYNAME>！\nあなたの使っている<RED><MOJI0></RED>、\n使用期限が切れているでしょう。\n<PAGE>\n<FACE_NORMAL>それなら次は、わたくしが\n使用してもいいわよね？"
+    },
+    {
+      "VardId": "MSG_029_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\r\n待ってたよ、\n<MYNAME>。\n<PAGE>\n<FACE_NORMAL><MYNAME>が借りてた\n<RED><MOJI0></RED>だけど、\n使用期限が切れてるんだよ。\n<PAGE>\nそろそろ、新しい作物を作りたいから\n使わせてもらっていいかい？"
+    },
+    {
+      "VardId": "MSG_029_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\r\nおっ、待ってたぜ！\n<PAGE>\n<FACE_NORMAL><MYNAME>が使ってた\n<RED><MOJI0></RED>だけど、\n使用期限が切れてるだろ？\n<PAGE>\n<FACE_LAUGH>オレが使ってかまわないよな？"
+    },
+    {
+      "VardId": "MSG_029_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\r\nおっ、待ってたぜ！\n<PAGE>\n<FACE_NORMAL><MYNAME>が使ってた\n<RED><MOJI0></RED>だけど、\n使用期限が切れてるだろ？\n<PAGE>\n<FACE_LAUGH>オレが使ってかまわないよな？"
+    },
+    {
+      "VardId": "MSG_029_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\r\nおっ、待ってたぜ！\n<PAGE>\n<FACE_NORMAL><MYNAME>が使ってた\n<RED><MOJI0></RED>だけど、\n使用期限が切れてるだろ？\n<PAGE>\n<FACE_LAUGH>オレが使ってかまわないよな？"
+    },
+    {
+      "VardId": "MSG_030_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nでは、対決で決めようか。\n<PAGE>\n対決方法はキミが選びたまえ。\nなるべく美しい方がいいな。"
+    },
+    {
+      "VardId": "MSG_030_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nでは、対決で決めようか。\n<PAGE>\n対決方法は<MYNAME>が\n選んでくれてかまわない。\nキミとならどんな対決でも美しいだろう。"
+    },
+    {
+      "VardId": "MSG_030_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_ANGRY>\r\nな…なんですって！\nわ…わたくしになんてことを………。\n<PAGE>\n<FACE_NORMAL>そ…それなら、対決して\n決めるというのでどうかしら？\n<PAGE>\n<FACE_SPECIAL>対決方法は選んでもらってけっこうよ。\nそれぐらいの方が、ハンデには\nちょうどいいでしょ？"
+    },
+    {
+      "VardId": "MSG_030_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\r\nあら、そう…。\nそれなら、対決して決めるというので\nどうかしら？\n<PAGE>\n<FACE_LAUGH>対決方法は、もちろんあなたが\n選んでくれてけっこうよ。"
+    },
+    {
+      "VardId": "MSG_030_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\r\nあら、そう…。\nそれなら、対決して決めるというので\nどうかしら？\n<PAGE>\n<FACE_LAUGH>対決方法は、もちろんあなたが\n選んでくれて結構よ。"
+    },
+    {
+      "VardId": "MSG_030_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\r\nそうだねぇ…。\nじゃあ、対決して決めるかい？\n<PAGE>\n<FACE_LAUGH>あまり争いごとはしたくないけど、\nこれも牧場主としての勉強だからねぇ。\nどんな対決にしようか？"
+    },
+    {
+      "VardId": "MSG_030_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\r\nそうだなぁ。\nじゃあ、対決でもしてみるか！\n<PAGE>\n<FACE_LAUGH>内容は、そっちが選んでいいぜ。\nどんな内容でもオレは\n正々堂々、受けてたつからな！"
+    },
+    {
+      "VardId": "MSG_030_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\r\nそうだなぁ。\nじゃあ、対決でもしてみるか！\n<PAGE>\n<FACE_LAUGH>内容は、そっちが選んでいいぜ。\nどんな内容でもオレは\n正々堂々、受けてたつからな！"
+    },
+    {
+      "VardId": "MSG_030_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\r\nそっか、困ったなぁ…。\nそれじゃ、対決でもしてみるか！\n<PAGE>\n<FACE_LAUGH>内容は、<MYNAME>が選んでくれ。\nどんな内容でもオレは\n正々堂々、受けてたつからさ♪"
+    },
+    {
+      "VardId": "MSG_CHOICE_019",
+      "Text": "いいよ"
+    },
+    {
+      "VardId": "MSG_CHOICE_020",
+      "Text": "やだ"
+    },
+    {
+      "VardId": "MSG_CHOICE_021_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\nキミに代わって、\nボクが使うけどいいよね？"
+    },
+    {
+      "VardId": "MSG_CHOICE_021_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\nキミに代わって、\nボクが使うけどいいよね？"
+    },
+    {
+      "VardId": "MSG_CHOICE_021_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\r\nわたくしがうまく使ってあげるわ！"
+    },
+    {
+      "VardId": "MSG_CHOICE_021_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\r\nわたくしが使ってもいいでしょう？"
+    },
+    {
+      "VardId": "MSG_CHOICE_021_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\r\nわたくしが使ってもいいでしょう？"
+    },
+    {
+      "VardId": "MSG_CHOICE_021_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\r\nわたしに使わせてくれるかい？"
+    },
+    {
+      "VardId": "MSG_CHOICE_021_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\r\nオレに使わせてくれよ。"
+    },
+    {
+      "VardId": "MSG_CHOICE_021_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\r\nオレに使わせてくれよ。"
+    },
+    {
+      "VardId": "MSG_CHOICE_021_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\r\nオレに使わせてくれよ。"
+    },
+    {
+      "VardId": "MSG_CHOICE_022",
+      "Text": "<SPEED_IMME>交渉金額→<BLUE><MOJI0>G</BLUE>"
+    },
+    {
+      "VardId": "MSG_031_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\nオー、さすがは<MYNAME>。\nボクが見込んだ人だ。\n感謝するよ。"
+    },
+    {
+      "VardId": "MSG_031_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\nオー、さすがは<MYNAME>。\nボクが見込んだ人だ。\n感謝するよ。"
+    },
+    {
+      "VardId": "MSG_031_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\r\nあら、わかっているじゃない！\n話が早くて、助かるわ。"
+    },
+    {
+      "VardId": "MSG_031_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\r\n交渉成立ね。\n話が早くて、助かるわ。"
+    },
+    {
+      "VardId": "MSG_031_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\r\n交渉成立ね。\nありがとう、<MYNAME>。"
+    },
+    {
+      "VardId": "MSG_031_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\r\nおや、いいのかい。\nありがとうね。"
+    },
+    {
+      "VardId": "MSG_031_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\r\nおっ、いいのか？\nサンキュー！！"
+    },
+    {
+      "VardId": "MSG_031_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\r\nおっ、いいのか？\nサンキュー！！\nおまえってほんといいやつだな！"
+    },
+    {
+      "VardId": "MSG_031_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\r\nおっ、いいのか？\nサンキュー！！\n<MYNAME>、大好きだー！！"
+    },
+    {
+      "VardId": "MSG_032_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_SAD>\r\n話し合いも不発か…。\n美しくないが仕方ない。"
+    },
+    {
+      "VardId": "MSG_032_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_SAD>\r\n話し合いも不発か…。\n美しくないが仕方ない。"
+    },
+    {
+      "VardId": "MSG_032_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\r\nわたくしとの交渉を\nいやがるなんて……！\n…はぁ。でも、仕方ないわね。"
+    },
+    {
+      "VardId": "MSG_032_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\r\nもう、ガンコなんだから。\n…はぁ、仕方ないわね。\nそれなら今回は、あきらめるわ。"
+    },
+    {
+      "VardId": "MSG_032_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\r\nそう…。\nまぁ、仕方ないわね。\n今回はあきらめるわ。"
+    },
+    {
+      "VardId": "MSG_032_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_SAD>\r\nそうかい、しょうがないねぇ。"
+    },
+    {
+      "VardId": "MSG_032_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\r\nえー、そんなこと言うなよ…。\nでも、仕方ないか…。"
+    },
+    {
+      "VardId": "MSG_032_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\r\nえー、そんなこと言うなよ…。\nでも、仕方ないか…。"
+    },
+    {
+      "VardId": "MSG_032_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\r\nえー、そんなこと言うなよ…。\nでも、仕方ないか…。"
+    },
+    {
+      "VardId": "MSG_CHOICE_023_0",
+      "Text": "<CHARANAME0>"
+    },
+    {
+      "VardId": "MSG_CHOICE_023_1",
+      "Text": "<CHARANAME1>"
+    },
+    {
+      "VardId": "MSG_CHOICE_023_2",
+      "Text": "<CHARANAME2>"
+    },
+    {
+      "VardId": "MSG_CHOICE_024",
+      "Text": "えー…やだ"
+    },
+    {
+      "VardId": "MSG_CHOICE_025",
+      "Text": "<CHARANAME0>→<BLUE><MOJI0>G</BLUE>\n<CHARANAME1>→<BLUE><MOJI1>G</BLUE>"
+    },
+    {
+      "VardId": "MSG_CHOICE_026",
+      "Text": "<CHARANAME0>→<BLUE><MOJI0>G</BLUE>\n<CHARANAME1>→<BLUE><MOJI1>G</BLUE>\n<CHARANAME2>→<BLUE><MOJI2>G</BLUE>"
+    },
+    {
+      "VardId": "MSG_033_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_SAD>\r\n残念だ…。\n美しくないが仕方ない。"
+    },
+    {
+      "VardId": "MSG_033_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_SAD>\r\n残念だ…。\n美しくないが仕方ない。"
+    },
+    {
+      "VardId": "MSG_033_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\r\nあら、そう…。\nまぁ、仕方ないわね。"
+    },
+    {
+      "VardId": "MSG_033_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\r\nあら、そう…。\nまぁ、仕方ないわね。"
+    },
+    {
+      "VardId": "MSG_033_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\r\nあら、そう…。\nまぁ、仕方ないわね。"
+    },
+    {
+      "VardId": "MSG_033_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_SAD>\r\nそうかい、しょうがないね…。\n残念だねぇ。"
+    },
+    {
+      "VardId": "MSG_033_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\r\nえー、オレが金を出すなんて\nめずらしいんだぞ？\n<PAGE>\nでも、仕方ないか…。"
+    },
+    {
+      "VardId": "MSG_033_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\r\nえー、オレが金を出すなんて\nめずらしいんだぞ？\n<PAGE>\nでも、仕方ないか…。"
+    },
+    {
+      "VardId": "MSG_033_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\r\nうーん、やっぱダメかー。\nまぁ、仕方ないよな。"
+    },
+    {
+      "VardId": "MSG_034_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nでは、これでどうだい？"
+    },
+    {
+      "VardId": "MSG_034_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nでは、これでどうだい？"
+    },
+    {
+      "VardId": "MSG_034_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\r\nこれでどうかしら？"
+    },
+    {
+      "VardId": "MSG_034_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\r\nこれでどうかしら？"
+    },
+    {
+      "VardId": "MSG_034_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\r\nこれでどうかしら？"
+    },
+    {
+      "VardId": "MSG_034_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\r\nこれでどう？"
+    },
+    {
+      "VardId": "MSG_034_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\r\nうー…これならどうだ！"
+    },
+    {
+      "VardId": "MSG_034_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\r\nうー…これならどうだ！"
+    },
+    {
+      "VardId": "MSG_034_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\r\nうー…これならどうだ！"
+    },
+    {
+      "VardId": "MSG_035",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\r\nそれでは、\n<RED><MOJI0></RED>の使用者に\n<BLUE><CHARANAME0>さん</BLUE>を登録しますね。"
+    },
+    {
+      "VardId": "MSG_036_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n畑に何か収穫できるものが\nあるかもしれないし、\n今日一日は待ってあげよう。"
+    },
+    {
+      "VardId": "MSG_036_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n畑に何か収穫できるものが\nあるかもしれないし、\n今日一日は待ってあげよう。"
+    },
+    {
+      "VardId": "MSG_036_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\r\n畑に何か収穫できるものが\nあるかもしれないし、\n今日一日は待ってあげるわ。"
+    },
+    {
+      "VardId": "MSG_036_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\r\n畑に何か収穫できるものが\nあるかもしれないし、\n今日一日は待ってあげるわ。"
+    },
+    {
+      "VardId": "MSG_036_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\r\n畑に何か収穫できるものが\nあるかもしれないし、\n今日一日は待ってあげるわ。"
+    },
+    {
+      "VardId": "MSG_036_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\r\n畑に何か収穫できるものが\nあるかもしれないし、\n今日一日は待ってあげるわね。"
+    },
+    {
+      "VardId": "MSG_036_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\r\n畑に何か収穫できるものが\nあるかもしれないし、\n今日一日は待ってやるぜ。"
+    },
+    {
+      "VardId": "MSG_036_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\r\n畑に何か収穫できるものが\nあるかもしれないし、\n今日一日は待ってやるぜ。"
+    },
+    {
+      "VardId": "MSG_036_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\r\n畑に何か収穫できるものが\nあるかもしれないし、\n今日一日は待っとくな。"
+    },
+    {
+      "VardId": "MSG_037",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\r\nそれでは、\n<RED>本登録は明日から</RED>という事で。\n本日はおつかれさまでした。"
+    },
+    {
+      "VardId": "MSG_BAD_WEATHER_000",
+      "Text": "今日は<RED>台風</RED>！\nこれじゃあ、陣取り対決は中止だな…。\n<PAGE>\nまた、あらためてギルドに陣取りの\n申し込みをしに行こう。"
+    },
+    {
+      "VardId": "MSG_BAD_WEATHER_001",
+      "Text": "今日は<RED>大雪</RED>！\nこれじゃあ、陣取り対決は中止だな…。\n<PAGE>\nまた、あらためてギルドに陣取りの\n申し込みをしに行こう。"
+    },
+    {
+      "VardId": "MSG_EDDA_CANCEL_000",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\r\nそう言えば<MYNAME>、\nお知らせしたい事があったんです。\n<PAGE>\n<FACE_SAD>エッダさんが使用されていた\n陣取りの畑について、エッダさんから\nキャンセルしたいと連絡がありまして…。\n<PAGE>\n<FACE_NORMAL>まだ使用期限があったのですが\nだれか他の牧場主の方に使ってほしい\nそうです。\n<PAGE>\nですので<MYNAME>、\n必要であれば、すぐに登録できますよ。"
+    }
+  ]
+}

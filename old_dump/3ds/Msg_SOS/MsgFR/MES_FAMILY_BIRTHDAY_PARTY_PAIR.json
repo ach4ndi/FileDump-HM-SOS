@@ -1,0 +1,778 @@
+﻿{
+  "Date": "2016-06-10T19:21:59.4159733+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_OKAERI_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\nBienvenue à la maison, <MYNAME> !\nJ't'attendais !\n<PAGE>\n<FACE_LAUGH>Aujourd'hui, nous fêtons tous les deux\nnos anniversaires ! J'ai donc préparé un super\nrepas pour l'occasion ! Allez, viens !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_ITADAKI_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\nAttention les yeux... Ta-daaah !\nCe sont les spécialités de Fritz, le seul\net l'unique ! J'y ai mis tout mon cœur !\n<PAGE>\nAllez, profitons-en tant que c'est chaud !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_GOTI_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_LEFT><FACE_LAUGH>\nVoilà, j'ai fini la vaisselle.\nEt en deux secondes chrono en plus !\n<PAGE>\nHa ha ! C'est bon de te voir si heureuse !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_LEFT><FACE_NORMAL>\nBon anniversaire, <MYNAME> !\nJ'ai quelque chose rien que pour toi..."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_00_POORFARMER",
+      "Text": "<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>\nJoyeux anniversaires aux meilleurs\npapa-et-maman du mooonde ! Continuez\ncomme ça, vous êtes de super parents !♪\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>Ouaiiis, bon anniversaire papa et maman !\nOn vous aime trop trop fort !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_01_POORFARMER",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>\nJoyeux anniversaires papa et maman !\n<PAGE>\nHi hi ! Devine quoi, maman !...\nOn a aidé papa à te trouver un cadeau !♪\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>Ouiii ! On vraiment réfléchi super-longtemps\navant de trouver quoi t'offrir !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_02_POORFARMER",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>\nJoyeux anniversaire, maman et papa !\nMais...tu as quel âge, maman ?\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_NORMAL>Ouah ! Tu peux pas demander ça, <CHILD_NAME_M> !\nMadame Corona a dit que c'était irr...irré...\nirrespé-tueux de demander leur âge aux adultes !\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>Vraiment ? J'sais pas ce que ça veut dire,\n\"irrespétueux,\" mais ça a pas l'air rigolo...\nJe vais pas demander, alors !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_COMMENT_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_LEFT><FACE_LOVE>\n<WINDOW_HEART2_L><MYNAME>, mon béguin pour toi est bien\nla plus belle chose qui m'soit arrivée !\nJ'me suis jamais senti aussi heureux !\n<PAGE>\nEt en plus, on a la même date de naissance...\nÇa me donne l'impression que c'est un peu\nle destin qui nous a réunis ! Oh, je t'aime si fort !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_00_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_LEFT><FACE_NORMAL>\nHein ? Mais ton sac est plein ?\nCe serait dommage de ne pas pouvoir\nranger ton cadeau... Fais un peu de place !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_01_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_LEFT><FACE_NORMAL>\nTu veux vraiment jeter ça ?"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_02_POORFARMER",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_03_POORFARMER",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_04_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_LEFT><FACE_LOSS>\nComment ça ? Tu refuses ton cadeau ?"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_05_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_LEFT><FACE_SAD>\nAh... Ce s'ra pour une autre fois, je suppose..."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_06_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_LEFT><FACE_LAUGH>\nSuper ! Alors libère un espace dans ton sac !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_07_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_LEFT><FACE_LAUGH>\nD'acc, essayons de nouveau. Voici ton cadeau !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_THANKS_MONOLOGUE",
+      "Text": "Cette journée d'anniversaire a été magique !\nJe me sens <gender male=\"plein\" female=\"pleine\"> d'énergie pour la journée\nde demain !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_OKAERI_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\nBienvenue chez toi, <MYNAME>.\nTa journée a dû être fatigante...\n<PAGE>\n<FACE_LAUGH>Mais laissons de côté le travail !\nLave-toi les mains et viens t'asseoir...\nJ'ai préparé un repas pour nos anniversaires !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_ITADAKI_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\nAlors ? Est-ce une jolie surprise ?\nC'est un beau festin que je t'ai préparé là,\naprès tout !\n<PAGE>\n<FACE_LAUGH>Ha ha ! Content de voir tu que\ntu apprécies le geste. Allons manger !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_GOTI_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_LEFT><FACE_NORMAL>\nEt voilà, la vaisselle est faite.\n<PAGE>\n<FACE_LAUGH>Ha ha ! Tu devrais voir ta tête... La béatitude\nte va si bien ! Et ça me rend vraiment heureux\nde te voir ainsi, je dois dire."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_LEFT><FACE_LAUGH>\nTiens. C'est ton cadeau, j'espère qu'il te plaira...\nJoyeux anniversaire, <MYNAME>."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_00_PERFUMER",
+      "Text": "<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>\nJoyeux anniversaires aux meilleurs\npapa-et-maman du mooonde ! Continuez\ncomme ça, vous êtes de super parents !♪\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>Ouaiiis, bon anniversaire papa et maman !\nOn vous aime trop trop fort !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_01_PERFUMER",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>\nJoyeux anniversaires papa et maman !\n<PAGE>\nHi hi ! Devine quoi, maman !...\nOn a aidé papa à te trouver un cadeau !♪\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>Ouiii ! On vraiment réfléchi super-longtemps\navant de trouver quoi t'offrir !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_02_PERFUMER",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>\nJoyeux anniversaire, maman et papa !\nMais...tu as quel âge, maman ?\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_NORMAL>Ouah ! Tu peux pas demander ça, <CHILD_NAME_M> !\nMadame Corona a dit que c'était irr...irré...\nirrespé-tueux de demander leur âge aux adultes !\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>Vraiment ? J'sais pas ce que ça veut dire,\n\"irrespétueux,\" mais ça a pas l'air rigolo...\nJe vais pas demander, alors !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_COMMENT_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_LEFT><FACE_NORMAL>\nLe simple fait tu sois là, souriante,\nà mes côtés, fait de moi l'homme\nle plus heureux du monde !\n<PAGE>\n<WINDOW_PALPITATION_L><FACE_LOVE>Je t'aime, <MYNAME>.\nEt je sais que notre amour durera toujours !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_00_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_LEFT><FACE_NORMAL>\nOh ? Ton sac est plein, on dirait. Ce serait\ndommage de gâcher ce cadeau d'anniversaire !\nFais un peu de place dans ton sac."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_01_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_LEFT><FACE_NORMAL>\nEs-tu certaine de ne pas vouloir cet objet ?"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_02_PERFUMER",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_03_PERFUMER",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_04_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_LEFT><FACE_LOSS>\nQuoi ? Tu ne veux pas de cadeau ?"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_05_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_LEFT><FACE_SAD>\nAh... Ce sera pour une autre fois, je suppose."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_06_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_LEFT><FACE_NORMAL>\nAh ! Dans ce cas, libère un espace dans ton sac."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_07_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_LEFT><FACE_LAUGH>\nÀ présent, essayons de nouveau.\nVoici ton cadeau !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_OKAERI_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_NORMAL>\nBienvenue à la maison, <MYNAME>. \nEncore une dure journée qui s'achève !\n<PAGE>\n<FACE_LAUGH>Allez, viens t'asseoir !\nJe nous ai préparé un véritable festin\nen l'honneur de notre double anniversaire !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_ITADAKI_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_LAUGH>\nJ'espère que tu as faim !\nCe repas va être aussi consistant\nque délicieux, j'en ai bien peur, ha ha !\n<PAGE>\nAllez, mangeons tant que c'est chaud !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_GOTI_CHEF",
+      "Text": "<FACE_REGER><POS_LEFT><FACE_NORMAL>\nEt hop, la vaisselle est faite !\n<PAGE>\n<FACE_LAUGH>Tu as dévoré ce repas comme si ta vie\nen dépendait, c'était impressionnant...\nJe suis content que ma cuisine te convienne !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_CHEF",
+      "Text": "<FACE_REGER><POS_LEFT><FACE_LAUGH>\nTiens. C'est ton cadeau, j'espère qu'il te plaira...\nJoyeux anniversaire, <MYNAME> !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_00_CHEF",
+      "Text": "<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>\nJoyeux anniversaires aux meilleurs\npapa-et-maman du mooonde ! Continuez\ncomme ça, vous êtes de super parents !♪\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>Ouaiiis, bon anniversaire papa et maman !\nOn vous aime trop trop fort !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_01_CHEF",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>\nJoyeux anniversaires papa et maman !\n<PAGE>\nHi hi ! Devine quoi, maman !...\nOn a aidé papa à te trouver un cadeau !♪\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>Ouiii ! On vraiment réfléchi super-longtemps\navant de trouver quoi t'offrir !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_02_CHEF",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>\nJoyeux anniversaire, maman et papa !\nMais...tu as quel âge, maman ?\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_NORMAL>Ouah ! Tu peux pas demander ça, <CHILD_NAME_M> !\nMadame Corona a dit que c'était irr...irré...\nirrespé-tueux de demander leur âge aux adultes !\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>Vraiment ? J'sais pas ce que ça veut dire,\n\"irrespétueux,\" mais ça a pas l'air rigolo...\nJe vais pas demander, alors !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_COMMENT_CHEF",
+      "Text": "<FACE_REGER><POS_LEFT><FACE_LOVE>\n<WINDOW_PALPITATION_L>Merci, <MYNAME>... Tu sais, pour...\npour tout ! Cet amour, cette famille,\ncet avenir qui nous tend les bras...\n<PAGE>\nJe t'aime et je t'aimerai toujours !\nNotre histoire est partie pour durer,\nj'en suis sûr et certain !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_00_CHEF",
+      "Text": "<FACE_REGER><POS_LEFT><FACE_NORMAL>\nOh ? Ton sac est plein, on dirait. Ce serait\ndommage de gâcher ce cadeau d'anniversaire !\nFais un peu de place dans ton sac, d'accord ?"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_01_CHEF",
+      "Text": "<FACE_REGER><POS_LEFT><FACE_NORMAL>\nTu es sûre que tu n'en veux pas ?"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_02_CHEF",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_03_CHEF",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_04_CHEF",
+      "Text": "<FACE_REGER><POS_LEFT><FACE_LOSS>\nQuoi ? Tu refuses ce cadeau ?\nMais... après tous ces efforts pour te\ntrouver le cadeau parfait..."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_05_CHEF",
+      "Text": "<FACE_REGER><POS_LEFT><FACE_SAD>\nAh... Ce sera pour une autre fois, je suppose."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_06_CHEF",
+      "Text": "<FACE_REGER><POS_LEFT><FACE_LAUGH>\nAh ! Dans ce cas, libère un espace dans ton sac."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_07_CHEF",
+      "Text": "<FACE_REGER><POS_LEFT><FACE_LAUGH>\nParfait ! À présent, essayons de nouveau.\nVoici ton cadeau !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_OKAERI_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_LAUGH>\n<cap><MYNAME>, bienvenue à la maison.\nTu dois être épuisée, j'en suis certain !\n<PAGE>\nCependant... ce sont nos anniversaires,\naujourd'hui ! Et je nous ai préparé un petit\nfestin pour cette occasion. Assieds-toi !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_ITADAKI_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_LAUGH>\nPour fêter dignement tout cela, j'ai cuisiné\ndu mieux possible ! En espérant que cela\nte convienne...\n<PAGE>\nAllons, mangeons tant que c'est chaud !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_GOTI_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_LEFT><FACE_LAUGH>\nEt voilà, la vaisselle est faite.\n<PAGE>\nHa ha, on se sent mieux le ventre plein,\nn'est-ce pas ?\n<PAGE>\nJe suis heureux que le repas\nait remporté ton adhésion !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_LEFT><FACE_LAUGH>\nJoyeux anniversaire, <MYNAME>.\n<PAGE>\nJ'ai un modeste cadeau pour toi... Pour ton\nanniversaire, certes, mais aussi et surtout pour\nte remercier de cette vie passée ensemble."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_00_ANTIQUE",
+      "Text": "<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>\nJoyeux anniversaires aux meilleurs\npapa-et-maman du mooonde ! Continuez\ncomme ça, vous êtes de super parents !♪\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>Ouaiiis, bon anniversaire papa et maman !\nOn vous aime trop trop fort !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_01_ANTIQUE",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>\nJoyeux anniversaires papa et maman !\n<PAGE>\nHi hi ! Devine quoi, maman !...\nOn a aidé papa à te trouver un cadeau !♪\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>Ouiii ! On vraiment réfléchi super-longtemps\navant de trouver quoi t'offrir !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_02_ANTIQUE",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>\nJoyeux anniversaire, maman et papa !\nMais...tu as quel âge, maman ?\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_NORMAL>Ouah ! Tu peux pas demander ça, <CHILD_NAME_M> !\nMadame Corona a dit que c'était irr...irré...\nirrespé-tueux de demander leur âge aux adultes !\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>Vraiment ? J'sais pas ce que ça veut dire,\n\"irrespétueux,\" mais ça a pas l'air rigolo...\nJe vais pas demander, alors !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_COMMENT_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_LEFT><FACE_LAUGH>\nAvec toi à mes côtés, la vie ne peut\nqu'être emplie de paix, de joie et d'amour.\n<PAGE>\n<WINDOW_PALPITATION_L><FACE_LOVE>Je t'aime, <MYNAME>. Et je sais que\nnous resterons toujours ensemble.\n<PAGE>\nJe compte faire de tout mon possible\npour que notre union soit éternelle !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_00_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_LEFT><FACE_NORMAL>\nOh ? Ton sac est plein, on dirait. Ce serait\ndommage de gâcher ce cadeau d'anniversaire !\nFais un peu de place dans ton sac."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_01_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_LEFT><FACE_NORMAL>\nTu es sûre que tu n'en veux pas ?"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_02_ANTIQUE",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_03_ANTIQUE",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_04_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_LEFT><FACE_LOSS>\nQuoi ? Tu refuses ce cadeau ?"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_05_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_LEFT><FACE_SAD>\nAh... Ce sera pour une autre fois, je suppose."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_06_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_LEFT><FACE_LAUGH>\nAh ! Dans ce cas, libère un espace dans ton sac."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_07_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_LEFT><FACE_LAUGH>\nÀ présent, essayons de nouveau.\nVoici ton cadeau !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_OKAERI_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_LAUGH>\nHé, <MYNAME> ! Bienvenue à la maison !\nJe t'attendais !\n<PAGE>\nAujourd'hui, c'est notre double anniversaire !\nPour fêter ça comme il se doit, je nous ai\nmitonné un vrai petit festin ! Viens t'asseoir."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_ITADAKI_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_NORMAL>\nJe pense ne pas l'avoir trop raté,\nmais rien n'est certain... Enfin bref.\nJ'espère que tu vas aimer. \n<PAGE>\n<FACE_LAUGH>Tu m'en diras des nouvelles après.\nAllez, mangeons tant que c'est chaud !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_GOTI_GARDENER",
+      "Text": "<FACE_NADI><POS_LEFT><FACE_LAUGH>\nEt hop, vaisselle terminée.\n<PAGE>\nEh bé ! Vu ton sourire, tu as apprécié le dîner !\nJe dois dire que ça me réchauffe le cœur de te\nvoir aussi contente."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_GARDENER",
+      "Text": "<FACE_NADI><POS_LEFT><FACE_NORMAL>\nVoici ton cadeau. J'espère que ça te plaira !\n<PAGE>\n<FACE_LAUGH>Merci pour tout, <MYNAME>. Vraiment.\nJoyeux anniversaire."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_00_GARDENER",
+      "Text": "<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>\nJoyeux anniversaires aux meilleurs\npapa-et-maman du mooonde ! Continuez\ncomme ça, vous êtes de super parents !♪\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>Ouaiiis, bon anniversaire papa et maman !\nOn vous aime trop trop fort !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_01_GARDENER",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>\nJoyeux anniversaires papa et maman !\n<PAGE>\nHi hi ! Devine quoi, maman !...\nOn a aidé papa à te trouver un cadeau !♪\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>Ouiii ! On vraiment réfléchi super-longtemps\navant de trouver quoi t'offrir !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_02_GARDENER",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>\nJoyeux anniversaire, maman et papa !\nMais...tu as quel âge, maman ?\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_NORMAL>Ouah ! Tu peux pas demander ça, <CHILD_NAME_M> !\nMadame Corona a dit que c'était irr...irré...\nirrespé-tueux de demander leur âge aux adultes !\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>Vraiment ? J'sais pas ce que ça veut dire,\n\"irrespétueux,\" mais ça a pas l'air rigolo...\nJe vais pas demander, alors !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_COMMENT_GARDENER",
+      "Text": "<FACE_NADI><POS_LEFT><FACE_NORMAL>\nJe suis pas très doué avec les mots,\net je sais que ça a pu te laisser dans\nle doute quant à mes sentiments...\n<PAGE>\n<WINDOW_PALPITATION_L><FACE_LOVE>Mais aujourd'hui, je tiens à te le dire\nle plus clairement possible... Je t'aime,\n<MYNAME>. Plus que tout au monde."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_00_GARDENER",
+      "Text": "<FACE_NADI><POS_LEFT><FACE_NORMAL>\nOh ? Ton sac est plein, on dirait. Ce serait\ndommage de gâcher ce cadeau d'anniversaire !\nFais un peu de place dans ton sac."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_01_GARDENER",
+      "Text": "<FACE_NADI><POS_LEFT><FACE_NORMAL>\nTu es sûre que tu n'en veux pas ?"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_02_GARDENER",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_03_GARDENER",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_04_GARDENER",
+      "Text": "<FACE_NADI><POS_LEFT><FACE_LOSS>\nQuoi ? Tu refuses ce cadeau ?"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_05_GARDENER",
+      "Text": "<FACE_NADI><POS_LEFT><FACE_ANGRY>\nAh... Ce sera pour une autre fois, je suppose."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_06_GARDENER",
+      "Text": "<FACE_NADI><POS_LEFT><FACE_LAUGH>\nAh ! Dans ce cas, libère un espace dans ton sac."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_07_GARDENER",
+      "Text": "<FACE_NADI><POS_LEFT><FACE_LAUGH>\nÀ présent, essayons de nouveau.\nVoici ton cadeau !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_OKAERI_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_NORMAL>\nBienvenue à la maison, <MYNAME>.\nTu dois être épuisée après cette longue journée.\n<PAGE>\n<FACE_LAUGH>Mais ce soir, c'est détente pour toi, car c'est\nnotre double anniversaire aujourd'hui ! Je nous\nai mitonné un petit festin pour l'occasion !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_ITADAKI_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_NORMAL>\nAlors, c'est appétissant ? J'ai essayé\nde rassembler tous tes plats préférés...\n<PAGE>\n<FACE_LAUGH>Mais tu me diras après ce que tu en as pensé !\nPour l'instant, mangeons tant que c'est chaud !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_GOTI_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_LEFT><FACE_NORMAL>\nVoilà, la vaisselle est faite.\n<PAGE>\n<FACE_LAUGH>Ha ha ! Ça valait le coup de cuisiner,\nvu ton air de contentement ! On dirait\nun chat au chaud près de la cheminée !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_LEFT><FACE_LAUGH>\nJoyeux anniversaire, <MYNAME>. Voici un petit\ncadeau pour la personne qui compte le plus\npour moi. J'espère que ça te plaira."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_00_KAMIRU",
+      "Text": "<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>\nJoyeux anniversaires aux meilleurs\npapa-et-maman du mooonde ! Continuez\ncomme ça, vous êtes de super parents !♪\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>Ouaiiis, bon anniversaire papa et maman !\nOn vous aime trop trop fort !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_01_KAMIRU",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>\nJoyeux anniversaires papa et maman !\n<PAGE>\nHi hi ! Devine quoi, maman !...\nOn a aidé papa à te trouver un cadeau !♪\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>Ouiii ! On vraiment réfléchi super-longtemps\navant de trouver quoi t'offrir !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_02_KAMIRU",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>\nJoyeux anniversaire, maman et papa !\nMais...tu as quel âge, maman ?\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_NORMAL>Ouah ! Tu peux pas demander ça, <CHILD_NAME_M> !\nMadame Corona a dit que c'était irr...irré...\nirrespé-tueux de demander leur âge aux adultes !\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>Vraiment ? J'sais pas ce que ça veut dire,\n\"irrespétueux,\" mais ça a pas l'air rigolo...\nJe vais pas demander, alors !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_COMMENT_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_LEFT><FACE_LOVE>\n<WINDOW_PALPITATION_L>Tu as toujours fait tant de choses pour\nme soutenir... Je t'en suis vraiment\nreconnaissant, <MYNAME> !\n<PAGE>\nJe voudrais faire de même pour toi,\net plus encore ! N'hésite pas à me demander\nde l'aide si tu en as besoin. Je serai toujours là !\n<PAGE>\nJe t'aime, <MYNAME>."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_00_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_LEFT><FACE_NORMAL>\nOh ? Ton sac est plein, on dirait. Ce serait\ndommage de gâcher ce cadeau d'anniversaire !\nFais un peu de place dans ton sac."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_01_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_LEFT><FACE_NORMAL>\nTu es sûre que tu n'en veux pas ?"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_02_KAMIRU",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_03_KAMIRU",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_04_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_LEFT><FACE_LOSS>\nQuoi ? Tu refuses ton cadeau ?"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_05_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_LEFT><FACE_SAD>\nAh... Ce sera pour une autre fois, je suppose."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_06_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_LEFT><FACE_LAUGH>\nAh ! Dans ce cas, libère un espace dans ton sac."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_07_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_LEFT><FACE_LAUGH>\nÀ présent, essayons de nouveau.\nVoici ton cadeau !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_OKAERI_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nBienvenue à la maison, <MYNAME>.\nC'est pas trop tôt, je t'attendais.\n<PAGE>\nOn fête nos anniversaires aujourd'hui, alors\nj'ai pris la liberté de te préparer un vrai repas\ndigne de ce nom. Viens, assieds-toi."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_ITADAKI_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nHo ho ho ! C'est une belle surprise, hein ? Bien\nsûr, ça a été du gâteau de cuisiner tout ça pour\nquelqu'un d'aussi talentueuse que moi !\n<PAGE>\n<FACE_LOSS>Euh... Pourquoi j'ai des pansements partout\nsur les mains ?\n<PAGE>\n<FACE_LOVE>Hum ! J-Juste un léger accident, c'est tout. Rien\nà voir avec la cuisine, hoho ! Bien sûr que non !\nA-Allez, mange maintenant !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_GOTI_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_LEFT><FACE_NORMAL>\nVoilà. Tout est en ordre. C'était le moins que je\npuisse faire pour notre double anniversaire !\n<PAGE>\n<FACE_LAUGH>Eh bien ! Tu as l'air absolument ravi. Je suis bien\ncontente d'avoir mis la main à la pâte du coup."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_LEFT><FACE_NORMAL>\nTiens, voici ton cadeau. J'ai longtemps réfléchi\npour trouver le meilleur cadeau qui soit pour toi.\n<PAGE>\n<FACE_LAUGH>Joyeux anniversaire, <MYNAME>."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_00_RICHGIRL",
+      "Text": "<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>\nJoyeux anniversaires aux meilleurs\npapa-et-maman du mooonde ! Continuez\ncomme ça, vous êtes de super parents !♪\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>Ouaiiis, bon anniversaire papa et maman !\nOn vous aime trop trop fort !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_01_RICHGIRL",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>\nJoyeux anniversaires papa et maman !\n<PAGE>\nHi hi ! Devine quoi, papa !...\nOn a aidé maman à te trouver un cadeau !♪\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>Ouiii ! On vraiment réfléchi super-longtemps\navant de trouver quoi t'offrir !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_02_RICHGIRL",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>\nJoyeux anniversaire, maman et papa !\nMais...tu as quel âge, papa ?\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_NORMAL>Ouah ! Tu peux pas demander ça, <CHILD_NAME_M> !\nMadame Corona a dit que c'était irr...irré...\nirrespé-tueux de demander leur âge aux adultes !\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>Vraiment ? J'sais pas ce que ça veut dire,\n\"irrespétueux,\" mais ça a pas l'air rigolo...\nJe vais pas demander, alors !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_COMMENT_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_LEFT><FACE_NORMAL>\nJe, euh, n'ai pas pour habitude de mettre des\nmots sur mes émotions, mais puisqu'aujourd'hui\nest un jour particulier, je vais faire un effort...\n<PAGE>\n<WINDOW_HEART2_L><FACE_LOVE><MYNAME>... Merci de supporter mes caprices.\nJe t'aime."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_00_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_LEFT><FACE_NORMAL>\nOh. Ton sac est plein. Ça serait vraiment triste\nde ne pas recevoir ton cadeau à cause de ça.\nFais donc un peu de place."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_01_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_LEFT><FACE_NORMAL>\nTu es sûr que tu n'en veux pas ?"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_02_RICHGIRL",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_03_RICHGIRL",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_04_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_LEFT><FACE_LOSS>\nPardon ? Tu le refuses vraiment ?"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_05_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_LEFT><FACE_SAD>\nJe vois... Et dire que j'ai mis tout mon cœur à\nle choisir... Tu es tellement ingrat."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_06_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_LEFT><FACE_LAUGH>\nBien. Parfait. Fais-lui donc un peu de place dans\nton sac."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_07_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_LEFT><FACE_LAUGH>\nParfait. On va donc recommencer à zéro.\nTiens, voici ton cadeau."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_OKAERI_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\nBienvenue à la maison, <MYNAME>. Tu dois être\nexténué après ta longue journée à travailler.\n<PAGE>\nMais, puisque ce sont nos anniversaires\naujourd'hui, j'ai préparé un dîner spécial.\nViens donc t'asseoir."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_ITADAKI_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_LAUGH>\nHo ho, je suis contente de te voir si heureux.\nCe repas a été fait avec amour pour mon amour,\nalors je ne me suis pas privée sur les quantités !\n<PAGE>\nBien, mangeons donc tant que c'est chaud !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_GOTI_WRITER",
+      "Text": "<FACE_IRIS><POS_LEFT><FACE_NORMAL>\nVoilà, tout est prêt et rangé.\n<PAGE>\n<FACE_LAUGH>Ho ho ! Ça me fait drôlement plaisir de voir que\ntu t'es régalé avec ce repas.\n<PAGE>\n<FACE_LAUGH>J'ai l'impression que mes efforts n'ont pas été\nvains et que j'ai bien fait de batailler si longtemps\ndans la cuisine."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_WRITER",
+      "Text": "<FACE_IRIS><POS_LEFT><FACE_LAUGH>\nEt maintenaaant... J'ai aussi un petit quelque\nchose pour toi. J'espère que ça te plaira.\nJoyeux anniversaire, <MYNAME> !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_00_WRITER",
+      "Text": "<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>\nJoyeux anniversaires aux meilleurs\npapa-et-maman du mooonde ! Continuez\ncomme ça, vous êtes de super parents !♪\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>Ouaiiis, bon anniversaire papa et maman !\nOn vous aime trop trop fort !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_01_WRITER",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>\nJoyeux anniversaires papa et maman !\n<PAGE>\nHi hi ! Devine quoi, papa !...\nOn a aidé maman à te trouver un cadeau !♪\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>Ouiii ! On vraiment réfléchi super-longtemps\navant de trouver quoi t'offrir !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_02_WRITER",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>\nJoyeux anniversaire, maman et papa !\nMais...tu as quel âge, papa ?\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_NORMAL>Ouah ! Tu peux pas demander ça, <CHILD_NAME_M> !\nMadame Corona a dit que c'était irr...irré...\nirrespé-tueux de demander leur âge aux adultes !\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>Vraiment ? J'sais pas ce que ça veut dire,\n\"irrespétueux,\" mais ça a pas l'air rigolo...\nJe vais pas demander, alors !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_COMMENT_WRITER",
+      "Text": "<FACE_IRIS><POS_LEFT><FACE_LAUGH>\nCe jour est évidemment très spécial pour moi,\ncomme tu t'en doutes, car il prouve à mes yeux\nque c'est le destin qui nous a rassemblé !\n<PAGE>\n<WINDOW_PALPITATION_L><FACE_LOVE>Merci, <MYNAME>. Merci d'être né, de m'avoir\ntrouvée et par-dessus tout, merci de m'avoir\népousée. Je t'aime !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_00_WRITER",
+      "Text": "<FACE_IRIS><POS_LEFT><FACE_NORMAL>\nOh ? Ton sac est plein, on dirait. Ce serait\ndommage de gâcher ce cadeau d'anniversaire !\nFais un peu de place dans ton sac."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_01_WRITER",
+      "Text": "<FACE_IRIS><POS_LEFT><FACE_NORMAL>\nTu es sûr que tu ne le veux pas ?"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_02_WRITER",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_03_WRITER",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_04_WRITER",
+      "Text": "<FACE_IRIS><POS_LEFT><FACE_LOSS>\nQuoi ? Tu... refuses ton cadeau ?"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_05_WRITER",
+      "Text": "<FACE_IRIS><POS_LEFT><FACE_SAD>\nOh... Eh bien j'imagine que non c'est non."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_06_WRITER",
+      "Text": "<FACE_IRIS><POS_LEFT><FACE_NORMAL>\nOh parfait ! Veux-tu bien faire un peu de place\ndans ton sac, s'il te plaît ?"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_07_WRITER",
+      "Text": "<FACE_IRIS><POS_LEFT><FACE_NORMAL>\nD'accord. Bon, recommençons à zéro.\nVoici ton cadeau."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_OKAERI_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_NORMAL>\nBienvenue à la maison, <MYNAME> ! Tu as\ntravaillé toute la journée à la ferme, tu dois être\ncomplètement raplapla !\n<PAGE>\nMaiiis ! C'est notre double anniversaire, alors\nj'en ai profité pour te cuisiner un énorme dîner !\nVa te laver les mains et passons à table !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_ITADAKI_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_NORMAL>\nHé hé ! Je suis contente que ça te plaise !\n<PAGE>\n<FACE_LAUGH>Tout a l'air super bon, n'est-ce pas ? Allons, ne\nperdons pas de temps sinon ça va refroidir !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_GOTI_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_LEFT><FACE_NORMAL>\nVoilà, j'en ai fini de tout ranger ! Hé hé ! Oh,\n<MYNAME> ! Je ne t'ai jamais vu sourire autant !\n<PAGE>\n<FACE_LAUGH>J'suis vraiment contente d'avoir fait tout ça si ça\nte plaît tant. Je ferais pareil l'année prochaine !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_LEFT><FACE_LAUGH>\nJoyeux anniversaire ! Tiens, je t'ai trouvé ce petit\ncadeau. J'espère que ça te plaira."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_00_WEATHERGIRL",
+      "Text": "<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>\nJoyeux anniversaires aux meilleurs\npapa-et-maman du mooonde ! Continuez\ncomme ça, vous êtes de super parents !♪\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>Ouaiiis, bon anniversaire papa et maman !\nOn vous aime trop trop fort !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_01_WEATHERGIRL",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>\nJoyeux anniversaires papa et maman !\n<PAGE>\nHi hi ! Devine quoi, papa !...\nOn a aidé maman à te trouver un cadeau !♪\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>Ouiii ! On vraiment réfléchi super-longtemps\navant de trouver quoi t'offrir !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_02_WEATHERGIRL",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>\nJoyeux anniversaire, maman et papa !\nMais...tu as quel âge, papa ?\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_NORMAL>Ouah ! Tu peux pas demander ça, <CHILD_NAME_M> !\nMadame Corona a dit que c'était irr...irré...\nirrespé-tueux de demander leur âge aux adultes !\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>Vraiment ? J'sais pas ce que ça veut dire,\n\"irrespétueux,\" mais ça a pas l'air rigolo...\nJe vais pas demander, alors !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_COMMENT_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_LEFT><FACE_NORMAL>\n<cap><MYNAME>, chaque jour passé à tes côtés est\nà la fois amusant et plein de bonne humeur. Je\nsuis parfois encore un peu timide...\n<PAGE>\n<WINDOW_HEART2_L><FACE_LAUGH>Mais je n'ai jamais été aussi heureuse ! J'espère\nque tu resteras à mes côtés pour l'éternité.\nJe t'aime, <MYNAME>."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_00_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_LEFT><FACE_NORMAL>\nOups ! Ton sac est plein. Ça serait vraiment nul\nque ton cadeau aille à la poubelle. Tu veux bien\nlui faire une petite place ?"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_01_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_LEFT><FACE_NORMAL>\nTu es sûr que tu ne le veux pas ?"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_02_WEATHERGIRL",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_03_WEATHERGIRL",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_04_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_LEFT><FACE_LOSS>\nHein ? T-Tu refuses ce cadeau ?"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_05_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_LEFT><FACE_SAD>\nOh... Je vois. Hum, b-bon, ça sera pour une\nprochaine fois alors."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_06_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_LEFT><FACE_LAUGH>\nBien ! Fais un peu de place dans ton sac alors."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_07_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_LEFT><FACE_LAUGH>\nGénial ! Reprenons depuis le début du coup.\nTiens, voici ton cadeau !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_OKAERI_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_NORMAL>\nBienvenue à la maison, <MYNAME>.\nComment s'est passée ta journée ?\n<PAGE>\n<FACE_LAUGH>Je voulais faire quelque chose de spécial pour\nnos anniversaires, alors je viens à peine\nde mettre la touche finale à un super dîner !\n<PAGE>\nViens, assieds-toi.♪"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_ITADAKI_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_LAUGH>\nJ'ai travaillé très dur pour que ce dîner calme ton\nappétit féroce. J'espère qu'il te plaira !♪\n<PAGE>\nCommençons avant que ça ne refroidisse !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_GOTI_RANGER",
+      "Text": "<FACE_MENOU><POS_LEFT><FACE_NORMAL>\nVoilà, tout a été rangé !\n<PAGE>\n<FACE_LAUGH>Je suis vraiment très contente que ça t'ait plu !\nTe voir dévorer tout ce que j'ai préparé m'a fait\nchaud au cœur."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_RANGER",
+      "Text": "<FACE_MENOU><POS_LEFT><FACE_NORMAL>\nEt ce n'est pas tout... J'ai aussi un cadeau pour\ntoi ! J'y ai beaucoup réfléchi, et voilà ce que je\nt'ai trouvé.\n<PAGE>\n<FACE_LAUGH>J'espère de tout cœur que tu aimeras.\nJoyeux anniversaire, <MYNAME> !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_00_RANGER",
+      "Text": "<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>\nJoyeux anniversaires aux meilleurs\npapa-et-maman du mooonde ! Continuez\ncomme ça, vous êtes de super parents !♪\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>Ouaiiis, bon anniversaire papa et maman !\nOn vous aime trop trop fort !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_01_RANGER",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>\nJoyeux anniversaires papa et maman !\n<PAGE>\nHi hi ! Devine quoi, papa !...\nOn a aidé maman à te trouver un cadeau !♪\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>Ouiii ! On vraiment réfléchi super-longtemps\navant de trouver quoi t'offrir !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_02_RANGER",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>\nJoyeux anniversaire, maman et papa !\nMais...tu as quel âge, maman ?\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_NORMAL>Ouah ! Tu peux pas demander ça, <CHILD_NAME_M> !\nMadame Corona a dit que c'était irr...irré...\nirrespé-tueux de demander leur âge aux adultes !\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>Vraiment ? J'sais pas ce que ça veut dire,\n\"irrespétueux,\" mais ça a pas l'air rigolo...\nJe vais pas demander, alors !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_COMMENT_RANGER",
+      "Text": "<FACE_MENOU><POS_LEFT><FACE_LOVE>\n<WINDOW_HEART2_L>Tu es la personne la plus importante de ma vie,\nalors bien entendu, notre double anniversaire est\nvraiment très important pour moi.\n<PAGE>\nHé hé ! J'espère qu'on restera à jamais ensemble,\ntoi et moi. Je t'aime, mon mari adoré !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_00_RANGER",
+      "Text": "<FACE_MENOU><POS_LEFT><FACE_NORMAL>\nHmm, oh non. Ton sac est plein. Ça serait\ndommage de jeter ton cadeau, pourquoi ne\nfais-tu pas un peu de place dans ton sac ?"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_01_RANGER",
+      "Text": "<FACE_MENOU><POS_LEFT><FACE_NORMAL>\nTu es vraiment sûûûr que tu ne le veux pas ?"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_02_RANGER",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_03_RANGER",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_04_RANGER",
+      "Text": "<FACE_MENOU><POS_LEFT><FACE_LOSS>\nQuoi ? Alors...\nTu refuses vraiment ton cadeau d'anniversaire ?"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_05_RANGER",
+      "Text": "<FACE_MENOU><POS_LEFT><FACE_SAD>\nOh... P-Peut-être à un autre moment alors..."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_06_RANGER",
+      "Text": "<FACE_MENOU><POS_LEFT><FACE_LAUGH>\nAaah, je préfère ça ! Fais un peu de place dans\nton sac, s'il te plaît ?"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_07_RANGER",
+      "Text": "<FACE_MENOU><POS_LEFT><FACE_LAUGH>\nRecommençons depuis le début. Ta-daaah !\nVoici ton cadeau !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_OKAERI_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LAUGH>\nBienvenue à la maison, <MYNAME>. Je suis\nsûre que tu as passé une longue journée.\n<PAGE>\nCela dit, je viens de terminer de préparer notre\nrepas d'anniversaire. Si tu veux bien t'asseoir."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_ITADAKI_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LAUGH>\nJ'en ai peut-être fait un peu trop, mais je suis\nsûre que toi, plus que personne d'autre, tu\nsauras apprécier tout ce que j'ai fait.\n<PAGE>\nAllez, mangeons avant que ça ne devienne froid."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_GOTI_NURSE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_NORMAL>\nEt voilà ! Tout a été lavé et rangé.\n<PAGE>\n<FACE_LAUGH>Hé hé ! Tu as l'air tellement content, ça fait\ndrôlement plaisir à voir. Je suis ravie."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_NURSE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nOh... Je t'ai aussi trouvé un cadeau.\nJ'espère qu'il te plaira.\n<PAGE>\nJoyeux anniversaire, <MYNAME>."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_00_NURSE",
+      "Text": "<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>\nJoyeux anniversaires aux meilleurs\npapa-et-maman du mooonde ! Continuez\ncomme ça, vous êtes de super parents !♪\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>Ouaiiis, bon anniversaire papa et maman !\nOn vous aime trop trop fort !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_01_NURSE",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>\nJoyeux anniversaires papa et maman !\n<PAGE>\nHi hi ! Devine quoi, papa !...\nOn a aidé maman à te trouver un cadeau !♪\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>Ouiii ! On vraiment réfléchi super-longtemps\navant de trouver quoi t'offrir !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_02_NURSE",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>\nJoyeux anniversaire, maman et papa !\nMais...tu as quel âge, papa ?\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_NORMAL>Ouah ! Tu peux pas demander ça, <CHILD_NAME_M> !\nMadame Corona a dit que c'était irr...irré...\nirrespé-tueux de demander leur âge aux adultes !\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>Vraiment ? J'sais pas ce que ça veut dire,\n\"irrespétueux,\" mais ça a pas l'air rigolo...\nJe vais pas demander, alors !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_COMMENT_NURSE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LOVE>\n<WINDOW_HEART2_L>Chaque année, quand l'anniversaire que nous\npartageons approche, je m'éprends un peu\nplus de toi. C'est comme un signe du destin...\n<PAGE>\nPour être honnête... Je crois même que j'ai\ndépassé le stade d'être \"éprise de toi\".\n<PAGE>\n<FACE_LAUGH>Bref, je t'aime un peu plus chaque année\nqui passe. J'espère sincèrement que nous\npasserons notre vie ensemble, <MYNAME>."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_00_NURSE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_NORMAL>\nOh ? On dirait que ton sac est plein. Je ne peux\npas te donner ton cadeau dans ces conditions.\nPeux-tu y faire un peu de place, s'il te plaît ?"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_01_NURSE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_NORMAL>\nTu es sûr de ne pas le vouloir ?"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_02_NURSE",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_03_NURSE",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_04_NURSE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LOSS>\nEs-tu certain de vouloir refuser ce cadeau ?"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_05_NURSE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_SAD>\nJe... vois. Dommage."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_06_NURSE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nBon. Eh bien, est-ce que tu peux faire un peu de\nplace dans ton sac ?"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_07_NURSE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nParfait. Reprenons depuis le début alors.\nVoici ton cadeau."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_OKAERI_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT>\nBienvenue à la maison <MYNAME>. Tu as l'air\ncomplètement lessivé.\n<PAGE>\n<FACE_LAUGH>Mais comme nous fêtons nos anniversaires\naujourd'hui, j'ai pris l'initiative de nous préparer\nun vrai dîner d'anniversaire. Prends une chaise !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_ITADAKI_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\nEt voilà. J'ai fait tout ça pour toi. J'espère que\ntu aimeras.\n<PAGE>\n<FACE_LAUGH>Vas-y, et n'aie pas peur de te resservir, il y en a\nsuffisamment pour nourrir toute une troupe."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_GOTI_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_LEFT><FACE_NORMAL>\nCa y est, j'en ai fini avec la vaisselle ! Mais, tu as\nencore ce même sourire placardé au visage ou je\nme trompe ?\n<PAGE>\n<FACE_LOVE>Je suis contente que ça t'ait tant plu... mais si tu\ncontinues de sourire ainsi, j-je vais avoir du mal\nà ne, ahem, à ne pas rougir..."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_LEFT><FACE_LAUGH>\nBref, j'ai un petit quelque chose pour toi.\nJ'espère que tu aimeras.\n<PAGE>\nJoyeux anniversaire, <MYNAME> !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_00_RIKORISU",
+      "Text": "<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>\nJoyeux anniversaires aux meilleurs\npapa-et-maman du mooonde ! Continuez\ncomme ça, vous êtes de super parents !♪\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>Ouaiiis, bon anniversaire papa et maman !\nOn vous aime trop trop fort !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_01_RIKORISU",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>\nJoyeux anniversaires papa et maman !\n<PAGE>\nHi hi ! Devine quoi, papa !...\nOn a aidé maman à te trouver un cadeau !♪\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>Ouiii ! On vraiment réfléchi super-longtemps\navant de trouver quoi t'offrir !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_CHILD_02_RIKORISU",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>\nJoyeux anniversaire, maman et papa !\nMais...tu as quel âge, papa ?\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_NORMAL>Ouah ! Tu peux pas demander ça, <CHILD_NAME_M> !\nMadame Corona a dit que c'était irr...irré...\nirrespé-tueux de demander leur âge aux adultes !\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>Vraiment ? J'sais pas ce que ça veut dire,\n\"irrespétueux,\" mais ça a pas l'air rigolo...\nJe vais pas demander, alors !"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_COMMENT_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_LEFT><FACE_LOVE>\n<WINDOW_HEART2_L><MYNAME>... Tu es vraiment irremplaçable. Il\nn'y en a pas deux comme toi sur terre et j'espère\nque tu resteras avec moi toute la vie.\n<PAGE>\nJe t'aime tant. J'espère que nous aurons encore\nbeaucoup d'anniversaires à passer ensemble."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_00_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_LEFT><FACE_NORMAL>\nOh ? Ton sac est plein. Quel dommage ça serait\nde devoir jeter ton cadeau. Tu devrais faire un\npeu de place dans ton sac."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_01_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_LEFT><FACE_NORMAL>\nTu es vraiment sûr de ne pas le vouloir ?"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_02_RIKORISU",
+      "Text": "Oui."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_03_RIKORISU",
+      "Text": "<CANCEL_SELECT>\nNon."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_04_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_LEFT><FACE_LOSS>\nBuh ? Qu'est-ce que je suis censée en faire ?\nTu le rejettes vraiment ?"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_05_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_LEFT><FACE_SAD>\n... Oh. Peut-être une autre fois alors, j'imagine..."
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_06_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_LEFT><FACE_LAUGH>\nVoilà qui est mieux ! Fais donc une petite place\ndans ton sac, s'il te plaît ?"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PAIR_PRESENT_BAG_07_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_LEFT><FACE_LAUGH>\nAllez, reprenons à zéro, d'accord ? Tiens, voici\nton cadeau !"
+    }
+  ]
+}

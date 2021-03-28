@@ -1,0 +1,670 @@
+﻿{
+  "Date": "2016-06-10T19:22:17.7450734+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_FIRST_MEETING",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nEhilà! Tu sei <gender male=\"l'ultimo arrivato\" female=\"l'ultima arrivata\"> nel villaggio, vero?\nIo sono Maurice.\n<PAGE>\nIo sono il proprietario della locanda.\nPiacere di conoscerti."
+    },
+    {
+      "VardId": "MES_MORNING_00",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nBuongiorno, <MYNAME>. Come stai?"
+    },
+    {
+      "VardId": "MES_MORNING_01",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nBuongiorno, <MYNAME>. Che si dice?"
+    },
+    {
+      "VardId": "MES_MORNING_02",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nBuongiorno, <MYNAME>. Sembri già <gender male=\"pronto\" female=\"pronta\"> per\naffrontare la giornata. <gender male=\"Bravo\" female=\"Brava\">! Fai bene a batterti\ncontro la pigrizia mattutina."
+    },
+    {
+      "VardId": "MES_AFTERNOON_00",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nCiao, <MYNAME>. Come va col lavoro\nin fattoria?"
+    },
+    {
+      "VardId": "MES_AFTERNOON_01",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nEhi, <MYNAME>? Che si dice?"
+    },
+    {
+      "VardId": "MES_AFTERNOON_02",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nEhi, <MYNAME>. Ti vedo parecchio <gender male=\"impegnato\" female=\"impegnata\">!\nNon lavorare fino ad ammalarti, ok?"
+    },
+    {
+      "VardId": "MES_EVENING_00",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nBuonasera! Come procede il lavoro?\nFinito per oggi?"
+    },
+    {
+      "VardId": "MES_EVENING_01",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nEhi, come va? Lavori fino a notte fonda oggi?"
+    },
+    {
+      "VardId": "MES_EVENING_02",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nEhi, <MYNAME>. Non mi dirai che stai ancora\nlavorando?! Però, sei una macchina!"
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_SPRING",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nChe giornata magnifica, no? Perfetta per\nuna bella passeggiata."
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_SPRING",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nChe giornata cupa. Questa umidità riesce\na deprimere persino me."
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_SUMMER",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nSplendida giornata, senza dubbio, ma che caldo!\nIn giorni come questo, qualsiasi cosa faccia\nfinisco subito per sentirmi esausto."
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_SUMMER",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nChe uggiosità... così \"umidoso\"...\nDelirio... sto delirando..."
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_AUTUMN",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nÈ una bellissima giornata, non pensi? In giorni\ncosì mi sento pronto per qualsiasi cosa\nla vita abbia in serbo per me."
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_AUTUMN",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nNon so perché, ma la pioggia d'autunno sembra\nsempre un po'... triste. Giorni come questo mi\nportano spesso a perdermi nei miei pensieri."
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_WINTER",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nQuesto è proprio uno di quei giorni in cui il sole\nillumina e basta. Guardi dalla finestra e ti illudi\nche fuori faccia caldo... e invece no!"
+    },
+    {
+      "VardId": "MES_WEATHER_SNOW",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nFai attenzione quando cammini sulla neve.\nRischi di scivolare e farti male."
+    },
+    {
+      "VardId": "MES_WEATHER_TYPHOON",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nChe ci fai fuori con questo uragano?! Resta pure\nqui a riposarti un po', ma dovresti prenderti più\ncura di te <gender male=\"stesso\" female=\"stessa\">!"
+    },
+    {
+      "VardId": "MES_WEATHER_HEAVYSNOW",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nChe ci fai fuori con una tempesta di neve come\nquesta?! Torna a casa o rischi di rimanere\n<gender male=\"bloccato\" female=\"bloccata\"> qui!"
+    },
+    {
+      "VardId": "MES_BLESSING_LOVER",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nEhi, <MYNAME>... È vero che ti stai vedendo\ncon qualcuno? Eheheh! Non male, <gender male=\"piccoletto\" female=\"piccoletta\">,\nnon male davvero.\n<PAGE>\nFarai bene a invitarmi al tuo matrimonio, ok?"
+    },
+    {
+      "VardId": "MES_HOUSE_FRIEND",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nVengo qui di tanto in tanto per fare due piacevoli\nchiacchiere con Gunther."
+    },
+    {
+      "VardId": "MES_HOUSE_PINPOINT_00",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nParecchi attrezzi vengono tenuti qui. Ne prendo\nin prestito qualcuno di tanto in tanto."
+    },
+    {
+      "VardId": "MES_HOUSE_PINPOINT_01",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_SAD>\nNon è per niente facile crescere due figlie..."
+    },
+    {
+      "VardId": "MES_HOUSE_PINPOINT_02",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nSssh! Sto pescando. Se fai troppo rumore,\nfai scappare tutti i pesci e tanti cari saluti\nalla mia cena!"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_00",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nGira voce che ci sia un pesce enorme nel fiume.\n<PAGE>\nVengo qui a pescare spesso, ma non ho mai\nvisto niente di grande. Cioè, niente di\nVERAMENTE grande."
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_01",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nQuesto campo è veramente ben tenuto, vedo..."
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_02",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nDavvero è quella ragazzina viziata a coltivare riso\nin questo campo? Ah, è proprio vero che non\nci si deve lasciar ingannare dalle apparenze."
+    },
+    {
+      "VardId": "MES_AREA_OTHER_00",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nA volte sento l'istinto di andarmene lontano da\nqui... ma dato che sono negato per le escursioni\nmontane, rinuncio quasi all'istante a partire."
+    },
+    {
+      "VardId": "MES_AREA_OTHER_01",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nLe mie figlie mi hanno detto che camminare di\npiù mi farebbe bene. Provo a farlo il più possibile\ne devo dire che lo trovo molto piacevole."
+    },
+    {
+      "VardId": "MES_HEART_WHITE",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nCome va la vita, <gender male=\"piccoletto\" female=\"piccoletta\">? Se ci sono\ndelle cose che non capisci, vieni pure\nda me.\n<PAGE>\nAnche se, essendoci già Veronica a prendersi\ncura di te, non penso che io mi debba\npreoccupare più di tanto, non è così?"
+    },
+    {
+      "VardId": "MES_HEART_PURPLE",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nTi piace pescare, <MYNAME>?\n<PAGE>\nIo vado spesso a pescare sulle montagne,\nma se mai troverai un buon posticino,\nfammelo sapere!"
+    },
+    {
+      "VardId": "MES_HEART_BLUE",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nGestire una fattoria non deve essere per niente\nfacile. Prendersi cura di tutta quella varietà di\npiante e animali... Io non credo riuscirei a farlo.\n<PAGE>\nMa scommetto che le verdure che coltivi sono\nestremamente deliziose, eh? Magari potresti\nessere così gentile da condividerle con me..."
+    },
+    {
+      "VardId": "MES_HEART_GREEN",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nLillie e Melanie hanno una differenza di età tale\nche gli permette di andare molto d'accordo.\nIl che è davvero un bene.\n<PAGE>\nMi aiutano anche molto a casa, forse a causa\ndi un latente istinto materno o che so io...\n<PAGE>\nIn ogni caso, il loro aiuto è preziosissimo e\nio gli sono davvero grato."
+    },
+    {
+      "VardId": "MES_HEART_YELLOW",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nLa mia famiglia gestisce questa locanda da\ngenerazioni, ma, a dire il vero, ultimamente\ngli affari non vanno alla grande.\n<PAGE>\nNon che sia un gran problema. Personalmente,\nl'unica cosa che mi preme è che la mia famiglia\nabbia tutto ciò di cui ha bisogno.\n<PAGE>\nSai, una delle cause per cui gli affari non vanno\nbene è proprio il mio modo di gestire, dato che\nfaccio pagare di meno di proposito.\n<PAGE>\nMa io voglio che le persone rimangano a lungo\ncosì da innamorarsi di questo villaggio. Farli\npagare di meno sembra una buona strategia.\n<PAGE>\nCiò che più mi inorgoglisce in quanto locandiere\nè sapere che una persona tornerà di sicuro.\nQuello è l'unico pagamento che mi interessa."
+    },
+    {
+      "VardId": "MES_HEART_ORANGE",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nSono nato e cresciuto a Querciallegra, quindi\nnon conosco molto altro.\n<PAGE>\nNon ho nemmeno mai pensato di lasciare questo\nvillaggio. Per quanto mi riguarda, è il miglior\nposto del mondo.\n<PAGE>\nViaggiare è interessante, sì, ma trovo altrettanto\nstimolante parlare con le persone che hanno\nattraversato mari e monti per venire qui."
+    },
+    {
+      "VardId": "MES_HEART_RED",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nEhi, <MYNAME>. Da quando sei qui, mi sembra\nche l'atmosfera del villaggio sia cambiata.\nIn meglio, ovviamente!\n<PAGE>\nSembra che Querciallegra sia diventata più...\nesuberante, direi. Non che prima fosse poi\ncosì male, ma...\n<PAGE>\n... io ho sempre desiderato che più persone\nvenissero a conoscere questo villaggio.\n<PAGE>\nEd è quello che sta accadendo ora. Gente da\nogni parte del mondo affluisce nel nostro\nvillaggio. È meraviglioso!\n<PAGE>\nPenso sia tutto merito di voi contadini e\ndel vostro lavorare sodo ogni giorno.\n<PAGE>\nE tu su tutti, <MYNAME>. Tu hai svolto un ruolo\nprincipale. Per questo, ti ringrazio dal profondo\ndel mio cuore per tutto quello che hai fatto."
+    },
+    {
+      "VardId": "MES_PRESENT_BEST",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nOh, <BLUE><low><ITEMNAME0></BLUE>! Questo è\nil mio piatto favorito in assoluto.\n<PAGE>\nSei così gentile! Grazie mille!"
+    },
+    {
+      "VardId": "MES_PRESENT_VERY",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nWow, davvero vuoi darmi questo regalo?\nGrazie, grazie tante!"
+    },
+    {
+      "VardId": "MES_PRESENT_LIKE",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nCome fai a conoscere i miei gusti? Grazie mille."
+    },
+    {
+      "VardId": "MES_PRESENT_NORMAL",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nUhm? E questo cosa sarebbe? È per me?!\nWow, grazie!"
+    },
+    {
+      "VardId": "MES_PRESENT_DISLIKE",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nSarebbe per me? Beh, dato che è un tuo regalo,\nnon posso certo rifiutarlo!"
+    },
+    {
+      "VardId": "MES_PRESENT_HATE",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_SAD>\nProbabilmente non lo sapevi, ma... non sono\nun grande amante di questo genere di cose.\n<PAGE>\nEssendo un regalo, per questa volta lo accetto.\nSe non ti dispiace, però, la prossima volta pensa\nmeglio a quello che mi vuoi regalare, ok?"
+    },
+    {
+      "VardId": "MES_PRESENT_WORST",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_ANGRY>\n... <cap><article-i> <BLUE><low><ITEMNAME0></BLUE>!\n<PAGE>\n<FACE_SAD>Io non posso mangiare cibi dolci e questa\nè la cosa peggiore che potessi offrirmi.\n<PAGE>\nMa, come si suol dire, è il pensiero che conta,\nquindi... accetto il pensiero, mentre il regalo\nlo darò direttamente a Lillie e Melanie. Grazie."
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_NORMAL",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nUhm? E questo cos'è? È incredibilmente\nsplendente! Accetto con molto piacere.\nTi ringrazio."
+    },
+    {
+      "VardId": "MES_PRESENT_CANNOT",
+      "Text": "Non è il momento di dargli un regalo."
+    },
+    {
+      "VardId": "MES_PRESENT_RESERVE",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nEhi! Ne è passato di tempo, eh? Uhm? Per me?\nScusami, <gender male=\"piccoletto\" female=\"piccoletta\">, ma non posso accettare\nun regalo così dal nulla. Un'altra volta, dai."
+    },
+    {
+      "VardId": "MES_PRESENT_SECONDTIME",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nNon mi hai già dato un regalo? Mi sentirei\nin colpa ad accettare così tante cose da te.\nConservalo per un'altra volta."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_BEST",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nOh, guarda qua che roba che mi hai portato!\n<BLUE><ITEMNAME0></BLUE>! È il mio piatto preferito,\nma non avresti dovuto!\n<PAGE>\nOh, è per il mio compleanno? Sono un po'\ntroppo vecchio per i regali, ma... chi sono\nio per dire no alla generosità? Grazie."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_VERY",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nWow, per me? Davvero? Ehi, grazie!\nCome dici, scusa? È un regalo per\nla mia festa?\n<PAGE>\nAh, già. Oggi è il mio compleanno, giusto.\nMe n'ero proprio dimenticato. Grazie ancora!"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_LIKE",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nCome fai a sapere cosa mi piace?! Grazie mille!\nÈ proprio un bel regalo di compleanno!\n<PAGE>\nSe devo dirtela tutta, mi ero pure dimenticato\nche oggi è il mio compleanno..."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_NORMAL",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nUhm? Un regalo per il mio compleanno?! Come\nsei gentile. Grazie."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_DISLIKE",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_SAD>\nSarebbe per me? Beh, dato che si tratta di\nun regalo di compleanno da parte tua, non\nposso fare altro che accettare, no?"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_HATE",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_SAD>\nEhm... non sono un grandissimo estimatore di\ncose del genere... Come? È un regalo per me?\n<PAGE>\nPer questa volta accetto, ma, per la prossima\nvolta, ti pregherei di pensare un po' di più su\nquale sia il regalo migliore per me."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_WORST",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\n... <cap><article-i> <BLUE><low><ITEMNAME0></BLUE>!\n<PAGE>\n<FACE_SAD>Io non posso mangiare cibi dolci e questa\nè la cosa peggiore che potessi offrirmi.\n<PAGE>\nMa, come si suol dire, è il pensiero che conta,\nquindi... accetto il pensiero, mentre il regalo\nlo darò direttamente a Lillie e Melanie. Grazie."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_NORMAL",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nUhm? Cos'è questo? Un regalo... per me?!\nCome brilla! Chi direbbe di no a un regalo\ndel genere?"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_RABBIT",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nDaaai! Lo sai che mi fanno paura gli animali!\nNon ti avvicinare! Stammi <gender male=\"lontano\" female=\"lontana\">!"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_FOX",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nDaaai! Lo sai che mi fanno paura gli animali!\nNon ti avvicinare! Stammi <gender male=\"lontano\" female=\"lontana\">!"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_OKOJO",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nDaaai! Lo sai che mi fanno paura gli animali!\nNon ti avvicinare! Stammi <gender male=\"lontano\" female=\"lontana\">!"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_OTHER",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nDaaai! Lo sai che mi fanno paura gli animali!\nNon ti avvicinare! Stammi <gender male=\"lontano\" female=\"lontana\">!"
+    },
+    {
+      "VardId": "MES_ANGORA",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nTra tanti animali al mondo, tu hai scelto...\nquello come animale domestico? Sei\nproprio <gender male=\"un tipo strano, piccoletto\" female=\"una tipa strana, piccoletta\">."
+    },
+    {
+      "VardId": "MES_CHICK",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nEhi! Non ti avvicinare con quella cosa in braccio!\nMi spaventa..."
+    },
+    {
+      "VardId": "MES_HEN",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nDaaai! Lo sai che mi fanno paura gli animali!\nNon ti avvicinare! Stammi <gender male=\"lontano\" female=\"lontana\">!"
+    },
+    {
+      "VardId": "MES_DOG",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nDaaai! Lo sai che mi fanno paura gli animali!\nNon ti avvicinare! Stammi <gender male=\"lontano\" female=\"lontana\">!"
+    },
+    {
+      "VardId": "MES_FAT_DOG",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nQuello sarebbe il... tuo animale domestico?\nDai! Lo sai che gli animali mi fanno paura!"
+    },
+    {
+      "VardId": "MES_LARGEDOG",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nDaaai! Lo sai che mi fanno paura gli animali!\nNon ti avvicinare! Stammi <gender male=\"lontano\" female=\"lontana\">!"
+    },
+    {
+      "VardId": "MES_FAT_LARGEDOG",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nQuello sarebbe il... tuo animale domestico?\nDai! Lo sai che gli animali mi fanno paura!"
+    },
+    {
+      "VardId": "MES_CAT",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_ANGRY>\nEhi! Sono allergico ai gatti!\nTienilo lontano da me!"
+    },
+    {
+      "VardId": "MES_FAT_CAT",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_ANGRY>\nEhi! Sono allergico ai gatti, tanto quanto\nquel gatto è allergico alle diete!"
+    },
+    {
+      "VardId": "MES_LONGHAIR_CAT",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_ANGRY>\nEhi, sono allergico ai gatti! Tienilo a distanza!"
+    },
+    {
+      "VardId": "MES_FAT_LONGHAIR_CAT",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_ANGRY>\nEhi! Sono allergico ai gatti, tanto quanto\nquel gatto è allergico alle diete!"
+    },
+    {
+      "VardId": "MES_FLOWER_FESTIVAL",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nOh, un regalo per la Fiera dei fiori? Ti ringrazio,\n<gender male=\"piccoletto\" female=\"piccoletta\">! Hai sempre un pensiero per tutti."
+    },
+    {
+      "VardId": "MES_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nQuella sembrerebbe proprio una piuma blu, eh?\nIl che vuol dire che tu hai in mente la persona a\ncui vuoi darla. Che aspetti, allora? Vai da <gender male=\"lei\" female=\"lui\">!"
+    },
+    {
+      "VardId": "MES_RING",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nQuell'anello... vuol dire che c'è una persona\nspeciale nella tua vita, no? Sono felice. Ti\nfaccio l'in bocca al lupo per il tuo futuro."
+    },
+    {
+      "VardId": "MES_PRESENT_LAPPING_LIKE ",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nChe bel pacchetto. Dentro cosa c'è?"
+    },
+    {
+      "VardId": "MES_PRESENT_LAPPING",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nHai un regalo per me, eh? Mi chiedo cosa ci\nsia all'interno..."
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_00",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nTieni, è per te. È un regalo da parte mia.\n<PAGE>\nBuon compleanno, <gender male=\"piccoletto\" female=\"piccoletta\">! Non te n'eri\n<gender male=\"dimenticato\" female=\"dimenticata\">, vero? Sai che tristezza sarebbe!"
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_01",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nOggi è il tuo compleanno, vero? Beh...\nTanti auguri!"
+    },
+    {
+      "VardId": "MES_LONG_INTERVAL",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nEhi, <MYNAME>. ne è passato di tempo, eh?\n<PAGE>\nNon riesco nemmeno a ricordare l'ultima volta\nche ci siamo visti. Come procede il lavoro?\nTutto bene?\n<PAGE>\nLo so che hai parecchio da fare ogni giorno, ma\nuna visita ogni tanto potresti pure farmela, no?\nDai, non ti sto sgridando, ma pensaci su!"
+    },
+    {
+      "VardId": "MES_CLOTHES_13",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nOh, quella tuta è perfetta per lavorare. Sembra\nproprio comoda."
+    },
+    {
+      "VardId": "MES_CLOTHES_14",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nOh, quella tuta è perfetta per lavorare. Sembra\nproprio comoda ed è anche carina!"
+    },
+    {
+      "VardId": "MES_CLOTHES_25",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nStai proprio bene con quegli... uhm... sono abiti\nda lavoro, no? Certo... che gran peccato! Voglio\ndire, il fatto che siano destinati a sporcarsi tutti."
+    },
+    {
+      "VardId": "MES_CLOTHES_27",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nWow, quello sì che è... rosso. Ti sta bene, ma\nper i miei gusti è un po' troppo appariscente."
+    },
+    {
+      "VardId": "MES_CLOTHES_39",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nMa come ti sei <gender male=\"vestito\" female=\"vestita\">? Sembra che tu vada\na lavorare in un ristorante, non in fattoria..."
+    },
+    {
+      "VardId": "MES_CLOTHES_42",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nHai un'aria forte e coraggiosa oggi. Proprio come\nun... maestro di kung fu... o robe simili..."
+    },
+    {
+      "VardId": "MES_CLOTHES_66",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nChe completo carino. Mi piace come ti sta\nquella gonna rossa."
+    },
+    {
+      "VardId": "MES_CLOTHES_80",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nNon trovo le parole adatte per descrivere\nil cappotto che indossi. Di certo, non ti\nfa sembrare <gender male=\"un contadino\" female=\"una contadina\">!"
+    },
+    {
+      "VardId": "MES_CLOTHES_81",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nNon sono un esperto di moda, quindi ti chiedo\nscusa in anticipo, ma... come ti sei <gender male=\"vestito\" female=\"vestita\">?!\nHai un'aria... proprio... autorevole..."
+    },
+    {
+      "VardId": "MES_CLOTHES_82",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nDi sicuro indossi dei vestiti carini, ma... pensi\ndi riuscire a lavorare in fattoria <gender male=\"vestito\" female=\"vestita\"> così?"
+    },
+    {
+      "VardId": "MES_CLOTHES_93",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nMi piace il tuo stile semplice. Gran bel gilè."
+    },
+    {
+      "VardId": "MES_CLOTHES_104",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nEhi! Com'è vistosa quella felpa.\nTi sta bene, però."
+    },
+    {
+      "VardId": "MES_CLOTHES_105",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nMi piace il tuo stile semplice.\nMi piace quel gilè blu."
+    },
+    {
+      "VardId": "MES_CLOTHES_109",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nQuei vestiti... quella fantasia... penso di averli\ngià visti da qualche parte.\n<PAGE>\nAh, sì! Si chiama \"kilt\", vero? È un abito tipico di\nun Paese straniero ed è una gonna per uomini\npiuttosto famosa."
+    },
+    {
+      "VardId": "MES_CLOTHES_118",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nOooh, che completo carino che porti oggi. È\nun po' infantile, se vuoi, ma ti dona! Ehm...\nnon ti sto prendendo in giro, eh!"
+    },
+    {
+      "VardId": "MES_CLOTHES_122",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nBella giacca. Ti fa sembrare...\n<gender male=\"maturo e sofisticato\" female=\"matura e sofisticata\">."
+    },
+    {
+      "VardId": "MES_CLOTHES_136",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nPenso di aver già visto quel completo da\nqualche parte. È l'uniforme delle spie di\nun Paese straniero, se non mi sbaglio.\n<PAGE>\nCerto che con quel colore così acceso non\nsembra praticissima. Balza agli occhi come\nun pinguino all'equatore."
+    },
+    {
+      "VardId": "MES_CLOTHES_141",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nQuel vestito ti dà un'aria molto... matura. No, no,\nti sta benissimo, ma... magari è meglio se non\nci vai troppo in giro."
+    },
+    {
+      "VardId": "MES_CLOTHES_155",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nAhahah! Ma cosa ti sei <gender male=\"messo\" female=\"messa\"> addosso?!\nSe le mie figlie ti vedessero,\nmorirebbero dal ridere."
+    },
+    {
+      "VardId": "MES_CLOTHES_157",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nBella... ehm... armatura. A cosa... uhm... che\npensi di farci? Un assedio? Una guerra?"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_4",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nOh, bel cappello. Dove lo hai preso?"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_12",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nChe carino quel cappello. Il rosso ti dona molto."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_19",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nCarino quel cappello, ma...\nnon è troppo piccolo?"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_21",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nOh, che bel cappello. Che ne dici di proporlo\ncome cappello ufficiale per l'uniforme dei\ncontadini. Sarebbe perfetto, non credi?"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_26",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nChe cappello strano. Per qualche strana ragione,\nperò, a te sta bene."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_34",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nEhi, un basco! Mi piacciono i baschi.\nE quello ti dona proprio tanto."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_37",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nQuel cappello mi è stranamente familiare.\nÈ un po' malandato, però, non credi?"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_42",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nBene, bene. Sembra che abbiamo <gender male=\"un re\" female=\"una regina\"> tra\nnoi! A meno che quella corona non sia fasulla...\nMaestà, quella corona è autentica?"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_63",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nChiunque indossi una benda nera deve essere\nun cattivone. E quell'espressione corrucciata\nconferma la mia impressione! Ahahah!"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_64",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nCos'è successo al tuo occhio? Sei <gender male=\"andato\" female=\"andata\"> a farlo\nvedere dal dottore? Non si scherza con ferite\ndel genere, sai? Possono essere danni seri."
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOP_OPEN",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nNon sono proprio tagliato per fare il receptionist,\nma se non c'è nessuno qui, le persone possono\npensare che la locanda sia chiusa."
+    },
+    {
+      "VardId": "MES_SCHEDULE_SLEEP_00",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_PATI>\n... Zzz... Zzz zzz... Zzz... Zzz zzz..."
+    },
+    {
+      "VardId": "MES_SCHEDULE_SLEEPY_00",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nÈ ora di andare a dormire! <gender male=\"Piccoletto\" female=\"Piccoletta\">, è meglio\nche te ne torni a casa e ti metta a letto anche tu."
+    },
+    {
+      "VardId": "MES_MEAL_00",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nSono nel bel mezzo del pranzo ora. Ti dispiace\naspettare che finisca, prima di parlarmi?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_WOOD",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nLe panchine di legno si scaldano bene, eh? Nei\ngiorni come questo, l'idea di fare una pausa e\nsedermi è molto più allettante di camminare."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_RED",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nChe bella panchina! Il rosso è il mio colore\npreferito, sai?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WOOD_BOX",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nCasse di legno... belle e anche molto pratiche:\nci puoi mettere dentro davvero ogni cosa...\neccetto il fuoco, è ovvio!"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SCARECROW",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nSpaventapasseri! Che nostalgia. Sai, in passato\nce n'erano molti da queste parti, ma ora non se\nne vedono più. Chissà perché..."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BLOCK_BRICH",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nNon so a cosa servano questi mattoni, ma visto\nche non ne hai più bisogno, posso prenderli?\nNo? Oh. Va beh..."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SMALL_CART",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nCom'è vecchio quel carro... è così malandato!\nCerto, fintanto che fa il suo lavoro, non ci si\npuò lamentare, no?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOTEM POLE_1",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nMi piacerebbe innalzare un totem grande come\nquello un giorno. Anzi, addirittura più grande!"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TABLE_ORIENT",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nChe strano questo tavolo. Non ho idea di dove\nsia stato prodotto, ma è molto interessante!"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_CHAIR_ORIENT",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nQuindi questa sarebbe... una specie di sedia...\nricavata da un ceppo. Beh, anche io sono\ncapace di fare una cosa del genere..."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PARASOL_GARDEN_NEW2",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nSe avessi un giardino nella mia locanda, di certo\nprenderei un tavolo e un parasole come quelli.\nSai che bella atmosfera creerebbero?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PUMP",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nQuella pompa è funzionante? Io prendo ancora\nl'acqua dal pozzo, ma con una cosa del genere\nmi risparmierei tanta fatica."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SWING_WOOD",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nAaah... che nostalgia. Mi piaceva da impazzire\nandare sull'altalena."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FIRE_EXTINGUISHER",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nUn estintore da solo non costituisce un buon\npiano d'emergenza. Questo villaggio necessita\ndi un corso su come gestire incendi e simili."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_DARUMA",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nWow... quella bambola daruma è gigante. Se\nla mettessi nella locanda, penso che attirerei\nmolta gente."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_CASTLE_JAPAN",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nQuel castello... niente male, eh! Ma... cosa\nci devi fare?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SHISHIODOSHI",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nOh... Quella è una di quelle cose basculanti che\nsi riempiono d'acqua e poi sbattono a terra?\nNe ho sentito parlare, ma non l'avevo mai vista."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ROBOT",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nWow! Che robot! Mi ricorda quelli che vedevo\nin televisione tanto tempo fa."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_CARNATION",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nAdoro i garofani. Il solo vederli mi mette\ndi buon umore."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_GARBERA",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nLe gerbere sono tra i miei fiori preferiti.\nSi dice che simboleggino il mistero."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_CARNATION",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nAdoro i garofani. Il solo vederli mi mette\ndi buon umore."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_GARBERA",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nLe gerbere sono tra i miei fiori preferiti.\nSi dice che simboleggino il mistero."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_BAMBOO",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nUhm... non si colgono i germogli di bambù\ndal bambù in vaso, vero? È un peccato..."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BASKET_RED",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nUrrà per i cestini di fiori rossi! Il rosso è il mio\ncolore preferito, lo sai, no?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOPIARY_LION",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nWow. Che bella siepe a forma di leone!\nÈ davvero ben fatta."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_PINEAL",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nQuel pino è proprio bello. Se avessi un giardino,\nne vorrei di sicuro uno anche io."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OMANENT_ALPACA",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nCom'è possibile che quella statua d'alpaca\nsembri soffice come se fosse l'animale\nvero? Sono stupefatto."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OMANENT_LAMA",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nEheheh! Mi piace l'espressione che lo scultore\nha dato a quel lama. Proprio carina!"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PERGOLA",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nSai di cosa ha bisogno quel pergolato?\nRose rosse. Dai... lo sai che ho ragione."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_WOOD_1",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nLe recinzioni in legno aggiungono un tocco\ndi calore a ogni giardino."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WALL_STONE_1",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nLe mura di pietra possono apparire fredde, però\nsono anche robuste e solide. Penso che aiutino\na farti sentire al sicuro."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COLOR_1",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nUhm... Dovunque guardo, vedo rosso. E io amo\ntutto ciò che brilla di questo colore, quindi con\npiacere ti dico: <MYNAME>, tu hai buon gusto."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COLOR_2",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nEhi, il giallo è un bel colore. Mi tira sempre su\ndi morale."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ATMOSPHERE_1",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nWow, sembra di essere ai tropici! Se arredassi\nla locanda in questa maniera, forse il numero\ndei clienti potrebbe anche aumentare..."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ATMOSPHERE_2",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nAhahah! Qui l'estate non finisce mai.\nEccezionale! Amo quest'atmosfera."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COMBO_1",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nSembra quasi che ci sia una fattoria nel bel\nmezzo del villaggio! I turisti andranno matti\nper questo posto."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COMBO_2",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nQuesta è proprio una bella aerea giochi. Penso\nche a Melanie possa piacere molto. Devo\nricordarmi di dirglielo."
+    },
+    {
+      "VardId": "MES_TRADE_ASIA",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nHai visto la bancarella del Paese della seta?\nLa selezione di articoli che vendono è\nsemplicemente... insuperabile!\n<PAGE>\nPuoi comprare praticamente ogni cosa lì!"
+    },
+    {
+      "VardId": "MES_TRADE_ALPS",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nHo sentito che il Paese dei villini ha da poco\naperto una bancarella nella piazza del mercato.\nSono curioso di sapere cosa vendono..."
+    },
+    {
+      "VardId": "MES_TRADE_JAPAN",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nTutti dicono che il riso che vende il Paese dei\nciliegi sia il migliore in assoluto, ma a me\ninteressa di più sapere cos'altro vendono..."
+    },
+    {
+      "VardId": "MES_TRADE_USA",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nIn questi giorni, il Paese del grano è molto\npresente nella piazza del mercato. I cereali\nche vendono sono molto economici."
+    },
+    {
+      "VardId": "MES_TRADE_EU",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nHo sentito che il Paese delle rose ha dell'ottimo\nvino. Sarei curioso di verificare se è davvero\ncome si dice."
+    },
+    {
+      "VardId": "MES_TRADE_SOUTHERN",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nIl Paese dei tropici vende degli occhiali da sole\ndi gran moda. Dovresti andare a vedere. Penso\nche ti starebbero benissimo!"
+    },
+    {
+      "VardId": "MES_TRADE_SOUTH_POLE",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nSi dice che il Paese dei ghiacci abbia in vendita\nle <GREEN>foglie di Elli</GREEN>. Pensa che non si trovano da\nnessun'altra parte. Non è una cosa da poco."
+    },
+    {
+      "VardId": "MES_PLACE_GOOD",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nHo sentito che hai preso in affitto diversi campi\ne che stai coltivando di tutto. Ben fatto!\nContinua così!"
+    },
+    {
+      "VardId": "MES_PLACE_BEST",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nStai andando alla grande, vedo. Oramai sei\n<gender male=\"un contadino altamente qualificato\" female=\"una contadina altamente qualificata\">."
+    },
+    {
+      "VardId": "MES_MOVE_OUT",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nHai già incontrato i nuovi arrivi nel villaggio?\nScommetto che gli potrebbero essere utili\ndei consigli. Pensi di poterli aiutare tu?"
+    },
+    {
+      "VardId": "MES_TOWN_POPULARITY_BEST",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nWow! Querciallegra è diventata davvero famosa.\nSi vedono persone da ogni parte del mondo ora.\n<PAGE>\nQuasi tutti, però, sono qui solo per fare acquisti.\nNon vedo grandi miglioramenti per i miei affari.\nComunque sia, è una bella notizia."
+    },
+    {
+      "VardId": "MES_TOWN_POPULARITY_BETTER",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nDa quando sei <gender male=\"arrivato\" female=\"arrivata\">, l'economia del villaggio\nha avuto una vera e propria impennata. Penso\nche Veronica ne sia felicissima."
+    },
+    {
+      "VardId": "MES_AREA_TOWN_00",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nQuerciallegra non è il villaggio più popoloso che\nci sia, né quello più facile da raggiungere, ma è\nil posto dove rilassarsi e godersi ogni giorno."
+    },
+    {
+      "VardId": "MES_AREA_TOWN_01",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nMaggiore il numero di persone che vengono qui,\nmaggiore la quantità di lavoro da sbrigare. Dopo\ntutto, direi che la situazione attuale non è male."
+    },
+    {
+      "VardId": "MES_AREA_TOWN_02",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nMia figlia maggiore, Lillie, lavora in un altro\nvillaggio e dice che molte persone lì non\nhanno mai sentito parlare di Querciallegra."
+    },
+    {
+      "VardId": "MES_AREA_TOWN_03",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nPare che la piazza del mercato sia sempre più\nmovimentata in questi giorni.\n<PAGE>\nSembra logico, con tutti quei Paesi che vendono\ni loro prodotti esotici. Dovrei andare in piazza\na dare un'occhiata più spesso."
+    },
+    {
+      "VardId": "MES_GRANDMA_MONEY_00",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_NORMAL>\nHere's your allowance for today. Use it well."
+    }
+  ]
+}

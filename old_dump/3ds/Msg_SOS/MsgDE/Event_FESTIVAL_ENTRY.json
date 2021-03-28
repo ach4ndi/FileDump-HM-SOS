@@ -1,0 +1,282 @@
+﻿{
+  "Date": "2016-06-10T19:21:14.7104607+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_FES_OPEN_CANCEL_00",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDie Anmeldung für <article-d_acc>\n<MOJI0>\nbeginnt um <BLUE><MOJI2></BLUE>. Komm bitte später wieder."
+    },
+    {
+      "VardId": "MES_FES_OPEN_CANCEL_01",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDie Teilnehmer der heutigen Veranstaltung kön-\nnen Preise gewinnen. Ich kam allerdings nicht\numhin, zu bemerken, dass deine Tasche voll ist.\n<PAGE>\nEs wäre schade, wenn du gewinnst und nicht in\nder Lage bist, deinen Preis entgegenzunehmen.\nBitte schaffe erst etwas Platz in deiner Tasche."
+    },
+    {
+      "VardId": "MES_FES_OPEN_CANCEL_02",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nOhne <BLUE><MOJI1></BLUE> kannst du nicht an <article-d_dat>\n<RED><MOJI0></RED>\nteilnehmen.\n<PAGE>\n<FACE_NORMAL>Komm bitte zurück, wenn du über <adjective male-s=\"einen\" female-s=\"eine\" neuter-s=\"ein\">\n<BLUE><MOJI1></BLUE> verfügst."
+    },
+    {
+      "VardId": "MES_FES_OPEN_CANCEL_03",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDie Anmeldung läuft bis <BLUE><MOJI3></BLUE>, also komm\nruhig wieder, wenn du deine Meinung änderst."
+    },
+    {
+      "VardId": "MES_FES_OPEN_CONF_00",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nMöchtest du <adjective male-s=\"am\" female-s=\"an der\" neuter-s=\"am\"> \n<RED><MOJI0></RED>\nteilnehmen?"
+    },
+    {
+      "VardId": "MES_FES_OPEN_CONF_01",
+      "Text": "Ja"
+    },
+    {
+      "VardId": "MES_FES_OPEN_CONF_02",
+      "Text": "<CANCEL_SELECT>\nNein"
+    },
+    {
+      "VardId": "MES_FES_COOKING_SELECT_00",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nFür welche Kategorie möchtest du dich\nanmelden?"
+    },
+    {
+      "VardId": "MES_FES_COOKING_SELECT_01",
+      "Text": "Einzelnes Gericht."
+    },
+    {
+      "VardId": "MES_FES_COOKING_SELECT_02",
+      "Text": "Komplettes Menü."
+    },
+    {
+      "VardId": "MES_FES_SELECT_ITEM_00",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nBitte wähle <article-d_acc> <BLUE><MOJI1></BLUE>, mit\ndem du teilnehmen möchtest."
+    },
+    {
+      "VardId": "MES_FES_SELECT_ITEM_01",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nBitte wähle <article-d_acc><BLUE> <MOJI1></BLUE>, mit\ndem du teilnehmen möchtest."
+    },
+    {
+      "VardId": "MES_FES_CANSEL_CONF_00",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDu möchtest deine Anmeldung zurückziehen?"
+    },
+    {
+      "VardId": "MES_FES_ITEM_CONF_00",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nSehr gut. Möchtest du deine Wahl\nbestätigen?"
+    },
+    {
+      "VardId": "MES_FES_OPEN_FASHION_SELECT_00",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nGroßartig. Du kannst dich in die Garderobe\nbegeben, um das Outfit, das du vorführen\nmöchtest, zusammenzustellen."
+    },
+    {
+      "VardId": "MES_FES_OPEN_FASHION_SELECT_01",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nMöchtest du lieber, dass ein männliches oder\nweibliches Model dein Outfit vorführt?"
+    },
+    {
+      "VardId": "MES_FES_OPEN_FASHION_SELECT_02",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nMännlich"
+    },
+    {
+      "VardId": "MES_FES_OPEN_FASHION_SELECT_03",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nWeiblich"
+    },
+    {
+      "VardId": "MES_FES_OPEN_FASHION_COUNT_01",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nBitte entscheide dich, was für ein Outfit du\nheute gerne vorführen möchtest."
+    },
+    {
+      "VardId": "MES_FES_OPEN_OK",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nAusgezeichnet. Die Festlichkeiten werden in\nKürze beginnen. Bitte warte einen Moment."
+    },
+    {
+      "VardId": "MES_FES_CROP_CONF_00",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nSehr schön. Du wirst also mit dem Produkt\n<BLUE><ITEMNAME0></BLUE> in der Kategorie \n<RED><MOJI4></RED> teilnehmen."
+    },
+    {
+      "VardId": "MES_FES_SELECT_SECTION_00",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nBitte wähle, für welche Kategorie du dich\nanmelden möchtest."
+    },
+    {
+      "VardId": "MES_FES_SELECT_SECTION_01",
+      "Text": "<MOJI4>"
+    },
+    {
+      "VardId": "MES_FES_SELECT_SECTION_02",
+      "Text": "<MOJI4>"
+    },
+    {
+      "VardId": "MES_FES_SELECT_SECTION_03",
+      "Text": "<MOJI4>"
+    },
+    {
+      "VardId": "MES_FES_SELECT_SECTION_04",
+      "Text": "<MOJI4>"
+    },
+    {
+      "VardId": "MES_FES_SELECT_SECTION_05",
+      "Text": "<MOJI4>"
+    },
+    {
+      "VardId": "MES_FES_SELECT_SECTION_06",
+      "Text": "<MOJI4>"
+    },
+    {
+      "VardId": "MES_FES_SELECT_SECTION_07",
+      "Text": "<MOJI4>"
+    },
+    {
+      "VardId": "MES_FES_SELECT_SECTION_08",
+      "Text": "<MOJI4>"
+    },
+    {
+      "VardId": "MES_FES_CROP_CATEGORY_01",
+      "Text": "Gemüse"
+    },
+    {
+      "VardId": "MES_FES_CROP_CATEGORY_02",
+      "Text": "Zierpflanzen"
+    },
+    {
+      "VardId": "MES_FES_CROP_CATEGORY_03",
+      "Text": "Obst"
+    },
+    {
+      "VardId": "MES_FES_CROP_CATEGORY_04",
+      "Text": "Sonstiges"
+    },
+    {
+      "VardId": "MES_FES_COOKING_SINGLE_CATEGORY_01",
+      "Text": "Salate"
+    },
+    {
+      "VardId": "MES_FES_COOKING_SINGLE_CATEGORY_02",
+      "Text": "Suppen"
+    },
+    {
+      "VardId": "MES_FES_COOKING_SINGLE_CATEGORY_03",
+      "Text": "Grill./Brat./Back./Koch./Frit."
+    },
+    {
+      "VardId": "MES_FES_COOKING_SINGLE_CATEGORY_04",
+      "Text": "Reis/Nudeln/Brot"
+    },
+    {
+      "VardId": "MES_FES_COOKING_SINGLE_CATEGORY_05",
+      "Text": "Nachspeisen"
+    },
+    {
+      "VardId": "MES_FES_COOKING_SINGLE_CATEGORY_06",
+      "Text": "Getränke"
+    },
+    {
+      "VardId": "MES_FES_COOKING_COURSE_ENTRY",
+      "Text": "Bitte wähle die Gerichte für dein Menü."
+    },
+    {
+      "VardId": "MES_FES_COOKING_COURSE_CONFIRM",
+      "Text": "Möchtest du hiermit teilnehmen?"
+    },
+    {
+      "VardId": "MES_FES_COOKING_COURSE_CONFIRM_CANCEL",
+      "Text": "Du möchtest deine Auswahl rückgängig\nmachen?"
+    },
+    {
+      "VardId": "MES_FES_SELECT_SECTION_09",
+      "Text": "Mehr anzeigen"
+    },
+    {
+      "VardId": "MES_FES_SELECT_DRINK_00",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nBitte wähle die Getränke, die du den Gästen\nservieren willst."
+    },
+    {
+      "VardId": "MES_FES_SELECT_DRINK_01",
+      "Text": "Bitte wähle Getränk Nummer <MOJI5>."
+    },
+    {
+      "VardId": "MES_FES_CANSEL_CONF_DRINK_00",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nWenn es heute ein ungünstiger Zeitpunkt ist,\nkönnen wir die <RED>Tee-Party</RED> auch absagen. \nMöchtest du das tun?"
+    },
+    {
+      "VardId": "MES_FES_ITEM_CONF_DRINK_00",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nSehr gut. Sind dies die Getränke, die du\nservieren möchtest?"
+    },
+    {
+      "VardId": "MES_FES_OPEN_DRINK_OK",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nGroßartig. Ich werde die Gäste zu deinem Haus\ngeleiten."
+    },
+    {
+      "VardId": "MES_FES_ANIMAL_ENTRY",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nBitte wähle das Tier, mit dem du teilnehmen\nmöchtest."
+    },
+    {
+      "VardId": "MES_FES_ANIMAL_CONFIRM",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nDu möchtest also mit <BLUE><CHARANAME0></BLUE>\nteilnehmen?"
+    },
+    {
+      "VardId": "MES_FES_PET_ENTRY",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nBitte wähle das Haustier, mit dem du teilnehmen\nmöchtest."
+    },
+    {
+      "VardId": "MES_FES_PET_CONFIRM",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nDu möchtest also mit <BLUE><CHARANAME0></BLUE>\nteilnehmen?"
+    },
+    {
+      "VardId": "MES_FES_CROPS_TARGET_ITEM",
+      "Text": "Anbauprodukt<n>"
+    },
+    {
+      "VardId": "MES_FES_COOKING_TARGET_ITEM",
+      "Text": "Gericht<n>"
+    },
+    {
+      "VardId": "MES_FES_FASHION_TARGET_ITEM",
+      "Text": "Outfit<n>"
+    },
+    {
+      "VardId": "MES_FES_FASHION_SELECT_1",
+      "Text": "Wir werden die Models zur Verfügung stellen,\ndie eure Outfits bei der Modenschau vorstellen."
+    },
+    {
+      "VardId": "MES_FES_FASHION_SELECT_2",
+      "Text": "Ihr könnt Aussehen, Outfit, Hut, Brille und\nAccessoires eures Models auswählen."
+    },
+    {
+      "VardId": "MES_FES_AREA_00",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nAch ja. Das heutige Fest entscheidet einen Wett-\nbewerb um ein öffentliches Feld. Viel Glück."
+    },
+    {
+      "VardId": "MES_FES_AREA_01",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nAch ja. Das heutige Fest entscheidet einen Wett-\nbewerb um ein öffentliches Feld. Ich habe erfah-\nren, dass <CHARANAME1> ebenfalls teilnimmt.\n<PAGE>\nDas sollte die Angelegenheit noch etwas\ninteressanter gestalten. Viel Glück."
+    },
+    {
+      "VardId": "MES_FES_AREA_02",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nAch ja. Das heutige Fest entscheidet einen Wett-\nbewerb um ein öffentliches Feld. Ich habe auch\nerfahren, dass es einige neue Teilnehmer gibt.\n<PAGE>\nSowohl <CHARANAME1> als auch \n<CHARANAME2> werden an der Herausforderung\nteilnehmen.\n<PAGE>\nDas sollte dem Wettbewerb etwas Würze\nverleihen. Wie dem auch sei, viel Glück."
+    },
+    {
+      "VardId": "MES_FES_OPEN_CONF_03",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nSollen wir mit <article-d_dat>\n<RED><MOJI0></RED>\nbeginnen?"
+    },
+    {
+      "VardId": "MES_FES_OPEN_CANSEL_04",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nOhne <BLUE><MOJI1_P></BLUE> wirst du nicht an <article-d_dat> \n<MOJI0> teilnehmen können.\n<PAGE>\n<FACE_NORMAL>Bitte komm zurück, wenn du die nötigen\nVorbereitungen getroffen hast."
+    },
+    {
+      "VardId": "MES_FES_OPEN_CANSEL_05",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nIch finde, es wäre besser, die Tee-Party erst\ndann abzuhalten, wenn du ein größeres Haus\nhast.\n<PAGE>\nMir ist klar, dass du dich schon darauf gefreut \nhast, aber wenn du wohlhabender geworden \nbist, wirst du sie noch mehr genießen können."
+    },
+    {
+      "VardId": "MES_FES_OPEN_FASHION_SELECT_INFO_00",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDas heutige Thema ist\n<RED>Mode für <MOJI0></RED>."
+    },
+    {
+      "VardId": "MES_FES_OPEN_FASHION_SELECT_INFO_01",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDas heutige Thema ist \n<RED>Mode für <MOJI0>\nin <MOJI1></RED>."
+    },
+    {
+      "VardId": "MES_FES_OPEN_FASHION_SELECT_INFO_02",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDas heutige Thema ist \n<RED><MOJI2>e \nMode für <MOJI0>.</RED>"
+    },
+    {
+      "VardId": "MES_FES_OPEN_FASHION_SELECT_INFO_03",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDas heutige Thema ist \n<RED><MOJI2>e Mode\nin <RED><MOJI1></RED></RED>."
+    },
+    {
+      "VardId": "MES_FES_OPEN_FASHION_SELECT_INFO_04",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDas heutige Thema ist \n<RED><MOJI2>e Mode für\n<MOJI0> in <MOJI1></RED>."
+    }
+  ]
+}

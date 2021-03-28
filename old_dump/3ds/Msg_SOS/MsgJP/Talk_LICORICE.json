@@ -1,0 +1,2922 @@
+﻿{
+  "Date": "2016-06-06T19:37:52.1002041+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "時間帯ＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_FIRST_MEETING",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nあんたは初めてだな。\n…わたしはリコリスだ。\nよろしく。"
+    },
+    {
+      "VardId": "MES_MORNING_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nおはよう、<MYNAME>。\nわたしに何か用か？"
+    },
+    {
+      "VardId": "MES_MORNING_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\n…ああ、おはよう。\n今朝は、睡眠が足りなかったのか\nどうにも眠気がとれなくて困る…。"
+    },
+    {
+      "VardId": "MES_MORNING_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nおはよう、<MYNAME>。\nやっぱり牧場主というのは\nみんな、朝が早いものなのか？"
+    },
+    {
+      "VardId": "MES_AFTERNOON_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nこんにちは。\nどこかへ、でかけるのか？"
+    },
+    {
+      "VardId": "MES_AFTERNOON_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\nこんにちは。\n昼は、中だるみというか…\nどうにも朝ほどのやる気は、出にくいな。"
+    },
+    {
+      "VardId": "MES_AFTERNOON_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n………ああ、<MYNAME>か。\nいや、今やっている研究について\n少し考え事をしていたんだ。"
+    },
+    {
+      "VardId": "MES_EVENING_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nこんばんは。\nもう夜か。あっという間だな。"
+    },
+    {
+      "VardId": "MES_EVENING_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nこんばんは、<MYNAME>。\n夜の散歩か？"
+    },
+    {
+      "VardId": "MES_EVENING_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n今日は何だか、疲れたな。\nできるだけ早くベッドに入ろう…。"
+    },
+    {
+      "VardId": "MES_LOVER_MORNING_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nおはよう、<MYNAME>。\n朝から元気だな。わたしまで\nおまえの元気に引っぱられそうだ。"
+    },
+    {
+      "VardId": "MES_LOVER_MORNING_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nおはよう、<MYNAME>。\n…何だか、今日は朝から\nがんばれそうな気がしてきた。\n<PAGE>\n<FACE_LOVE>……あっ、いや、何でもない！\n気にするな！"
+    },
+    {
+      "VardId": "MES_LOVER_MORNING_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\nお、おはよう。\n会えたら……と思っていたが\n本当に会えるとは思わなかった。"
+    },
+    {
+      "VardId": "MES_LOVER_AFTERNOON_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\n……恋人としては、そろそろ\nつぎの段階に進むべきだろうか。\nしかし、つぎと言っても…ぶつぶつ…。\n<PAGE>\n<FACE_LOVE>…うわぁ！？\nちょ、なっ、どこから聞いてたんだ！？\n気付いてたなら、早く声をかけてくれ！"
+    },
+    {
+      "VardId": "MES_LOVER_AFTERNOON_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nこんにちは、<MYNAME>。\nどこかにでかけるのか？\nその……出来ればもう少し一緒に……。\n<PAGE>\n<FACE_LOVE>…いや、やっぱり何でもない！\nわたしは何も言ってないぞ！\n言ってないからな！"
+    },
+    {
+      "VardId": "MES_LOVER_AFTERNOON_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nウロウロして、どうしたんだ？\n落ち着きのないやつだな。\n<PAGE>\n<FACE_LOVE>…まぁ、そのおかげでこうして会って\n話ができているわけだが。"
+    },
+    {
+      "VardId": "MES_LOVER_EVENING_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nああ、こんばんは。\nそういえば、この時間まで\n顔を見なかったが…何かあったのか？"
+    },
+    {
+      "VardId": "MES_LOVER_EVENING_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\n…こんばんは。\n今夜は、いい夜だな。\nいや、天気の話じゃなく……。\n<PAGE>\nあ、いや、やっぱり天気の話だった！\nそういうことにしといてくれ！\nいや、そうなんだ！"
+    },
+    {
+      "VardId": "MES_LOVER_EVENING_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\nこんばんは、<MYNAME>。\nこんな時間に、わざわざわたしに会いに\n来てくれたのか……そうか。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_MORNING_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nおはよう、<MYNAME>。\n今日も仕事はいそがしそうか？\nたまには早く切り上げて帰って来いよ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_MORNING_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nおはよう、<MYNAME>。\n…ハハッ、寝ぐせがひどいぞ。\nん……よし。これでなおった。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_MORNING_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nおはよう、<MYNAME>。\nおたがい、今日も一日がんばろう。\nだが、無理だけはしないようにな。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_AFTERNOON_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\n今朝はどうしたんだ？\nひとことも話さないままで…\nそんなにいそがしかったのか？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_AFTERNOON_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n仕事は落ち着いたのか？\n今朝は、全く話す機会がなかったから\n少し気がかりだったんだ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_AFTERNOON_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nどうしたんだ、<MYNAME>。\n…え、今朝話せなかったから\nリコリス不足になった？\n<PAGE>\n<FACE_LOVE>バ、バカか、おまえは…。\n何を言ってるんだ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_EVENING_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_ANGRY>\r\nこんな時間までわたしと顔も合わせずに…\n<MYNAME>は、今日一日\nいったい何をして過ごしていたんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_EVENING_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…ああ、もうこんな時間か。\n<MYNAME>も、今日はずいぶん\nいそがしかったみたいだな。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_EVENING_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\n今日も一日、お疲れさま。\n仕事が終わったのなら、この後は\n一緒にゆっくりできるだろうか？"
+    },
+    {
+      "VardId": "天気・季節ＭＳＧ（会話フラグOFFでしゃべる）",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_SPRING",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n野外での植物観察には絶好の天気だ。\nさて、今日はどこへ行こうか…。"
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_SPRING",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n雨か…。\n雨の日は、山道がすべりやすくなるから\n注意が必要だな。"
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_SUMMER",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\r\n……暑いな…。\nこうも暑いと夏バテしてしまいそうだ。"
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_SUMMER",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n夏の雨は、植物たちにとって恵みの雨だ。\nもちろん、雨をきらう植物も\n少なからずいるが。"
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_AUTUMN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n今日は、いい天気だな。\nこの時期は、過ごしやすい分\n天気がいいと、ついうとうとしてしまう。"
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_AUTUMN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nよく降るな…。\nこの調子だと、今日は一日雨か。"
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_WINTER",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nこの時期は、たとえ晴れの日でも\n気温が低いことには変わりないから\nあまり植物の活動が活発ではないんだ。"
+    },
+    {
+      "VardId": "MES_WEATHER_SNOW",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n雪か…。\nどうりで寒いわけだな。\n積もるだろうか。"
+    },
+    {
+      "VardId": "MES_WEATHER_TYPHOON",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\r\nひどい台風だな。\n外の植物たちが心配だ…。"
+    },
+    {
+      "VardId": "MES_WEATHER_HEAVYSNOW",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\nこんなに雪が降ったら、\n雪の重みに負ける植物もいるだろうな…。\n大丈夫だろうか…。心配だ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_WEATHER_TYPHOON",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>、牧場のことが心配な\n気持ちはよくわかるが\n今日は家でゆっくり過ごさないか？\n<PAGE>\nこんな台風の中\n外に出たら、ケガをするぞ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_WEATHER_HEAVYSNOW",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\nすごい雪だな。\n今日くらいは、しっかり\n休息をとれということだろうか。\n<PAGE>\n<FACE_NORMAL><MYNAME>、おたがい外のことは\n心配だが、せっかくの機会だ。\n今日は家族の時間をゆっくりととろう。"
+    },
+    {
+      "VardId": "接近ＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BLESSING_LOVER",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nどうしたんだ、<MYNAME>。\n顔が笑ってるぞ。\n…え、恋人が出来た？\n<PAGE>\n<FACE_LAUGH>そうなのか。\nそれは、おめでとう。\nお幸せにな。"
+    },
+    {
+      "VardId": "現在地について",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_RESTAURANT_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nレストランが近場にあると\nついつい頼ってしまいがちになる。\n味がおいしいと、なおさらだ。"
+    },
+    {
+      "VardId": "MES_SCHEDULE_RESTAURANT_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n人が集まるにぎやかなところというのは\nあまり得意じゃないが\nここのにぎわいは、キライじゃない。"
+    },
+    {
+      "VardId": "MES_HOUSE_FRIEND",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_HOUSE_PINPOINT_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nカミルとは、住んでいる村が\nとなり同士だったんだ。\n<PAGE>\nとはいえ、ここに来るまでは\nほとんど話したことなんてなかった。\nそれがまさか同じ町に勉強に来るなんてな。"
+    },
+    {
+      "VardId": "MES_HOUSE_PINPOINT_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_HOUSE_PINPOINT_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nここには、地元の山では見られない\n植物がたくさん生えているようだ。\n勉強に来たかいがあったよ。"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nこのあたりは、植物がたくさん\n生えているから虫も多いな。\n<PAGE>\n虫を追っていけば、かくれ家的な\n花畑にもたどり着けるかもしれない。\nやってみる価値はありそうだ。"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\r\nじつは、川にはあまり近づきたくないんだ。\nほら、その…あれがいるだろう。"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nこのあたりの植物は、観察には\nうってつけの変わったものが多い。\n<PAGE>\nここに来ると\n時間があっという間に感じるよ。"
+    },
+    {
+      "VardId": "MES_AREA_FARM_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>の牧場は、こうして見ると\n<MYNAME>の性格がよく出ているな。\nほかの牧場もそうなんだろうか。"
+    },
+    {
+      "VardId": "MES_AREA_FARM_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなるほど、このあたりの土地では\n茶と果樹とスパイスが作りやすいのか。\n確かに、それに適した土地だな。"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…<CHARANAME0>の性格が\nよく出ている畑だな…。\n<PAGE>\n…うん？　ああ、<MYNAME>か。\nいや、そこの畑の考察をしていただけだ。\n気にしないでくれ。"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nエッダさんの作る作物は、すばらしいな。\n愛情をそそいで育てているというのが\n一目でわかる。\n<PAGE>\nここの作物たちは、エッダさんに\n育てられて本望だろうな。"
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nこのあたりでは、いろいろなものが\n育てられるみたいだな。\n<PAGE>\nそれぞれの土地の状態は\nどうなっているんだろうか…。"
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそこは、今は<CHARANAME0>が\n借りているらしいな。\n<PAGE>\nわたしは、このあたりの植物を\n観察するついでに、よく畑なんかの\n様子も見させてもらっているんだ。\n<PAGE>\n<FACE_LAUGH>だから、<CHARANAME0>の\nお手並み拝見、と言ったところだな。\n何がどんな風に育っていくか楽しみだ。"
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nきれいな花畑だ。\n作り手のジョルジュさんは\nよほど花に愛情があるんだろうな。"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n土地環境から見ると、こちらが根菜で\nこちらが葉物野菜を育てる畑…と\nいったところか。"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそこの畑は、今は<CHARANAME0>が\n所有しているそうだな。\n<PAGE>\n所有者がころころ変わって、その度に\n植え替えをするのは、植物にとって\nストレスになりかねないからな…。\n<PAGE>\nできれば、今後も<CHARANAME0>が末永く\nこの畑を使うのが望ましいんだが…\n現実はそうもいかないんだろうな。"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\nそこの畑を見ていると\nあのさわがしい牧場主の\nおおざっぱさがうかがえるな。\n<PAGE>\n<FACE_NORMAL>だが、がんばりは伝わってくる。\nあれでも、アイツなりに\n一生懸命なんだろう…たぶん。"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\r\n大きな川だな。\nきっと、あれもたくさんいるんだろう…。\nうぅ…想像しただけでトリハダが……。"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n同じ畑でも、所有者がちがうと\n育てるものも、育て方も変わるから\n今だれが使っているかはわかりやすい。\n<PAGE>\nえ、そこの畑を\n今だれが使ってるかわかるかって？\n…<CHARANAME0>じゃないのか？\n<PAGE>\n<FACE_LAUGH>そうか、やっぱり。\nほら、よく見ていればわかる。\n言ったとおりだろう？"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nエリーゼのところの水田作物は\nみんな元気に育っているな。\n<PAGE>\n水田作物のあつかいは、水やりの\n手間がない分、雑になりがちなんだが\nしっかり世話がされているようだ。"
+    },
+    {
+      "VardId": "MES_AREA_OTHER_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n山の中の植物を日々観察しているから\n正直、町の中よりも山の中のことの方が\nわかる気がするよ。"
+    },
+    {
+      "VardId": "MES_AREA_OTHER_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\nジョルジュさんの家の付近には\nあまり近づかないようにしているんだ。\n<PAGE>\n<FACE_SAD>ほら、あの人、顔をあわせるたびに\n甘い言葉をはいてくるだろう。\nそれがたえられなくてだな……。"
+    },
+    {
+      "VardId": "友好度・愛情度ＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HEART_WHITE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nわたしは、会話が得意な方じゃない。\n勝手に話すのは、かまわないが\n答えは期待しないでくれ。"
+    },
+    {
+      "VardId": "MES_HEART_PURPLE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nわたしは、種を集めるのがシュミなんだ。\nだから、めずらしい種があれば\n見せてもらえるとうれしい。"
+    },
+    {
+      "VardId": "MES_HEART_BLUE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\n気をぬくとすぐに、研究にぼっとうして\n食事をするのをわすれたり\n睡眠をわすれたり…。\n<PAGE>\n植物一色の生活になってしまう。\n気をつけないといけないな。"
+    },
+    {
+      "VardId": "MES_HEART_GREEN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nここに来る前は、おじの家に\n居候をさせてもらっていた。\n<PAGE>\nおじは、顔が怖いからゴカイされやすいが\n植物と子供が好きな、とてもいい人だよ。"
+    },
+    {
+      "VardId": "MES_HEART_YELLOW",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\r\nわたしは言い方が悪い時があるようだから\nおまえのことも、もしかしたら\n知らず傷つけているかもしれない。\n<PAGE>\n<FACE_NORMAL>だからもし、おまえがわたしの言動に\n腹を立てることがあれば\nエンリョなく言ってほしい。\n<PAGE>\nおまえとは、たとえそれで\nケンカになったとしても\n最後には、仲直りのできる…。\n<PAGE>\n<FACE_LOVE>…そんな関係を、築けていると思うから。"
+    },
+    {
+      "VardId": "MES_HEART_ORANGE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n大学にいる間は、とにかく早く\n自分の思うような研究がしたくて…\nひたすら懸命に努力したよ。\n<PAGE>\nおかげで、最短で博士号をもらい\nこうして自由に研究にうちこむことが\n出来るようになった。\n<PAGE>\nあの頃もし、少しでも努力することを\nおこたっていたら、今この時この町に\nわたしはいなかっただろうな。"
+    },
+    {
+      "VardId": "MES_HEART_RED",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\n<WINDOW_PLEASANT_R><MYNAME>は、わたしにとって\n…その……友達…と呼べる数少ない\n人間だと思う。\n<PAGE>\nだから、<MYNAME>のこと…\nもっといろいろ教えてくれ。\n<PAGE>\nこれからは、おまえがわたしを\nわかってくれるのと同じくらい\nわたしもおまえをわかっていきたい。\n<PAGE>\nそして、いつかはおまえの…\nし、親友に…なれたらと…っ！\nそう思っている！"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_WHITE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_ANGRY>\r\n……何か用か。\nわたしは、いそがしいんだ。\n用件なら手短にすませてくれ。"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_PURPLE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\r\n恋愛って、疲れる…。\nやっぱりわたしは人と関わるより\n植物と関わるほうが性に合っている…。"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_BLUE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\n<MYNAME>と恋人になれたことが\n信じられなくて、毎朝起きるたびに\nほおをつねってしまう…。"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_GREEN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\nまた見られてる気がする…。\n…何にって、まさかおまえ\n全然気付いてないのか？\n<PAGE>\n<FACE_LOVE><MYNAME>といると、どこからともなく\n町のやつらが生ぬるい視線を\n送ってくるんだ…！\n<PAGE>\nおまえ、わたしと恋人になったことを\n町中に言いふらしただろう！？\nおかげで、はずかしさで死にそうだ…！"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_YELLOW",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\n…おまえと付き合うようになってから\n雰囲気がやわらかくなって\n女性らしさが増したと言われる。\n<PAGE>\n自分では、全くそうは思わないが…\n恋人が出来たと言うだけで、本当に\nそんなに人が変わるものなんだろうか…？"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_ORANGE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…は？\nわたしがおまえの\nどこを好きか知りたい？\n<PAGE>\n<FACE_LOVE>なっ、いきなり何の話だ…！\nそんなこといちいち言えるか！\nうるさい聞こえない絶対言わない…！！"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_RED",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\n<WINDOW_HEART1_R>わたしにも、植物以上に\n夢中になれるものがあったんだな。\n<PAGE>\nおまえと付き合っていると\nそれを実感できる。\n…これでも最大限の告白のつもりだぞ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_WHITE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_ANGRY>\r\n…わたしに何か用か？\n用がないなら話しかけないでくれ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_PURPLE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\r\nおまえは、植物じゃないんだ。\n結婚生活に不満があるなら\nちゃんと口に出して言ってくれ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_BLUE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\r\n結婚してから、おまえの態度は\n日に日に冷たくなっていっている…。\nわたしが何かしてしまったのか？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_GREEN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\n結婚前は、研究にばかり夢中で\nほかのことには無関心だったが\n今は、ずいぶん改善出来ていると思う。\n<PAGE>\n<FACE_LOSS>……改善、出来てるよな？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_YELLOW",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n妻として、わたしが<MYNAME>の\n役に立てることは\n何かあるだろうかと考えたんだが…。\n<PAGE>\n植物を研究しているから\n作物の育成に関してなら、何か良い\nアドバイスができると思うんだ。\n<PAGE>\n<FACE_LAUGH>それくらいしか思いつかないが…\nそれだけは、何より自信がある。\nだから、何でも聞いてくれ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_ORANGE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\n<MYNAME>と結婚してから\n毎日とても、おだやかで優しい気持ちで\n過ごせているんだ。\n<PAGE>\n満たされているって、きっと\nこういうことをいうんだな。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_RED",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\n<WINDOW_HEART2_R><MYNAME>と結婚してから\n毎日がとにかく幸せで満ち足りている。\n<MYNAME>は、どうだろうか。\n<PAGE>\n<MYNAME>にもらえているこの気持ちと\n同じものを、わたしもおまえに\n与えられていたら、うれしいんだが…。"
+    },
+    {
+      "VardId": "恋愛状況ＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVERS_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\nこ、恋人になったのだと思うと\n何だか気はずかしいな…。"
+    },
+    {
+      "VardId": "MES_LOVERS_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nすぐには無理かもしれないが\nこれからは、おまえと…友人として\n関係を築いていければと思っている。"
+    },
+    {
+      "VardId": "MES_LOVERS_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\nおまえとまたこうして\n過ごしているなんて、ウソのようだ。\nずっと、こんな日がくればと思っていた。"
+    },
+    {
+      "VardId": "MES_ENGAGEMENT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\nわたしたち、もうすぐ結婚するんだな…。\nわたしが結婚する日が来るなんて\n自分自身が一番信じられないよ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\nふつつかものだが、これからは\n妻として、よろしくたのむ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nわたしと<MYNAME>の子か。\nどんな子だろうな。\n生まれてくるのが、今から楽しみだ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nお腹を内側からけられるというのは\n何とも不思議な感覚だな。\n母親しか出来ない貴重な体験だ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_03",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\nもうすぐ生まれると思うと\n何だかキンチョウしてくるな。\n無事、産むことができるだろうか…。"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\n見ろ、<MYNAME>。\nこいつら、手も足もこんなに小さい。\nフフ、かわいいな。"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\n小さい頃のことなんて全然覚えてないが\nわたしたちも、こんな風に\n成長してきたんだろうか。"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\n子供を育てるということは、\n本当に苦労の連続だが……\n<PAGE>\n子供たちの笑顔を見ていると、\n苦労なんてふきとんでしまうな。"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_03",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "プレイヤーが渡した、見せたＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_PRESENT_BEST",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_PLEASANT_R><BLUE><ITEMNAME0></BLUE>！\nこれは、わたしの大好物なんだ。\nありがとう、<MYNAME>。"
+    },
+    {
+      "VardId": "MES_PRESENT_VERY",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nこれは、わたしの大好きな…！\nもらってもいいのか？\nありがとう。"
+    },
+    {
+      "VardId": "MES_PRESENT_LIKE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nえ…これ、もらってもいいのか？\n好きなものだから、うれしいよ。\nありがとう。"
+    },
+    {
+      "VardId": "MES_PRESENT_NORMAL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nこれ、わたしにプレゼント？\nそうか、もらっておくよ。\nありがとう。"
+    },
+    {
+      "VardId": "MES_PRESENT_DISLIKE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\nえ、これがプレゼント？\nでも、それは…あまり好きなものでは\nないんだが…まぁ、もらっておこう。"
+    },
+    {
+      "VardId": "MES_PRESENT_HATE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\r\n…このプレゼントは、うれしくない。\nつぎからは、やめてくれ。"
+    },
+    {
+      "VardId": "MES_PRESENT_WORST",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\n<WINDOW_DISCOURAGEMENT_R>このヌルヌル………ほわぁあ！？！？\nラ、ララララライギョ！？\nしかも<BLUE>デカライギョ</BLUE>じゃないか…！！\n<PAGE>\n<FACE_ANGRY>う、うわっ、バカやめろ近付けるな\nそんなのいらな……おまっ、勝手に\nかばんに入れるなんてヒキョウだぞ…！？\n<PAGE>\n<FACE_SAD>だ、だだだだ出せ、早く出して！\nかばんがヌルヌルする…！！\nやだやだやだぁーーーー！！！！"
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_VERY",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\n金色に光る種…！\nこれ、本当にもらっていいのか！？\nありがとう、大事にするよ！！"
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_LIKE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nすごいな、これは。\n金色なんてめずらしい。\n研究に使わせてもらうよ、ありがとう。"
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_NORMAL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nすごいな、これは。金色だ。\nわたしがもらってしまってもいいのか？\nありがとう。"
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_DISLIKE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_HATE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_WORST",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_VERY",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_LIKE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_NORMAL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_DISLIKE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_HATE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_WORST",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_PRESENT_CANNOT",
+      "Text": "今、プレゼントを渡すのは\nやめておこう…。"
+    },
+    {
+      "VardId": "MES_PRESENT_RESERVE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nプレゼント？\nいや、わたしはいい。"
+    },
+    {
+      "VardId": "MES_LOVER_PRESENT_RESERVE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_ANGRY>\r\nそんなものはいらない。\nわたしは今、キゲンが悪いんだ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_PRESENT_RESERVE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_ANGRY>\r\n会話をおろそかにしたことを\nプレゼントでごまかそうとしているのか？\nそんなの受け取るわけないだろう。\n<PAGE>\n悪いことをしたと思っているなら\nキゲンをとるようなマネはしないで\n誠心誠意、心をこめてあやまれ。"
+    },
+    {
+      "VardId": "MES_PRESENT_SECONDTIME",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n今日は、もうもらったから。\n気持ちだけもらっておくよ。"
+    },
+    {
+      "VardId": "MES_LOVER_PRESENT_SECONDTIME",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n今日は、もういい。\nさっきもらったばかりだろう。\nそんなに、気をつかわないでくれ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_PRESENT_SECONDTIME",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n今日は、もうもらったぞ。\nそんなにプレゼントばかり渡して…まさか\n何か、かくしてるんじゃないだろうな？"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_BEST",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_PLEASANT_R><BLUE><ITEMNAME0></BLUE>じゃないか。\nこれは、わたしの大好物なんだ。\n<PAGE>\n…え、誕生日プレゼント？\nそうか…だからわざわざ大好物を…\nありがとう、<MYNAME>。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_VERY",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n誕生日のプレゼント？\nそうか、今日はわたしの誕生日だった。\n<PAGE>\n<FACE_LAUGH>これは……こんなにいいものを\nもらってもいいのか？\nありがとう、うれしいよ。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_LIKE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n誕生日のプレゼント？\nそうか、今日はわたしの誕生日だった。\n<PAGE>\n<FACE_LAUGH>これは…わたしの好きなものを\nよく知ってるな。\nありがとう。もらうよ。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_NORMAL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n誕生日のプレゼント？\nそうか、今日はわたしの誕生日だった。\nありがとう。これはもらうよ。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_DISLIKE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n誕生日のプレゼント？\nそうか、今日はわたしの誕生日だった。\n<PAGE>\n<FACE_LOSS>これは……あまり好きなものではないが\nせっかくのお祝いだしな。\nもらっておくよ。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_HATE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n誕生日のプレゼント？\nそうか、今日はわたしの誕生日だった。\n<PAGE>\n<FACE_SAD>これは……誕生日には\nもらいたくないものだが……\nせっかくのお祝いだしな。もらっておく。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_WORST",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n誕生日のプレゼント？\nそうか、今日はわたしの誕生日……\nいや、ちょっと待てこのヌルヌルは…。\n<PAGE>\n<WINDOW_DISCOURAGEMENT_R><FACE_LOSS>\nほわぁあ！？\nラ、ララララライギョ！？\nしかも<BLUE>デカライギョ</BLUE>じゃないか…！！\n<PAGE>\n<FACE_ANGRY>う、うわっ、バカやめろ近付けるな\nそんなのいらな……おまっ、勝手に\nかばんに入れるなんてヒキョウだぞ…！？\n<PAGE>\n<FACE_SAD>だ、だだだだ出せ、早く出して！\nかばんがヌルヌルする…！！\nこんな誕生日プレゼントやだぁーー！！"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_VERY",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\n金色に光る種じゃないか…！\nこんないいもの\n本当にもらっていいのか！？\n<PAGE>\nえ、誕生日プレゼント？\nそうか、今日はわたしの…なるほど。\n誕生日仕様というわけか。ありがとう。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_LIKE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nすごいな、これは。\n金色なんてめずらしい。\n<PAGE>\n<FACE_NORMAL>え、誕生日プレゼント？\nそうか、今日はわたしの…。\nありがとう。うれしいよ。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_NORMAL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ…金色に光っているのか。\nめずらしいものを持っているな。\n<PAGE>\nえ、誕生日プレゼント？\nそうか、今日はわたしの…。\nありがとう。もらっておくよ。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_DISLIKE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_HATE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_WORST",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_VERY",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_LIKE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_NORMAL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_DISLIKE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_HATE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_WORST",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_RABBIT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nむやみに動物をつかまえるのは\n感心しないな。"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_FOX",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n動物がいやがっていないならいいが…\nもし、いやがってるなら\nはなしてやれよ。"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_OKOJO",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nオコジョなんて、よくつかまえられたな。\nでも、早く元いた場所に返してやれ。"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_SIFAKA",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nペットにでもするつもりか？\nあまり連れ歩いたら、かわいそうだぞ。"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_PENGUIN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n連れ歩きたいのはわかるが\nかわいそうだろう。\nちゃんと元の場所に返してやれ。"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_MONKEY",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nサルなんて連れてどうしたんだ。\n友達にでもなったのか？"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_PARROT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\r\nうわっ、オウム…！？\nた、頼むからあっちにやってくれ！"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_TURTLE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_OTHER",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nその生き物を、あまり\nわたしに近付けないでくれ。"
+    },
+    {
+      "VardId": "MES_ANGORA",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n毛の量以外に、食べ物や\n生活の仕方なんかで、このウサギと\n野生のウサギにちがうところはあるのか？"
+    },
+    {
+      "VardId": "MES_CHICK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\r\nうわっ、ヒヨコだろうとなんだろうと\nわたしはトリはダメなんだ！\nすまないが、あっちにやってくれ…！"
+    },
+    {
+      "VardId": "MES_HEN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\r\nうわっ、トリはダメなんだ！\nすまないが、あっちにやってくれ…！"
+    },
+    {
+      "VardId": "MES_LARGE_HEN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_DOG",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n人なつっこいイヌだな。\nどこかのだれかにソックリだ。"
+    },
+    {
+      "VardId": "MES_FAT_DOG",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…どうしてこうなった。\n太りすぎだろう。どう見ても。"
+    },
+    {
+      "VardId": "MES_LARGEDOG",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\nうわっ、何だ！\nなめるな！\nわたしの顔はおいしくないぞ…！"
+    },
+    {
+      "VardId": "MES_FAT_LARGEDOG",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…どうしてこうなった。\nカホゴに育てすぎたんじゃないのか。"
+    },
+    {
+      "VardId": "MES_CAT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nフフ、ネコは本当にかわいいな。\n何だ、じっとこっちを見て。\n遊んでほしいのか？"
+    },
+    {
+      "VardId": "MES_FAT_CAT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなんだ、このぽっちゃりネコは。\n……これはこれでかわいいじゃないか。"
+    },
+    {
+      "VardId": "MES_LONGHAIR_CAT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nよしよし、かわいいな。\nフフ、あくびしてる。\nねむいのか？"
+    },
+    {
+      "VardId": "MES_FAT_LONGHAIR_CAT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなんだ、このぽっちゃりネコは。\n……これはこれでとてつもなくかわいいが。\n健康に問題はないのか？"
+    },
+    {
+      "VardId": "MES_FLOWER_FESTIVAL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n花祭りのプレゼント？\nそうか、そんな行事があるんだったな。\nありがとう、もらうよ。"
+    },
+    {
+      "VardId": "MES_LOVER_FLOWER_FESTIVAL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\nそうか、今日は花祭りか…ありがとう。\n自分の大切に思う人から、\n花がもらえるというのはうれしいな。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FLOWER_FESTIVAL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\nそうか、今日は花祭りか。\nありがとう、<MYNAME>。\n大事にするよ。"
+    },
+    {
+      "VardId": "MES_THANKSGIVIING_FESTIVAL_S",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n春の感謝祭のプレゼント？\nわたしがもらっていいのか？\nありがとう。"
+    },
+    {
+      "VardId": "MES_LOVER_THANKSGIVIING_FESTIVAL_S",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\nこれは、感謝祭の…？\nあ…ありがとう。\nもったいなくて食べれそうにないな…。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_THANKSGIVIING_FESTIVAL_S",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\n感謝祭のプレゼントか。\nありがとう。\nわたしも冬は、がんばって作るよ。"
+    },
+    {
+      "VardId": "MES_THANKSGIVIING_FESTIVAL_W",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_LOVER_THANKSGIVIING_FESTIVAL_W",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_THANKSGIVIING_FESTIVAL_W",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…その青い羽根が、どうかしたのか？"
+    },
+    {
+      "VardId": "MES_LOVER_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\n青い羽根……え、ええっ！？\nいや、いくら何でも\nまだ結婚は早いんじゃないか…！\n<PAGE>\nわたしたち、まだおたがいのことで\n知らないことも多いし……と、とにかく\n今はまだ結婚はできない…！"
+    },
+    {
+      "VardId": "MES_EVENT_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nえ、それ…青い羽根だよな？\nそれってつまり……。\n<PAGE>\n<FACE_LOVE>ほわぁあっ！？\nプ、プロポーズ…！？！？\nま、まままま待て、落ち着け！\n<PAGE>\nいや、わたしが落ち着きたい！\nだ、だからいったん場所を\n変えさせてくれ…！"
+    },
+    {
+      "VardId": "MES_PROPOSAL_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\nな、何度も見せないでくれ…。\nはずかしいだろ…。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nその羽根は、わたしたちにとって\nとても大切なものだ。\nこれからも大事にしまっておいてくれ。"
+    },
+    {
+      "VardId": "MES_ANGER_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_ANGRY>\r\n<MYNAME>、どういうことだ？\n青い羽根をほかの女性に見せて回っていると\n聞いたんだが。本当なのか？\n<PAGE>\nどうしてそういうことをするんだ。\n相手がゴカイしたら\nどう責任をとるつもりだ。\n<PAGE>\n<FACE_SAD>そういう、ケイソツな行動はするな。\nわたしだって……傷つく。\n二度としないでくれ。"
+    },
+    {
+      "VardId": "MES_RING",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…その指輪が、どうかしたのか？"
+    },
+    {
+      "VardId": "MES_EVENT_RING",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…好き？\nおまえが、わたしを？\n<PAGE>\n<FACE_LOVE>な、なななな…っ！？\nいや、待て、ちょっと待て！\nと、とにかく場所を変えるぞ！"
+    },
+    {
+      "VardId": "MES_LOVER_RING",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\nそんなに何度も見せなくてもいい。\n…はずかしいだろ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_RING",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nなつかしいものを持ってるな。\nその指輪から、わたしたちの関係は\n始まったんだな…。"
+    },
+    {
+      "VardId": "MES_ANGER_RING",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_ANGRY>\r\n<MYNAME>、どういうことだ？\n指輪をほかの女性に見せて回っていると\n聞いたんだが。本当なのか？\n<PAGE>\nどうしてそういうことをするんだ。\nわたしと別れたいという意思表示か？\n<PAGE>\n<FACE_SAD>ちがうのなら、わざわざほかの女性に\n見せて回るのはやめてくれ。\nわたしだって……傷つくんだぞ。"
+    },
+    {
+      "VardId": "MES_PRESENT_LAPPING_LIKE ",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nこのラッピング、かわいいな。\n色もいいし、とても好みだ。\n開けてもいいか？"
+    },
+    {
+      "VardId": "MES_PRESENT_LAPPING",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…いったい何が入ってるんだ？\nこういうのは、少しわくわくするな。\n開けてみてもいいだろうか。"
+    },
+    {
+      "VardId": "プレイヤーに渡すＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\n今日は、おまえの誕生日だろう？\nプレゼントを用意したんだ。\n受け取ってほしい。\n<PAGE>\n誕生日おめでとう、<MYNAME>。"
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n今日が誕生日らしいな。\nおめでとう。\nいい一日になるといいな。"
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\n誕生日おめでとう、<MYNAME>。\nそうだ、ちょっと聞きたいんだが…\n今日の夜は、家にいるか？\n<PAGE>\nいや、用と言うか…何と言うか…\nと、とにかくいる予定ならいいんだ！\nじゃあな！"
+    },
+    {
+      "VardId": "MES_LOVER_GIFT_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n気のせいかもしれないが\n<MYNAME>、何だかふらふらしてないか？\n<PAGE>\n<FACE_LOSS>…え、空腹？\nまさか食事抜きでうろうろしてるのか？\nあきれたやつだな。\n<PAGE>\n<FACE_NORMAL>ほら、これで良かったら食べろ。\nわたしが作ったものだから\n味に保証はしないがな。"
+    },
+    {
+      "VardId": "MES_LOVER_GIFT_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nああ、<MYNAME>。\nちょうど良かった。\nこれをもらってくれ。\n<PAGE>\nわたしのおじが、\nお世話になってる人にもくばれと\n余計な気を回してたくさん送ってきたんだ。\n<PAGE>\n<FACE_LOVE>おまえは、わたしが一番世話に\nなっている相手…というか、こ、恋人\nなんだからもらう義務があるだろう。\n<PAGE>\nというわけで、受け取れ。\n……ニヤニヤするな！"
+    },
+    {
+      "VardId": "MES_LOVER_GIFT_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>、差し入れだ。\nおまえはいつもがんばりすぎだから\nこれでも食べて一息入れろ。"
+    },
+    {
+      "VardId": "会話間隔が空いていたＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LONG_INTERVAL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n久しぶりだな、<MYNAME>。\nしばらく会わなかったが\nどこかへ行っていたのか？"
+    },
+    {
+      "VardId": "MES_LOVER_LONG_INTERVAL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_ANGRY>\r\n久しぶり…なんて、同じ町に住んでいる\n恋人同士の会話とは思えないな。\n会わない間、いったい何をしていたんだ？"
+    },
+    {
+      "VardId": "MES_MARRAGE_LONG_INTERVAL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_ANGRY>\r\n長い間放ったらかしにしておいて\n今さら何のようだ？\nおまえと話すことは何もないぞ。"
+    },
+    {
+      "VardId": "サファリＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SAFARI_LEAVE_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_SAFARI_LEAVE_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_SAFARI_LEAVE_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_SAFARI_LEAVE_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_SAFARI_LEAVE_OK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_SAFARI_LEAVE_NG",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_SAFARI_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nどんな動物がいるか、気にはなるが\nわたしとしては植物の方が気になる。\n<PAGE>\n<FACE_LAUGH>ここには、見たこともない植物が\nたくさんありそうだ。\n散策のしがいがある。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_SAFARI_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\nあっちにいる動物の名前…\n何と言うんだったかな。\n動物は専門外だから、さっぱりだ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_SAFARI_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\n<MYNAME>…その…\n手を、つないでもいいか？\n<PAGE>\nおまえは、すぐあっちこっち\nウロウロするから\nはぐれないか心配なんだ。\n<PAGE>\nべ、べつに放って置かれて\nさびしいわけじゃないからな！"
+    },
+    {
+      "VardId": "服装ＭＳＧ　",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_CLOTHES_1１",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_2２",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_3３",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…その服、おまえに\nよく似合っているな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_4４",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_5５",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_6６",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_7７",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_8８",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_9９",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_10１０",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n黄やオレンジといった色は、\n派手で、わたしとしては\nあまり好まないが…。\n<PAGE>\n<FACE_LAUGH>そのベストは、なかなかいい色だな。\nよく似合っている。"
+    },
+    {
+      "VardId": "MES_CLOTHES_11１１",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそのパーカー、\nキレイな緑色をしているな。\nどこで手に入れたものなんだ？"
+    },
+    {
+      "VardId": "MES_CLOTHES_12１２",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_13１３",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_14１４",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_15１５",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nわたしは、あまり服を気にしない方だが\nその服は……いいと思う。\nつい目が行く程度にはな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_16１６",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_17１７",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_18１８",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_19１９",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_20２０",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_21２１",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nそのジャケット、\nおまえらしい感じがしていいな。\nよく似合っていると思うよ。"
+    },
+    {
+      "VardId": "MES_CLOTHES_22２２",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_23２３",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_24２４",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nその服の色合いは、いいな。\nとても好ましい。"
+    },
+    {
+      "VardId": "MES_CLOTHES_25２５",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_26２６",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_27２７",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_28２８",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nその服、自分が着るというと\nひらひら具合に少し気が引けるが…。\n<PAGE>\n他人が着ているのを見る分には\nなかなか好ましいな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_29２９",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_30３０",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nその服は、とてもいい色合いだな。\n…入手先を聞いてもいいだろうか？"
+    },
+    {
+      "VardId": "MES_CLOTHES_31３１",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_32３２",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_33３３",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_34３４",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_35３５",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_36３６",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_37３７",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_38３８",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_39３９",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_40４０",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_41４１",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_42４２",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_43４３",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\n…その服、とてもいいな。\n色も形も、わたしの好みだ。"
+    },
+    {
+      "VardId": "MES_CLOTHES_44４４",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nその服、落ち着いててなかなか\nいい色じゃないか。\nおまえ、センスがいいんだな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_45４５",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_46４６",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_47４７",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_48４８",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_49４９",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_50５０",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_51５１",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_52５２",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_53５３",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_54５４",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_55５５",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_56５６",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nそのコート、色合いがさわやかで\nおまえによく似合っているな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_57５７",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…その服、悪くないな。\nまぁ似合っているといえば\n似合っているんじゃないか？"
+    },
+    {
+      "VardId": "MES_CLOTHES_58５８",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_59５９",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_60６０",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_61６１",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_62６２",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n南国気分全開の服だな。\nわたしはあまり派手な服は\n好まないが…。\n<PAGE>\n<FACE_LAUGH>その服は、不思議とよく見える。\nもしかしたら、おまえがうまく\n着こなしているからかもしれないな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_63６３",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nその服の色合いは、\nなかなか好ましいな。\nおまえによく似合っているとも思う。"
+    },
+    {
+      "VardId": "MES_CLOTHES_64６４",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_65６５",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_66６６",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_67６７",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_68６８",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_69６９",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_70７０",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_71７１",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_72７２",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_73７３",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_74７４",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_75７５",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_76７６",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_77７７",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_78７８",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_79７９",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_80８０",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_81８１",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_82８２",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_83８３",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_84８４",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_85８５",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_86８６",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_87８７",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_88８８",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_89８９",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…また、派手な服を着ているな。\n柄はどうかというところだが\n色と形は悪くないんじゃないか。\n<PAGE>\nまぁ、服というのは他人の好みで\n着るものじゃないからな。\n<PAGE>\nわたしの意見なんて気にせずに\n好きに着ればいいと思うぞ。"
+    },
+    {
+      "VardId": "MES_CLOTHES_90９０",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_91９１",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_92９２",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nああ、そのパーカーは\nおまえによく似合っていて、いいな。\n青色が、見ていて気持ちがいい。"
+    },
+    {
+      "VardId": "MES_CLOTHES_93９３",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_94９４",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_95９５",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_96９６",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nその服、悪くないな。\nいろいろな色がしっかり\n調和している気がする。\n<PAGE>\nおまえのセンスがいいという\n証拠だな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_97９７",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_98９８",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_99９９",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_100１００",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_101１０１",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_102１０２",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_103１０３",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_104１０４",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_105１０５",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_106１０６",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_107１０７",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_108１０８",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_109１０９",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_110１１０",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_111１１１",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_112１１２",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nその服……<MYNAME>らしい\n明るい色合いがいいな。\n黄色のシャツがよく似合っている。"
+    },
+    {
+      "VardId": "MES_CLOTHES_113１１３",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_114１１４",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_115１１５",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_116１１６",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_117１１７",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_118１１８",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_119１１９",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_120１２０",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_121１２１",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_122１２２",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_123１２３",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_124１２４",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_125１２５",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_126１２６",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_127１２７",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nその服、なかなかかっこうが\nついていていいじゃないか。\n<PAGE>\n<MYNAME>に、\nよく似合っていると思うぞ。"
+    },
+    {
+      "VardId": "MES_CLOTHES_128１２８",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_129１２９",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_130１３０",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_131１３１",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_132１３２",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_133１３３",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_134１３４",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_135１３５",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_136１３６",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_137１３７",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_138１３８",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_139１３９",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_140１４０",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_141１４１",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_142１４２",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nキレイな色のチャイナだな。\nえ、わたしが着たら似合いそう？\n…どうだろうな。\n<PAGE>\n<FACE_SAD>だが、そこまで足をむき出しにするのは\nわたしにとって\nかなり勇気のいる行為だ。\n<PAGE>\n<FACE_LOSS>似合おうが似合うまいが\nわたしがそれを着る日は…\nおそらく、来ないんじゃないかな…。"
+    },
+    {
+      "VardId": "MES_CLOTHES_143１４３",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_144１４４",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_145１４５",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_146１４６",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_147１４７",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_148１４８",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_149１４９",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_150１５０",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_151１５１",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_152１５２",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_153１５３",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_154１５４",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_155１５５",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\nうわっ…！？\nな、何だっ！？\n何でこんなところにパンダが…！\n<PAGE>\n<FACE_NORMAL>…あ、ああ<MYNAME>か。\nおどろかせるな。\n<PAGE>\n<FACE_ANGRY>着ぐるみだとわからなかったのかって…\nいきなりだったんだから\nそんなの、わかるわけないだろう。\n<PAGE>\n大体、着ぐるみを普段着にして\n陽気に歩き回ってるやつなんて\nこの町じゃおまえくらいしかいない。\n<PAGE>\n着ぐるみだろうが、本物だろうが\nそうそう出会うはずがないものが\n目の前にいきなり現れたら…。\n<PAGE>\nそんなの、だれでも\nおどろくに決まってるだろう！"
+    },
+    {
+      "VardId": "MES_CLOTHES_156１５６",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_157１５７",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "アクセサリーＭＳＧ　",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_2",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_3",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_4",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_5",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_6",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_7",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\n…その緑色の帽子、\nおまえによく似合っているな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_8",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_9",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_10",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_11",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nその帽子、いい色形をしているな。\nよく似合っている。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_12",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_13",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_14",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_15",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_16",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_17",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_18",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_19",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_20",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_21",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_22",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_23",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_24",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_25",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_26",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_27",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_28",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_29",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nその耳、どうなってるんだ？\n…ああ、カチューシャに\n耳がついているのか。\n<PAGE>\n何でも、よく考えるものだな。\n感心するよ。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_30",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_31",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_32",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_33",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nへぇ、かわいい帽子だな。\nそういう帽子は、わたしも好きだ。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_34",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_35",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_36",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_37",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n帽子に紙とえんぴつを\nさしておこうという考えは\nなかなかいいな。\n<PAGE>\n帽子なら、外出時に必ずかぶるだろうし\n出先で急に興味深い植物を\n見つけても、メモがとれる。\n<PAGE>\nなるほど、参考にさせてもらおう。\nいい案をありがとう。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_38",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_39",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_40",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_41",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ…何の音楽を聞いているんだ？\n聞くのはいいが、周りのメイワクに\nなるから音もれには気をつけろよ。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_42",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_43",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_44",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_45",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_46",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_47",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nそのメガネ、なかなか似合ってるな。\n悪くないと思うぞ。\n<PAGE>\nそれどころか、\nかなりおしゃれに見える。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_48",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_49",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_50",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_51",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nそのメガネ、なかなか似合ってるな。\n悪くないと思うぞ。\n<PAGE>\nそれどころか、\nかなりおしゃれに見える。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_52",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_53",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_54",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_55",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_56",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nそのメガネ、なかなか似合ってるな。\n悪くないと思うぞ。\n<PAGE>\nそれどころか、\nかなりおしゃれに見える。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_57",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_58",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_59",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_60",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_61",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_62",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nモノクルなんて付けていると\n何だか、知的に見えるな。\n<PAGE>\n見た目だけは、キリッとして\nいつもよりもかっこよく見えるぞ。\n<PAGE>\n<FACE_LAUGH>…ああ、ふだんのおまえを\n悪く言っているわけじゃない。\n素直にほめ言葉として受け取ってくれ。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_63",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_64",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_65",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそれ、おまえによく似合ってるな。"
+    },
+    {
+      "VardId": "スケジュール行動中ＭＳＧ　",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_FARM_WORKING",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_CARE_ANIMAL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOP_OPEN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_SCHEDULE_SHOP_OPEN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SLEEP_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_PATI>\r\n…うーん……この植物は………………\n……あっちの植物は……そっちは……\n…ぶつぶつぶつぶつ……ぐー…………。"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SICK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\r\n今日は、あまり気分が良くないんだ。\n話ならまた今度にしてくれ。"
+    },
+    {
+      "VardId": "MES_LOVER_SCHEDULE_SICK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\r\n…なんだ、<MYNAME>か。\nすまない。今日は調子が悪いんだ。\n話ならまた今度にしてくれ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_SCHEDULE_SICK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\r\n体調が悪いんだ。\n今日はもう、放っておいてくれ。\n明日には、絶対治すから。"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SLEEPY_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\n…もう寝る時間だ。\nそろそろ帰ってくれないか。"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SLEEPY_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\n<MYNAME>、いつまで起きてる気なんだ？\nもうそろそろ寝た方がいい。\n明日にさしつかえるぞ。"
+    },
+    {
+      "VardId": "お手伝いＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n明日、朝から山を\n散策するつもりなんだが…\n何か落ち物でもあれば、拾ってこようか？"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_01",
+      "Text": "お手伝いを頼む"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_02",
+      "Text": "お手伝いを頼まない"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_CANCEL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそうか、必要ないならいい。"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_OK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nわかった。それじゃ\n明日の朝、帰ったら声をかけるから。\nそれまでは、ゆっくり寝ていてくれ。"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_RESULT_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\n落ち物を、拾ってきたぞ。\n今日は<ITEMNAME0>、<MOJI0>個。\nカバンに入れておいたからな。"
+    },
+    {
+      "VardId": "ご飯ＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MEAL_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\r\n…っ、ごほっ…！\n食事中、に…ごほっ、いきなり…\n…ごほんっ、声をかけ、るな！"
+    },
+    {
+      "VardId": "MES_MEAL_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n………もぐもぐ…………………\n…もぐもぐもぐ……もぐ………\n……………………………………。\n<PAGE>\n<FACE_LOVE>さ、さっきから何なんだ！\nあ、あんまりじっと見るな！\n食事が食べにくいだろう！！"
+    },
+    {
+      "VardId": "視野判定ＭＳＧ（モブも含む）",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_WOOD",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_STONE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_RED",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_GREEN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nいい色のベンチだな。\nだが、山の中に置いたら見失いそうだ。\n外観を壊さないからいいかもしれないが。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_BLUE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_YELLOW",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_PINK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_PURPLE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_WHITE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_BLACK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_GOLD",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_SILVER",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BARREL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WOOD_BOX",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nこの木箱には\n何が入っているんだろうな…。\n中身が気になるな。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SCARECROW",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WEATHERCOCK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_MILK_CAN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GRASS_ROLL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BLOCK_BRICH",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_JAR_RED",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_JAR_BLUE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_JAR_WHITE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SMALL_CART",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_CART",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WAGON",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SHIPMENTBOX",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PAVEMENT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_LARGE_PAVEMENT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_STREETLAMP_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_STREETLAMP_2",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BONFIRE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ANDON",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GARDENLANTERN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PILLAR_WOOD",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PILLAR_STONE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PILLAR_BRICK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOTEM POLE_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOTEM POLE_2",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TABLE_WEST",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TABLE_JAPAN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TABLE_ORIENT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_CHAIR_WEST",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_CHAIR_JAPAN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_CHAIR_ORIENT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_CHAIR_BEACH",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nこのビーチチェア、気持ち良さそうだな。\nゆったりすわっていたら\n寝てしまいそうな気がする。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PARASOL_WEST",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PARASOL_GARDEN_NEW1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PARASOL_GARDEN_NEW2",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PARASOL_JAPAN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PARASOL_BEACH",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GARDEN_BEACH_NEW1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nひと休みする時、\n日よけに使えということで\n置かれているんだろうか。\n<PAGE>\nだれが置いたのかわからないが\n親切だな。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GARDEN_BEACH_NEW2",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BOARD",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GUIDEPOST",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\nこの道しるべは、どこへ行く道を\n表しているんだろう。\n行き先について書かれていないんだが。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BLACKBOARD",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_STATUE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_STATUE_SUN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_STATUE_PIKE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_STATUE_SHIELD",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FOUNTAIN_ANIMAL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FOUNTAIN_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nシンプルな噴水だな。\nやたらと細工されたものより、こういった\nシンプルなものの方がわたしは好きだ。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FOUNTAIN_2",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FAUCET",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PUMP",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SMALLPOND",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POND",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BRIDGE_DIGIT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BRIDGE_ARCH",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WELL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TRAM",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WATCHTOWER",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SWING_IRON",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SWING_WOOD",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_JUNGLE_JYM",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SEASAW",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SLIDE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SAND_CASTLE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\n砂場か。子供たちがよろこびそうだ。\n砂のお城なんてあるなら、特にな。\n女の子が好きそうだ。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SAND_ANIMAL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_HORIZONTAL_BAR",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_HORIZONTAL_BAR_HIGH",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OPEN_SPACE_WOOD_SMALL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OPEN_SPACE_WOOD",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OPEN_SPACE_STONE_SMALL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OPEN_SPACE_STONE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OPEN_SPACE_BRICK_SMALL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OPEN_SPACE_BRICK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OPEN_SPACE_MOSS_SMALL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nこんな日当たり、風当たりの\nいい場所に苔が…。\n<PAGE>\n苔の育成には、本当は半影が効果的だが…\n育てることが目的の広場ではないから\n気にすることは、ないのか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OPEN_SPACE_MOSS",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nこんな日当たり、風当たりの\nいい場所に苔が…。\n<PAGE>\n苔の育成には、本当は半影が効果的だが…\n育てることが目的の広場ではないから\n気にすることは、ないのか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FIRE_EXTINGUISHER",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_DARUMA",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SNOWMAN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_KAMAKURA",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ICELIGHT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SNOWIMAGE_COW",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SNOWIMAGE_SHEEP",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SNOWIMAGE_BIRD",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SNOWIMAGE_PIKE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SNOWIMAGE_SHIELD",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_REDLIGHT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_BLUELIGHT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_YELLOWLIGHT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POLE_REDLIGHT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POLE_BLUELIGHT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POLE_YELLOWLIGHT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GATE_REDLIGHT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GATE_BLUELIGHT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GATE_YELLOWLIGHT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PYRAMID",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_CASTLE_JAPAN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_CASTLE_WEST",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOWER",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_KADOMATU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n門松を見ていると\nいつも思うことだが…。\n<PAGE>\n門松、というわりには\n松よりも竹の方に、存在感があるのには\n何か理由があるんだろうか？"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SHISHIODOSHI",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nししおどしというものを作ろうと\n最初に考えだした人は、すごいな。\n<PAGE>\nきっと、知識を有しているだけでなく\n風情のわかる人だったんだろう。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ANCHOR",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_HAMMOCK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\nふあぁ…ハンモックを見ていると\n何だか眠たくなってきてしまった…。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OBELISK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SLATE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_MOVING_CAR",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SHISHIMAI",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PANDA",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ROBOT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BOARD_SOUND",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_PINKROSE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_MARGUERITE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n牧場では、マーガレットの栽培は\nどうしているんだ？\n<PAGE>\nマーガレットは連作すると\n根っこがくさってくるから\n花が散る前に一気に収穫した方がいいぞ。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_TULIP",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_CARNATION",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_SUNFLOWER",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_REDROSE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_HYDRANGEA",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_LILY",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_HIBISCUS",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_PINK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nヤマトナデシコ、という言葉を\n知っているか？\n<PAGE>\nこの花のように、センサイだが\nシンはしっかりしている\n女性のことをさす言葉だ。\n<PAGE>\n<FACE_LAUGH>わたしが住んでいた町にまさに\nその言葉にぴったりの女性が住んでいた。\nこの花を見ていると思い出すよ。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_WHITEROSE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_GARBERA",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_SNOWDROP",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_RINDOU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\nこの間、イリスさんに\nわたしには、りんどうが似合うと\n言われたんだが…どういう意味だろうか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_BLUEROSE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_CACTUS",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_PINKROSE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_MARGUERITE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n牧場では、マーガレットの栽培は\nどうしているんだ？\n<PAGE>\nマーガレットは連作すると\n根っこがくさってくるから\n花が散る前に一気に収穫した方がいいぞ。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_TULIP",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_CARNATION",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_SUNFLOWER",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_REDROSE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_HYDRANGEA",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_LILY",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_HIBISCUS",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_PINK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nヤマトナデシコ、という言葉を\n知っているか？\n<PAGE>\nこの花のように、センサイだが\nシンはしっかりしている\n女性のことをさす言葉だ。\n<PAGE>\n<FACE_LAUGH>わたしが住んでいた町にまさに\nその言葉にぴったりの女性が住んでいた。\nこの花を見ていると思い出すよ。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_WHITEROSE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_GARBERA",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_SNOWDROP",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_RINDOU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\nこの間、イリスさんに\nわたしには、りんどうが似合うと\n言われたんだが…どういう意味だろうか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_BLUEROSE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_CACTUS",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_BAMBOO",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\n竹を鉢に植えることは、あまり\n一般的なことではないと思っていたが\nこの町では普通に行われることなんだな。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BONSAI",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_CHRRYBLOSSOM",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n桜はキレイだが、\n木を育てるのは時間と手間がかかる。\n<PAGE>\nその点、鉢植えなら気軽に育てられるから\n初心者にはオススメかもしれないな。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_GINGKO",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nイチョウは、鉢植えでも十分楽しめる。\nまぁ、どうしたって実際の\n木の美しさには勝てないがな。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_PALM",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_HANGING_BOWL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\n吊り鉢を使えば、少ないスペースでも\nたくさんの植物の研究が出来るな。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BASKET_RED",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BASKET_GREEN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\n緑といえば、植物の葉の色だ。\n緑色の花かごならどんな植物を\n入れても合いそうだな。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BASKET_YELLOW",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BASKET_PINK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BASKET_PURPLE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BASKET_WHITE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOPIARY_BOXWOOD",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOPIARY_CONIFER",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOPIARY_BALL_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOPIARY_BALL_2",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOPIARY_BOX",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nヘタな壁や柵を設けるより\n生垣を作るほうがずっといい。\n強度は低いが、いやしの効果は絶大だ。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOPIARY_LION",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOPIARY_MAMMOTH",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_BAMBOO",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_PINEAL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\n松のにおいって、いいと思わないか。\n独特のにおいがキライと言う人も多いが\nわたしは、とても好ましく思う。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_CHERRYBLOSSOM",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\n桜の美しさは語るべくもないな。\n桜がキライな人間というのは\nおそらく少ないだろう。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_GINGKO",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nイチョウは、鉢植えで観賞するというのも\nいいが、やはりこうして\n自然の形を見るのが一番いいな。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_PALM",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_LATTICE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nラティスか。\nラティスは、ツタやバラなどを\n絡ませて使う人が多いな。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OMANENT_COW",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OMANENT_SHEEP",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OMANENT_COCK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OMANENT_HORSE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OMANENT_ALPACA",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OMANENT_LAMA",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TIN_TRICYCLE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TIN_WATERING_CAN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TIN_BOOTS",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ARCH_RED_FLOWER",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ARCH_BLUE_FLOWER",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ARCH_PLANTS",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\n草木のアーチは、シンプルではあるが\n見ばえは十分だな。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GAZEBO",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PERGOLA",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FAN_PERGOLA",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_WOOD_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_STONE_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_BAMBOO_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_RED_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_GREEN_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n緑というのは、目にやさしい色なんだ。\nだから人は、植物を見ているだけで\nいやしを感じたりする。\n<PAGE>\n<FACE_LAUGH>柵でも、植物ほどではなくても\n相応の効果が得られるだろう。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_BLUE_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_YELLOW_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_PINK_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_PURPLE_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_WHITE_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_BLACK_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_GOLD_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_SILVER_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_MILK_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_HAIR_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GUARD_POLE_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_CHAIN_POLE_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WALL_WOOD_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WALL_STONE_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WALL_BRICK_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいデザインじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COLOR_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nここは、緑の置物が多くていいな。\n緑は、わたしの好きな色なんだ。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COLOR_2",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nわたしは、派手な色を好まないから\nこういった落ち着いた色合いが\n中心になっている方が好感が持てるよ。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ATMOSPHERE_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nこのあたりは、何だか\n南国の雰囲気が強い気がするな。\n<PAGE>\n南国なんて、そうそう行ける国じゃ\nないから、こうして気分だけでも\n味わえるのはいいことだと思う。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ATMOSPHERE_2",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nこのドクトクの雰囲気は\nわたしの好みに合うらしい。\nずいぶんと居心地よく感じるよ。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COMBO_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nここは、ほかの場所以上に\nのどかな雰囲気があっていいな。\n気にいったよ。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COMBO_2",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nすごい数の像だな。\nどれも、それぞれの動物の特徴を\nよくとらえたいい作品だ。"
+    },
+    {
+      "VardId": "貿易関係ＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_TRADE_ASIA",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_TRADE_ALPS",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_TRADE_JAPAN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_TRADE_USA",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_TRADE_EU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_TRADE_SOUTHERN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_TRADE_SOUTH_POLE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "陣取り関係ＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_PLACE_GOOD",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_PLACE_BEST",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "町の発展MSG　//特定住人専用会話",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MOVE_OUT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_TOWN_POPULARITY_BEST",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n最近、山を歩いている時に\n観光客らしき人から町に行くための\n道を聞かれることが多いんだ。\n<PAGE>\nおそらくみんな、この町の貿易が\n非常に盛んだというウワサを\n聞きつけて見に来ているんだろうな。"
+    },
+    {
+      "VardId": "MES_TOWN_POPULARITY_BETTER",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nさっき、貿易ステーションをのぞいたら\n店が増えているような気がしたんだが…\nわたしの気のせいか？"
+    },
+    {
+      "VardId": "MES_AREA_TOWN_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n貿易が盛んになったら\nめずらしい植物を目にする機会も\n増えるだろうか…？"
+    },
+    {
+      "VardId": "MES_AREA_TOWN_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nたとえ貿易に来る人が少なくても\n町に貿易というシステムがある限り\n栄える可能性はゼロじゃない…と思う。\n<PAGE>\nつまり、どうなっていくかは住人の\nがんばりにかかっているということだな。\nあきらめない限り、希望はあるだろう。"
+    },
+    {
+      "VardId": "MES_AREA_TOWN_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nこの町は、聞いていた話よりも\n悪くない町だという印象だ。\n<PAGE>\n<FACE_LOSS>出入りする人間が少ないから\nほとんど想像だけで勝手に町の印象が\n決められてしまっているんだろう。\n<PAGE>\n知らないだけならいいが\n勝手に悪いイメージを作られたのでは\nたまらないな…。"
+    },
+    {
+      "VardId": "MES_AREA_TOWN_03",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nこの町に来ることが出来て\n本当に良かった。\n<PAGE>\n貿易があるというのはやはり強みだな。\nおかげで、入手がむずかしい植物の\n種も得ることが出来て、うれしいよ。"
+    },
+    {
+      "VardId": "町ブラ専用MSG　//モブ専用会話",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MOB_RETURN_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n帰宅中（知名度低）"
+    },
+    {
+      "VardId": "MES_MOB_RETURN_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n帰宅中（知名度中）"
+    },
+    {
+      "VardId": "MES_MOB_RETURN_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n帰宅中（知名度高）"
+    },
+    {
+      "VardId": "MES_MOB_RETURN_03",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n帰宅中（知名度最高）"
+    },
+    {
+      "VardId": "MES_MOB_GUILD_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nギルドにいる時１"
+    },
+    {
+      "VardId": "MES_MOB_GUILD_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nギルドにいる時２"
+    },
+    {
+      "VardId": "MES_MOB_TALKING_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n会話中"
+    },
+    {
+      "VardId": "MES_MOB_SHOPPING_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n買物中"
+    },
+    {
+      "VardId": "MES_MOB_POPULARITY_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n町の知名度低"
+    },
+    {
+      "VardId": "MES_MOB_POPULARITY_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n町の知名度中"
+    },
+    {
+      "VardId": "MES_MOB_POPULARITY_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n町の知名度高"
+    },
+    {
+      "VardId": "MES_MOB_POPULARITY_03",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n町の知名度最高"
+    },
+    {
+      "VardId": "メイド、下僕用MSG　//モブ専用会話",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MAID_SLEEP",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n睡眠中（寝言）"
+    },
+    {
+      "VardId": "MES_MAID_SLEEPY",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n就寝時刻を過ぎているときのメッセージ"
+    },
+    {
+      "VardId": "MES_MAID_MASTER_MEAL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nお嬢が食事中"
+    },
+    {
+      "VardId": "MES_MAID_ANIMAL_CARE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n動物小屋にいる時"
+    },
+    {
+      "VardId": "MES_MAID_CHICKEN_CARE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n鶏小屋にいる時"
+    },
+    {
+      "VardId": "MES_MAID_FIELD_WORK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n畑仕事中"
+    },
+    {
+      "VardId": "MES_MAID_MASTER_BEFORE_REFORM_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nお嬢改心前１"
+    },
+    {
+      "VardId": "MES_MAID_MASTER_BEFORE_REFORM_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nお嬢改心前２"
+    },
+    {
+      "VardId": "MES_MAID_MASTER_BEFORE_REFORM_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nお嬢改心前３"
+    },
+    {
+      "VardId": "MES_MAID_MASTER_AFTER_REFORM_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nお嬢改心後１"
+    },
+    {
+      "VardId": "MES_MAID_MASTER_AFTER_REFORM_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nお嬢改心後２"
+    },
+    {
+      "VardId": "MES_MAID_MASTER_AFTER_REFORM_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nお嬢改心後３"
+    },
+    {
+      "VardId": "追加メッセージ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_03",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\n<MYNAME>、\n今日は何の日か知ってるか？\n<PAGE>\n今夜、<MYNAME>が家のドアを\n開けると、きっといいことが起こる。\n<PAGE>\n<FACE_NORMAL>だから、あまり遅くなっちゃ\nダメだからな。"
+    }
+  ]
+}

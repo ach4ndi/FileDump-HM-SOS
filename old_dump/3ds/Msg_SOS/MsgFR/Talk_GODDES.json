@@ -1,0 +1,842 @@
+﻿{
+  "Date": "2016-06-10T19:21:59.7753648+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_FIRST_MEETING",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nOh, bonjour. Comment tu t'appelles ?\n... Hmmm, est-ce que tu es <gender male=\"le\" female=\"la\"> <MYNAME> qui\nvient d'emménager dans la nouvelle ferme ?\n<PAGE>\nJe m'appelle Dessie. Ravie de te rencontrer."
+    },
+    {
+      "VardId": "MES_MORNING_00",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nBonjour, <MYNAME>."
+    },
+    {
+      "VardId": "MES_MORNING_01",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nBonjour, <MYNAME>. Tu vas travailler ?\nMoi je vais me balader."
+    },
+    {
+      "VardId": "MES_MORNING_02",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nBonjour, <MYNAME>. Le programme du jour\nc'est \"Entraîne-toi à te transformer en lapin\".\nEnfin en tout cas pour moi, ça l'est."
+    },
+    {
+      "VardId": "MES_AFTERNOON_00",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nCoucou, <MYNAME>."
+    },
+    {
+      "VardId": "MES_AFTERNOON_01",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nTu veux bien m'excuser ?\nJe suis en plein apprentissage."
+    },
+    {
+      "VardId": "MES_AFTERNOON_02",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_SAD>\n<MYNAME>, tu me vois, là ?\n<PAGE>\n... Oooh, ça veut dire que ma magie a pas\nfonctionné. *sanglote*"
+    },
+    {
+      "VardId": "MES_EVENING_00",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nBonsoir, <MYNAME>."
+    },
+    {
+      "VardId": "MES_EVENING_01",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nBonsoir <MYNAME>. L'entraînement du jour\nest bientôt terminé."
+    },
+    {
+      "VardId": "MES_EVENING_02",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nBonsoir, <MYNAME>. Il faut que je retourne\ndans ma maison du lac."
+    },
+    {
+      "VardId": "MES_LOVER_MORNING_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_MORNING_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_MORNING_02",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_AFTERNOON_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_AFTERNOON_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_AFTERNOON_02",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_EVENING_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_EVENING_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_EVENING_02",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_MORNING_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_MORNING_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_MORNING_02",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_AFTERNOON_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_AFTERNOON_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_AFTERNOON_02",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_EVENING_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_EVENING_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_EVENING_02",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_SPRING",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nC'est une belle journée aujourd'hui, non ?"
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_SPRING",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nJ'aime bien les journées pluvieuses parfois.\nGrâce à elles, la forêt est heureuse,\ncomme elle l'est maintenant."
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_SUMMER",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nIl fait vraiment chaud aujourd'hui, non ? Mais\nbien sûr, il faut que je fasse comme si ça ne me\ndérangeait pas. Je suis Dessie, après tout."
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_SUMMER",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nIl fera bien meilleur une fois que toute cette\npluie sera tombée."
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_AUTUMN",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nC'est une belle journée, non ?\nHmmm, si rafraîchissante..."
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_AUTUMN",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nHmmm,  qu'est-ce que je vais faire de toute\ncette pluie... Oh je sais ! Je vais essayer de\nl'arrêter en guise d'apprentissage !♪"
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_WINTER",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nIl fait un temps sublime ! De toute façon, même\ns'il faisait froid, je serais toujours habillée de la\nmême façon. Je suis Dessie, après tout."
+    },
+    {
+      "VardId": "MES_WEATHER_SNOW",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nAtchoum... Oooh, je n'aime pas la neige.\nC'est tellement froid."
+    },
+    {
+      "VardId": "MES_WEATHER_TYPHOON",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nJe me demande si c'est Witchie qui a invoqué\ncette tempête..."
+    },
+    {
+      "VardId": "MES_WEATHER_HEAVYSNOW",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nTu as tellement d'énergie. Tu as bravé toute\ncette neige juste pour me dire bonjour."
+    },
+    {
+      "VardId": "MES_MARRIAGE_WEATHER_TYPHOON",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_WEATHER_HEAVYSNOW",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_BLESSING_LOVER",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\n<cap><MYNAME>, tu m'as l'air de très bonne humeur\nces derniers temps.\n<PAGE>\nEt je sais pourquoiii ! Comment je sais ?\nAllons, je suis Dessie, après tout."
+    },
+    {
+      "VardId": "MES_SCHEDULE_RESTAURANT_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_SCHEDULE_RESTAURANT_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_HOUSE_FRIEND",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nWitchie est tellement gentille avec moi. Elle me\nlaisse être sa servante, et j'apprends un peu de\nmagie en la regardant faire.♪"
+    },
+    {
+      "VardId": "MES_HOUSE_PINPOINT_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_HOUSE_PINPOINT_02",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_00",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nC'est l'endroit que je préfère pour exercer ma\nmagie."
+    },
+    {
+      "VardId": "MES_AREA_FOREST_01",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nLes lutins me rendent la vie facile et amusante.\nMais ils peuvent devenir si bruyants, parfois..."
+    },
+    {
+      "VardId": "MES_AREA_RIVER_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_AREA_FARM_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_AREA_FARM_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_AREA_OTHER_00",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nOuuuf... Ça fatigue de marcher, non ?"
+    },
+    {
+      "VardId": "MES_AREA_OTHER_01",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nEn fait, les déesses ne se déplacent pas en\nmarchant, généralement."
+    },
+    {
+      "VardId": "MES_HEART_WHITE",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nTu travailles dans une ferme, n'est-ce pas ?\n<PAGE>\nEt tu vis en haut de la montagne ? Super !\nJ'espère te croiser bientôt.♪"
+    },
+    {
+      "VardId": "MES_HEART_PURPLE",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nJe peux me transformer en n'importe quel\nanimal, parce que je suis Dessie !\n<PAGE>\n<FACE_SAD>... Parfois, je n'y arrive pas cela dit, et je me\ntransforme en quelque chose de moche et\ndégoûtant. Ça me rend toujours si triste..."
+    },
+    {
+      "VardId": "MES_HEART_BLUE",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nC'est très dur d'être une apprentie déesse,\nparce que tu dois être douée PARTOUT.\n<PAGE>\nParfois, quand je suis fatiguée, je ne m'entraîne\npas très bien, et après je me sens vraiment\ndéprimée.\n<PAGE>\nMais quand je vais discuter avec Witchie, elle\nme remonte tout de suite le moral !♪\nWitchie est géniale."
+    },
+    {
+      "VardId": "MES_HEART_GREEN",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nTu connais Gaïa ? C'est ma grande sœur.\n<PAGE>\nC'est une grande déesse.\nElle exauce touuus tes souhaits.\n<PAGE>\nJe veux apprendre à exaucer les vœux des gens\nde la même manière qu'elle."
+    },
+    {
+      "VardId": "MES_HEART_YELLOW",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nDonc si tu me parles, c'est que tu crois en moi,\nn'est-ce pas ? En moi et à mes semblables ?\n<PAGE>\nParfois, j'ai peur que les gens ne croient plus du\ntout en nous.\n<PAGE>\n... Ça me rend vraiment triste d'y penser."
+    },
+    {
+      "VardId": "MES_HEART_ORANGE",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nJ'étais juste une déesse en apprentissage quand\nles autres m'ont abandonnée.\n<PAGE>\nAlors je suis venue ici pour m'entraîner toute\nseule.\n<PAGE>\nMais c'est comme ça que je suis devenue la\nservante de Witchie, alors tout s'est arrangé !♪"
+    },
+    {
+      "VardId": "MES_HEART_RED",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nHé, écoute, <MYNAME>, tu m'as offert tellement\nde cadeaux.\n<PAGE>\nJ'apprécie beaucoup ta générosité... mais je suis\ndésolée, je ne peux pas exaucer ton souhait.\nJ'ai honte de moi.\n<PAGE>\nUn jour, quand j'aurai appris à être une grande\ndéesse, j'exaucerai tous tes souhaits. Alors,\ns'il te plaît, fais preuve d'un peu de patience."
+    },
+    {
+      "VardId": "MES_LOVER_HEART_WHITE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_PURPLE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_BLUE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_GREEN",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_YELLOW",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_ORANGE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_RED",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_WHITE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_PURPLE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_BLUE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_GREEN",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_YELLOW",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_ORANGE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_RED",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVERS_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVERS_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVERS_02",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_ENGAGEMENT",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_02",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_03",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_02",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_03",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_PRESENT_BEST",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nMerci beaucoup. C'est ce que je préfère, mais\nest-ce que tu peux l'offrir au lac, s'il te plaît ?\n<PAGE>\nJe pense que quelque chose de magnifique\npourrait arriver si tu le faisais."
+    },
+    {
+      "VardId": "MES_PRESENT_VERY",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nMerci beaucoup. Ça me plaît beaucoup, mais\nest-ce que tu peux l'offrir au lac, s'il te plaît ?\n<PAGE>\nJe pense que quelque chose de magnifique\npourrait arriver si tu le faisais."
+    },
+    {
+      "VardId": "MES_PRESENT_LIKE",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nMerci beaucoup. Ça me plaît, mais est-ce que\ntu peux l'offrir au lac, s'il te plaît ?\n<PAGE>\nJe pense que quelque chose de magnifique\npourrait arriver si tu le faisais."
+    },
+    {
+      "VardId": "MES_PRESENT_NORMAL",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nMerci beaucoup. Mais est-ce que tu peux\nl'offrir au lac, s'il te plaît ?\n<PAGE>\nJe pense que quelque chose de magnifique\npourrait arriver si tu le faisais."
+    },
+    {
+      "VardId": "MES_PRESENT_DISLIKE",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nMerci pour le geste, mais, euh, je n'aime pas\nvraiment ce genre de choses, donc ne l'offre\npas au lac comme tu le fais d'habitude...\n<PAGE>\n<FACE_SAD>... Parce que ça me rendrait très triste."
+    },
+    {
+      "VardId": "MES_PRESENT_HATE",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nMerci beaucoup pour le geste, mais... je n'aime\nvraiment pas ce genre de choses, donc ne l'offre\npas au lac comme tu le fais d'habitude...\n<PAGE>\n<FACE_SAD>... Parce que ça me ferait pleurer."
+    },
+    {
+      "VardId": "MES_PRESENT_WORST",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nMerci beaucoup pour le geste, mais, euh, je\ndéteste vraiment ce genre de choses donc ne\nl'offre pas au lac comme tu le fais d'habitude...\n<PAGE>\n<FACE_SAD>... Parce que ça me ferait pleurer."
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_VERY",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nMerci beaucoup. Ça me plaît beaucoup, mais\nest-ce que tu peux l'offrir au lac, s'il te plaît ?\n<PAGE>\nJe pense que quelque chose de magnifique\npourrait arriver si tu le faisais."
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_LIKE",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nMerci beaucoup. Ça me plaît, mais est-ce que tu\npeux l'offrir au lac, s'il te plaît ?\n<PAGE>\nJe pense que quelque chose de magnifique\npourrait arriver si tu le faisais."
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_NORMAL",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nMerci beaucoup. Mais est-ce que tu peux\nl'offrir au lac, s'il te plaît ?\n<PAGE>\nJe pense que quelque chose de magnifique\npourrait arriver si tu le faisais."
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_WORST",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_VERY",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_LIKE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_NORMAL",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_DISLIKE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_HATE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_WORST",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_PRESENT_RESERVE",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nOh, si tu veux me faire une offrande, tu peux\njeter quelque chose dans le lac."
+    },
+    {
+      "VardId": "MES_LOVER_PRESENT_RESERVE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_PRESENT_RESERVE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_PRESENT_SECONDTIME",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nOh, si tu veux me faire une offrande, tu peux\njeter quelque chose dans le lac."
+    },
+    {
+      "VardId": "MES_LOVER_PRESENT_SECONDTIME",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_PRESENT_SECONDTIME",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_BEST",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nMerci beaucoup. C'est ce que je préfère, mais\nest-ce que tu peux l'offrir au lac, s'il te plaît ?\n<PAGE>\n<FACE_LAUGH>Oh, c'est un cadeau pour mon anniversaire ?\nAlors je veux bien le prendre."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_VERY",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nMerci beaucoup. Ça me plaît beaucoup, mais\nest-ce que tu peux l'offrir au lac, s'il te plaît ?\n<PAGE>\n<FACE_LAUGH>Oh, c'est un cadeau pour mon anniversaire ?\nAlors je veux bien le prendre."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_LIKE",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nMerci beaucoup. Ça me plaît, mais est-ce que\ntu peux l'offrir au lac, s'il te plaît ?\n<PAGE>\n<FACE_LAUGH>Oh, c'est un cadeau pour mon anniversaire ?\nAlors je veux bien le prendre."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_NORMAL",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nMerci beaucoup. Mais est-ce que tu peux\nl'offrir au lac, s'il te plaît ?\n<PAGE>\n<FACE_LAUGH>Oh, c'est un cadeau pour mon anniversaire ?\nAlors je veux bien le prendre."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_DISLIKE",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nMerci beaucoup pour le geste, mais, euh, je\nn'aime pas vraiment ce genre de choses...\n<PAGE>\n<FACE_SAD>Oh, c'est un cadeau pour mon anniversaire ?\nBon, alors je n'ai pas vraiment le choix. Si... ?\nNon, alors je le prends."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_HATE",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_SAD>\nQuoi ? Non, je déteste ça ! Je n'en veux pas...\n<PAGE>\nOh, c'est un cadeau pour mon anniversaire ?\nA-alors je vais le prendre... mais je n'en ai pas\nbesoin."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_WORST",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_SAD>\nQuoi ? Non, je déteste vraiment ça !\nJe n'en veux pas...\n<PAGE>\nOh, c'est un cadeau pour mon anniversaire ?\nA-alors je vais le prendre... mais je n'en ai pas\nbesoin."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_VERY",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nMerci beaucoup. Ça me plaît beaucoup, mais\nest-ce que tu peux l'offrir au lac, s'il te plaît ?\n<PAGE>\n<FACE_LAUGH>Oh, c'est un cadeau pour mon anniversaire ?\nAlors je veux bien le prendre."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_LIKE",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nMerci beaucoup. Ça me plaît, mais est-ce que\ntu peux l'offrir au lac, s'il te plaît ?\n<PAGE>\n<FACE_LAUGH>Oh, c'est un cadeau pour mon anniversaire ?\nAlors je veux bien le prendre."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_NORMAL",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nMerci beaucoup. Mais est-ce que tu peux\nl'offrir au lac, s'il te plaît ?\n<PAGE>\n<FACE_LAUGH>Oh, c'est un cadeau pour mon anniversaire ?\nAlors je veux bien le prendre."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_VERY",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_LIKE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_NORMAL",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_DISLIKE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_HATE",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_WORST",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_RABBIT",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nYiiih ! Ce lapin est trop mignon !\n<PAGE>\nJe me demande si je pourrais me transformer en\nun lapin aussi mignon que lui."
+    },
+    {
+      "VardId": "MES_LARGE_HEN",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_FLOWER_FESTIVAL",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nMerci beaucoup. Ça me plaît, mais est-ce que\ntu peux l'offrir au lac, s'il te plaît.\n<PAGE>\n<FACE_LAUGH>Oh, c'est un cadeau pour la Foire aux Fleurs ?\nAlors je veux bien le prendre."
+    },
+    {
+      "VardId": "MES_LOVER_FLOWER_FESTIVAL",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FLOWER_FESTIVAL",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_THANKSGIVIING_FESTIVAL_S",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_THANKSGIVIING_FESTIVAL_S",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_THANKSGIVIING_FESTIVAL_S",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_THANKSGIVIING_FESTIVAL_W",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_THANKSGIVIING_FESTIVAL_W",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_THANKSGIVIING_FESTIVAL_W",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nUne plume bleue... C'est ce que tu offres à la\npersonne que tu veux demander en mariage.\n<PAGE>\nAaaw, je te souhaite énormément de bonheur !"
+    },
+    {
+      "VardId": "MES_LOVER_BLUE_SHUTTLECOCK",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_EVENT_BLUE_SHUTTLECOCK",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_PROPOSAL_BLUE_SHUTTLECOCK",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_BLUE_SHUTTLECOCK",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_ANGER_BLUE_SHUTTLECOCK",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_RING",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nUne bague ?! C'est un symbole d'amour unique.\nTu devrais l'offrir à quelqu'un qui t'es cher."
+    },
+    {
+      "VardId": "MES_EVENT_RING",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_RING",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_RING",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_ANGER_RING",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_PRESENT_LAPPING_LIKE ",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nOooh, quel joli paquet cadeau.\nQu'est-ce qu'il y a dedans ?"
+    },
+    {
+      "VardId": "MES_PRESENT_LAPPING",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nOh, il y a quelque chose d'emballé à l'intérieur,\nn'est-ce pas ? Je me demande ce que c'est."
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_00",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nJoyeux anniversaire, <MYNAME> !\nCe cadeau vient de moi !"
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_01",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nC'est ton anniversaire, pas vrai, <MYNAME> ?\nJoyeux anniversaire."
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_02",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_GIFT_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_GIFT_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LOVER_GIFT_02",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_LONG_INTERVAL",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nOh, <MYNAME>... Ça fait tellement longtemps\nqu'on a pas discuté. Tu as eu beaucoup de\ntravail ?"
+    },
+    {
+      "VardId": "MES_LOVER_LONG_INTERVAL",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRAGE_LONG_INTERVAL",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_SAFARI_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_SAFARI_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MARRIAGE_SAFARI_02",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_CLOTHES_12",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nCette tenue te va bien. La jupe rouge est jolie.♪"
+    },
+    {
+      "VardId": "MES_CLOTHES_20",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nLes vêtements roses sont jolis et mignons,\nn'est-ce pas ?♪"
+    },
+    {
+      "VardId": "MES_CLOTHES_28",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nCette tenue est siii jolie. Elle te va très bien.♪"
+    },
+    {
+      "VardId": "MES_CLOTHES_38",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nOuah, tu as l'air totalement <gender male=\"différent\" female=\"différente\"> dans ces\nvêtements. Tu es adorable.♪"
+    },
+    {
+      "VardId": "MES_CLOTHES_48",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nOuah, quelle belle robe.\nJ'aime les couleurs franches.♪"
+    },
+    {
+      "VardId": "MES_CLOTHES_49",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nOuah, quelle belle tenue.\nJ'aime les couleurs franches.♪"
+    },
+    {
+      "VardId": "MES_CLOTHES_61",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nOuah, quelle belle robe.\nJ'aime les couleurs franches.♪"
+    },
+    {
+      "VardId": "MES_CLOTHES_72",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nC'est une très belle jupe. Très jolie.♪"
+    },
+    {
+      "VardId": "MES_CLOTHES_95",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nOuah, ce pull a l'air bien chaud ! Et j'aime bien\nla couleur, aussi. Il est très beau."
+    },
+    {
+      "VardId": "MES_CLOTHES_96",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\n<MYNAME>, cette veste vert-citron te va très\nbien. Ah, j'aimerais bien pouvoir me déguiser\naussi."
+    },
+    {
+      "VardId": "MES_CLOTHES_104",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nJ'aime la couleur de ce sweat à capuche.\nOn dirait une fraise !♪"
+    },
+    {
+      "VardId": "MES_CLOTHES_123",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nOuah, ce pull a l'air chaud ! La couleur me fait\npenser au soleil."
+    },
+    {
+      "VardId": "MES_CLOTHES_131",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nOuah, <MYNAME>. Tu es <gender male=\"venu\" female=\"venue\"> me rendre\nhommage ? J'aime ton attitude.\n<PAGE>\n... Hm ? Tu n'es pas là pour ça ? Vraiment ?\nOh..."
+    },
+    {
+      "VardId": "MES_CLOTHES_136",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nOh, c'est ce que portent les ninjas, pas vrai ?\nBien sûr que je sais ce qu'est un ninja.\nJe suis une déesse.♪\n<PAGE>\nAvant, au Pays des sakuras, il y avait des gens\nqui vivaient dans l'ombre. C'est Torque qui m'a\nappris ça."
+    },
+    {
+      "VardId": "MES_CLOTHES_141",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nOh, c'est une robe chinoise ! Splendide !\nElle est vraiment belle !\n<PAGE>\nJ'ai vraiment hâte de grandir. Moi aussi je serai\ntrès belle."
+    },
+    {
+      "VardId": "MES_CLOTHES_143",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\n<MYNAME>, cette tenue que tu portes est\nvraiment dingue."
+    },
+    {
+      "VardId": "MES_CLOTHES_146",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\n<MYNAME>, tu as l'air <gender male=\"différent\" female=\"différente\"> de d'habitude.\n<PAGE>\n<FACE_SAD>Hein ? Ce sont des vêtements de travail ?\n<PAGE>\nLes vêtements des humains me perturbent\nparfois..."
+    },
+    {
+      "VardId": "MES_CLOTHES_152",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nQ-q-quoiii ? Toi aussi tu sais utiliser la magie ?\nC'est génial ! Tu es un humain qui peut se\ntransformer en...\n<PAGE>\n... Oh, c'est un déguisement ? Oh, je vois.\nC'est logique en fait. Je pensais\nque c'était de la magie."
+    },
+    {
+      "VardId": "MES_CLOTHES_153",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nQ-q-quoiii ? Toi aussi tu sais utiliser la magie ?\nC'est génial ! Tu es un humain qui peut se\ntransformer en...\n<PAGE>\n... Oh, c'est un déguisement ? Oh, je vois.\nC'est logique en fait. Je pensais\nque c'était de la magie."
+    },
+    {
+      "VardId": "MES_CLOTHES_154",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nQ-q-quoiii ? Toi aussi tu sais utiliser la magie ?\nC'est génial ! Tu es un humain qui peut se\ntransformer en...\n<PAGE>\n... Oh, c'est un déguisement ? Oh, je vois.\nC'est logique en fait. Je pensais\nque c'était de la magie."
+    },
+    {
+      "VardId": "MES_CLOTHES_155",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nQ-q-quoiii ? Toi aussi tu sais utiliser la magie ?\nC'est génial ! Tu es un humain qui peut se\ntransformer en...\n<PAGE>\n... Oh, c'est un déguisement ? Oh, je vois.\nC'est logique en fait. Je pensais\nque c'était de la magie."
+    },
+    {
+      "VardId": "MES_CLOTHES_156",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nQ-q-quoiii ? Toi aussi tu sais utiliser la magie ?\nC'est génial ! Tu es un humain qui peut se\ntransformer en...\n<PAGE>\n... Oh, c'est un déguisement ? Oh, je vois.\nC'est logique en fait. Je pensais\nque c'était de la magie."
+    },
+    {
+      "VardId": "MES_CLOTHES_157",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nOuah, ça te va vraiment bien !"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_6",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nCe chapeau te va très bien. Il est rouge et joli.♪"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_11",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nCe chapeau te va très bien. J'aime beaucoup sa\ncouleur verte.♪"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_16",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nOh, toi aussi tu mets des fleurs dans tes\ncheveux ! On peut être jumelles de cheveux !♪"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_17",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nOuah, ce chapeau est joli. On dirait un magicien."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_25",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nOuah, ce chapeau est joli ! On dirait de la peau\nde vache ! Un peu sauvage, mais plutôt joli.♪"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_30",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nQu'est-ce qu'il y a, <MYNAME> ? Tu as raté ta\ntransformation ou quoi ? Tu as toujours des\noreilles de chats sur la tête."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_38",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\nOuah, c'est un très joli chapeau.♪Les humains\npeuvent porter tout plein de chapeaux.\nJe suis un peu jalouse."
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_02",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_CANCEL",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_OK",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_MEAL_01",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_GREEN",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_GRANDMA_MONEY_00",
+      "Text": "…"
+    },
+    {
+      "VardId": "MES_PRESENT_CANNOT",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\nOh, si tu veux me faire une offrande, tu peux\njeter quelque chose dans le lac."
+    }
+  ]
+}

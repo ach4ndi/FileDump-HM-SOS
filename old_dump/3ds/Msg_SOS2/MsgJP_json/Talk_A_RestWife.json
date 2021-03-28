@@ -1,0 +1,3910 @@
+﻿{
+  "Date": "2016-06-25T01:44:51.0292368+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_MAN_FIRST_MEETING",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあなた…もしかしてフランクさんの\nしんせきの<_____MYNAME_____>かしら？\nふふっ、新しい子が来るって聞いていたの。\n<PAGE>\n初めまして、あたしの名前はキャリーよ。\nこの町のレストランのホール担当なの。\n<PAGE>\n<FACE_LAUGH>それにしても、フランクさんのしんせきが\nこんなにカッコイイ子だと思わなかったわ。\nおなかが空いたらぜひ店に食べにきてね。"
+    },
+    {
+      "VardId": "MES_WOMAN_FIRST_MEETING",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあなた…もしかしてフランクさんの\nしんせきの<_____MYNAME_____>かしら？\nふふっ、新しい子が来るって聞いていたの。\n<PAGE>\n初めまして、あたしの名前はキャリーよ。\nこのレストランのホール担当なの。\n<PAGE>\n<FACE_LAUGH>それにしても、フランクさんのしんせきが\nこんなにカワイイ子だと思わなかったわ〜。\nおなかが空いたらぜひ店に食べにきてね。"
+    },
+    {
+      "VardId": "MES_LONG_INTERVAL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>、久しぶりね。\nあなたと会えなくてさびしかったのよ？\nだから、時間があればまた顔を見せてね。"
+    },
+    {
+      "VardId": "MES_LOVER_LONG_INTERVAL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_LONG_INTERVAL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_PLAYER_DOWN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_ANGRY>\r\n<_____MYNAME_____>、だいじょうぶ？\nたおれたって聞いたときは\nビックリしたわ。\n<PAGE>\n仕事も大変だけれど、自分の体も\nちゃんと大事にしなきゃダメでしょう？\nあまり無理はしないようにね。"
+    },
+    {
+      "VardId": "WORKING_REQUEST_000",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "WORKING_REQUEST_001",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "WORKING_DELIVERY_000",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあたしに荷物？\n…ああ、この間注文したものね。"
+    },
+    {
+      "VardId": "WORKING_DELIVERY_001",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nありがとう、<_____MYNAME_____>。\n配達ごくろうさま♪"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_A_BRIDGE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあの橋がキレイになってよかったわ。\n前から危ないと思っていたのよね。\n<PAGE>\n<FACE_LAUGH>これからもこの町は、\nあなたがいるかぎり安心ね！\nなんてね。フフフ。"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_A_BELL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあの鐘ができたときの\nおじいちゃんを今でも忘れられないわ。\n感極まって、なみだが出ていたの。\n<PAGE>\nなんてじゅんすいな人なんだろうって\nあたしも思わず、\nつられて泣いちゃうところだったわ。"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_A_BRONZE_STATUE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nキレイにしたあの像、\nあんなにピカピカだったのね〜。\nまるで別物で、おどろいたわ。"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_A_GODDESS_STATUE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n女神さまの像ができてから\n町の人もそうでない人もよく\nあの泉に行くようになったと思うわ。\n<PAGE>\n<FACE_LAUGH>おかげさまで、いろんな人と\nたくさんあいさつするようになって\nとってもうれしい。\n<PAGE>\nこれは女神さまの\nプレゼントなのかもね♪"
+    },
+    {
+      "VardId": "MES_TOWN_COLLABO_A_RESTAURANT_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nうちの夫くんが\nあなたと作ったスイートポテト、\nとっても好評よ！\n<PAGE>\nあたしもまさか、おいもがあんなに\nおいしいスイーツなるなんて、\n考えもつかなかったわ！"
+    },
+    {
+      "VardId": "MES_TOWN_COLLABO_A_RESTAURANT_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nおじいちゃんと<_____MYNAME_____>で\n作ったミンスパイ、最高ね♪\n毎日でも食べたいくらいよ！"
+    },
+    {
+      "VardId": "MES_TOWN_COLLABO_A_PERFUME",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nお店がお休みの日は、\n時々、香水をつけるの。\n…なんで休みの日だけなのかって？\n<PAGE>\n<FACE_LAUGH>だって、香水がなくてもうちの\nお店はいつもいいにおいでしょう？\nふふっ♪"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_J_BRIDGE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_J_BATHSHOP",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_J_RELIEF",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_J_SHRINE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TOWN_COLLABO_J_TEA",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TOWN_COLLABO_J_BATH",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TOWN_COLLABO_J_ACCESSORY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_S_KITCHEN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_S_BONFIRE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_S_INN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_S_LANDING",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TOWN_COLLABO_S_FOOD",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TOWN_COLLABO_S_TEA",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TOWN_COLLABO_S_DRESS",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_WEATHER_A_SUNNY_SPRING",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n今日はあたたかくていい天気ね。\n風が吹くと花びらがおどっているのよ。\nとってもステキじゃない？"
+    },
+    {
+      "VardId": "MES_WEATHER_A_RAIN_SPRING",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nこの時期にふる雨のことを\n「花起こしの雨」ってよぶんですって。\nロマンチックよね。"
+    },
+    {
+      "VardId": "MES_WEATHER_A_SNOW_SPRING",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>、雪の日もお仕事なの？\n大変ね〜…牧場のお仕事って。\n雪がふっているから、足元に気をつけてね。"
+    },
+    {
+      "VardId": "MES_WEATHER_A_SUNNY_SUMMER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_SAD>\r\nはぁ〜…今日は暑いわねぇ…。\nすぐにノドがかわいちゃう。"
+    },
+    {
+      "VardId": "MES_WEATHER_A_RAIN_SUMMER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_ANGRY>\r\n毎日暑いから\n雨がふればすずしくなると思ったのに…\nじっとりして、むし暑いわね。"
+    },
+    {
+      "VardId": "MES_WEATHER_A_SNOW_SUMMER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>、雪の日もお仕事なの？\n大変ね〜…牧場のお仕事って。\n雪がふっているから、足元に気をつけてね。"
+    },
+    {
+      "VardId": "MES_WEATHER_A_SUNNY_AUTUMN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nふふっ、秋晴れって気持ちいいわ〜。\n秋はおいしい食べ物が多いから、\nうちの夫くんは毎日うれしそうなの。"
+    },
+    {
+      "VardId": "MES_WEATHER_A_RAIN_AUTUMN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n少し寒く感じるわ…まだ冬じゃないのにね。\nあなたもカゼをひかないように\n気をつけるのよ〜？"
+    },
+    {
+      "VardId": "MES_WEATHER_A_SNOW_AUTUMN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>、雪の日もお仕事なの？\n大変ね〜…牧場のお仕事って。\n雪がふっているから、足元に気をつけてね。"
+    },
+    {
+      "VardId": "MES_WEATHER_A_SUNNY_WINTER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nこんなにいい天気なのに寒いわね〜。\nあったかい料理がおいしい季節だわ。"
+    },
+    {
+      "VardId": "MES_WEATHER_A_RAIN_WINTER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n雨の日は特に冷えこむわね…。\nあなたもカゼをひかないように\n気をつけるのよ〜？"
+    },
+    {
+      "VardId": "MES_WEATHER_A_SNOW_WINTER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>、雪の日もお仕事なの？\n大変ね〜…牧場のお仕事って。\n雪がふっているから、足元に気をつけてね。"
+    },
+    {
+      "VardId": "MES_WEATHER_J_SUNNY_SPRING",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_WEATHER_J_RAIN_SPRING",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_WEATHER_J_SNOW_SPRING",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_WEATHER_J_SUNNY_SUMMER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_WEATHER_J_RAIN_SUMMER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_WEATHER_J_SNOW_SUMMER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_WEATHER_J_SUNNY_AUTUMN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_WEATHER_J_RAIN_AUTUMN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_WEATHER_J_SNOW_AUTUMN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_WEATHER_J_SUNNY_WINTER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_WEATHER_J_RAIN_WINTER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_WEATHER_J_SNOW_WINTER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_WEATHER_S_SUNNY_SPRING",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_WEATHER_S_RAIN_SPRING",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_WEATHER_S_SNOW_SPRING",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_WEATHER_S_SUNNY_SUMMER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_WEATHER_S_RAIN_SUMMER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_WEATHER_S_SNOW_SUMMER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_WEATHER_S_SUNNY_AUTUMN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_WEATHER_S_RAIN_AUTUMN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_WEATHER_S_SNOW_AUTUMN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_WEATHER_S_SUNNY_WINTER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_WEATHER_S_RAIN_WINTER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_WEATHER_S_SNOW_WINTER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_WEATHER_TYPHOON",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_ANGRY>\r\nあら、<_____MYNAME_____>！\n台風なのに外に出たら危ないでしょう。\nだいじょうぶだった？\n<PAGE>\n<FACE_NORMAL>ケガしてないならいいんだけど…\n今日は家で大人しくしていた方が安全だわ。"
+    },
+    {
+      "VardId": "MES_WEATHER_HEAVYSNOW",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_ANGRY>\r\nあら、<_____MYNAME_____>！\n大雪なのに外に出たら危ないでしょう。\nこごえて大変なことになってしまうわ。\n<PAGE>\n<FACE_NORMAL>今日は家で大人しくしていた方が安全よ。\n落ちついたら、ちゃーんと帰りなさいね。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_WEATHER_TYPHOON",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_WEATHER_HEAVYSNOW",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAN_MORNING_TALK_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nおはよう、<_____MYNAME_____>。\nふふっ、朝から元気なのね。\n今日も笑顔がステキだわ〜♪"
+    },
+    {
+      "VardId": "MES_MAN_MORNING_TALK_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n朝に外へ出かけるのって気持ちがいいわ。\nまだ人が少ない時間に広い町を歩くと\nなんだかトクした気分になるの。"
+    },
+    {
+      "VardId": "MES_WOMAN_MORNING_TALK_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nおはよう、<_____MYNAME_____>。\nふふっ、朝から元気なのね。\n今日も笑顔がカワイイわ〜♪"
+    },
+    {
+      "VardId": "MES_WOMAN_MORNING_TALK_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n朝に外へ出かけるのって気持ちがいいわ。\nまだ人が少ない時間に広い町を歩くと\nなんだかトクした気分になるの。"
+    },
+    {
+      "VardId": "MES_MAN_AFTERNOON_TALK_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nこんにちは、牧場の仕事はどう？\n…あら、顔が少しよごれているわ。\nちょっと動かないでね…。\n<PAGE>\n<FACE_LAUGH>……はい、キレイにとれたわよ。"
+    },
+    {
+      "VardId": "MES_MAN_AFTERNOON_TALK_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n仕事していると\nおなかが空くでしょう？\n<PAGE>\n<FACE_LAUGH>そういう時は、ぜひお店に食べに来て。\nブラッドの料理は\nおいしいんだから〜！"
+    },
+    {
+      "VardId": "MES_WOMAN_AFTERNOON_TALK_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nこんにちは、牧場の仕事はどう？\n…あら、かみの毛がはねてるわ。\nちょっと動かないでね…。\n<PAGE>\n<FACE_LAUGH>……はい、元通り。\nさっきよりもかわいくなったわ♪"
+    },
+    {
+      "VardId": "MES_WOMAN_AFTERNOON_TALK_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n仕事していると\nおなかが空くでしょう？\n<PAGE>\n<FACE_LAUGH>そういう時は、ぜひお店に食べに来て。\nブラッドの料理は\nおいしいんだから〜！"
+    },
+    {
+      "VardId": "MES_MAN_EVENING_TALK_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nこんばんは、<_____MYNAME_____>。\n今日のお仕事は終わったの？\nおつかれさま。"
+    },
+    {
+      "VardId": "MES_MAN_EVENING_TALK_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n夜は、しーっかりからだを休めないとね。\nいっぱいがんばっても、\nたおれちゃったら意味ないのよ。"
+    },
+    {
+      "VardId": "MES_WOMAN_EVENING_TALK_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nこんばんは、<_____MYNAME_____>。\n今日のお仕事は終わったの？\nおつかれさま。"
+    },
+    {
+      "VardId": "MES_WOMAN_EVENING_TALK_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあなたは女の子なんだから\nおそくまで出歩いちゃあぶないわよ。\n帰るときは気をつけてね。"
+    },
+    {
+      "VardId": "MES_LOVER_MORNING_TALK_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVER_MORNING_TALK_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVER_MORNING_TALK_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVER_AFTERNOON_TALK_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVER_AFTERNOON_TALK_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVER_AFTERNOON_TALK_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVER_EVENING_TALK_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVER_EVENING_TALK_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVER_EVENING_TALK_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_MORNING_TALK_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_MORNING_TALK_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_MORNING_TALK_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_AFTERNOON_TALK_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_AFTERNOON_TALK_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_AFTERNOON_TALK_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_EVENING_TALK_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_EVENING_TALK_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_EVENING_TALK_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_GREETING_WEEKDAYS_0",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nこんなに早く店に寄ってくれたのね！\nでもごめんなさい、まだ準備中なの。\n開店したらぜひ食べに来てね。"
+    },
+    {
+      "VardId": "MES_GREETING_WEEKDAYS_1",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n今日もたくさんの人が\n食べに来てくれたわ。\nいそがしいとすぐに時間が過ぎちゃうわね。"
+    },
+    {
+      "VardId": "MES_GREETING_WEEKDAYS_2",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_FEERING_GOOD_TALK_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nふふっ…あら、<_____MYNAME_____>。\n今のあたしは気分がいいの！\nつい顔もゆるんじゃうわ〜。"
+    },
+    {
+      "VardId": "MES_FEERING_GOOD_TALK_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nなにかいいことでもあったかって？\nそうなの〜、バレちゃったわね。\nだからゴキゲンなのよ♪"
+    },
+    {
+      "VardId": "MES_LOVER_FEERING_GOOD_TALK_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVER_FEERING_GOOD_TALK_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FEERING_GOOD_TALK_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FEERING_GOOD_TALK_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_FEERING_TIRED_TALK_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_SAD>\r\nはぁ…今日は気がめいっているの。\nつかれているのかしら…。"
+    },
+    {
+      "VardId": "MES_FEERING_TIRED_TALK_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_SAD>\r\n<_____MYNAME_____>、どうしたの…？\nあたし？　そうなの。\n今日はあまり調子が出なくて…。"
+    },
+    {
+      "VardId": "MES_LOVER_FEERING_TIRED_TALK_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVER_FEERING_TIRED_TALK_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FEERING_TIRED_TALK_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FEERING_TIRED_TALK_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAN_CHANGE_FEELING_GOOD",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあなたのステキな笑顔のおかげかしら。\n気分が晴れやかになったみたい。\nありがとう、<_____MYNAME_____>！"
+    },
+    {
+      "VardId": "MES_WOMAN_CHANGE_FEELING_GOOD",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあなたのカワイイ笑顔のおかげかしら。\n気分が晴れやかになったみたいなの。\nありがとう、<_____MYNAME_____>！"
+    },
+    {
+      "VardId": "MES_LOVER_CHANGE_FEELING_GOOD",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_CHANGE_FEELING_GOOD",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAN_CHANGE_FEELING_BAD",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_SAD>\r\nあら…どうしたのかしら。\n気分がよくないみたい…せっかく\n話していたのに、ごめんなさいね。"
+    },
+    {
+      "VardId": "MES_WOMAN_CHANGE_FEELING_BAD",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_SAD>\r\nあら…どうしたのかしら。\n気分がよくないみたい…せっかく\n話していたのに、ごめんなさいね。"
+    },
+    {
+      "VardId": "MES_LOVER_CHANGE_FEELING_BAD",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_CHANGE_FEELING_BAD",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TODAY_GODDESS",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n今日は女神祭ね！\n夫くんといっしょに準備を手伝ったのよ。\n今年も楽しみだわ〜♪"
+    },
+    {
+      "VardId": "MES_TODAY_RICE_EAR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TODAY_WITCH",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TODAY_GAME",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n今日はゲーム大会の日ね。\n夫くんは優勝をめざすぞ〜って\n毎年、すごくはりきっているのよ。\n<PAGE>\n<FACE_LAUGH>あたし？　あたしは\nほかの町の人と交流できる機会だし\n参加できるだけで楽しいわ。"
+    },
+    {
+      "VardId": "MES_TODAY_DRINK",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n今日はドリンク祭ね！\nあたしね、毎年夫くんが選んでくれた物を\n持ってきているのよ。\n<PAGE>\n「君には絶対これがいい！」って。\n絶対にあたしに選ばせないの。\n強引なんだけど、やさしいわよね〜♪"
+    },
+    {
+      "VardId": "MES_MAN_TODAY_FRIENDSHIP",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n今日は星夜祭ね。\nわたしはもちろん、夫くんといっしょよ。\n……ふふっ♪"
+    },
+    {
+      "VardId": "MES_WOMAN_TODAY_FRIENDSHIP",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n今日は星夜祭ね。\nわたしはもちろん、夫くんといっしょよ。\n<PAGE>\nこの日のために、\n髪もお肌の手入れもバッチリしてきたの。\n<PAGE>\n夫くんに、ぜったいに\nカワイイって言ってもらうんだから♪"
+    },
+    {
+      "VardId": "MES_LOVER_TODAY_FRIENDSHIP",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TODAY_FRIENDSHIP",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TODAY_NEW_YEAR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n今日は、新年祭ね。\n<_____MYNAME_____>がこの町の新年祭に\n参加してくれるとうれしいけれど…。\n<PAGE>\nもし他の町に決めているのなら、\nどんな過ごし方をしたのか教えてほしいわ。\nどの町の新年祭もステキなんでしょうね。"
+    },
+    {
+      "VardId": "MES_TODAY_FLOWER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>、今日は花祭りでしょ？\nはい、これ…感謝のお花。\n<PAGE>\nいつもあなたにはお世話になっているもの。\nあたしからも受け取ってくれる？\nこれからもよろしくね。"
+    },
+    {
+      "VardId": "MES_LOVER_TODAY_FLOWER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TODAY_FLOWER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TODAY_FLOWER_NOT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n今あなたに花をわたしたら\nカバンから飛び出しちゃいそうね。\n整理したら受け取ってね。"
+    },
+    {
+      "VardId": "MES_FORGET_FLOWER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nカバンは整理できた？\nそれじゃ、いつもありがとう。"
+    },
+    {
+      "VardId": "MES_LOVER_FORGET_FLOWER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FORGET_FLOWER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TODAY_GRUEL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVER_TODAY_GRUEL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TODAY_GRUEL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TODAY_GRUEL_NOT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_FORGET_GRUEL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVER_FORGET_GRUEL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FORGET_GRUEL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TODAY_FRUIT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVER_TODAY_FRUIT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TODAY_FRUIT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TODAY_FRUIT_NOT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_FORGET_FRUIT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVER_FORGET_FRUIT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FORGET_FRUIT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_GODDESS_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n女神祭のカンパ？\nああ、あなたが集めてくれているのね。\nうーん、どうしようかしら〜…。"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_GODDESS_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nよーし、それじゃあふんぱつしちゃう！\nあなたがそこまでしてくれたんだもの。\n女神祭、楽しみにしているわ。"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_GODDESS_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nなら…これくらいでどうかしら？\n集めるの大変だけど、よろしくね。"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_GODDESS_SELECT_00",
+      "Text": "おがむ"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_GODDESS_SELECT_01",
+      "Text": "せっとくする"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_GODDESS_SELECT_02",
+      "Text": "こまる"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_GODDESS_SELECT_03",
+      "Text": "すねる"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_RICE_EAR_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_RICE_EAR_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_RICE_EAR_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_RICE_EAR_SELECT_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_RICE_EAR_SELECT_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_RICE_EAR_SELECT_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_RICE_EAR_SELECT_03",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_WITCH_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_WITCH_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_WITCH_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_WITCH_SELECT_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_WITCH_SELECT_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_WITCH_SELECT_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_WITCH_SELECT_03",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_FINISH",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_1_MORE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_2_MORE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_3_MORE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_4_MORE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_5_MORE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_6_MORE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_THREE_FORKED_ROAD_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_THREE_FORKED_ROAD_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_AMERICA_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nここは地元の人ばかりじゃなくて、\nちがう町からやってくる人も多いのよ。\nだからこんなににぎやかなのね。"
+    },
+    {
+      "VardId": "MES_MAP_AMERICA_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nこの町、他の町とくらべて\n階段が多いと思わない？\n<PAGE>\n来たばかりのころは大変だったけど、\n今はダイエットになるからって、\nポジティブな気持ちで立ち向かっているわ。"
+    },
+    {
+      "VardId": "MES_MAP_AMERICA_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n大通りとちがってしずかな場所よね。\n川のせせらぎが心地よくて…。\nふと立ち止まっちゃうの。"
+    },
+    {
+      "VardId": "MES_MAP_AMERICA_03",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n川にはよくおじいちゃんが\n釣りをしに出かけるのよ。\n<PAGE>\nもし見かけたら<_____MYNAME_____>から\n話しかけてあげるときっと喜ぶわ。"
+    },
+    {
+      "VardId": "MES_MAP_AMERICA_04",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_AMERICA_05",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_JAPAN_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_JAPAN_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_JAPAN_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_JAPAN_03",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_JAPAN_04",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_JAPAN_05",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_SOUTH_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_SOUTH_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_SOUTH_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_SOUTH_03",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_SOUTH_04",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_SOUTH_05",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_SHOOTING_STAR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n流れ星は見られてもほんのいっしゅんだけ。\nあんな短い時間で願いごとを\n言葉にするって、むずかしいわよね〜。"
+    },
+    {
+      "VardId": "MES_MAP_WINDMILL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n風車にもたくさんのデザインがあるわよね。\n羽根の部分も色んな形があるし、\nカラフルなものもあって見ててあきないわ。"
+    },
+    {
+      "VardId": "MES_MAP_MILKY_WAY_A",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>、キレイな天の川ね！\nずーっと空を見ていたくなるわ。"
+    },
+    {
+      "VardId": "MES_MAP_SNOWMAN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n子どものころ、ブラッドと雪だるまを\n作っていたらブラッドがつまづいちゃって\n坂の下まで転がっていっちゃって…。\n<PAGE>\nあわてて追いかけてさがしたらね、\nまるで雪だるまみたいに\n丸く雪に包まれて、たおれていたの。\n<PAGE>\n<FACE_ANGRY>…信じてない？\n本当の話なのに〜。\n写真をとっておけばよかったわ！"
+    },
+    {
+      "VardId": "MES_MAP_TREE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nツリーのかざりつけってわくわくしない？\nどこに、なにをかざろうかなって\n考えるだけで楽しいのよね。"
+    },
+    {
+      "VardId": "MES_MAP_WIND_BELL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_COLD_VEGETABLE_J",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_FIREFLY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_MORNING_GRLORY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_SILVER_GRASS",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_DRAGONFLY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_STRAW",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_DRIED_PERSIMMON",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_THUNDERHEAD",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_NOCTILUCA",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_MILKY_WAY_S",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_COLD_VEGETABLE_S",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_GULL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_PLAYER_HOUSE_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_PLAYER_HOUSE_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MY_HOUSE_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nうちのお店の内装、\nあたしが言うのもなんだけど…\nセンスあると思わない？\n<PAGE>\nおじいちゃんが\n経営を始めてからそのままなの。\nステキでしょう！"
+    },
+    {
+      "VardId": "MES_MY_HOUSE_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあたし、ランプ集めがシュミで\n部屋にたくさんかざらせてもらっているの。\nあなたもよかったら見ていってね。"
+    },
+    {
+      "VardId": "MES_FRIEND_HOUSE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_A_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_A_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_A_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_A_03",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_A_04",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_A_05",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_A_06",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_A_07",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_A_08",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_A_09",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_J_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_J_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_J_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_J_03",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_J_04",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_J_06",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_J_08",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_J_09",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_S_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_S_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_S_03",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_S_05",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_S_07",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_S_08",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_S_09",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOP_OPEN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVER_SCHEDULE_SHOP_OPEN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_SCHEDULE_SHOP_OPEN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOP_FREETALK_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOP_FREETALK_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOP_FREETALK_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SLEEP",
+      "Text": "<FACE_RESTAURANTWIFE>\r\n……ブラッド…あ…あぶない…。\n……だから…言ったのに………。"
+    },
+    {
+      "VardId": "MES_LOVER_SCHEDULE_SLEEP",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_SCHEDULE_SLEEP",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SICK",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVER_SCHEDULE_SICK",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_SCHEDULE_SICK",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MEAL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nごめんなさい、今食事中なの。\n話なら後で来てもらってもいいかしら？"
+    },
+    {
+      "VardId": "MES_LOVER_MEAL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MEAL_RESTAURANT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MEAL_JAPANESE_TEA",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MEAL_SOUTH_TEA",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MEAL_WITH_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nそうだ、よかったら<_____MYNAME_____>も\nいっしょに食べていかない？\n<PAGE>\nだれの料理…って\nブラッドが作ったのよ。\nあたしの料理はまた今度ね♪"
+    },
+    {
+      "VardId": "MES_MEAL_WITH_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nよかった！\nあなたの分も準備するから\nすわって待っててくれる？"
+    },
+    {
+      "VardId": "MES_MEAL_WITH_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nそう、いそがしそうだものね。\nまたいっしょに食べましょう。"
+    },
+    {
+      "VardId": "MES_LOVER_MEAL_WITH_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVER_MEAL_WITH_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVER_MEAL_WITH_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MEAL_SELECT_00",
+      "Text": "食べる"
+    },
+    {
+      "VardId": "MES_MEAL_SELECT_01",
+      "Text": "食べない"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_03",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_04",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_05",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_06",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_07",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_08",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_09",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_10",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_11",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_12",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_13",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_14",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_15",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_01",
+      "Text": "お手伝いを頼む"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_02",
+      "Text": "お手伝いを頼まない"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_CANCEL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_OK",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_RESULT_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAN_FRENDSHIP_CONVERSATION_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>、どうかしたの？\nこの町の人たちはみんな親切だから、\n困ったことがあればたよってもいいのよ。"
+    },
+    {
+      "VardId": "MES_MAN_FRENDSHIP_CONVERSATION_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n牧場の仕事って\nあたしはくわしくないから\nわからないことばかりだけど…。\n<PAGE>\nあなたたちがいてくれるから、\n店でしんせんな作物を料理に使えるのね。\n感謝しているわ。"
+    },
+    {
+      "VardId": "MES_MAN_FRENDSHIP_CONVERSATION_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n最近、うちの夫くんと話していると\nついあなたの話題を出しちゃうの！\nすごくいい子だし、よく話しているものね。\n<PAGE>\n今度、家にも遊びにきて？\n夫くんもおじいちゃんも喜ぶはずよ。"
+    },
+    {
+      "VardId": "MES_MAN_FRENDSHIP_CONVERSATION_03",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n家族で話しているとあなたの\n話題になるっていう話はしたかしら？\nでね、ついに夫くんがやきもちやいたのよ。\n<PAGE>\n<_____MYNAME_____>みたいなステキな子と\n話しているから仕方ないのかしら。\nけれど、やきもちなんて意味ないのにね〜？"
+    },
+    {
+      "VardId": "MES_MAN_FRENDSHIP_CONVERSATION_04",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>と話していると、\nなんだか弟ができたみたいでうれしいわ。\nそれくらいあなたと仲よしになったつもり。\n<PAGE>\nもしよかったらあたしのことは\nお姉さんとして接してくれてもいいのよ♪\nいつでも相談にのるからね。"
+    },
+    {
+      "VardId": "MES_WOMAN_FRENDSHIP_CONVERSATION_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>、どうかしたの？\nこの町の人たちはみんな親切だから、\n困ったことがあればたよってもいいのよ。"
+    },
+    {
+      "VardId": "MES_WOMAN_FRENDSHIP_CONVERSATION_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n牧場の仕事って\n力仕事も多いだろうし\n女の子一人じゃ大変でしょう？\n<PAGE>\nでも、あなたたちがいてくれるから、\n店でしんせんな作物を料理に使えるのね。\n感謝しているわ。"
+    },
+    {
+      "VardId": "MES_WOMAN_FRENDSHIP_CONVERSATION_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n最近、うちの夫くんと話していると\nついあなたの話題を出しちゃうの！\nすごくいい子だし、よく話しているものね。\n<PAGE>\n今度、家にも遊びにきて？\n夫くんもおじいちゃんも喜ぶはずよ。"
+    },
+    {
+      "VardId": "MES_WOMAN_FRENDSHIP_CONVERSATION_03",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n家族で話しているとあなたの\n話題になるっていう話はしたかしら？\n<PAGE>\nでね、そしたらそのとき\n夫くんが顔がゆるんでるぞ〜って。\nでもそんなの仕方ないわよね。\n<PAGE>\n<FACE_LAUGH>大好きな<_____MYNAME_____>の\nお話をしてるんだもの。\n顔だってゆるんじゃうわ。"
+    },
+    {
+      "VardId": "MES_WOMAN_FRENDSHIP_CONVERSATION_04",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>と話していると、\nなんだか妹ができたみたいでうれしいわ。\nそれくらいあなたと仲よしになったつもり。\n<PAGE>\nもしよかったらあたしのことは\nお姉さんとして接してくれてもいいのよ♪\nいつでも相談にのるからね。"
+    },
+    {
+      "VardId": "MES_LOVER_CONVERSATION_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVER_CONVERSATION_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVER_CONVERSATION_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVER_CONVERSATION_03",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVER_CONVERSATION_04",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVER_CONVERSATION_05",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_CONVERSATION_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_CONVERSATION_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_CONVERSATION_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_CONVERSATION_03",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_CONVERSATION_04",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_CONVERSATION_05",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_CONVERSATION_06",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_1_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_1_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_1_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_1_03",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_2_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_2_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_2_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_2_03",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_3_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_3_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_3_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_3_03",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_4_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_4_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_4_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_4_03",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_5_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_5_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_5_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_5_03",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_6_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_6_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_6_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_6_03",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_7_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_7_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_7_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_7_03",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_8_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_8_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_8_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_8_03",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_9_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_9_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_9_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_9_03",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_10_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_10_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_10_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_10_03",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_11_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_11_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_11_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_11_03",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_12_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_12_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_12_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_12_03",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_13_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_13_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_13_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_13_03",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_14_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_14_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_14_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_14_03",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_15_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_15_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_15_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_15_03",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_PROPOSAL_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_PROPOSAL_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_PROPOSAL_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_PROPOSAL_SELECT_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_PROPOSAL_SELECT_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_CONFESSION_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_CONFESSION_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_CONFESSION_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_CONFESSION_SELECT_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_CONFESSION_SELECT_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVERS_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVERS_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVERS_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_ENGAGEMENT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_03",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAN_BLESSING_LOVER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n聞いたわ、<_____MYNAME_____>。\n<CHARANAME0>と恋人になったんでしょう？\n<PAGE>\nカッコイイ<_____MYNAME_____>と、\nカワイイ<CHARANAME0>だもの。\nとってもお似合いだわ、おめでとう！"
+    },
+    {
+      "VardId": "MES_WOMAN_BLESSING_LOVER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n聞いたわ、<_____MYNAME_____>。\nついに恋人になったんでしょう？\n<PAGE>\n二人とも美男美女で\nとってもお似合いだわ、おめでとう！"
+    },
+    {
+      "VardId": "MES_BLESSING_LOVER_OTHER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n聞いたわ、<_____MYNAME_____>。\n恋人ができたんでしょう？\n<PAGE>\n今のあなた、幸せそうな顔しているわね。\nよかったら今度、恋人と二人で\n店に食べに来てね！"
+    },
+    {
+      "VardId": "MES_BLESSING_LOVER_FAMILY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAN_BLESSING_ENGAGEMENT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nおめでとう、<_____MYNAME_____>！\n<CHARANAME0>と婚約したんでしょう？\n町はあなたたちの話で盛り上がってるわ。\n<PAGE>\n結婚式が楽しみね。\n早くあなたたちの晴れ姿を見たいわ〜。"
+    },
+    {
+      "VardId": "MES_WOMAN_BLESSING_ENGAGEMENT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nおめでとう、<_____MYNAME_____>！\nついに婚約したのね。\n町はあなたたちの話で盛り上がってるわ。\n<PAGE>\n当日は、新郎をおどろかせちゃうくらい\nとびきりおめかししないとね？\n結婚式が楽しみだわ。"
+    },
+    {
+      "VardId": "MES_BLESSING_ENGAGEMENT_OTHER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nおめでとう、<_____MYNAME_____>！\n婚約したってウワサで聞いたのよ。\nステキな結婚式になるといいわね。"
+    },
+    {
+      "VardId": "MES_BLESSING_ENGAGEMENT_FAMILY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAN_BLESSING_MARRIAGE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>、結婚おめでとう！\nあなたたちの晴れ姿に\n思わず、みとれちゃったわ〜。\n<PAGE>\n<CHARANAME0>のこと、大切にしてあげて。\nこれからは二人で末永く幸せにね。"
+    },
+    {
+      "VardId": "MES_WOMAN_BLESSING_MARRIAGE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>、結婚おめでとう！\nあなたたちの晴れ姿に\n思わず、みとれちゃったわ〜。\n<PAGE>\nダンナさんを、妻として支えてあげてね。\nこれからは二人で末永く幸せに。"
+    },
+    {
+      "VardId": "MES_BLESSING_MARRIAGE_OTHER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>、結婚おめでとう！\nステキな結婚式だったって聞いたわ。\nこれからは二人で末永く幸せにね。"
+    },
+    {
+      "VardId": "MES_BLESSING_MARRIAGE_PRESENT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nそうだ。\n結婚祝いを持ってきたの。\nあたしからのお祝い、受け取って。"
+    },
+    {
+      "VardId": "MES_BLESSING_MARRIAGE_FAMILY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_BLESSING_MARRIAGE_FAMILY_PRESENT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAN_BLESSING_CHILD_BIRTH",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>、無事に生まれたの？\nよかった〜！　心配していたのよ。\n<CHARANAME0>も元気みたいで安心したわ。\n<PAGE>\nこれからは新しい家族と共に\nみんなで力を合わせてがんばってね！"
+    },
+    {
+      "VardId": "MES_WOMAN_BLESSING_CHILD_BIRTH",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n赤ちゃん、無事に生まれたの？\nよかった〜！　心配していたのよ。\nあなたも元気みたいで安心したわ。\n<PAGE>\n<_____MYNAME_____>は\nがんばったんだもの。\nダンナさんに、うんとあまえたらどう？\n<PAGE>\nこれからは新しい家族と共に\nみんなで力を合わせてがんばってね！"
+    },
+    {
+      "VardId": "MES_BLESSING_CHILD_BIRTH_OTHER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>！\n赤ちゃんは無事に生まれたの？\nよかった〜！　心配していたのよ。\n<PAGE>\nこれからは三人家族になるのね。\nみんなで力を合わせてがんばってね！"
+    },
+    {
+      "VardId": "MES_BLESSING_CHILD_BIRTH_PRESENT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nこれは出産祝いよ。\n受け取ってくれる？\n今度、元気な赤ちゃんに会わせてね。"
+    },
+    {
+      "VardId": "MES_BLESSING_CHILD_BIRTH_FAMILY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_BLESSING_CHILD_BIRTH_FAMILY_PRESENT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_COMING_SYSTER_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nそうそう、聞いたんだけど\n今、あなたの妹さんが来ているの？\n<PAGE>\n<FACE_LAUGH>きっと<_____MYNAME_____>に似て\nカワイイ子なんでしょうね。\nどんな子か会ってお話したいわ。"
+    },
+    {
+      "VardId": "MES_COMING_MOTHER_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nさっき、初めて見る方と\nすれちがったんだけど…\nおっとりしたキレイな女性だったわ。\n<PAGE>\n<FACE_LAUGH>そういえば、なんとなくあなたに似て…。\nえっ！？　お母さんが来ているの？\nきっとあの人だわ。キレイなお母さんね。"
+    },
+    {
+      "VardId": "MES_LOVER_GIFT_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVER_GIFT_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVER_GIFT_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_GIFT_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_GIFT_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_GIFT_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAN_PLAYER_BIRTHDAY_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n今日はあなたの誕生日でしょう？\nおめでとう。<_____MYNAME_____>。\n…ふふっ、また一段とステキになったわね。"
+    },
+    {
+      "VardId": "MES_MAN_PLAYER_BIRTHDAY_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>、\n今日はあなたの誕生日でしょう？\nおめでとう、また一段とステキになったわ。\n<PAGE>\nすばらしい年になりますように、\nあたしからも祝わせてくれるかしら？\nプレゼント、受け取ってね。"
+    },
+    {
+      "VardId": "MES_WOMAN_PLAYER_BIRTHDAY_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n今日はあなたの誕生日でしょう？\nおめでとう。<_____MYNAME_____>。\n…ふふっ、また一段とキレイになったわね。"
+    },
+    {
+      "VardId": "MES_WOMAN_PLAYER_BIRTHDAY_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>、\n今日はあなたの誕生日でしょう？\nおめでとう、また一段とキレイになったわ。\n<PAGE>\nすばらしい年になりますように、\nあたしからも祝わせてくれるかしら？\nプレゼント、受け取ってね。"
+    },
+    {
+      "VardId": "MES_LOVER_PLAYER_BIRTHDAY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_PLAYER_BIRTHDAY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_NO_EMPTY_BIRTHDAY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、カバンの中がいっぱいみたい。\n空きができるまであずかるわね。"
+    },
+    {
+      "VardId": "MES_FORGET_BIRTHDAY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nカバンの中は整理できた？\nそれじゃあ、受け取ってね！"
+    },
+    {
+      "VardId": "MES_TOWN_BIRTHDAY_PARTY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあっ、<_____MYNAME_____>！\nあなたに伝えたいことがあったのよ。\n<PAGE>\n<FACE_LAUGH><BLUE>13:00</BLUE>に、\n<GREEN>レストラン</GREEN>に来てほしいの。\n待ってるから、必ず来てね。"
+    },
+    {
+      "VardId": "MES_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nえっ、夫くんとあたしの\nプロポーズの時の話が聞きたい？\nうふふっ、どうしようかしら！\n<PAGE>\n話しだしたら、うっかり\n止まらなくなっちゃいそうだから\nまた今度時間がある時にゆっくりと、ね！"
+    },
+    {
+      "VardId": "MES_LOVER_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_BLUE_SHUTTLECOCK_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_BLUE_SHUTTLECOCK_SELECT_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_BLUE_SHUTTLECOCK_SELECT_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_BLUE_SHUTTLECOCK_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_PROPOSAL_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_PENDANT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、ステキなペンダントね♪\nわたしもブラッドにもらったペンダント、\n今も大切にもっているわ。"
+    },
+    {
+      "VardId": "MES_EVENT_PENDANT_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_PENDANT_SELECT_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_PENDANT_SELECT_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_EVENT_PENDANT_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVER_PENDANT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_PENDANT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVER_ANGER_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_ANGER_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVER_ANGER_PENDANT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_ANGER_PENDANT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_PRESENT_CANNOT_00",
+      "Text": "今はプレゼントをわたせないみたいだ。\nまた後にしよう。"
+    },
+    {
+      "VardId": "MES_PRESENT_CANNOT_01",
+      "Text": "…さっきもプレゼントをわたしたな。\nまた明日にしよう。"
+    },
+    {
+      "VardId": "MES_WRAPPING_FLOWER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nまぁ、花祭り用のラッピングね！\nうれしいわ。\nありがとう、<_____MYNAME_____>！"
+    },
+    {
+      "VardId": "MES_WRAPPING_RICE_GRUEL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_WRAPPING_FRUIT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_WRAPPING_LIKE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nまぁ、カワイイラッピングだわ〜！\nあなたはプレゼントもこっているのね。\nうれしいわ、開けてもいいかしら？"
+    },
+    {
+      "VardId": "MES_WRAPPING_NORMAL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nラッピングまでしてくれたの？\nうれしいわ。\n開けてもいいかしら？"
+    },
+    {
+      "VardId": "MES_PRESENT_BEST",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n<BLUE><____ITEMNAME0____></BLUE>…これをあたしに？\nこれは一番大好きな食べ物なのよ〜！\n<PAGE>\nあまくておいしくて、なにより上の\n星型のパイがカワイイでしょう？\nありがとう、<_____MYNAME_____>！"
+    },
+    {
+      "VardId": "MES_PRESENT_VERY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあっ、<BLUE><____ITEMNAME0____></BLUE>！\nこれ大好きなの！\nいいものをくれてありがとう！"
+    },
+    {
+      "VardId": "MES_PRESENT_LIKE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n<BLUE><____ITEMNAME0____></BLUE>をくれるの？\nありがとう、<_____MYNAME_____>。\n好きなものだからうれしいわ。"
+    },
+    {
+      "VardId": "MES_PRESENT_NORMAL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nこれをあたしに？\nわざわざありがとう、<_____MYNAME_____>。"
+    },
+    {
+      "VardId": "MES_PRESENT_DISLIKE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_SAD>\r\n気持ちだけでじゅうぶんなんだけど…。\nせっかくだから受け取っておくわ。"
+    },
+    {
+      "VardId": "MES_PRESENT_HATE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_SAD>\r\nごめんなさい、<_____MYNAME_____>。\n一応、いただいておくけれど\nあたし、<BLUE><____ITEMNAME0____></BLUE>が苦手なの。"
+    },
+    {
+      "VardId": "MES_PRESENT_WORST",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_ANGRY>\r\nきゃっ！　<BLUE><____ITEMNAME0____></BLUE>…！！\nダメーっ、これは一番キライな料理なの！\n見た目からどうしても無理なのよ。\n<PAGE>\nせっかく用意してくれたけど、\nつぎからはもう必要ないからね。"
+    },
+    {
+      "VardId": "MES_PRESENT_HUGE_VERY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n大きな<BLUE><____ITEMNAME0____></BLUE>ね〜！\nこんなに大きく育つなんて\nあなたの愛情がつまっているのね。\n<PAGE>\nあたし、<BLUE><____ITEMNAME0____></BLUE>が\n大好きなの。\nいいものをくれてありがとう！"
+    },
+    {
+      "VardId": "MES_PRESENT_HUGE_LIKE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n大きな<BLUE><____ITEMNAME0____></BLUE>ね〜！\nあたしの好きなものだからうれしいわ。\nありがとう、<_____MYNAME_____>。"
+    },
+    {
+      "VardId": "MES_PRESENT_GOLD_VERY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n<BLUE><____ITEMNAME0____></BLUE>が光りかがやいてる！\nこんなすごいものを育てられるなんて\nおどろいちゃったわ〜！\n<PAGE>\nあたし、<_____MYNAME_____>が大好きなの。\nいいものをくれてありがとう！"
+    },
+    {
+      "VardId": "MES_PRESENT_GOLD_LIKE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nキレイな<BLUE><____ITEMNAME0____></BLUE>ね〜！\n好きなものだからうれしいわ。\nありがとう、<_____MYNAME_____>。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_BEST",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n<BLUE><____ITEMNAME0____></BLUE>…これをあたしに？\nこれは一番大好きな食べ物なのよ〜！\n<PAGE>\nあまくておいしくて、なにより上の\n星型のパイがカワイイでしょう？\n<PAGE>\n誕生日に大好物をもらえるなんて\nあたしは幸せ者ね。\nありがとう、<_____MYNAME_____>！"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_VERY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあたし、この\n<BLUE><____ITEMNAME0____></BLUE>が大好きなの！\n<PAGE>\n今日は、あたしの誕生日なんだけど、\nこんないいものをもらえるなんて！\nありがとう、<_____MYNAME_____>。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_LIKE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n<BLUE><____ITEMNAME0____></BLUE>をくれるの？\nわざわざありがとう、<_____MYNAME_____>。\n<PAGE>\n誕生日に好きなものをプレゼント\nしてもらえるなんてうれしいわ〜！"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_NORMAL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nこれをあたしに？\nありがとう、<_____MYNAME_____>。\n<PAGE>\n<FACE_LAUGH>誕生日プレゼントって\nいくつになってもうれしいものね。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_DISLIKE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n誕生日プレゼント？\n気持ちだけでもうれしいのに…。\n…せっかくだから受け取っておくわ。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_HATE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_SAD>\r\nごめんなさい、<_____MYNAME_____>。\nあたし、<BLUE><____ITEMNAME0____></BLUE>が苦手なの、\n<PAGE>\nでもせっかくの誕生日プレゼントだから\nいただいておくわね。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_WORST",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_ANGRY>\r\nきゃっ！　<BLUE><____ITEMNAME0____></BLUE>…！！\nダメーっ、これは一番キライな料理なの！\n見た目からどうしても無理なのよ…。\n<PAGE>\nせっかく誕生日にくれたものだけど、\nつぎからはもうほしくないわ…。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_HUGE_VERY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n大きな<BLUE><____ITEMNAME0____></BLUE>ね〜！\nこんなに大きく育つなんて\nあなたの愛情がつまっているのね。\n<PAGE>\n今日は、あたしの誕生日なんだけど\n大好きなものをもらえるなんてうれしい！\nありがとう、<_____MYNAME_____>。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_HUGE_LIKE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n大きな<BLUE><____ITEMNAME0____></BLUE>ね〜！\nこれ、あたしの好きなものなの。\n<PAGE>\n誕生日プレゼントに\nもらえるなんてうれしいわ。\nありがとう、<_____MYNAME_____>。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_GOLD_VERY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n<BLUE><____ITEMNAME0____></BLUE>が光りかがやいてる！\nこんなすごいものを育てられるなんて\nおどろいちゃったわ〜！\n<PAGE>\n今日は、あたしの誕生日なんだけど、\n大好きなものをもらえるなんてうれしい！\nありがとう、<_____MYNAME_____>。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_GOLD_LIKE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nキレイな<BLUE><____ITEMNAME0____></BLUE>ね〜！\nこれ、あたしの好きなものなの。\n<PAGE>\n誕生日プレゼントに\nもらえるなんてうれしいわ。\nありがとう、<_____MYNAME_____>。"
+    },
+    {
+      "VardId": "MES_FLOWER_FESTIVAL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nこれは…花祭りの花よね？\n…ふふっ、なんだかてれちゃう。\nあなたに感謝してもらえるなんて。\n<PAGE>\nありがとう、<_____MYNAME_____>。\n大切にするわ。"
+    },
+    {
+      "VardId": "MES_LOVER_FLOWER_FESTIVAL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FLOWER_FESTIVAL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_FLOWER_FESTIVAL_RETURN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあたしも、あなたに花を用意していたの。\n受け取ってくれるかしら？\nいつもありがとう！　感謝をこめて。"
+    },
+    {
+      "VardId": "MES_LOVER_FLOWER_FESTIVAL_RETURN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FLOWER_FESTIVAL_RETURN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_RICE_GRUEL_FESTIVAL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVER_RICE_GRUEL_FESTIVAL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_RICE_GRUEL_FESTIVAL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_RICE_GRUEL_FESTIVAL_RETURN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVER_RICE_GRUEL_FESTIVAL_RETURN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_RICE_GRUEL_FESTIVAL_RETURN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_FRUIT_FESTIVAL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVER_FRUIT_FESTIVAL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FRUIT_FESTIVAL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_FRUIT_FESTIVAL_RETURN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVER_FRUIT_FESTIVAL_RETURN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FRUIT_FESTIVAL_RETURN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_THANKS_FESTIVAL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_THANKS_FESTIVAL_RETURN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_LOVER_THANKS_FESTIVAL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_THANKS_FESTIVAL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_PUMPKIN_FESTIVAL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、プリンをもらえるなんて、\nとってもステキだわ♪\nでも、あたしがもらっちゃって平気なの？\n<PAGE>\nそう、それなら\nエンリョなくいただくわね。\nありがとう〜！"
+    },
+    {
+      "VardId": "MES_NO_EMPTY_FESTIVAL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、カバンの中がいっぱいみたい。\n空きができるまであずかるから、\n整理したら声をかけてね。"
+    },
+    {
+      "VardId": "MES_REACTION_PRESENT_HARVEST",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>、昨日はありがとう。\n<PAGE>\n夫くんが、あなたのくれた作物で\n料理を作って食べさせてくれたんだけど\nふだんよりずっとおいしかったのよ。\n<PAGE>\nあなたがいっしょうけんめい\n育ててくれたおかげね。\n今度はあたしの料理にも使いたいわ♪"
+    },
+    {
+      "VardId": "MES_REACTION_PRESENT_COOKING",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>、昨日はありがとう。\n<PAGE>\nさっそくいただいたんだけど、\nおいしかったわ〜！\n<PAGE>\n今度、あたしに作り方を教えてくれる？\n夫くんたちに食べてもらいたくて♪"
+    },
+    {
+      "VardId": "MES_REACTION_PRESENT_FLOWER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>、昨日はありがとう。\n<PAGE>\nもらったお花を\n部屋にかざったらいい香りがして\n気持ちがいやされたみたいなの。\n<PAGE>\nあなたがいっしょうけんめい\n愛情こめて育てたおかげね。\nよかったら他のお花も見てみたいわ。"
+    },
+    {
+      "VardId": "MES_REACTION_PRESENT_PRODUCT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>、\n昨日は<BLUE><____ITEMNAME0____></BLUE>をありがとう。\n<PAGE>\nステキなものだから\nまだなにに使おうか考えているの。\n大切に使わせてもらうわ。"
+    },
+    {
+      "VardId": "MES_REACTION_PRESENT_FOOD",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>、\n昨日はプレゼントありがとう。\n<PAGE>\nあなたのくれたものを使って\nさっそく料理を作ったんだけど…\n<PAGE>\nブラッドったらおいしさのあまり、\n泣きながら喜んでくれたのよ。\nあなたのおかげね♪"
+    },
+    {
+      "VardId": "MES_REACTION_PRESENT_FLOWER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>、\n昨日はプレゼントありがとう。\n<PAGE>\n今度レストランに\nかざらせてもらうわね。"
+    },
+    {
+      "VardId": "MES_REACTION_PRESENT_OTHER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>、\n昨日はプレゼントありがとう。\n<PAGE>\nプレゼントっていくつになっても\nうれしくて心が満たされるようだわ。\nあなたがくれたもの、大切にするわね。"
+    },
+    {
+      "VardId": "MES_RETURN_PRESENT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあたしばかりもらってる気がするから、\n今日は<_____MYNAME_____>への\nプレゼントを用意したのよ。\n<PAGE>\nよろこんでもらえるか少し不安だけど…。\n受け取ってくれるかしら？"
+    },
+    {
+      "VardId": "MES_LOVER_RETURN_PRESENT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_RETURN_PRESENT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_Tosa",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_Great_Pyrenees",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_Bernese",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_Weimaraner",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_Husky",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_Doberman",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_Shepherd",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_Bull_Terrier",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_Tibetan",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_Border_Collie",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_Jack_Russell_Terrier",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_Dachshund",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nダックスフントって\n活発で運動好きな子が多いらしいわね。\nその子もそうなのかしら？\n<PAGE>\nまあでも、<_____MYNAME_____>に\n連れられて、あちこち歩いてたら、\nそのうち運動大好きになりそうね。"
+    },
+    {
+      "VardId": "MES_Beagle",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_Shiba",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_Chihuahua",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nその子、目がくりくりで\nとってもかわいいわね！"
+    },
+    {
+      "VardId": "MES_Poodle",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、あなたの連れているそのイヌ、\n小さくてモコモコしてて\nまるで動くぬいぐるみね〜。"
+    },
+    {
+      "VardId": "MES_CatA",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_CatB",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_CatC",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_CatD",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_CatE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nまぁ！　かわいい黒ネコね！\n黒ネコって言えば魔女よね〜。\n<PAGE>\n小さいころは信じていたけれど、\n魔女がホントにいたらステキよね！"
+    },
+    {
+      "VardId": "MES_CatLongHairA",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_CatLongHairB",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nこのネコ、まるっとしててかわいいわ〜。\n耳が立ってないからそう見えるのね！"
+    },
+    {
+      "VardId": "MES_CatLongHairC",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_CatLongHairD",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_CatLongHairE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_KapibaraA",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_KapibaraB",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_Cacatua",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_Turtle",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_Shoebill",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_Eagle",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_Kiji",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_RainbowBird",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_Monkey",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_Verreauxi",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_RacoonDog",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_Grizzly",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_Ermine",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあ、その子はオコジョね！\nかわいらしい顔をしてるわねぇ。"
+    },
+    {
+      "VardId": "MES_Fox",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_Sparrow",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_Chicken",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_Chicken_Huge",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_Silky",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_Silky_Huge",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_Quail",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_Quail_Huge",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_AngoraRabbitA",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_AngoraRabbitA_Huge",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_AngoraRabbitB",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_AngoraRabbitB_Huge",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_Hamutaro",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、かわいい子連れているわね。"
+    },
+    {
+      "VardId": "MES_TALK_0",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあたしの好きなもの？\nそうねぇ〜…カワイイもの…かしら。\n<PAGE>\n<FACE_LAUGH>見た目もこっている料理って\n目でも楽しめるわよね〜。\nあとは、あまい食べ物も大好きよ。"
+    },
+    {
+      "VardId": "MES_TALK_1",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nキライなものは何かって？\n…子どもっぽいってからかわれるんだけど、\n苦かったり、からいものは好きじゃないわ。\n<PAGE>\n<FACE_SAD>ほかは…自然は大好きなんだけど、\n虫がたくさんいるのは…ちょっとね。\n生魚もさわることができないの。"
+    },
+    {
+      "VardId": "MES_TALK_2",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nうちの店のケーキって、\nおじいちゃんが作ったレシピをそのまま\n今も夫くんが受けついでいるのよ。\n<PAGE>\nそれがもう、おいしくって…\n最近食べすぎちゃってるみたい。"
+    },
+    {
+      "VardId": "MES_TALK_3",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_SAD>\r\nふぅ〜…あ、<_____MYNAME_____>。\nついさっき、外で運動してきたら\nすぐにバテちゃったわ…。\n<PAGE>\n<FACE_ANGRY>でも、食べたケーキ分のカロリーは\n運動で消費しなっくっちゃ…！"
+    },
+    {
+      "VardId": "MES_TALK_4",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあたしはランプを集めるのがシュミなの。\nアンティークランプに火を灯すと、\nとっても幻想的で美しいのよ。\n<PAGE>\n雑貨屋のミランダさんにも\n時々、取り寄せてもらっているわ。"
+    },
+    {
+      "VardId": "MES_TALK_5",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n料理はレシピを見て作るときもあるわよ。\n…どうしたの？　意外そうな顔して。\n<PAGE>\n<FACE_LAUGH>味見？　しないわよ〜。\nだってレシピ通りに\n作っているのだから必要ないでしょう？\n<PAGE>\nあたしが作った料理を\n夫くんはよろこんで食べてくれるから\nうれしくってまた作りたくなるのよね〜♪"
+    },
+    {
+      "VardId": "MES_TALK_6",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nレシピを見つつ料理を作るのも楽しいけど\nたまに料理のアイデアがふってくるの。\n<PAGE>\n<FACE_LAUGH>そのときは感覚で材料や調味料を入れるわ♪\n料理に関しては夫と同じくらい\nあたしもたくさん作ってるからわかるの！\n<PAGE>\n食べてみたい？\nじゃあ今度、<_____MYNAME_____>の牧場へ\n差し入れを持って行くわね！"
+    },
+    {
+      "VardId": "MES_TALK_7",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>、牧場はどう？\n自分で育てた作物が実ったときって\nとってもうれしいんでしょうね。\n<PAGE>\n<FACE_LAUGH>あなたが作った野菜ならどれも\n全部おいしそうだわ。"
+    },
+    {
+      "VardId": "MES_TALK_8",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nうちの食事は、おじいちゃんと\nブラッドが交代で作ってくれるの。\n<PAGE>\nこの間、めずらしくあたしが作ろうと\nキッチンに立った時も\nゆっくりしとけって止められちゃって。\n<PAGE>\n結局、作ってもらっちゃった。\nやさしいわよね〜！"
+    },
+    {
+      "VardId": "MES_TALK_9",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nうちのおじいちゃんはやさしくて、\nいっしょに暮らしてからケンカなんて\n一度もしたことがないのよ。\n<PAGE>\nすごくやさしくて大好きなんだけど、\nそれが原因でダマされることも\nあるみたい…悪い人もいたものね。"
+    },
+    {
+      "VardId": "MES_TALK_10",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nおじいちゃんは、今は店のほとんどを\n夫のブラッドに任せてくれていて\nお昼には、川へ釣りに出かけているのよ。\n<PAGE>\nでも…常連のお客さんの中には、\nまだおじいちゃんの作った味が\nわすれられないっていう人もいて。\n<PAGE>\nだから少しの時間だけど、\nおじいちゃんも店で料理を作っているわ。\nそう言ってもらえてうれしいんでしょうね。"
+    },
+    {
+      "VardId": "MES_TALK_11",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nブラッドはボケているというか、\nぬけている部分があるというか…\n正義感があるのはいいことなんだけどね。\n<PAGE>\n昔、友達同士のケンカを止めようとした時、\nタイミング悪くて両方の友達から\n同時にパンチをあびせられちゃったの。\n<PAGE>\n<FACE_LAUGH>おかげでその場はおさまったけどね。\nあの時は心配したわ〜。\nでも今となっては笑い話ね。"
+    },
+    {
+      "VardId": "MES_TALK_12",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nうちの夫くんとは\n家がとなり同士の幼なじみだったの。\nそれで子どものころはよく遊んだわ。\n<PAGE>\n<FACE_LAUGH>はじめは、ドジな人だと\n思ってただけなのに…大人になると\nそこがかわいく見えてきてね。\n<PAGE>\nあたしが世話してあげなきゃって\n思ったの。"
+    },
+    {
+      "VardId": "MES_TALK_13",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nブラッドは、おじいちゃんのこの店が\nなくなってしまうのがイヤだからって、\n店をつぐことにしたの。\n<PAGE>\n自分のワガママにあたしを\n付き合わせたって思ったようだけど…。\nあたしは、この町に来てよかった。\n<PAGE>\n<FACE_LAUGH>町の人はいい人ばかりだし、\nおじいちゃんの店で働くのは楽しいし\nなによりブラッドがいるだけで幸せだもの。"
+    },
+    {
+      "VardId": "MES_TALK_14",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nこの前、夫くんが女性のお客さんに\nラブレターをもらっていたのよ。\n<PAGE>\n夫くんが断ろうと思ったらお客さんが、\n「その手紙を私の代わりにウェインさんに\nわたして頂けませんか」だって。\n<PAGE>\n夫くんとウェインは、仲いいからね。\nでも、あのまんざらじゃない顔…。\nちょっとムカッとしちゃったわ。"
+    },
+    {
+      "VardId": "MES_TALK_15",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n店のおススメは、そうねぇ…。\n<PAGE>\nやっぱり旬の食べ物を使った料理が\n特においしいかしら。\n店のメニューは季節ごとに変えているの。"
+    },
+    {
+      "VardId": "MES_TALK_16",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nフランクさんが作る野菜はおいしいわ〜。\n初めて食べたときおどろいたもの。\n<PAGE>\nやっぱり育てる人が愛情をこめると\n作物もこたえてくれるのかしらね。"
+    },
+    {
+      "VardId": "MES_TALK_17",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nメーガンさんには、\nここへ引っ越してきてから\nよくお世話になっているわ。\n<PAGE>\n<FACE_LAUGH>時間があるときは、あたしの知らない\nうちの夫くんのエピソードなんかを\n聞かせてくれるのよ。"
+    },
+    {
+      "VardId": "MES_TALK_18",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>、つかれてない？\nあなたっていつも走りまわっている\nイメージがあるのよね。\n<PAGE>\n<FACE_LAUGH>でも、そんな<_____MYNAME_____>を見ると\nあたしも元気がみなぎってくるわ！"
+    },
+    {
+      "VardId": "MES_TALK_19",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nコリンくんもノエルちゃんも、\nとってもとってもカワイイけれど…\n<PAGE>\n<FACE_SAD>初めて会った時、あたしのことを\n「おばさん」って呼んだのは\nかなりショックだったわ…。\n<PAGE>\n<FACE_ANGRY>ま、まだ身も心も若いんだから！"
+    },
+    {
+      "VardId": "MES_TALK_20",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nコリンくんは絵が上手なの。\nそれで、時々あたしにもくれたりして\nやさしくてカワイイのよ。\n<PAGE>\nお母さんがいないのはさびしいだろうけど\nそれでもこの町に来たばかりのころより\n笑顔が多くなったからあたしもうれしいわ。"
+    },
+    {
+      "VardId": "MES_TALK_21",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nミランダさんはあたしと年が近くて\n話しやすい気さくな人だから\nすぐに仲よしになったのよ。\n<PAGE>\n雑貨屋を営まれているからお店にも\nよく立ち寄らせてもらうんだけど、\nつい話が盛り上がって長くなっちゃうわ。"
+    },
+    {
+      "VardId": "MES_TALK_22",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nたまに、うちの店でソプラノ歌手だった\nミランダさんが歌ってくれるのよ。\n<PAGE>\n歌っている時は\nあたしたちもお客さんも、\nその場にいるみんなが聞き入っちゃうの。\n<PAGE>\n<FACE_LAUGH>ミランダさんの歌声はまるで魔法みたいに\n人をとりこにするパワーがあるわ。\nおじいちゃんも思わず泣いちゃうくらいね。"
+    },
+    {
+      "VardId": "MES_TALK_23",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nノエルちゃんって\nミランダさんをそのまま\n小さくしたみたいにそっくりよね。\n<PAGE>\nノエルちゃんって、いつもは\nウェインのことを「王子様みたい」って\n目をキラキラさせているんだけど…\n<PAGE>\nノエルちゃんの本当の王子様は\nじつは、コリンくんなのよね〜。\nふふっ♪　おませさんでカワイイわ。"
+    },
+    {
+      "VardId": "MES_TALK_24",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあたし洋服が大好きなの！\nだから気にいった服があると\nついつい買っちゃうわ。\n<PAGE>\nこの間は、お気にいりのデザイナーに\nオーダーメイドの服をお願いしたの。\n早く完成した服が見たいわ〜！"
+    },
+    {
+      "VardId": "MES_TALK_25",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nレストランにかざっているお花は、\nリシェットのお店で取り寄せているの。\n<PAGE>\n<FACE_LAUGH>あの子とは好みが似ているから\nお話していると楽しいわ。"
+    },
+    {
+      "VardId": "MES_TALK_26",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nユヅキは常連さんなの。\nとなりの町からよく店に来てくれるわ。\nあまい物が好きみたいね。\n<PAGE>\n中性的というか…顔立ちはキレイだし、\nあの笑顔を見るとこっちまで笑っちゃう。\nキュンときちゃう女の子も多そうね。"
+    },
+    {
+      "VardId": "MES_TALK_27",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nユヅキとヒナタはあまい物を食べに\n色んな店をおとずれるんですって。\n<PAGE>\n今度、あたしもオススメのお店を\n教えてもらおうかしら。"
+    },
+    {
+      "VardId": "MES_TALK_28",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nリシェットが花屋を始めてから、\nなんとなくこの町に男の人が増えたような…\nふふっ、気のせいかもしれないけどね。\n<PAGE>\nでも、男の人がよく花を買いに来るみたい。\n中にはリシェットとお近づきになりたくて\n店に立ち寄る人もいるみたいだけど…\n<PAGE>\n<FACE_ANGRY>あの子は世間知らずなところもあるから\n少し心配だわ〜。"
+    },
+    {
+      "VardId": "MES_TALK_29",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nフォードさんは仕事に対して真面目で、\n近寄りがたいイメージをもっているけど\nじつは女の子に人気があるの。\n<PAGE>\nでも、ウェインとはちがって\nまったく気付いていないそうよ。\n恋に関してはうといみたいね。"
+    },
+    {
+      "VardId": "MES_TALK_30",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nウェインはうちの夫くんとも仲がいいの。\n美形で、しかも皆に対してやさしいから\nどの町でも女の子にさわがれているみたい。\n<PAGE>\n<FACE_LAUGH>あたし？\nもちろん夫くんが一番よ♪"
+    },
+    {
+      "VardId": "MES_TALK_31",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TALK_32",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TALK_33",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TALK_34",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TALK_35",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TALK_36",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TALK_37",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TALK_38",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TALK_39",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TALK_40",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TALK_41",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TALK_42",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TALK_43",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TALK_44",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TALK_45",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TALK_46",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TALK_47",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TALK_48",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TALK_49",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TALK_50",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TALK_51",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TALK_52",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TALK_53",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TALK_54",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TALK_55",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TALK_56",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TALK_57",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TALK_58",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TALK_59",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TALK_60",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_TALK_61",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_FASHION_NOT_MATCH_HOT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_SAD>\r\n<_____MYNAME_____>、暑そうな服ね…。\n汗をたくさんかいているんじゃない？"
+    },
+    {
+      "VardId": "MES_FASHION_NOT_MATCH_COOL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_SAD>\r\n<_____MYNAME_____>、寒そうな服ね…。\nカゼをひかないように気をつけて。"
+    },
+    {
+      "VardId": "MES_FASHION_BASICBOYWEAR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_BASICGIRLWEAR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SALOPETTEBOY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SALOPETTEGIRL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SUSPENDERS",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_OVERALL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_JINBEIBLUE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_JINBEIBLACK",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_MATABIKI",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_MINO",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SIMPLENORAGI",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SAOTOME",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_KAPPOUGI",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_WILDFARMER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_WORKINGWEAR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_ETHNICTANKTOPRED",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_ETHNICTANKTOPBLUE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_ETHNICTANKTOPCASUAL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_WORKINGSHORTPANTS",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_CAPECASUAL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_KONOHANAWEAR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_KUNGFUFARMER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_BLUEBELLWEAR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_WARKINGCHINA",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_DOTCULOTTEBLUE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_DOTCULOTTERED",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあらあら、ステキなお洋服ね。\nデザインも色もキレイだけれど、\nとくにそのドット柄がかわいらしいわね！"
+    },
+    {
+      "VardId": "MES_FASHION_GUNMAN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_COWBOYSTYLE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_COWSPOTCOWBOY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_COWGIRL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_FRINGECASUAL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_KNICKERBOCKERS",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_CHECKVEST",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあなたのそのズボン、\nチェックの柄と色がとってもステキね。"
+    },
+    {
+      "VardId": "MES_FASHION_GREENCARDIGAN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_GILLETVEST",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_POLOSHIRTSTYLE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SPRINGAPRONSKIRT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_COUNTRYONEPIECE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_APRONDRESS",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_FLOWERAPRONDRESS",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nまぁ、とってもかわいいエプロンドレスね！\nお花の柄も、フリフリのエプロンも、\nあなたにとってもお似合いよ。"
+    },
+    {
+      "VardId": "MES_FASHION_MAXIAPRONDRESS",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_YUKATABOYBLUE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_YUKATABOYRED",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあなたの着ているゆかた、\nとってもステキな色合いね！\nバッチリきまっているわよ。"
+    },
+    {
+      "VardId": "MES_FASHION_OKAPPIKI",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_KABUKIFASHION",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_HAIKARASANRED",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_HAIKARASANGREEN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_YUKATAGIRLBLUE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_YUKATAGIRLRED",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nアジサイもようがステキなゆかたね。\nあなたの魅力がぐっと引き立つわ。"
+    },
+    {
+      "VardId": "MES_FASHION_OLDTOWNSTYLE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_NADESHIKOSTYLE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_KYUDOWEAR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_FARMERTSHIRT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SOUTHERNTANKTOP",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_WHITEPONCHO",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_ARABIANSTYLE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_RESORTCASUAL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_HULADANCEBOY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_TUBETOP",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_HULADANCEGIRL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_REDPONCHO",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nまぁ、とってもかわいらしいポンチョね！\n思わず心がおどる色使いだわ。\nスカートとの組み合わせもバッチリよ。"
+    },
+    {
+      "VardId": "MES_FASHION_TUNICGOLD",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_TUNICSILVER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_BLUEWHITENOSLEEVE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_QUILTWEAR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_YELLOWSWEATER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_COOLVESTWEAR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_WHITEJACKET",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_AQUACOAT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあら、とっても素敵な着こなしね。\nでも、そんなにかしこまってどうしたの？\n<PAGE>\nうちのお店には、もっと気軽にカジュアルに\n来てくれていいんだからね〜。"
+    },
+    {
+      "VardId": "MES_FASHION_RIDINGCLOTHESBLUE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_RIDINGCLOTHESRED",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SCHWARZCOAT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_STEAMPUNKCOAT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_NOBLEJACKET",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_FLOWERSKIRT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_DOTSKIRT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_CLASSICSTYLE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_ELEGANTONEPIECE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_CREAMONEPIECE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_RAINCOAT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nよくできたパッチワークね。\n水玉のブーツもとってもグッドよ。"
+    },
+    {
+      "VardId": "MES_FASHION_BUTTONDRESS",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_HIGHWAISTSKIRT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_STEAMPUNKDRESS",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_MODERNKIMONO",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_AKINDOAOTAKE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_AKINDOYANAGI",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SAMURAISTYLE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_PLAYBOYSTYLE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_OMMYOJI",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SNOWKIMONO",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_FLOWERKIMONO",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_UROKOKIMONO",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_KIMONODRESS",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_KNEEHIGHKIMONO",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_MICHIYUKICOAT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_GREENHOODIE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_ETHNICSTYLE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_RESORTFORMAL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nそういうラフなかっこうも\nとっても似合うわね〜。"
+    },
+    {
+      "VardId": "MES_FASHION_SOUTHERNSTYLE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_ASYMMETRYSKIRT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_FRILLSKIRT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_RESORTONEPIECEGREEN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_RESORTONEPIECERED",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SARIBLUE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SARIYELLOW",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_ETHNICJADE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_WILDROCKER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_HUIPIL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nふしぎなふんいきのあるお洋服ね。\nもようと色使いがとってもステキだわ。"
+    },
+    {
+      "VardId": "MES_FASHION_NORDICDRESSPINK",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_NORDICDRESSBLUE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_ALPSSKIRT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_GOTHICSTYLE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_RUBYREDCHINA",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SAPPHIRECHINA",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SNOWCOAT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_DRACULACLOAK",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_PUMPKINSTYE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_EUROPEANARMOR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_CLOWNWEAR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_COCKWEAR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_BUTLERWEAR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_MAIDROYAL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_KUNOICHI",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_NINJASTYLE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_HIBAKAMA",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SMITHWEAR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_HAPPI",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_HAPPIGIRL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_DESSERTTUXEDO",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_DESSERTDRESS",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_WAGASHIHAORI",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_WAGASHIWEAR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_FRUITSPARLORMAN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_FRUITSPARLORLADY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_KASHINOKITOWNBOY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_KASHINOKITOWNGIRL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_REGERWEAR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_MENOUWEAR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMECATBODY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMEDOGBODY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMEBEARBODY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMEPANDABODY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMEPENGUINBODY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMECOWBODY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_POSTMANWEAR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_DOCTORWEAR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_CHASERWEAR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_APPRENTICEWEAR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_CRAFTMANWEAR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_FLORISTWEAR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_TEAGIRLWEAR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_TEACHERWEAR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_TWIN1WEAR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_TWIN2WEAR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_AMERICAWEDDINGMAN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_AMERICAWEDDINGLADY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_JAPANWEDDINGLADY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_JAPANWEDDINGMAN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SOUTHWEDDINGMAN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SOUTHWEDDINGLADY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_CASQUETTEBROWN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_CASQUETTEBLACK",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_CASQUETTEWHITE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_CASQUETTEBLUE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_TENGALLONHATBROWN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_TENGALLONHATBLACK",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_TENGALLONHATBLUE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_TENGALLONHATRED",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_COWGIRLHAT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_STRAWHAT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_KASAHAT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_HOKKAMURI",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_HACHIMAKI",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_TROPICAL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_KANKANHAT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_KANKANHATWHITE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SOUTHERNSTRAWHAT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_DARKBROWNSTRAWHAT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_FLOWERCROWNWHITE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_FLOWERCROWNRED",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_ORNAMENTFEATHER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_ETHNICHEADBAND",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_KOSAKHAT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_BERET",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_KNITCAP",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_TOPHAT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_STEAMPUNKHAT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_GOGGLE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_GOTHICHEADBAND",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_GORGEOUSHAT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_ELEGANTHAT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_RIBBONPURPLE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_RIBBONRED",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_BONNET",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_BENIKANZASHI",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_FUJIKANZASHI",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_BEKKOUKANZASHI",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_GORGEOUSKANZASHI",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_FLOWERRINGYELLOW",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_FLOWERRINGRED",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_FLOWERRINGWHITE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_MAIDHEADBAND",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_CROWNHAT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_ONIMASK",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_FOXMASK",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_NINJAHOOD",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_WAGASHIHAT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SOFTTOYCAT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_WITCHHAT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_MONSTERMASK",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_FRUITSPARLORHAT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_DESSERTSILKHAT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_KASHINOKIHAT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_KASHINOKIBANDANA",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_ROYALCROWN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_COCKCAP",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_CATHEADBAND",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_DOGHEADBAND",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMECATHEAD",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMEDOGHEAD",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMEBEARHEAD",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMEPANDAHEAD",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMEPENGUINHEAD",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMECOWHEAD",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_MENOUHAT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_AMERICAWEDDINGLADYHAT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_JAPANWEDDINGLADYHAT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SOUTHWEDDINGLADYHAT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SOUTHWEDDINGMANHAT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_EUROPEANHELM",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_FULLFRAMEBLACK",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_FULLFRAMEBLUE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_FULLFRAMERED",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_FULLFRAMEYELLOW",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_FULLFRAMEGREEN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_UNDERFRAMEBLACK",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_UNDERFRAMEBLUE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_UNDERFRAMERED",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_UNDERFRAMEYELLOW",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_UNDERFRAMEGREEN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_HEAVYFRAMEBLACK",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_HEAVYFRAMEBLUE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_HEAVYFRAMERED",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_HEAVYFRAMEYELLOW",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_HEAVYFRAMEGREEN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_HEAVYFRAMEWHITE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SUNGLASSES",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_ROUNDSUNGLASSES",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_ROUNDGLASSES",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_MONOCLE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_EYEPATCHBLACK",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_EYEPATCHWHITE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_BUTTERFLYMASK",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMEGLASSES",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_STEAMGOGGLE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SETMINO",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SETSAOTOME",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SETKAPPOUGI",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SETCOWGIRL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nうちのお店にピッタリのお洋服ね。\nよかったらそのかっこうで、\n一日働いてみない？　ふふ、なーんてね。"
+    },
+    {
+      "VardId": "MES_FASHION_SETSTEAMPUNKCOAT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SETSTEAMPUNKDRESS",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SETGOTHICSTYLE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SETCLOWNWEAR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SETEUROPEANARMOR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SETHAPPI",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SETHAPPIGIRL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SETCOCKWEAR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあらあら、これはブラッドのまねかしら？\n料理ができるってステキよね〜♪"
+    },
+    {
+      "VardId": "MES_FASHION_SETMAIDROYAL",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SETCOSTUMECATBODY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SETCOSTUMEDOGBODY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SETCOSTUMEBEARBODY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SETCOSTUMEPANDABODY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SETCOSTUMEPENGUINBODY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SETCOSTUMECOWBODY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SETMENOUWEAR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SETDESSERTTUXEDO",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあらあら、かわいいお洋服ね！\nスイーツをモチーフにしているのね〜。\nあたし、あまいものに目がないのよ〜♪"
+    },
+    {
+      "VardId": "MES_FASHION_SETDESSERTDRESS",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nあらあら、かわいいお洋服ね！\nスイーツをモチーフにしているのね〜。\nあたし、あまいものに目がないのよ〜♪"
+    },
+    {
+      "VardId": "MES_FASHION_SETWAGASHIHAORI",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SETWAGASHIWEAR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SETFRUITSPARLORMAN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SETFRUITSPARLORLADY",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SETNINJASTYLE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SETHULADANCEBOYWHITE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SETHULADANCEBOYRED",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SETHULADANCEGIRLWHITE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SETHULADANCEGIRLRED",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SETSNOWCOAT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SETDRACULACLOAK",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SETPUMPKINSTYE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SETBUTLERWEAR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_FASHION_SETELEGANTONEPIECE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n今日のあなた、とってもステキよ。\nコーディネートのセンスがあるわ。\n中でもあたしはその大きなリボンが好みね。"
+    },
+    {
+      "VardId": "MES_FASHION_SETCREAMONEPIECE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもステキなお洋服ね♪"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_02",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_03",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_04",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_05",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_06",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_07",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_08",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_09",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_10",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_11",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_12",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_13",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあら、<_____MYNAME_____>。\n新しい創作料理考えたんだけど、\n食べて感想教えてくれない？"
+    },
+    {
+      "VardId": "MES_MISSION_START",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nああ、<_____MYNAME_____>。\n<PAGE>\nちょうどいい。\n話したいことがあったんだよ。\n<PAGE>\nすまないが、いっしょに来てくれるかい？"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_A_RANKD_BRIDGE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_A_RANKC_BELLTOWER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_A_RANKC_COLLABO_MENU1",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_A_RANKB_BRONZE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_A_RANKB_COLLABO_PERFUME",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_A_RANKA_GODDESS",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_A_RANKA_COLLABO_MENU2",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_J_RANKD_FARMBRIDGE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_J_RANKC_SPA",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_J_RANKC_COLLABO_MENU",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_J_RANKB_PARK",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_J_RANKB_COLLABO_KANZASHI",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_J_RANKA_INARI",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_J_RANKA_COLLABO_SPA",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_S_RANKD_OUTSIDEKITCHEN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_S_RANKC_FIRE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_S_RANKC_COLLABO_FOODSTUFF",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_S_RANKB_INNAROUND",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_S_RANKB_COLLABO_AVATAR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_S_RANKA_PIER",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_S_RANKA_COLLABO_MENU",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_CHOICE_00",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nわたす"
+    },
+    {
+      "VardId": "MES_MISSION_CHOICE_01",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nわたさない"
+    },
+    {
+      "VardId": "MES_MISSION_NG",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nそうかい、まああせらなくていいよ。\n材料がそろったら、\nまた持ってきておくれ。"
+    },
+    {
+      "VardId": "MES_MISSION_OK",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nそうかい、持ってきてくれたんだね。\nありがとうよ！"
+    },
+    {
+      "VardId": "MES_MISSION_CANNOT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n…見たところ、\nまだそろってないようだが…。\n<PAGE>\n材料が全部そろったら、\nまた持ってきておくれ。"
+    },
+    {
+      "VardId": "MES_MISSION_CLEAR",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n確かに受け取ったよ！\n<PAGE>\nじゃあ準備ができしだい、\nさっそくとりかかるとしよう。\n<PAGE>\nまた呼びに行くから、\n待っていておくれ。"
+    },
+    {
+      "VardId": "MES_MISSION_RESULT_00",
+      "Text": "<MOJI0>を<MOJI1>わたした！"
+    },
+    {
+      "VardId": "MES_MISSION_RESULT_01",
+      "Text": "<MOJI0>を<MOJI1>、\n<MOJI2>を<MOJI3>わたした！"
+    },
+    {
+      "VardId": "MES_MISSION_RESULT_02",
+      "Text": "<MOJI0>を<MOJI1>、\n<MOJI2>を<MOJI3>、\n<MOJI4>を<MOJI5>わたした！"
+    }
+  ]
+}

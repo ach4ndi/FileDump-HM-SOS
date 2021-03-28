@@ -1,0 +1,338 @@
+﻿{
+  "Date": "2016-06-06T19:37:51.3448264+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_NOT_FOUND",
+      "Text": "・・・"
+    },
+    {
+      "VardId": "MES_GET_MONEY",
+      "Text": "<BLUE>%lld</BLUE>Ｇ入金！"
+    },
+    {
+      "VardId": "MES_WATERING_CAN_WATER_MAX",
+      "Text": "<BLUE>じょうろ</BLUE>にはもう水がいっぱいだ。"
+    },
+    {
+      "VardId": "MES_WATERING_CAN_NO_EQUIP",
+      "Text": "<BLUE>じょうろ</BLUE>があれば水をくめそうだ。"
+    },
+    {
+      "VardId": "MES_WATERING_CAN_WATER_EXHAUSTED",
+      "Text": "<BLUE>じょうろ</BLUE>が空っぽになった。"
+    },
+    {
+      "VardId": "MES_WATERING_CAN_CHARGE_FINISH",
+      "Text": "<BLUE>じょうろ</BLUE>が満タンになった。"
+    },
+    {
+      "VardId": "MES_WATERING_CAN_NO_WATER",
+      "Text": "<BLUE>じょうろ</BLUE>は空っぽだ。水をくみに行こう！"
+    },
+    {
+      "VardId": "MES_LIFT_BAG_FULL",
+      "Text": "カバンがいっぱいで拾えない。"
+    },
+    {
+      "VardId": "MES_LIVESTOCK_BAG_FULL",
+      "Text": "カバンがいっぱいで取れない。"
+    },
+    {
+      "VardId": "MES_CROP_BAG_FULL",
+      "Text": "カバンがいっぱいで収穫できない。"
+    },
+    {
+      "VardId": "MES_NOT_GROWN_UP",
+      "Text": "大きく育つまで取るのはやめよう。"
+    },
+    {
+      "VardId": "MES_OVERSLEPT_00",
+      "Text": "う〜ん、よく寝た〜。\nもう、<BLUE>7時</BLUE>になってる。"
+    },
+    {
+      "VardId": "MES_OVERSLEPT_01",
+      "Text": "ちょっと寝坊しちゃったな。\n<BLUE>8時</BLUE>になってしまった。"
+    },
+    {
+      "VardId": "MES_OVERSLEPT_02",
+      "Text": "もう<BLUE>10時</BLUE>だ…。\n昨日、寝るのが遅すぎたみたい…。\n気をつけないと。"
+    },
+    {
+      "VardId": "MES_REMAINING_HP50",
+      "Text": "ちょっと、つかれてきたみたい。"
+    },
+    {
+      "VardId": "MES_REMAINING_HP20",
+      "Text": "だいぶ、つかれてきた…。"
+    },
+    {
+      "VardId": "MES_REMAINING_HP10",
+      "Text": "もうすぐ倒れそう…。"
+    },
+    {
+      "VardId": "MES_ID_NOT_FOUND",
+      "Text": "NOT FOUND MSG ID:\n<MOJI0>\n<MOJI1>"
+    },
+    {
+      "VardId": "MES_ID_DEVELOPMENT",
+      "Text": "開発中です"
+    },
+    {
+      "VardId": "MES_ID_DEBUG_MOJI0",
+      "Text": "<MOJI0>"
+    },
+    {
+      "VardId": "MES_ID_DEBUG_MOJI1",
+      "Text": "<MOJI1>"
+    },
+    {
+      "VardId": "MES_ID_DEBUG_MOJI2",
+      "Text": "<MOJI2>"
+    },
+    {
+      "VardId": "MES_ID_DEBUG_MOJI3",
+      "Text": "<MOJI3>"
+    },
+    {
+      "VardId": "MES_ID_DEBUG_MOJI4",
+      "Text": "<MOJI4>"
+    },
+    {
+      "VardId": "MSG_ATELIER_COMPLETE",
+      "Text": "<BLUE><ITEMNAME0></BLUE>完成！"
+    },
+    {
+      "VardId": "MES_CAN_NOT_PUT",
+      "Text": "ここには置けない。"
+    },
+    {
+      "VardId": "MES_CAN_NOT_GET_OFF",
+      "Text": "ここでは降りられない。"
+    },
+    {
+      "VardId": "MES_INSERT_COIN",
+      "Text": "<BLUE>コイン</BLUE>を入れよう！！"
+    },
+    {
+      "VardId": "MES_LETS_INSERT_COIN",
+      "Text": "遅くなっちゃった。<BLUE>コイン</BLUE>を入れよう！！"
+    },
+    {
+      "VardId": "MES_CANNOT_BALOON_MAP",
+      "Text": "ふう…、たのしかった♪"
+    },
+    {
+      "VardId": "MES_ITEM_FOUND",
+      "Text": "<BLUE><ITEMNAME0></BLUE>を見つけた！！"
+    },
+    {
+      "VardId": "MES_ITEM_NOT_FOUND",
+      "Text": "何も見つからなかった…。"
+    },
+    {
+      "VardId": "MES_EVENT_SKIP_CHECK",
+      "Text": "デモを飛ばしますか？"
+    },
+    {
+      "VardId": "MES_EVENT_FAST_FORWARD_CHECK",
+      "Text": "メッセージを早送りしますか？"
+    },
+    {
+      "VardId": "MES_EVENT_FAST_FORWARD_CANCEL_CHECK",
+      "Text": "メッセージの早送りを停止しますか？"
+    },
+    {
+      "VardId": "MES_FARM_NAME_FORMAT",
+      "Text": "%ls牧場"
+    },
+    {
+      "VardId": "MES_DATE_FORMAT",
+      "Text": "%2d年　%lsの月%2d日　%2d：%02d"
+    },
+    {
+      "VardId": "MES_DATE_SPRING",
+      "Text": "はる"
+    },
+    {
+      "VardId": "MES_DATE_SUMMER",
+      "Text": "なつ"
+    },
+    {
+      "VardId": "MES_DATE_AUTUMN",
+      "Text": "あき"
+    },
+    {
+      "VardId": "MES_DATE_WINTER",
+      "Text": "ふゆ"
+    },
+    {
+      "VardId": "MES_DATE_WEEK_SUNDAY",
+      "Text": "日曜日"
+    },
+    {
+      "VardId": "MES_DATE_WEEK_MONDAY",
+      "Text": "月曜日"
+    },
+    {
+      "VardId": "MES_DATE_WEEK_TUESDAY",
+      "Text": "火曜日"
+    },
+    {
+      "VardId": "MES_DATE_WEEK_WEDNESDAY",
+      "Text": "水曜日"
+    },
+    {
+      "VardId": "MES_DATE_WEEK_THURSDAY",
+      "Text": "木曜日"
+    },
+    {
+      "VardId": "MES_DATE_WEEK_FRIDAY",
+      "Text": "金曜日"
+    },
+    {
+      "VardId": "MES_DATE_WEEK_SATURDAY",
+      "Text": "土曜日"
+    },
+    {
+      "VardId": "MES_HP50",
+      "Text": "ちょっと、つかれてきたみたい。"
+    },
+    {
+      "VardId": "MES_HP20",
+      "Text": "だいぶ、つかれてきた…。"
+    },
+    {
+      "VardId": "MES_HP10",
+      "Text": "もうすぐ倒れそう…。"
+    },
+    {
+      "VardId": "MES_HP0",
+      "Text": "体力がげんかいだ……。"
+    },
+    {
+      "VardId": "MES_AM500",
+      "Text": "眠気がげんかいだ……。"
+    },
+    {
+      "VardId": "MES_SAVE_DUMMY_FARM_NAME",
+      "Text": "牧場研修中"
+    },
+    {
+      "VardId": "MES_CHANGE_THROW_ITEM_TO_MONEY",
+      "Text": "<BLUE><MOJI0></BLUE>Ｇ手に入れた！"
+    },
+    {
+      "VardId": "MES_YEAR_EVENT_TRADE_MAP_ENTER_NG",
+      "Text": "今は<RED><MOJI1></RED>開催中\nですので、広場へ入ることはできません。"
+    },
+    {
+      "VardId": "MES_YEAR_EVENT_RECEIVE_TRADE_MAP_ENTER_NG",
+      "Text": "今は<RED><MOJI1></RED>の準備中\nですので、広場へ入ることはできません。"
+    },
+    {
+      "VardId": "MES_YEAR_EVENT_RECEIVE_TRADE_MAP_ON_NG",
+      "Text": "今から<RED><MOJI1></RED>の準備を\nしますので広場へ入ることはできません。"
+    },
+    {
+      "VardId": "MES_HAMMER_NOBREAK",
+      "Text": "この<BLUE>ハンマー</BLUE>ではこわせない。"
+    },
+    {
+      "VardId": "MES_SAVE_ADD_1",
+      "Text": "日記を書きますか？"
+    },
+    {
+      "VardId": "MES_SAVE_ADD_2",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_SAVE_ADD_3",
+      "Text": "いいえ"
+    },
+    {
+      "VardId": "MES_MYSHOP_NOITEM",
+      "Text": "お店の商品が売り切れた。"
+    },
+    {
+      "VardId": "MES_ROCK_HARD_0",
+      "Text": "壊すには根気がいりそうだ…"
+    },
+    {
+      "VardId": "MES_ROCK_HARD_1",
+      "Text": "壊れるにはまだまだかかりそう…"
+    },
+    {
+      "VardId": "MES_ROCK_HARD_2",
+      "Text": "壊れるにはまだかかるかな…？"
+    },
+    {
+      "VardId": "MES_ROCK_HARD_3",
+      "Text": "ちょっと壊れかけてきたかも？"
+    },
+    {
+      "VardId": "MES_ROCK_HARD_4",
+      "Text": "岩にヒビが入ってきた！"
+    },
+    {
+      "VardId": "MES_ROCK_HARD_5",
+      "Text": "もうひとふんばり！"
+    },
+    {
+      "VardId": "MES_ROCK_HARD_6",
+      "Text": "だんだん岩の形が崩れてきたぞ！"
+    },
+    {
+      "VardId": "MES_ROCK_HARD_7",
+      "Text": "壊れるまでもうちょっと！"
+    },
+    {
+      "VardId": "MES_ROCK_HARD_8",
+      "Text": "もう壊れるぞ！"
+    },
+    {
+      "VardId": "MES_ROCK_0",
+      "Text": "壊れるにはまだまだかかりそう…"
+    },
+    {
+      "VardId": "MES_ROCK_1",
+      "Text": "ちょっと壊れかけてきたかも？"
+    },
+    {
+      "VardId": "MES_ROCK_2",
+      "Text": "壊れるまでもうちょっと！"
+    },
+    {
+      "VardId": "MES_ROCK_3",
+      "Text": "もう壊れるぞ！"
+    },
+    {
+      "VardId": "MES_TREE_HARD_0",
+      "Text": "切り倒すには根気がいりそうだ…"
+    },
+    {
+      "VardId": "MES_TREE_HARD_1",
+      "Text": "切り倒すにはまだまだかかりそう…"
+    },
+    {
+      "VardId": "MES_TREE_HARD_2",
+      "Text": "切り倒すまであと半分くらいかな？"
+    },
+    {
+      "VardId": "MES_TREE_HARD_3",
+      "Text": "切り倒すまでもうちょっと！"
+    },
+    {
+      "VardId": "MES_TREE_0",
+      "Text": "切り倒すにはまだまだかかりそう…"
+    },
+    {
+      "VardId": "MES_TREE_1",
+      "Text": "切り倒すまでもうちょっと！"
+    },
+    {
+      "VardId": "MES_UNLOCK_SPECIAL_CARD",
+      "Text": "本棚に<BLUE>スペシャルカード</BLUE>を追加！"
+    }
+  ]
+}

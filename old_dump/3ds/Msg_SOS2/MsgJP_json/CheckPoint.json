@@ -1,0 +1,1638 @@
+﻿{
+  "Date": "2016-06-25T01:44:45.623192+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_COKKING_OVER",
+      "Text": "カバンがいっぱいで料理が作れない……。"
+    },
+    {
+      "VardId": "MES_COOKING_FINISH01",
+      "Text": "<BLUE><____ITEMNAME0____></BLUE>ができた！"
+    },
+    {
+      "VardId": "MES_ARRANGE_OK",
+      "Text": "料理レベルが上がって、\n新しいトッピングのアイデアが浮かんだ！\n<PAGE>\nさらにいろんな料理の\nトッピングができるようになった！"
+    },
+    {
+      "VardId": "MES_CHECK_BED_00",
+      "Text": "<SPEED_IMME><BLUE>ベッド</BLUE>で寝ようかな？"
+    },
+    {
+      "VardId": "MES_CHECK_BED_01",
+      "Text": "今日はもう寝る"
+    },
+    {
+      "VardId": "MES_CHECK_BED_02",
+      "Text": "<CANCEL_SELECT>\r\nまだ起きてる"
+    },
+    {
+      "VardId": "MES_CHECK_BED_03",
+      "Text": "そういえば、最近日記を付けてないかも…。\nあとで付けておこう。"
+    },
+    {
+      "VardId": "MES_CHECK_ITEMBOX_00",
+      "Text": "<SPEED_IMME>何をしようかな？"
+    },
+    {
+      "VardId": "MES_CHECK_ITEMBOX_01",
+      "Text": "収納箱にしまう"
+    },
+    {
+      "VardId": "MES_CHECK_ITEMBOX_02",
+      "Text": "収納箱から取り出す"
+    },
+    {
+      "VardId": "MES_CHECK_ITEMBOX_03",
+      "Text": "<CANCEL_SELECT>\r\nなんでもない"
+    },
+    {
+      "VardId": "MES_CHECK_TOOLBOX_00",
+      "Text": "<SPEED_IMME>何をしようかな？"
+    },
+    {
+      "VardId": "MES_CHECK_TOOLBOX_01",
+      "Text": "道具箱にしまう"
+    },
+    {
+      "VardId": "MES_CHECK_TOOLBOX_02",
+      "Text": "道具箱から取り出す"
+    },
+    {
+      "VardId": "MES_CHECK_TOOLBOX_03",
+      "Text": "<CANCEL_SELECT>\r\nなんでもない"
+    },
+    {
+      "VardId": "MES_CHECK_SILO_00",
+      "Text": "<SPEED_IMME>何をしようかな？"
+    },
+    {
+      "VardId": "MES_CHECK_SILO_01",
+      "Text": "エサを入れる"
+    },
+    {
+      "VardId": "MES_CHECK_SILO_02",
+      "Text": "エサを取り出す"
+    },
+    {
+      "VardId": "MES_CHECK_SILO_03",
+      "Text": "<CANCEL_SELECT>\r\nなんでもない"
+    },
+    {
+      "VardId": "MES_CHECK_PANELDECK_00",
+      "Text": "何をしようかな？"
+    },
+    {
+      "VardId": "MES_CHECK_PANELDECK_01",
+      "Text": "牧場を整備する"
+    },
+    {
+      "VardId": "MES_CHECK_PANELDECK_02",
+      "Text": "ファームサークルを確認"
+    },
+    {
+      "VardId": "MES_CHECK_PANELDECK_03",
+      "Text": "発生しているコンボを確認"
+    },
+    {
+      "VardId": "MES_CHECK_PANELDECK_04",
+      "Text": "<CANCEL_SELECT>\r\nなんでもない"
+    },
+    {
+      "VardId": "MES_CHECK_SHIPMENT_00",
+      "Text": "<SPEED_IMME>どうしようかな？\n今日の出荷先：<BLUE><MOJI0></BLUE>\n明日の出荷先：<BLUE><MOJI1></BLUE>"
+    },
+    {
+      "VardId": "MES_CHECK_SHIPMENT_01",
+      "Text": "出荷するものを入れる"
+    },
+    {
+      "VardId": "MES_CHECK_SHIPMENT_02",
+      "Text": "出荷箱から取り出す"
+    },
+    {
+      "VardId": "MES_CHECK_SHIPMENT_03",
+      "Text": "出荷先を変える"
+    },
+    {
+      "VardId": "MES_CHECK_SHIPMENT_04",
+      "Text": "<CANCEL_SELECT>\r\nやめる"
+    },
+    {
+      "VardId": "MES_CHECK_SHIPMENT_05",
+      "Text": "<SPEED_IMME>どこに出荷する？"
+    },
+    {
+      "VardId": "MES_CHECK_SHIPMENT_06",
+      "Text": "<MOJI0>に出荷"
+    },
+    {
+      "VardId": "MES_CHECK_SHIPMENT_07",
+      "Text": "<MOJI1>に出荷"
+    },
+    {
+      "VardId": "MES_CHECK_SHIPMENT_08",
+      "Text": "<CANCEL_SELECT>\r\n今のままでいい"
+    },
+    {
+      "VardId": "MES_CHECK_SHIPMENT_09",
+      "Text": "出荷先を変更しました。\n<RED>明日</RED>から<BLUE><MOJI0></BLUE>に出荷されます。"
+    },
+    {
+      "VardId": "MES_CHECK_SHIPMENT_10",
+      "Text": "和風の国"
+    },
+    {
+      "VardId": "MES_CHECK_SHIPMENT_11",
+      "Text": "北米の国"
+    },
+    {
+      "VardId": "MES_CHECK_SHIPMENT_12",
+      "Text": "南国の国"
+    },
+    {
+      "VardId": "MES_CHECK_SHIPMENT_13",
+      "Text": "変更なし"
+    },
+    {
+      "VardId": "MES_CHECK_BOOKSHELF_00",
+      "Text": "何を見ようかな？"
+    },
+    {
+      "VardId": "MES_CHECK_BOOKSHELF_01",
+      "Text": "資産表"
+    },
+    {
+      "VardId": "MES_CHECK_BOOKSHELF_02",
+      "Text": "トロフィー"
+    },
+    {
+      "VardId": "MES_CHECK_BOOKSHELF_03",
+      "Text": "手紙"
+    },
+    {
+      "VardId": "MES_CHECK_BOOKSHELF_04",
+      "Text": "牧場の手引き"
+    },
+    {
+      "VardId": "MES_CHECK_BOOKSHELF_05",
+      "Text": "エンドカード"
+    },
+    {
+      "VardId": "MES_CHECK_BOOKSHELF_06",
+      "Text": "<CANCEL_SELECT>\r\nやめる"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_ENDCARD_00",
+      "Text": "ウェイン"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_ENDCARD_01",
+      "Text": "フォード"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_ENDCARD_02",
+      "Text": "ユヅキ"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_ENDCARD_03",
+      "Text": "ヒナタ"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_ENDCARD_04",
+      "Text": "ルデゥス"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_ENDCARD_05",
+      "Text": "リシェット"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_ENDCARD_06",
+      "Text": "コマリ"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_ENDCARD_07",
+      "Text": "カスミ"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_ENDCARD_08",
+      "Text": "イゥカ"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_ENDCARD_09",
+      "Text": "シゥカ"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_ENDCARD_10",
+      "Text": "イナリちゃま"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_ENDCARD_11",
+      "Text": "イナリちゃま"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_ENDCARD_12",
+      "Text": "司会者"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_ENDCARD_13",
+      "Text": "ワンタタン"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_ENDCARD_NEXT",
+      "Text": "次へ"
+    },
+    {
+      "VardId": "MES_BOOKSHELF_ENDCARD_CANCEL",
+      "Text": "<CANCEL_SELECT>\r\n本棚へ戻る"
+    },
+    {
+      "VardId": "MES_ANIMAL_BAITBOX_INTO",
+      "Text": "<____ITEMNAME0____>が<MOJI1>個入っている。"
+    },
+    {
+      "VardId": "MES_ANIMAL_BAITBOX_ASK",
+      "Text": "<SPEED_IMME>どうしようかな？"
+    },
+    {
+      "VardId": "MES_ANIMAL_BAITBOX_ADDITION",
+      "Text": "エサを追加する"
+    },
+    {
+      "VardId": "MES_ANIMAL_BAITBOX_END",
+      "Text": "<CANCEL_SELECT>\r\nやめる"
+    },
+    {
+      "VardId": "MES_ANIMAL_BAITNAME_ASK",
+      "Text": "<SPEED_IMME>どのエサを入れようかな？"
+    },
+    {
+      "VardId": "MES_ANIMAL_BAITNAME_ASK_ONE",
+      "Text": "<SPEED_IMME>エサを入れようかな？"
+    },
+    {
+      "VardId": "MES_ANIMAL_BAITNAME_0",
+      "Text": "<____ITEMNAME0____>"
+    },
+    {
+      "VardId": "MES_ANIMAL_BAITNAME_1",
+      "Text": "<____ITEMNAME1____>"
+    },
+    {
+      "VardId": "MES_ANIMAL_BAITNAME_2",
+      "Text": "<____ITEMNAME2____>"
+    },
+    {
+      "VardId": "MES_ANIMAL_BAITNAME_3",
+      "Text": "<____ITEMNAME3____>"
+    },
+    {
+      "VardId": "MES_ANIMAL_BAITMACHINE_NOSPACE",
+      "Text": "カバンに空きが無いからとりだせない。"
+    },
+    {
+      "VardId": "MES_ANIMAL_BAITBOX_NOTHAVE",
+      "Text": "エサを持っていない。"
+    },
+    {
+      "VardId": "MES_ANIMAL_BAITBOX_NOT_APPLICABLE",
+      "Text": "動物を飼うと使えるようになるみたい。"
+    },
+    {
+      "VardId": "MES_ANIMAL_BAITBOX_MAX",
+      "Text": "エサはいっぱい入っているみたい。"
+    },
+    {
+      "VardId": "MES_ANIMAL_NUMBER_SELECT_WINDOW_1",
+      "Text": "エサを何個入れますか？"
+    },
+    {
+      "VardId": "MES_ANIMAL_NUMBER_SELECT_WINDOW_2",
+      "Text": "エサを何個追加しますか？"
+    },
+    {
+      "VardId": "MES_ANIMAL_BAITMACHINE_NOSILO",
+      "Text": "サイロが設置されていないから\n取りだせないよ。"
+    },
+    {
+      "VardId": "MES_ANIMAL_NOTE_NOANIMAL",
+      "Text": "動物を飼っていないので見れないよ。"
+    },
+    {
+      "VardId": "MES_ANIMAL_PREGNANCYSPACE_NORMAL",
+      "Text": "妊娠させている動物はいないよ。"
+    },
+    {
+      "VardId": "MES_ANIMAL_PREGNANCYSPACE_PREGNANT",
+      "Text": "母親らしい顔つきになってきたね。"
+    },
+    {
+      "VardId": "MES_ANIMAL_HATCH_NORMAL",
+      "Text": "トリを置くと卵をふ化できるよ。"
+    },
+    {
+      "VardId": "MES_ANIMAL_HATCH_PREGNANT",
+      "Text": "母親らしい顔つきになってきたね。"
+    },
+    {
+      "VardId": "MES_ANIMAL_HATCH_POULTRY",
+      "Text": "この動物は置けないね。"
+    },
+    {
+      "VardId": "MES_ANIMAL_HATCH_DIFF_HUT_NO",
+      "Text": "別の小屋の動物は置けないよ。"
+    },
+    {
+      "VardId": "MES_ANIMAL_HATCH_SPACE",
+      "Text": "もう小屋に空きがないみたい。"
+    },
+    {
+      "VardId": "MES_ANIMAL_HATCH_TALK",
+      "Text": "<MOJI0>は元気そうだ。"
+    },
+    {
+      "VardId": "MES_ANIMAL_HATCH_UMENOT",
+      "Text": "まだ卵を産めないからやめておこう。"
+    },
+    {
+      "VardId": "MES_ANIMAL_HATCH_DISEASE",
+      "Text": "病気だからやめておこう。"
+    },
+    {
+      "VardId": "MES_ANIMAL_HATCH_SENILITY_DEATH",
+      "Text": "元気がないからやめておこう。"
+    },
+    {
+      "VardId": "MES_ANIMAL_HUTNAME_CHANGE",
+      "Text": "小屋の名前を変更"
+    },
+    {
+      "VardId": "MES_PETHOME_ASK",
+      "Text": "どうしますか？"
+    },
+    {
+      "VardId": "MES_PETHOME_PETWALK",
+      "Text": "散歩をする"
+    },
+    {
+      "VardId": "MES_PETHOME_PETWALK_NO",
+      "Text": "散歩をやめる"
+    },
+    {
+      "VardId": "MES_PETHOME_GOHOME",
+      "Text": "自宅に連れて行く"
+    },
+    {
+      "VardId": "MES_PETHOME_BACKPETHOME",
+      "Text": "小屋に戻す"
+    },
+    {
+      "VardId": "MES_PETHOME_ANIMALNOTE",
+      "Text": "様子を見る"
+    },
+    {
+      "VardId": "MES_PETHOME_END",
+      "Text": "<CANCEL_SELECT>\r\nやめる"
+    },
+    {
+      "VardId": "MES_ANIMAL_PETHOUSE_ASK_2",
+      "Text": "すでにペットがいます。\n入れかえますか？"
+    },
+    {
+      "VardId": "MES_ANIMAL_PETHOUSE_GOHOME_CHENGE",
+      "Text": "いれかえる"
+    },
+    {
+      "VardId": "MES_ANIMAL_PETHOUSE_GOHOME_NOCHENGE",
+      "Text": "<CANCEL_SELECT>\r\nいれかえない"
+    },
+    {
+      "VardId": "MES_PETWALK_ASK",
+      "Text": "<MOJI0>と散歩中ですが、\n散歩する子をかえますか？"
+    },
+    {
+      "VardId": "MES_ANIMAL_PET_SOULMATE_ALRADEY",
+      "Text": "ソウルメイトがいるから連れていけない。"
+    },
+    {
+      "VardId": "MES_ANIMAL_PET_SOULMATE_NOT_RETURN",
+      "Text": "ソウルメイトだから戻すのはやめておこう。"
+    },
+    {
+      "VardId": "MES_ANIMAL_PET_PETFOODMACHINE_NOT",
+      "Text": "ペットエサマシンが自宅にないから\n連れて行くことができない。"
+    },
+    {
+      "VardId": "MES_PETWALK_CHANGE_YES",
+      "Text": "かえる"
+    },
+    {
+      "VardId": "MES_PETWALK_CHANGE_NO",
+      "Text": "<CANCEL_SELECT>\r\nかえない"
+    },
+    {
+      "VardId": "MES_ANIMAL_TREGSURPOINT_PET_NOT_NEAR",
+      "Text": "ペットが近くにいる時に調べよう。"
+    },
+    {
+      "VardId": "MSG_CUL_YES_00",
+      "Text": "養殖する"
+    },
+    {
+      "VardId": "MSG_CUL_NO_00",
+      "Text": "<CANCEL_SELECT>\r\nやめる"
+    },
+    {
+      "VardId": "MSG_CUL_USESELECT",
+      "Text": "<SPEED_IMME>どうしようかな？"
+    },
+    {
+      "VardId": "MSG_CUL_YES_ALL",
+      "Text": "全部取り出す"
+    },
+    {
+      "VardId": "MSG_CUL_YES_NUMBER",
+      "Text": "1匹残して取り出す"
+    },
+    {
+      "VardId": "MSG_CUL_GETSELECT",
+      "Text": "<SPEED_IMME><____ITEMNAME0____>が<MOJI1>匹入っている。\n取り出しますか？"
+    },
+    {
+      "VardId": "MSG_CUL_GETSELECT_PEARL",
+      "Text": "<SPEED_IMME><____ITEMNAME0____>が<MOJI1>個入っている。\n取り出しますか？"
+    },
+    {
+      "VardId": "MSG_CUL_YES_ONLY_ONE",
+      "Text": "取り出す"
+    },
+    {
+      "VardId": "MSG_CUL_FISH_FOOD_SET",
+      "Text": "エサをあげる"
+    },
+    {
+      "VardId": "MSG_CUL_NOUSE_BAIT",
+      "Text": "今日はもうエサをあげている。"
+    },
+    {
+      "VardId": "MSG_CUL_NOMORE_BAIT",
+      "Text": "これ以上あげても意味がない。"
+    },
+    {
+      "VardId": "MSG_CUL_ITEM_IN_BAG",
+      "Text": "アイテムをしまって魚を取り出そう！"
+    },
+    {
+      "VardId": "MSG_CUL_BAG_FULL",
+      "Text": "カバンがいっぱいでしまえない。"
+    },
+    {
+      "VardId": "MSG_CUR_GET_ITEM",
+      "Text": "<____ITEMNAME0____>を<MOJI1>匹取り出した！"
+    },
+    {
+      "VardId": "MSG_CUL_GET_ITEM_PEARL",
+      "Text": "<____ITEMNAME0____>を<MOJI1>個取り出した！"
+    },
+    {
+      "VardId": "MSG_CUL_NOT_TAKING",
+      "Text": "真珠を養殖中です。"
+    },
+    {
+      "VardId": "MSG_CUL_NOT_ITEM",
+      "Text": "アイテムがないよ。"
+    },
+    {
+      "VardId": "MES_API_WINTER",
+      "Text": "ふゆの月に養蜂はできない。"
+    },
+    {
+      "VardId": "MES_API_NEED_BEE",
+      "Text": "花を入れよう！"
+    },
+    {
+      "VardId": "MES_API_YES_00",
+      "Text": "入れて養蜂を始める"
+    },
+    {
+      "VardId": "MES_API_NO_00",
+      "Text": "<CANCEL_SELECT>\r\n入れない"
+    },
+    {
+      "VardId": "MES_API_USESELECT",
+      "Text": "<SPEED_IMME>花を入れますか？"
+    },
+    {
+      "VardId": "MES_API_YES_01",
+      "Text": "取り出す"
+    },
+    {
+      "VardId": "MES_API_NO_01",
+      "Text": "<CANCEL_SELECT>\r\nやめる"
+    },
+    {
+      "VardId": "MES_API_GETSELECT",
+      "Text": "<SPEED_IMME>ハチミツを取り出しますか？"
+    },
+    {
+      "VardId": "MES_API_NOT_FINISH",
+      "Text": "まだできていないようだ。"
+    },
+    {
+      "VardId": "MES_API_ITEM_IN_BAG",
+      "Text": "アイテムをしまってハチミツを取ろう！"
+    },
+    {
+      "VardId": "MES_API_BAG_FULL",
+      "Text": "カバンがいっぱいでしまえない。"
+    },
+    {
+      "VardId": "MES_API_GET_ITEM",
+      "Text": "<GREEN><____ITEMNAME0____></GREEN>が<MOJI1>個取れた！"
+    },
+    {
+      "VardId": "MES_API__ALREADY_FULL",
+      "Text": "すでに花がいっぱいだ。"
+    },
+    {
+      "VardId": "MSG_API_SWAP",
+      "Text": "入れかえる"
+    },
+    {
+      "VardId": "MSG_API_NO_SWAP",
+      "Text": "<CANCEL_SELECT>\r\nかえない"
+    },
+    {
+      "VardId": "MSG_API_IS_SWAP",
+      "Text": "<SPEED_IMME>花を入れかえますか？"
+    },
+    {
+      "VardId": "MSG_API_NOT_ITEM",
+      "Text": "アイテムがないよ。"
+    },
+    {
+      "VardId": "MSG_API_IN_ITEM",
+      "Text": "<____ITEMNAME0____>が入っているよ。"
+    },
+    {
+      "VardId": "MSG_FERTILIZWR_TANK_WATERINGCAN_IN",
+      "Text": "じょうろにひりょう水を入れる"
+    },
+    {
+      "VardId": "MSG_FERTILIZWR_TANK_WATER_MAKE",
+      "Text": "ひりょう水を作る"
+    },
+    {
+      "VardId": "MSG_FERTILIZWR_TANK_LOOKING",
+      "Text": "タンクの中を見る"
+    },
+    {
+      "VardId": "MSG_FERTILIZWR_TANK_END",
+      "Text": "<CANCEL_SELECT>\r\nやめる"
+    },
+    {
+      "VardId": "MSG_FERTILIZWR_TANK_ASK",
+      "Text": "<SPEED_IMME>何をしますか？"
+    },
+    {
+      "VardId": "MSG_FERTILIZWR_TANK_LOOKING_2",
+      "Text": "どのスロットを見ますか？"
+    },
+    {
+      "VardId": "MSG_FERTILIZWR_TANK_NO_SLOT1",
+      "Text": "スロット１"
+    },
+    {
+      "VardId": "MSG_FERTILIZWR_TANK_NO_SLOT2",
+      "Text": "スロット２"
+    },
+    {
+      "VardId": "MSG_FERTILIZWR_TANK_NO_SLOT3",
+      "Text": "スロット３"
+    },
+    {
+      "VardId": "MSG_FERTILIZWR_TANK_WATER_IN_SLOT1",
+      "Text": "<MOJI0>"
+    },
+    {
+      "VardId": "MSG_FERTILIZWR_TANK_WATER_IN_SLOT2",
+      "Text": "<MOJI1>"
+    },
+    {
+      "VardId": "MSG_FERTILIZWR_TANK_WATER_IN_SLOT3",
+      "Text": "<MOJI2>"
+    },
+    {
+      "VardId": "MSG_FERTILIZWR_TANK_NO",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MSG_FERTILIZWR_TANK_YES",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MSG_FERTILIZWR_TANK_ASK2",
+      "Text": "<SPEED_IMME>どのスロットにひりょう水を作りますか？"
+    },
+    {
+      "VardId": "MSG_FERTILIZWR_TANK_ALLSROT_EMPTY",
+      "Text": "タンクにひりょう水が入っていません。"
+    },
+    {
+      "VardId": "MSG_FERTILIZWR_TANK_NOTEQUIP",
+      "Text": "じょうろを装備していないので、\nひりょう水を入れることができません。"
+    },
+    {
+      "VardId": "MSG_FERTILIZWR_TANK_ASK3",
+      "Text": "<SPEED_IMME>どのひりょう水をじょうろに入れますか？"
+    },
+    {
+      "VardId": "MSG_FERTILIZWR_TANK_ASK4",
+      "Text": "じょうろにちがう水が入っています。\nじょうろの中身を入れ替えますか？"
+    },
+    {
+      "VardId": "MSG_FERTILIZWR_TANK_SLOT_NO_WATER",
+      "Text": "このスロットにはひりょう水が\n入っていません。"
+    },
+    {
+      "VardId": "MSG_FERTILIZWR_TANK_SLOT_CREATED",
+      "Text": "作成中なのでひりょう水を入れられません。"
+    },
+    {
+      "VardId": "MSG_FERTILIZWR_TANK_EMPTY_SLOT1",
+      "Text": "スロット1が空っぽになりました。"
+    },
+    {
+      "VardId": "MSG_FERTILIZWR_TANK_EMPTY_SLOT2",
+      "Text": "スロット2が空っぽになりました。"
+    },
+    {
+      "VardId": "MSG_FERTILIZWR_TANK_EMPTY_SLOT3",
+      "Text": "スロット3が空っぽになりました。"
+    },
+    {
+      "VardId": "MSG_FERTILIZWR_TANK_MAKEOVER",
+      "Text": "<SPEED_IMME>このスロットにはまだひりょう水が\n残っています。\n新しいひりょう水を作り直しますか？"
+    },
+    {
+      "VardId": "MSG_FERTILIZWR_TANK_WATERINGCAN_FULL",
+      "Text": "じょうろがまんたんなので\nこれ以上は入れることができません。"
+    },
+    {
+      "VardId": "MSG_FERTILIZWR_TANK_CREATED_SLOT1",
+      "Text": "作成中"
+    },
+    {
+      "VardId": "MSG_FERTILIZWR_TANK_CREATED_SLOT2",
+      "Text": "作成中"
+    },
+    {
+      "VardId": "MSG_FERTILIZWR_TANK_CREATED_SLOT3",
+      "Text": "作成中"
+    },
+    {
+      "VardId": "MES_PANEL_STAND_START",
+      "Text": "ファームサークルを配置する"
+    },
+    {
+      "VardId": "MES_PANEL_STAND_STOCKCHECK",
+      "Text": "ファームサークルを確認する"
+    },
+    {
+      "VardId": "MES_PANEL_STAND_NO",
+      "Text": "<CANCEL_SELECT>\r\nやめる"
+    },
+    {
+      "VardId": "MES_PANEL_STAND_ASK",
+      "Text": "<SPEED_IMME>ファームサークルをどうしますか？"
+    },
+    {
+      "VardId": "MES_SIGNBOARD_A_SHOP_00",
+      "Text": "<SPEED_IMME>　　　　　　　　　　　　　　　　　　　　\n　　　　　　〜屋台お店情報〜\n\n<PAGE>\n<SPEED_IMME><GREEN>動物屋 ラブアニマル</GREEN>\n休業日…台風、大雪、祭りの日\n営業時間…<BLUE>10:00〜18:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>雑貨屋 ガリバーストア</GREEN>\n休業日…台風、大雪、祭りの日\n営業時間…<BLUE>10:00〜18:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>資材屋 ログハウス</GREEN>\n休業日…台風、大雪、祭りの日\n営業時間…<BLUE>10:00〜18:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>食材屋 ボン・マルシェ</GREEN>\n休業日…台風、大雪、祭りの日\n営業時間…<BLUE>10:00〜18:00</BLUE>"
+    },
+    {
+      "VardId": "MES_SIGNBOARD_A_SHOP_01",
+      "Text": "<SPEED_IMME>　　　　　　　　　　　　　　　　　　　　\n　　　　　　  〜お店情報〜\n\n<PAGE>\n<SPEED_IMME><GREEN>雑貨屋 ストローマーケット</GREEN>\n休業日…台風、大雪、祭りの日\n営業時間…<BLUE>10:00〜18:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>花屋 サウザンドブーケ</GREEN>\n休業日…火・木曜日　台風、大雪、祭りの日\n営業時間…<BLUE>10:00〜18:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>レストラン ガーデングリル</GREEN>\n休業日…台風、大雪、祭りの日 \n営業時間…<BLUE>12:00〜23:00</BLUE>"
+    },
+    {
+      "VardId": "MES_SIGNBOARD_A_SHOP_02",
+      "Text": "<SPEED_IMME>　　　　　　　　　　　　　　　　　　　　\n　　　　　　〜屋台お店情報〜\n\n<PAGE>\n<SPEED_IMME><GREEN>動物屋 ラブアニマル</GREEN>\n休業日…台風、大雪、祭りの日\n営業時間…<BLUE>10:00〜18:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>雑貨屋 ガリバーストア</GREEN>\n休業日…台風、大雪、祭りの日\n営業時間…<BLUE>10:00〜18:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>資材屋 ログハウス</GREEN>\n※現在休業中※\n<PAGE>\n<SPEED_IMME><GREEN>食材屋 ボン・マルシェ</GREEN>\n休業日…台風、大雪、祭りの日\n営業時間…<BLUE>10:00〜18:00</BLUE>"
+    },
+    {
+      "VardId": "MES_SIGNBOARD_A_POSTOFFICE",
+      "Text": "<SPEED_IMME><GREEN>郵便屋 ポスティーノ</GREEN>\n休業日…土・日曜日　台風、大雪、祭りの日\n営業時間…<BLUE>9:00〜15:00</BLUE>"
+    },
+    {
+      "VardId": "MES_SIGNBOARD_A_SHOP_CLINIC",
+      "Text": "<SPEED_IMME><GREEN>医院 ホワイトカプセル</GREEN>\n休業日…土・日曜日　祭りの日\n営業時間…<BLUE>8:00〜11:00/13:00〜17:00</BLUE>\n<PAGE>\n<SPEED_IMME>台風・大雪でも休まず営業します。\n急病人はいつでもどうぞ。"
+    },
+    {
+      "VardId": "MES_SIGNBOARD_A_SHOP_CLINIC_BEFORE",
+      "Text": "<SPEED_IMME><GREEN>医院 ホワイトカプセル</GREEN>\n学会で不在のため、\nしばらくの間休業いたします。"
+    },
+    {
+      "VardId": "MES_SIGNBOARD_J_SHOP_00",
+      "Text": "<SPEED_IMME>　　　　　　　　　　　　　　　　　　　　\n　　　　　　  〜お店情報〜\n\n<PAGE>\n<SPEED_IMME><GREEN>茶屋 腹八分目</GREEN>\n休業日…台風、大雪、祭りの日\n営業時間…<BLUE>9:00〜19:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>雑貨屋 九十九商店</GREEN>\n休業日…台風、大雪、祭りの日\n営業時間…<BLUE>8:00〜16:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>動物屋 鳥獣や</GREEN>\n休業日…台風、大雪、祭りの日 \n営業時間…<BLUE>8:00〜16:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>問屋 大黒屋 雑貨売り場</GREEN>\n休業日…月・木曜日　台風、大雪、祭りの日\n営業時間…<BLUE>8:00〜16:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>問屋 大黒屋 食材売り場</GREEN>\n休業日…台風、大雪、祭りの日\n営業時間…<BLUE>8:00〜16:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>問屋 大黒屋 服売り場</GREEN>\n休業日…台風、大雪、祭りの日 \n営業時間…<BLUE>8:00〜16:00</BLUE>"
+    },
+    {
+      "VardId": "MES_SIGNBOARD_J_SHOP_01",
+      "Text": "<SPEED_IMME>　　　　　　　　　　　　　　　　　　　　\n　　　　　　  〜お店情報〜\n\n<PAGE>\n<SPEED_IMME><GREEN>茶屋 腹八分目</GREEN>\n休業日…台風、大雪、祭りの日\n営業時間…<BLUE>9:00〜19:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>湯屋 ひのきの湯</GREEN>\n休業日…祭りの日\n営業時間…<BLUE>8:00〜20:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>雑貨屋 九十九商店</GREEN>\n休業日…台風、大雪、祭りの日\n営業時間…<BLUE>8:00〜16:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>動物屋 鳥獣や</GREEN>\n休業日…台風、大雪、祭りの日\n営業時間…<BLUE>8:00〜16:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>問屋 大黒屋 雑貨売り場</GREEN>\n休業日…月・木曜日　台風、大雪、祭りの日\n営業時間…<BLUE>8:00〜16:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>問屋 大黒屋 食材売り場</GREEN>\n休業日…台風、大雪、祭りの日 \n営業時間…<BLUE>8:00〜16:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>問屋 大黒屋 服売り場</GREEN>\n休業日…台風、大雪、祭りの日 \n営業時間…<BLUE>8:00〜16:00</BLUE>"
+    },
+    {
+      "VardId": "MES_SIGNBOARD_J_SHOP_02",
+      "Text": "<SPEED_IMME>　　　　　　　　　　　　　　　　　　　　\n　　　　　　  〜お店情報〜\n\n<PAGE>\n<SPEED_IMME><GREEN>茶屋 腹八分目</GREEN>\n休業日…台風、大雪、祭りの日\n営業時間…<BLUE>9:00〜19:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>髪結屋 写楽</GREEN>\n休業日…台風、大雪、祭りの日 \n営業時間…<BLUE>8:00〜20:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>雑貨屋 九十九商店</GREEN>\n休業日…台風、大雪、祭りの日\n営業時間…<BLUE>8:00〜16:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>動物屋 鳥獣や</GREEN>\n休業日…台風、大雪、祭りの日 \n営業時間…<BLUE>8:00〜16:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>問屋 大黒屋 雑貨売り場</GREEN>\n休業日…月・木曜日　台風、大雪、祭りの日\n営業時間…<BLUE>8:00〜16:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>問屋 大黒屋 食材売り場</GREEN>\n休業日…台風、大雪、祭りの日\n営業時間…<BLUE>8:00〜16:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>問屋 大黒屋 服売り場</GREEN>\n休業日…台風、大雪、祭りの日 \n営業時間…<BLUE>8:00〜16:00</BLUE>"
+    },
+    {
+      "VardId": "MES_SIGNBOARD_J_SHOP_04",
+      "Text": "<SPEED_IMME>　　　　　　　　　　　　　　　　　　　　\n　　　　　　  〜お店情報〜\n\n<PAGE>\n<SPEED_IMME><GREEN>茶屋 腹八分目</GREEN>\n休業日…台風、大雪、祭りの日\n営業時間…<BLUE>9:00〜19:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>湯屋 ひのきの湯</GREEN>\n休業日…祭りの日\n営業時間…<BLUE>8:00〜20:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>髪結屋 写楽</GREEN>\n休業日…台風、大雪、祭りの日\n営業時間…<BLUE>8:00〜20:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>雑貨屋 九十九商店</GREEN>\n休業日…台風、大雪、祭りの日\n営業時間…<BLUE>8:00〜16:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>動物屋 鳥獣や</GREEN>\n休業日…台風、大雪、祭りの日\n営業時間…<BLUE>8:00〜16:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>問屋 大黒屋 雑貨売り場</GREEN>\n休業日…月・木曜日　台風、大雪、祭りの日\n営業時間…<BLUE>8:00〜16:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>問屋 大黒屋 食材売り場</GREEN>\n休業日…台風、大雪、祭りの日 \n営業時間…<BLUE>8:00〜16:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>問屋 大黒屋 服売り場</GREEN>\n休業日…台風、大雪、祭りの日 \n営業時間…<BLUE>8:00〜16:00</BLUE>"
+    },
+    {
+      "VardId": "MES_SIGNBOARD_S_SHOP_00",
+      "Text": "<SPEED_IMME>　　　　　　　　　　　　　　　　　　　　\n　　　　　　  〜お店情報〜\n\n<PAGE>\n<SPEED_IMME><GREEN>浜茶屋 カロセロ</GREEN>\n休業日…金・土曜日　台風、大雪、祭りの日\n営業時間…<BLUE>8:00〜17:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>食材屋 アクアパッツァ</GREEN>\n休業日…台風、大雪、祭りの日\n営業時間…<BLUE>6:00〜10:00、17:00〜22:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>果物屋 サンマンゴー</GREEN>\n休業日…台風、大雪、祭りの日\n営業時間…<BLUE>6:00〜10:00、17:00〜22:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>雑貨屋 ポレポレ</GREEN>\n休業日…台風、大雪、祭りの日 \n営業時間…<BLUE>6:00〜10:00、17:00〜22:00</BLUE>"
+    },
+    {
+      "VardId": "MES_SIGNBOARD_S_SHOP_01",
+      "Text": "<SPEED_IMME>　　　　　　　　　　　　　　　　　　　　\n　　　　　　  〜お店情報〜\n\n<PAGE>\n<SPEED_IMME><GREEN>雑貨屋 ジャンボ</GREEN>\n休業日…台風、大雪、祭りの日 \n営業時間…<BLUE>8:00〜17:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>宿屋 ララ・サラーマ</GREEN>\n休業日…祭りの日  \n営業時間…<BLUE>13:00〜5:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>何でも屋 レラシオン</GREEN>\n休業日…日・木曜日　台風、大雪、祭りの日\n営業時間…<BLUE>8:00〜17:00</BLUE>"
+    },
+    {
+      "VardId": "MES_CHECK_SHOP_HORSE_RIDE",
+      "Text": "乗馬中はお店を利用できない。"
+    },
+    {
+      "VardId": "MES_CHECK_MINE_ROCKS_0",
+      "Text": "<BLUE>ハンマー</BLUE>を装備して採掘しよう！"
+    },
+    {
+      "VardId": "MES_CHECK_MINE_ROCKS_1",
+      "Text": "これ以上採掘するのはやめておこう…。"
+    },
+    {
+      "VardId": "MES_CHECK_MINE_ROCKS_2",
+      "Text": "ここは、このハンマーじゃ採掘できない…。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_NOTSTART",
+      "Text": "ミスラの手書きらしい資料が\nテーブルに散らばっている…。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_FIRST",
+      "Text": "石版について、\nミスラが書いたメモが置いてある。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_CHOICE_00",
+      "Text": "どっちについて見ようかな？"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_CHOICE_01",
+      "Text": "次の石版について"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_CHOICE_02",
+      "Text": "これまでに集めた石版"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_CHOICE_03",
+      "Text": "<CANCEL_SELECT>\r\nやめる"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_ALL_FINISH",
+      "Text": "「すべての石版の解読が完了した。\n研究結果をまとめなければ！」\n<PAGE>\n…と書かれている。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_HOWTOGET_00",
+      "Text": "「石版のうちの１枚が、何かの祭りの\n　優勝賞品にされているらしい」\n<PAGE>\n「作物の出来を競う祭りだ。\n　だが作物など育てたことはない。\n　どうしよう」\n<PAGE>\n…と書かれている。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_HOWTOGET_01",
+      "Text": "「石版のうちの１枚が、\n　つゆくさの里で裏取引されているらしい」\n<PAGE>\n「持ち主はかなりのケチらしいが…\n　大金を積めば売ってくれるかも？」\n<PAGE>\n「だがワタシには、金が無い…」\n<PAGE>\n…と書かれている。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_HOWTOGET_02",
+      "Text": "「石版のうちの１枚が、動物の良し悪しを\n　競う祭りの優勝賞品になっているらしい」\n<PAGE>\n「だが動物は苦手だ。\n　ロータスに育てさせるか…？」\n<PAGE>\n…と書かれている。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_HOWTOGET_03",
+      "Text": "「石版のうちの１枚を、\n　遠くの町にいる友人の研究者が\n　入手したと連絡があった」\n<PAGE>\n「植物学者の彼女が、\n　どうやって石版を入手したのか\n　気になるトコロだが…」\n<PAGE>\n「まあいい。とりあえず、近いうちに\n　受け取りに行くとするか…」\n<PAGE>\n…と書かれている。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_HOWTOGET_04",
+      "Text": "「石版のうちの１枚が、また\n　作物の良し悪しを競う祭りの\n　優勝賞品にされているらしい」\n<PAGE>\n「しかも今度は、ベテラン以上でなければ\n　もらえないそうだ」\n<PAGE>\n「…くっ、作物の育成は、\n　ワタシの研究のテーマでは\n　ないというのに…」\n<PAGE>\n…と書かれている。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_HOWTOGET_05",
+      "Text": "「石版のうちの１枚が、\n　またまた動物の良し悪しを競う祭りの\n　優勝賞品にされているらしい」\n<PAGE>\n「なんでも、あやしいイヌの着ぐるみが\n　たまたま石版を拾ったということで、\n　祭りの副賞にしてしまったそうだ」\n<PAGE>\n「ベテラン以上でなければあげないワン！\n　だと？　ふざけるな」\n<PAGE>\n…と書かれている。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_HOWTOGET_06",
+      "Text": "「石版のうちの１枚を、\n　また例の守銭奴(しゅせんど)が\n　手に入れたらしい…」\n<PAGE>\n「金で解決できるのが\n　果たして良いのか悪いのか、\n　もはやわからない」\n<PAGE>\n「とりあえずいえることは、\n　ワタシには金がないということだ」\n<PAGE>\n…と書かれている。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_HOWTOGET_07",
+      "Text": "「石版のうちの１枚が、\n　ワタシの知り合いの手元にあるらしい」\n<PAGE>\n「とりあえずアイツの好きな\n　コーンシチューでも用意して、\n　近いうちに受け取りにいくか」\n<PAGE>\n「もしも無理難題をふっかけられたら、\n　フィッシュパイをドアの前に\n　置きにげしてやろう」\n<PAGE>\n…と書かれている。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_HOWTOGET_08",
+      "Text": "「石版のうちの１枚が、またまた\n　作物祭りの優勝賞品にされているらしい」\n<PAGE>\n「しかも今度はエキスパート以上…\n　あの司会者はまちがいなく性格が悪いな」\n<PAGE>\n「究極の作物の育て方が書かれた本とか\n　売ってないだろうか」\n<PAGE>\n…と書かれている。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_HOWTOGET_09",
+      "Text": "「石版のうちの１枚を、\n　またモリヤとかいう悪徳商人が\n　手に入れてしまったらしい…」\n<PAGE>\n「だからワタシには金がないと\n　言っているだろう！」\n<PAGE>\n…と書かれている。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_HOWTOGET_10",
+      "Text": "「石版のうちの１枚が、\n　またまた動物祭りの優勝賞品に\n　なっているという」\n<PAGE>\n「エキスパート以上の副賞だそうだ…\n　そんなの、牧場主でなければ\n　絶対もらえないじゃないか」\n<PAGE>\n…と書かれている。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_PROGRESS_FIRST",
+      "Text": "いまは、<BLUE><____ITEMNAME0____></BLUE>の\n解読中だ。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_PROGRESS_LOW",
+      "Text": "解読はまだあまり進んでないみたいだ。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_PROGRESS_MIDDLE",
+      "Text": "半分くらい解読できているみたいだ。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_PROGRESS_FINISH",
+      "Text": "解読は完了しているみたいだ。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_TAKEMONEY_00",
+      "Text": "解読はまだあまり進んでないみたいだ。\n<PAGE>\nそういえば、お金がなくて\n解読作業が止まっていると言っていた。\n<PAGE>\n足りないのは<BLUE><MOJI0></BLUE><MOJI1>だ。\nわたしてあげようかな？"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_TAKEMONEY_01",
+      "Text": "わたす"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_TAKEMONEY_02",
+      "Text": "<CANCEL_SELECT>\r\nわたさない"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_TAKEMONEY_03",
+      "Text": "…と思ったけど、お金が足りない…。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_HINT_FIRST",
+      "Text": "メモによると、\n石版にはこう書かれている…。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_HINT_01_00",
+      "Text": "「三房宿る黄色の三日月\n　これを祭壇に捧げよ」\n<PAGE>\n…三日月っぽい形で、黄色のもの…\n何かあっただろうか。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_HINT_01_01",
+      "Text": "「三房宿る黄色の三日月\n　これを祭壇に捧げよ」\n<PAGE>\n…三日月っぽい形で、黄色のもの…\n何かあっただろうか。\n<PAGE>\nそうだ、三日月っぽい形の果物が\nなかったかな。\nアレなら三つの房が付いているし…。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_HINT_02_00",
+      "Text": "「断末魔の悲鳴をあげし青魚\n　これを祭壇に捧げよ」\n<PAGE>\n青魚…といえば、サバかなぁ？\n悲鳴を上げる時は、どんな声を出すだろう？\n…「キャッ」とか？"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_HINT_02_01",
+      "Text": "「断末魔の悲鳴をあげし青魚\n　これを祭壇に捧げよ」\n<PAGE>\n青魚…といえば、サバかなぁ？\n悲鳴を上げる時は、どんな声を出すだろう？\n…「キャッ」とか？\n<PAGE>\n…そういえば、\n名前に「サバ」と付く作物がなかったかな。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_HINT_03_00",
+      "Text": "「針のよろいに守られた光の輪\nこれを祭壇に捧げよ」\n<PAGE>\n針のよろい…とげとげの皮…\n光の輪というのは、\n果肉の形を表しているのかもしれない。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_HINT_03_01",
+      "Text": "「針のよろいに守られた光の輪\n　これを祭壇に捧げよ」\n<PAGE>\n針のよろい…とげとげの皮…\n光の輪というのは、\n果肉の形を表しているのかもしれない。\n<PAGE>\n皮にとげとげがついていて、\n中身は黄色い輪のようになった果物…。\n何かあったかな。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_HINT_04_00",
+      "Text": "「そのかがやきは闇夜を照らす星のごとし\n　これを祭壇に捧げよ」\n<PAGE>\n星のごとし？\n星のようなもの、ということかな…。\n何かあったかなぁ？"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_HINT_04_01",
+      "Text": "「そのかがやきは闇夜を照らす星のごとし\n　これを祭壇に捧げよ」\n<PAGE>\n星のごとし？\n星のようなもの、ということかな…。\n何かあったかなぁ？\n<PAGE>\n切ると星形になることから、\nその名前がついた果物が\nあったような気がするんだけど…。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_HINT_05_00",
+      "Text": "「苦き茶色の身に甘美な子種を宿せしもの\n　これを祭壇に捧げよ」\n<PAGE>\n茶色くて苦いけど種は甘い？\n子種、というのは種のことではなく、\n別のものの例えなのかもしれない。\n<PAGE>\n例えば、それ自体は苦いけど、\nそれから作られるものは甘い…とか。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_HINT_05_01",
+      "Text": "「苦き茶色の身に甘美な子種を宿せしもの\n　これを祭壇に捧げよ」\n<PAGE>\n茶色くて苦いけど種は甘い？\n子種、というのは種のことではなく、\n別のものの例えなのかもしれない。\n<PAGE>\n例えば、それ自体は苦いけど、\nそれから作られるものは甘い…とか。\n<PAGE>\n甘くて茶色い食べ物といえば、\nチョコレートとかかな。\nチョコレートの原料ってなんだっけ？"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_HINT_06_00",
+      "Text": "「黄金色の海より昇る太陽\n　これを祭壇に捧げよ」\n<PAGE>\n黄金色の海…食材じゃなく、料理かも。\n昇る太陽みたいな名前の飲み物が\nなかっただろうか。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_HINT_06_01",
+      "Text": "「黄金色の海より昇る太陽\n　これを祭壇に捧げよ」\n<PAGE>\n黄金色の海…食材じゃなく、料理かも。\n昇る太陽みたいな名前の飲み物が\nなかっただろうか。\n<PAGE>\nあんずとマンゴーをつかったシェイクが、\nそんな名前だったような気がする。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_HINT_07_00",
+      "Text": "「灼熱の痛みもたらす炎の化身\n　これを祭壇に捧げよ」\n<PAGE>\nいたみ…辛い、ということかも。\n食べると辛いもの、か…。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_HINT_07_01",
+      "Text": "「灼熱の痛みもたらす炎の化身\n　これを祭壇に捧げよ」\n<PAGE>\nいたみ…辛い、ということかも。\n食べると辛いもの、か…。\n<PAGE>\n炎の化身っていうくらいだから赤いのかな？\n食べると辛くて、赤い作物ってなんだっけ？"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_HINT_08_00",
+      "Text": "「その黄をほおばるは口をつぐむことなり\n　これを祭壇に捧げよ」\n<PAGE>\nほおばることは口をつぐむこと…\nしゃべれなくなるということかな？\nそれはどんなときだろう？"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_HINT_08_01",
+      "Text": "「その黄をほおばるは口をつぐむことなり\nこれを祭壇に捧げよ」\n<PAGE>\nほおばることは口をつぐむこと…\nしゃべれなくなるということかな？\nそれはどんなときだろう？\n<PAGE>\n例えば、ものすごくすっぱいものを食べたら\nしゃべれなくなるかもしれない。\n黄色くて、すっぱい食べ物といえば…。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_HINT_09_00",
+      "Text": "「女王にささげる高貴なる糧(かて)\nこれを祭壇に捧げよ」\n<PAGE>\n女王…何かの群れの女王ということかも？\n高貴っぽい名前がついた食べ物って、\nなにかあったかな…。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_HINT_09_01",
+      "Text": "「女王にささげる高貴なる糧(かて)\nこれを祭壇に捧げよ」\n<PAGE>\n女王…何かの群れの女王ということかも？\n高貴っぽい名前がついた食べ物って、\nなにかあったかな…。\n<PAGE>\n高貴といえば王族、王族と言えばロイヤル。\nたしかロイヤルっぽい名前の収穫物が…\nいや、ローヤルだったっけ…。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_HINT_10_00",
+      "Text": "「酸の海でおぼれる宝石\nこれを祭壇に捧げよ」\n<PAGE>\n酸の海…炭酸のことかな。\n宝石というのが、\nフルーツの例えだとしたら…。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_HINT_10_01",
+      "Text": "「酸の海でおぼれる宝石\nこれを祭壇に捧げよ」\n<PAGE>\n酸の海…炭酸のことかな。\n宝石というのが、\nフルーツの例えだとしたら…。\n<PAGE>\nフルーツに炭酸をかけた料理が\nあったような気がするんだけど…。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_HINT_11_00",
+      "Text": "「淡海で身をたゆらせし白く細き大蛇\nこれを祭壇に捧げよ」\n<PAGE>\nこれまでのなぞから考えると「淡海」は\nあっさりとしたスープか何かの例えだろう。\nとすると、白く細い大蛇は…？"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_HINT_11_01",
+      "Text": "「淡海で身をたゆらせし白く細き大蛇\nこれを祭壇に捧げよ」\n<PAGE>\nこれまでのなぞから考えると「淡海」は\nあっさりとしたスープか何かの例えだろう。\nとすると、白く細い大蛇は…？\n<PAGE>\n白いヘビがメンの例えだとすれば、\nあっさりとしたスープに、白いメンの\n入った料理…何かあったかな…？"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_LITHOGRAPH_FIRST",
+      "Text": "どの石版を調べよう？"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_LITHOGRAPH_00",
+      "Text": "ネズミの絵の石版"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_LITHOGRAPH_01",
+      "Text": "ウシの絵の石版"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_LITHOGRAPH_02",
+      "Text": "ネコの絵の石版"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_LITHOGRAPH_03",
+      "Text": "ウサギの絵の石版"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_LITHOGRAPH_04",
+      "Text": "ドラゴンの絵の石版"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_LITHOGRAPH_05",
+      "Text": "ヘビの絵の石版"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_LITHOGRAPH_06",
+      "Text": "ウマの絵の石版"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_LITHOGRAPH_07",
+      "Text": "ヒツジの絵の石版"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_LITHOGRAPH_08",
+      "Text": "サルの絵の石版"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_LITHOGRAPH_09",
+      "Text": "ガルーダの絵の石版"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_LITHOGRAPH_10",
+      "Text": "イヌの絵の石版"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_LITHOGRAPH_11",
+      "Text": "イノシシの絵の石版"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_LITHOGRAPH_12",
+      "Text": "<CANCEL_SELECT>\r\nやめる"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_LITHOGRAPH_00_00",
+      "Text": "ミスラが手に入れてきた、最初の石版だ。\nこれを使って開けたとびらは、\n魔女ちゃまの家につながっていた。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_LITHOGRAPH_01_00",
+      "Text": "②┥┃⑥╋⑰⑪┤┐⑬┿②┬┫⑰┤\n━⑫⑮┃┐┣⑰⑯┯┃┃┼⑰⑧\n<PAGE>\n三房宿る黄色の三日月\nこれを祭壇に捧げよ\n<PAGE>\n…と文字が彫られた、ウシの絵の石版。\n答えは<BLUE>バナナ</BLUE>だった。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_LITHOGRAPH_02_00",
+      "Text": "┣⑰⑯①┫①┿┰④┐⑮┌┼⑰┏┌├┃⑰┬\n┠━⑫⑮┃┐┣⑰⑯┯┃┃┼⑰⑧\n<PAGE>\n断末魔の悲鳴をあげし青魚\nこれを祭壇に捧げよ\n<PAGE>\n…と文字が彫られた、ネコの絵の石版。\n答えは<BLUE>キャッサバ</BLUE>だった。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_LITHOGRAPH_03_00",
+      "Text": "┝⑩┿⑧⑬┐┯①⑤⑨⑫┣┰┬⑩┿⑭\n━⑫⑮┃┐┣⑰⑯┯┃┃┼⑰⑧\n<PAGE>\n針のよろいに守られた光の輪\nこれを祭壇に捧げよ\n<PAGE>\n…と文字が彫られた、ウサギの絵の石版。\n答えは<BLUE>パイナップル</BLUE>だった。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_LITHOGRAPH_04_00",
+      "Text": "┗┿┬┬⑰⑥┤┝⑥②⑧⑮┻⑨┓╂┏┿━⑰\n╋┏━⑫⑮┃┐┣⑰⑯┯┃┃┼⑰⑧\n<PAGE>\nそのかがやきは闇夜を照らす星のごとし\nこれを祭壇に捧げよ\n<PAGE>\n…と文字が彫られた、ドラゴンの絵の石版。\n答えは<BLUE>スターフルーツ</BLUE>だった。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_LITHOGRAPH_05_00",
+      "Text": "┯┬⑰┤┳⑥⑳┐⑬┿②┯┬⑯┰⑰┠━┣⑰\n┷⑮⑥╋⑰┛┏⑤┿━⑫⑮┃┐┣⑰⑯┯┃┃\n┼⑰⑧\n<PAGE>\n苦き茶色の身に甘美な子種を宿せしもの\nこれを祭壇に捧げよ\n<PAGE>\n…と文字が彫られた、ヘビの絵の石版。\n答えは<BLUE>カカオ</BLUE>だった。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_LITHOGRAPH_06_00",
+      "Text": "━┬⑰┷┐⑬┿┘②⑧⑩┿╂⑰⑪┣┐⑧┘\n━⑫⑮┃┐┣⑰⑯┯┃┃┼⑰⑧\n<PAGE>\n黄金色の海より昇る太陽\nこれを祭壇に捧げよ\n<PAGE>\n…と文字が彫られた、ウマの絵の石版。\n答えは<BLUE>サンライズシェイク</BLUE>だった。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_LITHOGRAPH_07_00",
+      "Text": "┏⑥⑳┴┷┫┿┐┣②⑤┣⑨┓╂┿├┿\n┼┏⑯━⑫⑮┃┐┣⑰⑯┯┃┃┼⑰⑧\n<PAGE>\n灼熱(しゃくねつ)の痛みもたらす炎の化身\nこれを祭壇に捧げよ\n<PAGE>\n…と文字が彫られた、ヒツジの絵の石版。\n答えは<BLUE>とうがらし</BLUE>だった。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_LITHOGRAPH_08_00",
+      "Text": "┗┿┤⑮╂├┝⑰⑪┝┴┳⑮┫┴⑰③━╋\n┠⑩━⑫⑮┃┐┣⑰⑯┯┃┃┼⑰⑧\n<PAGE>\nその黄をほおばるは口をつぐむことなり\nこれを祭壇に捧げよ\n<PAGE>\n…と文字が彫られた、サルの絵の石版。\n答えは<BLUE>レモン</BLUE>だった。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_LITHOGRAPH_09_00",
+      "Text": "┏⑰⑧⑳├┘┯┃┃┼⑰⑪━┘┤┠⑪┬┻\n━⑫⑮┃┐┣⑰⑯┯┃┃┼⑰⑧\n<PAGE>\n女王にささげる高貴なる糧(かて)\nこれを祭壇に捧げよ\n<PAGE>\n…と文字が彫られた、ガルーダの絵の石版。\n答えは<BLUE>ローヤルゼリー</BLUE>だった。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_LITHOGRAPH_10_00",
+      "Text": "┃⑯┿┘②┻⑰├╂⑰⑫⑪╂┘┛┤\n━⑫⑮┃┐┣⑰⑯┯┃┃┼⑰⑧\n<PAGE>\n酸の海でおぼれる宝石\nこれを祭壇に捧げよ\n<PAGE>\n…と文字が彫られた、イヌの絵の石版。\n答えは<BLUE>フルーツポンチ</BLUE>だった。"
+    },
+    {
+      "VardId": "MES_CHECK_MISTERY_LITHOGRAPH_11_00",
+      "Text": "┣⑯┬┐┻⑰②⑮┣⑦⑨┛┏┏⑬┴╂┗┤┣\n⑰┐┏⑰⑥⑳━⑫⑮┃┐┣⑰⑯┯┃┃┼⑰⑧\n<PAGE>\n淡海(たんかい)で身をたゆらせし\n白く細き大蛇\nこれを祭壇に捧げよ\n<PAGE>\n…と文字が彫られた、イノシシの絵の石版。\n答えは<BLUE>フォー</BLUE>だった。"
+    },
+    {
+      "VardId": "MES_CHECK_DUMMY_1",
+      "Text": "ただいま、開発中です。\n少々お待ちください。"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_FIRST_VISIT",
+      "Text": "ようこそ、ここは紙芝居屋だよ！\n<PAGE>\nここでは、お客さんが選んでくれた\nお話の１話分を１日１回上演するよー。\n<PAGE>\nえっ、１日１回は少なすぎ？\nうーん、そこはおじさんもつかれちゃうから\nかんべんしてね。\n<PAGE>\nその代わり、上演代は<BLUE><MOJI0></BLUE>Gで\nおまけつきだよ。\n<PAGE>\nそれから、曜日によって他の町へ行くから\n毎回ここにいるわけじゃないんだ。\n気をつけてねー。"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_USUALLY_VISIT",
+      "Text": "ようこそ、紙芝居屋へ！"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_NEW_VISIT",
+      "Text": "ようこそ、紙芝居屋へ！\n新しいお話を仕入れたよ。\nさあ、見てって見てって！！"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_NO_MONEY",
+      "Text": "おっとっと、お金がないよ。\nちゃんと用意してから来てね〜。"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_NG",
+      "Text": "おっと、おまけがもらえるから、\nカバンに空きを作って来てね〜。"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_STORY_SELECTION",
+      "Text": "さーて！\n今は、このお話が見られるよ。"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_STORY_SELECTION_001",
+      "Text": "お星様をさがして"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_STORY_SELECTION_002",
+      "Text": "魔法戦士アイドルン♪"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_STORY_SELECTION_003",
+      "Text": "川辺青春物語"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_STORY_SELECTION_CANCEL",
+      "Text": "<CANCEL_SELECT>\r\nやっぱりやめる"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_NUMBER_SELECTION",
+      "Text": "何話目を見る？"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_STAR_001",
+      "Text": "第１話　スピカ"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_STAR_002",
+      "Text": "第２話　公園と女の子"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_STAR_003",
+      "Text": "第３話　つないだ手"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_STAR_004",
+      "Text": "第４話　ノア、学校に行く"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_STAR_005",
+      "Text": "第５話　ノア、再会する"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_STAR_006",
+      "Text": "第６話　お星様のありか"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_STAR_007",
+      "Text": "第７話　さようならとまたね"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_STAR_008",
+      "Text": "最終話　お星様はここに"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_IDOLN_001",
+      "Text": "第１話　魔法戦士アイドルン登場"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_IDOLN_002",
+      "Text": "第２話　魔法戦士アイドルン登場"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_IDOLN_003",
+      "Text": "第３話　野外フェスはおおさわぎ！？"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_IDOLN_004",
+      "Text": "第４話　野外フェスはおおさわぎ！？"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_IDOLN_005",
+      "Text": "第５話　激闘！　料理バトル！"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_IDOLN_006",
+      "Text": "第６話　激闘！　料理バトル！"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_IDOLN_007",
+      "Text": "第７話　思い出のラストデイ！"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_IDOLN_008",
+      "Text": "第８話　思い出のラストデイ！"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_IDOLN_009",
+      "Text": "第９話　夢の舞踏館公演！"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_IDOLN_010",
+      "Text": "第１０話　夢の舞踏館公演！"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_IDOLN_011",
+      "Text": "最終話　夢の舞踏館公演！"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_RIVER_001",
+      "Text": "第１話　昨日見た夢の話"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_RIVER_002",
+      "Text": "第２話　宿題の話"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_RIVER_003",
+      "Text": "第３話　受験の話"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_RIVER_004",
+      "Text": "第４話　言えない話"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_RIVER_005",
+      "Text": "第５話　オレの友人の話"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_RIVER_006",
+      "Text": "第６話　仲直りの話"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_RIVER_007",
+      "Text": "第７話　卒業式の話"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_RIVER_008",
+      "Text": "最終話　ほんの少し未来の話"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_NUMBER_SELECTION_CANCEL",
+      "Text": "<CANCEL_SELECT>\r\nお話の選択にもどる"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_START_MES",
+      "Text": "さあさ、みなさん。\nよってらっしゃい見てらっしゃい〜。\n今から楽しいお話のはじまりだよ〜！"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_BONUS_ITEM",
+      "Text": "楽しんでくれたかい？\nじゃ、これはおまけだよ。"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_END",
+      "Text": "ふー、今日もいい仕事したなぁ。\nそれじゃあ、また会う日まで！"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_LEAVE_STORE",
+      "Text": "もういいのかい？\nまた来てね。"
+    },
+    {
+      "VardId": "MSG_SHOP_PICTURE_STORY_SHOW_CLOSE",
+      "Text": "オレはさすらいの紙芝居屋さ。"
+    },
+    {
+      "VardId": "MES_TOILET_BATHROOM_BATH",
+      "Text": "お風呂に入る"
+    },
+    {
+      "VardId": "MES_TOILET_BATHROOM_TOILET",
+      "Text": "トイレに入る"
+    },
+    {
+      "VardId": "MES_TOILET_BATHROOM_NO",
+      "Text": "<CANCEL_SELECT>\r\nやっぱりやめる"
+    },
+    {
+      "VardId": "MES_TOILET_BATHROOM_ASK",
+      "Text": "どっちに入ろうかな？"
+    },
+    {
+      "VardId": "MES_TOILET_BATHROOM_BATH_SELECT_1",
+      "Text": "あ〜さっぱりした！\nやっぱりお風呂は気持ちいいなあ♪"
+    },
+    {
+      "VardId": "MES_TOILET_BATHROOM_BATH_SELECT_2",
+      "Text": "気持ち良かった。\n…でも、さっき入ったばかりだから\nのぼせちゃう。"
+    },
+    {
+      "VardId": "MES_TOILET_BATHROOM_TOILET_SELECT_1",
+      "Text": "ふぅ、スッキリ。\nさぁ、何をしようかな？"
+    },
+    {
+      "VardId": "MES_TOILET_BATHROOM_TOILET_SELECT_2",
+      "Text": "さっき使ったばっかりだった。\nもっと時間が経ってから使おう。"
+    },
+    {
+      "VardId": "MES_PANEL_BATH_ASK",
+      "Text": "お風呂に入ろうかな？"
+    },
+    {
+      "VardId": "MES_PANEL_BATH_SELECT_0",
+      "Text": "入る"
+    },
+    {
+      "VardId": "MES_PANEL_BATH_SELECT_1",
+      "Text": "<CANCEL_SELECT>\r\nやめておく"
+    },
+    {
+      "VardId": "MES_PANEL_BATH_AFTER_0",
+      "Text": "あ〜さっぱりした！\nやっぱりお風呂は気持ちいいなあ♪"
+    },
+    {
+      "VardId": "MES_PANEL_BATH_AFTER_1",
+      "Text": "気持ち良かった。\n…でも、さっき入ったばかりだから\nのぼせちゃう。"
+    },
+    {
+      "VardId": "MSG_MUSH_CUL_NEED_SEED",
+      "Text": "きのこの種をまこう。"
+    },
+    {
+      "VardId": "MSG_MUSH_CUL_ALREADY",
+      "Text": "すでにきのこの種をまいている。"
+    },
+    {
+      "VardId": "MSG_MUSH_CUL_NOT_FINISH",
+      "Text": "<GREEN><MOJI0></GREEN>はまだできていないようだ。"
+    },
+    {
+      "VardId": "MSG_MUSH_CUL_ITEM_IN_BAG",
+      "Text": "アイテムをしまってきのこを収穫しよう！"
+    },
+    {
+      "VardId": "MSG_MUSH_CUL_BAG_FULL",
+      "Text": "カバンがいっぱいで収穫出来ない。"
+    },
+    {
+      "VardId": "MSG_MUSH_CUL_GET_ITEM",
+      "Text": "<GREEN><MOJI0></GREEN>が<MOJI1>個採れた！"
+    },
+    {
+      "VardId": "MSG_MUSH_CUL_FINISH_FURTILIZER",
+      "Text": "今ひりょうを使っても意味がない。"
+    },
+    {
+      "VardId": "MSG_MUSH_CUL_NOSEED_FURTILIZER",
+      "Text": "きのこの種をまいてから使おう。"
+    },
+    {
+      "VardId": "MSG_MUSH_CUL_NOUSE_FURTILIZER",
+      "Text": "今日はもうひりょうをまいている。"
+    },
+    {
+      "VardId": "MSG_MUSH_CUL_NOMORE_FURTILIZER",
+      "Text": "これ以上使っても意味がない。"
+    },
+    {
+      "VardId": "MSG_MUSH_CUL_CANTUSE",
+      "Text": "これはきのこの原木には使えない"
+    },
+    {
+      "VardId": "MES_CHECK_MUSH_CUL_FIRST",
+      "Text": "<SPEED_FAST>これは<BLUE>きのこの原木</BLUE>です。\nここできのこを育てることができます。\n<PAGE>\n<SPEED_FAST>作物と同じように種をまき、\nきのこが育つまで待ちましょう。\n水やりは不要です。"
+    },
+    {
+      "VardId": "MES_CHECK_BED_FIRST",
+      "Text": "<SPEED_FAST>これは<BLUE>ベッド</BLUE>です。\n寝ることで今日１日の生活が終了します。\n<PAGE>\n<SPEED_FAST>寝た時間によって、\n次の日の起床時間が変化します。\n早く起きたい時は、早めに寝ましょう。"
+    },
+    {
+      "VardId": "MES_CHECK_ITEMBOX_FIRST",
+      "Text": "<SPEED_FAST>これは<BLUE>収納箱</BLUE>です。\n作物や料理など、様々なものを\n収納することができます。\n<PAGE>\n<SPEED_FAST>カバンに入りきらないものは、\n収納箱に入れて保管しましょう。"
+    },
+    {
+      "VardId": "MES_CHECK_TOOLBOX_FIRST",
+      "Text": "<SPEED_FAST>これは<BLUE>道具箱</BLUE>です。\nカマやクワなどの道具を\n収納することができます。\n<PAGE>\n<SPEED_FAST>使わない道具は、\n道具箱に入れて保管しましょう。"
+    },
+    {
+      "VardId": "MES_CHECK_CLOSET_FIRST",
+      "Text": "<SPEED_FAST>ここは<BLUE>クローゼット</BLUE>です。\n服や帽子を着替えることができます。\n<PAGE>\n<SPEED_FAST>新しく手に入れた服、帽子、メガネは\n自動的にクローゼットに収納されます。"
+    },
+    {
+      "VardId": "MES_CHECK_CALENDAR_FIRST",
+      "Text": "<SPEED_FAST>これは<BLUE>カレンダー</BLUE>です。\n行事や誕生日などを調べることができます。\n<PAGE>\n<SPEED_FAST>新しい行事や、新たに知り合った人の\n情報も追加されていきますので、\nこまめにチェックしましょう。"
+    },
+    {
+      "VardId": "MES_CHECK_BOOKSHELF_FIRST",
+      "Text": "<SPEED_FAST>これは<BLUE>本棚</BLUE>です。\n生活に役立つ情報を調べられます。\n<PAGE>\n<SPEED_FAST>いろいろなことを経験することで、\n新しい本が増えていきます。"
+    },
+    {
+      "VardId": "MES_CHECK_POST_FIRST",
+      "Text": "<SPEED_FAST>これは<BLUE>ポスト</BLUE>です。\n新商品入荷のお知らせや、\n住人からのお手紙がここに入ります。\n<PAGE>\n<SPEED_FAST>あまり多く入らないので、\nこまめに見るようにしましょう。"
+    },
+    {
+      "VardId": "MES_CHECK_ANIMALFODDER_FIRST",
+      "Text": "<SPEED_FAST>これは<GREEN>エサ取出し口</GREEN>です。\nサイロに入っているエサを、\nここから取り出せます。\n<PAGE>\n<SPEED_FAST>エサを切らさないように、\nストックには注意してください。"
+    },
+    {
+      "VardId": "MES_CHECK_ANIMALPREGNANCYSPACE_FIRST",
+      "Text": "<SPEED_FAST>これは<GREEN>にんしんスペース</GREEN>です。\n妊娠した動物は、ここに入ります。\n<PAGE>\n<SPEED_FAST>ここに入った動物はエサも必要ありません。\n子供が生まれるまで見守りましょう。"
+    },
+    {
+      "VardId": "MES_CHECK_BAITSPACE_FIRST",
+      "Text": "<SPEED_FAST>これは<GREEN>エサ置き場</GREEN>です。\nここにエサを入れると\n動物たちが食べにきます。"
+    },
+    {
+      "VardId": "MES_CHECK_ANIMALNOTE_FIRST",
+      "Text": "<SPEED_FAST>これは<GREEN>動物ノート</GREEN>です。\n動物の名前や体調といった様々なものを\n確認することができます。\n<PAGE>\n<SPEED_FAST>こまめにチェックを行い、\n動物を見守りましょう。"
+    },
+    {
+      "VardId": "MES_CHECK_CHICKENFODDER_FIRST",
+      "Text": "<SPEED_FAST>これは<GREEN>トリのエサ取出し口</GREEN>です。\nサイロに入っている<BLUE>トリのエサ</BLUE>を\nここから取り出せます。\n<PAGE>\n<SPEED_FAST>トリのエサを切らさないように、\nストックには注意しましょう。"
+    },
+    {
+      "VardId": "MES_CHECK_CHICKENFODDER_FIRST",
+      "Text": "<SPEED_FAST>これは<GREEN>エサ置き場</GREEN>です。\n<BLUE>トリのエサ</BLUE>を、ここに投げ入れると\nトリたちが食べにきます。\n<PAGE>\n<SPEED_FAST>トリのエサを入れるときは、\nしっかりと投げ入れてあげましょう。"
+    },
+    {
+      "VardId": "MES_CHECK_CHICKENHATCHBOX_FIRST",
+      "Text": "<SPEED_FAST>これは<GREEN>ふ化箱</GREEN>です。\n大人のトリを置いておくと、\n数日後にヒヨコが生まれます。\n<PAGE>\n<SPEED_FAST>トリをおいた後は、\n生まれるまで見守りましょう。"
+    },
+    {
+      "VardId": "MES_CHECK_PETHOME_FIRST",
+      "Text": "<SPEED_FAST>これは<GREEN>ペット小屋</GREEN>です。\nペットの散歩ができたり、\nペットの情報を確認することができます。"
+    },
+    {
+      "VardId": "MES_CHECK_PETFOODSPACE_FIRST",
+      "Text": "<SPEED_FAST>これは<GREEN>ペットのエサ置き場</GREEN>です。\nペットのエサは、ここに入れると\nペットたちが食べにきます。\n<PAGE>\n<SPEED_FAST>エサを切らさないように\nエサの残量には注意しましょう。"
+    },
+    {
+      "VardId": "MES_CHECK_KITCHEN_FIRST",
+      "Text": "<SPEED_FAST>これは<BLUE>キッチン</BLUE>です。\n持っているレシピから料理を作れます。"
+    },
+    {
+      "VardId": "MES_CHECK_SUNPLACE_FIRST",
+      "Text": "<SPEED_FAST>ここは<BLUE>太陽置き場</BLUE>です。\n各季節の太陽を置くことで\n地下室の季節が変わります。"
+    },
+    {
+      "VardId": "MES_CHECK_API_FIRST",
+      "Text": "<SPEED_FAST>ここは<BLUE>養蜂箱</BLUE>です。\n花を入れておくと、数日後には\nハチミツがとれるようになります。"
+    },
+    {
+      "VardId": "MES_CHECK_CUL_FIRST",
+      "Text": "<SPEED_FAST>これは<BLUE>いけす</BLUE>です。\n魚や真珠貝を入れておくと、\n養殖を行うことができます。"
+    },
+    {
+      "VardId": "MES_CHECK_SEEDMAKER_FIRST",
+      "Text": "<SPEED_FAST>これは<BLUE>種メーカー</BLUE>です。\n作物を入れると、\nその作物の種を作ることができます。"
+    },
+    {
+      "VardId": "MES_CHECK_CLOTHMAKER_FIRST",
+      "Text": "<SPEED_FAST>これは<BLUE>生地メーカー</BLUE>です。\n材料と染料を入れることで、\n布や糸を作ることができます。"
+    },
+    {
+      "VardId": "MES_CHECK_TUBOMAKER_FIRST",
+      "Text": "<SPEED_FAST>これは<BLUE>つぼメーカー</BLUE>です。\nみそやしょうゆ、つけものなどを\n作ることができます。"
+    },
+    {
+      "VardId": "MES_CHECK_MILKMAKER_FIRST",
+      "Text": "<SPEED_FAST>これは<BLUE>ミルクメーカー</BLUE>です。\nミルクを入れることで、\nチーズやバターなどを作ることができます。"
+    },
+    {
+      "VardId": "MES_CHECK_MILLMAKER_FIRST",
+      "Text": "<SPEED_FAST>これは<BLUE>粉ひきメーカー</BLUE>です。\n小麦粉やとうもろこしなどをひいて\n粉にすることができます。"
+    },
+    {
+      "VardId": "MES_CHECK_POTMAKER_FIRST",
+      "Text": "<SPEED_FAST>これは<BLUE>ポットメーカー</BLUE>です。\nマヨネーズやジャムなどを\n作ることができます。"
+    },
+    {
+      "VardId": "MES_CHECK_WINEMAKER_FIRST",
+      "Text": "<SPEED_FAST>これは<BLUE>ワインメーカー</BLUE>です。\nフルーツを入れることで\nワインを作ることができます。"
+    },
+    {
+      "VardId": "MES_CHECK_FERTILIZERMAKER_FIRST",
+      "Text": "<SPEED_FAST>これは<BLUE>ひりょうメーカー</BLUE>です。\n作物のひりょうを作ることができます。"
+    },
+    {
+      "VardId": "MES_CHECK_FEEDMAKER_FIRST",
+      "Text": "<SPEED_FAST>これは<BLUE>しりょうメーカー</BLUE>です。\n動物のエサを作ることができます。"
+    },
+    {
+      "VardId": "MES_CHECK_FERTILIZWR_TANK_FIRST",
+      "Text": "<SPEED_FAST>これは<BLUE>ひりょう水タンク</BLUE>です。\nひりょう水を作ることができます。"
+    },
+    {
+      "VardId": "MES_CHECK_SHIPMENT_FIRST",
+      "Text": "<SPEED_FAST>ここは<BLUE>出荷箱</BLUE>です。\nここにモノを出荷すると\n次の日にお金が入金されます。"
+    },
+    {
+      "VardId": "MES_CHECK_PANELDECK_FIRST",
+      "Text": "<SPEED_FAST>ここは<BLUE>わくわく作業台</BLUE>です。\n牧場の畑や小屋などの配置を\n変更できます。"
+    },
+    {
+      "VardId": "MES_CHECK_SILOK_FIRST",
+      "Text": "<SPEED_FAST>これは<BLUE>サイロ</BLUE>です。\n動物のエサやおやつを\n保管することができます。"
+    },
+    {
+      "VardId": "MES_CHECK_PET_FOOD_MACHINE_FIRST",
+      "Text": "<SPEED_FAST>これは<BLUE>ペットエサマシン</BLUE>です。\n収納箱にあるペットのエサを\n毎日自動で放出します。"
+    },
+    {
+      "VardId": "MES_CHECK_BATH_TOILET_FIRST",
+      "Text": "<SPEED_FAST>これは<BLUE>風呂・トイレ</BLUE>です。\nどちらも、利用することで\n体力が回復します。\n<PAGE>\n<SPEED_FAST>ただし、一度利用した後は\n少し時間をあけるようにしましょう。"
+    },
+    {
+      "VardId": "MES_CHECK_PANEL_BATH_FIRST",
+      "Text": "<SPEED_FAST>これは<BLUE>風呂</BLUE>です。\n利用することで体力が回復します。\n<PAGE>\n<SPEED_FAST>ただし、一度利用した後は\n少し時間をあけるようにしましょう。"
+    },
+    {
+      "VardId": "MES_CHECK_PET_FOOD_MACHINE_00",
+      "Text": "エサが<MOJI0>個入っている。"
+    },
+    {
+      "VardId": "MES_CHECK_PET_FOOD_MACHINE_01",
+      "Text": "空だ、収納箱にエサを入れてあげよう。"
+    },
+    {
+      "VardId": "MES_CHECK_PET_FOOD_MACHINE_02",
+      "Text": "エサはたっぷり入ってる。安心安心♪"
+    },
+    {
+      "VardId": "MES_SUNPLACE_ASK",
+      "Text": "<____ITEMNAME0____>が置かれている。\n季節の太陽を置きかえますか？"
+    },
+    {
+      "VardId": "MES_SUNPLACE_0",
+      "Text": "<____ITEMNAME1____>"
+    },
+    {
+      "VardId": "MES_SUNPLACE_1",
+      "Text": "<____ITEMNAME2____>"
+    },
+    {
+      "VardId": "MES_SUNPLACE_2",
+      "Text": "<____ITEMNAME3____>"
+    },
+    {
+      "VardId": "MES_SUNPLACE_END",
+      "Text": "<CANCEL_SELECT>\r\nやめる"
+    },
+    {
+      "VardId": "MES_SUNPLACE_ON_THESUN",
+      "Text": "<____ITEMNAME0____>が置かれている。"
+    },
+    {
+      "VardId": "MES_SUNPLACE_NO_BAG",
+      "Text": "カバンに季節の太陽を入れてこよう。"
+    },
+    {
+      "VardId": "MES_SUNPLACE_FULL_BAG",
+      "Text": "カバンに空きを作ってから調べよう。"
+    },
+    {
+      "VardId": "MES_RECORD_ASK",
+      "Text": "何かきいてみようかな？"
+    },
+    {
+      "VardId": "MES_RECORD_SELECT_00",
+      "Text": "１曲目"
+    },
+    {
+      "VardId": "MES_RECORD_SELECT_01",
+      "Text": "２曲目"
+    },
+    {
+      "VardId": "MES_RECORD_SELECT_02",
+      "Text": "３曲目"
+    },
+    {
+      "VardId": "MES_RECORD_SELECT_03",
+      "Text": "４曲目"
+    },
+    {
+      "VardId": "MES_RECORD_SELECT_04",
+      "Text": "<CANCEL_SELECT>\r\nやめる"
+    },
+    {
+      "VardId": "MES_RECORD_SELECT_05",
+      "Text": "きく"
+    },
+    {
+      "VardId": "MES_RECORD_FIRST",
+      "Text": "<SPEED_FAST>これは<BLUE>レコード</BLUE>です。\n調べるといつもと違う音楽を\n部屋にいる間きくことができます。"
+    },
+    {
+      "VardId": "MES_ANIMAL_LIFT",
+      "Text": "動物をおろしてから調べよう。"
+    },
+    {
+      "VardId": "MES_ANIMAL_LIFT_SHOP",
+      "Text": "動物をおろしてからお店を利用しよう。"
+    },
+    {
+      "VardId": "MES_SELECT_GATSHA_ASK",
+      "Text": "どうしようかな？"
+    },
+    {
+      "VardId": "MES_SELECT_GATSHA_YES",
+      "Text": "アイテムをささげる"
+    },
+    {
+      "VardId": "MES_SELECT_GATSHA_NO",
+      "Text": "<CANCEL_SELECT>\r\nやめておく"
+    },
+    {
+      "VardId": "MES_GATSHA_NOIETM",
+      "Text": "アイテムを持ち上げてから調べよう。"
+    },
+    {
+      "VardId": "MES_GATSHA_THISTIME_END",
+      "Text": "今は何もおきないみたい。"
+    },
+    {
+      "VardId": "MES_GATSHA_CONVERSION_ITEM",
+      "Text": "<____ITEMNAME0____>をもらった。"
+    },
+    {
+      "VardId": "MES_GATSHA_OVER",
+      "Text": "カバンに空きを作ってから調べよう。"
+    },
+    {
+      "VardId": "MES_ANIMALFEED_POINT",
+      "Text": "<MOJI0>のエサ場"
+    },
+    {
+      "VardId": "MES_CHECK_HORSE_RIDE",
+      "Text": "ウマからおりて調べよう。"
+    },
+    {
+      "VardId": "MES_CHECK_HORSE_HUT_ASK",
+      "Text": "どうしようかな？"
+    },
+    {
+      "VardId": "MES_CHECK_HORSE_HUT_SELECT_00",
+      "Text": "<MOJI0>を呼ぶ"
+    },
+    {
+      "VardId": "MES_CHECK_HORSE_HUT_SELECT_01",
+      "Text": "エサを入れる"
+    },
+    {
+      "VardId": "MES_CHECK_HORSE_HUT_SELECT_02",
+      "Text": "<CANCEL_SELECT>\r\nやめる"
+    },
+    {
+      "VardId": "MES_CHECK_SISTER_FULL_BAG",
+      "Text": "カバンに空きを作ってから調べよう。"
+    }
+  ]
+}

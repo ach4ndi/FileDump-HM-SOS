@@ -1,0 +1,730 @@
+﻿{
+  "Date": "2016-06-10T19:21:16.1011589+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_MORNING_00",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nGuten Morgen, <MYNAME>."
+    },
+    {
+      "VardId": "MES_MORNING_01",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nGuten Morgen, <MYNAME>. Wie geht es dir\ndenn heute?"
+    },
+    {
+      "VardId": "MES_MORNING_02",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nGuten Morgen, <MYNAME>. Wie läuft es mit der\nArbeit?"
+    },
+    {
+      "VardId": "MES_AFTERNOON_00",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nHallo, <MYNAME>."
+    },
+    {
+      "VardId": "MES_AFTERNOON_01",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nHallo, <MYNAME>. Wie geht es dir?"
+    },
+    {
+      "VardId": "MES_AFTERNOON_02",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nHallo, <MYNAME>. Wie läuft es auf deiner Farm?"
+    },
+    {
+      "VardId": "MES_EVENING_00",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nGuten Abend, <MYNAME>."
+    },
+    {
+      "VardId": "MES_EVENING_01",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nGuten Abend, <MYNAME>. Wie war die Arbeit\nheute?"
+    },
+    {
+      "VardId": "MES_EVENING_02",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nGuten Abend, <MYNAME>. Hast du alle\nAufgaben auf deiner Farm erledigt?"
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_SPRING",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nHeute ist wirklich ein schöner Tag, oder? Ich\nhoffe, dass heute viele Leute zum Marktplatz\nkommen."
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_SPRING",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nEs ist eine Schande, dass es heute so sehr\nregnet. Bei so einem Wetter ist es schwierig,\ndie Leute dazu zu bewegen, hierher zu kommen."
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_SUMMER",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\n...Mensch, heute ist es aber warm. Ich frage\nmich, ob es wohl oben auf dem Berg kälter ist."
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_SUMMER",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nEs ist eine Schande, dass es heute so sehr\nregnet. Bei so einem Wetter ist es schwierig,\ndie Leute dazu zu bewegen, hierher zu kommen."
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_AUTUMN",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nHeute ist ein wunderbarer Herbsttag, oder? Ein\nperfekter Tag, um fleißig zu arbeiten."
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_AUTUMN",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDer Regen im Herbst kann sehr kalt sein. Pass\nauf, dass du dich nicht erkältest."
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_WINTER",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nAh, diese frische, klare Luft ist herrlich!\n<PAGE>\nAber pass auf, wenn du heute in den Bergen\nunterwegs bist, sonst könntest du eine\nErkältung bekommen."
+    },
+    {
+      "VardId": "MES_WEATHER_SNOW",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDie Straße kann sehr rutschig werden, wenn\nes so schneit wie heute. Pass auf, wo du\nhintrittst."
+    },
+    {
+      "VardId": "MES_WEATHER_TYPHOON",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nBei diesem Wetter geht man am besten nicht\nhinaus. Es ist ein großes Risiko. Was, wenn\ndu dich verletzt?"
+    },
+    {
+      "VardId": "MES_WEATHER_HEAVYSNOW",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nWenn man im Schnee umherwandert, kann man\nsich leicht verirren. Am besten bleibt man an\nTagen wie diesen daheim."
+    },
+    {
+      "VardId": "MES_BLESSING_LOVER",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\n<cap><MYNAME>, ich habe gehört, dass du recht\nviel Zeit mit einer gewissen Person verbringst.\nIch möchte ja wirklich nicht neugierig sein,\n<PAGE>\naber halte die Gilde bitte auf dem Laufenden. \nFalls es dazu kommen sollte, werden wir eine \nwunderschöne Hochzeitsfeier organisieren."
+    },
+    {
+      "VardId": "MES_HOUSE_FRIEND",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nManchmal komme ich hierher und rede mit\nMadam Eda. Das entspannt mich sehr."
+    },
+    {
+      "VardId": "MES_HOUSE_PINPOINT_00",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nHier im Hotel trifft man Leute aus aller Welt. Es\nist wirklich interessant, sich mit ihnen zu\nunterhalten."
+    },
+    {
+      "VardId": "MES_HOUSE_PINPOINT_01",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nIch bin über jeden Moment, den ich mit meiner\nTochter verbringen kann, sehr froh. Da wir beide\narbeiten, ist es aber nicht leicht, Zeit zu finden."
+    },
+    {
+      "VardId": "MES_HOUSE_PINPOINT_02",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nIch verlasse mich ganz auf Gunther, dass er das\nHaus der Gilde repariert und den Marktplatz\ninstand hält."
+    },
+    {
+      "VardId": "MES_AREA_FOREST_00",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nMadam Eda hat mir erzählt, dass in diesem Wald\nGeister leben. Sie meint, dass sie schon seit\nEwigkeiten dort sind.\n<PAGE>\n...Um ehrlich zu sein, wenn ich ein Geist wäre,\nwürde ich diesen tollen Ort auch heimsuchen.\nNirgendwo sonst kann man besser spuken!"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_01",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nIch glaube, wir sind gerade an der vierten Sta-\ntion. Die Luft ist frisch und klar, und der Wind\nauf der Haut fühlt sich wunderbar an, oder?"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_00",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nIn diesem Fluss hier gibt es viele Fische. Er ist\nzum Angeln sehr beliebt."
+    },
+    {
+      "VardId": "MES_AREA_RIVER_01",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDieser Wanderpfad wird von vielen Leuten\ngenutzt, da er nahe an der Stadt ist und\nman eine wunderschöne Aussicht hat."
+    },
+    {
+      "VardId": "MES_AREA_FARM_00",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nDie Luft ist hier viel frischer als unten in der\nStadt, oder?"
+    },
+    {
+      "VardId": "MES_AREA_FARM_01",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nFritz und Giorgio arbeiten in letzter Zeit wirklich\nschwer. Ich bin so froh darüber, dass ihre Arbeit\nFrüchte trägt."
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_00",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDieses Gebiet hier heißt <GREEN>Berghügel</GREEN>. Teeblätter\nund Obstbäume wachsen hier sehr gut."
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_01",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDer Boden hier ist von guter Qualität und die\nAussicht ist sehr schön. Das ist den\nbeschwerlichen Aufstieg wert."
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_02",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_SAD>\nIch verpachte dieses Gebiet an Madam Eda,\nobwohl es rückblickend keine gute Idee war, sie\nden ganzen Weg hin- und hergehen zu lassen..."
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_00",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDieses Gebiet heißt <GREEN>Ernteplatz</GREEN>. Es eignet sich\nsehr gut, um Bienen zu halten und Pilze zu\nzüchten."
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_01",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nHier wachsen viele verschiedene Pflanzen, ganz\nbesonders Blumen und <BLUE>Hohe Pflanzen</BLUE>."
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_02",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDas hier ist ein wunderschöner Blumengarten.\nGiorgio wird ganz seinem Ruf gerecht. Ich bin\nfroh, dass ich dieses Gebiet an ihn verpachte."
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_00",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDieses Gebiet hier nennt sich <GREEN>Zephir-Hügel</GREEN>.\nEs ist ein guter Ort, um Gemüse anzupflanzen."
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_01",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nWie du sehen kannst, ist das hier erstklassiges\nAckerland. Gemüse wächst hier immer gut."
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_02",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nFritz scheint so fleißig wie alle anderen zu sein.\nSein Gemüse sieht gut und gesund aus."
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_00",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDieses Gebiet heißt <GREEN>Wiesen am Fluss</GREEN>. Hier\nwachsen sowohl Reis als auch Weizen gut."
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_01",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDurch das Wasserrad ist die Atmosphäre an\ndiesem Ort sehr angenehm. Er ist auch sehr\nbeliebt zum Angeln."
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_02",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nElise pflanzt hier zurzeit Reis an. Lass dich\nnicht von ihrem Äußeren täuschen:\nHarte Arbeit ist ihr nicht fremd."
+    },
+    {
+      "VardId": "MES_AREA_OTHER_00",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nWie läuft es auf deiner Farm? Falls du mehr\nLand brauchst, gib mir einfach Bescheid."
+    },
+    {
+      "VardId": "MES_AREA_OTHER_01",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDa ich immer in der Gilde arbeite, komme ich\nkaum nach draußen. Deswegen bemühe ich\nmich darum, wann immer ich kann."
+    },
+    {
+      "VardId": "MES_HEART_WHITE",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nWie gefällt dir das Leben auf der Farm?\nÜberfordere dich am Anfang nicht zu sehr.\n<PAGE>\nSobald deine Farm größer wird, wirst auch du\ndaran wachsen. Dann wird dir die Arbeit\nimmer besser gefallen."
+    },
+    {
+      "VardId": "MES_HEART_PURPLE",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\n<cap><MYNAME>, würdest du sagen, dass du mit\ndeinem Beruf zufrieden bist?\n<PAGE>\nIch bin es. Ich bin stolz auf meine Arbeit als\nLeiterin der Gilde.\n<PAGE>\nIch gebe mein Bestes, um das Leben der Leute\nin der Stadt zu verbessern."
+    },
+    {
+      "VardId": "MES_HEART_BLUE",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nGewöhnst du dich langsam an die Arbeit? Sie ist\nnatürlich schwer, aber du kannst dir Zeit lassen\nund alles nach und nach lernen.\n<PAGE>\nUnd währenddessen kannst du die Vorteile des\nLebens hier genießen. Alles ist langsam und\ngemütlich, inmitten der Natur."
+    },
+    {
+      "VardId": "MES_HEART_GREEN",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nIch sehe all die Leute in dieser Stadt, dich mit\neingeschlossen, als enge Freunde an. Oder viel-\nleicht noch eher... als so etwas wie eine Familie.\n<PAGE>\nIch möchte, dass wir alle in engem Austausch\nstehen, besonders die Farmer. Dadurch können\nwir diese Stadt aufblühen lassen."
+    },
+    {
+      "VardId": "MES_HEART_YELLOW",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nEine der Aufgaben der Gilde ist, der Stadt zu\nWachstum zu verhelfen. Aber es gibt noch\nmehr.\n<PAGE>\nIndem wir den Handel unterstützen, hoffe ich,\ndass mehr Leute von dieser Stadt hören und\nwir unsere Beziehungen nach außen vertiefen.\n<PAGE>\nWir müssen Bindungen zu den Leuten schaffen,\negal, wo sie herkommen. Stell dir vor, die Stadt\nwäre ein weltweit agierendes Handelszentrum!"
+    },
+    {
+      "VardId": "MES_HEART_ORANGE",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nMeine Familie wacht schon seit der Gründung\ndieser Stadt über ihren Wachstum und den\nHandel.\n<PAGE>\nAls mein Vater zu alt wurde, wurde mein\nEhemann zum Leiter der Gilde ernannt. Er ging\ndieser Pflicht für den Rest seines Lebens nach.\n<PAGE>\nEs war sein Traum, ein weltweites Handelsnetz-\nwerk aufzubauen, das durch diese Stadt läuft.\nDann wurde er vor zehn Jahren krank\n<PAGE>\nund verschied. Seither arbeite ich daran, diesen \nTraum in die Tat umzusetzen. Und ich weiß\ndeine Hilfe sehr zu schätzen."
+    },
+    {
+      "VardId": "MES_HEART_RED",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nSchon als du hierherkamst, hast du gleich\nso fleißig gearbeitet.\n<PAGE>\nWas du für uns getan hast, ist in der ganzen\nStadt zu sehen. Im Namen aller, mich mit ein-\ngeschlossen, danke ich dir von ganzem Herzen.\n<PAGE>\nLass uns alle weiterhin unser Bestes geben,\nTag für Tag."
+    },
+    {
+      "VardId": "MES_PRESENT_BEST",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nAh, wie konntest du nur wissen, dass ich das\nam liebsten mag?\n<PAGE>\nIch fühle mich geschmeichelt. Vielen Dank."
+    },
+    {
+      "VardId": "MES_PRESENT_VERY",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nOh, ist das für mich? Also gut, vielen Dank!\n<PAGE>\nEin Geschenk kann ich wohl kaum ausschlagen.\nDanke schön!"
+    },
+    {
+      "VardId": "MES_PRESENT_LIKE",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nOh, das hier ist ziemlich nett. Vielen Dank."
+    },
+    {
+      "VardId": "MES_PRESENT_NORMAL",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nIst das ein Geschenk für mich? Vielen Dank."
+    },
+    {
+      "VardId": "MES_PRESENT_DISLIKE",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nOh... Das ist... Also, alles klar. Ich nehme es.\nVielen Dank."
+    },
+    {
+      "VardId": "MES_PRESENT_HATE",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_SAD>\nHmmm... Warte mal, ist das für mich? Ich\nglaube... dann werde ich es wohl annehmen..."
+    },
+    {
+      "VardId": "MES_PRESENT_WORST",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_SAD>\n...?! T-tu dieses Ding weg!\n<PAGE>\n...Was? D-du willst mir den schenken? Ich habe\nwohl keine Wahl, oder...? Gut. Ich mache\nmeine Augen zu. Tu ihn einfach... irgendwohin."
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_NORMAL",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nSieh nur, wie das glänzt. Du schenkst mir das?\nVielen Dank."
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_DISLIKE",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nWunderbar, wie das leuchtet... Also, wenn du\nmir das schenkst, werde ich sicherlich nicht\nNein sagen. Danke."
+    },
+    {
+      "VardId": "MES_PRESENT_CANNOT",
+      "Text": "Jetzt ist kein guter Zeitpunkt für ein Geschenk."
+    },
+    {
+      "VardId": "MES_PRESENT_RESERVE",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDu musst nicht versuchen, so nett zu sein..."
+    },
+    {
+      "VardId": "MES_PRESENT_SECONDTIME",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nOh, das ist wirklich eine nette Geste, aber ich\nwürde mich nur schuldig fühlen, wenn ich so\nschnell so viel von dir annehmen würde..."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_BEST",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_SAD>\nHm? Ein Geburtstagsgeschenk für mich?! Oh,\nstimmt, ich habe ja Geburtstag! Schon wieder\nein Jahr älter...\n<PAGE>\n<FACE_LAUGH>Ach, das macht nichts. Du hast mir mein\nAllerliebstes geschenkt. Woher wusstest\ndu das nur?\n<PAGE>\nDu bist so nett. Vielen Dank!"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_VERY",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nOh, ich mag das, wirklich! ...Hm? Es ist ein\nGeburtstagsgeschenk?!\n<PAGE>\nAch, stimmt ja, heute ist mein Geburtstag! Das\nhatte ich vollkommen vergessen. Vielen Dank."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_LIKE",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nOh, <article-i_nom> <BLUE><ITEMNAME0></BLUE>. Aha. Das mag\nich. ...Ein Geburtstagsgeschenk?\n<PAGE>\n<FACE_SAD>Oh, heute ist mein Geburtstag?! ...Schon wieder\nein Jahr älter. Na ja, so ist es eben.\n<PAGE>\n<FACE_LAUGH>Vielen Dank. Ich hatte meinen Geburtstag völlig\nvergessen."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_NORMAL",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_SAD>\nWas? Ein Geburtstagsgeschenk?! Oh, ich habe\nja Geburtstag, oder? Wieder ein Jahr älter...\n<PAGE>\n<FACE_LAUGH>Oh, nein, ich habe gar nichts gesagt. Vielen\nDank, das ist sehr nett."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_DISLIKE",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nHm? Das ist für mich...? Ein\nGeburtstagsgeschenk...?\nVielen Dank."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_HATE",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_SAD>\nHm...? Du hast ein Geburtstagsgeschenk für \nmich? ...Du schenkst mir <article-i_acc>\n<BLUE><ITEMNAME0></BLUE> zum Geburtstag?\n<PAGE>\n<FACE_LAUGH>A-also, da es ein Geschenk ist, kann ich\nvermutlich nicht Nein sagen. Nett, dass du\ndich daran erinnert hast."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_WORST",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_SAD>\n...?! T-tu dieses Ding weg!\n<PAGE>\n...Was? D-du schenkst mir den...?! Ich habe\nkeine Wahl, oder...? Also gut. Ich mache meine\nAugen zu. Tu... ihn einfach irgendwohin."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_NORMAL",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\n...Ist das für meinen Geburtstag? Dieses\nLeuchten ist einfach herrlich. Vielen Dank."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_DISLIKE",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\n...Ist das für mich zum Geburtstag? Es sieht\nhinreißend aus, aber... W-wie auch immer,\ndanke..."
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_RABBIT",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nOh, was für ein niedliches Kaninchen! Hier in\nder Gegend gibt es so viele davon."
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_FOX",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDu solltest keine wilden Tiere schikanieren. Bitte\nsei nett zu ihnen."
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_OKOJO",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nOh, das ist ein Hermelin, oder? Sie kommen in\ndieser Gegend häufiger vor."
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_OTHER",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDu solltest keine wilden Tiere schikanieren. Bitte\nsei nett zu ihnen."
+    },
+    {
+      "VardId": "MES_ANGORA",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nDas ist ein Angorakaninchen, oder? Aus seinem\nFell kann man bestimmt schöne Kleidung\nherstellen, kein Zweifel."
+    },
+    {
+      "VardId": "MES_CHICK",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nBitte zieh dieses kleine Küken vorsichtig groß."
+    },
+    {
+      "VardId": "MES_HEN",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDieses Huhn sieht glücklich und gesund aus.\nSeine Eier schmecken bestimmt vorzüglich."
+    },
+    {
+      "VardId": "MES_DOG",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nOh, was für ein süßer Hund."
+    },
+    {
+      "VardId": "MES_FAT_DOG",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\n...Weißt du, ich finde, dass dieser Hund etwas\ndick ist. Es wäre gut, wenn du besser auf seine\nErnährung achten würdest."
+    },
+    {
+      "VardId": "MES_LARGEDOG",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nDas ist aber ein majestätisch aussehender\nHund."
+    },
+    {
+      "VardId": "MES_FAT_LARGEDOG",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\n...Dein Hund ist eindeutig übergewichtig. Du\nsolltest besser auf seine Ernährung achten."
+    },
+    {
+      "VardId": "MES_CAT",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nWas für eine wunderschöne Katze! Manchmal\nbin ich auf Katzen neidisch. Sie streunen immer\nüberall herum und scheren sich um nichts..."
+    },
+    {
+      "VardId": "MES_FAT_CAT",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDas ist eine sehr süße Katze, aber sie ist etwas\npummelig. Du solltest mehr auf ihre\nErnährung achten."
+    },
+    {
+      "VardId": "MES_LONGHAIR_CAT",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nDas ist aber eine hübsche Katze. Ihr Haar gefällt\nmir. Es ist sehr glatt."
+    },
+    {
+      "VardId": "MES_FAT_LONGHAIR_CAT",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDiese Katze ist sehr niedlich, aber sie ist etwas\npummelig. Du solltest besser auf ihre Ernährung\nachten."
+    },
+    {
+      "VardId": "MES_FLOWER_FESTIVAL",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nWas für ein hübsches Geschenk. Ist es zufällig\nfür die Blumenmesse? Vielen Dank."
+    },
+    {
+      "VardId": "MES_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDas ist eine <BLUE>Blaue Feder</BLUE>, oder? Du solltest sie\neiner Person geben, die dir sehr viel bedeutet.\n<PAGE>\nUnd falls diese Person sie annehmen sollte,\nkommt bitte zur Gilde, um die Hochzeitszeremo-\nnie zu planen. Ich werde auf euch beide warten."
+    },
+    {
+      "VardId": "MES_RING",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nEin Ring, aha. Du solltest ihn einer Person\ngeben, die dir viel bedeutet."
+    },
+    {
+      "VardId": "MES_PRESENT_LAPPING_LIKE ",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nWie süß! Das hast du sehr schön eingepackt. Ich\nfrage mich, was sich wohl im Inneren befindet."
+    },
+    {
+      "VardId": "MES_PRESENT_LAPPING",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nDu hast dir die Zeit genommen, ein Geschenk\nfür mich einzupacken? Das ist sehr nett von dir.\nDanke! Was wohl da drin ist...?"
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_00",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nAlles Gute zum Geburtstag! Hier, ein Geschenk\nvon mir. Bitte nimm es an."
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_01",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDu hast heute Geburtstag, oder? Alles Gute."
+    },
+    {
+      "VardId": "MES_LONG_INTERVAL",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nOh, <MYNAME>... Schon lange nicht mehr\ngesehen, oder?\n<PAGE>\nDu siehst immer sehr beschäftigt aus, aber\nkomm doch ab und zu mal vorbei, um mit\nmir zu reden, ja?"
+    },
+    {
+      "VardId": "MES_CLOTHES_6",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nDiese Schürze ist bestimmt praktisch für die\nArbeit auf der Farm. Du siehst wie <gender male=\"ein\" female=\"eine\">\n<gender male=\"Handwerker\" female=\"Handwerkerin\"> aus."
+    },
+    {
+      "VardId": "MES_CLOTHES_9",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDiese blau-weiß Kombination steht dir sehr gut.\nEs wäre eine Schande, sie schmutzig zu\nmachen."
+    },
+    {
+      "VardId": "MES_CLOTHES_24",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDa hast du aber hübsche Kleider an!\nZiemlich niedlich."
+    },
+    {
+      "VardId": "MES_CLOTHES_29",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nOho, du siehst so aus, als seist du bereit für die\nArbeit. Dieses Outfit steht dir gut."
+    },
+    {
+      "VardId": "MES_CLOTHES_30",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nOho, du siehst so aus, als seist du bereit für die\nArbeit. Dieses Outfit sieht sehr hübsch an dir\naus."
+    },
+    {
+      "VardId": "MES_CLOTHES_45",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDu hast da die klassische Bergsteigerkleidung\nan. Sie steht dir sehr gut, muss ich sagen. "
+    },
+    {
+      "VardId": "MES_CLOTHES_46",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDu hast da die klassische Bergsteigerkleidung\nan. Sie steht dir sehr gut, muss ich sagen. "
+    },
+    {
+      "VardId": "MES_CLOTHES_53",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDu hast da einen sehr hübschen blauen Rock.\nUnd ich finde, er passt sehr gut zu deiner Farm."
+    },
+    {
+      "VardId": "MES_CLOTHES_54",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nOho, das ist ein neues Outfit. Es sieht aus, als\nkönnte man da leicht hineinschlüpfen, und\ndie Farbe gefällt mir."
+    },
+    {
+      "VardId": "MES_CLOTHES_59",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDiese Daunenjacke ist in meiner Lieblingsfarbe,\nund sie sieht dazu noch warm aus."
+    },
+    {
+      "VardId": "MES_CLOTHES_76",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nSieh mal einer an, du bist ja schick\nangezogen. Hast du etwas Besonderes vor?"
+    },
+    {
+      "VardId": "MES_CLOTHES_77",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nSieh mal einer an, du bist ja schick\nangezogen. Hast du etwas Besonderes vor?"
+    },
+    {
+      "VardId": "MES_CLOTHES_92",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDieser... Hoodie - ja, ich glaube so nennt man\ndas - steht dir sehr gut. Ganz besonders in\ndieser Farbe."
+    },
+    {
+      "VardId": "MES_CLOTHES_101",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nMensch, heute sehen wir aber schick aus!\nGibt es einen besonderen Anlass?"
+    },
+    {
+      "VardId": "MES_CLOTHES_102",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDieser <BLUE>Gestrickte Cardigan</BLUE> gefällt mir. Die Farbe\npasst sehr gut zum Muster. Sehr modisch."
+    },
+    {
+      "VardId": "MES_CLOTHES_113",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDu siehst aus, als... würdest du heute ausgehen.\nHabe ich recht?"
+    },
+    {
+      "VardId": "MES_CLOTHES_125",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDas ist ein niedlicher Poncho. Die Farbe\ngefällt mir."
+    },
+    {
+      "VardId": "MES_CLOTHES_155",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nKönnte ich mir dieses Tierkostüm von dir für\ndie nächste Veranstaltung in der Stadt\nausleihen? Es wird den Leuten sicher gefallen."
+    },
+    {
+      "VardId": "MES_CLOTHES_156",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nKönnte ich mir dieses Tierkostüm von dir für\ndie nächste große Veranstaltung ausleihen?\nEs wird den Leuten sicher gefallen."
+    },
+    {
+      "VardId": "MES_CLOTHES_157",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nEs muss schwer sein, damit zu laufen. ...Ist\nheute eine Kostümparty, von der ich nichts\nmitbekommen habe?"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_5",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nDieser Hut sieht sehr gut aus. Ich würde sagen,\ner passt perfekt zu deinem Leben als Farmer."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_13",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nAh, das ist ja ein schöner Hut. Du siehst toll\nin Blau aus."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_23",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDieser Hut schreit ja förmlich \"<gender male=\"Farmer\" female=\"Farmerin\">\", oder?\nUnd die Farbe gefällt mir auch."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_25",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDieser Hut sieht sehr nach Farmer aus. Er steht\ndir sehr gut."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_29",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nOooh, was für ein großes schwarzes Kätzchen!\nKatzen sind fantastisch. Du siehst damit süß\naus."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_30",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nOooh, was für ein großes weißes Kätzchen!\nKatzen sind fantastisch. Du siehst damit süß\naus."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_43",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDiese Brille gefällt mir. Der blaue Rahmen sieht\nziemlich modisch aus."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_50",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDiese Brille gefällt mir. Der blaue Rahmen sieht\nziemlich modisch aus."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_55",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDiese Brille gefällt mir. Der blaue Rahmen sieht\nziemlich modisch aus."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_60",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDiese Sonnenbrille sieht... sehr witzig aus. Sie\nwäre sehr passend für eine Kostümparty, würde\nich sagen."
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOP_OPEN",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nFalls du etwas brauchst, rede bitte über\nden Tresen mit mir."
+    },
+    {
+      "VardId": "MES_SCHEDULE_SLEEP_00",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_PATI>\nAn... gela... Wo gehst du denn hin...? Angela..."
+    },
+    {
+      "VardId": "MES_SCHEDULE_SLEEPY_00",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nEs tut mir leid, aber es ist schon spät. Wir reden\nein anderes Mal, einverstanden?"
+    },
+    {
+      "VardId": "MES_MEAL_00",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nTut mir leid, ich bin noch nicht ganz mit\nmeinem Essen fertig. Lass mir bitte etwas\nZeit dafür."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_GREEN",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDiese Bank sieht entzückend aus. Weißt du,\nGrün ist nach Blau meine zweite\nLieblingsfarbe."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_BLUE",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDiese Bank sieht entzückend aus. Weißt du,\nBlau ist meine Lieblingsfarbe."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_JAR_WHITE",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nKeramik aus Alabaster gefällt mir. Sie schafft\neine sehr reine und klare Atmosphäre."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_STREETLAMP_1",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nHm, auf den Bergpfaden sollten <BLUE>Straßenlaternen</BLUE>\nsein, so wie diese hier. Dann wäre es nachts\nbestimmt sicherer, dort entlangzulaufen..."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TABLE_WEST",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nEin toller Tisch. Ich sollte so einen für die Gilde\nbestellen."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_CHAIR_WEST",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nAuf dem Marktplatz sollte ein <BLUE>Gartenstuhl</BLUE>\nstehen, so wie dieser hier. Die Leute hätten\nso die Möglichkeit, sich auszuruhen."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PARASOL_WEST",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nAuf dem Marktplatz sollte es auch so einen\n<BLUE>Sonnenschirm</BLUE> geben. Dann könnten\nsich die Leute dort ausruhen."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BOARD",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nWeißt du, ich glaube, unsere Stadt würde durch\nein paar Schilder mehr Charakter bekommen."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BLACKBOARD",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nOh, ich sollte in der Gilde eine Tafel aufstellen.\nDann könnte ich die neusten Zahlen und\nInformationen aufschreiben..."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_STATUE_PIKE",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nEine große Statue so wie diese hier könnte ein\nschönes Denkmal für die Stadt sein, oder?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_STATUE_SHIELD",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nEine große Statue so wie diese hier könnte ein\nschönes Denkmal für die Stadt sein, oder?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FOUNTAIN_1",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nWenn es einen Springbrunnen auf einem Platz\ngibt, werden die Leute magisch davon\nangezogen. Das ist immer schön zu sehen."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WATCHTOWER",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nWachtürme sind für mehr da, als einfach nur\nWache zu halten. Man hat auch einen tollen\nBlick über die Stadt."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OPEN_SPACE_WOOD",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nIrgendetwas an dieser Art von <BLUE>Hölzernem Platz</BLUE>\nerweckt in mir den Eindruck von Wärme und \nBehaglichkeit."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_DARUMA",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nAnscheinend sind Daruma-Puppen\nGlücksbringer für gute Geschäfte...\nIch sollte eine in der Gilde aufstellen."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_BLUELIGHT",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDieser Baum sieht wunderschön aus, und Blau\nIST schließlich meine Lieblingsfarbe."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POLE_BLUELIGHT",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDiese Stange sieht hübsch aus, und schließlich\nIST Blau ja meine Lieblingsfarbe."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GATE_BLUELIGHT",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDieses Tor sieht sehr einladend aus. Und noch\ndazu ist Blau meine Lieblingsfarbe."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SLATE",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\n...Mensch, ich frage mich, was auf dieser\n<BLUE>Steintafel</BLUE> geschrieben ist... Es ist absolut\nverblüffend."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_RINDOU",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nEnziane sind meine Lieblingsblumen. Wenn sie \nin Gruppen blühen, leuchten sie sogar noch\nschöner."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_BLUEROSE",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nWo hast du denn diese <BLUE>Blauen Rosen</BLUE> gefunden?\nDu musst wissen, dass sie sehr selten sind. Ich\nhoffe, du kümmerst dich hervorragend um sie."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_RINDOU",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nEnziane sind meine Lieblingsblumen. Wenn sie \nin Gruppen blühen, leuchten sie sogar noch\nschöner."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_BLUEROSE",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nWo hast du denn diese <BLUE>Blauen Rosen</BLUE> gefunden?\nDu musst wissen, dass sie sehr selten sind. Ich\nhoffe, du kümmerst dich hervorragend um sie."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BASKET_GREEN",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nWas für ein wunderschöner <BLUE>Blumenkorb</BLUE>. Stell\ndir vor, wie die Farben überall aufblühen, wenn\nwir welche davon in der Stadt verteilen würden."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOPIARY_CONIFER",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nGenau so eine Art von Nadelbaum möchte ich\nauch für mein Haus haben."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_CHERRYBLOSSOM",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nIch kann mir gut vorstellen, wie die Zweige eines\nKirschblütenbaums wie diesem hier auf einem \nBerggipfel im Wind flattern. Wunderschön."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OMANENT_HORSE",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nIch bin von der Kunstfertigkeit dieser\nPferdestatue sehr beeindruckt. Sieh\nnur, wie lebensecht sie aussieht."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ARCH_BLUE_FLOWER",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nIch will einen <BLUE>Blumenbogen</BLUE> wie diesen hier in\nden Straßen der Stadt haben. Damit würde es\nso viel bunter werden, oder nicht?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_BLUE_1",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDieser Zaun gefällt mir, und Blau IST natürlich\nmeine Lieblingsfarbe."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COLOR_1",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nBlau ist meine Lieblingsfarbe. Es hatte schon\nimmer etwas Reines und Ruhiges für mich...\nIch kann mit Sicherheit sagen, dass dies mein\n<PAGE>\nneuer Lieblingsort ist. Du hast das ganze Blau \nzwar bestimmt nicht wegen mir hier hinzuge-\nfügt, aber es freut mich wirklich sehr."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COLOR_2",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nWenn ich von Grün umgeben bin, entspanne ich\nmich. Ich war in letzter Zeit sehr beschäftigt,\nund der Stress... hat sich angesammelt, und...\n<PAGE>\nwenn ich mir deine Dekoration ansehe, finde\nich meine innere Mitte, könnte man\nsagen. Vielen Dank."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ATMOSPHERE_1",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nAlso, das ist wirklich einmalig, oder? So etwas\nhabe ich noch nie in Eichbaumhausen gesehen.\nIch wusste nicht mal, dass so etwas existiert."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ATMOSPHERE_2",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nIch denke gerade an Eichbaumhausen zurück,\nals es noch ruhiger war. Ach, diese\nErinnerungen..."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COMBO_1",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nSehen so tropische Inseln aus?\n<PAGE>\nWenn ich mir diesen Ort nur ansehe, hellt sich\nmein Gemüt auf. Ich möchte alle herbeirufen\nund ein großes Fest feiern."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COMBO_2",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nDiese Wasserthematik ist ziemlich nett, oder?\nSehr entspannend. Ich hoffe, dass alle hierher-\nkommen, um die Stimmung zu genießen."
+    },
+    {
+      "VardId": "MES_TRADE_ASIA",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nMan kann fast alle Gemischtwaren, die man\nbraucht, am Stand von Seidenland erstehen.\n<PAGE>\nJe mehr man mit der Händlerin handelt, desto\nmehr Produkte wird sie auf Lager haben."
+    },
+    {
+      "VardId": "MES_TRADE_ALPS",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nMan kann viele verschiedene Arten von Garn am\nStand von Hüttenland kaufen."
+    },
+    {
+      "VardId": "MES_TRADE_JAPAN",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDer Reis aus Sakuraland ist unvergleichlich, nur\ndamit du es schon mal weißt."
+    },
+    {
+      "VardId": "MES_TRADE_USA",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nFalls du Getreide kaufen möchtest, solltest du\nzum Stand von Weizenland gehen."
+    },
+    {
+      "VardId": "MES_TRADE_EU",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nRosenland bietet eine große Auswahl an\nerlesenen Weinen an."
+    },
+    {
+      "VardId": "MES_TRADE_SOUTHERN",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nAm Stand von Tropenland kann man jede Menge\nleckere Früchte kaufen."
+    },
+    {
+      "VardId": "MES_TRADE_SOUTH_POLE",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nEisland ist berühmt für seine seltenen\nMaterialien... und natürlich seine\nPinguinkostüme."
+    },
+    {
+      "VardId": "MES_PLACE_GOOD",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDu scheinst dein Territorium zu erweitern. Mach\nweiter so!"
+    },
+    {
+      "VardId": "MES_PLACE_BEST",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDu kannst dein Territorium nicht mehr erweitern,\naber du kannst dein Gebiet umorganisieren oder\nEinrichtungen bauen. Gib weiter dein Bestes!"
+    },
+    {
+      "VardId": "MES_MOVE_OUT",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nWir haben einen Neuankömmling in der Stadt.\nBitte bereitet ihm ein herzliches\nEichbaumhausen-Willkommen."
+    },
+    {
+      "VardId": "MES_TOWN_POPULARITY_BEST",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDank euch allen ist diese Stadt weltweit bekannt.\nReisende aus der ganzen Welt kommen nun\nhierher.\n<PAGE>\nÜbrigens, so wie ich das verstehe, bevorzugt je-\ndes Land ganz bestimmte Produkte, zum Bei-\nspiel Samen, Ernteprodukte, Essen oder Objekte.\n<PAGE>\nWenn man große Mengen von diesen Produkten\nliefert, könnten andere Länder ihre Handels-\nbeziehungen mit uns weiter verbessern."
+    },
+    {
+      "VardId": "MES_TOWN_POPULARITY_BETTER",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nIhr alle habt dieser Stadt dazu verholfen,\nberühmt zu werden."
+    },
+    {
+      "VardId": "MES_AREA_TOWN_00",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nEs ist mein Traum, diese Stadt zu einem\nflorierenden Handelszentrum auszubauen."
+    },
+    {
+      "VardId": "MES_AREA_TOWN_01",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nIn letzter Zeit scheinen mehr Leute in die\nStadt zu kommen."
+    },
+    {
+      "VardId": "MES_AREA_TOWN_02",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nWir sind eine kleine Stadt auf dem Land, aber\nwenn wir alle an einem Strang ziehen, können\nwir mehr daraus machen. Etwas Sehenswertes."
+    },
+    {
+      "VardId": "MES_AREA_TOWN_03",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nEs gibt diese Stadt hier, und es gibt diese gedei-\nhende Utopie, von der ich immer geträumt habe.\nUnd jetzt scheinen sie ein und dasselbe zu sein."
+    },
+    {
+      "VardId": "MES_GRANDMA_MONEY_00",
+      "Text": "…"
+    }
+  ]
+}

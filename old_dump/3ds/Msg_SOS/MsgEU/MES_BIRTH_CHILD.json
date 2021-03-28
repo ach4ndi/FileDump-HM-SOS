@@ -1,0 +1,966 @@
+﻿{
+  "Date": "2016-06-10T19:20:15.1760324+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_LEFT><FACE_LOSS>\n<MYNAME>, you look kinda pale. Are you okay?\n<PAGE>\n<WINDOW_QUESTION_L><FACE_ANGRY>Wha...? The baby's coming?! We've gotta get to\nthe clinic!"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_POORFARMER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nThat's it. Keep it up, honey. Just a little bit\nlonger now.\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_NORMAL>The baby is trying really hard, too. You're almost\nthere."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_POORFARMER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_ANGRY>\nI'm sorry, but give us a little longer. The birthing\nprocess is still underway."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_POORFARMER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nWell done. Both babies have arrived, safe and\nsound.\n<PAGE>\n<FACE_MARIAN><POS_LEFT><FACE_LAUGH>Well look at that...twins! A boy and a girl, and\nthey're both cute as a button.\n<PAGE>\nNow then. Angela, honey, would you go call\nFritz over?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_POORFARMER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nAs you heard, you are the father of twins, a boy\nand a girl. They seem to be in perfect health.\n<PAGE>\nThis way, please."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_POORFARMER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nCongratulations, honey! I know it can't have\nbeen easy having twins for your first birthing,\nbut you really hung in there!\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_LAUGH>Well done, <MYNAME>. Your composure was\nquite commendable, especially for it being your\nfirst time."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\nWhoa, I never expected twins! You must've had\na hard time in there, <MYNAME>, but thanks for\nbringing 'em into this world.\n<PAGE>\nNow both of us are gonna have to do our best to\nraise 'em up right."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOVE>\n<WINDOW_HEART1_R>Heh heh...look at how small their little hands\nare. They're both so cute, too! I knew our kids\nwould be the best. ♪"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_POORFARMER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nSooo...have you decided on names for your little\nbundles of joy?\n<PAGE>\n<FACE_LAUGH>A name is the first gift parents give to their\nchildren. Be sure to pick good ones now, honey."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\nHmm...that's a good question. Well, let's start\nwith our son.\n<PAGE>\n<FACE_LAUGH>We've gotta give him a really cool name! What\ndo you think we should name him, <MYNAME>?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\nSo, <CHILD_NAME_M> is the name you'd like to give\nour son?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_POORFARMER",
+      "Text": "<CANCEL_SELECT>\nNo"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_POORFARMER",
+      "Text": "Yes"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\n<CHILD_NAME_M>, eh? Yeah, that has a nice ring to it.\n<PAGE>\n<FACE_NORMAL>Now, how about our daughter? We've gotta give\nher a really cute name!"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\nSo, <CHILD_NAME_W> is the name you'd like for our\ndaughter?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_POORFARMER",
+      "Text": "<CANCEL_SELECT>\nNo"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_POORFARMER",
+      "Text": "Yes"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\n<CHILD_NAME_W>, eh? Yeah, that sounds perfect!\nYou're so good at this naming stuff,\n<MYNAME>. ♪\n<PAGE>\n<WINDOW_HEART2_R><FACE_LOVE>From now on, <CHILD_NAME_M> and <CHILD_NAME_W> are\na part of our big, happy family."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_POORFARMER",
+      "Text": "From now on, Fritz and I will do our very best to\nraise <CHILD_NAME_M> and <CHILD_NAME_W> right.\nWe can do it!"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\nC'mon, you've gotta come up with a good name."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_LEFT><FACE_SAD>\n<MYNAME>, is it just me, or are you a little\npale?\n<PAGE>\n<WINDOW_QUESTION_L><FACE_LOSS>What...? The baby is coming?!\n<PAGE>\n<WINDOW_DEFAULT><FACE_NORMAL>All right. I know you must be nervous, but don't\nworry. I'm here for you. Come, let us hurry to\nthe clinic."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_PERFUMER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nThat's it. Keep it up, honey. Just a little bit\nlonger now.\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_NORMAL>The baby is trying really hard, too. You're almost\nthere."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_PERFUMER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_ANGRY>\nI'm sorry, but give us a little longer. The birthing\nprocess is still underway."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_PERFUMER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nWell done. Both babies have arrived, safe and\nsound.\n<PAGE>\n<FACE_MARIAN><POS_LEFT><FACE_LAUGH>Well look at that...twins! A boy and a girl, and\nthey're both cute as a button.\n<PAGE>\nNow then. Angela, honey, would you go call\nKlaus over?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_PERFUMER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nAs you heard, you are the father of twins, a boy\nand a girl. They seem to be in perfect health.\n<PAGE>\nThis way, please."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_PERFUMER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nCongratulations, honey! I know it can't have\nbeen easy having twins for your first birthing,\nbut you really hung in there!\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_LAUGH>Well done, <MYNAME>. Your composure was\nquite commendable, especially for it being your\nfirst time."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_LAUGH>\nTwins, huh? Well, I didn't see that coming.\nBirthing them must have been a trying\nexperience, <MYNAME>. Well done.\n<PAGE>\nThank you for bringing them into this world.\nFrom now on, let us do our very best to raise\nthem both to be wonderful people."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_LAUGH>\nThey're quite adorable. Our daughter has your\neyes. I'm sure she'll grow up to be a beautiful\nwoman."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_PERFUMER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nSooo...have you decided on names for your little\nbundles of joy?\n<PAGE>\n<FACE_LAUGH>A name is the first gift parents give to their\nchildren. Be sure to pick good ones now, honey."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\nTrue. A name is one thing children carry with\nthem throughout their lives, so we ought to give\nthis some careful consideration.\n<PAGE>\nLet's begin with our son. Do you have any good\nnames in mind, <MYNAME>?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\nIs <CHILD_NAME_M> the name you'd like to give our\nson?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_PERFUMER",
+      "Text": "<CANCEL_SELECT>\nNo"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_PERFUMER",
+      "Text": "Yes"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_LAUGH>\n<CHILD_NAME_M>? Yes, that will do nicely. And now\nfor our daughter. Anything come to mind?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\nIs <CHILD_NAME_W> the name you'd like for our\ndaughter?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_PERFUMER",
+      "Text": "<CANCEL_SELECT>\nNo"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_PERFUMER",
+      "Text": "Yes"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\n<CHILD_NAME_W>? Not bad. Let's go with that.\n<PAGE>\n<WINDOW_PALPITATION_R><FACE_LAUGH>So, it's <CHILD_NAME_M>, <CHILD_NAME_W>, you and I.\nFrom now on, let's do all we can to make our\nlittle family of four the happiest it can be."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_PERFUMER",
+      "Text": "From now on, Klaus and I will do our very best\nto raise <CHILD_NAME_M> and <CHILD_NAME_W> right. We\ncan do it!"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\nYou really do need to come up with a proper\nname. Our children cannot simply go through\nlife as \"Hey you.\""
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_CHEF",
+      "Text": "<FACE_REGER><POS_LEFT><FACE_NORMAL>\nWhoa, <MYNAME>, you're pale as milk. Are you\nfeeling all right?\n<PAGE>\n<WINDOW_QUESTION_L><FACE_ANGRY>W-wha? The baby is coming?!\n<PAGE>\n<WINDOW_DEFAULT><FACE_LOSS>Holy moley, we've gotta get you to the clinic!"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_CHEF",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nThat's it. Keep it up, honey. Just a little bit\nlonger now.\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_NORMAL>The baby is trying really hard, too. You're almost\nthere."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_CHEF",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_ANGRY>\nI'm sorry, but give us a little longer. The birthing\nprocess is still underway."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_CHEF",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nWell done. Both babies have arrived, safe and\nsound.\n<PAGE>\n<FACE_MARIAN><POS_LEFT><FACE_LAUGH>Well look at that...twins! A boy and a girl, and\nthey're both cute as a button.\n<PAGE>\nNow then. Angela, honey, would you go call\nRaeger over?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_CHEF",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nAs you heard, you are the father of twins, a boy\nand a girl. They seem to be in perfect health.\n<PAGE>\nThis way, please."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_CHEF",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nCongratulations, honey! I know it can't have\nbeen easy having twins for your first birthing,\nbut you really hung in there!\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_LAUGH>Well done, <MYNAME>. Your composure was\nquite commendable, especially for it being your\nfirst time."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_LAUGH>\nWow, twins. There's a two-for-one deal, eh? I\nknow it had to have been hard on you, but\nthanks for bringing them into the world for us.\n<PAGE>\nLet's do everything we can to raise our kids\nright."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_LAUGH>\nMan, they're cute. Are all babies this adorable, or\njust ours? I think it's just ours. Geez, five\nminutes and I'm already a doting dad."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CHEF",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nSooo...have you decided on names for your little\nbundles of joy?\n<PAGE>\n<FACE_LAUGH>A name is the first gift parents give to their\nchildren. Be sure to pick good ones now, honey."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_NORMAL>\nOkay, let's start with our son, then. How about\nyou do the honors, <MYNAME>."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_NORMAL>\n<CHILD_NAME_M> is what you want for our son, right?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_CHEF",
+      "Text": "<CANCEL_SELECT>\nNo"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_CHEF",
+      "Text": "Yes"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_LAUGH>\n<CHILD_NAME_M>? Yeah, I like that one too. Now,\nwhat about our daughter?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_NORMAL>\n<CHILD_NAME_W> sounds good for our daughter,\nthen?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_CHEF",
+      "Text": "<CANCEL_SELECT>\nNo"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_CHEF",
+      "Text": "Yes"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_NORMAL>\n<CHILD_NAME_W>? That name seems like it was made\nfor her. Let's go with it.\n<PAGE>\n<WINDOW_HEART2_R><FACE_LAUGH>Well, <CHILD_NAME_M> and <CHILD_NAME_W> have joined\nour little family. Let's do our best to make it a\nhappy one."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_CHEF",
+      "Text": "From now on, Raeger and I will do our very best\nto raise <CHILD_NAME_M> and <CHILD_NAME_W> right. We\ncan do it!"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_NORMAL>\nC'mon, these are our kids. They can't just be\n\"baby boy\" and \"baby girl\" forever, y'know."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_LEFT><FACE_NORMAL>\n<MYNAME>, you look awfully pale. Are you\nfeeling well?\n<PAGE>\n<WINDOW_QUESTION_L><FACE_SAD>What? The baby is coming?!\n<PAGE>\n<WINDOW_DEFAULT><FACE_NORMAL>I-I see. Don't worry. I am right here beside you.\nEverything will be just fine. Let's make for the\nclinic, quickly."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_ANTIQUE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nThat's it. Keep it up, honey. Just a little bit\nlonger now.\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_NORMAL>The baby is trying really hard, too. You're almost\nthere."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_ANTIQUE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_ANGRY>\nI'm sorry, but give us a little longer. The birthing\nprocess is still underway."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_ANTIQUE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nWell done. Both babies have arrived, safe and\nsound.\n<PAGE>\n<FACE_MARIAN><POS_LEFT><FACE_LAUGH>Well look at that...twins! A boy and a girl, and\nthey're both cute as a button.\n<PAGE>\nNow then. Angela, honey, would you go call\nMistel over?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_ANTIQUE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nAs you heard, you are the father of twins, a boy\nand a girl. They seem to be in perfect health.\n<PAGE>\nThis way, please."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_ANTIQUE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nCongratulations, honey! I know it can't have\nbeen easy having twins for your first birthing,\nbut you really hung in there!\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_LAUGH>Well done, <MYNAME>. Your composure was\nquite commendable, especially for it being your\nfirst time."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_LAUGH>\nUnbelievable. I was unsure what to expect, but\ntwins had never even crossed my mind.\n<PAGE>\nYour body must have been under a terrible\namount of strain. You must be feeling exhausted\nright now.\n<PAGE>\nBut...thank you for bringing both of our\nwonderful children into the world."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_LAUGH>\nLook how precious they are. Our daughter\nsmiles just like you, you know. She'll probably\nbe the talk of the town someday.\n<PAGE>\nAnd our son...well, I would certainly be proud if\nhe grew up to look like me."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_ANTIQUE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nSooo...have you decided on names for your little\nbundles of joy?\n<PAGE>\n<FACE_LAUGH>A name is the first gift parents give to their\nchildren. Be sure to pick good ones now, honey."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_NORMAL>\nA very good point. Do you have any\nsuggestions, <MYNAME>? Let us begin with our\nson."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_NORMAL>\nSo, our son is to be <CHILD_NAME_M>, correct?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_ANTIQUE",
+      "Text": "<CANCEL_SELECT>\nNo"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_ANTIQUE",
+      "Text": "Yes"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_LAUGH>\n<CHILD_NAME_M>? I think that is a fine name. I hope\nhe'll think so too.\n<PAGE>\nNow, what about our daughter?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_NORMAL>\nThen our daughter shall be called <CHILD_NAME_W>,\ncorrect?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_ANTIQUE",
+      "Text": "<CANCEL_SELECT>\nNo"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_ANTIQUE",
+      "Text": "Yes"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_LAUGH>\n<CHILD_NAME_W>? I like the sound of that. \n<PAGE>\n<WINDOW_HEART2_R><FACE_NORMAL>Well, our family has doubled in size! Let's do our\nbest to help <CHILD_NAME_M> and <CHILD_NAME_W> have\nwonderful lives."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_ANTIQUE",
+      "Text": "Mistel and I will do our very best to raise\n<CHILD_NAME_M> and <CHILD_NAME_W> right.\nWe can do it!"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_NORMAL>\nI'm afraid we cannot really move forward without\ngiving our babies names."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_GARDENER",
+      "Text": "<FACE_NADI><POS_LEFT><FACE_LOSS>\nUh, <MYNAME>? You look kinda pale.\n<PAGE>\n<WINDOW_QUESTION_L><FACE_SAD>Wha? The baby's coming?! H-hold on. Already?!\n<PAGE>\n<WINDOW_DEFAULT><FACE_LOSS>Well okay, so maybe it's been long enough, but\nnever mind that. We've gotta get you to the\nclinic!"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_GARDENER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nThat's it. Keep it up, honey. Just a little bit\nlonger now.\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_NORMAL>The baby is trying really hard, too. You're almost\nthere."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_GARDENER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_ANGRY>\nI'm sorry, but give us a little longer. The birthing\nprocess is still underway."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_GARDENER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nWell done. Both babies have arrived, safe and\nsound.\n<PAGE>\n<FACE_MARIAN><POS_LEFT><FACE_LAUGH>Well look at that...twins! A boy and a girl, and\nthey're both cute as a button.\n<PAGE>\nNow then. Angela, honey, would you go call\nNadi over?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_GARDENER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nAs you heard, you are the father of twins, a boy\nand a girl. They seem to be in perfect health.\n<PAGE>\nThis way, please."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_GARDENER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nCongratulations, honey! I know it can't have\nbeen easy having twins for your first birthing,\nbut you really hung in there!\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_LAUGH>Well done, <MYNAME>. Your composure was\nquite commendable, especially for it being your\nfirst time."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_LAUGH>\nWhoa, twins. Didn't see that one comin'.\n<PAGE>\nIt must've been hard, carrying them around and\nhavin' to eat for three. But...thanks for bringing\nthem into this world for us."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_LAUGH>\nLook how tiny they are. It's hard to imagine we\nwere so teensy once, too.\n<PAGE>\n<FACE_LOVE>So cute..."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GARDENER",
+      "Text": "<FACE_MARIAN><POS_RIGHT><FACE_NORMAL>\nSooo...have you decided on names for your little\nbundles of joy?\n<PAGE>\n<FACE_LAUGH>A name is the first gift parents give to their\nchildren. Be sure to pick good ones now, honey."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_NORMAL>\nGreat. Put me in the hot seat, why don'tcha? I've\ngot so many things whirling around in my mind\nthat my head feels like it's gonna pop.\n<PAGE>\nHow 'bout you, <MYNAME>? Any strokes of\ninspiration? Let's start with our son's name."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_NORMAL>\nYou wanna go with <CHILD_NAME_M> for our son?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_GARDENER",
+      "Text": "<CANCEL_SELECT>\nNo"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_GARDENER",
+      "Text": "Yes"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_LAUGH>\n<CHILD_NAME_M>? Sounds perfect to me.\n<PAGE>\n<FACE_NORMAL>We're not done yet, though. Still got a daughter\nto name!"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_NORMAL>\n<CHILD_NAME_W> for our daughter...that sound good\nto you?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_GARDENER",
+      "Text": "<CANCEL_SELECT>\nNo"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_GARDENER",
+      "Text": "Yes"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_LAUGH>\n<CHILD_NAME_W>? I like it. Let's call her that.\n<PAGE>\n<WINDOW_PALPITATION_R>So, <CHILD_NAME_M> and <CHILD_NAME_W>. Let's do what\nwe can to make our family a happy one."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_GARDENER",
+      "Text": "Nadi and I will do our very best to raise\n<CHILD_NAME_M> and <CHILD_NAME_W> right.\nWe can do it!"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_NORMAL>\nEven the animals on your farm have names, so\nyou've gotta at least give our kids that much."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_LEFT><FACE_LOSS>\nYou're looking a bit pale, <MYNAME>. You feelin'\nall right?\n<PAGE>\n<WINDOW_QUESTION_L><FACE_ANGRY>Wait, what? The baby is coming?! Whoa-ho-ho,\nwe've gotta get you down to the clinic!"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_KAMIRU",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nThat's it. Keep it up, honey. Just a little bit\nlonger now.\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_NORMAL>The baby is trying really hard, too. You're almost\nthere."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_KAMIRU",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_ANGRY>\nI'm sorry, but give us a little longer. The birthing\nprocess is still underway."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_KAMIRU",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nWell done. Both babies have arrived, safe and\nsound.\n<PAGE>\n<FACE_MARIAN><POS_LEFT><FACE_LAUGH>Well look at that...twins! A boy and a girl, and\nthey're both cute as a button.\n<PAGE>\nNow then. Angela, honey, would you go call\nKamil over?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_KAMIRU",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nAs you heard, you are the father of twins, a boy\nand a girl. They seem to be in perfect health.\n<PAGE>\nThis way, please."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_KAMIRU",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nCongratulations, honey! I know it can't have\nbeen easy having twins for your first birthing,\nbut you really hung in there!\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_LAUGH>Well done, <MYNAME>. Your composure was\nquite commendable, especially for it being your\nfirst time."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_LAUGH>\nWow, twins. You must've been working overtime\nin here, <MYNAME>. I'll bet you're exhausted.\n<PAGE>\nI know it must've been hard, but thanks for\nbringing them into the world. It'll be worth it in\nthe long run. Promise."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_LAUGH>\nHaha, they're so cute. They can barely wrap their\nlittle hands around my finger.\n<PAGE>\nHey, little guys. Congratulations on being born!\n<PAGE>\nYour mama and papa have been waiting a long\ntime to meet you."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_KAMIRU",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nSooo...have you decided on names for your little\nbundles of joy?\n<PAGE>\n<FACE_LAUGH>A name is the first gift parents give to their\nchildren. Be sure to pick good ones now, honey."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_NORMAL>\nNames, huh? That's a good question. Let's start\nwith our bouncing baby boy, here.\n<PAGE>\nAny sudden bursts of inspiration, <MYNAME>?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_NORMAL>\nYou like the sound of <CHILD_NAME_M>, huh?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_KAMIRU",
+      "Text": "<CANCEL_SELECT>\nNo"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_KAMIRU",
+      "Text": "Yes"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_LAUGH>\n<CHILD_NAME_M>, then? I think that's a great name.\nHe'll be proud to have it...once he's old enough\nto speak.\n<PAGE>\n<FACE_NORMAL>Now then, let's turn our attention to our little\nbaby girl."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_NORMAL>\nYou think <CHILD_NAME_W> sounds good for our\ndaughter?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_KAMIRU",
+      "Text": "<CANCEL_SELECT>\nNo"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_KAMIRU",
+      "Text": "Yes"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_LAUGH>\n<CHILD_NAME_W>? Yeah. That sounds just right for\nher.\n<PAGE>\n<WINDOW_HEART2_R>So, <CHILD_NAME_M>, <CHILD_NAME_W>, and us...\nThat makes a busy family of four. Let's make it a\ngreat one!"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_KAMIRU",
+      "Text": "Kamil and I will do our very best to raise\n<CHILD_NAME_M> and <CHILD_NAME_W> right.\nWe can do it!"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_NORMAL>\nWhoa, slow down there, champ. If you don't\nname these kids, I won't know what to call\nthem."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_LEFT><FACE_SAD>\nO-oh my... All of a sudden, my stomach feels as\nthough it's in an uproar. ...I-is the baby coming?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_RICHGIRL",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nThat's it. Keep it up, honey. Just a little bit\nlonger now.\n<PAGE>\n<FACE_ELISE><POS_LEFT><FACE_SAD>Ow...! It hurts! I-I can't push anymore...!\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_NORMAL>You can do it. The baby is trying really hard, too.\nYou're almost there."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_RICHGIRL",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_ANGRY>\nI'm sorry, but give us a little longer. The birthing\nprocess is still underway."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_RICHGIRL",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nWell done. Both babies have arrived, safe and\nsound.\n<PAGE>\n<FACE_MARIAN><POS_LEFT><FACE_LAUGH>Well look at that...twins! A boy and a girl, and\nthey're both cute as a button.\n<PAGE>\nNow then. Angela, honey, would you go call\n<MYNAME> over?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_RICHGIRL",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nAs you heard, you are the father of twins, a boy\nand a girl. They seem to be in perfect health.\n<PAGE>\nThis way, please."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_RICHGIRL",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nCongratulations, honey! I know it can't have\nbeen easy having twins for your first birthing,\nbut you did great, Elise!\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_LAUGH>Indeed, well done. Your composure was quite\ncommendable, especially for it being your first\ntime."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nThank you. It was so tough I thought I wasn't \ngoing to make it...\n<PAGE>\n<FACE_LOVE>But now all I feel is warmth and happiness. I\nnever expected twins, but all of a sudden, I can't\nimagine myself without them."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nOhoho...You look quite pleased with yourself as\nwell, <MYNAME>. We'll have to make sure our\nprecious babies get plenty of love and care."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_RICHGIRL",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nBy the by, have you decided on names for your\nlittle bundles of joy?\n<PAGE>\n<FACE_LAUGH>A name is the first gift parents give to their\nchildren. Be sure to pick good ones now, honey."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nA very good point. We must give them noble,\nregal names befitting their status! I'm sure you\nalready have some ideas, <MYNAME>?\n<PAGE>\nLet's begin with our son."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nAh, so you favor <CHILD_NAME_M> for our son's\nname?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_RICHGIRL",
+      "Text": "<CANCEL_SELECT>\nNo"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_RICHGIRL",
+      "Text": "Yes"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\n<CHILD_NAME_M>? Ah, it sounds lovely. A marvelous\nchoice, especially coming from you.\n<PAGE>\n<FACE_NORMAL>Now, how about our darling daughter?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nMmm. You think <CHILD_NAME_W> sounds good for\nour little girl?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_RICHGIRL",
+      "Text": "<CANCEL_SELECT>\nNo"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_RICHGIRL",
+      "Text": "Yes"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\n<CHILD_NAME_W>? I'm in full agreement. It's a\nsplendid name for her.\n<PAGE>\n<WINDOW_HEART2_R>Welcome to our family, <CHILD_NAME_M> and\n<CHILD_NAME_W>. From now on, we'll both do all we\ncan to provide you only the best life has to offer."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_RICHGIRL",
+      "Text": "From now on, Elise and I will do our very best to\nraise <CHILD_NAME_M> and <CHILD_NAME_W> right. We can\ndo it!"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nCome now. I'm sure you have some elegant,\nbeautiful names you've been saving up, right?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_WRITER",
+      "Text": "<FACE_IRIS><POS_LEFT><FACE_SAD>\nOh dear. I just started feeling some real\ncontractions down in my belly. I...I think the\nbaby may be coming..."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_WRITER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nThat's it. Keep it up, honey. Just a little bit\nlonger now.\n<PAGE>\n<FACE_IRIS><POS_LEFT><FACE_SAD>N...nnnngh...!\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_NORMAL>You can do it. The baby is trying really hard, too.\nYou're almost there."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_WRITER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_ANGRY>\nI'm sorry, but give us a little longer. The birthing\nprocess is still underway."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_WRITER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nWell done. Both babies have arrived, safe and\nsound.\n<PAGE>\n<FACE_MARIAN><POS_LEFT><FACE_LAUGH>Well look at that...twins! A boy and a girl, and\nthey're both cute as a button.\n<PAGE>\nNow then. Angela, honey, would you go call\n<MYNAME> over?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_WRITER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nAs you heard, you are the father of twins, a boy\nand a girl. They seem to be in perfect health.\n<PAGE>\nThis way, please."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_WRITER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nCongratulations, honey! I know it can't have\nbeen easy having twins for your first birthing,\nbut you did great, Iris!\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_LAUGH>Indeed, well done. Your composure was quite\ncommendable, especially for it being your first\ntime."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\nThank you. I hadn't a clue it was twins, so that\ngave me an unexpected challenge...\n<PAGE>\n<FACE_LAUGH>But now that both our precious babies have\nbeen born, I just feel a wonderful happiness."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_LAUGH>\nAnd look at you, <MYNAME>, you're positively\nbeaming! We'll have to do right by these two\nlittle ones and raise them with lots of love."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_WRITER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nBy the by, have you decided on names for your\nlittle bundles of joy?\n<PAGE>\n<FACE_LAUGH>A name is the first gift parents give to their\nchildren. Be sure to pick good ones now, honey."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\nSo true. Possessions come and go, but names\nlast a lifetime. We'll have to consider them\ncarefully.\n<PAGE>\nFirst, let's think of a name for our son. Any\ninspired suggestions, <MYNAME>?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\nAh, so you think <CHILD_NAME_M> would be a good\nname for our son?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_WRITER",
+      "Text": "<CANCEL_SELECT>\nNo"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_WRITER",
+      "Text": "Yes"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_LAUGH>\n<CHILD_NAME_M>? I like the sound of that. Perfect for\nour little hero!\n<PAGE>\n<FACE_NORMAL>I hope you've still got your streak of inspiration\ngoing, because we have to name our daughter\ntoo."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\nAh, you like the sound of <CHILD_NAME_W> for her?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_WRITER",
+      "Text": "<CANCEL_SELECT>\nNo"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_WRITER",
+      "Text": "Yes"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_LAUGH>\n<CHILD_NAME_W>? A great choice for our dashing\nheroine!\n<PAGE>\nI'm sure that when they're older, they'll\nappreciate how much thought you've put into\ntheir names.\n<PAGE>\n<WINDOW_HEART2_R>With <CHILD_NAME_M> and <CHILD_NAME_W> joining us,\nwe've got a real full house! Let's do our best to\nmake a happy home for our family."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_WRITER",
+      "Text": "Iris and I will do our very best to raise\n<CHILD_NAME_M> and <CHILD_NAME_W> right.\nWe can do it!"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\nOh, come now. Where's your spark of creativity?\nI'm sure you can think of a good name."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_LEFT><FACE_SAD>\nUrk...! Owwww...my tummy...! Oh no! I-I think\nthe baby is coming!"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_WEATHERGIRL",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nThat's it. Keep it up, honey. Just a little bit\nlonger now.\n<PAGE>\n<FACE_LILIE><POS_LEFT><FACE_SAD>Nnnnnnnnngh...! *huff* *huff*\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_NORMAL>You can do it. The baby is trying really hard, too.\nYou're almost there."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_WEATHERGIRL",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_ANGRY>\nI'm sorry, but give us a little longer. The birthing\nprocess is still underway."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_WEATHERGIRL",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nWell done. Both babies have arrived, safe and\nsound.\n<PAGE>\n<FACE_MARIAN><POS_LEFT><FACE_LAUGH>Well look at that...twins! A boy and a girl, and\nthey're both cute as a button.\n<PAGE>\nNow then. Angela, honey, would you go call\n<MYNAME> over?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_WEATHERGIRL",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nAs you heard, you are the father of twins, a boy\nand a girl. They seem to be in perfect health.\n<PAGE>\nThis way, please."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_WEATHERGIRL",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nCongratulations, honey! I know it can't have\nbeen easy having twins for your first birthing,\nbut you did great, Lillie!\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_LAUGH>Indeed, well done. Your composure was quite\ncommendable, especially for it being your first\ntime."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_NORMAL>\nThanks. It hurt so bad I didn't know how much\nlonger I could hold out, but now I'm really glad I\npulled through okay.\n<PAGE>\n<FACE_LAUGH>I'm so happy I get to welcome our little babies to\nthe world!"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_LAUGH>\nAnd hey, you look pretty proud yourself,\n<MYNAME>. We're gonna have to work hard to\nraise them into great people."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_WEATHERGIRL",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nBy the by, have you decided on names for your\nlittle bundles of joy?\n<PAGE>\n<FACE_LAUGH>A name is the first gift parents give to their\nchildren. Be sure to pick good ones now, honey."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_NORMAL>\nHmmmmm... That's a good question. What\nshould we name them?\n<PAGE>\nI think I wanna start with our son. You have any\nparticular names in mind, <MYNAME>?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_NORMAL>\nMmm...gonna go with <CHILD_NAME_M> for our son's\nname, huh?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_WEATHERGIRL",
+      "Text": "<CANCEL_SELECT>\nNo"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_WEATHERGIRL",
+      "Text": "Yes"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_LAUGH>\nOkay, <CHILD_NAME_M> it is! A cool name for our\ncool son!\n<PAGE>\n<FACE_NORMAL>Now, how about a good name for our daughter?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_NORMAL>\nYou like <CHILD_NAME_W> for our daughter, right?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_WEATHERGIRL",
+      "Text": "<CANCEL_SELECT>\nNo"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_WEATHERGIRL",
+      "Text": "Yes"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_LAUGH>\n<CHILD_NAME_W>? Hmm...yeah, that's pretty catchy.\nI'm sure she'll love it!\n<PAGE>\n<WINDOW_HEART2_R>Yay, <CHILD_NAME_M> and <CHILD_NAME_W> are here!\nLet's make our family as bright and happy and\ncheery as possible!"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_WEATHERGIRL",
+      "Text": "Lillie and I will do our very best to raise\n<CHILD_NAME_M> and <CHILD_NAME_W> right.\nWe can do it!"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_NORMAL>\nC'mon, you're awesome at lots of other things,\nso I'm sure you can come up with a good name."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_RANGER",
+      "Text": "<FACE_MENOU><POS_LEFT><FACE_SAD>\nOwwie... My tummy hurts.\n<PAGE>\nUm...I need your help, <MYNAME>. I think the\nbaby's telling me it wants to be born...!"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_RANGER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nThat's it. Keep it up, honey. Just a little bit\nlonger now.\n<PAGE>\n<FACE_MENOU><POS_LEFT><FACE_SAD>Owwie...! Ow ow ow ow ow ow!\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_NORMAL>You can do it. The baby is trying really hard, too.\nYou're almost there."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_RANGER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_ANGRY>\nI'm sorry, but give us a little longer. The birthing\nprocess is still underway."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_RANGER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nWell done. Both babies have arrived, safe and\nsound.\n<PAGE>\n<FACE_MARIAN><POS_LEFT><FACE_LAUGH>Well look at that...twins! A boy and a girl, and\nthey're both cute as a button.\n<PAGE>\nNow then. Angela, honey, would you go call\n<MYNAME> over?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_RANGER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nAs you heard, you are the father of twins, a boy\nand a girl. They seem to be in perfect health.\n<PAGE>\nThis way, please."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_RANGER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nCongratulations, honey! I know it can't have\nbeen easy having twins for your first birthing,\nbut you did great, Agate!\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_LAUGH>Indeed, well done. Your composure was quite\ncommendable, especially for it being your first\ntime."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_NORMAL>\nThank you!\n<PAGE>\nMy tummy was so big I was afraid it was\ngoing to fly away like a balloon! But now, here\nthey are, our babies, all safe and sound.\n<PAGE>\n<FACE_LOVE>Two babies, too! A boy and a girl. I'm so happy\nour family got bigger by not just one, but two\nwonderful people! ♪"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_LAUGH>\nHeehee! You look really happy too, <MYNAME>.\n<PAGE>\nLet's do our best to overcome whatever life\nthrows at us and raise our babies with lots of\ncare."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_RANGER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nBy the by, have you decided on names for your\nlittle bundles of joy?\n<PAGE>\n<FACE_LAUGH>A name is the first gift parents give to their\nchildren. Be sure to pick good ones now, honey."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_LAUGH>\nYeah. I want to give them both wonderful names\nthey'll be proud of their whole lives.\n<PAGE>\n<FACE_NORMAL>Let's start with our son. What kind of name\nsounds good to you, <MYNAME>?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_NORMAL>\nOooooh, you want to go with <CHILD_NAME_M> for\nour son, then?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_RANGER",
+      "Text": "<CANCEL_SELECT>\nNo"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_RANGER",
+      "Text": "Yes"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_LAUGH>\n<CHILD_NAME_M>? I think that's a nice name! I'll bet\nhe'll be proud of it someday. ♪\n<PAGE>\n<FACE_NORMAL>And of course, there's our daughter too."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_NORMAL>\nYou like the sound of <CHILD_NAME_W> for our\ndaughter's name, then?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_RANGER",
+      "Text": "<CANCEL_SELECT>\nNo"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_RANGER",
+      "Text": "Yes"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_LAUGH>\n<CHILD_NAME_W>? Perfect! You're really on a roll\ntoday, <MYNAME>. Let's call her that. ♪\n<PAGE>\n<WINDOW_HEART2_R>Now it's you, me, <CHILD_NAME_M> and <CHILD_NAME_W>.\nIt's like we're starting our very own flock! Let's\nmake sure to help them soar."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_RANGER",
+      "Text": "Agate and I will do our very best to raise\n<CHILD_NAME_M> and <CHILD_NAME_W> right.\nWe can do it!"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_NORMAL>\nC'mon, if you can name cows and puppies, I'm\nsure you can think of names for your own\nbabies..."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_NURSE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_SAD>\nHrm... I've started experiencing an unpleasant\nsensation in my belly. I...I think I may be going\ninto labor..."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_NURSE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nThat's it. Keep it up, honey. Just a little bit\nlonger now.\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_SAD>Nnngh...! I-I'm trying...!"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_NURSE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_ANGRY>\n<MYNAME>, honey, don't come over quite yet.\nShe's still giving birth, and it's taking a little\nlonger than I expected."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_NURSE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nThere you go, honey...twins! ♪ A boy and a\ngirl, and they're both cute as a button."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_NURSE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nSorry to keep you waiting so long, <MYNAME>,\nbut I'm sure you just overheard the good news.\n<PAGE>\nYou're the father of a healthy baby boy and girl.\nCome on over and say hello!"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_NURSE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nCongratulations! I know it can't have been easy\nhaving twins for your first birthing, but you really\nheld together, Angela!"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LAUGH>\nThank you, Doctor. The pain was almost too\nmuch for me, but I'm glad both babies were\nborn safely.\n<PAGE>\nTwins... I never expected that, but I am glad for\nthem nonetheless."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LAUGH>\nHeehee. You look pretty happy too, <MYNAME>.\n<PAGE>\nWe'll have to work hard, but I'm sure we can\nprovide a great environment conducive to the\nraising of our children."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_NURSE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nBy the by, have you decided on names for your\nlittle bundles of joy?\n<PAGE>\n<FACE_LAUGH>A name is the first gift parents give to their\nchildren. Be sure to pick good ones now, honey."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_NORMAL>\nHmm...time for a little family conference.\n<PAGE>\nLet's begin with our son. What sort of name\nwould you suggest, <MYNAME>?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_NORMAL>\nI see you're fond of <CHILD_NAME_M> for our son's\nname."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_NURSE",
+      "Text": "<CANCEL_SELECT>\nNo"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_NURSE",
+      "Text": "Yes"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LAUGH>\n<CHILD_NAME_M>, is it? I think you've made a good\nchoice.\n<PAGE>\nNow, with our son taken care of, let us turn our\nattention to our daughter."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_NORMAL>\nYou like the name <CHILD_NAME_W> for our daughter,\nit seems?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_NURSE",
+      "Text": "<CANCEL_SELECT>\nNo"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_NURSE",
+      "Text": "Yes"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LAUGH>\n<CHILD_NAME_W>? I think it sounds lovely.\n<PAGE>\n<WINDOW_HEART2_R>With <CHILD_NAME_M> and <CHILD_NAME_W> now a part of\nour family, let us do our very best to bring\nwarmth and happiness to them."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_NURSE",
+      "Text": "From now on, Angela and I will do our very best\nto raise <CHILD_NAME_M> and <CHILD_NAME_W> right. We\ncan do it!"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_NORMAL>\nI just pushed two babies out of myself. You're in\ncharge of naming them."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_LEFT><FACE_SAD>\nWhoa...my stomach hurts. Did I eat something\nmoldy again? Or...wait... I think the baby might\nbe coming...!"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_RIKORISU",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nThat's it. Keep it up, honey. Just a little bit\nlonger now.\n<PAGE>\n<FACE_LICORICE><POS_LEFT><FACE_SAD>Nnnngggh...!\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_NORMAL>You can do it. The baby is trying really hard, too.\nYou're almost there."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_RIKORISU",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_ANGRY>\nI'm sorry, but give us a little longer. The birthing\nprocess is still underway."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_RIKORISU",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nWell done. Both babies have arrived, safe and\nsound.\n<PAGE>\n<FACE_MARIAN><POS_LEFT><FACE_LAUGH>Well look at that...twins! A boy and a girl, and\nthey're both cute as a button.\n<PAGE>\nNow then. Angela, honey, would you go call\n<MYNAME> over?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_RIKORISU",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nAs you heard, you are the father of twins, a boy\nand a girl. They seem to be in perfect health.\n<PAGE>\nThis way, please."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_RIKORISU",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nCongratulations, honey! I know it can't have\nbeen easy having twins for your first birthing,\nbut you did great, Licorice.\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_LAUGH>Indeed, well done. Your composure was quite\ncommendable, especially for it being your first\ntime."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\nTh-thanks...\n<PAGE>\n<FACE_LOVE>My first baby ended up being two babies...I'm\nstill kinda reeling from twin-shock, but seeing\ntheir two little faces makes me feel all warm."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\nYou're lookin' pretty proud over there,\n<MYNAME>. Now's the time for us to combine\nour powers and help our children grow!"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_RIKORISU",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nBy the by, have you decided on names for your\nlittle bundles of joy?\n<PAGE>\n<FACE_LAUGH>A name is the first gift parents give to their\nchildren. Be sure to pick good ones now, honey."
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\nGood point. A name is the one thing a child will\nhave their entire life, so we'd better make sure\nthey're good. And easy to remember.\n<PAGE>\nLet's start with our son. Any good ideas for\nhim?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\nHmm, you want to call him <CHILD_NAME_M>, right?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_RIKORISU",
+      "Text": "<CANCEL_SELECT>\nNo"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_RIKORISU",
+      "Text": "Yes"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\n<CHILD_NAME_M>? Yeah, I think I can roll with that.\nWe're a-okay there.\n<PAGE>\n<FACE_NORMAL>Now, you got any good ideas for our little lady?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\nSo, you want to call her <CHILD_NAME_W>, right?"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_RIKORISU",
+      "Text": "<CANCEL_SELECT>\nNo"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_RIKORISU",
+      "Text": "Yes"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\n<CHILD_NAME_W>? No objections here. It's a nice-\nsounding name.\n<PAGE>\n<WINDOW_HEART2_R>So now we've got <CHILD_NAME_M> and <CHILD_NAME_W>,\nin addition to both of us. Let's give it our all to\nhave a happy family!"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_RIKORISU",
+      "Text": "From now on, Licorice and I will do our very\nbest to raise <CHILD_NAME_M> and <CHILD_NAME_W> right.\nWe can do it!"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\nIt's not like I'm asking you to come up with a\nscientific name...just a baby name."
+    }
+  ]
+}

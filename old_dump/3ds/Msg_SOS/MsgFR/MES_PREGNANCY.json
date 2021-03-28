@@ -1,0 +1,490 @@
+﻿{
+  "Date": "2016-06-10T19:21:59.5253531+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_EV_PREGNANCY_BAD_FACE_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\nHé là ! Ça va ? T'es pâle comme un linge !\n<PAGE>\nTu devrais peut-être pas travailler aujourd'hui.\nAllez, je t'emmène à la clinique."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HOW_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\nHé, Doc' ! Ça va aller pour <MYNAME> ?!\nC'est pas une maladie incurable, si ? Allez\nmon vieux, dites-moi quelque chose !"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_00_POORFARMER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nEh bien, veux-tu te calmer, mon chou ? Et si\ntu m'appelles \"mon vieux\" encore une fois, je te\npromets une piqûre dont tu vas te souvenir !\n<PAGE>\n<FACE_NORMAL>Enfin bref, hmm... Je dirais qu'il vous reste\nenviron <BLUE>60 jours</BLUE> avant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_01_POORFARMER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nEh bien, veux-tu te calmer, mon chou ? Et si\ntu m'appelles \"mon vieux\" encore une fois, je te\npromets une piqûre dont tu vas te souvenir !\n<PAGE>\n<FACE_NORMAL>Enfin bref, hmm... Je dirais qu'il vous reste\nenviron <BLUE>40 jours</BLUE> avant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_02_POORFARMER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nEh bien, veux-tu te calmer, mon chou ? Et si\ntu m'appelles \"mon vieux\" encore une fois, je te\npromets une piqûre dont tu vas te souvenir !\n<PAGE>\n<FACE_NORMAL>Enfin bref, hmm... Je dirais qu'il vous reste\nenviron <BLUE>30 jours</BLUE> avant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_CONGRATULATON",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nToutes mes félicitations, mon chou. Tu es\nenceinte. Un petit bébé est en train de grandir\nen ce moment même dans ton petit ventre."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\n<WINDOW_QUESTION_R>Ah, donc c'est juste un béb... QUOI, UN BÉBÉ ?!\nAlors <MYNAME> n'avait pas juste un simple\nrhume...\n<PAGE>\n<WINDOW_DEFAULT><FACE_MARIAN><POS_LEFT><FACE_LAUGH>En effet. Ce sont de simples nausées matinales,\nfréquentes en début de grossesse. Hormis cela,\nelle est en parfaite santé.\n<PAGE>\nDonc non, ce n'est pas une maladie incurable,\nmon chou. Détends-toi."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION02_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\nO-Oh... C-C'est une bonne chose, au moins.\nAlors... on va bientôt avoir un nouveau membre\ndans la famille. Hé hé ! Ça alors, c'est génial !"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_ATTENTION_POORFARMER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nJe suis tellement content pour toi, mon chou.\nMais écoute ton corps, d'accord ? N'en fais\npas trop.\n<PAGE>\n<FACE_NORMAL>Je sais que tout ça n'est pas encore très concret\npour toi, mais tu partages ce corps avec un\nautre être dorénavant. Souviens-t'en.\n<PAGE>\nFritz, en tant que mari, je veux que tu gardes\nun œil sur son état, c'est compris ?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_WORRY_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_LEFT><FACE_NORMAL>\nD'accord ! <cap><MYNAME>, ça va, pas vrai ? Si tu\ncommences à sentir de la fatigue, des douleurs\nou quoi que ce soit, tu me le dis, d'accord ?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HAPPY_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_LEFT><FACE_LAUGH>\nJ'y crois pas... On va être parents ! Ça c'est une\nIMMENSE surprise, mais c'est vraiment génial !\n<PAGE>\nIl faut vraiment que je bosse dur pour être au top\nsi je veux être un super papa pour notre bébé.\nAllez, on peut le faire ! J'suis prêt !"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_BAD_FACE_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\nQue se passe-t-il ? Tu es toute pâle aujourd'hui.\n<PAGE>\n<FACE_SAD>Ne travaille pas aujourd'hui. Tu n'es pas en état\npour ça. Viens, je t'emmène à la clinique."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HOW_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\nMarian, comment va <MYNAME> ? Est-ce que\nc'est une sorte de virus ?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_00_PERFUMER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nHmm... Je dirais qu'il vous reste environ <BLUE>60 jours</BLUE>\navant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_01_PERFUMER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nHmm... Je dirais qu'il vous reste environ <BLUE>40 jours</BLUE>\navant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_02_PERFUMER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nHmm... Je dirais qu'il vous reste environ <BLUE>30 jours</BLUE>\navant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\nHein ?! Un... ...b-bébé ? Alors, <MYNAME>\nne se sentait pas bien à cause de...\n<PAGE>\n<WINDOW_DEFAULT><FACE_MARIAN><POS_LEFT><FACE_LAUGH>En effet. Ce sont de simples nausées matinales,\nfréquentes en début de grossesse. Hormis cela,\nelle est en parfaite santé.\n<PAGE>\nDonc non, ce n'est pas je ne sais quel virus.\nDétends-toi."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION02_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_LAUGH>\nUn bébé... Ça alors. Nous allons avoir un bébé...\nD-D'accord... un bébé..."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_ATTENTION_PERFUMER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nJe suis tellement content pour toi, mon chou.\nMais écoute ton corps, d'accord ? N'en fais\npas trop.\n<PAGE>\n<FACE_NORMAL>Je sais que tout ça n'est pas encore très concret\npour toi, mais tu partages ce corps avec un\nautre être dorénavant. Souviens-t'en.\n<PAGE>\nKlaus, en tant que mari, je veux que tu gardes\nun œil sur son état, c'est compris ?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_WORRY_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_LEFT><FACE_NORMAL>\n<cap><MYNAME>, est-ce que tu te sens mieux ?\nDès que tu ne te sens pas bien, je veux\nque tu m'en parles, entendu ?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HAPPY_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_LEFT><FACE_LAUGH>\nNous allons être parents. Cela est tellement\nsoudain que ça ne me semble pas encore réel,\nmême si j'en suis fou de joie.\n<PAGE>\nJe suppose que je vais devoir travailler dur\nsi je veux être un bon père pour notre enfant.\nJe suis vraiment impatient qu'il voie le jour."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_BAD_FACE_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_SAD>\nOh dis-donc, <MYNAME> est-ce que ça va ?!\nTu es pâle comme un linge !\n<PAGE>\n<FACE_LOSS>Je ne pense pas que tu devrais travailler\naujourd'hui. Allez viens, je t'emmène\nà la clinique."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HOW_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_NORMAL>\nDr Marian, comment va <MYNAME> ? Elle\nn'a pas attrapé une vilaine grippe, si ?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_00_CHEF",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nHmm... Je dirais qu'il vous reste environ <BLUE>60 jours</BLUE>\navant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_01_CHEF",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nHmm... Je dirais qu'il vous reste environ <BLUE>40 jours</BLUE>\navant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_02_CHEF",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nHmm... Je dirais qu'il vous reste environ <BLUE>30 jours</BLUE>\navant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_NORMAL>\nAttendez, quoi ? Bébé ? J'ai bien entendu\nBÉBÉ, non ? ... <cap><MYNAME> va avoir un bébé ?\nOooh là là...\n<PAGE>\nAlors elle n'était pas malade à cause de la grippe.\nC'était parce que...\n<PAGE>\n<WINDOW_DEFAULT><FACE_MARIAN><POS_LEFT><FACE_LAUGH>En effet. Ce sont de simples nausées matinales,\nfréquentes en début de grossesse. Hormis cela,\nelle est en parfaite santé.\n<PAGE>\nDonc non, ce n'est pas la grippe.\nDétends-toi."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION02_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_LOVE>\nO-Oh... n-nous allons bientôt accueillir\nun nouveau membre dans la famille...\nOuah, c'est génial."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_ATTENTION_CHEF",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nJe suis tellement content pour toi, mon chou.\nMais écoute ton corps, d'accord ? N'en fais\npas trop.\n<PAGE>\n<FACE_NORMAL>Je sais que tout ça n'est pas encore très concret\npour toi, mais tu partages ce corps avec un\nautre être dorénavant. Souviens-t'en.\n<PAGE>\nRaeger, en tant que mari, je veux que tu gardes\nun œil sur son état, c'est compris ?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_WORRY_CHEF",
+      "Text": "<FACE_REGER><POS_LEFT><FACE_NORMAL>\n<cap><MYNAME>, tu te sens bien ? Si jamais\ntu commences à te sentir fatiguée ou faible,\ntu m'en parles tout de suite, d'accord ?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HAPPY_CHEF",
+      "Text": "<FACE_REGER><POS_LEFT><FACE_LOVE>\nQuand même... un bébé. C'est tellement soudain\nque je ne réalise pas encore, mais je sais\nque c'est le début d'une belle histoire.\n<PAGE>\n<FACE_LAUGH>On dirait bien qu'il va falloir que je me mette\nau boulot si je veux être un super papa\npour notre petit bout de chou."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_BAD_FACE_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_SAD>\nQu'est-ce qui ne va pas, <MYNAME> ?\nTu m'as l'air bien pâle.\n<PAGE>\nJe pense que tu devrais prendre un jour de repos\net aller faire un tour à la clinique. Viens,\nallons-y ensemble."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HOW_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_SAD>\nDr Marian, comment va <MYNAME> ? J'ai\npeur qu'elle ait attrapé quelque chose de sérieux."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_00_ANTIQUE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nHmm... Je dirais qu'il vous reste environ <BLUE>60 jours</BLUE>\navant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_01_ANTIQUE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nHmm... Je dirais qu'il vous reste environ <BLUE>40 jours</BLUE>\navant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_02_ANTIQUE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nHmm... Je dirais qu'il vous reste environ <BLUE>30 jours</BLUE>\navant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_NORMAL>\nPardon, vous avez dit \"bébé\" ? Vraiment ?\n...Bien. A-Alors je suppose que <MYNAME>\nne souffrait d'aucune maladie...\n<PAGE>\n<WINDOW_DEFAULT><FACE_MARIAN><POS_LEFT><FACE_LAUGH>En effet. Ce sont de simples nausées matinales,\nfréquentes en début de grossesse. Hormis cela,\nelle est en parfaite santé.\n<PAGE>\nDonc non, ce n'est pas une maladie étrange.\nDétends-toi."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION02_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_LAUGH>\nJe... vois. Nous allons avoir un bébé. E-Eh bien,\nça alors. Un bébé... D'accord...\n<PAGE>\nTout ça est un peu saisissant, mais c'est la plus\nmerveilleuse des nouvelles."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_ATTENTION_ANTIQUE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nJe suis tellement content pour toi, mon chou.\nMais écoute ton corps, d'accord ? N'en fais\npas trop.\n<PAGE>\n<FACE_NORMAL>Je sais que tout ça n'est pas encore très concret\npour toi, mais tu partages ce corps avec un\nautre être dorénavant. Souviens-t'en.\n<PAGE>\nMistel, en tant que mari, je veux que tu gardes\nun œil sur son état, c'est compris ?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_WORRY_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_LEFT><FACE_NORMAL>\nComment te sens-tu maintenant, <MYNAME> ?\nComme l'a dit Dr Marian, il faut te ménager.\n<PAGE>\nSi tu commences à te sentir ne serait-ce\nqu'un peu incommodée, viens m'en parler\nimmédiatement."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HAPPY_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_LEFT><FACE_LOVE>\nJe n'ai pas encore eu le temps de réaliser,\nmais... nous allons être parents. Quelle\nmerveilleuse surprise. J'ai vraiment hâte.\n<PAGE>\nJe pense qu'il va me falloir travailler\nencore plus dur afin de devenir\nun père digne de notre enfant."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_BAD_FACE_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_SAD>\nQu'est-ce qu'il y a, <MYNAME> ? T'as pas l'air\nen forme aujourd'hui.\n<PAGE>\nHmm... Allez, laisse tomber tes tâches\npour aujourd'hui. Je t'emmène tout de suite\nà la clinique."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HOW_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_SAD>\nMarian, comment va <MYNAME> ? J'ai déjà vu\nce genre de symptômes avec des parasites..."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_00_GARDENER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nHmm... Je dirais qu'il vous reste environ <BLUE>60 jours</BLUE>\navant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_01_GARDENER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nHmm... Je dirais qu'il vous reste environ <BLUE>40 jours</BLUE>\navant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_02_GARDENER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nHmm... Je dirais qu'il vous reste environ <BLUE>30 jours</BLUE>\navant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_LAUGH>\nOh, c'est juste un bébé... ATTENDEZ,\nQU'EST-CE QUE VOUS VENEZ DE DIRE ?!\n<PAGE>\n<WINDOW_QUESTION_R><FACE_NORMAL><MYNAME> est e-e-en-enc... va avoir un\nb-b-bébé ?! A-Alors c'était pas un parasite\nqui la rendait malade...\n<PAGE>\n<WINDOW_DEFAULT><FACE_MARIAN><POS_LEFT><FACE_LAUGH>En effet. Ce sont de simples nausées matinales,\nfréquentes en début de grossesse. Hormis cela,\nelle est en parfaite santé.\n<PAGE>\nEt non, je ne pense pas qu'un bébé soit\nconsidéré comme un parasite. Détends-toi."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION02_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_LAUGH>\nUn... Un bébé... Donc ça y est... On va avoir\nun bébé... C'est... C'est quand même dingue."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_ATTENTION_GARDENER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nJe suis tellement content pour toi, mon chou.\nMais écoute ton corps, d'accord ? N'en fais\npas trop.\n<PAGE>\n<FACE_NORMAL>Je sais que tout ça n'est pas encore très concret\npour toi, mais tu partages ce corps avec un\nautre être dorénavant. Souviens-t'en.\n<PAGE>\nNadi, en tant que mari, je veux que tu gardes\nun œil sur son état, c'est compris ?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_WORRY_GARDENER",
+      "Text": "<FACE_NADI><POS_LEFT><FACE_LOSS> Tu te sens bien ? Faut te ménager, d'accord ?\nEt surtout préviens-moi à l'instant même\noù tu te sens mal, compris ?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HAPPY_GARDENER",
+      "Text": "<FACE_NADI><POS_LEFT><FACE_LAUGH>\nOuah... Ç-Ça me paraît encore irréel, mais\non va être parents. C'est vraiment génial.\n<PAGE>\nOn dirait bien que je vais devoir faire des efforts\nsi je veux être le papa modèle de ce petit bébé.\nJ'ai hâte qu'il soit là !"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_BAD_FACE_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_SAD>\nOuh là là, est-ce que ça va ? Tu n'as pas l'air\nbien, aujourd'hui.\n<PAGE>\nTu devrais peut-être prendre un jour de repos\naujourd'hui. D'ailleurs... viens avec moi,\nje t'emmène à la clinique."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HOW_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_SAD>\nDr Marian, comment va <MYNAME> ?\nCe n'est pas quelque chose de sérieux,\ncomme la grippe, si ?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_00_KAMIRU",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nHmm... Je dirais qu'il vous reste environ <BLUE>60 jours</BLUE>\navant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_01_KAMIRU",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nHmm... Je dirais qu'il vous reste environ <BLUE>40 jours</BLUE>\navant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_02_KAMIRU",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nHmm... Je dirais qu'il vous reste environ <BLUE>30 jours</BLUE>\navant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_LAUGH>\nQuoi ? Un b-b-b-bébé ?! A-Alors ce n'était\npas à cause d'une maladie qu'elle n'était\npas bien, c'est... \n<PAGE>\n<WINDOW_DEFAULT><FACE_MARIAN><POS_LEFT><FACE_LAUGH>En effet. Ce sont de simples nausées matinales,\nfréquentes en début de grossesse. Hormis cela,\nelle est en parfaite santé.\n<PAGE>\nDonc non, ce n'est pas une maladie virale.\nDétends-toi."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION02_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_LAUGH>\nOuf. Je suis ravi d'apprendre que tu n'es pas sur\nle point de vomir ton quatre heures, mais ouah...\nun bébé ? On va vraiment avoir un bébé ?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_ATTENTION_KAMIRU",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nJe suis tellement content pour toi, mon chou.\nMais écoute ton corps, d'accord ? N'en fais\npas trop.\n<PAGE>\n<FACE_NORMAL>Je sais que tout ça n'est pas encore très concret\npour toi, mais tu partages ce corps avec un\nautre être dorénavant. Souviens-t'en.\n<PAGE>\nKamil, en tant que mari, je veux que tu gardes\nun œil sur son état, c'est compris ?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_WORRY_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_LEFT><FACE_LOSS>\nTu te sens bien ? Si jamais tu as des nausées ou\nque tu te sens flagada, viens me le dire aussitôt.\nJe ferai tout ce que je peux pour aider."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HAPPY_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_LEFT><FACE_LAUGH>\nJe n'en reviens toujours pas. On va accueillir un\nnouveau membre dans la famille... Je crois que\nje n'ai jamais été aussi heureux de toute ma vie.\n<PAGE>\nOn dirait bien que je vais devoir redoubler\nd'efforts si je veux être un super papa pour notre\npetit bout de chou. J'ai vraiment hâte."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_BAD_FACE_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_LEFT><FACE_SAD>\nEuh, <MYNAME>... ?\n<PAGE>\nJe me sentais déjà un peu malade ces\nderniers jours, mais ce matin je me sens\nparticulièrement souffrante.\n<PAGE>\nJe pense que je devrais me rendre à la clinique..."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HOW_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\nDr Marian, dites-moi, de quelle genre de\nmaladie puis-je bien souffrir ?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_00_RICHGIRL",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nHmm... Je dirais qu'il vous reste environ <BLUE>60 jours</BLUE>\navant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_01_RICHGIRL",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nHmm... Je dirais qu'il vous reste environ <BLUE>40 jours</BLUE>\navant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_02_RICHGIRL",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nHmm... Je dirais qu'il vous reste environ <BLUE>30 jours</BLUE>\navant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\nUn b-b-bébé... ? Je suis enceinte ?! Alors...\nla raison pour laquelle je me sentais indisposée\nrécemment, c'était...\n<PAGE>\n<WINDOW_DEFAULT><FACE_MARIAN><POS_LEFT><FACE_LAUGH>En effet. Ce sont de simples nausées matinales,\nfréquentes en début de grossesse. Hormis cela,\ntu es en parfaite santé.\n<PAGE>\nDonc non, il ne s'agit pas de je ne sais\nquel virus. Détends-toi."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION02_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOVE>\nJe... Je suis enceinte ! Un petit être grandit\nen ce moment même dans mon ventre... !\nC'est merveilleux !"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_ATTENTION_RICHGIRL",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nJe suis tellement content pour toi, mon chou.\nMais écoute ton corps, d'accord ? N'en fais\npas trop.\n<PAGE>\n<FACE_NORMAL>Je sais que tout ça n'est pas encore très concret\npour toi, mais tu partages ce corps avec un\nautre être dorénavant. Souviens-t'en.\n<PAGE>\n<MYNAME>, en tant que mari, je veux que\ntu gardes un œil sur son état, toi aussi.\nC'est compris ?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_WORRY_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nMaintenant que Dr Marian a tout vérifié,\nje me sens beaucoup mieux.\n<PAGE>\n<FACE_LAUGH>Merci de m'avoir accompagnée à la clinique,\n<MYNAME>."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HAPPY_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOVE>\n... Je suis enceinte, j'ai encore du mal à me\nremettre de la surprise provoquée par cette\nnouvelle. Même si... cela me rend très heureuse.\n<PAGE>\n<FACE_LAUGH>Je suppose qu'il va falloir que je prenne bien soin\nde moi à l'avenir, afin que notre bébé reste\nen parfaite santé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_BAD_FACE_WRITER",
+      "Text": "<FACE_IRIS><POS_LEFT><FACE_LOSS>\nOh mince. <cap><MYNAME>, est-ce que\nje t'ai réveillé ? Excuse-moi.\n<PAGE>\n<FACE_SAD>Cela fait plusieurs jours que je ne me sens pas\nbien, mais c'est particulièrement le cas ce matin.\nJe crois que je ferais mieux d'aller à la clinique."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HOW_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_LOSS>\nDr Marian, dites-moi ce qui ne va pas\nchez moi. J'espère que ce n'est pas une sorte\nd'infection bactérienne, si ?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_00_WRITER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nHmm... Je dirais qu'il vous reste environ <BLUE>60 jours</BLUE>\navant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_01_WRITER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nHmm... Je dirais qu'il vous reste environ <BLUE>40 jours</BLUE>\navant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_02_WRITER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nHmm... Je dirais qu'il vous reste environ <BLUE>30 jours</BLUE>\navant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\nUn bébé... ? Je vais avoir un bébé... ?! Alors,\nsi je ne me sentais pas bien c'était parce que...\n<PAGE>\n<WINDOW_DEFAULT><FACE_MARIAN><POS_LEFT><FACE_LAUGH>En effet. Ce sont de simples nausées matinales,\nfréquentes en début de grossesse. Hormis cela,\ntu es en parfaite santé.\n<PAGE>\nDonc non, il ne s'agit pas d'une infection\nbactérienne. Détends-toi."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION02_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_LAUGH>\nO-Oh, ça alors... ! Je... Je suis enceinte !\nNous allons avoir un bébé ! Je suis\ntellement heureuse !"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_ATTENTION_WRITER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nJe suis tellement content pour toi, mon chou.\nMais écoute ton corps, d'accord ? N'en fais\npas trop.\n<PAGE>\n<FACE_NORMAL>Je sais que tout ça n'est pas encore très concret\npour toi, mais tu partages ce corps avec un\nautre être dorénavant. Souviens-t'en.\n<PAGE>\n<MYNAME>, en tant que mari, je veux que\ntu gardes un œil sur son état, toi aussi.\nC'est compris ?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_WORRY_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\nMaintenant que Dr Marian a pu m'examiner,\nje me sens beaucoup mieux.\n<PAGE>\n<FACE_LAUGH>Merci de m'avoir accompagnée à la clinique\naujourd'hui, <MYNAME>."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HAPPY_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_LAUGH>\nQuelle magnifique surprise. Nous allons avoir un\nbébé. Je me demande si c'est un garçon ou une\nfille. Il faut commencer à réfléchir à un nom !\n<PAGE>\nJ'ai tellement hâte de savoir. Il va falloir que\nje prenne soin de moi pour que le bébé soit\nen bonne santé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_BAD_FACE_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_LEFT><FACE_SAD>\nOh, <MYNAME>...\n<PAGE>\nDésolé. Je ne me sens pas très bien depuis\nquelque temps. Ce matin ça ne va pas mieux,\nalors je pense que je devrais aller à la clinique."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HOW_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_LOSS>\nDr Marian, est-ce que je suis malade ? Est-ce\nque j'ai attrapé la grippe ?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_00_WEATHERGIRL",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nHmm... Je dirais qu'il vous reste environ <BLUE>60 jours</BLUE>\navant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_01_WEATHERGIRL",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nHmm... Je dirais qu'il vous reste environ <BLUE>40 jours</BLUE>\navant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_02_WEATHERGIRL",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nHmm... Je dirais qu'il vous reste environ <BLUE>30 jours</BLUE>\navant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_NORMAL>\nUn b-b-b-bébé ?! Je suis e-enceinte ?! Alors...\ns-si je ne me sentais pas bien c'était parce que...\n<PAGE>\n<WINDOW_DEFAULT><FACE_MARIAN><POS_LEFT><FACE_LAUGH>En effet. Ce sont de simples nausées matinales,\nfréquentes en début de grossesse. Hormis cela,\ntu es en parfaite santé.\n<PAGE>\nDonc non, il ne s'agit pas de la grippe.\nDétends-toi."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION02_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_LOVE>\nOuah... J-Je suis enceinte. Il y a un petit bébé\nqui grandit dans mon ventre en ce moment\nmême... ! Oh la vache, c'est vraiment génial !"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_ATTENTION_WEATHERGIRL",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nJe suis tellement content pour toi, mon chou.\nMais écoute ton corps, d'accord ? N'en fais\npas trop.\n<PAGE>\n<FACE_NORMAL>Je sais que tout ça n'est pas encore très concret\npour toi, mais tu partages ce corps avec un\nautre être dorénavant. Souviens-t'en.\n<PAGE>\n<MYNAME>, en tant que mari, je veux que\ntu gardes un œil sur son état, toi aussi.\nC'est compris ?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_WORRY_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_LAUGH>\nJe me sens beaucoup mieux depuis\nque le docteur m'a examinée.\n<PAGE>\nMerci d'être venu avec moi à la clinique\naujourd'hui, <MYNAME>."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HAPPY_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_LOVE>\nNous allons avoir un bébé... ! C'est tellement\nsoudain que ça me semble encore irréel.\nMais je suis tellement contente !\n<PAGE>\n<FACE_NORMAL>Il va falloir que je demande à mon patron si je\npeux m'absenter du travail pour quelque temps.\nJe ne veux pas me surmener.\n<PAGE>\n<FACE_LAUGH>Oh mince, l'adrénaline commence déjà à monter.\nJ'ai vraiment hâte que le nouveau membre\nde la famille pointe le bout de son nez !"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_BAD_FACE_RANGER",
+      "Text": "<FACE_MENOU><POS_LEFT><FACE_SAD>\n... <cap><MYNAME>.\n<PAGE>\nJe me sens vraiment patraque ce matin. Si j'ai\nun rhume je ne veux pas que tu l'attrapes aussi.\nJe devrais peut-être aller à la clinique."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HOW_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_SAD>\nEuh, docteur... ? Est-ce que j'ai un rhume ?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_00_RANGER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nHmm... Je dirais qu'il vous reste environ <BLUE>60 jours</BLUE>\navant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_01_RANGER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nHmm... Je dirais qu'il vous reste environ <BLUE>40 jours</BLUE>\navant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_02_RANGER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nHmm... Je dirais qu'il vous reste environ <BLUE>30 jours</BLUE>\navant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT>\nUn... b-b-bébé ? Je suis enceinte... ?! Alors...\nla raison pour laquelle je me sentais si mal,\nc'était... \n<PAGE>\n<WINDOW_DEFAULT><FACE_MARIAN><POS_LEFT><FACE_LAUGH>En effet. Ce sont de simples nausées matinales,\nfréquentes en début de grossesse. Hormis cela,\ntu es en parfaite santé.\n<PAGE>\nDonc non, pas de rhume à l'horizon.\nDétends-toi."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION02_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_LAUGH>\nSuper ! Je ne sais même pas quoi dire.\nC'est tellement génial !\n<PAGE>\nC'est fantastique de savoir que nous allons avoir\nun enfant ensemble."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_ATTENTION_RANGER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nJe suis tellement content pour toi, mon chou.\nMais écoute ton corps, d'accord ? N'en fais\npas trop.\n<PAGE>\n<FACE_NORMAL>Je sais que tout ça n'est pas encore très concret\npour toi, mais tu partages ce corps avec un\nautre être dorénavant. Souviens-t'en.\n<PAGE>\n<MYNAME>, en tant que mari, je veux que\ntu gardes un œil sur son état, toi aussi.\nC'est compris ?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_WORRY_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_LAUGH>\nHi hi hi ! Il y a un petit bébé dans mon ventre en\nce moment même ! C'est une telle surprise que\nje ne me sens même plus malade.♪"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HAPPY_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_NORMAL>\nJe veux avoir des tas et des tas d'enfants, donc\nj'adorerai avoir toute une portée d'un seul coup,\ncomme pour les chiots !\n<PAGE>\n<FACE_LAUGH>Mais... je ne suis pas sûr que ça soit l'idéal.\nDonc un seul bébé me rendrait déjà heureuse."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_BAD_FACE_NURSE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_SAD>\nAh... <cap><MYNAME>.\n<PAGE>\nJe ne me sens vraiment pas bien ce matin.\nJe pensais arriver au travail un peu plus tôt\net demander son avis au docteur."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HOW_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT>\nDocteur, quel est votre diagnostic ?\nJe connais plusieurs virus qui pourraient\nêtre la cause de ces symptômes."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_00_NURSE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nHmm... Je dirais qu'il vous reste environ <BLUE>60 jours</BLUE>\navant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_01_NURSE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nHmm... Je dirais qu'il vous reste environ <BLUE>40 jours</BLUE>\navant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_02_NURSE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nHmm... Je dirais qu'il vous reste environ <BLUE>30 jours</BLUE>\navant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_NORMAL>\nUn... bébé ? Je suis enceinte... ? Alors...\nces symptômes ne sont pas causés par\nune maladie, il s'agit de...\n<PAGE>\n<WINDOW_DEFAULT><FACE_MARIAN><POS_LEFT><FACE_LAUGH>En effet. Ce sont de simples nausées matinales,\nfréquentes en début de grossesse. Hormis cela,\ntu es en parfaite santé.\n<PAGE>\nDonc non, ce n'est pas une maladie virale,\nbactérienne ou une autre de tes suggestions.\nDétends-toi."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION02_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LOVE>\nCela me paraît bizarre à dire, mais... je suis\nenceinte. Nous allons avoir un bébé.\nC'est une nouvelle vraiment formidable..."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_ATTENTION_NURSE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nJe suis tellement content pour toi, mon chou.\nMais écoute ton corps, d'accord ? N'en fais\npas trop.\n<PAGE>\n<FACE_NORMAL>Je sais que tout ça n'est pas encore très concret\npour toi, mais tu partages ce corps avec un\nautre être dorénavant. Souviens-t'en.\n<PAGE>\n<MYNAME>, en tant que mari, je veux que\ntu gardes un œil sur son état, toi aussi.\nC'est compris ?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_WORRY_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LAUGH>\n<cap><MYNAME>, merci de m'avoir\naccompagnée aujourd'hui.\n<PAGE>\nMaintenant que le docteur m'a examinée je me\nsens beaucoup mieux. Il ne faut plus t'inquiéter."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HAPPY_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LOVE>\nQuand même... Tout cela me paraît encore\nsurréaliste. Mais cela est bien réel. Nous allons\nvraiment avoir un bébé.\n<PAGE>\n<FACE_LAUGH>Je suppose qu'il va falloir que je fasse très\nattention à ma santé et à mon alimentation. Pas\nseulement pour moi mais aussi pour notre bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_BAD_FACE_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_LEFT><FACE_LOSS>\nAah, <MYNAME>. Je t'ai réveillé ?\n<PAGE>\n<FACE_SAD>Désolé, j'allais juste à la clinique. Je me sens\nsouvent malade depuis quelque temps, et\nce matin c'est particulièrement gênant."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HOW_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\nDr Marian, de quelle genre de maladie s'agit-il ?\nCe n'est... Ce n'est pas la sporosite fongique\nchronique, si ?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_00_RIKORISU",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nHmm... Je dirais qu'il vous reste environ <BLUE>60 jours</BLUE>\navant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_01_RIKORISU",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nHmm... Je dirais qu'il vous reste environ <BLUE>40 jours</BLUE>\navant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_02_RIKORISU",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\nHmm... Je dirais qu'il vous reste environ <BLUE>30 jours</BLUE>\navant la naissance du bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\nUn bébé ?! Je suis e-en-enceinte ?!\n<PAGE>\n<FACE_SAD>Alors les nausées que j'ai depuis ces derniers\njours ne sont pas le résultat de ces spores\nfongiques exotiques sur lesquelles je travaille...\n<PAGE>\n<WINDOW_DEFAULT><FACE_MARIAN><POS_LEFT><FACE_LAUGH>En effet. Ce sont de simples nausées matinales,\nfréquentes en début de grossesse. Hormis cela,\ntu es en parfaite santé.\n<PAGE>\nDonc non, il ne s'agit pas de je ne sais quelle\ninfection fongique. Détends-toi."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION02_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\nOuah. Je... Je suis enceinte. C'est une énorme\nsurprise. Mais je suis heureuse de savoir\nque nous allons avoir un bébé."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_ATTENTION_RIKORISU",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nJe suis tellement content pour toi, mon chou.\nMais écoute ton corps, d'accord ? N'en fais\npas trop.\n<PAGE>\n<FACE_NORMAL>Je sais que tout ça n'est pas encore très concret\npour toi, mais tu partages ce corps avec un\nautre être dorénavant. Souviens-t'en.\n<PAGE>\n<MYNAME>, en tant que mari, je veux que\ntu gardes un œil sur son état, toi aussi.\nC'est compris ?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_WORRY_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\nJe me sens beaucoup mieux depuis que\nDr Marian m'a examinée.\n<PAGE>\n<FACE_LAUGH><MYNAME>, merci d'être venu avec moi\nà la clinique, j'avais besoin d'être soutenue\nmoralement."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HAPPY_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\nOn va... avoir un bébé. J'ai encore du mal à\nréaliser, mais ça me rend tellement heureuse\nde l'avoir appris.\n<PAGE>\nJe suppose que je vais devoir prendre bien soin\nde moi, pour la santé du bébé. J'ai vraiment\nhâte qu'il naisse."
+    }
+  ]
+}

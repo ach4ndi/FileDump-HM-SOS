@@ -1,0 +1,822 @@
+﻿{
+  "Date": "2016-06-10T19:21:44.6183056+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_LOVE_3B_TALK_CHARA_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\nEh, ¡buenas, <MYNAME>!\n¿Has venío a verme? Je, je. ¡Mu bien!\n<PAGE>\nEs que... mmm... quería decirte una cosa."
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_OUT_CHARA_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\nEste no es, mmm... no es el mejor lugar, creo.\n¿Por qué no vienes conmigo un momento?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_CONFESSION_CHARA_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_SAD>\n<WINDOW_PALPITATION_R>Verás... últimamente...\nhe estao pensando mucho en ti.\n<PAGE>\nVeo alguna cosa y pienso: \"A <MYNAME>\nle gustaría mogollón\" o \"Seguro que <MYNAME>\nse mondaría de risa\". Y, mmm... yo... mmm...\n<PAGE>\n<FACE_ANGRY>¡Ay! Estoy enamorao de ti, ¿vale?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_00_CHARA_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_ANGRY>\nOye, <MYNAME>... ¿Quieres salir\nconmig... ahhh?\n<PAGE>\n<WINDOW_DISCOURAGEMENT_R><FACE_LOSS>¡Ay! Zagala, no puedo creer que me haya mordío\nla lengua... Después de to lo que he practicao...\nAaay..."
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_01_CHARA_POORFARMER",
+      "Text": "Sí, quiero salir contigo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_02_CHARA_POORFARMER",
+      "Text": "Lo siento..."
+    },
+    {
+      "VardId": "MES_LOVE_3B_YES_COMMENT_CHARA_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\n<WINDOW_HEART2_R>¿Qué? ¿Que sí? ¿De verdá?\n¡Síii! ¡Gracias, <MYNAME>!\n<PAGE>\nLo que pasa es que me he liao, así que quiero\nprobar a decirlo otra vez, pero bien.\n<PAGE>\n<FACE_NORMAL>Estoy enamorao de ti, <MYNAME>.\nEstaría encantao de que salieras conmigo.\n<PAGE>\n<FACE_LOVE><ACTION_RIBBON>¡Je, je! Estoy deseando pasar\nmás tiempo contigo. ¡Va a molar un montón!"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_00_CHARA_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\nAh, ¡oye! Ahora que estamos saliendo y to eso...\n¿qué te parece si nos ponemos motes?\n¿No sería una pasada? ♪\n<PAGE>\nPuedes llamarme \"Fritzín\" o \"cariñín\"\no \"caramelito\" o... ¡lo que tú quieras!\n<PAGE>\n<FACE_LOVE>Aunque entonces la pregunta es...\n¿Cómo te llamo yo a ti?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_01_CHARA_POORFARMER",
+      "Text": "Usemos los nombres de siempre."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_02_CHARA_POORFARMER",
+      "Text": "Veamos..."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_00_CHARA_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\nEntonces, ¿quieres que te llame <BLUE><MYNAME></BLUE>\na partir de ahora?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_01_CHARA_POORFARMER",
+      "Text": "Sí."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_02_CHARA_POORFARMER",
+      "Text": "<CANCEL_SELECT>\nNo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_COMMENT_CHARA_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\n¡Mu bien! Ay, ¡tengo muchas ganas\nde salir contigo, <MYNAME>!"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_END_CHARA_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\nOye, ¿por qué perder el tiempo?\nVamos a salir ahora mism...\n<PAGE>\n<FACE_SAD>¡Ay! ¡Es verdá! Tengo cosas que hacer.\nZagala, no quiero... pero será mejor\nque me vaya a casa y las haga.\n<PAGE>\n<FACE_NORMAL>De toas formas, la próxima vez lo pasaremos\ncomo nunca, ¿Te parece? ¡Guay!\n¡Ta luego, <MYNAME>!"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NO_COMMENT_CHARA_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_SAD>\nA-ah... Vale. N-no, no pasa na.\nEstoy acostumbrao a que me digan que no.\nNo pasa na, de verdá. ¡No te preocupes!"
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_HOME_CHARA_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\nPero no molaría que ahora, ya sabes,\nnos evitásemos y to eso. ¿Podemos ser amigos\notra vez? ¡Gracias! ¡Adiós!"
+    },
+    {
+      "VardId": "MES_LOVE_3B_TALK_CHARA_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\nHola, <MYNAME>. ¿Has venido a verme?\nVaya, me alegro de oírlo.\n<PAGE>\n<FACE_LAUGH>De hecho, yo mismo estaba pensando\nen ir a verte."
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_OUT_CHARA_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_LOSS>\nVerás, hay algo que quiero decirte.\nAunque este no es el mejor lugar.\n¿Podemos ir a otro sitio?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_CONFESSION_CHARA_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\nHe estado debatiéndome sobre si decírtelo o no,\npero al final me he decidido.\n<PAGE>\n<WINDOW_PALPITATION_R><FACE_LAUGH>Sé que puede parecer repentino,\npero sé considerada. Estoy enamorado\nde ti, <MYNAME>."
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_00_CHARA_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\n<WINDOW_PALPITATION_R>Al principio, quería cuidarte como lo haría\nun hermano mayor. Pero conforme pasaba\nel tiempo...\n<PAGE>\n<FACE_SAD>quería que fuéramos algo más. Ya sé que está\nel tema de nuestra diferencia de edad, pero eso\nno tiene nada que ver con los sentimientos...\n<PAGE>\n<FACE_NORMAL>Si no sientes lo mismo por mí, no pasa nada.\nPero si lo sientes... y la edad te preocupa...\n<PAGE>\n<FACE_LAUGH>Entonces te prometo que te trataré tan bien\ny te haré tan feliz que no pensarás en ello.\n<PAGE>\nAsí que si sientes algo por mí, sería un honor\npara mí ser tu pareja. Lo diré de nuevo...\nEstoy enamorado de ti, <MYNAME>."
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_01_CHARA_PERFUMER",
+      "Text": "Entonces, salgamos juntos."
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_02_CHARA_PERFUMER",
+      "Text": "Lo siento..."
+    },
+    {
+      "VardId": "MES_LOVE_3B_YES_COMMENT_CHARA_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_LAUGH>\n<WINDOW_PALPITATION_R><ACTION_RIBBON>Gracias, <MYNAME>. Nunca te arrepentirás\nde haberme elegido. Te lo prometo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_00_CHARA_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_LAUGH>\nBueno, tratándose de una ocasión especial,\n¿qué tal si elegimos apelativos nuevos\nque representen nuestra relación?\n<PAGE>\n<FACE_NORMAL>Por mi parte, preferiría mantenerme al margen\nde cualquier cosa sosa o demasiado formal.\nMe parecería bien que me llamases Klaus.\n<PAGE>\nPero es decisión tuya completamente.\n¿Cómo te gustaría que te llamara?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_01_CHARA_PERFUMER",
+      "Text": "Igual que hasta ahora."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_02_CHARA_PERFUMER",
+      "Text": "Por un apelativo nuevo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_00_CHARA_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\n¿Te parece bien que te llame <BLUE><MYNAME></BLUE>?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_01_CHARA_PERFUMER",
+      "Text": "Sí."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_02_CHARA_PERFUMER",
+      "Text": "<CANCEL_SELECT>\nNo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_COMMENT_CHARA_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_LAUGH>\nBien, entonces, <MYNAME>.\nTengo muchas ganas de llevar nuestra relación\nal próximo nivel."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_END_CHARA_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\nAhora lo que más me apetece es quedarme\ny charlar contigo, pero me temo\nque hay asuntos que debo atender.\n<PAGE>\nDebo irme, pues.\nNos vemos luego, <MYNAME>."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NO_COMMENT_CHARA_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_SAD>\nAh. Entiendo. No, no.\nGracias por ser sincera, <MYNAME>."
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_HOME_CHARA_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\nBueno, entonces será mejor que me vaya.\nCuídate, <MYNAME>."
+    },
+    {
+      "VardId": "MES_LOVE_3B_TALK_CHARA_CHEF",
+      "Text": "<FACE_REGER><POS_LEFT><FACE_LAUGH>\nAnda, en cuanto he empezado a pensar\n\"estaría bien ver a <MYNAME>\",\n¡vas y apareces de repente!"
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_OUT_CHARA_CHEF",
+      "Text": "<FACE_REGER><POS_LEFT><FACE_NORMAL>\nHay algo de lo que me gustaría hablarte.\nAlgo importante, así que... este no es\nel mejor lugar. Vayamos a otro sitio."
+    },
+    {
+      "VardId": "MES_LOVE_3B_CONFESSION_CHARA_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_LOSS>\n<WINDOW_PALPITATION_R>Hace poco me he dado cuenta de que he estado\npensando en ti casi sin parar, <MYNAME>...\n<PAGE>\n<FACE_NORMAL>Me pregunto cosas como qué estarás haciendo\no si vendrás a probar mi nueva receta...\n<PAGE>\nY, de repente, lo vi claramente.\n<PAGE>\nNo sabría decir cuándo ocurrió exactamente,\npero... me he enamorado de ti."
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_00_CHARA_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_LAUGH>\n<WINDOW_PALPITATION_R>Quiero que salgas conmigo, <MYNAME>...\n¿Lo harás?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_01_CHARA_CHEF",
+      "Text": "Sí, saldré contigo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_02_CHARA_CHEF",
+      "Text": "Lo siento..."
+    },
+    {
+      "VardId": "MES_LOVE_3B_YES_COMMENT_CHARA_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_LOVE>\n<WINDOW_PALPITATION_R>Gracias, <MYNAME>.\nTe aseguro que cuidaré muchísimo de ti.\nAy, ¡qué ganas tengo de salir contigo!"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_00_CHARA_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_LAUGH>\nComo se trata de una ocasión especial y eso,\n¿qué te parece si elegimos nuevos apelativos?\nPuedes llamarme como mejor te parezca.\n<PAGE>\nLa pregunta es...\n¿cómo quieres que te llame yo a ti?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_01_CHARA_CHEF",
+      "Text": "Como siempre me parece bien."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_02_CHARA_CHEF",
+      "Text": "Veamos..."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_00_CHARA_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_NORMAL>\nEntonces, ¿<BLUE><MYNAME></BLUE>?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_01_CHARA_CHEF",
+      "Text": "Sí."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_02_CHARA_CHEF",
+      "Text": "<CANCEL_SELECT>\nNo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_COMMENT_CHARA_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_LAUGH>\nEntendido. ¡Estoy muy emocionado con esto,\n<MYNAME>!"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_END_CHARA_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_LOSS>\nMe encantaría quedarme y charlar\ncontigo un rato más, pero tengo\nque ocuparme de unas cosas.\n<PAGE>\nAsí que me temo que tengo que irme.\nPero ¡seguro que nos vemos pronto,\n<MYNAME>!"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NO_COMMENT_CHARA_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_SAD>\nAh... Vale. Bueno, mmm, olvida todo esto.\nSiento haberte dado una sorpresa tan rara."
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_HOME_CHARA_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_SAD>\nMe voy. ¡Adiós!"
+    },
+    {
+      "VardId": "MES_LOVE_3B_TALK_CHARA_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_LAUGH>\nHola, <MYNAME>. ¿Qué ocurre?\n¿Has venido a verme?\n<PAGE>\n¿O acaso has deducido de alguna manera\nque había algo que quería comentarte?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_OUT_CHARA_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_NORMAL>\nSí, hay algo muy importante\nde lo que me gustaría que hablásemos.\n<PAGE>\nNo obstante, este no es el lugar más apropiado.\nVayamos a otro sitio. Por favor, ven conmigo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_CONFESSION_CHARA_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_PATI>\n<WINDOW_PALPITATION_R>Andarme por las ramas no haría\nmás que generar malentendidos,\nasí que seré claro.\n<PAGE>\n<FACE_NORMAL>Estoy enamorado de ti, <MYNAME>."
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_00_CHARA_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_NORMAL>\n<WINDOW_PALPITATION_R>No me sentiría bien si estuvieses saliendo\ncon otra persona. Me duele incluso pensarlo.\n<PAGE>\nEntonces... ¿quieres salir conmigo?\nPor favor, concédeme el privilegio\nde tenerte a mi lado."
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_01_CHARA_ANTIQUE",
+      "Text": "Sí, quiero salir contigo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_02_CHARA_ANTIQUE",
+      "Text": "Lo siento..."
+    },
+    {
+      "VardId": "MES_LOVE_3B_YES_COMMENT_CHARA_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_LOVE>\n<WINDOW_PALPITATION_R><ACTION_RIBBON>Gracias, <MYNAME>.\nPrometo que te trataré con más mimo\nque a nada ni a nadie en el mundo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_00_CHARA_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_NORMAL>\n<ACTION_RIBBON>Desde este momento somos pareja\noficialmente. No quiero separarme nunca de ti.\nAsí, querida compañera, es como me siento.\n<PAGE>\n<FACE_LAUGH>Ah, ¡oye! Dado que es una ocasión especial,\nquizá deberíamos otorgarnos nuevos apelativos.\n<PAGE>\nEstoy convencido de que eso ayudará\na que este maravilloso acontecimiento\nse establezca en la realidad más rápidamente.\n<PAGE>\n<FACE_NORMAL>¿Cómo te gustaría que te llamara?\n¿Tienes en mente algo en concreto?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_01_CHARA_ANTIQUE",
+      "Text": "Usemos los nombres de siempre."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_02_CHARA_ANTIQUE",
+      "Text": "Veamos..."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_00_CHARA_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_NORMAL>\nEntonces, ¿<BLUE><MYNAME></BLUE>?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_01_CHARA_ANTIQUE",
+      "Text": "Sí."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_02_CHARA_ANTIQUE",
+      "Text": "<CANCEL_SELECT>\nNo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_COMMENT_CHARA_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_LAUGH>\nDe acuerdo, a partir de ahora\nte llamaré <MYNAME>.\n<PAGE>\nHe de admitir que usar nuestros apelativos\nde pareja deliberadamente me provoca cierto...\ncosquilleo. Es una sensación positiva, claro."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_END_CHARA_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_SAD>\n¡Por todas las reliquias! Mira qué horas.\nMe temo que hay tareas\nde las que debo hacerme cargo.\n<PAGE>\n<FACE_NORMAL>Preferiría quedarme aquí contigo, pero...\nes lo que hay. ¡Hasta luego, <MYNAME>!"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NO_COMMENT_CHARA_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_SAD>\nAh... Entiendo.\n<PAGE>\n<FACE_LAUGH>No, no. ¡No pasa nada!\nPor favor, no me mires con esa lástima.\nEstás mucho más guapa cuando sonríes.\n<PAGE>\nLamento haber sacado un asunto\ntan incómodo repentinamente.\nPor favor, olvida toda esta conversación."
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_HOME_CHARA_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_NORMAL>\nAhora, si me disculpas, debo marcharme.\nAdiós, <MYNAME>."
+    },
+    {
+      "VardId": "MES_LOVE_3B_TALK_CHARA_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_NORMAL>\nAy, ¿es necesario que siempre aparezcas\nasí de repente? ¿Cómo sabías que tenías\nque llegar ahora, cuando al fin me he decidido?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_OUT_CHARA_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_LOSS>\nMmm... Lo que quiero decir es que tenemos\nque hablar. No esperaba que fuera tan pronto,\npero, oye, cuando se presenta la oportunidad...\n<PAGE>\n<FACE_NORMAL>De todas maneras, este no es el mejor lugar.\nVen. Acompáñame."
+    },
+    {
+      "VardId": "MES_LOVE_3B_CONFESSION_CHARA_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT>\nOye, <MYNAME>, me he dado cuenta de que...\nbueno, no me importa estar contigo. De hecho,\nme gusta. Mucho.\n<PAGE>\nAl principio, no sabía por qué seguías\nmolestándote en venir a verme tanto...\n<PAGE>\n<FACE_SAD>Pero, después, empecé a darme cuenta\nde que en realidad yo... esperaba tu llegada\ntodas las veces. Entonces lo vi claro.\n<PAGE>\n<WINDOW_PALPITATION_R><FACE_NORMAL>Estoy enamorado de ti, <MYNAME>..."
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_00_CHARA_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_LOVE>\n<WINDOW_PALPITATION_R>Quiero que salgas conmigo y...\nmmm... s-seas mi novia."
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_01_CHARA_GARDENER",
+      "Text": "Sí, quiero salir contigo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_02_CHARA_GARDENER",
+      "Text": "Lo siento..."
+    },
+    {
+      "VardId": "MES_LOVE_3B_YES_COMMENT_CHARA_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_LOVE>\n<WINDOW_PALPITATION_R><ACTION_RIBBON>¿D-de verdad? ¡¿Sí?! ¡Hala! ¡Qué alegría!\n¡Gracias, <MYNAME>!"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_00_CHARA_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_LOVE>\n¿Cómo? ¿Apelativos? ¿Qué pasa con ellos?\n<PAGE>\nBueno, como veas. Si quieres cambiar\nla forma en que nos llamamos el uno al otro,\na mí me parece bien.\n<PAGE>\nPero que no sea nada raro, ¿vale?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_01_CHARA_GARDENER",
+      "Text": "Usemos los nombres de siempre."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_02_CHARA_GARDENER",
+      "Text": "Veamos..."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_00_CHARA_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_NORMAL>\n¿Te parece bien que te llame <BLUE><MYNAME></BLUE>?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_01_CHARA_GARDENER",
+      "Text": "Sí."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_02_CHARA_GARDENER",
+      "Text": "<CANCEL_SELECT>\nNo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_COMMENT_CHARA_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_LAUGH>\nVale. Entonces, <MYNAME>.\n<PAGE>\n<FACE_LOVE>Yo... mmm... tengo ganas de que salgamos...\nmmm... ya sabes...\n<PAGE>\n<FACE_LOSS>Ay, ¡de verdad que no estoy hecho para esto!"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_END_CHARA_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_LOVE>\nBueno, tengo que irme.\n¡Nos vemos, <MYNAME>!"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NO_COMMENT_CHARA_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_SAD>\nAh, vale. Siento haberte molestado\ncon algo tan... incómodo. Olvídalo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_HOME_CHARA_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_SAD>\nSerá mejor que me vaya. Adiós, <MYNAME>."
+    },
+    {
+      "VardId": "MES_LOVE_3B_TALK_CHARA_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_NORMAL>\nAh, hola, <MYNAME>. Llegas justo a tiempo.\nHay algo sobre lo que quería hablarte."
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_OUT_CHARA_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_LOSS>\nMmm... eso sí, preferiría que no fuera aquí.\n¿Podrías venir conmigo un momento?\nVayamos a otro sitio."
+    },
+    {
+      "VardId": "MES_LOVE_3B_CONFESSION_CHARA_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_LOVE>\nBueno, mmm... ¿por dónde empiezo?\n<PAGE>\n<FACE_SAD>Hay tantas cosas que quiero decir que es\ndifícil encontrar las palabras para hacerlo.\nAsí que diré la parte más importante...\n<PAGE>\n<WINDOW_PALPITATION_R><FACE_NORMAL>Estoy enamorado de ti, <MYNAME>..."
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_00_CHARA_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_NORMAL>\n<WINDOW_PALPITATION_R>Lo siento. Seguro que no te lo esperabas\ny ha sido toda una sorpresa, así, de repente,\npero llevaba tiempo queriendo decírtelo.\n<PAGE>\n¿Quieres salir conmigo?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_01_CHARA_KAMIRU",
+      "Text": "Sí, quiero salir contigo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_02_CHARA_KAMIRU",
+      "Text": "Lo siento..."
+    },
+    {
+      "VardId": "MES_LOVE_3B_YES_COMMENT_CHARA_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_LAUGH>\n<WINDOW_PALPITATION_R><ACTION_RIBBON>Gracias, <MYNAME>.\nNo sabes lo feliz que me has hecho.\nTe cuidaré mucho, te lo prometo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_00_CHARA_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_NORMAL>\nAh, una cosa. Ya que esto es algo importante\npara ambos, ¿qué tal si elegimos\nnuevos apelativos para conmemorarlo?\n<PAGE>\nPuedes llamarme como prefieras.\nNo me importa.\n<PAGE>\n¿Cómo te gustaría que te llamase yo a ti?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_01_CHARA_KAMIRU",
+      "Text": "Igual que hasta ahora."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_02_CHARA_KAMIRU",
+      "Text": "Por un nuevo apelativo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_00_CHARA_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_NORMAL>\nEntonces, ¿quieres que te llame <BLUE><MYNAME></BLUE>?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_01_CHARA_KAMIRU",
+      "Text": "Sí."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_02_CHARA_KAMIRU",
+      "Text": "<CANCEL_SELECT>\nNo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_COMMENT_CHARA_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_LOVE>\nVale. Entonces, <MYNAME>... Mmm...\nEs un honor que quieras estar conmigo.\n<PAGE>\nEstoy muy contento, sobre todo\npor la idea de que vayamos a pasar\nmás tiempo juntos."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_END_CHARA_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_LOVE>\nMmm... Ah, sí, tengo cosas pendientes\nque debo terminar, así que será mejor\nque me vaya.\n<PAGE>\n<FACE_NORMAL>Hasta luego, <MYNAME>."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NO_COMMENT_CHARA_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_SAD>\nAh, vale. Lo siento por la incómoda sorpresa.\nOlvida lo que te he dicho."
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_HOME_CHARA_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_NORMAL>\nAhora tengo que irme. Adiós."
+    },
+    {
+      "VardId": "MES_LOVE_3B_TALK_CHARA_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_LEFT><FACE_NORMAL>\nOh, ¿has venido a verme?\nQué caballeroso por tu parte.\nY no podrías llegar en mejor momento."
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_OUT_CHARA_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_LEFT><FACE_NORMAL>\nHay un asunto sobre el que me gustaría hablarte.\n<PAGE>\nEste no es el lugar más apropiado, así que\n¿por qué no vamos a otro sitio? Ven conmigo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_CONFESSION_CHARA_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\n<WINDOW_PALPITATION_R>Oye, <MYNAME>...\n¿Hay alguien que te... mmm... atraiga?\n<PAGE>\nA mí, sí. Alguien un poco entrometido,\npero bastante amable. Responsable, si bien\nalgo despistado. Esa persona me gusta mucho.\n<PAGE>\n<FACE_LAUGH>¡Jo, jo, jo! \"¿De quién podría tratarse?\",\nquizá te preguntes. Hablo de ti, <MYNAME>.\nY ahora declaro que estoy enamorada de ti."
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_00_CHARA_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOVE>\n<WINDOW_PALPITATION_R>¿Quieres ser mi terroncito de azúcar?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_01_CHARA_RICHGIRL",
+      "Text": "Sí, quiero salir contigo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_02_CHARA_RICHGIRL",
+      "Text": "Lo siento..."
+    },
+    {
+      "VardId": "MES_LOVE_3B_YES_COMMENT_CHARA_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOVE>\n<WINDOW_HEART2_R>¡P-pues claro que quieres!\n¡Nadie con dos dedos de frente\nrechazaría una propuesta de alguien como yo!\n<PAGE>\n<ACTION_RIBBON>Gracias, <MYNAME>.\nMe llena de alegría que tengamos una relación."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_00_CHARA_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOVE>\nBueno, ahora ya somos oficialmente una pareja.\nMmm... Aunque ni siquiera decirlo en voz alta\nhace que deje de parece un sueño...\n<PAGE>\n<FACE_LAUGH>¡Oye! ¿Por qué no elegimos apelativos\npor los que llamarnos? Seré gentil\ny escucharé las sugerencias que tengas.\n<PAGE>\n<FACE_NORMAL>Así pues, ¿cómo te gustaría que te llamase?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_01_CHARA_RICHGIRL",
+      "Text": "Igual que hasta ahora."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_02_CHARA_RICHGIRL",
+      "Text": "De manera diferente."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_00_CHARA_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nEntonces, ¿prefieres <BLUE><MYNAME></BLUE>?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_01_CHARA_RICHGIRL",
+      "Text": "Sí."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_02_CHARA_RICHGIRL",
+      "Text": "<CANCEL_SELECT>\nNo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_COMMENT_CHARA_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nMuy bien. Te llamaré <MYNAME>, pues.\n<PAGE>\nComo ahora somos terroncitos de azúcar,\nespero que me trates incluso mejor\nque hasta ahora.\n<PAGE>\n<FACE_LOVE>Yo, igualmente, también te trataré\ncon más cariño, para que puedas\nenamorarte incluso más de mí."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_END_CHARA_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOVE>\n¡B-bueno! Hay asuntos que requieren\nmi atención, así que debo marcharme.\n<PAGE>\n¡Que pases un día estupendo, <MYNAME>!"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NO_COMMENT_CHARA_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\nOh... N-no, ¡no estoy enfadada!\n¿Por qué iba a estarlo?\nEs peor para ti. Tú te lo pierdes.\n<PAGE>\n<FACE_LAUGH>Al fin y al cabo, acabas de rechazar\n¡a la más espléndida y elegante dama\nde todo el pueblo!\n<PAGE>\n¡No cabe duda de que te arrepentirás!"
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_HOME_CHARA_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\nBueno, tengo asuntos de los que ocuparme,\nasí que debo marcharme. Adiós."
+    },
+    {
+      "VardId": "MES_LOVE_3B_TALK_CHARA_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_LAUGH>\n¡Oh! ¿Has venido a verme? ¡Qué encantador!\n<PAGE>\nDe hecho, ahora mismo\niba a emprender el camino a verte."
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_OUT_CHARA_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\n¿Que por qué? Me complace que lo preguntes.\nTe lo revelaré, mas no aquí. Vayamos a un lugar\nmás apropiado. Acompáñame."
+    },
+    {
+      "VardId": "MES_LOVE_3B_CONFESSION_CHARA_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\n<WINDOW_PALPITATION_R>¿Crees que podrías enamorarte de una mujer\nmayor que tú, <MYNAME>?\n<PAGE>\nSi es el caso... ¿Te gustaría... mmm...\nsalir conmigo?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_00_CHARA_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_LAUGH>\n<WINDOW_PALPITATION_R>Hay una infinidad de cosas que puedo\nofrecerte y enseñarte al ser mayor que tú.\nNunca te arrepentirás.\n<PAGE>\n<FACE_NORMAL>Lo lamento. Me temo que no ha sido\nla mejor manera de expresarlo.\nPermíteme aclararlo.\n<PAGE>\n<FACE_LOVE>Estoy enamorada de ti, <MYNAME>.\nDeseo que estemos juntos."
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_01_CHARA_WRITER",
+      "Text": "Yo también deseo que estemos juntos."
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_02_CHARA_WRITER",
+      "Text": "Lo siento..."
+    },
+    {
+      "VardId": "MES_LOVE_3B_YES_COMMENT_CHARA_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_LOVE>\n<WINDOW_PALPITATION_R><ACTION_RIBBON>Te lo agradezco, <MYNAME>.\nNo te imaginas lo feliz que esto me hace."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_00_CHARA_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_LAUGH>\nMe llena de ilusión explorar junto a ti\neste nuevo vínculo que acaba de nacer.\n<PAGE>\nTengo una idea. ¿Por qué no elegimos\nnuevos apelativos para conmemorar la ocasión?\n<PAGE>\n<FACE_LOVE>Ahora somos pareja. Me seduce la idea\nde llamarte por un nombre nuevo y especial\nreservado solo para nosotros."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_01_CHARA_WRITER",
+      "Text": "Usemos los nombres de siempre."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_02_CHARA_WRITER",
+      "Text": "Cambiémoslos."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_00_CHARA_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\n¿Desearías que te llamase <BLUE><MYNAME></BLUE>?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_01_CHARA_WRITER",
+      "Text": "Sí."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_02_CHARA_WRITER",
+      "Text": "<CANCEL_SELECT>\nNo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_COMMENT_CHARA_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_LAUGH>\nFabuloso, <MYNAME>. ¡Je, je! He de admitir\nque me llena de entusiasmo pronunciarlo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_END_CHARA_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\n¡Aladas aliteraciones! ¡Mira qué tarde es!\nLo lamento mucho; debo regresar a casa.\n<PAGE>\nAsegurémonos de reservar algo de tiempo\nen el futuro para salir juntos.\nArdo en deseos. ¡Hasta luego!"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NO_COMMENT_CHARA_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_SAD>\nOh... Entiendo.\n<PAGE>\n<FACE_LAUGH>Olvídalo, pues. Yo intentaré hacer lo propio.\nAcordemos seguir como estábamos."
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_HOME_CHARA_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\nLo mejor será que me marche.\nAdiós, <MYNAME>."
+    },
+    {
+      "VardId": "MES_LOVE_3B_TALK_CHARA_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_LEFT><FACE_NORMAL>\n¡Epa! ¡Si eres <MYNAME>! N-no, no pasa nada.\nJustamente estaba pensando en ti cuando,\nde repente, has aparecido y...\n<PAGE>\n<FACE_LOSS>¡Aaa! N-nada... ¡No quería decir eso!\nBueno, sí, pero, ¡en realidad, no!"
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_OUT_CHARA_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_LEFT><FACE_LOSS>\nMmm... En cualquier caso...\n¿Tienes un momentín?\n<PAGE>\nHay algo que... mmm... quiero decirte...\n<PAGE>\nP-pero ¡no aquí! No podría decírtelo aquí.\n¿Podemos ir a otro sitio? Ven conmigo.\nDigo... ¿Q-quieres venir conmigo, por favor?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_CONFESSION_CHARA_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_PATI>\n(...)\n<PAGE>\n<FACE_LOSS>Mmm, lo siento. Es la primera vez\nque hago esto, así que no sé muy bien\ncómo empezar...\n<PAGE>\n<FACE_NORMAL>Mmm... Esto... H-hoy hace buen día...\n¡Ay! ¡No! No es eso de lo que quiero hablar.\nMmm...\n<PAGE>\n<WINDOW_PALPITATION_R><FACE_LOVE>¡Verás, <MYNAME>...! Yo, mmm... Y-yo...\n<PAGE>\nC-creo que... ¡estoy enamorada de ti!"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_00_CHARA_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_LOVE>\n<WINDOW_PALPITATION_R>Así que... mmm... ¿quieres que... mmm...\nsalgamos? ¿Juntos? ¿Por favor?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_01_CHARA_WEATHERGIRL",
+      "Text": "Me encantaría salir contigo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_02_CHARA_WEATHERGIRL",
+      "Text": "Lo siento..."
+    },
+    {
+      "VardId": "MES_LOVE_3B_YES_COMMENT_CHARA_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_NORMAL>\n<WINDOW_HEART2_R><ACTION_RIBBON>(...)\n<PAGE>\nU-un momento, ¿qué? ¿Qué acabas de...?\nMmm... ¿De verdad? ¡¿Sí?!\n<PAGE>\n<FACE_LOVE>¡Ay! ¡Ay! ¡Qué felicidad!\n¡Creo que me va a dar algo!"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_00_CHARA_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_LOSS>\nPues... ahora que estamos saliendo...\n¿qué hacemos?\n<PAGE>\nQuizá podríamos, no sé, ponernos apelativos\no algo. Aunque me da un poco de vergüenza...\n¿Qué opinas?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_01_CHARA_WEATHERGIRL",
+      "Text": "Sigamos usando los mismos nombres."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_02_CHARA_WEATHERGIRL",
+      "Text": "Quiero elegir otro nombre."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_00_CHARA_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_NORMAL>\nEntonces... ¿<BLUE><MYNAME></BLUE>?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_01_CHARA_WEATHERGIRL",
+      "Text": "Sí."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_02_CHARA_WEATHERGIRL",
+      "Text": "<CANCEL_SELECT>\nNo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_COMMENT_CHARA_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_LAUGH>\nVale... Te llamaré <MYNAME>...\n<PAGE>\n<FACE_LOVE>¡Hala! Decirlo en voz alta a propósito ahora\nque somos novios es como... como..."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_END_CHARA_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_LOVE>\n¡M-me acabo de acordar!\n¡Me... mmm, me he dejado la tetera puesta!\n¡Tengo que irme a casa corriendo! ¡Lo siento!"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NO_COMMENT_CHARA_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_LAUGH>\nA-ah... Ya, claro que no. Olvida lo que he dicho.\nNo, no te preocupes por mí.\nSigamos siendo amigos, ¿vale?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_HOME_CHARA_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_SAD>\nBueno, mmm... A-acabo de acordarme\nde que tengo cosas que hacer.\nSerá mejor que me vaya. Adiós, <MYNAME>."
+    },
+    {
+      "VardId": "MES_LOVE_3B_TALK_CHARA_RANGER",
+      "Text": "<FACE_MENOU><POS_LEFT><FACE_LAUGH>\n¡Hala! ¿Tienes poderes, <MYNAME>?\n<PAGE>\n¡Ahora mismo estaba pensando que quería verte!\nVerás, hay una cosa superimportante\nque quería decirte..."
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_OUT_CHARA_RANGER",
+      "Text": "<FACE_MENOU><POS_LEFT><FACE_NORMAL>\nVayamos a otro sitio. Si hablamos aquí,\npuede venir alguien e interrumpirnos.\n<PAGE>\nVen conmigo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_CONFESSION_CHARA_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_LOVE>\n<WINDOW_PALPITATION_R>Me gustas un montón, <MYNAME>."
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_00_CHARA_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_NORMAL>\n<WINDOW_PALPITATION_R>Al principio, me gustabas\nmucho mucho como amigo, pero después\nempezaste a gustarme más todavía.\n<PAGE>\n<FACE_LOVE>Cuando estoy contigo, mi corazón está tan lleno\nde felicidad que siento que podría explotar.\nQuiero pasar todo el tiempo posible contigo.\n<PAGE>\nTe has convertido en una persona superespecial\npara mí, <MYNAME>.\n<PAGE>\nMe encantaría que pudiéramos salir juntos.\nQuiero que seas mi novio. <RED>∀</RED>"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_01_CHARA_RANGER",
+      "Text": "Sí, quiero salir contigo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_02_CHARA_RANGER",
+      "Text": "Lo siento..."
+    },
+    {
+      "VardId": "MES_LOVE_3B_YES_COMMENT_CHARA_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_LAUGH>\n<WINDOW_HEART2_R><ACTION_RIBBON>¿Sí? ¡Yuju! ¡Muchas gracias!\n¡Estoy más feliz que una perdiz! <RED>∀</RED>"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_00_CHARA_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_LOVE>\nAh, ¡oye! Ya que hoy es un día superespecial,\n¿por qué no nos ponemos apelativos\nbien monos para conmemorarlo?\n<PAGE>\nYo estaré encantada con cualquier forma\nde la que decidas llamarme.\n<PAGE>\nY a ti, ¿hay alguna forma especial\nde la que te gustaría que te llamara?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_01_CHARA_RANGER",
+      "Text": "¡Sigamos usando los mismos nombres!"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_02_CHARA_RANGER",
+      "Text": "Veamos..."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_00_CHARA_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_NORMAL>\n¿Quieres que te llame <BLUE><MYNAME></BLUE>?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_01_CHARA_RANGER",
+      "Text": "Sí."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_02_CHARA_RANGER",
+      "Text": "<CANCEL_SELECT>\nNo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_COMMENT_CHARA_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_NORMAL>\nEstupendo. De ahora en adelante,\nte llamaré <MYNAME>.\n<PAGE>\nJe, je. No importa qué nombre tengas,\nsigues siendo mi amor y eso me deja demasiado\nembelesada como para pensar en ello."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_END_CHARA_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_NORMAL>\n¡Uy! ¿Ya es tan tarde?\n<PAGE>\n<FACE_LOSS>Quiero quedarme aquí contigo\ny seguir hablando, pero hay\notras cosas que debo hacer.\n<PAGE>\nLo siento mucho pero tengo que marcharme.\n<PAGE>\n<FACE_LAUGH>Ven a verme cuando quieras, de todas maneras,\n¿vale? ¡Yo también iré a verte! ♪"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NO_COMMENT_CHARA_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_SAD>\nVaya... Entonces, ¿no sientes lo mismo que yo?\n<PAGE>\n<FACE_NORMAL>Bueno, si no lo sientes, supongo que no puedo\nhacer nada. No tiene sentido insistir.\nGracias por escucharme de todas maneras."
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_HOME_CHARA_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_SAD>\nTengo cosas que hacer, así que me voy a casa.\nCuídate, <MYNAME>. Adiós."
+    },
+    {
+      "VardId": "MES_LOVE_3B_TALK_CHARA_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_NORMAL>\n¿Qué pasa, <MYNAME>?\n<PAGE>\n<FACE_LOSS>¿Qué? ¿Que si te he llamado?\nMmm... no, no te he llamado.\nPero tengo algo que comentar contigo.\n<PAGE>\nEs extraño. Normalmente me parece\nque vas más a lo tuyo, pero ahora\nte veo sobrecogedoramente atento."
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_OUT_CHARA_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_NORMAL>\nMmm... no, nada. Solo hablaba para mí misma.\n<PAGE>\nDe todas maneras, he dicho que me gustaría\nhablar contigo, ¿no? Este no es el mejor lugar.\n¿Por qué no vienes conmigo, por favor?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_CONFESSION_CHARA_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_SAD>\nTras pensarlo detenidamente, he decidido\nque no se me da bien dar rodeos\nni andarme por las ramas.\n<PAGE>\n<FACE_NORMAL>Por lo tanto, permíteme ir al grano.\n<PAGE>\n<WINDOW_PALPITATION_R><FACE_LOVE>Estoy enamorada de ti, <MYNAME>..."
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_00_CHARA_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LOSS>\n<WINDOW_PALPITATION_R>Cada día pienso más y más en ti.\nTanto que está afectando a mi trabajo.\n<PAGE>\nSé que puedo no ser la novia perfecta para ti,\npero haré todo lo posible para ser,\nal menos, una novia adecuada.\n<PAGE>\n<FACE_LOVE>Así que... mmm...\n¿quieres salir conmigo, por favor?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_01_CHARA_NURSE",
+      "Text": "Sí, quiero salir contigo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_02_CHARA_NURSE",
+      "Text": "Lo siento..."
+    },
+    {
+      "VardId": "MES_LOVE_3B_YES_COMMENT_CHARA_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LOVE>\n<WINDOW_HEART2_R><ACTION_RIBBON>G-gracias... Tengo ganas de explorar\nnuestra nueva relación."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_00_CHARA_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_NORMAL>\nAunque, francamente, no tengo ni idea\nde cómo funciona esto de ser\nla novia de alguien.\n<PAGE>\nMmm... Bueno, supongo que...\n¿Por qué no elegimos nuevos apelativos?\n¿Quieres que te llame de alguna manera?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_01_CHARA_NURSE",
+      "Text": "Igual que hasta ahora."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_02_CHARA_NURSE",
+      "Text": "Por un nombre nuevo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_00_CHARA_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_NORMAL>\n¿Te gustaría que ahora te llamase <BLUE><MYNAME></BLUE>?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_01_CHARA_NURSE",
+      "Text": "Sí."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_02_CHARA_NURSE",
+      "Text": "<CANCEL_SELECT>\nNo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_COMMENT_CHARA_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LAUGH>\nMuy bien. De ahora en adelante,\nte llamaré <MYNAME>.\n<PAGE>\n<FACE_LOVE>Ay. Sabiendo que eres mi novio,\ndecir tu nombre en voz alta es... extraño."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_END_CHARA_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_NORMAL>\nBueno, tengo que ocuparme de unos asuntos,\nasí que debo marcharme.\n<PAGE>\nQuizá resulte un poco torpe al comienzo de todo\nesto, así que, por favor, ten paciencia conmigo.\nTengo ganas de descubrir qué nos espera."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NO_COMMENT_CHARA_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_SAD>\nEn... Entiendo. No, sabía que podías decir eso.\nNo te preocupes por mí. No pasa nada."
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_HOME_CHARA_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_NORMAL>\nBueno, debería marcharme. Adiós."
+    },
+    {
+      "VardId": "MES_LOVE_3B_TALK_CHARA_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\nLlegas justo a tiempo, <MYNAME>.\nHay algo de lo que quiero hablarte."
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_OUT_CHARA_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\nMmm... Este no es el mejor lugar.\nVamos a otro sitio. Acompáñame...\nAh, y no hagas preguntas todavía."
+    },
+    {
+      "VardId": "MES_LOVE_3B_CONFESSION_CHARA_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\n<WINDOW_PALPITATION_R>Últimamente no he podido\nconcentrarme del todo en mi investigación.\n<PAGE>\n<FACE_LOVE>Yo... mmm... me he dado cuenta\nde que me distraigo mucho pensando en ti.\n<PAGE>\n<FACE_LOSS>Cuando me levanto por la mañana, lo primero\nen lo que pienso no es en regar las plantas.\nEs en si vendrás a hablar conmigo.\n<PAGE>\n<FACE_LOVE>Me paso el día entero pensando en ti y...\nbueno, yo... Lo que estoy intentando decir es...\nque mmm... ¡estoy enamorada de ti!"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_00_CHARA_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\n<WINDOW_PALPITATION_R>¿Quieres salir conmigo?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_01_CHARA_RIKORISU",
+      "Text": "Sí, quiero salir contigo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_SELECT_02_CHARA_RIKORISU",
+      "Text": "Lo siento..."
+    },
+    {
+      "VardId": "MES_LOVE_3B_YES_COMMENT_CHARA_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\n<WINDOW_HEART2_R><ACTION_RIBBON>¿S-sí? ¿De verdad? Gracias, <MYNAME>.\nNo tienes ni idea de lo feliz que me hace oírlo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_00_CHARA_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\nOye... ¿Ahora que estamos juntos,\nquieres que, no sé, elijamos otros apelativos?\n¿Es lo que hacen las parejas? Es que no lo sé...\n<PAGE>\nSi quieres hacerlo, a mí me parece bien..."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_01_CHARA_RIKORISU",
+      "Text": "Mantengámoslos como hasta ahora."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_02_CHARA_RIKORISU",
+      "Text": "Quiero cambiar mi apelativo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_00_CHARA_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\nEntonces,\n¿quieres que ahora te llame <BLUE><MYNAME></BLUE>?"
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_01_CHARA_RIKORISU",
+      "Text": "Sí."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_INPUT_OK_02_CHARA_RIKORISU",
+      "Text": "<CANCEL_SELECT>\nNo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_COMMENT_CHARA_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\nMuy bien. Te llamaré <MYNAME>...\n<PAGE>\n<FACE_LAUGH>Yo... esto... Tengo ganas de explorar\nesta nueva relación contigo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NAME_END_CHARA_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\nAunque, por ahora, me temo que tengo\nque volver a casa y seguir con mis estudios.\nHasta luego, <MYNAME>."
+    },
+    {
+      "VardId": "MES_LOVE_3B_NO_COMMENT_CHARA_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\nOh... Vale. Entonces, olvida lo que he dicho\ny yo... intentaré hacer lo mismo."
+    },
+    {
+      "VardId": "MES_LOVE_3B_GO_HOME_CHARA_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\nBueno, me voy. Adiós..."
+    }
+  ]
+}

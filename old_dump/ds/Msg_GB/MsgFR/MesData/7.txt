@@ -1,0 +1,73 @@
+hros\u2328objet et rserve\u2328bitflag\u2328champ\u2328animaux\u2328habitants\u2328bazar\u2328messages\u2328heure\u2328temps et vent\u2328tous les biens
+argent \u1000\u2328MP  \u1001\u2328MPMAX \u1002\u2328sexe  \u1003\u2328fermeP  \u1004
+( X= \u1000 / Y= \u1001 )\u2328\u2328\u206dau changement de sexe passer\u2328de suite au jour suivant\u206c
+objets du sac\u2328objets de la rserve\u2328donnes de la rserve
+NO : \u1000  「\u1001」\u2328rang    :\u1002\u2328fraicheur      : \u1003\u2328nombre      : \u1004\u2328cadeaux : \u1005\u2328rcupration   : \u1006\u2328
+NO : \u1000 「\u1001」\u2328croissance   : \u1002\u2328labourage : \u1003\u2328graine     : \u1004\u2328eau     : \u1005\u2328fertilisant  : \u1006\u2328moissons  : \u1007\u2328rang   : \u1008\u2328
+param_hros\u2328param_famille\u2328donnes event\u2328
+personnage : \u1000\u2328 amiti : \u1001\u2328 jours sans contact : \u1002\u2328 1re rencontre : \u1003\u2328 convers flag : \u1004\u2328 cadeaux : \u1005\u2328 animal : \u1006\u2328
+ amour_niveau : \u1007\u2328 Fte des cadeaux : \u1008\u2328
+mariage : \u1000\u2328
+ date mariage : \u1001 le \u1002\u2328enfant : \u1003\u2328 naissance prvue : \u1004 \u1005 le \u1006\u2328
+ date mariage : \u1001 le \u1002\u2328enfant : \u1003\u2328 date accouchement : \u1005 le \u1006\u2328 enceinte : aprs \u1004 jrs\u2328
+ date mariage : \u1001 le \u1002\u2328 enfant : \u1003\u2328 date naissance : \u1005 le \u1006\u2328 niveau croissance : \u1007\u2328 dure croissance : + \u1008 jrs\u2328 donnes croissance \u1009\u2328
+perso_nuittoiles : \u1000\u2328fleurs distribues : \u1001\u2328cadeaux kath : \u1002\u2328event mucho fume\u2328    niveau : \u1003\u2328    nombre : \u1004\u2328\u2328\u206ddurant event mucho\u206c\u2328\u206dappuyer sur A pour\u206c\u2328\u206daugmenter le nombre.\u206c\u2328\u206dAttention : ne pas diminuer.\u206c
+vache, mouton\u2328poule\u2328chien\u2328chat\u2328cheval
+ID:\u1000 \u1001 / \u1002\u2328prsence  :\u1003 (\u1004,\u1005)\u2328nb de jours:\u1006\u2328victoires:\u1007\u2328affection  :\u1008\u2328training  :\u1009\u2328stress:\u100a\u2328jours maladie:\u100b\u2328temps libert:\u100c\u2328aide:\u100d\u2328repas:\u100e\u2328
+ID:\u1000 non enregistr\u2328\u2328cheval : droite-gauche\u2328pour le dompter.\u2328\u206dapparat le jour suivant\u206c
+veau(N)
+veau(M)
+vache(N)
+vache(M)
+agneau(N)
+agneau(B)
+mouton(N)
+mouton(B)
+poule(N)
+poule(B)
+poussin(N)
+poussin(B)
+chien1
+chien2
+chien3
+chien4
+chien sauvage1
+chien sauvage2
+chien sauvage3
+chien sauvage4
+chat1
+chat2
+chat3
+chat4
+cheval1
+cheval2
+cheval3
+cheval4
+avis  \u1000\u2328taille choppe  \u1001\u2328ventes  \u1002\u2328meilleur vente  \u1003\u2328avis  \u1004(+-100)\u2328total ventes \u1005\u2328\u2328\u206dsi 2 changements, passer\u2328au jour suivant de suite.\u206c
+num catgorie \u1000\u2328num message \u1001\u2328
+num catgorie \u1000\u2328catgorie de ciel\u2328
+haut bas = num catgorie\u2328droite gauche = num message\u2328bouton pour afficher\u2328message
+\u206dmessage affich\u206c
+date\u2328heure
+\u1000 \u1001 le \u1002\u2328\u2328\u206drgle\u2328choisir le jour prcdent et\u2328dormir de suite.\u206c
+heure  \u1000\u2328minutes  \u1001\u2328\u2328\u1002 (ne peut tre modifi)
+lundi
+mardi
+mercredi
+jeudi
+vendredi
+samedi
+dimanche
+temps\u2328vent
+temps demain \u1000\u2328temps aujourd'hui \u1001\u2328temps hier \u1002\u2328\u2328\u206dsi le temps demain est\u206c\u2328\u206dmodifi, toutes les autres\u206c\u2328\u206ddonnes sont aussi changes.\u206c\u2328\u206delles ne seront normales\u206c\u2328\u206dque le jour suivant.\u206c\u2328\u206dfaire attention.\u206c
+vent       \u1000
+beau temps
+nuageux
+pluie
+tempte
+typhon
+neige
+tempte de neige
+pas de debug
+pas de debug
+taille rserve     : \u1000\u2328performance rserve : \u1001\u2328

@@ -1,0 +1,294 @@
+﻿{
+  "Date": "2016-06-10T19:47:35.5299486+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "TestMsgID02",
+      "Text": "<SPEED_SLOW>遅いメッセージ\n<SPEED_NORMAL>普通のメッセージ\n<SPEED_FAST>早いメッセージ\n<SPEED_IMME>ノーウェイト"
+    },
+    {
+      "VardId": "TestMsgID03",
+      "Text": "<BLUE>青いメッセージ</BLUE>\n基本色\n<RED>赤いMsg<GREEN>緑Msg</GREEN>\n赤いMsg</RED>基本色"
+    },
+    {
+      "VardId": "TestMsgID04",
+      "Text": "１ページ目です。\n<PAGE>\n２ページ目です。\nほげほげー\n<PAGE>\nなんと３ページ目。"
+    },
+    {
+      "VardId": "TestMsgID06",
+      "Text": "テストメッセージ 1行目\nテストメッセージ 2行目\nテストメッセージ 3行目"
+    },
+    {
+      "VardId": "TestMsgID07",
+      "Text": "私の牧場は「<MYFARM>」と呼ばれている。\nそして私の子供は「<CHILD_NAME>」という名前だよ"
+    },
+    {
+      "VardId": "TestMsgID08",
+      "Text": "<FACE_ALLEN>\r\n顔絵はアレン、\n発話者もアレンになってるはずのメッセージ"
+    },
+    {
+      "VardId": "TestMsgID09",
+      "Text": "<FACE_ALLEN>\r\n<NAME_GODDES>顔絵はアレン、\n発話者は女神様になってるはずのメッセージ"
+    },
+    {
+      "VardId": "TestMsgID10",
+      "Text": "<FACE_ALLEN><POS_LEFT><FACE_NORMAL>\r\nテスト1ページ目\n<PAGE>\n<FACE_ALLEN><NAME_UNKOWN><POS_LEFT><FACE_SAD>\nテスト2ページ目"
+    },
+    {
+      "VardId": "TestMsgID11",
+      "Text": "<POS_LEFT>\r\n<NAME_UNKOWN>\nテスト1ページ目"
+    },
+    {
+      "VardId": "TestMsgID12",
+      "Text": "<POS_RIGHT>\r\n<NAME_UNKOWN>\nテスト1ページ目\n<PAGE>\n<FACE_ALLEN><POS_RIGHT><FACE_SAD>テスト2ページ目"
+    },
+    {
+      "VardId": "Select00",
+      "Text": "短い選択肢"
+    },
+    {
+      "VardId": "Select01",
+      "Text": "中くらいの選択肢"
+    },
+    {
+      "VardId": "Select02",
+      "Text": "長ーーーーーーーーーーーーーい選択肢"
+    },
+    {
+      "VardId": "TestMsgFaceR",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>\r\nテストメッセージ 顔絵右側"
+    },
+    {
+      "VardId": "TestMsgFaceL",
+      "Text": "<FACE_ALLEN><POS_LEFT><FACE_NORMAL>\r\nテストメッセージ 顔絵左側"
+    },
+    {
+      "VardId": "TestMsgFace00",
+      "Text": "<FACE_ALLEN><POS_LEFT><FACE_ROUGH>\r\n顔絵テスト1ページ目\n<PAGE>\n<FACE_ALLEN><POS_LEFT><FACE_SAD>\n顔絵テスト2ページ目"
+    },
+    {
+      "VardId": "Test_ScriptMsg",
+      "Text": "スクリプトからの置換文字置き換えテスト。\nキャラ名０→<CHARANAME0>\nアイテム名０→<ITEMNAME0>\n文字列０→<MOJI0>"
+    },
+    {
+      "VardId": "TestFishingMsg",
+      "Text": "<ITEMNAME0>を釣り上げた！と言ってみるテスト。"
+    },
+    {
+      "VardId": "TestHeartAction",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_PATI>\r\nハート演出のテスト\n<PAGE>\n<FACE_TINA><POS_RIGHT><FACE_ROUGH><ACTION_RIBBON>リボンをかける\n<PAGE>\n<FACE_TINA><POS_RIGHT><FACE_SAD><ACTION_HEART_BREAK>ハートが割れる"
+    },
+    {
+      "VardId": "TestYearEvent00",
+      "Text": "今日は年間行事\n「<MOJI0>」\nの日です"
+    },
+    {
+      "VardId": "TestYearEvent01",
+      "Text": "今日は年間行事の日では\nありません。"
+    },
+    {
+      "VardId": "DebugRenamePlayer",
+      "Text": "プレイヤー名をリネームします。"
+    },
+    {
+      "VardId": "DebugRenameFarm",
+      "Text": "牧場名をリネームします。"
+    },
+    {
+      "VardId": "DebugRenameNickName",
+      "Text": "ニックネームをリネームします。"
+    },
+    {
+      "VardId": "DebugRenameChild",
+      "Text": "子供名をリネームします。"
+    },
+    {
+      "VardId": "DebugRenameTown",
+      "Text": "町名をリネームします。"
+    },
+    {
+      "VardId": "DebugRenameResult",
+      "Text": "リネーム結果\nプレイヤー名→「<MYNAME>」\n牧場名→「<MYFARM>」\n<PAGE>\nニックネーム→「<NICKNAME>」\n子供名→「<CHILD_NAME>」\n町名→「<MOJI0>」"
+    },
+    {
+      "VardId": "DebugCheckRecipe",
+      "Text": "みんなの見習いレシピ → <MOJI0>\nみんなの初級レシピ　 → <MOJI1>\nみんなの中級レシピ　 → <MOJI2>\n<PAGE>\nみんなの上級レシピ　 → <MOJI3>\nみんなの最上級レシピ → <MOJI4>"
+    },
+    {
+      "VardId": "DebugCheckPlan",
+      "Text": "初級組み立て図 → <MOJI0>\n中級組み立て図 → <MOJI1>\n上級組み立て図 → <MOJI2>\n<PAGE>\n最上級組み立て図 → <MOJI3>"
+    },
+    {
+      "VardId": "DebugGetPrizeToday",
+      "Text": "<SPEED_IMME>現在設定されているレシピと\n組み立て図を入手しました。\n（年間行事優勝時と同じ）"
+    },
+    {
+      "VardId": "DebugSelectCheckRecipe",
+      "Text": "レシピの入手状況を見る"
+    },
+    {
+      "VardId": "DebugSelectCheckPlan",
+      "Text": "組み立て図の入手状況を見る"
+    },
+    {
+      "VardId": "DebugSelectCheckPrize",
+      "Text": "行事の優勝賞品を見る"
+    },
+    {
+      "VardId": "DebugSelectSetNewPrize",
+      "Text": "優勝賞品を抽選する(起床時の処理)"
+    },
+    {
+      "VardId": "DebugSelectGetRecipeRank",
+      "Text": "指定ランクのレシピを入手する"
+    },
+    {
+      "VardId": "DebugSelectGetPlanRank",
+      "Text": "指定ランクの組み立て図を入手する"
+    },
+    {
+      "VardId": "DebugSelectGetPrizeToday",
+      "Text": "優勝賞品を入手する(中級クラス限定)"
+    },
+    {
+      "VardId": "DebugSelectRecipe01",
+      "Text": "みんなの見習いレシピ"
+    },
+    {
+      "VardId": "DebugSelectRecipe02",
+      "Text": "みんなの初級レシピ"
+    },
+    {
+      "VardId": "DebugSelectRecipe03",
+      "Text": "みんなの中級レシピ"
+    },
+    {
+      "VardId": "DebugSelectRecipe04",
+      "Text": "みんなの上級レシピ"
+    },
+    {
+      "VardId": "DebugSelectRecipe05",
+      "Text": "みんなの最上級レシピ"
+    },
+    {
+      "VardId": "DebugSelectPlan01",
+      "Text": "初級組み立て図"
+    },
+    {
+      "VardId": "DebugSelectPlan02",
+      "Text": "中級組み立て図"
+    },
+    {
+      "VardId": "DebugSelectPlan03",
+      "Text": "上級組み立て図"
+    },
+    {
+      "VardId": "DebugSelectPlan04",
+      "Text": "最上級組み立て図"
+    },
+    {
+      "VardId": "DebugSelectNext",
+      "Text": "次へ"
+    },
+    {
+      "VardId": "DebugSelectBack",
+      "Text": "前へ"
+    },
+    {
+      "VardId": "DebugSelectCancel",
+      "Text": "やめる"
+    },
+    {
+      "VardId": "DebugSelectMsg01",
+      "Text": "<SPEED_IMME>年間行事優勝賞品チェック用の\nデバッグスクリプト。"
+    },
+    {
+      "VardId": "DebugSelectMsg02",
+      "Text": "<SPEED_IMME>入手するレシピランク選択中。"
+    },
+    {
+      "VardId": "DebugSelectMsg03",
+      "Text": "<SPEED_IMME>入手する組み立て図ランク選択中。"
+    },
+    {
+      "VardId": "DebugReplaceMsg01",
+      "Text": "まだそろってない"
+    },
+    {
+      "VardId": "DebugReplaceMsg02",
+      "Text": "全入手"
+    },
+    {
+      "VardId": "DebugDispGardeningPoint",
+      "Text": "<SPEED_IMME>▼前回\n点数：<MOJI0> 点\n評価：<MOJI1>\n<PAGE>\n▼現在\n点数：<MOJI2> 点\n評価：<MOJI3>"
+    },
+    {
+      "VardId": "DebugDispCoordinate01",
+      "Text": "<SPEED_IMME>▼コーディネート\n洋風：<MOJI0>点　和風：<MOJI1>点\nオリエント：<MOJI2>点　カントリー：<MOJI3>点"
+    },
+    {
+      "VardId": "DebugDispCoordinate02",
+      "Text": "春の植物：<MOJI0>点　夏の植物：<MOJI1>点\n秋の植物：<MOJI2>点　冬の植物：<MOJI3>点"
+    },
+    {
+      "VardId": "DebugDispCoordinate03",
+      "Text": "水辺：<MOJI0>点　動物：<MOJI1>点\nオシャレ：<MOJI2>点　ユニーク：<MOJI3>点"
+    },
+    {
+      "VardId": "DebugDispGardeningMoney",
+      "Text": "<SPEED_IMME>▼前回\n参加数：<MOJI0> チーム\n見物料：<MOJI1> Ｇ (2人/チームで計算)\n<PAGE>\n▼現在\n参加数：<MOJI2> チーム\n見物料：<MOJI3> Ｇ (2人/チームで計算)"
+    },
+    {
+      "VardId": "DebugDispGardeningSell",
+      "Text": "<SPEED_IMME>現在の売却額は\n<MOJI0> Ｇです。"
+    },
+    {
+      "VardId": "DebugSelectMsg04",
+      "Text": "<SPEED_IMME>ガーデニングツアーチェック用の\nデバッグスクリプト。"
+    },
+    {
+      "VardId": "DebugGardeningRank01",
+      "Text": "ダメダメだね"
+    },
+    {
+      "VardId": "DebugGardeningRank02",
+      "Text": "微妙だね"
+    },
+    {
+      "VardId": "DebugGardeningRank03",
+      "Text": "普通だね"
+    },
+    {
+      "VardId": "DebugGardeningRank04",
+      "Text": "頑張ったね"
+    },
+    {
+      "VardId": "DebugGardeningRank05",
+      "Text": "さすがだね"
+    },
+    {
+      "VardId": "DebugGardeningRank06",
+      "Text": "最高だね"
+    },
+    {
+      "VardId": "DebugGardeningSelect01",
+      "Text": "ガーデニング点数を見る"
+    },
+    {
+      "VardId": "DebugGardeningSelect02",
+      "Text": "ガーデニング見物料を見る"
+    },
+    {
+      "VardId": "DebugGardeningSelect03",
+      "Text": "ガーデニング売却金を見る"
+    },
+    {
+      "VardId": "DebugGardeningSelect04",
+      "Text": "配置を登録する(前回の配置になる)"
+    },
+    {
+      "VardId": "DebugGardeningTour",
+      "Text": " 作物 の点数は、<MOJI0>点 です。\n 動物 の点数は、<MOJI1>点 です。\n配置物の点数は、<MOJI2>点 です。"
+    }
+  ]
+}

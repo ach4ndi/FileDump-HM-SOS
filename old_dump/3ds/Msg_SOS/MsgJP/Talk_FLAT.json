@@ -1,0 +1,530 @@
+﻿{
+  "Date": "2016-06-06T19:37:51.8438229+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "時間帯ＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MORNING_00",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nおはようなの！\n今日も一日がんばるの〜！"
+    },
+    {
+      "VardId": "MES_MORNING_01",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\n昨日はいい夢を見たの！\nだから今日はいいことが起こる予定なの〜♪\n<PAGE>\n<FACE_LAUGH>はやくいいこと起これ〜、なの！"
+    },
+    {
+      "VardId": "MES_MORNING_02",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nボクの趣味は、色んな場所を\n探検することなの！\n<PAGE>\n季節によって、\n同じ場所でもいろいろ変化があるの！\n楽しいの！"
+    },
+    {
+      "VardId": "MES_AFTERNOON_00",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nこんにちはなの〜！\nもうおそうじも終わったし、\n今から遊ぶところなの♪"
+    },
+    {
+      "VardId": "MES_AFTERNOON_01",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nお昼ごはんはもう食べたの？\nおなかが空いたら\nとっても大変なの！"
+    },
+    {
+      "VardId": "MES_AFTERNOON_02",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_LAUGH>\r\nさあ、今日は何して遊ぼうかな、なの〜！"
+    },
+    {
+      "VardId": "MES_EVENING_00",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nこんばんはなの、<MYNAME>！\n夜遅くまでごくろうさまなの〜！"
+    },
+    {
+      "VardId": "MES_EVENING_01",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_LAUGH>\r\nえ、何をしてるのかって？\n<PAGE>\n夜しか出会えない動物さんも\nいるかもしれないの、\nだからこうして夜の大冒険なの！"
+    },
+    {
+      "VardId": "MES_EVENING_02",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_LAUGH>\r\n女神ちゃまの泉のおそうじは、\nボクが担当してるの♪\n<PAGE>\n今日はいつもよりおそうじがんばったの！\nほめてほしいの〜♪"
+    },
+    {
+      "VardId": "天気・季節ＭＳＧ（会話フラグOFFでしゃべる）",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_SPRING",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_LAUGH>\r\nあ〜、気持ちいいぽかぽか陽気なの〜♪\n<PAGE>\nおそうじが終わったら、\nみんなで遊ぶ約束をしてるの、\n楽しみなの！"
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_SPRING",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_LAUGH>\r\nボクは雨がキライじゃないの〜！\nなぜって、雨の日しか出会えない生き物が\nいるかもしれないからなの！"
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_SUMMER",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\n夏はセミがたーくさんいるの〜！\n今年も新しいセミを見つけるの！"
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_SUMMER",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_LAUGH>\r\nあー雨が気持ちいいの〜♪\nあめあめふれふれ、もっとふれー、なの！"
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_AUTUMN",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\n秋はキレイな声で鳴く虫が\nたくさんいるの！\n<PAGE>\n今日はいい天気だから、\n虫たちも喜んでるの〜♪"
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_AUTUMN",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\n秋は長雨が多いの…。\n夏とちがって、秋の雨は\nちょっとだけ肌寒いの。"
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_WINTER",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_SAD>\r\nボクは冬がちょっと苦手なの…。\n泉のお掃除してると水が冷たいの〜。\n<PAGE>\n<FACE_ANGRY>でも負けないの、ボクの大事な使命なの！"
+    },
+    {
+      "VardId": "MES_WEATHER_SNOW",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nこんな雪の日までお仕事なんて、\n<MYNAME>はえらいの〜！\n<PAGE>\nボクがほめてあげるの！\nいい子いい子〜、なの♪"
+    },
+    {
+      "VardId": "MES_WEATHER_TYPHOON",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_SAD>\r\nあ！　<MYNAME>！\nこんな日に外に出たら危ないの〜！"
+    },
+    {
+      "VardId": "MES_WEATHER_HEAVYSNOW",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_ANGRY>\r\nあ！　<MYNAME>！\n<PAGE>\n今日は大雪なの！\n家にいなくちゃ危ないの！"
+    },
+    {
+      "VardId": "現在地について",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_GODDESS_BEFORE_APPEARANCE_00",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\n女神ちゃまは今いないの。\n外におでかけしてるの。"
+    },
+    {
+      "VardId": "MES_GODDESS_BEFORE_APPEARANCE_01",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nボク達みんな、女神ちゃまのお目付け役を\n神さまからおおせつかってるの。\n<PAGE>\n神さまは言い方はキツイけど、\n女神ちゃまのことをすごく心配してるの。\n<PAGE>\n<FACE_SAD>…ある意味すごくカホゴなの。"
+    },
+    {
+      "VardId": "MES_GODDESS_ABSENCE_00",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_SAD>\r\n女神ちゃまは\nどこに行っちゃったのかな〜、なの……。\nさみしいの。"
+    },
+    {
+      "VardId": "MES_GODDESS_ABSENCE_01",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nナイショだけど、女神ちゃまはちょっとだけ\nドジっ子なの……。\n<PAGE>\nなーんにもないところでころんだり、\n川に落ちちゃったり……。\n<PAGE>\n<FACE_LAUGH>でも、立派な神さまになるために\n一生懸命がんばってるの！\nぼくはおうえんするの！"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_SPRING_00",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\n春はすべての生き物が、\n活発に活動し始める季節なの。\n<PAGE>\n<FACE_LAUGH>つまり、色んな生き物に\n出会えるチャンスなの！"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_SPRING_01",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_LAUGH>\r\nさっき、そこにハチの巣が\n落ちてたの〜！\n<PAGE>\nハチさんたちはきっと、\n新しい巣を作るために旅立ったの！\nなんだか、ロマンなの♪"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_SPRING_02",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\n木に止まってる虫さんを\nつかまえられることは知ってるの？\n<PAGE>\n虫さんにも好みがあるの、\n木によってつかまえやすい虫さんが違うから\n覚えておくといいの！"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_SUMMER_00",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nこのへんは木かげが多いから、\n太陽がまぶしくてもへっちゃらなの！"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_SUMMER_01",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nボクたちと女神ちゃまのご飯は、\nペスが作ってくれてるの〜。\n<PAGE>\n最近は、このあたりに生えてる\nきのこを使ったごはんが多いの。\n<PAGE>\n<FACE_LAUGH>ボクはきのこを使った料理が大好きだから、\nとってもうれしいの♪"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_SUMMER_02",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nオンブバッタさんって、\n変わった名前なの……。\nボクたちをおんぶしてくれるの？"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_AUTUMN_00",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_LAUGH>\r\nあぁ、夏が終わったのはさみしいけど、\n涼しくなってうれしいの♪\n<PAGE>\n<FACE_NORMAL>動物さんたちも、\n少しは過ごしやすくなったって\n言ってるの。"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_AUTUMN_01",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_LAUGH>\r\nこの季節はブルーベリーがそこらじゅうに\n落ちてるから、おやつに困らないの♪"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_AUTUMN_02",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\n秋はトンボさんがいっぱいいるの！\nトンボさんがもうちょっと大きかったら\nボクを乗せてほしいの〜。"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_WINTER_00",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_ANGRY>\r\nふぅ…ふぅ…。\n雪が深くて、前に進むのが大変なの〜。"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_WINTER_01",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_LAUGH>\r\nわあ、雪玉がたくさんあるの！\n投げて遊ぶの〜♪"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_WINTER_02",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nこんなに寒いと、虫さんは\n生きていくのが大変なの！\nだからお休みしてるの！"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_SPRING_00",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nこのあたりは、虫さんに出会いやすい\n気がするの！\nまだ出会ったことない虫さんを探すの〜♪"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_SPRING_01",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_ANGRY>\r\nこのあたりにはどくきのこが多いから、\n気をつけるの！\n<PAGE>\n<FACE_SAD>こないだ、モーラがうっかり食べて\n大変なことになったの〜…。"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_SPRING_02",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_LAUGH>\r\nモンシロチョウさんは羽がとっても\nキレイなの〜♪\nボクもあの羽がほしいの！"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_SUMMER_00",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\n夏といえば川遊びなの！\nさん橋から、川に入ることができるの！"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_SUMMER_01",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_LAUGH>\r\nあ〜、川遊びがしたいの〜！\n気持ちよさそうなの！\n<PAGE>\n<FACE_ANGRY>でもボク、ずっと前、\nお魚さんをとるために置かれていた\n仕かけにひっかかったことがあるの…。\n<PAGE>\nあのときはびっくりしたの！"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_SUMMER_02",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\n虫さんとは心を通い合わせるのが\nむずかしいの……。\nほとんど何しゃべってるかわからないの。"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_AUTUMN_00",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nこのあたりも木々が色づいて、\nとってもキレイなの〜♪\n<PAGE>\nでも、泉の近くはもっとキレイなの！"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_AUTUMN_01",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_ANGRY>\r\nこないだ、このあたりを歩いてたら\n突然転んじゃったの！\n<PAGE>\n足元をよく見たら、黒い枝が落ちてたの。\n<PAGE>\n枝が黒いせいで気づかなかったの！\nプンプンなの！"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_AUTUMN_02",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_LAUGH>\r\nクストに聞いたの。\nこのあたりでオオクワガタさんが\n見つかったらしいの！\n<PAGE>\nいいなぁ、ボクも会ってみたいの〜！"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_WINTER_00",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_LAUGH>\r\n川が凍ってるから、上をすべって\n遊べそうなの〜♪"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_WINTER_01",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\n雪玉には、たまに\n何かが入ってることがあるの！\n<PAGE>\nとりあえず雪玉を見つけたら、\n投げてわってみるといいの！"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_WINTER_02",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\n冬はほとんどの虫さんがお休みしてるけど、\n中にはお休みせずに\n冬を越す虫さんもいるの！"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_SPRING_00",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nこのあたりの畑は、スパイスや果樹を\n育てるのに向いているの！"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_SPRING_01",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\n上のほうは茶畑なの！\n<PAGE>\n茶葉は収穫する時期によって\n種類が変わるの！"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_SPRING_02",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>、\nアオヤンマさんは見たことあるの？\n<PAGE>\nアオヤンマさんは体が大きいから、\nいつかボクを背中に乗せて\nくれないかなー、なの！"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_SUMMER_00",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_LAUGH>\r\nこのあたりは山の頂上に近いから、\n太陽がすっごくよくあたるの。\n<PAGE>\nきっと、ここで育てられる作物は\nうれしいはずなの〜♪"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_SUMMER_01",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nここの畑で育った果樹は、\n実がたくさん付きやすいの！"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_SUMMER_02",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\n夏は虫さんたちがすごーく活発に\n動きまわる季節なの！\n夏しか見かけない虫さんも多いの。"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_AUTUMN_00",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\n右側の畑は、\n果樹を育てるのに向いているの！\n<PAGE>\n今の時期だと\nぶどうとかりんごが旬なの♪"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_AUTUMN_01",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_LAUGH>\r\n<MYNAME>、唐辛子って\n聞いたことあるの？\n<PAGE>\nすごーく辛くて、\n口の中が痛くなるスパイスらしいの！\n<PAGE>\nどんなものか、\nすごくキョーミがあるの♪"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_AUTUMN_02",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_SAD>\r\n秋はちょっぴりさみしい季節なの。\n夏にたくさんいた虫さんも、\nなんだか少なくなったの〜……。"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_WINTER_00",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\n冬に育ちやすい果樹は少ないの。\n<PAGE>\n早くあったかい季節に\nならないかなー、なの！"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_WINTER_01",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nボク、ここに来るまで、\nこんなにたくさんの食べ物を\n見たことなかったの！\n<PAGE>\n人間は色んな味を知ってて\nとってもすごいの！"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_WINTER_02",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_SAD>\r\n雪が降ってるとき、\n飛んでる虫さんは雪に当たらないの？\n当たったらかわいそうなの。"
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_SPRING_00",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nハチミツを作るとき、\n香水を使うと品質が上がることは\n知ってるの？\n<PAGE>\n実は、ミツバチさんの種類によって\n好きな香水もちがうの！\n<PAGE>\nうまくいけば、すごく効果が高くなるの！\nいろいろためしてみるといいの！"
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_SPRING_01",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\n香水は、一日一回もふりかければ\nじゅうぶんなの！"
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_SPRING_02",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nここは花が多いの。\nミツバチさんも、花の香りにひきよせられて\nやってきてるの！"
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_SUMMER_00",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>。\nこのエリアに、きのこを育てる木が\nあることは知ってるの？\n<PAGE>\n木にきのこの種をふりかけておけば、\n勝手に生えてくるの！"
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_SUMMER_01",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nそういえば、ミツバチさんに\n好きな香水を聞いてみたの！\n<PAGE>\nミツバチさんは、\n「バラの誘い」が特に好きみたいなの！"
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_SUMMER_02",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_LAUGH>\r\n虫さんのなかには\n数が少なくてレアな虫さんもいるの！\n会えたらラッキーなの！"
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_AUTUMN_00",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nこのあたりは背の高い野菜を\n育てやすいの！\n今の季節ならなすびなの♪"
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_AUTUMN_01",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nそういえば、ミツバチさんに、\n他のミツバチさんたちの好みを\n聞いてみたの。\n<PAGE>\nそれによると、サバミツバチさんは、\n「夏の思い出」が大好物みたいなの！"
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_AUTUMN_02",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nクワガタさんって、夏によく見かけるけど\n実は秋にもまだ活動中なの！\nきっと、冬を越すじゅんびの最中なの！"
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_WINTER_00",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\n冬はハチさんもお休みしてるの！\n<PAGE>\nだから、ハチミツは取れないの。\n気をつけるの〜。"
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_WINTER_01",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nヒマラヤオオミツバチさんっていう\nハチさんは、\n「森の中で」が大好物らしいの。\n<PAGE>\n森の動物さんたちに教えてもらったの♪\n<MYNAME>にも教えてあげるの！"
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_WINTER_02",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_LAUGH>\r\n今はハチミツが取れないけど、\n春になって花がたくさん咲いたら、\nまたハチさんがミツを集めてくれるの〜♪"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_SPRING_00",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>、\nコンサイって何なの？\n<PAGE>\n人間界の名前はむずかしいの〜……。"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_SPRING_01",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_LAUGH>\r\nう〜ん……いい香りなの〜……♪\nいやされるの〜。\n<PAGE>\nこれってハーブの香りなの？"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_SPRING_02",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>、\n虫取りのやり方は知ってるの？\n<PAGE>\nアイテムを持ったままだと\n虫さんをつかまえられないの！\nしまってからやり直しなの！"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_SUMMER_00",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nボク、トルクに\nコンサイって何か聞いたの！\n<PAGE>\nそしたら、たまねぎのことだって\n教えてもらったの！\n<PAGE>\n……たまねぎの別の名前が\nコンサイってことなの？"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_SUMMER_01",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>！\nすいかって聞いたことあるの？\n<PAGE>\n<FACE_SAD>真っ赤な作物で、\n中にはおそろしい黒いツブが\nたくさん入ってるらしいの……！\n<PAGE>\nいや〜！\nこわいの〜！！\n<PAGE>\n<FACE_LAUGH>……どう？\nびっくりしたの？\n夏だから、ホラーっぽく話してみたの♪"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_SUMMER_02",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_SAD>\r\nセミのぬけがらをペスに見せたら、\nすっごく怒られたの！\n<PAGE>\nペス、虫がキライなの、忘れてたの。\n悪いことしたの。"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_AUTUMN_00",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\n秋といえば、\nさつまいもなの！\n<PAGE>\n<FACE_SAD>……秋になると、ペスが\nさつまいも料理ばっかり出すから、\nもうさつまいもの思い出しかないの。"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_AUTUMN_01",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nこのあたりはハーブが\nたくさん落ちてるの〜。\n<PAGE>\n<FACE_LAUGH>そうだ、ラベンダーを女神ちゃまに\n持って帰ってあげることにするの！"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_AUTUMN_02",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nスズムシさんの声に耳をかたむけると、\nすごく気持ちいいの。\nでもボクすぐに眠くなっちゃうの……。"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_WINTER_00",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nボク、トルクに聞いたの。\n<PAGE>\n世の中には、\nボクがまだ知らない作物がたくさん\nあるらしいの。\n<PAGE>\n<FACE_LAUGH>世界中と貿易をして\n新しい作物を手に入れたら、\nボクにもぜひ見せてほしいの！"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_WINTER_01",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nこのエリアは一番広い畑なの！\nはしからはしまで走るだけでも\n大変なの！\n<PAGE>\n今は雪がつもってるから、\nよけいにしんどいの〜……。"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_WINTER_02",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\n虫さんも動物さんも、全然いないの。\nちょっとさみしいの……。"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_SPRING_00",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>、釣りはトクイなの？\n<PAGE>\nこのへんは魚がたくさんいるの。\nまだボクが会ったことない魚も\nいるかもしれないの♪\n<PAGE>\nめずらしい魚を見つけたら、\nボクにも教えてほしいの！"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_SPRING_01",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_LAUGH>\r\nボク、知ってるの！\n川や池には、それぞれヌシが住んでいるの。\n<PAGE>\nとっても大きくってすごいの！\n釣るのはきっと、とってもむずかしいの。"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_SPRING_02",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nこのあたりは川と水田があるから、\n虫さんも多いの。\n絶好の虫取りポイントなの！"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_SUMMER_00",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\n水田ではわさびとか、\nれんこんが育てられるの。"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_SUMMER_01",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\n水田は水やりがいらないの〜。\n楽ちんなの♪"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_SUMMER_02",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nこのあたりではホタルさんが\nよく飛んでるの！\nきっと、川があるからなの！"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_AUTUMN_00",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nここの水田は、\nそこの川から田んぼに\n水を引いているの！"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_AUTUMN_01",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nここの川で、ぴかぴか光るコインを\n見つけたの〜！\n<PAGE>\nうれしいの〜♪\nボクのコレクションにくわえたの！"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_AUTUMN_02",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nそういえば、世界にはすっごくめずらしい\n虫さんがまだまだいるって聞いたの！\nボクもいつか見てみたいの！"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_WINTER_00",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_SAD>\r\nうぅ、寒いの……。\n魚さんは冷たい水の中にいるのに、\nどうして平気なの？"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_WINTER_01",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nまわりは雪なのに、\nどうして水田は凍らないの？\nフシギなの！"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_WINTER_02",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>、少し休むといいの！\nほら、虫さんだって、\nみーんなお休みしてるの！"
+    },
+    {
+      "VardId": "MES_AREA_OTHER_00",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nえ？　ボクの好きなものなの？\n<PAGE>\n<FACE_LAUGH><POS_RIGHT><FACE_FLAT>ボク、見たことがないものには\nなーんでも興味があるの！\nめずらしいものをいっつも探してるの〜！"
+    },
+    {
+      "VardId": "MES_AREA_OTHER_01",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nボクたちは性格も\nみんなバラバラだけど……\n<PAGE>\n共通してるのは、\nみんな女神ちゃまのことが\n大好きってことなの♪"
+    },
+    {
+      "VardId": "プレイヤーが渡した、見せたＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_PRESENT_BEST",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_LAUGH>\r\nわぁ、<BLUE><ITEMNAME0></BLUE>なの！\nおいしそうなの〜！\n<PAGE>\nこれ、ボクにくれるの！？\nうれしいの〜！\n<MYNAME>、ありがとうなの！"
+    },
+    {
+      "VardId": "MES_PRESENT_VERY",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_LAUGH>\r\nわぁ、<BLUE><ITEMNAME0></BLUE>！\nこれはすごく好きなものなの！\n<MYNAME>は良い人間さんなの♪"
+    },
+    {
+      "VardId": "MES_PRESENT_LIKE",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_LAUGH>\r\nわぁ、<BLUE><ITEMNAME0></BLUE>！\nボクの好きなものなの♪\nありがとうなの、<MYNAME>！"
+    },
+    {
+      "VardId": "MES_PRESENT_NORMAL",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nこれをボクにくれるの？\nありがとうなの〜♪"
+    },
+    {
+      "VardId": "MES_PRESENT_DISLIKE",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nあ……<BLUE><ITEMNAME0></BLUE>。\nこれをボクにくれるの？\n<PAGE>\n<FACE_SAD>ちょっと苦手なものなの……。\nでも、ありがとうなの。"
+    },
+    {
+      "VardId": "MES_PRESENT_HATE",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_SAD>\r\nうぅ、<BLUE><ITEMNAME0></BLUE>は、\nボク、に、苦手なの……。\n<PAGE>\nでもでも、<MYNAME>が\nくれるなら、もらっておくの……。"
+    },
+    {
+      "VardId": "MES_PRESENT_WORST",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_ANGRY>\r\nこ、これは<BLUE><ITEMNAME0></BLUE>！\n巨大すぎて怖いの〜！\nそんなのいらないの〜！\n<PAGE>\nうう……\nトルクにあげることにするの……。"
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_VERY",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_LAUGH>\r\nわぁ、黄金にかがやいてるの！\n<PAGE>\nこんなもの、もらっていいの！？\nありがとうなの、<MYNAME>！"
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_LIKE",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_LAUGH>\r\nわぁ、黄金にかがやいてるの！\n<PAGE>\nこれはすごく好きなものなの！\n<MYNAME>は良い人間さんなの♪"
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_NORMAL",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_LAUGH>\r\nわぁ、黄金にかがやいてるの！\nこれをボクにくれるの？\n<PAGE>\nありがとうなの〜♪"
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_DISLIKE",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nわぁ、黄金にかがやいてるの！\n<PAGE>\nでも、ちょっと苦手なものなの……。\n一応もらっておくの、ありがとうなの。"
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_HATE",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_SAD>\r\n黄金色にかがやいているのは\nすごいと思うの……。\n<PAGE>\nでも……うぅ、これは、\nボク、に、苦手なの……。\n<PAGE>\nでもでも、<MYNAME>が\nくれるなら、もらっておくの……。"
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_WORST",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_SAD>\r\n黄金色にかがやいているのは\nすごいと思うの……。\n<PAGE>\nでも……\n<BLUE><ITEMNAME0></BLUE>は、\nボク、に、苦手なの……。\n<PAGE>\nでもでも、<MYNAME>が\nくれるなら、もらっておくの……。"
+    },
+    {
+      "VardId": "MES_PRESENT_SECONDTIME",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nえっ、ボクにくれるの？\n<PAGE>\nでも、さっきももらったの、\nあんまり何回ももらったら悪いの！"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_RABBIT",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nあ、ウサギさん！\nこんにちはなの〜。\n<PAGE>\nこないだはかけっこで負けちゃったけど、\nこんどは負けないの！\nまた遊ぼうなの〜♪"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_FOX",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nあ、こんにちはなの〜！\nいつも森の中で\nお世話になってますなの〜！"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_OKOJO",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nオコジョさん、こんにちはなの！\nいつも背中にのせてもらって、\nありがとうなの！\n<PAGE>\nみんな、オコジョさんには\nすっごくカンシャしてるの！"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_OTHER",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nあ、こんにちはなの〜！\n森の動物さんたちは、\nみんなボクたちのお友達なの！"
+    },
+    {
+      "VardId": "MES_FLOWER_FESTIVAL",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_LAUGH>\r\nボクにお花をくれるの？\nああ、そういえば今日は花祭りなの！\nありがとうなの〜♪"
+    },
+    {
+      "VardId": "MES_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nこの青い羽根を誰かにあげるの？\n<PAGE>\n<MYNAME>から青い羽根を\nもらえる人は幸せなの！\nお幸せに〜、なの！"
+    },
+    {
+      "VardId": "MES_RING",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nこの指輪を誰かにあげるの？\n<PAGE>\nがんばるの、<MYNAME>！\nボク、おうえんしてるの！"
+    },
+    {
+      "VardId": "MES_PRESENT_LAPPING_LIKE ",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_LAUGH>\r\nわあ、オシャレなラッピングなの！\n<PAGE>\nボク、この色大好きなの！\nうれしいの〜♪"
+    },
+    {
+      "VardId": "MES_PRESENT_LAPPING",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nわあ、オシャレなラッピングなの！\nありがとうなの♪"
+    },
+    {
+      "VardId": "プレイヤーに渡すＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_00",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_LAUGH>\r\nハッピーバースデー、\n<MYNAME>！！\n<PAGE>\nプレゼントを持ってきたの！\n喜んでくれるとうれしいの♪"
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_01",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nハッピーバースデー、\n<MYNAME>！！\n<PAGE>\nおめでたい一日なの〜♪"
+    },
+    {
+      "VardId": "会話間隔が空いていたＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LONG_INTERVAL",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nあ、<MYNAME>！\n<PAGE>\nなんだか長い間\n会ってなかった気がするの。\n<PAGE>\n元気そうで何よりなの！"
+    },
+    {
+      "VardId": "スケジュール行動中ＭＳＧ　",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SLEEPY_00",
+      "Text": "<FACE_FLAT><POS_RIGHT><FACE_NORMAL>\r\nもう眠たいの……\n早くおうちに帰って寝なくちゃなの。"
+    }
+  ]
+}

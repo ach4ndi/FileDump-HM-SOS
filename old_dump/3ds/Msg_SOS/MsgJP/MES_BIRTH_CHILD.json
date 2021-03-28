@@ -1,0 +1,966 @@
+﻿{
+  "Date": "2016-06-06T19:37:50.8974394+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_LEFT><FACE_LOSS>\r\n<MYNAME>、顔色悪くないか？\n<PAGE>\n<WINDOW_QUESTION_L><FACE_ANGRY>…え、生まれそう！？\nだ、大丈夫か！？\nいそいで診療所に行くぞ！"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_POORFARMER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nがんばって！\nあともう少しよぉ〜！\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_NORMAL>赤ちゃんもがんばっていますよ。\nあともうひと息です。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_POORFARMER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_ANGRY>\r\nすみません、こちらへ来るのは\nもう少し待ってください。 \nまだ、終わっていませんから。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_POORFARMER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\r\n無事、２人とも生まれましたよ。\nよくがんばりましたね。\nお疲れさまでした。\n<PAGE>\n<FACE_MARIAN><POS_LEFT><FACE_LAUGH>ふたごの、男の子と女の子ね！\nどちらもとっても元気で健康よ。\n<PAGE>\nさぁ、アンジェラ。\nフリッツを呼んできてちょうだい。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_POORFARMER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\r\n聞こえていたとおりです。 \nとても元気なふたごの\n男の子と女の子が生まれましたよ。\n<PAGE>\nさぁ、こちらへいらしてください。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_POORFARMER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\r\nおめでとう。初めての出産で\nふたごなんて大変だったと思うけど、\nよくがんばったわ、<MYNAME>！\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_LAUGH>お疲れさまでした。\nとてもりっぱでしたよ。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\r\nふたごだったなんて、びっくりだ…！\n出産お疲れ、<MYNAME>。\n生んでくれてありがとな！！\n<PAGE>\nこれから２人でこいつらのこと\n大切に育てていこうな！"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOVE>\r\n<WINDOW_HEART1_R>ヘヘッ、ちっちゃいなぁ。\nどっちもすげーかわいい！\nさすがオレ様たちの子供だな♪"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_POORFARMER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nところで、この子たちの名前は\nどうするの？\n<PAGE>\n<FACE_LAUGH>赤ちゃんの名前は\n親から子供への最初の贈り物よ。\n素敵な名前をつけてあげなくちゃね。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\r\nう〜ん、そうだなぁ…。\nよし、まずは男の子の名前から\n決めるか！\n<PAGE>\n<FACE_LAUGH>カッコイイ名前つけてやらないとな♪\n<MYNAME>は、どんな名前が\nいいと思う？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\r\n男の子の名前は\n<CHILD_NAME_M>、でいいか？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_POORFARMER",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_POORFARMER",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME_M>、か〜。\nうん、いい名前だな！\n<PAGE>\n<FACE_NORMAL>それじゃ、女の子の方はどうする？\nこっちはかわいい名前にしてやらないとな。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\r\n女の子の名前は\n<CHILD_NAME_W>、でいいか？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_POORFARMER",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_POORFARMER",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME_W>…\nうん、ピッタリだな！\nさすが、<MYNAME>♪\n<PAGE>\n<WINDOW_HEART2_R><FACE_LOVE>これからは、<CHILD_NAME_M>と<CHILD_NAME_W>…\nそれからオレと<MYNAME>の\n家族４人で、楽しく暮らしていこうな！"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_POORFARMER",
+      "Text": "これから、フリッツと力をあわせて\n<CHILD_NAME_M>と<CHILD_NAME_W>のことを\n大切に育てていこう。よーし、がんばるぞ！"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\r\nちゃんと名前を付けなきゃ…。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_LEFT><FACE_SAD>\r\n<MYNAME>、何だか\n顔色が悪くないか？\n<PAGE>\n<WINDOW_QUESTION_L><FACE_LOSS>…えっ、生まれそうだって！？\n<PAGE>\n<WINDOW_DEFAULT><FACE_NORMAL>わかった。不安もあるだろうが\n大丈夫だ。オレがついてる。\nすぐにでも診療所に行こう。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_PERFUMER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nがんばって！\nあともう少しよぉ〜！\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_NORMAL>赤ちゃんもがんばっていますよ。\nあともうひと息です。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_PERFUMER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_ANGRY>\r\nすみません、こちらへ来るのは\nもう少し待ってください。 \nまだ、終わっていませんから。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_PERFUMER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\r\n無事、２人とも生まれましたよ。\nよくがんばりましたね。\nお疲れさまでした。\n<PAGE>\n<FACE_MARIAN><POS_LEFT><FACE_LAUGH>ふたごの、男の子と女の子ね！\nどちらもとっても元気で健康よ。\n<PAGE>\nさぁ、アンジェラ。\nクラウスを呼んできてちょうだい。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_PERFUMER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\r\n聞こえていたとおりです。 \nとても元気なふたごの\n男の子と女の子が生まれましたよ。\n<PAGE>\nさぁ、こちらへいらしてください。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_PERFUMER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\r\nおめでとう。初めての出産で\nふたごなんて大変だったと思うけど\nよくがんばったわ、<MYNAME>！\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_LAUGH>お疲れさまでした。\nとてもりっぱでしたよ。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_LAUGH>\r\nふたごだったなんて、おどろいたな。\n大変だっただろう。\n本当にがんばったな、<MYNAME>。\n<PAGE>\n生んでくれてありがとう。\nこれから２人で力を合わせて\n子供たちを大切に育てていこうな。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_LAUGH>\r\n…かわいいな。\n女の子は<MYNAME>にソックリだ。\nきっと美人に育つぞ。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_PERFUMER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nところで、この子たちの名前は\nどうするの？\n<PAGE>\n<FACE_LAUGH>赤ちゃんの名前は\n親から子供への最初の贈り物よ。\n素敵な名前をつけてあげなくちゃね。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\r\nそうだな。\n一生のものだから\nしっかり考えてつけてやらないと。\n<PAGE>\nまずは、男の子の名前から決めるか。\n<MYNAME>は、どんな名前が\nいいと思う？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\r\n男の子の名前は\n<CHILD_NAME_M>、でいいか？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_PERFUMER",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_PERFUMER",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME_M>、か。\nいい名前だな。\n女の子の方はどうする？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\r\n女の子の名前は\n<CHILD_NAME_W>、でいいか？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_PERFUMER",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_PERFUMER",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME_W>、か。\nうん、いいんじゃないか。賛成だ。\n<PAGE>\n<WINDOW_PALPITATION_R><FACE_LAUGH>これからは、<CHILD_NAME_M>と<CHILD_NAME_W>…\nそれからオレと<MYNAME>の\n家族４人で幸せな家庭を築いていこうな。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_PERFUMER",
+      "Text": "これから、クラウスと力をあわせて\n<CHILD_NAME_M>と<CHILD_NAME_W>のことを\n大切に育てていこう。よーし、がんばるぞ！"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\r\nちゃんと名前を付けてやれよ。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_CHEF",
+      "Text": "<FACE_REGER><POS_LEFT><FACE_NORMAL>\r\n<MYNAME>、顔色が悪いぞ。\n大丈夫か？\n<PAGE>\n<WINDOW_QUESTION_L><FACE_ANGRY>…え、生まれそう！？\n<PAGE>\n<WINDOW_DEFAULT><FACE_LOSS>だ、大丈夫か！？\nいそいで診療所に行こう…！"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_CHEF",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nがんばって！\nあともう少しよぉ〜！\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_NORMAL>赤ちゃんもがんばっていますよ。\nあともうひと息です。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_CHEF",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_ANGRY>\r\nすみません、こちらへ来るのは\nもう少し待ってください。 \nまだ、終わっていませんから。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_CHEF",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\r\n無事、２人とも生まれましたよ。\nよくがんばりましたね。\nお疲れさまでした。\n<PAGE>\n<FACE_MARIAN><POS_LEFT><FACE_LAUGH>ふたごの、男の子と女の子ね！\nどちらもとっても元気で健康よ。\n<PAGE>\nさぁ、アンジェラ。\nレーガを呼んできてちょうだい。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_CHEF",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\r\n聞こえていたとおりです。 \nとても元気なふたごの\n男の子と女の子が生まれましたよ。\n<PAGE>\nさぁ、こちらへいらしてください。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_CHEF",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\r\nおめでとう。初めての出産で\nふたごなんて大変だったと思うけど\nよくがんばったわ、<MYNAME>！\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_LAUGH>お疲れさまでした。\nとてもりっぱでしたよ。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_LAUGH>\r\nふたごだったなんて、おどろいたな。\n大変だったと思うけど、オレたちの\n大切な子供を生んでくれてありがとな。\n<PAGE>\nこれから２人で力を合わせて\nふたごたちを大切に育てていこう。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_LAUGH>\r\nそれにしても、本当にかわいいな。\n赤ちゃんってこんなにかわいいのか。\nこれは、親バカになりそうだ。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CHEF",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nところで、この子たちの名前は\nどうするの？\n<PAGE>\n<FACE_LAUGH>赤ちゃんの名前は\n親から子供への最初の贈り物よ。\n素敵な名前をつけてあげなくちゃね。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_NORMAL>\r\nよし、まずは男の子の方から決めるか。\n<MYNAME>は、\nどんな名前がいいと思うんだ？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_NORMAL>\r\n男の子の名前は\n<CHILD_NAME_M>、でいいか？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_CHEF",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_CHEF",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME_M>、か。\nうん、すごくいい名前だな。\n女の子の方はどうする？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_NORMAL>\r\n女の子の名前は\n<CHILD_NAME_W>、でいいか？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_CHEF",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_CHEF",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME_W>、か。\nこの子の雰囲気に合ってていいな。\nよし、それで決まりにしよう。\n<PAGE>\n<WINDOW_HEART2_R><FACE_LAUGH>これからは、<CHILD_NAME_M>と<CHILD_NAME_W>…\nそれからオレと<MYNAME>の\n家族４人で幸せな家庭を築いていこうな。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_CHEF",
+      "Text": "これから、レーガと力をあわせて\n<CHILD_NAME_M>と<CHILD_NAME_W>のことを\n大切に育てていこう。よーし、がんばるぞ！"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_NORMAL>\r\nちゃんと名前を付けないとダメだよ。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_LEFT><FACE_NORMAL>\r\n<MYNAME>、ずいぶん\n顔色が悪いようですが…\n大丈夫ですか？\n<PAGE>\n<WINDOW_QUESTION_L><FACE_SAD>え……生まれそう！？\n<PAGE>\n<WINDOW_DEFAULT><FACE_NORMAL>わ、わかりました。\n大丈夫です。落ち着いて。\nすぐに診療所に行きましょう！"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_ANTIQUE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nがんばって！\nあともう少しよぉ〜！\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_NORMAL>赤ちゃんもがんばっていますよ。\nあともうひと息です。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_ANTIQUE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_ANGRY>\r\nすみません、こちらへ来るのは\nもう少し待ってください。 \nまだ、終わっていませんから。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_ANTIQUE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\r\n無事、２人とも生まれましたよ。\nよくがんばりましたね。\nお疲れさまでした。\n<PAGE>\n<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\nふたごの、男の子と女の子ね！\nどちらもとっても元気で健康よ。\n<PAGE>\nさぁ、アンジェラ。\nミステルを呼んできてちょうだい。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_ANTIQUE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\r\n聞こえていたとおりです。 \nとても元気なふたごの\n男の子と女の子が生まれましたよ。\n<PAGE>\nさぁ、こちらへいらしてください。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_ANTIQUE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\r\nおめでとう。初めての出産で\nふたごなんて大変だったと思うけど\nよくがんばったわ、<MYNAME>！\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nお疲れさまでした。\nとてもりっぱでしたよ。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_LAUGH>\r\nまさか、ふたごだったなんて…\nおどろきました。\n<PAGE>\nからだへの負担も\n大きかったことでしょう。\n本当にお疲れさまでした。\n<PAGE>\nそして、ボクたちの子供を\nこんなにも元気に生んでくれて\nありがとうございます。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_LAUGH>\r\nかわいいですね。女の子は将来有望ですよ。\n目元なんて、\n<MYNAME>にソックリです。\n<PAGE>\n男の子の方は、どうでしょうね。\nボクに似てくれていると\nうれしいのですが。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_ANTIQUE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nところで、この子たちの名前は\nどうするの？\n<PAGE>\n<FACE_LAUGH>赤ちゃんの名前は\n親から子供への最初の贈り物よ。\n素敵な名前をつけてあげなくちゃね。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_NORMAL>\r\nそうですね…\n<MYNAME>に案はありますか？\nまずは男の子の方から決めましょう。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_NORMAL>\r\n男の子の名前は\n<CHILD_NAME_M>、でいいですか？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_ANTIQUE",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_ANTIQUE",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME_M>、ですか。\nええ、いい名前だと思います。\n賛成ですよ。\n<PAGE>\n女の子の名前はどうしましょうか？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_NORMAL>\r\n女の子の名前は\n<CHILD_NAME_W>、でいいですか？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_ANTIQUE",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_ANTIQUE",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME_W>…\n気に入りました。\nその名前に決めましょう。\n<PAGE>\n<WINDOW_HEART2_R><FACE_NORMAL>これからは、<CHILD_NAME_M>と<CHILD_NAME_W>…\nそしてボクと<MYNAME>の家族４人で\n幸せな家庭を築いていきましょう。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_ANTIQUE",
+      "Text": "これから、ミステルと力をあわせて\n<CHILD_NAME_M>と<CHILD_NAME_W>のことを\n大切に育てていこう。よーし、がんばるぞ！"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_NORMAL>\r\nちゃんと名前を付けましょう。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_GARDENER",
+      "Text": "<FACE_NADI><POS_LEFT><FACE_LOSS>\r\n<MYNAME>…？\n何か、顔色が悪くナイか？\n<PAGE>\n<WINDOW_QUESTION_L><FACE_SAD>え、生まれそう！？\nちょ、ちょっと待て！\nそんなイキナリか！？\n<PAGE>\n<WINDOW_DEFAULT><FACE_LOSS>イヤ、いきなりでもないかもしれないが\nそうじゃなくて…\nと、ともかく診療所に行くゾ…！"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_GARDENER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nがんばって！\nあともう少しよぉ〜！\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_NORMAL>赤ちゃんもがんばっていますよ。\nあともうひと息です。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_GARDENER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_ANGRY>\r\nすみません、こちらへ来るのは\nもう少し待ってください。 \nまだ、終わっていませんから。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_GARDENER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\r\n無事、２人とも生まれましたよ。\nよくがんばりましたね。\nお疲れさまでした。\n<PAGE>\n<FACE_MARIAN><POS_LEFT><FACE_LAUGH>ふたごの、男の子と女の子ね！\nどちらもとっても元気で健康よ。\n<PAGE>\nさぁ、アンジェラ。\nナディを呼んできてちょうだい。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_GARDENER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\r\n聞こえていたとおりです。 \nとても元気なふたごの\n男の子と女の子が生まれましたよ。\n<PAGE>\nさぁ、こちらへいらしてください。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_GARDENER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\r\nおめでとう。初めての出産で\nふたごなんて大変だったと思うけど\nよくがんばったわ、<MYNAME>！\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_LAUGH>お疲れさまでした。\nとてもりっぱでしたよ。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_LAUGH>\r\nまさか、ふたごだとは\n思ってなかったからビックリしたゼ…。\n<PAGE>\n２人もなんて本当に大変だったダロ。\n<MYNAME>、\nがんばって生んでくれてありがとナ。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_LAUGH>\r\n小さいな。\n生まれたばかりの子供って\nこんなに小さいのか。\n<PAGE>\n<FACE_LOVE>……カワイイな。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GARDENER",
+      "Text": "<FACE_MARIAN><POS_RIGHT><FACE_NORMAL>\r\nところで、この子たちの名前は\nどうするの？\n<PAGE>\n<FACE_LAUGH>赤ちゃんの名前は\n親から子供への最初の贈り物よ。\n素敵な名前をつけてあげなくちゃね。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_NORMAL>\r\nそう言われるとムダに力が入るな。\n……考えすぎて頭がパンクしそうダ。\n<PAGE>\n<MYNAME>は、\nつけたい名前とかアルのか？\nまずは男の子から決めようゼ。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_NORMAL>\r\n男の子の名前は\n<CHILD_NAME_M>、でいいか？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_GARDENER",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_GARDENER",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME_M>、か。\nイイんじゃないか。\nピッタリって感じがするゼ。\n<PAGE>\n<FACE_NORMAL>女の子の名前はどうスル？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_NORMAL>\r\n女の子の名前は\n<CHILD_NAME_W>、でいいか？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_GARDENER",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_GARDENER",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME_W>、か。\nそれイイな。気にいった。\nその名前にしよう。\n<PAGE>\n<WINDOW_PALPITATION_R>コレカラは、<CHILD_NAME_M>と<CHILD_NAME_W>…\nオレと<MYNAME>の家族４人で\n仲良く暮らしていこうな。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_GARDENER",
+      "Text": "これから、ナディと力をあわせて\n<CHILD_NAME_M>と<CHILD_NAME_W>のことを\n大切に育てていこう。よーし、がんばるぞ！"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_NORMAL>\r\n名前、まだ決まってないぞ。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_LEFT><FACE_LOSS>\r\n顔色が悪いみたいだけど…\n大丈夫か、<MYNAME>？\n<PAGE>\n<WINDOW_QUESTION_L><FACE_ANGRY>…え、生まれそう！？\nた、大変だ！\nいそいで診療所に行こう！！"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_KAMIRU",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nがんばって！\nあともう少しよぉ〜！\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_NORMAL>赤ちゃんもがんばっていますよ。\nあともうひと息です。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_KAMIRU",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_ANGRY>\r\nすみません、こちらへ来るのは\nもう少し待ってください。 \nまだ、終わっていませんから。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_KAMIRU",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\r\n無事、２人とも生まれましたよ。\nよくがんばりましたね。\nお疲れさまでした。\n<PAGE>\n<FACE_MARIAN><POS_LEFT><FACE_LAUGH>ふたごの、男の子と女の子ね！\nどちらもとっても元気で健康よ。\n<PAGE>\nさぁ、アンジェラ。\nカミルさんを呼んできてちょうだい。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_KAMIRU",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\r\n聞こえていたとおりです。 \nとても元気なふたごの\n男の子と女の子が生まれましたよ。\n<PAGE>\nさぁ、こちらへいらしてください。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_KAMIRU",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\r\nおめでとう。初めての出産で\nふたごなんて大変だったと思うけど\nよくがんばったわ、<MYNAME>！\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_LAUGH>お疲れさまでした。\nとてもりっぱでしたよ。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_LAUGH>\r\nまさか、ふたごだったなんて…\nおどろいたよ。\nお疲れさま、<MYNAME>。\n<PAGE>\nすごく大変だったと思うけど、\nボクたちの子供を生んでくれて\n本当にありがとう。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_LAUGH>\r\nかわいいな…。\n手なんかボクの人差し指くらいの\n大きさしかないんじゃないか？\n<PAGE>\n…２人とも、\n生まれてきてくれてありがとう。\n<PAGE>\nパパもママもキミたちを\nすごくカンゲイしてるよ。\nこれからよろしくな。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_KAMIRU",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nところで、この子たちの名前は\nどうするの？\n<PAGE>\n<FACE_LAUGH>赤ちゃんの名前は\n親から子供への最初の贈り物よ。\n素敵な名前をつけてあげなくちゃね。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_NORMAL>\r\n名前か…。\nどうしようかな。\nまず、男の子の名前を決めようか。\n<PAGE>\n<MYNAME>は、この名前がいいって\nいうのはあるのか？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_NORMAL>\r\n男の子の名前は\n<CHILD_NAME_M>、でいい？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_KAMIRU",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_KAMIRU",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME_M>、か。\nうん、いい名前だと思うよ。\n男の子の名前はそれにしよう。\n<PAGE>\n<FACE_NORMAL>女の子の名前はどうしようか？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_NORMAL>\r\n女の子の名前は\n<CHILD_NAME_W>、でいい？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_KAMIRU",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_KAMIRU",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME_W>…。\nそうだね、その名前にしよう。\nこの子にすごく似合ってると思う。\n<PAGE>\n<WINDOW_HEART2_R>これからは、<CHILD_NAME_M>と<CHILD_NAME_W>…\nそしてボクと<MYNAME>の\n家族４人で幸せな家庭を築いていこうな。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_KAMIRU",
+      "Text": "これから、カミルと力をあわせて\n<CHILD_NAME_M>と<CHILD_NAME_W>のことを\n大切に育てていこう。よーし、がんばるぞ！"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_NORMAL>\r\nまだ名前決めてないよ。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_LEFT><FACE_SAD>\r\n何これ…なんだかすごくお腹が…\nもしかして、生まれる…？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_RICHGIRL",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nがんばって！\nあともう少しよぉ〜！\n<PAGE>\n<FACE_ELISE><POS_LEFT><FACE_SAD>い、いた…うぅ…\nもう無理ーー！！！！\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_NORMAL>\n赤ちゃんもがんばっていますよ。\nあともうひと息です。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_RICHGIRL",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_ANGRY>\r\nすみません、こちらへ来るのは\nもう少し待ってください。 \nまだ、終わっていませんから。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_RICHGIRL",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\r\n無事、２人とも生まれましたよ。\nよくがんばりましたね。\nお疲れさまでした。\n<PAGE>\n<FACE_MARIAN><POS_LEFT><FACE_LAUGH>ふたごの、男の子と女の子ね！\nどちらもとっても元気で健康よ。\n<PAGE>\nさぁ、アンジェラ。\n<MYNAME>を呼んできてくれる？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_RICHGIRL",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\r\n聞こえていたとおりです。 \nとても元気なふたごの\n男の子と女の子が生まれましたよ。\n<PAGE>\nさぁ、こちらへいらしてください。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_RICHGIRL",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\r\nおめでとう。初めての出産で\nふたごなんて大変だったと思うけど\nよくがんばったわねぇ、エリーゼさん！\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_LAUGH>お疲れさまでした。\nとてもりっぱでしたよ。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\r\nありがとう。\n痛くて死んでしまうんじゃないかと\n思うくらい辛かったけれど…。\n<PAGE>\n<FACE_LOVE>でも、今はとても幸せだわ。\nしかも、ふたごだなんて…\nおどろいたけれど、本当にうれしい。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\r\nふふ、<MYNAME>もうれしそうね。\nこの子たちのこと、これから２人で\n大切に育てていきましょうね。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_RICHGIRL",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nところで、この子たちの名前は\nどうするの？\n<PAGE>\n<FACE_LAUGH>赤ちゃんの名前は\n親から子供への最初の贈り物よ。\n素敵な名前をつけてあげなくちゃね。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\r\nそうね…。\n<MYNAME>は、どんな名前が\nいいと思う？\n<PAGE>\nまずは、男の子の名前を決めましょう。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\r\n男の子の名前は\n<CHILD_NAME_M>、でいいかしら？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_RICHGIRL",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_RICHGIRL",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME_M>、ね。\nそうね、いいと思うわ。\nあなたにしてはよく考えた方ね。\n<PAGE>\n<FACE_NORMAL>それじゃ、女の子の名前は\nどうしましょうか？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\r\n女の子の名前は\n<CHILD_NAME_W>、でいいかしら？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_RICHGIRL",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_RICHGIRL",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME_W>、ね。\n異論はないわ。\nそれで決まりね。\n<PAGE>\n<WINDOW_HEART2_R>これからは、<CHILD_NAME_M>と<CHILD_NAME_W>…\nわたくしと<MYNAME>の家族４人で\n素敵な家庭を築いていきましょう。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_RICHGIRL",
+      "Text": "これから、エリーゼと力をあわせて\n<CHILD_NAME_M>と<CHILD_NAME_W>のことを\n大切に育てていこう。よーし、がんばるぞ！"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\r\nちゃんと名前を付けてよ。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_WRITER",
+      "Text": "<FACE_IRIS><POS_LEFT><FACE_SAD>\r\nうぅ…お腹がすごく痛いわ…\nもしかしたら、生まれる…かも…。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_WRITER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nがんばって！\nあともう少しよぉ〜！\n<PAGE>\n<FACE_IRIS><POS_LEFT><FACE_SAD>…うぅ……っ！\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_NORMAL>\n赤ちゃんもがんばっていますよ。\nあともうひと息です。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_WRITER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_ANGRY>\r\nすみません、こちらへ来るのは\nもう少し待ってください。 \nまだ、終わっていませんから。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_WRITER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\r\n無事、２人とも生まれましたよ。\nよくがんばりましたね。\nお疲れさまでした。\n<PAGE>\n<FACE_MARIAN><POS_LEFT><FACE_LAUGH>ふたごの、男の子と女の子ね！\nどちらもとっても元気で健康よ。\n<PAGE>\nさぁ、アンジェラ。\n<MYNAME>を呼んできてくれる？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_WRITER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\r\n聞こえていたとおりです。 \nとても元気なふたごの\n男の子と女の子が生まれましたよ。\n<PAGE>\nさぁ、こちらへいらしてください。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_WRITER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\r\nおめでとう。初めての出産で\nふたごなんて大変だったと思うけど\nよくがんばったわねぇ、イリスさん！\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_LAUGH>お疲れさまでした。\nとてもりっぱでしたよ。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\r\nありがとう。\nまさかふたごだなんて思わなかったから\nとても大変だったけれど…。\n<PAGE>\n<FACE_LAUGH>こうして無事、元気な赤ちゃんたちを\n生むことが出来て本当にうれしいわ。\n幸せよ。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_LAUGH>\r\n<MYNAME>もとてもうれしそうね。\nこの子たちのこと、これから\n２人で大切に育てていきましょうね。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_WRITER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nところで、この子たちの名前は\nどうするの？\n<PAGE>\n<FACE_LAUGH>赤ちゃんの名前は\n親から子供への最初の贈り物よ。\n素敵な名前をつけてあげなくちゃね。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\r\nそうね、名前は一生のものだもの。\nよく考えてつけてあげなくては。\n<PAGE>\nまずは、男の子の名前を決めましょう。\n<MYNAME>は、どんな名前が\nいいと考えているのかしら？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\r\n男の子の名前は\n<CHILD_NAME_M>、でいいかしら？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_WRITER",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_WRITER",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME_M>、ね。\nええ、いいと思うわ。\nそうしましょう。\n<PAGE>\n<FACE_NORMAL>女の子の名前は\nどうしましょうか？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\r\n女の子の名前は\n<CHILD_NAME_W>、でいいかしら？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_WRITER",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_WRITER",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME_W>、ね。\nわかったわ。そうしましょう。\n<PAGE>\nあなたががんばって考えた名前だもの。\nこの子たちもきっとよろこぶわ。\nこれで、決まりね。\n<PAGE>\n<WINDOW_HEART2_R>これからは、<CHILD_NAME_M>と<CHILD_NAME_W>…\nわたしと<MYNAME>の家族４人で\n素敵な家庭を築いていきましょうね。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_WRITER",
+      "Text": "これから、イリスと力をあわせて\n<CHILD_NAME_M>と<CHILD_NAME_W>のことを\n大切に育てていこう。よーし、がんばるぞ！"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\r\nちゃんと名前を付けてあげて。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_LEFT><FACE_SAD>\r\nう、うぅ…っ。\nど、どうしよう<MYNAME>…。\n生まれちゃう、かも…！"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_WEATHERGIRL",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nがんばって！\nあともう少しよぉ〜！\n<PAGE>\n<FACE_LILIE><POS_LEFT><FACE_SAD>…うぅ…はぁ、はぁ…。\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_NORMAL>赤ちゃんもがんばっていますよ。\nあともうひと息です。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_WEATHERGIRL",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_ANGRY>\r\nすみません、こちらへ来るのは\nもう少し待ってください。 \nまだ、終わっていませんから。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_WEATHERGIRL",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\r\n無事、２人とも生まれましたよ。\nよくがんばりましたね。\nお疲れさまでした。\n<PAGE>\n<FACE_MARIAN><POS_LEFT><FACE_LAUGH>ふたごの、男の子と女の子ね！\nどちらもとっても元気で健康よ。\n<PAGE>\nさぁ、アンジェラ。\n<MYNAME>を呼んできてくれる？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_WEATHERGIRL",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\r\n聞こえていたとおりです。 \nとても元気なふたごの\n男の子と女の子が生まれましたよ。\n<PAGE>\nさぁ、こちらへいらしてください。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_WEATHERGIRL",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\r\nおめでとう。初めての出産で\nふたごなんて大変だったと思うけど\nよくがんばったわねぇ、リーリエさん！\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_LAUGH>お疲れさまでした。\nとてもりっぱでしたよ。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_NORMAL>\r\nありがとうございます。\n痛くて辛くてもうダメって思ったけど\nがんばって本当に良かった。\n<PAGE>\n<FACE_LAUGH>こんなにも元気でかわいい\nふたごたちを生むことが出来て\nとっても幸せです！"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_LAUGH>\r\n<MYNAME>もすごくうれしそうだね！\nこの子たちのこと、これから２人で\n力を合わせて大切に育てていこうね。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_WEATHERGIRL",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nところで、この子たちの名前は\nどうする？\n<PAGE>\n<FACE_LAUGH>赤ちゃんの名前は\n親から子供への最初の贈り物よ。\n素敵な名前をつけてあげなくちゃね。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_NORMAL>\r\nうーん…。\nどんな名前がいいかな？\n<PAGE>\nまずは、男の子の名前を決めたい\nところだけど、<MYNAME>は\nこんな名前にしたいっていう案…ある？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_NORMAL>\r\n男の子の名前は\n<CHILD_NAME_M>、でいいかな？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_WEATHERGIRL",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_WEATHERGIRL",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME_M>、か…。\nうん、それいいと思う！\n<PAGE>\n<FACE_NORMAL>それじゃ、女の子の方の名前は\nどうしよっか？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_NORMAL>\r\n女の子の名前は\n<CHILD_NAME_W>、でいいかな？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_WEATHERGIRL",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_WEATHERGIRL",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME_W>…。\nそうだね。それがいいかも。\nそれじゃ、決定だね！\n<PAGE>\n<WINDOW_HEART2_R>これからは、<CHILD_NAME_M>と<CHILD_NAME_W>…\nあたしと<MYNAME>の家族４人で\n明るく楽しい家庭を築いていこうね！"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_WEATHERGIRL",
+      "Text": "これから、リーリエと力をあわせて\n<CHILD_NAME_M>と<CHILD_NAME_W>のことを\n大切に育てていこう。よーし、がんばるぞ！"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_NORMAL>\r\nちゃんと名前を付けてよ。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_RANGER",
+      "Text": "<FACE_MENOU><POS_LEFT><FACE_SAD>\r\nうう…っ。\nお腹がいたいのです…。\n<PAGE>\n助けてください、<MYNAME>…。\n生まれちゃいそうなのです…！"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_RANGER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nがんばって！\nあともう少しよぉ〜！\n<PAGE>\n<FACE_MENOU><POS_LEFT><FACE_SAD>うぅ…い、いたたたたっ…！\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_NORMAL>赤ちゃんもがんばっていますよ。\nあともうひと息です。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_RANGER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_ANGRY>\r\nすみません、こちらへ来るのは\nもう少し待ってください。 \nまだ、終わっていませんから。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_RANGER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\r\n無事、２人とも生まれましたよ。\nよくがんばりましたね。\nお疲れさまでした。\n<PAGE>\n<FACE_MARIAN><POS_LEFT><FACE_LAUGH>ふたごの、男の子と女の子ね！\nどちらもとっても元気で健康よ。\n<PAGE>\nさぁ、アンジェラ。\n<MYNAME>を呼んできてくれる？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_RANGER",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\r\n聞こえていたとおりです。 \nとても元気なふたごの\n男の子と女の子が生まれましたよ。\n<PAGE>\nさぁ、こちらへいらしてください。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_RANGER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\r\nおめでとう。初めての出産で\nふたごなんて大変だったと思うけど\nよくがんばったわねぇ、メノウさん！\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_LAUGH>お疲れさまでした。\nとてもりっぱでしたよ。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_NORMAL>\r\nありがとうございます！\n<PAGE>\nお腹が爆発しちゃうんじゃないかと\nいうくらい痛くてビックリしましたが…\n無事生むことが出来て良かったのです。\n<PAGE>\n<FACE_LOVE>しかも、ふたごの男の子と女の子…！\n一気に２人も家族がふえるなんて\nとっても幸せです♪"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_LAUGH>\r\nウフフッ、<MYNAME>も\nとってもうれしそうですね。\n<PAGE>\n<MYNAME>、これからたくさん協力して\n２人でこの子たちのことを大事に大事に\n育てていきましょうね！"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_RANGER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nところで、この子たちの名前は\nどうするの？\n<PAGE>\n<FACE_LAUGH>赤ちゃんの名前は\n親から子供への最初の贈り物よ。\n素敵な名前をつけてあげなくちゃね。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_LAUGH>\r\nそうですね。\n２人が一生大切に思ってくれるような\n素敵な名前をつけたいです。\n<PAGE>\n<FACE_NORMAL>まずは、男の子の名前から決めましょう。\n<MYNAME>は、どんな名前がいいと\n思いますか？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_NORMAL>\r\n男の子の名前は\n<CHILD_NAME_M>、でいいですか？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_RANGER",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_RANGER",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME_M>、ですか。\nなるほど、いいと思います♪\n<PAGE>\n<FACE_NORMAL>女の子の名前はどうしますか？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_NORMAL>\r\n女の子の名前は\n<CHILD_NAME_W>、でいいですか？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_RANGER",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_RANGER",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME_W>、ですか。\n…さすが、<MYNAME>ですね！\nそうしましょう♪\n<PAGE>\n<WINDOW_HEART2_R>これからは、<CHILD_NAME_M>と<CHILD_NAME_W>…\nわたしと<MYNAME>の家族４人で\n明るく楽しい家庭を築いていきましょうね。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_RANGER",
+      "Text": "これから、メノウと力をあわせて\n<CHILD_NAME_M>と<CHILD_NAME_W>のことを\n大切に育てていこう。よーし、がんばるぞ！"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_NORMAL>\r\nちゃんと名前を付けるのです。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_NURSE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_SAD>\r\n…何だかお腹がいたいです……。 \nこれは、もしかしたら\n生まれる…かもしれません…。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_NURSE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nがんばって！\nあともう少しよぉ〜！\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_SAD>うぅ……はい……っ。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_NURSE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_ANGRY>\r\n<MYNAME>、こっちに来るのは\nもう少し待ってちょうだい！\nまだ、終わってないから！"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_NURSE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\r\n無事、２人とも生まれたわよぉ♪\nふたごの、男の子と女の子！\nどちらもとっても元気で健康よ。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_NURSE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\r\nお待たせ、<MYNAME>。 \n聞こえていたとおりよ。\n<PAGE>\nとても元気なふたごの\n男の子と女の子が生まれたわ。\nさぁ、あなたもこっちに来て。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_NURSE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\r\nおめでとう。初めての出産で\nふたごなんて大変だったと思うけど…\nよくがんばったわね、アンジェラ。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LAUGH>\r\nありがとうございます、先生。\n痛みでくじけそうになりましたが…\n無事出産できて本当によかった。\n<PAGE>\nしかも、ふたごだなんて…\nとてもおどろきましたが、うれしいです。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LAUGH>\r\nフフッ、<MYNAME>も\nとてもうれしそうですね。\n<PAGE>\nこの子たちのこと…これから\n２人で力を合わせて大切に\n育てていきましょうね。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_NURSE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nところで、この子たちの名前は\nどうするの？\n<PAGE>\n<FACE_LAUGH>赤ちゃんの名前は\n親から子供への最初の贈り物よ。\n素敵な名前をつけてあげなくちゃね。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_NORMAL>\r\nそうですね…。\n<PAGE>\nまずは男の子の名前ですが…\n<MYNAME>は、どんな名前がいいと\n思いますか？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_NORMAL>\r\n男の子の名前は\n<CHILD_NAME_M>、がいいですか？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_NURSE",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_NURSE",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME_M>…。\nとてもいい名前だと思います。\n<PAGE>\nでは男の子の名前は\n<CHILD_NAME_M>にしましょう。\n女の子の方はどんな名前がいいですか？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_NORMAL>\r\n女の子の名前は\n<CHILD_NAME_W>、がいいですか？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_NURSE",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_NURSE",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME_W>ですか。\nとても素敵な名前ですね。\n<PAGE>\n<WINDOW_HEART2_R>これからは、<CHILD_NAME_M>と<CHILD_NAME_W>…\nわたしとあなたの４人で、楽しく\n幸せな家庭を築いていきましょうね。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_NURSE",
+      "Text": "これから、アンジェラと力をあわせて\n<CHILD_NAME_M>と<CHILD_NAME_W>のことを\n大切に育てていこう。よーし、がんばるぞ！"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_NORMAL>\r\nちゃんと名前を付けましょう。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_START_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_LEFT><FACE_SAD>\r\n………っ。\nお腹…いた…っ…！\nう、生まれる………っ！"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_SOME_MORE_RIKORISU",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nがんばって！\nあともう少しよぉ〜！\n<PAGE>\n<FACE_LICORICE><POS_LEFT><FACE_SAD>…うぅ…………っ。\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_NORMAL>赤ちゃんもがんばっていますよ。\nあともうひと息です。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WAIT_RIKORISU",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_ANGRY>\r\nすみません、こちらへ来るのは\nもう少し待ってください。 \nまだ、終わっていませんから。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_BONE_RIKORISU",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\r\n無事、２人とも生まれましたよ。\nよくがんばりましたね。\nお疲れさまでした。\n<PAGE>\n<FACE_MARIAN><POS_LEFT><FACE_LAUGH>ふたごの、男の子と女の子ね！\nどちらもとっても元気で健康よ。\n<PAGE>\nさぁ、アンジェラ。\n<MYNAME>を呼んできてくれる？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WELCOME_RIKORISU",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\r\n聞こえていたとおりです。 \nとても元気なふたごの\n男の子と女の子が生まれましたよ。\n<PAGE>\nさぁ、こちらへいらしてください。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_CONGRATULATON_RIKORISU",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\r\nおめでとう。初めての出産で\nふたごなんて大変だったと思うけど\nよくがんばったわねぇ、リコリスさん！\n<PAGE>\n<FACE_ANGELA><POS_LEFT><FACE_LAUGH>お疲れさまでした。\nとてもりっぱでしたよ。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_HAPPY_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nあ、ありがとうございます。\n<PAGE>\n<FACE_LOVE>初めてのことで、しかもふたごで…と\nとてもおどろきましたが、こんなに\nかわいい子供を生めて…本当に幸せです。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_THANKS_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\n<MYNAME>もすごくうれしそうだな。\nこの子たちのこと…これから２人で\n大切に育てていこうな。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_RIKORISU",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nところで、この子たちの名前は\nどうするの？\n<PAGE>\n<FACE_LAUGH>赤ちゃんの名前は\n親から子供への最初の贈り物よ。\n素敵な名前をつけてあげなくちゃね。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_WHAT_IS_NAME_BOY_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nそうだな…名前というのは\n一生をともにする大切なものだからな。\nしっかり考えてやらないと。\n<PAGE>\nまずは男の子の名前だが…\n<MYNAME>、\n何かいい名前の案はあるか？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_BOY_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n男の子の名前は\n<CHILD_NAME_M>、でいいか？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_NO_RIKORISU",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_BOY_YES_RIKORISU",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_BOY_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME_M>、か。\nうん、いい名前だと思う。\n男の子の名前はそれにしよう。\n<PAGE>\n<FACE_NORMAL>それじゃ、女の子の名前に\nいい案はあるか？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CONFIRM_GIRL_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n女の子の名前は\n<CHILD_NAME_W>、でいいか？"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_NO_RIKORISU",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_GIRL_YES_RIKORISU",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_END_GIRL_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME_W>、か…。\nなるほど、それはいいな。\n決まりだ。\n<PAGE>\n<WINDOW_HEART2_R>これからは、<CHILD_NAME_M>と<CHILD_NAME_W>…\nわたしと<MYNAME>の家族４人で\n温かい家庭を築いていこうな。"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_END_RIKORISU",
+      "Text": "これから、リコリスと力をあわせて\n<CHILD_NAME_M>と<CHILD_NAME_W>のことを\n大切に育てていこう。よーし、がんばるぞ！"
+    },
+    {
+      "VardId": "MES_EV_BIRTH_CHILD_NAME_CANCEL_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n名前、まだ付けてないぞ。"
+    }
+  ]
+}

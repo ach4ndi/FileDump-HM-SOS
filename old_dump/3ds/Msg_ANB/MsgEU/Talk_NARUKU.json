@@ -1,0 +1,2774 @@
+﻿{
+  "Date": "2016-06-10T19:48:10.5005645+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_MORNING_00",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nMmm, <MYNAME>. 'Morning. I'm so hungry in\nthe morning.\n<PAGE>\nWhen I'm hungry I don't feel much like\nworking."
+    },
+    {
+      "VardId": "MES_MORNING_01",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nMorning, <MYNAME>. You're so thin!\n<PAGE>\nEveryone tells me to exercise and get\nthin... Can you teach me some exercises\nthat work?"
+    },
+    {
+      "VardId": "MES_MORNING_02",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nMorning, <MYNAME>. You can get lots of\nyummy things here it town. It means you\ncan eat well even when cooking at home!"
+    },
+    {
+      "VardId": "MES_AFTERNOON_00",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nOh, <MYNAME>. Is it almost time to eat?\n<PAGE>\nI can sorta tell the time by the how\nhungry I am. Pretty useful, huh?"
+    },
+    {
+      "VardId": "MES_AFTERNOON_01",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nHello, <MYNAME>. Your farm seems to have\nlots of yummy things!\n<PAGE>\n<FACE_NARUKU><POS_RIGHT><FACE_SAD>\nJust thinking about it... makes me\nhungry!"
+    },
+    {
+      "VardId": "MES_AFTERNOON_02",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nHello. I'm thinking about what to cook\nfor dinner. Maybe I'll cook something\nDad likes."
+    },
+    {
+      "VardId": "MES_EVENING_00",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nHmm, <MYNAME>. Good evening.\n<PAGE>\nWhat'll I have for breakfast tomorrow?\nWe eat a lot, so it takes a lot of\npreparation."
+    },
+    {
+      "VardId": "MES_EVENING_01",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nGood evening, <MYNAME>. Is it true that if\nyou go to sleep right after eating\nyou'll turn into a cow?\n<PAGE>\n<FACE_NARUKU><POS_RIGHT><FACE_SAD>If it is, I think my dad and I are in\nserious danger of turning into cows!"
+    },
+    {
+      "VardId": "MES_EVENING_02",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nGood evening, <MYNAME>.\n<PAGE>\n<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>The guests at our inn tell me that my\ncooking tastes good.\n<PAGE>\nIt makes me happy to hear that."
+    },
+    {
+      "VardId": "MES_LOVER_MORNING_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_MORNING_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_MORNING_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_AFTERNOON_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_AFTERNOON_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_AFTERNOON_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_EVENING_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_EVENING_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_EVENING_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_MORNING_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_MORNING_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_MORNING_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_AFTERNOON_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_AFTERNOON_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_AFTERNOON_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_EVENING_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_EVENING_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_EVENING_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_SPRING",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nHey, <MYNAME>. It's so nice when it's\nwarm, isn't it!\nit?\n<PAGE>\n<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>When it's this warm I get hungry really\nquickly."
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_SPRING",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_SAD>\r\n<MYNAME>... all my precious candy spoiled\nbecause of the rain.\n<PAGE>\nIt tasted so good, too! *Sigh*"
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_SUMMER",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nOh, <MYNAME>. It must be hot on the farm\nat this time of year!\n<PAGE>\nYou don't have a roof, after all. I\nguess the animals must get hot too.\n<PAGE>\nIf I were one of them, I'd be so totally\nlistless!"
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_SUMMER",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nOh, <MYNAME>. Is something wrong?\n<PAGE>\n<FACE_NARUKU><POS_RIGHT><FACE_SAD>It's raining so hard today. I guess\nthat's why we don't have many guests\ntoday..."
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_AUTUMN",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nIt's gotten cool lately, hasn't\nit, <MYNAME>.\n<PAGE>\n<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>This is the perfect temperature for me.\nYou don't sweat too much while working\nand any food tastes great!"
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_AUTUMN",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nWhat terrible rain, <MYNAME>.\n<PAGE>\nDad can't concentrate on his novel\nbecause of the noise of the rain. It's\ntough to be around him!"
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_WINTER",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nYou look cold, <MYNAME>. Me? I'm not cold\nat all.\n<PAGE>\nHmm, maybe it's because I'm fat. I'm\nokay with the cold."
+    },
+    {
+      "VardId": "MES_WEATHER_SNOW",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nDid you see the snow, <MYNAME>? It's\nreally snowing hard.\n<PAGE>\nI think pouring juice on snow would\nmake a tasty dessert. I'll have to try\nthat! Like, now!"
+    },
+    {
+      "VardId": "MES_WEATHER_TYPHOON",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_SAD>\r\n<MYNAME>, I'm glad you made it here. The\nwind is so strong I'm surprised things\naren't flying away!"
+    },
+    {
+      "VardId": "MES_WEATHER_HEAVYSNOW",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nThe snow outside is terrible, <MYNAME>.\nI can't even see outside the window.\n<PAGE>\nAfter this much snow we'll be able to\nmake slides and snow houses. I hope the\nsnow stops quickly!"
+    },
+    {
+      "VardId": "MES_MARRIAGE_WEATHER_TYPHOON",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_WEATHER_HEAVYSNOW",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BLESSING_LOVER",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nSay, say, <MYNAME>. I hear you found\nsomeone special. Congratulations! ♪\n<PAGE>\nI'm being you all the way! Just tell me\nif I can help with anything!"
+    },
+    {
+      "VardId": "MES_BLESSING_PROPOSAL_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BLESSING_PROPOSAL_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BLESSING_MARRAIGE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BLESSING_CHILD_BIRTH",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BLESSING_VICTORY",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_AFTER_TRAVEL",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_AFTER_DEMAND_HALLOWEEN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_NEW_RESIDENT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HORSE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SEGWAY",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SHISHIMAI",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_PANDA",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_TAKEKOPUTA",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_00",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nHmmm... ingredients, ingredients. There\nare lots of things in the forest. I come\nhere a lot to collect ingredients.\n<PAGE>\nSome for the guests and some for Dad and\nmyself. Although I pick more for us than\nthe guests."
+    },
+    {
+      "VardId": "MES_AREA_FOREST_01",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nA few days ago a bear appeared before me\nand we had a sumo match. Huh? Who won?\n<PAGE>\n<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>I won. Everyone I tell that to says it's\namazing, but what's the big deal?"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_00",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_SAD>\r\nThere are lots of yummy fish in the\nriver. Ohh... I'm getting hungry. Maybe\nI'll cook fish for tonight's dinner."
+    },
+    {
+      "VardId": "MES_AREA_RIVER_01",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nOnce in a while, if I get really hungry\nout here, I eat some mushrooms or edible\ngrass.\n<PAGE>\nI know by sight and experience which\nones taste good. You can do it too,\nonce you learn, <MYNAME>."
+    },
+    {
+      "VardId": "MES_AREA_MOUNTAIN_00",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nEveryone who comes here says the air is\ndelicious, but what does that mean? It's\nnot like the air has any taste.\n<PAGE>\nMaybe it's the way I'm breathing it? I\ndon't know the proper way, if that's the\ncase. Can you tell me?"
+    },
+    {
+      "VardId": "MES_AREA_MOUNTAIN_01",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nMom sends us yummy things on her trips,\nbut maybe this time I'll send her\nsomething.\n<PAGE>\nI think Mom will enjoy sampling the rich\nbounty of this mountain."
+    },
+    {
+      "VardId": "MES_AREA_FARM_00",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nI always smell such good things growing\non your farm, <MYNAME>.\n<PAGE>\n<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>This stuff must all taste so good! Boy,\nI'm drooling."
+    },
+    {
+      "VardId": "MES_AREA_FARM_01",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nDad says he wants to research your farm.\nHe's going to write a new novel. <MYNAME>,\ncan you help him out? "
+    },
+    {
+      "VardId": "MES_AREA_MINE_00",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nThe dishes we serve on at the inn\ncontain ore taken from the mine here,\nso my dad says.\n<PAGE>\nHearing that makes me feel more affinity\nfor this place."
+    },
+    {
+      "VardId": "MES_AREA_MINE_01",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nI tend to get hungry when I'm in a dark\nplace. My stomach's been growling for a\nwhile now."
+    },
+    {
+      "VardId": "MES_AREA_TOWN_00",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nIt's sorta lonely in this town. I wish\nmore people would come. I get hungry\nwhen I'm lonely."
+    },
+    {
+      "VardId": "MES_AREA_TOWN_01",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nThe inn is starting to get more guests.\n<PAGE>\nThe town has gotten livelier too. It's\nsorta fun."
+    },
+    {
+      "VardId": "MES_AREA_TOWN_02",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nThe town has gotten so lively. Our inn\nis busy too.\n<PAGE>\nBut Dad doesn't have time to work on his\nnovels anymore. He isn't taking that\nside of things so well."
+    },
+    {
+      "VardId": "MES_AREA_TOWN_03",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nI like this town. It's lively and clean,\nthere are forests and rivers, and the\nfood tastes great...\n<PAGE>\nThere's no other town quite like it,\nI'll bet. Dad says so too."
+    },
+    {
+      "VardId": "MES_AREA_MYHOME_VASE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_AREA_MYHOME_RECORDE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_AREA_MYHOME_FIREPLACE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HEART_WHITE",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nThe town we used to live in didn't have\nmany food ingredients. It really made me\nmiss this town.\n<PAGE>\nI'm glad we got to come back. Dad said\nso too."
+    },
+    {
+      "VardId": "MES_HEART_PURPLE",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nI may not look it, but I'm a good cook.\nWell, I have to cook since Dad can't.\n<PAGE>\nAfter Mom went traveling I was left in\nthe kitchen. Now, even the guests\ncompliment my cooking."
+    },
+    {
+      "VardId": "MES_HEART_BLUE",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nWe have guests who come to the inn just\nfor my cooking. They're my fans!\n<PAGE>\nThey are just another reason that I have\nto do my very best in the kitchen!"
+    },
+    {
+      "VardId": "MES_HEART_GREEN",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nMy mom used to live with us, but she\nsaid she wanted to see the world, so\nshe went off and left Dad and me.\n<PAGE>\nMom sends yummy things from abroad each\nmonth, but we don't know when she's\ncoming back.\n<PAGE>\nMom said she isn't coming home until\nshe travels around the world. I wonder\nwhere she is right now..."
+    },
+    {
+      "VardId": "MES_HEART_YELLOW",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nI think my dad is great.\n<PAGE>\n<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>When I make a mistake or something\nhappens, he tells me it's okay.\n<PAGE>\nSo I feel like if I stick with Dad,\nthings will always work out. Please,\ndon't tell him! It's embarrassing!"
+    },
+    {
+      "VardId": "MES_HEART_ORANGE",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nI've always been told I'm so laid back.\nDo you agree?\n<PAGE>\n<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\nStill, I'm not as laid back as Dad! You\nagree with that too, right <MYNAME>?"
+    },
+    {
+      "VardId": "MES_HEART_RED",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\n<MYNAME>, come and stay at the inn some\ntime.\n<PAGE>\nYou can stay using the employee's\ndiscount, <MYNAME>. I want you to taste my\ncooking."
+    },
+    {
+      "VardId": "MES_LOVER_HEART_WHITE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_PURPLE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_BLUE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_GREEN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_YELLOW",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_ORANGE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_RED",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_WHITE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_PURPLE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_BLUE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_GREEN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_YELLOW",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_ORANGE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_RED",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVERS_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVERS_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVERS_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ENGAGEMENT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_03",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_03",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_PRESENT_BEST",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nWow, it's a cream puff! My favorite! I'd\nlike to make them, but it's not easy.\n<PAGE>\n<MYNAME>, is this for me? Thanks! I'll \nsavor each bite."
+    },
+    {
+      "VardId": "MES_PRESENT_VERY",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nReally? Thank you, <MYNAME>!\n<PAGE>\nHmmm...I'm going to show Dad. He'll be\nso jealous."
+    },
+    {
+      "VardId": "MES_PRESENT_LIKE",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nHow did you know that I liked this? You\nare amazing, <MYNAME>. Thank you."
+    },
+    {
+      "VardId": "MES_PRESENT_NORMAL",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nThank you, <MYNAME>. I'll take it."
+    },
+    {
+      "VardId": "MES_PRESENT_DISLIKE",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_SAD>\r\nHuh? Not sure about this... I wonder if\nour guests will enjoy it...?"
+    },
+    {
+      "VardId": "MES_PRESENT_HATE",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ANGRY>\r\nWow! What? D-Don't let it get close to\nme... Stop or I'll get mad!"
+    },
+    {
+      "VardId": "MES_PRESENT_WORST",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_SAD>\r\nMmmm... Mom made me simmered eggplant\nlong ago. It tasted awful.\n<PAGE>\nBut she forced me to eat it... ever\nsince then, I've never been able to eat\nit again. I'll give this one to my dad."
+    },
+    {
+      "VardId": "MES_LARGE_PRESENT_BEST",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LARGE_PRESENT_VERY",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LARGE_PRESENT_LIKE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LARGE_PRESENT_NORMAL",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nWhat's this? I've never seen a vegetable\nlike this. It's for me?\n<PAGE>\nThank you, <MYNAME>. The inn may become\nfamous for this. What should I cook with\nit?"
+    },
+    {
+      "VardId": "MES_LARGE_PRESENT_DISLIKE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LARGE_PRESENT_HATE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LARGE_PRESENT_WORST",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_BEST",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_VERY",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_LIKE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_NORMAL",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nI-It's so big! Amazing, <MYNAME>. It's for\nme? I wonder if I can carry it...\n<PAGE>\n<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>How shall I cook it? I wonder if I can\ncut something this big. I know, I'll ask\nmy dad to help."
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_DISLIKE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_HATE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_WORST",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_PRESENT_RESERVE",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nI don't need anything today. Thanks\nanyway, <MYNAME>."
+    },
+    {
+      "VardId": "MES_LOVER_PRESENT_RESERVE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_PRESENT_RESERVE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_PRESENT_SECONDTIME",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nSorry, <MYNAME>. My arms are full and I\ncan't carry anymore."
+    },
+    {
+      "VardId": "MES_LOVER_PRESENT_SECONDTIME",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_PRESENT_SECONDTIME",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_BEST",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nIt's my birthday today. Huh? You knew?\nYou're giving me a present?\n<PAGE>\nWow, it's a cream puff! I love these.\nThank you, <MYNAME>."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_VERY",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nIt's my birthday today. Huh? You knew?\nYou're giving me a present?\n<PAGE>\nWow, thank you. <MYNAME>. You made me so\nhappy! *giggle*"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_LIKE",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nIt's my birthday today. Huh? You knew?\nYou're giving me a present?\n<PAGE>\nI wanted this. I wasn't expecting to get\nit, though!"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_NORMAL",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nIt's my birthday today. Huh? You knew?\nYou're giving me a present?\n<PAGE>\nThank you, <MYNAME>. I accept."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_DISLIKE",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nIt's my birthday today. Huh? You knew?\nYou're giving me a present?\n<PAGE>\nThis... this is my birthday present? Oh,\nI'm not complaining... not really..."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_HATE",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nIt's my birthday today. Huh? You knew?\nYou're giving me a present?\n<PAGE>\nOh! This is my birthday present? You're\nkidding, right?\n<PAGE>\nHow can I be happy with something like\nthis? You're silly, <MYNAME>!"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_WORST",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nIt's my birthday today. Huh? You knew?\nYou're giving me a present?\n<PAGE>\n<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>Huh? Close my eyes and open my mouth? I\nwonder what it is. Aaaah...\n<PAGE>\n<FACE_NARUKU><POS_RIGHT><FACE_ANGRY>What! Simmered eggplant! Ack, I even\nswallowed some of it!\n<PAGE>\nYou know I hate it, don't you? I'm going\nto have a hard time forgiving you for\nthis, <MYNAME>!!"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_LARGE_PRESENT_BEST",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_LARGE_PRESENT_VERY",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_LARGE_PRESENT_LIKE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_LARGE_PRESENT_NORMAL",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nIt's my birthday today. Huh? You knew?\nYou have a present for me?\n<PAGE>\n<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>You rarely see something like this. I'll\ntry cooking it at home. Thank you."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_LARGE_PRESENT_DISLIKE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_LARGE_PRESENT_HATE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_LARGE_PRESENT_WORST",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_BEST",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_VERY",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_LIKE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_NORMAL",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nIt's my birthday today. Huh? You knew?\nYou have a present for me?\n<PAGE>\n<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>What a shock... What is this? Is it\nedible? I'll try cooking it at home."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_DISLIKE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_HATE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_WORST",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_CHICK",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nWhen this yellow chick is grown, she'll\nhave white and black feathers, right?\nIsn't that so weird?"
+    },
+    {
+      "VardId": "MES_HEN",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nShe constantly moves her neck. I wonder\nif she's looking for something."
+    },
+    {
+      "VardId": "MES_LARGE_HEN",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nThis hen is big. Do they usually grow to\nthis size? Keeping such a monster must\nbe hard."
+    },
+    {
+      "VardId": "MES_DOG",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nThis dog... looks like my mom. Around\nthe eyes are identical!"
+    },
+    {
+      "VardId": "MES_FAT_DOG",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nMy stomach gets in the way when I try\nto run. Dieting is rough... Oh, I\nunderstand..."
+    },
+    {
+      "VardId": "MES_LARGEDOG",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nThat's one big dog. Tough on the one\npicking it up, but the dog looks happy\nenough!"
+    },
+    {
+      "VardId": "MES_FAT_LARGEDOG",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nWhoa... heavy! Don't worry, you don't\nhave to pick the monster up! You'll\nthrow your back out!"
+    },
+    {
+      "VardId": "MES_CAT",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nI love to watch cats sunning themselves.\nI could watch them forever."
+    },
+    {
+      "VardId": "MES_FAT_CAT",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nThis cat looks like my dad. Especially\naround the belly... Oh, don't tell him I\nsaid that!"
+    },
+    {
+      "VardId": "MES_LONGHAIR_CAT",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nThis cat doesn't need attention from\nanyone. I think that's cool."
+    },
+    {
+      "VardId": "MES_FAT_LONGHAIR_CAT",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nCats can put on lots of weight. This is\nwhat they look like without exercise,\nthen? I think I'll start working out."
+    },
+    {
+      "VardId": "MES_FLOWER_FESTIVAL",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nHuh? Flower day? You're giving me a\nflower? Th-Thank you."
+    },
+    {
+      "VardId": "MES_LOVER_FLOWER_FESTIVAL",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FLOWER_FESTIVAL",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_THANKSGIVIING_FESTIVAL_S",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_THANKSGIVIING_FESTIVAL_S",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_THANKSGIVIING_FESTIVAL_S",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_THANKSGIVIING_FESTIVAL_W",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_THANKSGIVIING_FESTIVAL_W",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_THANKSGIVIING_FESTIVAL_W",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HALLOWEEN",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nYou're giving me candy? Thank\nyou, <MYNAME>!\n<PAGE>\nKids luck out during the Pumpkin\nFestival. I'm glad I'm still one of\nthem!"
+    },
+    {
+      "VardId": "MES_LOVER_HALLOWEEN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HALLOWEEN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nThat's a pretty feather. It's for me?\n<PAGE>\nOh, you're just showing it to me?\nShucks."
+    },
+    {
+      "VardId": "MES_LOVER_BLUE_SHUTTLECOCK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_EVENT_BLUE_SHUTTLECOCK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_PROPOSAL_BLUE_SHUTTLECOCK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_BLUE_SHUTTLECOCK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ANGER_BLUE_SHUTTLECOCK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_RING",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nA ring? What's that for?\n<PAGE>\nOh, it's pretty. But I don't want it."
+    },
+    {
+      "VardId": "MES_EVENT_RING",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_RING",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_RING",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ANGER_RING",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_BIRD",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nCome to our garden sometimes, too. They\nlove it when you feed them."
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_OTHER",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nI'm slow on my feet, so I have a hard\ntime catching them. You're amazing,\n<MYNAME>."
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_TURTLE",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nTurtles are so slow. Huh? Just like me?\nTh-That's not true!"
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_00",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nIt's your birthday, <MYNAME>. Here's a\npresent. Since you're always helping me."
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_01",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nIt's your birthday, <MYNAME>. How old are\nyou? Oh, sorry. I shouldn't ask."
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_GIFT_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_GIFT_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_GIFT_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_GIFT_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_GIFT_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_GIFT_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRAGE_GIFT_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRAGE_GIFT_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRAGE_GIFT_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_DATE_INDUCE_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_DATE_INDUCE_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_DATE_INDUCE_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_DATE_INDUCE_OK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_DATE_INDUCE_NG",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRAGE_DATE_INDUCE_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRAGE_DATE_INDUCE_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRAGE_DATE_INDUCE_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRAGE_DATE_INDUCE_OK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRAGE_DATE_INDUCE_NG",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_DATE_ANGER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRAGE_DATE_ANGER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LONG_INTERVAL",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nHmm? <MYNAME>? I haven't seen you in a\nwhile."
+    },
+    {
+      "VardId": "MES_LOVER_LONG_INTERVAL",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRAGE_LONG_INTERVAL",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TRAVEL_SOUTH_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TRAVEL_SOUTH_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TRAVEL_SOUTH_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TRAVEL_REMAINS_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TRAVEL_REMAINS_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TRAVEL_REMAINS_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TRAVEL_JAPAN_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TRAVEL_JAPAN_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TRAVEL_JAPAN_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TRAVEL_SNOWY_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TRAVEL_SNOWY_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TRAVEL_SNOWY_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_TRAVEL_LEAVE_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_TRAVEL_LEAVE_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_TRAVEL_LEAVE_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_TRAVEL_LEAVE_OK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_TRAVEL_LEAVE_NG",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_RESORT_LEAVE_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_RESORT_LEAVE_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_RESORT_LEAVE_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_RESORT_LEAVE_OK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_RESORT_LEAVE_NG",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_UNIFORM_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_UNIFORM_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_UNIFORM_2",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_UNIFORM_2",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_UNIFORM_3",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_UNIFORM_3",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_UNIFORM_4",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_UNIFORM_4",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_UNIFORM_5",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_UNIFORM_5",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_UNIFORM_6",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_UNIFORM_6",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_UNIFORM_7",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_UNIFORM_7",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_UNIFORM_8",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_UNIFORM_8",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_UNIFORM_9",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_UNIFORM_9",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_UNIFORM_10",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_UNIFORM_10",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_UNIFORM_11",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_UNIFORM_11",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_UNIFORM_12",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_UNIFORM_12",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_EVERYDAY_WEAR_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_EVERYDAY_WEAR_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_EVERYDAY_WEAR_2",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_EVERYDAY_WEAR_2",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_EVERYDAY_WEAR_3",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_EVERYDAY_WEAR_3",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_EVERYDAY_WEAR_4",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_EVERYDAY_WEAR_4",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_EVERYDAY_WEAR_5",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_EVERYDAY_WEAR_5",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_EVERYDAY_WEAR_6",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_EVERYDAY_WEAR_6",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_EVERYDAY_WEAR_7",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_EVERYDAY_WEAR_7",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_EVERYDAY_WEAR_8",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_EVERYDAY_WEAR_8",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_EVERYDAY_WEAR_9",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_EVERYDAY_WEAR_9",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_EVERYDAY_WEAR_10",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_EVERYDAY_WEAR_10",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_EVERYDAY_WEAR_11",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_EVERYDAY_WEAR_11",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_EVERYDAY_WEAR_12",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_EVERYDAY_WEAR_12",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_CASUAL_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_CASUAL_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_CASUAL_2",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_CASUAL_2",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_CASUAL_3",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_CASUAL_3",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_CASUAL_4",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_CASUAL_4",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_CASUAL_5",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_CASUAL_5",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_CASUAL_6",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_CASUAL_6",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_CASUAL_7",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_CASUAL_7",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_CASUAL_8",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_CASUAL_8",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_CASUAL_9",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_CASUAL_9",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_CASUAL_10",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_CASUAL_10",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_CASUAL_11",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_CASUAL_11",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_CASUAL_12",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_CASUAL_12",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DOCTOR_WHITE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DOCTOR_BLACK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_COOK_WHITE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_COOK_GREEN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_NINJA_BLUE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_NINJA_RED",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_NINJA_WHITE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_NINJA_YELLOW",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_NINJA_GREEN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_CHINA_RED",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_CHINA_BLUE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_COWBOY",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HOUSEMAID_BLACK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HOUSEMAID_PINK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HOUSEMAID_BLUE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_STEWARD_BLACK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_STEWARD_RED",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_STEWARD_BLUE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ANIMAL_CAT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ANIMAL_DOG",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ANIMAL_BEAR",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ANIMAL_PANDA",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOP_OPEN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SLEEP_00",
+      "Text": "...mmm... mmm... I'm so... full...\nmmm... Thank you... for all the food..."
+    },
+    {
+      "VardId": "MES_LOVER_SCHEDULE_SLEEP_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRAGE_SCHEDULE_SLEEP_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_POSTMAN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_HALL_PART",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHIPMENT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_NEET",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_MAGICSHOW",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SICK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_SCHEDULE_SICK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_SCHEDULE_SICK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_WALK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_COOK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SITDOWN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_DOZE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOPPING_BARBAR",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOPPING_PET",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOPPING_ANIMAL",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOPPING_TAILOR",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOPPING_TRAVEL",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOPPING_DESIGN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOPPING_FISHING",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOPPING_GOODS",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOPPING_MERCHANT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOPPING_RESTAURANT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOPPING_RESTAURANT_MAGIC",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOPPING_CAFE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOPPING_MOVIE_THEATER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOPPING_HOSPITAL",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOPPING_INN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOPPING_BLACKSMITH",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_FISHING",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_INSECT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_COLLECTION",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_MINE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_STUDY",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALKING_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALKING_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALKING_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALKING_03",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALKING_04",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_GARDENING",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_PLAY_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_PLAY_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_PLAY_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_PLAY_03",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_PLAY_04",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_FESTIVAL",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_REST",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_MUSIC",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_EAT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_WITCH_SHOP",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_WITCH_SHOP2",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_WITCH_SHOP_OPEN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_WITCH_SHOP_NG",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SEEING",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_CANCEL",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_OK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MEAL_00",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\n...munch...munch...munch...mmmm...\nMunch...munch...uuuu...mmm."
+    },
+    {
+      "VardId": "MES_BREAKFAST_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BREAKFAST_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LUNCH_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LUNCH_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LUNCH_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DINNER_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DINNER_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DINNER_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MEAL_DEMO_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MEAL_DEMO_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MEAL_DEMO_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MEAL_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_BREAKFAST_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_BREAKFAST_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_LUNCH_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_LUNCH_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_LUNCH_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_DINNER_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_DINNER_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_DINNER_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_MEAL_DEMO_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_MEAL_DEMO_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_MEAL_DEMO_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_BEE_BOX",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_FISH_FARM",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_MUSH_SPACE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_HOT_SPRING",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_FARM_CROP",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_FARM_CROP_MANY_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_FARM_CROP_MANY_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_FARM_ANIMAL",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_FARM_ANIMAL_MANY_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_FARM_ANIMAL_MANY_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_FARM_PET",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_FARM_PET_MANY_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_FARM_PET_MANY_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_TOWN_EUROPEAN_MASTER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_TOWN_JAPANESE_MASTER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_TOWN_NATIVE_MASTER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_TOWN_COUNTRY_MASTER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_TOWN_EUROPEAN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_TOWN_JAPANESE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_TOWN_NATIVE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_TOWN_COUNTRY",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BENCH_WOOD",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BENCH_STONE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BENCH_RED",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BENCH_GREEN",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nWhat a nice green bench. I'd like to sit\non it. You think that's allowed?"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BENCH_BLUE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BENCH_YELLOW",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nWhat a nice yellow bench. I'd like to\nsit on it. You think that's allowed?"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BENCH_PINK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BENCH_PURPLE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BENCH_WHITE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BENCH_BLACK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BENCH_GOLD",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BENCH_SILVER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BARREL",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nWhat a big barrel! I bet it'd be fun if\nI got inside and rolled around."
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_WOOD_BOX",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SCARECROW",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nThere's a scarecrow. It's wearing a\nweird hat and weird clothes."
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_WEATHERCOCK",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nA weather vane always faces the\ndirection of the wind, right? But why is\nit a chicken?\n<PAGE>\nCan't it be a bird? Or a sparrow? Or...?\n<PAGE>\nI can't think of anything else."
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_MILK_CAN",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nThere are some milk cans, but do they\ncontain fresh milk?\n<PAGE>\nOh, they're empty. I wanted to drink\nfresh milk, too."
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_GRASS_ROLL",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BLOCK_BRICH",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_JAR_RED",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_JAR_BLUE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_JAR_WHITE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SMALL_CART",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_WAGON",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nThere's a wagon. I wonder if they're\nselling anything?\n<PAGE>\nOh, it's just for show. I hoped they\nwere selling crepes or something."
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_CART",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TABLE_WEST",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TABLE_JAPAN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TABLE_ORIENT",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nWhat a nice table. I like unusual\ntables. Like eating off them."
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_CHAIR_WEST",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_CHAIR_JAPAN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_CHAIR_ORIENT",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nA log chair. That's nice. Can I sit on\nit?\n<PAGE>\n<FACE_NARUKU><POS_RIGHT><FACE_SAD>I can't? I figured as much."
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_CHAIR_BEACH",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nYou need a beach chair when you go to\nthe beach. Just right for feeling good\nin the sun!"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PARASOL_WEST",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PARASOL_JAPAN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PARASOL_BEACH",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nYou need a beach parasol table when you\ngo to the beach. Just right for feeling\ngood in the sun!"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_STREETLAMP_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_STREETLAMP_2",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BONFIRE",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nA beacon is lit here. How cool is that?\nIt's like I'm at camp."
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_ANDON",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_GARDENLANTERN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PILLAR_WOOD",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PILLAR_STONE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PILLAR_BRICK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TOTEM POLE_1",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nA totem pole. It's cool, but isn't it a\nbit small?"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TOTEM POLE_2",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nWhat a big totem pole. How cool is that.\nI want one for my house too.\n<PAGE>\nThe guests would love it. Dad would love\nit."
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_STATUE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_STATUE_SUN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_STATUE_PIKE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_STATUE_SHIELD",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FOUNTAIN_ANIMAL",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FOUNTAIN_1",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nThere's a water fountain. I guess I'm\nnot allowed to play in the water?"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FOUNTAIN_2",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nWhat a big water fountain. It's almost\nlike a swimming pool.\n<PAGE>\n<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>But I guess I'm not allowed to play in\nthe water?"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BRIDGE_DIGIT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BRIDGE_ARCH",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_WELL",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TRAM",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_WATCHTOWER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FIRE_EXTINGUISHER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_DARUMA",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_KADOMATU",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SHISHIODOSHI",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_ANCHOR",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_HAMMOCK",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nA hammock. I've always wanted to try\nsleeping in a hammock."
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_OBELISK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SLATE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_MOVING_CAR",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SHISHIMAI",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PANDA",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_ROBOT",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nIt's a toy robot from an old TV show.\n<PAGE>\nIt's a bit dated now, but I still love\nit."
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_2",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_3",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_4",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_5",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_6",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nThey have so many unusual things here.\n<PAGE>\nBut I like it. It's.... interesting."
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_7",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_8",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_9",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_10",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_11",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_12",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_13",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_14",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_15",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nI like parks. There are quite a few\naround here. They're pretty, and good\nplaces to play."
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_16",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_17",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_18",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_19",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_20",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_21",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_POT_PINKROSE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_POT_MARGUERITE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_POT_TULIP",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_POT_SUNFLOWER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_POT_REDROSE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_POT_HYDRANGEA",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_POT_PINK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_POT_WHITEROSE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_POT_GARBERA",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_POT_SNOWDROP",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_POT_RINDOU",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_POT_BLUEROSE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_POT_CACTUS",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PLANTER_PINKROSE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PLANTER_MARGUERITE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PLANTER_TULIP",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PLANTER_SUNFLOWER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PLANTER_REDROSE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PLANTER_HYDRANGEA",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PLANTER_PINK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PLANTER_WHITEROSE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PLANTER_GARBERA",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PLANTER_SNOWDROP",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PLANTER_RINDOU",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PLANTER_BLUEROSE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PLANTER_CACTUS",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_POT_BAMBOO",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nBamboo is supposed to bring good luck,\nright? My dad said so.\n<PAGE>\nBut I wonder why?"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BONSAI",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_POT_CHRRYBLOSSOM",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_POT_GINGKO",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_POT_PALM",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BASKET_RED",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BASKET_GREEN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BASKET_YELLOW",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BASKET_PINK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BASKET_PURPLE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BASKET_WHITE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TOPIARY_BOXWOOD",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TOPIARY_CONIFER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TOPIARY_BALL_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TOPIARY_BALL_2",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TOPIARY_BOX",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TOPIARY_LION",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nA lion plant. How cool is that?\n<PAGE>\nDid you grow it, <MYNAME>? You're amazing.\nI really admire you."
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TOPIARY_MAMMOTH",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nA mammoth plant. How cool is that?\n<PAGE>\nDid you make it, <MYNAME>? You're amazing.\nI really admire you."
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TREE_BAMBOO",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nBamboo is supposed to bring good luck,\nright? My dad said so.\n<PAGE>\nBut I wonder why?"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TREE_PINEAL",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TREE_CHERRYBLOSSOM",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TREE_GINGKO",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TREE_PALM",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nI love palm trees. Just seeing them\nmakes me feel like I'm on some faraway\ntropical island."
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_LATTICE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_OMANENT_COW",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nA cow statue. Did you make it, <MYNAME>?\nThat's amazing. Can you teach me how to\ndo that?"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_OMANENT_SHEEP",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nA sheep statue. Did you make it, <MYNAME>?\nThat's amazing. Can you teach me how to\ndo that?"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_OMANENT_COCK",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nA chicken statue. Did you make it,\n<MYNAME>? That's amazing. Can you teach me\nhow to do that?"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_OMANENT_HORSE",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nA horse statue. Did you make it, <MYNAME>?\nThat's amazing. Can you teach me how to\ndo that?"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TIN_TRICYCLE",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nThere's a tricycle. I want to ride it,\nbut its got flowers all over it... Oh,\nit's just a decoration."
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TIN_WATERING_CAN",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nThere's a watering can, but flowers\nare growing from in it. Oh, it's a\ndecoration. That's sorta interesting."
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TIN_BOOTS",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nFlowers are blooming in a boot. Hmmm,\ncould it be a decoration? It's sorta\ninteresting."
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_ARCH_RED_FLOWER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_ARCH_BLUE_FLOWER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_GAZEBO",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PERGOLA",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FAN_PERGOLA",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FENCE_WOOD_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FENCE_STONE_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FENCE_BAMBOO_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FENCE_RED_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FENCE_GREEN_1",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nA green fence. I like the color green."
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FENCE_BLUE_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FENCE_YELLOW_1",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nA yellow fence. I like the color yellow."
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FENCE_PINK_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FENCE_PURPLE_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FENCE_WHITE_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FENCE_BLACK_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FENCE_GOLD_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FENCE_SILVER_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FENCE_MILK_1",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_ROUGH>\r\nWhat an interesting fence. It's like\nthere are lots of cows."
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FENCE_HAIR_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_GUARD_POLE_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_CHAIN_POLE_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_WALL_WOOD_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_WALL_STONE_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_WALL_BRICK_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_VINYLHOUSE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_RICE_FIELD_PANEL",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HOSPITAL_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HOSPITAL_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HOSPITAL_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HOSPITAL_03",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HP_RECOVER_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HP_RECOVER_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HP_RECOVER_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SP_RECOVER_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SP_RECOVER_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SP_RECOVER_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_GO_OUT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HOSPITAL_NO_MONEY",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HOSPITAL_END",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HIDE_HINT_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HIDE_HINT_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HIDE_HINT_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HIDE_HINT_03",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HIDE_HINT_04",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HIDE_HINT_05",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HIDE_HINT_06",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HIDE_HINT_07",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HIDE_HINT_08",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HIDE_HINT_09",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HIDE_HINT_10",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HIDE_HINT_11",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HIDE_HINT_12",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_WANT_TO_CANDY_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_WANT_TO_CANDY_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_WANT_TO_CANDY_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_FARMING_TOOL_COPPER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_FARMING_TOOL_SILVER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_TOOL_STEEL",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_FARMING_TOOL_GOLD",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_TOOL_WORKMAN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_FARMING_TOOL_WORKMAN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_SUPER_BELL",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_WALLPAPER_ANIMAL",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_YASHIKI",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_SUMMER_POT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_SUMMER_PLANTER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_ALARM",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_MOVIE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_GREAT_ROD",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_WALLPAPER_SYUMITTO",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_POT_PINKROSE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_PLANTER_PINKROSE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_WALLPAPER_CROPS",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_MUSIC_PLAYER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_WINTER_POT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_WINTER_PLANTER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_WAGON",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_FLOOR_ORIENTAL",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_RECIPE_BOOK_KAMON_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_RECIPE_BOOK_KAMON_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_RECIPE_BOOK_KAMON_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_RECIPE_BOOK_KAMON_03",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_RECIPE_BOOK_KAMON_04",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_BOOK_BEACH",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_BOOK_CACTUS",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_BONFIRE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_TOTEM POLE_2",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_PIECE_HAIAO_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_PIECE_IRONASHI_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_BOOK_FENCE_BANBOO",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_BOOK_JAPAN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_BRIDGE_ARCH",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_GIFT_WASABI",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_GIFT_STRAWBERRY",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_PRESENT_CANNOT",
+      "Text": "Now is not the time to be giving\npresents."
+    },
+    {
+      "VardId": "MES_PRESENT_CANNOT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SHOP_BEAUTY_PARLOR",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nI don't have anything to do with hair\nsalons, but ladies should be happy."
+    },
+    {
+      "VardId": "MES_CLOTHES_SHOP",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nI'm not interested in clothes, so I've\nnever been to the tailor. What I'm\nwearing now is like my inn uniform."
+    },
+    {
+      "VardId": "MES_RESTAURANT",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nI love restaurants. But my dad tells me\nnot to eat too much."
+    },
+    {
+      "VardId": "MES_TRAVEL_AGENCY",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nDoes a travel agency take you on trips?\n<PAGE>\nI'd like to go on a trip once and stay\nin another inn."
+    },
+    {
+      "VardId": "MES_TEA_SHOP",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nA tea shop serves lots of delicious\nthings, right? I don't think I'll be\nable to resist!"
+    },
+    {
+      "VardId": "MES_MOVE_OUT",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nI don't like moving house. There's so\nmany things to move around and the clean\nup afterwards is awful."
+    },
+    {
+      "VardId": "MES_TOWN2_OPEN",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nAs the town grows, I'm sure the shops\nwill too. It would be nice to have more\nfood shops."
+    },
+    {
+      "VardId": "MES_TOWN_WEST",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nI like Western-style towns. It brings\nback memories of the town where I used\nto live."
+    },
+    {
+      "VardId": "MES_TOWN_JAPAN",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nEastern-style motifs seem to be on the\nincrease. It's subtle and quite nice."
+    },
+    {
+      "VardId": "MES_TOWN_ORIENT",
+      "Text": "<FACE_NARUKU><POS_RIGHT><FACE_NORMAL>\r\nTropical motifs give the town a strange\natmosphere. It feels like I'm in a\nfaraway land."
+    }
+  ]
+}

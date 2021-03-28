@@ -1,0 +1,2130 @@
+﻿{
+  "Date": "2016-06-10T19:47:34.2017546+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_COOKING_00",
+      "Text": "まずは料理を一品作ろう。\nどんな料理を作ろうかな？"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_COOKING_01",
+      "Text": "レシピから作る"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_COOKING_02",
+      "Text": "適当に作る"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_FINISH",
+      "Text": "…ちょっと作りすぎたかな？\n残ったのはカバンに入れておいて、\n他の料理を作ろう。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALGOOD_NO_FOOD",
+      "Text": "今回はちゃんと作らなくてもいいかな。\n適当に作ろう。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_TEKITO_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>\r\n…おい、<MYNAME>。\nオマエ適当に作っただろう。\n<PAGE>\nこんなご飯を食べるくらいなら\nオレ様が作った方が良かったぜ。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_BAD_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>\r\n…<MYNAME>、はっきり言うぜ。\n今日の料理は残念な出来だ。\n<PAGE>\nオマエはもう少し\nちゃんとした料理を作れるだろう？\n<PAGE>\n疲れてるならオレ様が作るから、\n無理するなよ。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_NORMAL_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>\r\nうん、可もなく不可もなく…。\n平凡な味だ。\nこれはこれで、いいかもしれないがな。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_GOOD_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>\r\n美味しいぜ、姫君。\nさすがはオレ様の妻だな。\nもっと期待してるぜ。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_VERYGOOD_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>\r\nとても美味しいぜ、姫君。\nこのオレ様をうならせるなんて…。\nなかなかやるな。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_BRAVO_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>\r\n…驚いたぜ。\nカモンベールの作った料理よりも\n美味しいなんてな。\n<PAGE>\nオレ様をここまで\n満足させてくれたんだ。\n…あとでキスのごほうびだ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_READY_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_LEFT><FACE_NORMAL>\r\n待たせたな、ご飯にするか。\n今から準備するから、大人しく待ってろよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_ITADAKI_00_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>\r\nじゃ、食べようぜ。\nいただきます。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_ITADAKI_01_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>\r\nいただきます。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_GOTI_00_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>\r\nそれじゃ、ごちそうさまでした。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_GOTI_01_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>\r\nごちそうさまでした。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_BREAKFAST_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>\r\nさて、今日も一日頑張るか！\n<MYNAME>も頑張れよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_LUNCH_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>、昼食後は\n眠くなる時間だからな。\n居眠りしないように気を付けろよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_DINNER_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>\r\nさて、あとの時間は\nゆっくり過ごそうぜ。\n二人で今日の疲れをいやそう。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_00_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_ROUGH>\r\nよく食べるな、姫君。\nおかわりはちゃんと用意してるから、\nエンリョせずにたくさん食べろよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_01_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_SAD>\r\nおい、<MYNAME>。\nキライなものも、残さず食べろよ。\n健康を考えて作ってるんだからな。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_02_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>\r\nオレ様も<MYNAME>も\n仕事があるから、交代で作った方が\nお互いのためにいいよな。\n<PAGE>\nテレビドラマなんかであるような\n家事の押し付け合いでケンカなんて、\nまっぴらゴメンだぜ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_03_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_ROUGH>\r\nどうだ、姫君。\nオレ様の料理、美味いだろ？\n何しろ、愛がこもってるからな。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_04_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_LOSS>\r\n実家にいた頃は\n母親と妹と三人でご飯を食べてたな。\n<PAGE>\n…いつもキャピキャピした\n雰囲気だったから、\nたまに一人で食べたくなったもんだ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_05_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>\r\nそういえば、小さい頃は\n好き嫌いなんてほとんど無かったが、\n大人になるにつれて増えたな。\n<PAGE>\nこの仕事を始めて、口に入れるものも\nこだわりだしたからな。\n当然といえば当然か。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_06_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_ANGRY>\r\n…ほら、<MYNAME>。\nテーブルに料理をこぼすな。\nもう少しキレイに食べてくれ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_07_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>\r\n…っと。\n危ない危ない。\n<PAGE>\n姫君の食べる姿に見とれて\nはしを落とすところだった。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_08_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>\r\n今度、カモンベールに頼んで\n料理教室でも開いてもらうか。\n<PAGE>\nせっかくなら、姫君に\n美味しい料理を食べて欲しいからな。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_09_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>\r\n料理も、見た目は大事だぜ。\nそれがいいのと悪いのとじゃ\n味の感じ方に大きな差が出てくる。\n<PAGE>\n出来上がりの色味、器の色、\n足りない色を何で補うのか\n作ったヤツのセンスが問われるぜ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_00_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>\r\nほら、<CHILD_NAME>。\nよそ見して食べてるとこぼすぞ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_01_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_SAD>\r\nほら、<CHILD_NAME>。\n好き嫌いしないで全部食べろよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_02_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>\r\n次は<MYNAME>のご飯が食べたいな。\n作ってくれ、<MYNAME>。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_03_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、ご飯を食べたら\n後片付け手伝ってくれ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_04_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_ROUGH>\r\n…<MYNAME>と<CHILD_NAME>は\n食べ方がそっくりだな。\nさすが親子だ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_05_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>と<CHILD_NAME>、\n明日の料理のリクエストはあるか？\n気が向いたら、作ってやるよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_06_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_ANGRY>\r\n<CHILD_NAME>。\n料理を服にこぼしてるぞ。\nほら、これでふけ。\n<PAGE>\nそれから<MYNAME>、オマエもだ。\n親子そろって、ドジだな。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_07_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_ROUGH>\r\nさあ、<CHILD_NAME>。\nご飯を食べたら、しっかり遊べよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_00_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>\r\nほら、<CHILD_NAME>。\n身体が大きいうちに\nしっかりご飯を食べておけよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_01_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>\r\nそういえば、<CHILD_NAME>。\n大きい時と小さい時で\n味の好みは変わってるのか？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_02_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_LOSS>\r\n<CHILD_NAME>が大きいと\n違和感があるなぁ。\nあと15年後にはこんな姿になってるのか…。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_03_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、ご飯を食べたら\n後片付け手伝ってくれ。\nついでに掃除も一緒にするか。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_04_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_ANGRY>\r\nおい、<CHILD_NAME>。\nさっきから手が進んでないが…。\nもしや、お菓子をつまみ食いしたな？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_05_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_ROUGH>\r\n<CHILD_NAME>の作ったご飯を\nもっと食べたいな。\n<CHILD_NAME>、頼むぞ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_06_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_ROUGH>\r\n次は<MYNAME>のご飯が食べたいな。\n作ってくれ、<MYNAME>。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_07_CHARA_ALLEN",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>\r\nさあ、<CHILD_NAME>。\nご飯を食べたらしっかり運動しろよ。\n…勉強でも構わないがな。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_TEKITO_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_SAD>\r\n…ねえ、<MYNAME>。\nもしかしなくても、\n今回のご飯、適当に作ったでしょ？\n<PAGE>\n…そこまでして、\n無理に作らなくていいんだよ？\nしんどい時はボクに任せてよ。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_BAD_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_LOSS>\r\n…<MYNAME>。\nこの料理、ちょっとヘンな\n味がする…かも。\n<PAGE>\n…あ、あの。\nでも見た目はとてもキレイだよ？\n次は味も頑張ろうよ、ね？"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_NORMAL_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_NORMAL>\r\n…うん？\n味はどうかって？\n大丈夫だよ、美味しいよ。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_GOOD_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_ROUGH>\r\n<MYNAME>、ご飯美味しいよ♪\n作ってくれてありがとう！"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_VERYGOOD_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_ROUGH>\r\nこの料理、とっても美味しいよ！\n毎日こんな美味しいご飯を食べてたら、\n食べ過ぎて太っちゃうかも。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_BRAVO_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_LOVE>\r\n…幸せだな〜。\nカワイイ奥さんと、美味しいご飯。\n<PAGE>\n<MYNAME>の料理を食べてると、\nついつい笑顔になっちゃうよ。\n結婚してよかったな〜♪"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_READY_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_LEFT><FACE_ROUGH>\r\nお待たせ、<MYNAME>。\nすぐに作るから、\nちょっとの間待っててね！"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_ITADAKI_00_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_NORMAL>\r\nじゃ、食べよっか。\nいただきまーす！"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_ITADAKI_01_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_NORMAL>\r\nいただきまーす！"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_GOTI_00_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_NORMAL>\r\nごちそうさまでした！"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_GOTI_01_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_NORMAL>\r\nごちそうさまでした！"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_BREAKFAST_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>は今日も仕事かな？\n無理しない程度に頑張ってね！"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_LUNCH_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_NORMAL>\r\nよーし、ご飯も食べたことだし、\n午後からも頑張ろうね♪"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_DINNER_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_NORMAL>\r\nさて、夜ご飯も食べたし\nおフロに入ってゆっくりしようかな。\n何かしてほしいことがあったら言ってね♪"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_00_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_ROUGH>\r\n<MYNAME>の食べてるとこって\nカワイイよね〜。\n小動物みたいで、見ててあきないよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_01_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_NORMAL>\r\n…キライなものも\nなるべく食べなきゃダメだよ？\n逆の時はボクも頑張るからさ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_02_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_NORMAL>\r\nご飯のメニューを\n考えるのって、楽しいよね。\n次は何を作ろうかな♪"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_03_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_ROUGH>\r\n結婚してから、ちょっとずつだけど\n料理を勉強してるんだ。\n<PAGE>\nせっかくなら、<MYNAME>に\n美味しいものを食べて欲しいしね。\nひとり暮らしの時より上達したよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_04_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_ROUGH>\r\n家族でご飯っていいよね♪\nひとりでご飯を食べるより、\n何倍も美味しく感じるよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_05_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_NORMAL>\r\nボク、味覚が子供っぽいんだよね。\n料理の好き嫌いも、子供のころから\n全く変わってないんだ。\n<PAGE>\n<MYNAME>はどう？\nボクと一緒だったらうれしいな。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_06_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_SAD>\r\nイタッ…！\n舌かんじゃったよ。\nううう…。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_07_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_SAD>\r\nイタッ…！\n舌かんじゃったよ。\nううう…。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_08_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_NORMAL>\r\nボク、家庭的な料理が好きなんだ。\n高級な食材を使ったものって\n食べるのに緊張しちゃうよね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_09_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_NORMAL>\r\nボクの実家の近くにある\n小さなレストランは、\nグラタンがすっごく美味しくてさ。\n<PAGE>\n小さなころから、おこづかいをもらう度に\nお店に行っては食べてたんだ。\n<PAGE>\nいつか、<MYNAME>と一緒に\nそこのグラタンを食べてみたいよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_00_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_NORMAL>\r\nほら、<CHILD_NAME>。\nよそ見して食べてるとこぼしちゃうよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_01_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_SAD>\r\nほら、<CHILD_NAME>。\n好き嫌いしないで全部食べないと\nダメだよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_02_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_NORMAL>\r\n次は<MYNAME>のご飯が食べたいな。\n<MYNAME>、作ってよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_03_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、ご飯を食べたら\n後片付け手伝ってね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_04_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_ROUGH>\r\n…<MYNAME>と<CHILD_NAME>は\n食べ方がそっくりだね。\nさすが親子だ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_05_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>と<CHILD_NAME>、\n明日の料理のリクエストはある？\nボクに作れそうなら、頑張って作るよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_06_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_NORMAL>\r\nああ、<CHILD_NAME>。\n料理を服にこぼしてるよ。\nほら、これでふいてごらん。\n<PAGE>\n<FACE_ROUGH>…それから<MYNAME>、キミもね。\n親子そろって、カワイイね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_07_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_ROUGH>\r\nさあ、<CHILD_NAME>。\nご飯を食べたら、しっかり遊んでおいで。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_00_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_NORMAL>\r\nほら、<CHILD_NAME>。\n身体が大きいうちに\nしっかりご飯を食べておくんだよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_01_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_NORMAL>\r\nそういえば、<CHILD_NAME>。\n大きい時と小さい時で\n味の好みは変わったりしてるの？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_02_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_LOSS>\r\n<CHILD_NAME>が大きいと\n違和感があるなぁ。\nあと15年後にはこんな姿になってるのか…。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_03_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、ご飯を食べたら\n後片付け手伝ってね。\nついでに掃除も一緒にしようか。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_04_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_ANGRY>\r\nおい、<CHILD_NAME>。\nさっきから手が進んでないが…。\nもしかして、お菓子をつまみ食いした？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_05_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_ROUGH>\r\n<CHILD_NAME>の作ってくれるご飯を\nもっと食べたいな。\n<CHILD_NAME>、ヨロシクね♪"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_06_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_ROUGH>\r\n次は<MYNAME>のご飯が食べたいな。\n<MYNAME>、作ってよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_07_CHARA_ROD",
+      "Text": "<FACE_ROD><POS_RIGHT><FACE_NORMAL>\r\nさあ、<CHILD_NAME>。\nご飯を食べたら、しっかり運動するんだよ。\n…勉強でもいいけど。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_TEKITO_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_SAD>\r\n…このご飯、適当だなぁ。\nせっかくなら、美味しいのが食べたいよ。\n<PAGE>\n適当に作るくらいなら\nオレに任せてほしかったなぁ…。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_BAD_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_LOSS>\r\nこのご飯…不思議な味がするね。\n心臓がドキドキするよ。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_NORMAL_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_NORMAL>\r\nうん、可もなく不可もなく。\nこういう料理が一番ホッとするよ。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_GOOD_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_ROUGH>\r\nおぉ、今日の料理は力が入ってるね〜。\n美味しいよ、<MYNAME>。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_VERYGOOD_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_ROUGH>\r\nうん、ウマイ！\n<MYNAME>のご飯は絶品だなぁ。\n食べ過ぎて太りそうだよ。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_BRAVO_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_ROUGH>\r\nいやー…。\n美味しすぎて、つい顔がゆるんじゃうなぁ。\nありがとね、<MYNAME>。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_READY_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_LEFT><FACE_ROUGH>\r\nお待たせ〜。\n今からぱぱっと作るから\nちょっとだけ待っててね〜。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_ITADAKI_00_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_NORMAL>\r\nじゃ、食べよっか。\nいただきます！"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_ITADAKI_01_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_NORMAL>\r\nいただきます！"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_GOTI_00_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_NORMAL>\r\nごちそうさまでした！"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_GOTI_01_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_NORMAL>\r\nごちそうさまでした！"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_BREAKFAST_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>は今日も仕事かな？\nほどほどにして\nたまにはオレとも遊んでね〜。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_LUNCH_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_NORMAL>\r\nお腹も満たされたし\nこれから昼寝でもしようかな。\n気が向いたら、<MYNAME>もおいで。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_DINNER_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_NORMAL>\r\nさてと、今夜は何をしようかな？\n<MYNAME>も仕事が無いなら\nオレと一緒にまったりしようよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_00_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_ROUGH>\r\nうんうん、イイ食べっぷりだね〜♪\n作りがいがあるってもんだよ。\nおかわりあるから、たくさん食べてね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_01_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_NORMAL>\r\n出されたものは食う！\nこれが常識だ。\nしっかり食べて、元気だしてね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_02_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_ROUGH>\r\n<MYNAME>にご飯を作ってもらうのも、\n<MYNAME>のためにご飯を作るのも\nどっちも楽しいね。\n<PAGE>\nこの歳にして\n料理の楽しさに目覚めそうだよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_03_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_NORMAL>\r\nオレも、一人暮らしの時は、\n家でお酒を飲んでたからね。\n<PAGE>\n酒のアテになるような\n手軽なおつまみは得意だよ。\n独身のオッサンなんて、そんなもんだよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_04_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_NORMAL>\r\n夫婦そろって、仲良くご飯を食べる…。\nいいねぇ〜。\nこういうのにあこがれてたんだよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_05_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_NORMAL>\r\n大人になるにつれて\n味のうすいものが好きになってね。\n<PAGE>\n…おじいちゃんくさいって？\n違う違う、素材の味を楽しめる\n年齢になったってことだよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_06_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_SAD>\r\nうっ…。\nご飯がノドにつまった…。\nの、飲み物…！"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_07_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_SAD>\r\nうっ…。\nご飯がノドにつまった…。\nの、飲み物…！"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_08_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_NORMAL>\r\n昔、調味料を作ってる\n職人さんを取材したことがあってね。\n<PAGE>\n同じ食材でも、調味料で\nここまで変化が出るものかと\nビックリしたことがあるよ。\n<PAGE>\nそれ以来、調味料は多少高くても\nいいものを買うようになったなぁ。\n味に差がハッキリ出るからね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_09_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_NORMAL>\r\n独身の時のクセで、\nご飯を食べてると\nどうしても本が読みたくなるんだよね。\n<PAGE>\nや、ヤダなぁ。\n今はそんなことしないよ。\n<MYNAME>に怒られるからね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_00_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_NORMAL>\r\nほら、<CHILD_NAME>。\nよそ見して食べてるとこぼすぞ〜。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_01_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_SAD>\r\nほら、<CHILD_NAME>。\n好き嫌いしないで全部食べないと\nダメだぞ〜。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_02_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_NORMAL>\r\n次は<MYNAME>のご飯が食べたいな。\n<MYNAME>、作ってよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_03_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、ご飯を食べたら\n後片付け手伝ってくれないか？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_04_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_ROUGH>\r\n…<MYNAME>と<CHILD_NAME>は\n食べ方がそっくりだ。\nさすが親子だね〜。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_05_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>と<CHILD_NAME>、\n明日の料理のリクエストはあるかい？\nヒマだったら作ってあげるよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_06_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_NORMAL>\r\nああ、<CHILD_NAME>。\n料理を服にこぼしてるじゃないか。\nほら、これでふくんだ。\n<PAGE>\n<FACE_ROUGH>…それから<MYNAME>、オマエもだ。\n親子そろって世話がやけるねぇ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_07_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_ROUGH>\r\nさあ、<CHILD_NAME>。\nご飯を食べたら、しっかり遊んでおいで〜。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_00_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_NORMAL>\r\nほら、<CHILD_NAME>。\n身体が大きいうちに\nしっかりご飯を食べておけよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_01_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_NORMAL>\r\nそういえば、<CHILD_NAME>。\n大きい時と小さい時で\n味の好みは変わったりするのか？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_02_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_LOSS>\r\n<CHILD_NAME>が大きいと\n違和感があるなぁ。\nあと15年後にはこんな姿になってるのか…。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_03_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、ご飯を食べたら\n後片付け手伝ってくれよ。\nついでに掃除も一緒にするか。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_04_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_ANGRY>\r\nおい、<CHILD_NAME>。\nさっきから手が進んでないが…。\nさては、お菓子をつまみ食いしたな？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_05_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_ROUGH>\r\n<CHILD_NAME>の作ったご飯\nもっと食べたいな〜。\n<CHILD_NAME>、ヨロシクね♪"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_06_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_ROUGH>\r\n次は<MYNAME>のご飯が食べたいな。\n<MYNAME>、作ってよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_07_CHARA_SENGOKU",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_NORMAL>\r\nさあ、<CHILD_NAME>。\nご飯を食べたら、しっかり遊んでこい。\n…まあ、勉強でもいいけど。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_TEKITO_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_SAD>\r\n…<MYNAME>。\nさすがにこのご飯は\n適当すぎると思うのですが…。\n<PAGE>\n忙しい時は無理しないで\nわたしに任せてくださいね。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_BAD_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nあの、<MYNAME>。\nこの料理…。\n<PAGE>\nいえ、何でもないです。\n頑張って食べますよ。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_NORMAL_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n今日の料理は\n盛りつけに目が奪われますね。\n見てるだけで十分美味しいですよ。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_GOOD_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nご飯美味しいですよ、\n<MYNAME>。\nまた作ってくださいね。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_VERYGOOD_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nこのご飯、とても美味しいです。\n…夫のひいき目を差し引いても、\n町一番の料理上手は<MYNAME>ですね。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_BRAVO_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nこのご飯、とても美味しいです。\n母国の王宮で働く料理人にも\nひけをとらない美味しさです。\n<PAGE>\nこんなに美味しい料理を\n食べられるなんて、わたしは幸せ者です。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_READY_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_LEFT><FACE_ROUGH>\r\nそれでは、\nわたしが料理を作りますね。\nできるまで、少しだけ待っててください。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_ITADAKI_00_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nそれでは食べましょうか。\nいただきます。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_ITADAKI_01_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nいただきます。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_GOTI_00_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nごちそうさまでした。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_GOTI_01_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nごちそうさまでした。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_BREAKFAST_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>、今日も朝からお仕事ですか？\n眠いようでしたら、\n仮眠をとってくださいね？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_LUNCH_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>、今夜は一緒に\nご飯を食べられそうですか？\n<PAGE>\n<MYNAME>が帰ってくるのを\n楽しみに待ってますよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_DINNER_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>、もしお疲れでしたら\nマッサージをしますから\n声をかけてくださいね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_00_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n愛しい人とご飯を食べてると\n時間があっという間に\n過ぎてしまいますね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_01_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ANGRY>\r\n好き嫌いはいけませんよ。\n残さず食べてくださいね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_02_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n愛しい人のために\n料理をふるまえるのは幸せですね。\nまだまだ作り足りません。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_03_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n料理は得意ですから、食べたいものは\nどんどんリクエストしてくださね。\n何でも作りますよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_04_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n王宮にいたころは、\nたくさんの下官たちと食堂で\n料理を食べてましたね。\n<PAGE>\n<FACE_SAD>人気メニューが食べられる日は\n食堂全体が戦場のようでした。\n…今思い出しても、ため息が出ます。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_05_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n王宮で働き始めたころは\n仕事が大変だったせいか、\n甘みの強いものばかり食べてた気がします。\n<PAGE>\n…おかげで、甘すぎて食べられないものは\nほとんどないですね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_06_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_SAD>\r\nああ、<MYNAME>。\n指先に食べかすがついてますよ。\n…ほら、とれました。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_07_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_SAD>\r\nああ、<MYNAME>。\n指先に食べかすがついてますよ。\n…ほら、とれました。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_08_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nいつか、おたがいの\n生まれ育った場所に行ってみたいですね。\n<PAGE>\n互いの故郷の味というものを\n一緒に体験してみたいです。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_09_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_LOVE>\r\n調理中はどうも集中しすぎるみたいで、\n周囲の呼びかけに\n気づかないことが多いんです。\n<PAGE>\nそれでシュミット様には\nよく注意を受けますね。\n未だに治らなくて…はずかしいです。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_00_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、\nよそ見して食べてるとこぼしますよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_01_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_SAD>\r\nさあ、<CHILD_NAME>。\n好き嫌いしないで\n全部食べてくださいね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_02_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n次は<MYNAME>のご飯が\n食べたいですね。\n<MYNAME>、作ってくれませんか？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_03_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、ご飯を食べたら\n後片付け手伝ってくれないか？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_04_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n…<MYNAME>と<CHILD_NAME>は\n食べ方がそっくりですね。\nさすが親子です。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_05_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>と<CHILD_NAME>、\n明日の料理のリクエストはありますか？\n希望のものを用意しますよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_06_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nああ、<CHILD_NAME>。\n料理を服にこぼしてますよ。\nほら、これでふいてください。\n<PAGE>\n<FACE_ROUGH>…それから<MYNAME>、あなたもです。\n本当に二人はそっくりですね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_07_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nさあ、<CHILD_NAME>。\nご飯を食べたあとは、\nしっかり遊んでくださいね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_00_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nさあ、<CHILD_NAME>。\n身体が大きいうちに\nしっかりご飯を食べてくださいね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_01_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nそういえば、<CHILD_NAME>は\n大きい時と小さい時で\n味の好みが変わるんですか？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_02_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_LOSS>\r\n<CHILD_NAME>が大きいので、\nとても不思議な気持ちになりますね。\n<PAGE>\nあと15年後には、\n<CHILD_NAME>はこんな姿に\nなってるんですね…。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_03_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、ご飯を食べたら\n後片付けを手伝ってくださいね。\nついでに、掃除も一緒にしましょうか。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_04_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ANGRY>\r\n…<CHILD_NAME>。\nさっきから手が進んでいませんが…。\nお菓子をつまみ食いしましたね？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_05_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n<CHILD_NAME>の作ったご飯を\nもっと食べたいですね。\n身体が大きい時しか作れませんから。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_06_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n次は<MYNAME>のご飯が\n食べたいですね。\n<MYNAME>、作ってくれませんか？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_07_CHARA_SERUKA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nさあ、<CHILD_NAME>。\nご飯のあとは、しっかり遊んでください。\n…勉強でもいいですよ。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_TEKITO_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_SAD>\r\n…<MYNAME>。\nいくら何でも、このメシ\n適当すぎじゃねぇか？\n<PAGE>\nこれならオレが作った方が\nまだマシだったかもな。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_BAD_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_NORMAL>\r\n…このメシ、\nあんまり美味しくねぇな。\nオレのご飯と似たようなものだぜ。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_NORMAL_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_NORMAL>\r\nオレの作ったものに比べたら\n十分美味しいぜ。\nサンキュ。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_GOOD_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_ROUGH>\r\n…やっぱり食べるなら\n<MYNAME>の作ったメシだな。\n美味しいから、おかわりしちまう。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_VERYGOOD_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_ROUGH>\r\nスゲェ美味いぜ、このメシ。\nどうやったらこんなの作れるんだ？\n<PAGE>\n…なっ、愛の力だって？\nは、はずかしいこと言ってんじゃねぇよ！"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_BRAVO_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_ROUGH>\r\nハア…美味いな。\nこんなに美味いメシを食べちまったら\nもう外食なんてしたくねぇよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_READY_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_LEFT><FACE_ROUGH>\r\n…じゃ、できるまで待ってろよ。\nとりあえず頑張ってみるが…\n味は期待すんなよ？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_ITADAKI_00_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_NORMAL>\r\nじゃ、食べようぜ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_ITADAKI_01_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_NORMAL>\r\nいただきます。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_GOTI_00_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_NORMAL>\r\nごちそうさま。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_GOTI_01_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_NORMAL>\r\nごちそうさま。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_BREAKFAST_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>、今日も仕事か？\nあんまり頑張りすぎんなよ。\n…心配になるからな。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_LUNCH_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_NORMAL>\r\nふー、食った食った。\nさて午後からも頑張るか。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_DINNER_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_ROUGH>\r\nあー、今日も一日疲れたな。\n<MYNAME>、今日はもう仕事すんなよ。\n家でゆっくり過ごそうぜ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_00_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_LOVE>\r\n…あんまり見るなよ。\nオレ、食べ方キレイじゃないし。\n何より、はずかしいんだよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_01_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_ANGRY>\r\n<MYNAME>、好き嫌いで\n料理残すんじゃねぇぞ。\n…って、オレも人のこと言えねぇけど。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_02_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_ROUGH>\r\nご飯当番ってネーミング、\n今さらだけどダサイよなぁ…。\nまあ、考えたのはオレだけど。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_03_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_NORMAL>\r\n料理は苦手なんだ…。\n結婚してからはちょっとずつ\n上達してる気はするんだが…。\n<PAGE>\n本当はもっと、美味い料理\n食わせてやりてぇけど、\n…コレが今の精一杯だ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_04_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_NORMAL>\r\n自宅でだれかと料理を\n食べるなんて、ガキのころでも\n少なかったからなぁ。\n<PAGE>\n未だに向き合って食べるのに\n違和感があるけど…\nこういうのって、悪くないもんだな。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_05_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_NORMAL>\r\nうちは、おふくろが\n極度の甘党なんだけど、\nオヤジが味覚オンチでさ…。\n<PAGE>\nご飯に出てくる\nサラダもスープも甘くて、\n…毎日が苦痛だったぜ。\n<PAGE>\nその反動で甘いものは嫌いなんだ。\n辛い食べものは最高だぜ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_06_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_SAD>\r\n…イテッ。\nくちびるかんじまった…………。\n<PAGE>\n<FACE_LOVE>…なんだよ、笑うなよ！\nしょうがねぇだろ！\nかんじまったんだから。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_07_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_SAD>\r\n…イテッ。\nくちびるかんじまった…………。\n<PAGE>\n<FACE_LOVE>…なんだよ、笑うなよ！\nしょうがねぇだろ！\nかんじまったんだから。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_08_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_NORMAL>\r\n町にレストランができる前は、\nインスタントの飯ばっかり\n食ってたな。\n<PAGE>\n…今のオレがそれを食べたりすると\nスゲェ味気なく感じるんだろうな。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_09_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_LOVE>\r\n料理作るのってさ、結構重労働だよな。\n自分で料理を作るようになってから、\nおふくろのこと尊敬するようになったぜ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_00_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、\nよそ見して食べてるとこぼすぞ。\nキョロキョロするな。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_01_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_SAD>\r\nおい、<CHILD_NAME>。\n好き嫌いしないでちゃんと食べろ。\n…オレも頑張るから。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_02_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_NORMAL>\r\n次は<MYNAME>のメシが食いたいな。\n<MYNAME>、作ってくれ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_03_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、メシ食ったら\n後片付け手伝えよ？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_04_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_ROUGH>\r\n…<MYNAME>と<CHILD_NAME>は\n食べ方がそっくりだな。\n親子ってスゲェな。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_05_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>と<CHILD_NAME>、\n料理のリクエストとか、あるか？\nできそうなものなら、作ってやるよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_06_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_NORMAL>\r\nああ、<CHILD_NAME>。\n料理を服にこぼしてるじゃねぇか。\nほら、これでふけよ。\n<PAGE>\n<FACE_ROUGH>…それから<MYNAME>、オマエもだ。\nったく、親子そろってしょうがねぇなぁ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_07_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_ROUGH>\r\n<CHILD_NAME>。\nメシを食べたあとは、\nしっかり遊んで来いよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_00_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_NORMAL>\r\nほら、<CHILD_NAME>。\n身体が大きいうちに\nしっかりメシ食べとけよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_01_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_NORMAL>\r\nそういえば、<CHILD_NAME>は\n大きい時と小さい時で\n味の好みとか変わったりしねぇの？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_02_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_LOSS>\r\n<CHILD_NAME>が大きいって、\n不思議だな…。\n<PAGE>\nあと15年後、<CHILD_NAME>は\nこんな姿になってるのか…。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_03_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、メシ食べたら\n後片付けを手伝ってくれ。\nついでに、掃除も一緒にしようぜ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_04_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_ANGRY>\r\n…<CHILD_NAME>。\nさっきから手が進んでねぇな…。\nもしかして、つまみ食いしただろ？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_05_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_ROUGH>\r\n<CHILD_NAME>の作ったメシ、\nもっと食いたいな…。\n身体が大きい時しか作れねぇし。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_06_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_ROUGH>\r\n次は<MYNAME>のメシが食いたいな。\n<MYNAME>、作ってくれ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_07_CHARA_NEEL",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>。\nご飯のあとは、しっかり遊んどけよ。\n…勉強でもいいけど。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_TEKITO_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_SAD>\r\n…<MYNAME>。\n料理が手抜きに見えるが…\n疲れてるのか？\n<PAGE>\nそういう時は、オレがご飯を作るから\nエンリョせずに言ってくれ。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_BAD_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_NORMAL>\r\n…こんな味つけの料理もあるんだな。\n驚きだよ。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_NORMAL_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>のご飯、美味しいよ。\n作ってくれて、ありがとう。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_GOOD_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_ROUGH>\r\nオレの好みの味付けだな。\nうん…美味しいよ。\n<MYNAME>、また作ってくれ。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_VERYGOOD_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_ROUGH>\r\nご飯、とても美味しいよ。\n料理上手な奥さんをもらって\nオレは幸せ者だな。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_BRAVO_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_ROUGH>\r\nセルカの料理も美味しいが…\n<MYNAME>の作ったご飯には\n敵わないな。\n<PAGE>\nとっても美味しいよ、<MYNAME>。\n作ってくれてありがとう。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_READY_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_LEFT><FACE_ROUGH>\r\nでは、オレが作るまで\nしばらく待っててくれ。\nなるべく待たせないよう、努力するよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_ITADAKI_00_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_NORMAL>\r\nでは、食べようか。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_ITADAKI_01_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_NORMAL>\r\nいただきます。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_GOTI_00_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_NORMAL>\r\nごちそうさま。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_GOTI_01_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_NORMAL>\r\nごちそうさま。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_BREAKFAST_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_NORMAL>\r\nさて、今日も一日頑張ろう。\n<MYNAME>、ケガには気をつけてくれ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_LUNCH_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_NORMAL>\r\n一緒にご飯を食べたことで\nいい気分転換になったな。\nさあ、午後からも頑張ろう。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_DINNER_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_ROUGH>\r\n<MYNAME>、\n今日はまだ仕事が残ってるのか？\n<PAGE>\nできるだけ早く帰ってきてくれ。\nオレも<MYNAME>との\n時間が欲しいからな。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_00_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_LOVE>\r\n女性と二人だけで\nご飯を食べる経験がほとんどないから\n未だに緊張するよ。\n<PAGE>\n<MYNAME>だから、余計にね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_01_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_NORMAL>\r\nせっかく当番で作るんだ。\n苦手な料理があったとしても、\nおたがい残さないよう、努力しよう。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_02_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_ROUGH>\r\n料理の支度は、なかなか面白いな。\n調理器具の使い方には\n日々苦戦してるけど、楽しいよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_03_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_NORMAL>\r\n今まで自分で料理を作った経験が\nあまり無いからな。\n…たまに失敗すると思う、すまない。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_04_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_NORMAL>\r\n母国にいたころは\n王宮にいる王族みんなで\nご飯を食べていたんだ。\n<PAGE>\nでも、どこか緊張感が漂っていて、\nこんな風に心休まる時間ではなかったな。\n今となってはいい思い出だが…。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_05_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_NORMAL>\r\n小さいころから\n何でも食べろとしつけられていて\nあまり好き嫌いは無かったな。\n<PAGE>\nむしろ、大人になった今の方が\n好き嫌いが多いかもしれないな。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_06_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_ROUGH>\r\nああ、<MYNAME>。\n食べかすがついてるぞ。\n<PAGE>\nとってあげるから、\nほら、顔をこっちに…。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_07_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_ROUGH>\r\nああ、<MYNAME>。\n食べかすがついてるぞ。\n<PAGE>\nとってあげるから、\nほら、顔をこっちに…。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_08_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_NORMAL>\r\n…実は結婚が決まってから\nセルカに料理の作り方を\n教わったんだ。\n<PAGE>\n料理のことになると、\nセルカは手厳しいな。\nとてもスパルタで大変だったよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_09_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_LOVE>\r\n<MYNAME>の牧場でとれた\n食材を使うと、自分の技術でも\n十分食べられる料理が作れるな。\n<PAGE>\nそれだけ食材の質がいいんだろう。\n<MYNAME>は、とても素晴らしい\n牧場主だと思うよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_00_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、\nよそ見して食べてるとこぼすぞ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_01_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_SAD>\r\n<CHILD_NAME>。\n好き嫌いはよくない。\n残さず食べるんだぞ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_02_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_NORMAL>\r\n次は<MYNAME>のご飯が食べたいな。\n<MYNAME>、作ってくれないか？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_03_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、ご飯を食べたら\n後片付けを手伝ってくれないか？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_04_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_ROUGH>\r\n…<MYNAME>と<CHILD_NAME>は\n食べ方がそっくりだ。\nさすがは親子だな。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_05_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>と<CHILD_NAME>、\n料理のリクエストはあるか？\nできそうなものなら、作ってみるよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_06_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_NORMAL>\r\nああ、<CHILD_NAME>。\n料理を服にこぼしてるぞ。\nほら、これでふくといい。\n<PAGE>\n<FACE_ROUGH>…それから<MYNAME>、キミもだ。\n二人を見てると、和むよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_07_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_ROUGH>\r\n<CHILD_NAME>。\nご飯を食べたあとは、\nしっかり遊んで来るといい。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_00_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_NORMAL>\r\nほら、<CHILD_NAME>。\n身体が大きいうちに\nしっかりご飯を食べておくんだ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_01_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_NORMAL>\r\nそういえば、<CHILD_NAME>は\n大きい時と小さい時で\n味の好みが変わったりするのだろうか？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_02_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_LOSS>\r\n<CHILD_NAME>が大きいって、\n不思議なものだな…。\n<PAGE>\nあと15年後、<CHILD_NAME>は\nこんな姿になってるということか…。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_03_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、ご飯を食べたら\n後片付けを手伝ってくれ。\nついでに、掃除も一緒にしようか。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_04_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_ANGRY>\r\n…<CHILD_NAME>。\nさっきから手が進んでないが…。\nつまみ食いでもしたのか？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_05_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_ROUGH>\r\n<CHILD_NAME>の作ったご飯を\nもっと食べたいな。\n身体が大きい時しか作れないから。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_06_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_ROUGH>\r\n次は<MYNAME>のご飯が食べたいな。\n<MYNAME>、作ってくれないか？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_07_CHARA_SYUMITTO",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>。\nご飯のあとは、しっかり遊ぶんだぞ。\n…勉強でも構わないが。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_TEKITO_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_SAD>\r\n…<MYNAME>。\n正直言って、このご飯\n手抜き過ぎじゃない？\n<PAGE>\nもし疲れてるなら\nわたしがいつでも代わるんだから\nエンリョしないでね。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_BAD_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_LOSS>\r\nうぅーん…。\nあたし、調子が悪いのかも。\nご飯の味がヘンに感じるわ。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_NORMAL_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>のご飯、美味しいよー。\n作ってくれて、ありがとう。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_GOOD_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_ROUGH>\r\nうーん、美味しい♪\nこんなに美味しいご飯があれば\n毎日幸せよね。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_VERYGOOD_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_ROUGH>\r\nご飯、すっごく美味しい！！\n<MYNAME>ってば\nこれどうやって作ったの？\n<PAGE>\nあたしも、割りと料理のウデには\n自信があると思ってたけど\nこの美味しさには、敵わないよ。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_BRAVO_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_ROUGH>\r\nうーん、美味しーい！\nほっぺた落ちちゃうよ〜♪\n<PAGE>\n<MYNAME>と結婚して、\n本当によかった！！"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_READY_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_LEFT><FACE_ROUGH>\r\nそれじゃ、ご飯ができるまで\nちょっとだけ待っててね！\nすぐ作るからね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_ITADAKI_00_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_NORMAL>\r\nじゃ、食べよっか！\nいただきます♪"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_ITADAKI_01_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_NORMAL>\r\nいただきまーす。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_GOTI_00_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_NORMAL>\r\nごちそうさまー。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_GOTI_01_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_NORMAL>\r\nごちそうさまー。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_BREAKFAST_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_NORMAL>\r\nよーし、それじゃ\n今日もはりきって行こうね！\n<MYNAME>、お仕事頑張ってね！"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_LUNCH_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_NORMAL>\r\nそれじゃ、<MYNAME>。\nこのあともお仕事頑張ってね♪"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_DINNER_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_ROUGH>\r\n<MYNAME>は、もう仕事終わった？\nたまには早めに切り上げて\nあたしに構ってね♪"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_00_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_LOVE>\r\n<MYNAME>の食べてるとこって\nなんかカワイイんだよね〜。\n母性をくすぐられるというか…。\n<PAGE>\n<MYNAME>、美味しい？\nたくさん食べてね♪"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_01_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_ANGRY>\r\n好き嫌いせずに、全部食べてね。\nもし残したら…お仕置きだよ？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_02_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_NORMAL>\r\nおたがい仕事してるから\n家事を分担できるって助かるな。\n<PAGE>\nと言っても、<MYNAME>の仕事の方が\n大変なのはわかってるから、\n助けがほしい時はいつでも言ってね！"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_03_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_ROUGH>\r\n料理は得意だから、ご飯を作るのは\nバンバンあたしに頼んでね！\n美味しいもの作ってあげるよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_04_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_NORMAL>\r\nうちは家族が多かったから\nご飯の時間は、\nいつもにぎやかだったよ。\n<PAGE>\n食べものの取り合いも激しくてさ。\nよく弟や妹を怒鳴ってたな〜。\n…みんな元気にやってるかな？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_05_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_NORMAL>\r\n小さいころは\nお菓子よりも、ハンバーグとか\nご飯のおかずが好きだったんだよね〜。\n<PAGE>\nでも年ごろになると、\n甘いものの美味しさに目覚めちゃって…。\n今じゃ毎日お菓子が必要になって大変だよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_06_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_LOSS>\r\nおっと…。\n危ない、危ない。\n料理をこぼすとこだったよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_07_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_LOSS>\r\nおっと…。\n危ない、危ない。\n料理をこぼすとこだったよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_08_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_NORMAL>\r\n料理って、思いもよらない組み合わせで\nすっごく美味しい味に\nなったりするじゃない？\n<PAGE>\nそういう組み合わせの研究するのって、\n面白いよね。\n化学者の気持ちが何となくわかるかも。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_09_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_LOVE>\r\n…あたし、料理が作れてよかったな〜。\nだってさ、人が笑うのって\n食べてる時が多いじゃない？\n<PAGE>\nあたしが料理を作ることで\n<MYNAME>を笑顔にできるんだもん。\nそれがすっごくうれしいんだ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_00_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_NORMAL>\r\nこらこら、<CHILD_NAME>\nよそ見して食べてると、こぼしちゃうよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_01_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_ANGRY>\r\n<CHILD_NAME>、\n好き嫌いはよくないよ。\n残さず食べなきゃダメだよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_02_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_NORMAL>\r\n次は<MYNAME>のご飯が食べたいな♪\n<MYNAME>、作ってくれない？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_03_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、ご飯を食べたら\n後片付けを手伝ってくれない？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_04_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_ROUGH>\r\n…<MYNAME>と<CHILD_NAME>って\n食べ方がそっくりだよねー。\nさすがは親子だね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_05_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>と<CHILD_NAME>、\n料理のリクエストとかある？\n何かあるなら、今度作ってあげるよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_06_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_NORMAL>\r\nああ、<CHILD_NAME>。\n料理を服にこぼしてるじゃない。\nほら、これでふいて。\n<PAGE>\n<FACE_ROUGH>…それから<MYNAME>、あんたもよ。\n<CHILD_NAME>は間違いなく、\n<MYNAME>似だね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_07_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_ROUGH>\r\n<CHILD_NAME>、ご飯を食べたあとは\nしっかり遊んでおいで〜。\n遊ぶのが<CHILD_NAME>の仕事よ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_00_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_NORMAL>\r\nほら、<CHILD_NAME>。\n身体が大きいうちに\nしっかりご飯を食べておきなさい。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_01_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_LOSS>\r\nそういえば、<CHILD_NAME>は\n大きい時と小さい時で\n味の好みが変わったりするの？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_02_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_ROUGH>\r\n<CHILD_NAME>が大きいって、\nすっごく不思議だよね！\n楽しいから別にいいけど。\n<PAGE>\nあと15年後、<CHILD_NAME>は\nこんな姿になってるのかー。\n…楽しみだね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_03_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、ご飯を食べたら\n後片付けを手伝ってね。\nついでに、掃除も一緒にしよっか。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_04_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_ANGRY>\r\n…<CHILD_NAME>。\nさっきから手が進んでないじゃない…。\nさては、つまみ食いしたな〜？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_05_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_ROUGH>\r\n<CHILD_NAME>の作ったご飯、\nもっと食べたいな。\n身体が大きい時しか作れないし。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_06_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_ROUGH>\r\n次は<MYNAME>のご飯が食べたいな♪\n<MYNAME>、作ってくれない？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_07_CHARA_TINA",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>。\nご飯のあとは、しっかり遊ぶのよ。\n…勉強でも構わないけど。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_TEKITO_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_ANGRY>\r\n…<MYNAME>。\n正直言って、このご飯\n手抜き過ぎじゃない？\n<PAGE>\n…まったく、これなら\nわたしが作った方がよかったわ。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_BAD_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_ANGRY>\r\n…ちょっと、何このご飯。\nハッキリ言って、美味しくないわ。\n次はもうちょっと頑張ってよね。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_NORMAL_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_NORMAL>\r\nえ、ご飯美味しいかって？\nそうねぇ…。\n<PAGE>\n<FACE_LOSS>…可もなく、不可もなくってカンジよ。\n次はもっと美味しいの作ってね。\n期待してるわよ。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_GOOD_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_ROUGH>\r\nご飯、美味しいわ。\nもっと食べたいから、\n明日のご飯は全部任せるわ。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_VERYGOOD_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_ROUGH>\r\nご飯、すっごく美味しい！！\n<MYNAME>ってば、やるじゃない！\n<PAGE>\n<FACE_LOSS>まったく、こんなに美味しいのが\n作れるなら、もっと早く言いなさいよ。\n今日から毎日作ってね。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_BRAVO_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_ROUGH>\r\nフフ…このご飯\nとっても美味しいじゃない。\n大満足よ。\n<PAGE>\n<FACE_LOVE>美味しかったから、\n代わりにあたしが後片付けしてあげる。\n…感謝しないさいよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_READY_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_LEFT><FACE_LOSS>\r\nそれじゃ、ご飯を作ろうかしら。\nわたしの手料理が食べたいなんて…。\nこの貸しは高いわよ？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_ITADAKI_00_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_NORMAL>\r\nそれじゃ、いただきます。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_ITADAKI_01_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_NORMAL>\r\nいただきます。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_GOTI_00_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_NORMAL>\r\nごちそうさま。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_GOTI_01_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_NORMAL>\r\nごちそうさま。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_BREAKFAST_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_LOSS>\r\n今日も頑張って働いてきてね？\n…期待してるわ♪"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_LUNCH_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_NORMAL>\r\n仕事の調子はどう？\nわたしのためにも、しっかり働いてきてね♪"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_DINNER_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_NORMAL>\r\n今日もお疲れ様でした♪\nこのあとは、わたしを労る時間よ。\n<PAGE>\nせっかくだから、\nマッサージでもしてもらおうかしら。\nよろしくね♪"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_00_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_NORMAL>\r\nだれかとご飯を食べてるのに、\nネコかぶらなくていいって、とっても楽ね。\nフフ…楽しいわ♪"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_01_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_ANGRY>\r\n嫌いなものは食べないわよ。\n<MYNAME>に全部あげるから、\n頑張って食べてちょうだいね♪"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_02_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_SAD>\r\n料理って疲れるから\nあんまりやりたくないのよねー。\n肉体労働は向いてないのよ。\n<PAGE>\n<MYNAME>は牧場主で\nムダに体力があるんだから\nたくさんご飯当番してよね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_03_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_LOSS>\r\nわたし、手先は器用だから、\n料理も得意よ。\n…手間がかかるから作らないだけで。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_04_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_NORMAL>\r\n小さいころは、弟とよく\n食べものの取り合いをしてたわね。\n懐かしいわー。\n<PAGE>\n今は音信不通だけど、\nあの子、元気にやってるかしら？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_05_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_NORMAL>\r\n小さいころから\n甘いものが好きだったの。\n<PAGE>\n道行く大人の人にマジックを見せては、\n見物料としてお菓子をもらってたわ。\nあのころは純真だったわね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_06_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_LOSS>\r\nヤダ、<MYNAME>。\n口元に食べかすがついてるわ。\nしっかりふいておきなさい。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_07_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_LOSS>\r\nヤダ、<MYNAME>。\n口元に食べかすがついてるわ。\nしっかりふいておきなさい。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_08_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_NORMAL>\r\nサーカスにいたころは\nいろんな地方を回っていたから、\nめずらしい料理もたくさん食べたわ。\n<PAGE>\nでも、そういうのに限って、\nヘンな食材ばっかり使ってて…。\n今思い出してもゲンナリするわ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_09_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_ROUGH>\r\n見られる仕事だから、\n食べ過ぎには注意してるの。\nだから、<MYNAME>も協力してよね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_00_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_NORMAL>\r\nほら、<CHILD_NAME>\nよそ見して食べてると、こぼすわよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_01_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_ANGRY>\r\n<CHILD_NAME>、好き嫌いはダメよ。\n残さず食べなさい。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_02_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_NORMAL>\r\n次は<MYNAME>のご飯が食べたいわ♪\n<MYNAME>、作ってよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_03_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、ご飯を食べたら\n後片付けを手伝ってくれない？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_04_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_ROUGH>\r\n…<MYNAME>と<CHILD_NAME>って\n食べ方がそっくりね。\nさすがは親子だわ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_05_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_NORMAL>\r\nねえ、二人とも\n料理のリクエストとかある？\n気が向いたら、作ってあげるわ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_06_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_NORMAL>\r\nああ、<CHILD_NAME>。\n料理を服にこぼしてるじゃない。\nほら、これでふきなさい。\n<PAGE>\n<FACE_LOSS>…それから<MYNAME>、あなたもね。\nまったく、ヘンなところが\n似ちゃったわね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_07_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_ROUGH>\r\n<CHILD_NAME>、ご飯を食べたら\nしっかり遊んで来るのよ。\n遊ぶのが、<CHILD_NAME>の仕事よ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_00_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_NORMAL>\r\nほら、<CHILD_NAME>。\n身体が大きいんだから\nしっかりご飯を食べておきなさい。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_01_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_ANGRY>\r\nそういえば、<CHILD_NAME>って\n大きい時と小さい時で\n味の好みが変わったりするのかしら？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_02_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_ROUGH>\r\n<CHILD_NAME>が大きいって、\n不思議な気分だわ。\n<PAGE>\nあと15年後、<CHILD_NAME>は\nこんな姿になってるのね。\n…楽しみだわ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_03_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、ご飯を食べたら\n後片付けを手伝ってね。\nついでに、掃除も一緒にするわよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_04_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_ANGRY>\r\n…<CHILD_NAME>。\nさっきから手が進んでないわよ。\nもしかして、つまみ食いしたのかしら？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_05_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_ROUGH>\r\n<CHILD_NAME>の作ったご飯を\nもっと食べたいわ。\n身体が大きい時しか作れないし。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_06_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_ROUGH>\r\n次は<MYNAME>のご飯が食べたいわ♪\n<MYNAME>、作ってよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_07_CHARA_MICHEL",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>。\nご飯のあとは、しっかり遊ぶのよ。\n…勉強でも構わないわよ。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_TEKITO_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_ANGRY>\r\n<MYNAME>。\nご飯、手抜きすぎる…。\n……わたしが作ればよかった。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_BAD_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_SAD>\r\n………いつも食べてるのと、\n味が違う気がする。\n調味料、入れ間違えた…？"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_NORMAL_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_NORMAL>\r\n…うん、美味しいよ。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_GOOD_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_ROUGH>\r\nご飯、美味しい…。\n<MYNAME>は何でもできて\nうらやましい……………。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_VERYGOOD_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_ROUGH>\r\nとっても美味しい…。\n<PAGE>\n<MYNAME>、おかわりしてもいい？\n………もっと食べたい。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_BRAVO_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_ROUGH>\r\nご飯、とても美味しい………。\nこんなに美味しいなんて、\nビックリした。\n<PAGE>\nお母さんの料理も美味しいけど、\n<MYNAME>の作った料理の方が\n美味しいかも…。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_READY_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_LEFT><FACE_LOSS>\r\n…ご飯、作るね。\n少し時間がかかると思う…。\n待ってて。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_ITADAKI_00_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_NORMAL>\r\nじゃ、いただきます。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_ITADAKI_01_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_NORMAL>\r\nいただきます。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_GOTI_00_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_NORMAL>\r\nごちそうさま。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_GOTI_01_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_NORMAL>\r\nごちそうさま。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_BREAKFAST_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_LOSS>\r\n<MYNAME>、今日も頑張って…。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_LUNCH_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_SAD>\r\nお昼だから…少し眠い。\n<MYNAME>も、\n眠気に負けないで。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_DINNER_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_NORMAL>\r\n…このあと、何をしようかな？\nもし、仕事が終わってるなら\n一緒にお話しよう。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_00_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_LOVE>\r\n…二人で食べるのって、いいね。\nなんだか新鮮。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_01_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_ANGRY>\r\n……好き嫌い、良くない。\n残さず食べて。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_02_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_NORMAL>\r\nご飯を作るのって、大変だね…。\nお母さんに、感謝しなきゃ…………。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_03_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_NORMAL>\r\n………結婚する前に、\nお母さんに、料理習ったけど、\nまだまだ上手くできない………。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_04_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_NORMAL>\r\n………お母さんとご飯を食べてると、\nお母さん、ずっとしゃべってる。\n<PAGE>\n………<MYNAME>とのご飯は\nゆっくりできて、いいね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_05_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_NORMAL>\r\n………お母さん、りんご好きだから\nよく、りんごのデザートが出てきた…。\n<PAGE>\nお母さんのりんごのデザート、\nとっても美味しい。\n…今度、作ってあげるね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_06_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_SAD>\r\nイタ…。\n舌、かんじゃった…。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_07_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_SAD>\r\nイタ…。\n舌、かんじゃった…。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_08_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_NORMAL>\r\nわたし、料理作るより、\n盛り付けの方が得意…。\nキレイに飾るの、楽しい…。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_09_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_ROUGH>\r\n見られる仕事だから、\n食べ過ぎには注意してるの。\nだから、<MYNAME>も協力してよね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_00_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_NORMAL>\r\nほら、<CHILD_NAME>\nよそ見して食べてると、こぼす…。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_01_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_ANGRY>\r\n<CHILD_NAME>、好き嫌いはダメ…。\n残さず食べて…。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_02_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_NORMAL>\r\n次は<MYNAME>のご飯が食べたいな…。\n<CHILD_NAME>も、そう思うよね…？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_03_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、ご飯を食べたら\n後片付け、手伝って………。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_04_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_ROUGH>\r\n…<MYNAME>と<CHILD_NAME>って\n食べ方がそっくり………。\nさすがは親子……。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_05_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_NORMAL>\r\n…………二人とも\n料理のリクエストとか、ある？\n………作れそうなら、作る。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_06_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_NORMAL>\r\n…………<CHILD_NAME>。\n料理を服にこぼしてる…………。\nほら、これでふいて…………。\n<PAGE>\n<FACE_LOSS>…それから<MYNAME>、あなたも。\n………似たもの親子。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_07_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_ROUGH>\r\n<CHILD_NAME>、ご飯を食べたら\nしっかり遊んで………。\n遊ぶのが、<CHILD_NAME>の仕事…。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_00_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_NORMAL>\r\n………<CHILD_NAME>。\n身体が大きいから、\nしっかりご飯を食べて………。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_01_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_LOSS>\r\n…そういえば、<CHILD_NAME>って\n大きい時と小さい時で\n味の好みが変わったりする………？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_02_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_ROUGH>\r\nあと15年後、<CHILD_NAME>は\nこんな姿になってる…………。\n不思議な気分………。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_03_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、ご飯を食べたら\n後片付けを手伝って………。\nついでに、掃除も一緒に………。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_04_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_ANGRY>\r\n…<CHILD_NAME>。\nさっきから手が進んでない………。\nもしかして、つまみ食いした…？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_05_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_ROUGH>\r\n……<CHILD_NAME>の作ったご飯、\nもっと食べたい。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_06_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_ROUGH>\r\n次は<MYNAME>のご飯が食べたいな…。\n<CHILD_NAME>も、そう思うよね…？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_07_CHARA_YURI",
+      "Text": "<FACE_YURI><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>。\nご飯のあとは、しっかり遊んで。\n…………勉強でも構わない。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_TEKITO_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_SAD>\r\n…<MYNAME>。\nさすがにこのご飯は\n適当すぎると思うのですが…。\n<PAGE>\n忙しい時は無理しないで\nわたしに任せてくださいね。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_BAD_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_NORMAL>\r\nあの、<MYNAME>。\nこの料理…。\n<PAGE>\nいえ、何でもないです。\n頑張って食べますよ。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_NORMAL_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_NORMAL>\r\n今日の料理は\n盛りつけに目が奪われますね。\n見てるだけで十分美味しいですよ。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_GOOD_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_ROUGH>\r\nご飯美味しいですよ、\n<MYNAME>。\nまた作ってくださいね。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_VERYGOOD_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_ROUGH>\r\nこのご飯、とても美味しいです。\n…妻のひいき目を差し引いても、\n町一番の料理上手は<MYNAME>ですね。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_BRAVO_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_ROUGH>\r\nこのご飯、とても美味しいです。\nこんなに美味しい料理を\n食べられるなんて、わたしは幸せ者です。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_READY_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_LEFT><FACE_ROUGH>\r\nそれでは、\nわたしが料理を作りますね。\nできるまで、少しだけ待っててください。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_ITADAKI_00_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_NORMAL>\r\nそれでは食べましょうか。\nいただきます。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_ITADAKI_01_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_NORMAL>\r\nいただきます。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_GOTI_00_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_NORMAL>\r\nごちそうさまでした。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_GOTI_01_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_NORMAL>\r\nごちそうさまでした。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_BREAKFAST_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>、今日も朝からお仕事ですか？\n眠いようでしたら、\n仮眠をとってくださいね？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_LUNCH_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>、今夜は一緒に\nご飯を食べられそうですか？\n<PAGE>\n<MYNAME>が帰ってくるのを\n楽しみに待ってますよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_DINNER_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>、もしお疲れでしたら\nマッサージをしますから\n声をかけてくださいね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_00_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_ROUGH>\r\n愛しい人とご飯を食べてると\n時間があっという間に\n過ぎてしまいますね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_01_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_ANGRY>\r\n好き嫌いはいけませんよ。\n残さず食べてくださいね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_02_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_ROUGH>\r\n愛しい人のために\n料理をふるまえるのは幸せですね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_03_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_SAD>\r\n料理は実家にいたころは\n少しやっていましたが…。\n<PAGE>\nもっときちんと\n習っておけばよかったと、\n今反省してます。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_04_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_NORMAL>\r\n実家にいたころは、\n必ず家族と食事をとっていました。\n<PAGE>\n家を出る直前は、\nそれが苦痛で仕方ありませんでしたが…。\n今となっては、懐かしいです。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_05_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_LOSS>\r\n小さいころは、\n食べものの好き嫌いが多かったんです。\n<PAGE>\nですが、家を出て、\n各地で修行めぐりをするうちに、\n嫌いなものも食べれるようになりました。\n<PAGE>\n<FACE_ROUGH>各地を旅したことは、\n鍛冶師としての修行だけでなく、\n食に対する修行にもなりましたね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_06_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_ROUGH>\r\nああ、<MYNAME>。\n指先に食べかすがついてますよ。\n…ほら、とれました。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_07_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_ROUGH>\r\nああ、<MYNAME>。\n指先に食べかすがついてますよ。\n…ほら、とれました。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_08_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_NORMAL>\r\nいつか、おたがいの\n生まれ育った場所に行ってみたいですね。\n<PAGE>\nわたしの故郷はめずらしくて美味しい\n料理が多いですから、\n<MYNAME>に食べさせてあげたいです。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_09_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_SAD>\r\n調理中はどうも集中しすぎるみたいで、\n周囲の呼びかけに\n気づかないことが多いんです。\n<PAGE>\n集中力がいいのは長所ですが、\n火や油、刃物を使うので\nもう少し注意しなくては…。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_00_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、\nよそ見して食べてるとこぼしますよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_01_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_SAD>\r\nさあ、<CHILD_NAME>。\n好き嫌いしないで\n全部食べてくださいね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_02_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_NORMAL>\r\n次は<MYNAME>のご飯が\n食べたいですね。\n<MYNAME>、作ってくれませんか？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_03_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、ご飯を食べたら\n後片付け手伝ってくれないか？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_04_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_ROUGH>\r\n…<MYNAME>と<CHILD_NAME>は\n食べ方がそっくりですね。\nさすが親子です。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_05_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>と<CHILD_NAME>、\n明日の料理のリクエストはありますか？\n頑張って用意してみます。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_06_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_NORMAL>\r\nああ、<CHILD_NAME>。\n料理を服にこぼしてますよ。\nほら、これでふいてください。\n<PAGE>\n<FACE_ROUGH>…それから<MYNAME>、あなたもです。\n本当に二人はそっくりですね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_07_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_ROUGH>\r\nさあ、<CHILD_NAME>。\nご飯を食べたあとは、\nしっかり遊んでくださいね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_00_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_NORMAL>\r\nさあ、<CHILD_NAME>。\n身体が大きいうちに\nしっかりご飯を食べてくださいね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_01_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_NORMAL>\r\nそういえば、<CHILD_NAME>は\n大きい時と小さい時で\n味の好みが変わるんですか？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_02_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_LOSS>\r\n<CHILD_NAME>が大きいので、\nとても不思議な気持ちになりますね。\n<PAGE>\nあと15年後には、\n<CHILD_NAME>はこんな姿に\nなってるんですね…。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_03_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、ご飯を食べたら\n後片付けを手伝ってくださいね。\nついでに、掃除も一緒にしましょうか。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_04_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_ANGRY>\r\n…<CHILD_NAME>。\nさっきから手が進んでいませんが…。\nお菓子をつまみ食いしましたね？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_05_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_ROUGH>\r\n<CHILD_NAME>の作ったご飯を\nもっと食べたいですね。\n身体が大きい時しか作れませんから。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_06_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_ROUGH>\r\n次は<MYNAME>のご飯が\n食べたいですね。\n<MYNAME>、作ってくれませんか？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_07_CHARA_IROHA",
+      "Text": "<FACE_IROHA><POS_RIGHT><FACE_NORMAL>\r\nさあ、<CHILD_NAME>。\nご飯のあとは、しっかり遊んでください。\n…勉強でもいいですよ。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_TEKITO_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_SAD>\r\n今日はコレだけですか…。\n<MYNAME>のご飯\n楽しみにしてたんですけど、残念です。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_BAD_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_LOSS>\r\n…あ、あの。\nこの料理、見た目はとてもキレイですよ。\n味は…また今度リベンジしてください。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_NORMAL_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_NORMAL>\r\n美味しいですよ、このご飯。\n作ってくれてありがとうございます。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_GOOD_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_ROUGH>\r\n美味しいです<RED>∀</RED>\n愛するダンナ様の手料理が食べられて\n幸せです。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_VERYGOOD_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_ROUGH>\r\nフフフ…。\nこんなに幸せな気持ちになれる料理が\n食べられるなんて…。\n<PAGE>\n使ってる食材がとっても\n素晴らしいんでしょうね♪\nさすがは<MYNAME>です<RED>∀</RED>"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_BRAVO_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_ANGRY>\r\n…こ、これは！\n<PAGE>\n<FACE_LOVE>美味しいです、とっても！\nカモンベールさんの作った料理にも\nひけをとらないと思います。\n<PAGE>\n<MYNAME>はスゴイです。\nわたしもこんなに美味しい料理を\n作ってみたいです。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_READY_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_LEFT><FACE_ROUGH>\r\nお待たせしました、<MYNAME>。\nすぐに作るから、\n待っててくださいね♪"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_ITADAKI_00_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_NORMAL>\r\nそれでは、食べましょうか。\nいただきます♪"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_ITADAKI_01_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_NORMAL>\r\nいただきます♪"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_GOTI_00_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_NORMAL>\r\nごちそうさまでした♪"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_GOTI_01_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_NORMAL>\r\nごちそうさまでした♪"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_BREAKFAST_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_NORMAL>\r\n今日もお仕事ですか？\nたまにはわたしとも遊んでくださいね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_LUNCH_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_NORMAL>\r\nお昼ご飯を食べて、元気復活です。\n午後からも頑張りましょう♪"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_DINNER_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_NORMAL>\r\nさあ、<MYNAME>。\nもう夜ですから、早めに仕事を\n終わらせてくださいね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_00_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_ROUGH>\r\n二人でご飯を食べると、\nいつものご飯がより美味しく\n感じられますね♪"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_01_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_NORMAL>\r\n好き嫌いはダメですよ。\nきちんと残さず食べてくださいね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_02_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_SAD>\r\nご飯のメニューを考えるのは\nとても楽しいですけど、\n実際に作ってる時は大変ですね…。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_03_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_ROUGH>\r\n結婚してから、カモンベールさんに\n料理を教えてもらってるんです。\n<PAGE>\nせっかくなら、<MYNAME>に\n美味しいものを食べて欲しいので…。\n<PAGE>\nこれでも昔に比べて、\nとても上達したんですよ。\n…これからも頑張りますね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_04_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_ROUGH>\r\nホッサン亭に住んでたころは\nたまにみんなで集まって\nご飯を食べてました。\n<PAGE>\nナルクくんの料理は、\nとっても美味しいんですよ。\nまだ小さいのに、スゴイです。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_05_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_NORMAL>\r\n実は昔、辛いものが苦手だったんです。\n舌がピリピリして、\n全く食べられませんでした。\n<PAGE>\n今は辛いものも平気ですよ。\n辛いものって、辛さの中にある\nうま味がクセになりますよね♪"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_06_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_SAD>\r\nイタッ…！\n舌、かんじゃいました…。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_07_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_SAD>\r\nイタッ…！\n舌、かんじゃいました…。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_08_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_NORMAL>\r\n健康な身体は、日々の食生活が作ります。\n栄養素をバランスよく取り入れないと\n病気にかかりやすくなりますよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_09_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_NORMAL>\r\nこの町は四季があっていいですね。\n季節ごとに様々な食材が食べられるので\nとてもうれしいです♪"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_00_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_NORMAL>\r\nほら、<CHILD_NAME>。\nよそ見して食べてるとこぼしますよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_01_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_SAD>\r\nほら、<CHILD_NAME>。\n好き嫌いしないで全部食べないと\nダメですよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_02_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_NORMAL>\r\n次は<MYNAME>のご飯が\n食べたいです♪\n<MYNAME>、作ってくれませんか？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_03_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、ご飯を食べたら\n後片付けを手伝ってくださいね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_04_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_ROUGH>\r\n…<MYNAME>と<CHILD_NAME>は\n食べ方がそっくりですね。\nさすが親子です。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_05_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>と<CHILD_NAME>、\n作って欲しい料理のリクエストは\nありますか？\n<PAGE>\nもし、わたしに作れそうなら、\nチャレンジしてみますよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_06_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_NORMAL>\r\nああ、<CHILD_NAME>。\n料理を服にこぼしてます。\nほら、これでふいてください。\n<PAGE>\n<FACE_ROUGH>…それから<MYNAME>、あなたもです。\n親子そろって、カワイイです。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_07_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_ROUGH>\r\nさあ、<CHILD_NAME>。\nご飯を食べたら、\nしっかり遊んでくださいね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_00_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_NORMAL>\r\nさあ、<CHILD_NAME>。\n身体が大きいんですから\nしっかりご飯を食べてくださいね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_01_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_NORMAL>\r\nそういえば、<CHILD_NAME>は\n大きい時と小さい時で\n味の好みは変わるんですか？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_02_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_LOSS>\r\nあと15年後、<CHILD_NAME>は\nこんなふうに成長してるんですね。\n不思議な気持ちです。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_03_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、ご飯を食べたら\n後片付け手伝ってくださいね。\nついでに掃除も一緒にしましょうか。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_04_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_ANGRY>\r\n<CHILD_NAME>。\nさっきから手が進んでませんね…。\nもしかして、つまみ食いしたんですか？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_05_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_ROUGH>\r\n<CHILD_NAME>のご飯が\nもっと食べたいですね。\n<CHILD_NAME>、お願いします。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_06_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_ROUGH>\r\n次は<MYNAME>のご飯が\n食べたいです♪\n<MYNAME>、作ってくれませんか？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_07_CHARA_FELICIA",
+      "Text": "<FACE_FELICIA><POS_RIGHT><FACE_NORMAL>\r\nさあ、<CHILD_NAME>。\nご飯を食べたあとは、運動しましょうね。\n…別に勉強でも構いませんが。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_TEKITO_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_ANGRY>\r\n…ねえ、<MYNAME>。\nもしかしなくても、\n今回のご飯、適当に作ったでしょ？\n<PAGE>\nそんなことするくらいなら\n初めから作らないでちょうだい。\n別々に食べた方がよかったわ。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_BAD_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_LOSS>\r\n…美味しくないわね。\nもっと頑張って作ってちょうだい。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_NORMAL_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nわりと普通の味ね…。\n<MYNAME>ちゃんなら、\nもっと美味しいものが作れるはずよ。\n<PAGE>\n頑張ってわたしを喜ばせてちょうだい。"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_GOOD_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_ROUGH>\r\nあら、このご飯\nなかなかイケるじゃない。\n合格よ♪"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_VERYGOOD_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_ROUGH>\r\n美味しいわね、このご飯。\n<MYNAME>ちゃん、おかわりよ！\n器にたくさん入れてちょうだい♪"
+    },
+    {
+      "VardId": "MES_PLAYER_COOK_MEALDEMO_BRAVO_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_LOVE>\r\nこのご飯、パーフェクトよ！\nわたしを満足させる料理を作るなんて、\n<MYNAME>ちゃんてば、やるわね♪"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_READY_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_LEFT><FACE_ROUGH>\r\nああ、<MYNAME>。\n今から魔法でチョチョイと作るわ。\nすぐにできるから、待っててね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_ITADAKI_00_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nそれじゃ、食べましょうか。\nいただきます。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_ITADAKI_01_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nいただきます。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_GOTI_00_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nごちそうさま。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_GOTI_01_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nごちそうさま。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_BREAKFAST_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\n朝から仕事なんて、大変ね。\n頑張るのよ、<MYNAME>ちゃん。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_LUNCH_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nさてと、\nこれから何をしようかしら。\nやりたいことがあり過ぎて迷うわ…。\n<PAGE>\n<MYNAME>ちゃんも、\nちゃんと計画を立てて\n一日を過ごさなきゃダメよ？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_AFTER_DINNER_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nさあ、これからがわたしの時間よ！\n<MYNAME>ちゃん、\nあとで実験を手伝ってね♪"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_00_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_ROUGH>\r\nおかわりはちゃんと用意してるから、\nエンリョせずに\nたくさん食べてちょうだい。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_01_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nわたしの作った料理を残したら…\nわかってるでしょうね？\nちゃんと全部食べるのよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_02_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\n魔法で料理を作るの、めんどうだわ。\nだから、<MYNAME>ちゃんが\nなるべくご飯を作ってね♪"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_03_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_ROUGH>\r\n魔法だろうが、手料理だろうが\nわたしの作る料理は\nどれも美味しいに決まってるじゃない。\n<PAGE>\nわたしと結婚できてよかったわね、\n<MYNAME>ちゃん。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_04_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_ROUGH>\r\nひとりで食べるのも気楽でいいけど、\n<MYNAME>ちゃんと一緒に食べるのも\n悪く無いわね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_05_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\n小さいころから\n嫌いなものは嫌いだし、\n好きなものは好きよ。\n<PAGE>\n魔女の味覚なんて、\nそうそうカンタンに\n変わるもんじゃないわ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_06_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_SAD>\r\n<MYNAME>ちゃん、\n口元に食べかすがついてるわ。\n見苦しいから、とってちょうだい。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_07_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_SAD>\r\n<MYNAME>ちゃん、\n口元に食べかすがついてるわ。\n見苦しいから、とってちょうだい。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_08_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\n人間の使ってる調理器具って\nどれもこれも不思議よね。\n…とっても興味があるわ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_PAIR_COMMENT_09_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_LOSS>\r\n…ただ美味しいものだけを\n毎回ご飯に出すのはつまらないわね。\n<PAGE>\n今度からは一品だけ\n超絶にマズイものでも\n混ぜておこうかしら…。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_00_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nほら、<CHILD_NAME>\nよそ見して食べてると、こぼすわよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_01_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_ANGRY>\r\n<CHILD_NAME>、好き嫌いはダメよ。\n残さず食べなさい。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_02_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nいい？\n次は<MYNAME>がご飯を作るのよ。\nヨロシクね♪"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_03_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、ご飯を食べたら\n後片付けを手伝ってくれない？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_04_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_ROUGH>\r\n…<MYNAME>と<CHILD_NAME>って\n食べ方がそっくりね。\nさすがは親子だわ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_05_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nねえ、二人とも\n料理のリクエストとかある？\n気が向いたら、作ってあげるわ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_06_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nああ、<CHILD_NAME>。\n料理を服にこぼしてるじゃない。\nほら、これでふきなさい。\n<PAGE>\n<FACE_LOSS>…それから、<MYNAME>ちゃんもね。\nまったく、ヘンなところが\n似ちゃったわね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT1_07_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_ROUGH>\r\n<CHILD_NAME>、ご飯を食べたら\nしっかり遊んで来るのよ。\n遊ぶのが、<CHILD_NAME>の仕事よ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_00_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nほら、<CHILD_NAME>。\n身体が大きいんだから\nしっかりご飯を食べておきなさい。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_01_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nそういえば、<CHILD_NAME>って\n大きい時と小さい時で\n味の好みが変わったりするのかしら？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_02_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_LOSS>\r\n<CHILD_NAME>が大きいって、\n不思議な気分だわ。\n<PAGE>\nあと15年後、<CHILD_NAME>は\nこんな姿になってるのね。\n楽しみだわー。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_03_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、ご飯を食べたら\n後片付けを手伝ってね。\nついでに、掃除も一緒にするわよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_04_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_ANGRY>\r\n…<CHILD_NAME>。\nさっきから手が進んでないわよ。\nもしかして、つまみ食いしたのかしら？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_05_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_ROUGH>\r\n<CHILD_NAME>の作ったご飯が\nもっと食べたいわ。\n身体が大きい時しか作れないし。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_06_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_ROUGH>\r\nいい？\n次は<MYNAME>がご飯を作るのよ。\nヨロシクね♪"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT2_07_CHARA_WITCH",
+      "Text": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>。\nご飯のあとは、しっかり遊ぶのよ。\n…勉強でも構わないわよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_ITADAKI_BOY",
+      "Text": "<FACE_CHILD_B><POS_LEFT><FACE_ROUGH>\r\nわーい♪\nいただきます！！"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_GOTI_BOY",
+      "Text": "<FACE_CHILD_B><POS_LEFT><FACE_ROUGH>\r\nごちそうさま！"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT_00_BOY",
+      "Text": "<FACE_CHILD_B><POS_LEFT><FACE_NORMAL>\r\nうん、気をつける！\nご飯美味しいね！"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT_01_BOY",
+      "Text": "<FACE_CHILD_B><POS_LEFT><FACE_NORMAL>\r\n…うー。\n食べるのに時間がかかっちゃう。\n遊ぶ時間が減っちゃうよ…。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT_02_BOY",
+      "Text": "<FACE_CHILD_B><POS_LEFT><FACE_ROUGH>\r\nボクも<PARENT>のご飯食べたい！\n<PARENT>、作って！"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT_03_BOY",
+      "Text": "<FACE_CHILD_B><POS_LEFT><FACE_NORMAL>\r\nうん！\n<PARENT>も一緒にしようよ♪"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT_04_BOY",
+      "Text": "<FACE_CHILD_B><POS_LEFT><FACE_NORMAL>\r\n<PARENT>、聞いた？\nボクたちおそろいだって♪\nうれしいね〜♪"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT_05_BOY",
+      "Text": "<FACE_CHILD_B><POS_LEFT><FACE_NORMAL>\r\nボクは好きなものばっかりがいいな！\nあ、<PARENT>の好きなもの\n作ってあげてよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT_06_BOY",
+      "Text": "<FACE_CHILD_B><POS_LEFT><FACE_NORMAL>\r\nわあ！\n本当だ…ごめんなさい。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT_07_BOY",
+      "Text": "<FACE_CHILD_B><POS_LEFT><FACE_NORMAL>\r\nうん、遊ぶ！\nボク、パパとママと三人で\n遊びたいな！"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_ITADAKI_GIRL",
+      "Text": "<FACE_CHILD_G><POS_LEFT><FACE_ROUGH>\r\nわーい♪\nいただきます！！"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_GOTI_GIRL",
+      "Text": "<FACE_CHILD_G><POS_LEFT><FACE_ROUGH>\r\nごちそうさま！"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT_00_GIRL",
+      "Text": "<FACE_CHILD_G><POS_LEFT><FACE_NORMAL>\r\nうん、気をつける！\nご飯美味しいね！"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT_01_GIRL",
+      "Text": "<FACE_CHILD_G><POS_LEFT><FACE_NORMAL>\r\n…うー。\n食べるのに時間がかかっちゃう。\n遊ぶ時間が減っちゃうよ…。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT_02_GIRL",
+      "Text": "<FACE_CHILD_G><POS_LEFT><FACE_ROUGH>\r\nわたしも<PARENT>のご飯食べたい！\n<PARENT>、作って！"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT_03_GIRL",
+      "Text": "<FACE_CHILD_G><POS_LEFT><FACE_NORMAL>\r\nうん！\n<PARENT>も一緒にしようよ♪"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT_04_GIRL",
+      "Text": "<FACE_CHILD_G><POS_LEFT><FACE_NORMAL>\r\n<PARENT>、聞いた？\nわたしたちおそろいだって♪\nうれしいね〜♪"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT_05_GIRL",
+      "Text": "<FACE_CHILD_G><POS_LEFT><FACE_NORMAL>\r\n好きなものばっかりがいいな！\nあ、<PARENT>の好きなもの\n作ってあげたらどう？"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT_06_GIRL",
+      "Text": "<FACE_CHILD_G><POS_LEFT><FACE_NORMAL>\r\nわあ！\n本当だ…ごめんなさい。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT_07_GIRL",
+      "Text": "<FACE_CHILD_G><POS_LEFT><FACE_NORMAL>\r\nうん、遊ぶ！\nわたし、パパとママと三人で\n遊びたいな！"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_READY_MAN",
+      "Text": "<FACE_SON><POS_LEFT><FACE_NORMAL>\r\nお待たせ、お父さんお母さん。\n今から作るから、少し待っててね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_ITADAKI_00_MAN",
+      "Text": "<FACE_SON><POS_LEFT><FACE_ROUGH>\r\nそれじゃあ、食べよう？\nいただきます♪"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_ITADAKI_01_MAN",
+      "Text": "<FACE_SON><POS_LEFT><FACE_ROUGH>\r\nいただきます！！"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_GOTI_00_MAN",
+      "Text": "<FACE_SON><POS_LEFT><FACE_NORMAL>\r\nそれじゃ、ごちそうさまでした。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_GOTI_01_MAN",
+      "Text": "<FACE_SON><POS_LEFT><FACE_NORMAL>\r\nごちそうさまでした。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT_00_MAN",
+      "Text": "<FACE_SON><POS_LEFT><FACE_NORMAL>\r\nありがとう。\nしっかり食べないとお腹すくんだ。\nたくさん食べるよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT_01_MAN",
+      "Text": "<FACE_SON><POS_LEFT><FACE_NORMAL>\r\nうーん…。\n多少は大人っぽいのも\n好きになったかな？\n<PAGE>\nでも、大きくなるだけで\n好き嫌いが変わるなんてビックリだよ。\n大人ってスゴイなぁ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT_02_MAN",
+      "Text": "<FACE_SON><POS_LEFT><FACE_NORMAL>\r\nお父さんとお母さんの15年後か…。\nどういう風になってるのか楽しみだね〜。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT_03_MAN",
+      "Text": "<FACE_SON><POS_LEFT><FACE_NORMAL>\r\n掃除やりたい！\n背が高くなったから、色んなところに\n手が届いて楽しいんだもん。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT_04_MAN",
+      "Text": "<FACE_SON><POS_LEFT><FACE_NORMAL>\r\n！！\nそ、そんなことないよ。\nやだなぁ…アハハハ…。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT_05_MAN",
+      "Text": "<FACE_SON><POS_LEFT><FACE_NORMAL>\r\nボクもやりたい！\n<PARENT>、ボクにたくさん作らせてね？\n約束だよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT_06_MAN",
+      "Text": "<FACE_SON><POS_LEFT><FACE_ROUGH>\r\nボクも<PARENT>のご飯食べたい！\n<PARENT>、作って！"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT_07_MAN",
+      "Text": "<FACE_SON><POS_LEFT><FACE_NORMAL>\r\n勉強…？\nうーん、よく分からないや。\n代わりに運動するよ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_READY_WOMAN",
+      "Text": "<FACE_DAUGHTER><POS_LEFT><FACE_NORMAL>\r\nお待たせ、お父さんお母さん。\n今から作るから、少し待っててね。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_ITADAKI_00_WOMAN",
+      "Text": "<FACE_DAUGHTER><POS_LEFT><FACE_ROUGH>\r\nそれじゃあ、食べよう？\nいただきます♪"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_ITADAKI_01_WOMAN",
+      "Text": "<FACE_DAUGHTER><POS_LEFT><FACE_ROUGH>\r\nいただきます！！"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_GOTI_00_WOMAN",
+      "Text": "<FACE_DAUGHTER><POS_LEFT><FACE_NORMAL>\r\nそれじゃ、ごちそうさまでした。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_GOTI_01_WOMAN",
+      "Text": "<FACE_DAUGHTER><POS_LEFT><FACE_NORMAL>\r\nごちそうさまでした。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT_00_WOMAN",
+      "Text": "<FACE_DAUGHTER><POS_LEFT><FACE_NORMAL>\r\nありがとう。\nしっかり食べないとお腹すいちゃうの。\nたくさん食べるわ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT_01_WOMAN",
+      "Text": "<FACE_DAUGHTER><POS_LEFT><FACE_NORMAL>\r\nうーん…。\n多少は大人っぽいのも\n好きになったかな？\n<PAGE>\nでも、大きくなるだけで\n好き嫌いが変わるなんてビックリ。\n大人ってスゴイなぁ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT_02_WOMAN",
+      "Text": "<FACE_DAUGHTER><POS_LEFT><FACE_NORMAL>\r\nお父さんとお母さんの15年後か…。\nどういう風になってるのか楽しみだね〜。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT_03_WOMAN",
+      "Text": "<FACE_DAUGHTER><POS_LEFT><FACE_NORMAL>\r\n掃除やりたい！\n背が高くなったから、色んなところに\n手が届いて楽しいんだもん。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT_04_WOMAN",
+      "Text": "<FACE_DAUGHTER><POS_LEFT><FACE_NORMAL>\r\n！！\nそ、そんなことないよ。\nやだなぁ…アハハハ…。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT_05_WOMAN",
+      "Text": "<FACE_DAUGHTER><POS_LEFT><FACE_NORMAL>\r\nわたしもやりたい！\n<PARENT>、わたしにたくさん作らせてね？\n約束よ。"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT_06_WOMAN",
+      "Text": "<FACE_DAUGHTER><POS_LEFT><FACE_ROUGH>\r\nわたしも<PARENT>のご飯食べたい！\n<PARENT>、作って！"
+    },
+    {
+      "VardId": "MES_COOK_MEALDEMO_FAMILY_COMMENT_07_WOMAN",
+      "Text": "<FACE_DAUGHTER><POS_LEFT><FACE_NORMAL>\r\n勉強…？\nうーん、よく分からないから、\n代わりに運動するわ。"
+    }
+  ]
+}

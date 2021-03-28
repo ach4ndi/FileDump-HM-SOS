@@ -1,0 +1,4590 @@
+﻿{
+  "Date": "2016-06-25T01:44:46.6287571+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "INFO_TOOL_HOE_00",
+      "Text": "畑を耕すための道具。\n種まき後の畑で使った場合は\n種を取りのぞくことができる。"
+    },
+    {
+      "VardId": "INFO_TOOL_SICKLE_00",
+      "Text": "カマ収穫が必要な作物に\n使用する道具。\n枯れた作物や成長途中の作物に\n向かって使うと取りのぞける。"
+    },
+    {
+      "VardId": "INFO_TOOL_AXE_00",
+      "Text": "果樹や枝を切る道具。\n果樹に対して使うとよこ振り、\n枝に対して使うとたて振りの\n動作になる。"
+    },
+    {
+      "VardId": "INFO_TOOL_HAMMER_00",
+      "Text": "石をくだいて石材を作ったり、\n岩をこわすための道具。\n耕した畑に対して使うと、\nさら地にもどすことができる。"
+    },
+    {
+      "VardId": "INFO_TOOL_WATERING_CAN_00",
+      "Text": "作物に水をまく道具。\n水くみ場で水をくんでから\n使用しよう。"
+    },
+    {
+      "VardId": "INFO_TOOL_HAIR_CLIP_00",
+      "Text": "ヒツジやアルパカなどから\n毛をとるための道具。\nモフモフした状態になったら\n使うことができる。"
+    },
+    {
+      "VardId": "INFO_TOOL_MILK_MACHINE_00",
+      "Text": "ウシたちからミルクをしぼる\nことができる道具。\nミルクは毎日しぼろう。"
+    },
+    {
+      "VardId": "INFO_TOOL_BRUSH_00",
+      "Text": "動物たちの体のよごれを\nとりのぞく道具。\nこまめにブラッシングして\nいつもキレイにしてあげよう。"
+    },
+    {
+      "VardId": "INFO_TOOL_HANDBELL_00",
+      "Text": "使うと動物たちを近くに\n呼び寄せることができる道具。\n動物の放牧時に使うと便利。"
+    },
+    {
+      "VardId": "INFO_TOOL_ROD_00",
+      "Text": "川や海で魚をつることが\nできる道具。\nエサもセットできる。\n\nセットされているエサ\n<RED>「<MOJI0>」<MOJI1></RED>"
+    },
+    {
+      "VardId": "INFO_TOOL_PITCHFORK_00",
+      "Text": "動物たちの小屋に出てくる\n「よごれ」を\n取ることができる道具。\nキレイな小屋を動物は喜ぶ。"
+    },
+    {
+      "VardId": "INFO_ITEM_CROP_COMMON_00",
+      "Text": "<MOJI0>の作物。\n自分で食べたり、\n料理に使ったりできる。"
+    },
+    {
+      "VardId": "INFO_ITEM_CROP_COMMON_01",
+      "Text": "<MOJI1>の作物。\n自分で食べたり、\n料理に使ったりできる。"
+    },
+    {
+      "VardId": "INFO_ITEM_CROP_COMMON_02",
+      "Text": "<MOJI2>の作物。\n自分で食べたり、\n料理に使ったりできる。"
+    },
+    {
+      "VardId": "INFO_ITEM_CROP_COMMON_03",
+      "Text": "<MOJI3>の作物。\n自分で食べたり、\n料理に使ったりできる。"
+    },
+    {
+      "VardId": "INFO_ITEM_CROP_COMMON_04",
+      "Text": "<MOJI0>の作物。\n自分で食べたり、\n料理に使ったりできる。"
+    },
+    {
+      "VardId": "INFO_ITEM_TURNIP_SEED",
+      "Text": "春によく育つ作物。\n種をまいてから4〜5日で\n収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_RADISH_SEED",
+      "Text": "春によく育つ作物。\n種をまいてから4〜5日で\n収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_POTATE_SEED",
+      "Text": "春によく育つ作物。\n種をまいてから6〜7日で\n収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_CABBAGE_SEED",
+      "Text": "春によく育つ作物。\n種をまいてから12〜14日で\n収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_CUCUMBER_SEED",
+      "Text": "春によく育つツタ作物。\n種をまいてから4日程で\n実がなり、その後ツタを\n伸ばしていくと収穫数が\n増えていく。"
+    },
+    {
+      "VardId": "INFO_ITEM_STRAWBERRY_SEED",
+      "Text": "春によく育つ作物。\n種をまいてから14〜17日で\n収穫でき、その後も3〜4日毎に\n数回実がなる。"
+    },
+    {
+      "VardId": "INFO_ITEM_ONION_SEED",
+      "Text": "夏によく育つ作物。\n種をまいてから6〜7日で\n収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_TOMATE_SEED",
+      "Text": "夏によく育つツタ作物。\n種をまいてから4日程で\n実がなり、その後ツタを\n伸ばしていくと収穫数が\n増えていく。"
+    },
+    {
+      "VardId": "INFO_ITEM_CORN_SEED",
+      "Text": "夏によく育つ作物。\n種をまいてから12〜15日で\n収穫でき、その後も3〜4日毎に\n数回実がなる。"
+    },
+    {
+      "VardId": "INFO_ITEM_SHISO_SEED",
+      "Text": "夏によく育つ作物。\n種をまいてから8〜9日で\n収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_PUMPKIN_SEED",
+      "Text": "夏によく育つツタ作物。\n種をまいてから4日程で\n実がなり、その後ツタを\n伸ばしていくと収穫数が\n増えていく。"
+    },
+    {
+      "VardId": "INFO_ITEM_WATER_MELON_SEED",
+      "Text": "夏によく育つツタ作物。\n種をまいてから7日程で\n実がなり、その後ツタを\n伸ばしていくと収穫数が\n増えていく。"
+    },
+    {
+      "VardId": "INFO_ITEM_MELON_SEED",
+      "Text": "夏によく育つツタ作物。\n種をまいてから7日程で\n実がなり、その後ツタを\n伸ばしていくと収穫数が\n増えていく。"
+    },
+    {
+      "VardId": "INFO_ITEM_PAPRIKA_SEED",
+      "Text": "夏によく育つ作物。\n種をまいてから11〜13日で\n収穫でき、その後も3日毎に\n数回実がなる。"
+    },
+    {
+      "VardId": "INFO_ITEM_PINEAPPLE_SEED",
+      "Text": "夏によく育つ作物。\n種をまいてから14〜17日で\n収穫でき、その後も3〜4日毎に\n数回実がなる。"
+    },
+    {
+      "VardId": "INFO_ITEM_CASSAVA_SEED",
+      "Text": "夏によく育つ作物。\n種をまいてから11〜13日で\n収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_SPINACH_SEED",
+      "Text": "秋によく育つ作物。\n種をまいてから4〜5日で\n収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_CARROT_SEED",
+      "Text": "秋によく育つ作物。\n種をまいてから6〜7日で\n収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_GREAT_BURDOCK_SEED",
+      "Text": "秋によく育つ作物。\n種をまいてから9〜11日で\n収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_SWEET_POTATO_SEED",
+      "Text": "秋によく育つツタ作物。\n種をまいてから5日程で\n実がなり、その後ツタを\n伸ばしていくと収穫数が\n増えていく。"
+    },
+    {
+      "VardId": "INFO_ITEM_EGGPLANT_SEED",
+      "Text": "秋によく育つ作物。\n種をまいてから11〜13日で\n収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_GREEN_PEPPER_SEED",
+      "Text": "秋によく育つ作物。\n種をまいてから11〜13日で\n収穫でき、その後も3日毎に\n数回実がなる。"
+    },
+    {
+      "VardId": "INFO_ITEM_WHITE_RADISH_SEED",
+      "Text": "冬によく育つ作物。\n種をまいてから4〜5日で\n収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_NAPA_SEED",
+      "Text": "冬によく育つ作物。\n種をまいてから11〜13日で\n収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_BROCCOLI_SEED",
+      "Text": "冬によく育つ作物。\n種をまいてから9〜11日で\n収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_MARGUERITE_SEED",
+      "Text": "春によく育つ花。\n種をまいてから6〜7日で\n収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_PINK_ROSE_SEED",
+      "Text": "春によく育つ花。\n種をまいてから8〜10日で\n収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_CAMPANULA_SEED",
+      "Text": "春によく育つ花。\n種をまいてから6〜7日で\n収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_CARNATION_SEED",
+      "Text": "春によく育つ花。\n種をまいてから12〜14日で\n収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_HIBISCUS_SEED",
+      "Text": "夏によく育つ花。\n種をまいてから6〜7日で\n収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_RED_ROSE_SEED",
+      "Text": "夏によく育つ花。\n種をまいてから8〜10日で\n収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_LILY_SEED",
+      "Text": "夏によく育つ花。\n種をまいてから11〜13日で\n収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_SUN_FLOWER_SEED",
+      "Text": "夏によく育つ花。\n種をまいてから12〜14日で\n収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_PLUMERIA_SEED",
+      "Text": "夏によく育つ花。\n種をまいてから12〜14日で\n収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_MORNING_GLORY_SEED",
+      "Text": "夏によく育つ花。\n種をまいてから7〜8日で\n収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_PINK_SEED",
+      "Text": "秋によく育つ花。\n種をまいてから6〜7日で\n収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_GARBERA_SEED",
+      "Text": "秋によく育つ花。\n種をまいてから8〜10日で\n収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_DAHLIA_SEED",
+      "Text": "秋によく育つ花。\n種をまいてから8〜10日で\n収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_WHITE_ROSE_SEED",
+      "Text": "秋によく育つ花。\n種をまいてから11〜13日で\n収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_MUM_SEED",
+      "Text": "秋によく育つ花。\n種をまいてから11〜13日で\n収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_RINDOU_SEED",
+      "Text": "冬によく育つ花。\n種をまいてから6〜7日で\n収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_SNOWDROP_SEED",
+      "Text": "冬によく育つ花。\n種をまいてから8〜10日で\n収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_BLUE_ROSE_SEED",
+      "Text": "冬によく育つ花。\n種をまいてから16〜20日で\n収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_WASABI_SEED",
+      "Text": "どの季節でも育つ水田作物。\n16日で収穫できる。\nカマでかると収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_RICE_SEED",
+      "Text": "水田で育てる作物。\n春にのみ植えられ、\n2ヶ月ほどで収穫できる。\nカマでかると収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_STICKY_RICE_SEED",
+      "Text": "水田で育てる作物。\n春にのみ植えられ、\n2ヶ月ほどで収穫できる。\nカマでかると収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_WHEAT_SEED",
+      "Text": "どの季節でも育つ作物。\n1ヶ月ほどで収穫できる。\nカマでかると収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_SOYBEAN_SEED",
+      "Text": "どの季節でも育つ作物。\n1ヶ月半ほどで収穫できる。\nカマでかると収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_AZUKI_SEED",
+      "Text": "どの季節でも育つ作物。\n1ヶ月半ほどで収穫できる。\nカマでかると収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_PEPPER_SEED",
+      "Text": "どの季節でも育つ作物。\n8〜10日で収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_SUGARCANE_SEED",
+      "Text": "どの季節でも育つ作物。\n12〜14日で収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_CHERRY_SEED",
+      "Text": "春に実をつける果樹。\n2ヶ月ほどで実をつける。\n収穫後も3〜4日毎に実がつく。"
+    },
+    {
+      "VardId": "INFO_ITEM_ALMOND_SEED",
+      "Text": "夏に実をつける果樹。\n2ヶ月ほどで実をつける。\n収穫後も4〜5日毎に実がつく。"
+    },
+    {
+      "VardId": "INFO_ITEM_PEACH_SEED",
+      "Text": "夏に実をつける果樹。\n1ヶ月半ほどで実をつける。\n収穫後も3〜4日毎に実がつく。"
+    },
+    {
+      "VardId": "INFO_ITEM_KIWI_SEED",
+      "Text": "夏に実をつける果樹。\n1ヶ月半ほどで実をつける。\n収穫後も3〜4日毎に実がつく。"
+    },
+    {
+      "VardId": "INFO_ITEM_LEMON_SEED",
+      "Text": "夏に実をつける果樹。\n1ヶ月半ほどで実をつける。\n収穫後も3〜4日毎に実がつく。"
+    },
+    {
+      "VardId": "INFO_ITEM_LITCHEE_SEED",
+      "Text": "夏に実をつける果樹。\n1ヶ月半ほどで実をつける。\n収穫後も3〜4日毎に実がつく。"
+    },
+    {
+      "VardId": "INFO_ITEM_ORANGE_SEED",
+      "Text": "夏に実をつける果樹。\n2ヶ月ほどで実をつける。\n収穫後も3〜4日毎に実がつく。"
+    },
+    {
+      "VardId": "INFO_ITEM_MANGO_SEED",
+      "Text": "夏に実をつける果樹。\n2ヶ月ほどで実をつける。\n収穫後も3〜4日毎に実がつく。"
+    },
+    {
+      "VardId": "INFO_ITEM_Starfruit_SEED",
+      "Text": "夏に実をつける果樹。\n2ヶ月ほどで実をつける。\n収穫後も3〜4日毎に実がつく。"
+    },
+    {
+      "VardId": "INFO_ITEM_COCONUTPALM_SEED",
+      "Text": "夏に実をつける果樹。\n2ヶ月ほどで実をつける。\n収穫後も3〜4日毎に実がつく。"
+    },
+    {
+      "VardId": "INFO_ITEM_BANANA_SEED",
+      "Text": "夏に実をつける果樹。\n2ヶ月ほどで実をつける。\n収穫後も4〜5日毎に実がつく。"
+    },
+    {
+      "VardId": "INFO_ITEM_CACAO_SEED",
+      "Text": "夏に実をつける果樹。\n2ヶ月ほどで実をつける。\n収穫後も4〜5日毎に実がつく。"
+    },
+    {
+      "VardId": "INFO_ITEM_APPLE_SEED",
+      "Text": "秋に実をつける果樹。\n1ヶ月半ほどで実をつける。\n収穫後も3〜4日毎に実がつく。"
+    },
+    {
+      "VardId": "INFO_ITEM_GRAPE_SEED",
+      "Text": "秋に実をつける果樹。\n2ヶ月ほどで実をつける。\n収穫後も3〜4日毎に実がつく。"
+    },
+    {
+      "VardId": "INFO_ITEM_OLIVE_SEED",
+      "Text": "秋に実をつける果樹。\n2ヶ月ほどで実をつける。\n収穫後も3〜4日毎に実がつく。"
+    },
+    {
+      "VardId": "INFO_ITEM_PERSIMMON_SEED",
+      "Text": "秋に実をつける果樹。\n2ヶ月ほどで実をつける。\n収穫後も3〜4日毎に実がつく。"
+    },
+    {
+      "VardId": "INFO_ITEM_SPRING_TEA_SEED",
+      "Text": "冬以外に茶葉をつける樹木。\n1ヶ月ほどで収穫できる。\nその後も4〜5日毎に茶葉が\n木につく。"
+    },
+    {
+      "VardId": "INFO_ITEM_FODDER_SEED",
+      "Text": "動物のエサとなる牧草。\n種をまいた後、2日で育つ。\n1回まくと1ヶ月は育つ。\nカマでかると収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_COTTON_SEED",
+      "Text": "どの季節でも育つ、\n服などの素材になる作物。\n8〜10日で収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FLAX_SEED",
+      "Text": "どの季節でも育つ、\n服などの素材になる作物。\n7〜8日で収穫できる。\nカマでかると収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_MAPLE_SEED",
+      "Text": "どの季節でも育ち、\n色んな物の材料になる樹木。\n16〜20日で収穫できる。\nオノで伐採して収穫できる。\nまた、バケツを設置すると\nメープルシロップも採れる。"
+    },
+    {
+      "VardId": "ITEM_BAMBOO_SEED",
+      "Text": "どの季節でも育ち、\n色んな物の材料になる樹木。\n16〜20日で収穫できる。\nオノで伐採して収穫できる。"
+    },
+    {
+      "VardId": "ITEM_BROADLEAF_TREE_SEED",
+      "Text": "どの季節でも育ち、\n色んな物の材料になる樹木。\n16〜20日で収穫できる。\nオノで伐採して収穫できる。"
+    },
+    {
+      "VardId": "ITEM_CONIFEROUS_TREE_SEED",
+      "Text": "どの季節でも育ち、\n色んな物の材料になる樹木。\n16〜20日で収穫できる。\nオノで伐採して収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_SIITAKE_SEED",
+      "Text": "きのこ栽培用の木で\n育てられるきのこの種。\n11日ほどで収穫できる。\nその後5日毎に3回収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_MATSUTAKE_SEED",
+      "Text": "きのこ栽培用の木で\n育てられるきのこの種。\n15日ほどで収穫できる。\nその後5日毎に3回収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_SIMEJI_SEED",
+      "Text": "きのこ栽培用の木で\n育てられるきのこの種。\n10日ほどで収穫できる。\nその後4日毎に3回収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_ERINGI_SEED",
+      "Text": "きのこ栽培用の木で\n育てられるきのこの種。\n13日ほどで収穫できる。\nその後5日毎に3回収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_HOUKITAKE_SEED",
+      "Text": "きのこ栽培用の木で\n育てられるきのこの種。\n13日ほどで収穫できる。\nその後5日毎に3回収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_MASHROOM_SEED",
+      "Text": "きのこ栽培用の木で\n育てられるきのこの種。\n12日ほどで収穫できる。\nその後5日毎に3回収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_PEARL_SEED",
+      "Text": "いけすに入れてパールを\n養殖するための貝。\n7日で収穫できる。"
+    },
+    {
+      "VardId": "INFO_ITEM_TURNIP",
+      "Text": "春の作物。\n自分で食べたり、\n料理に使ったりできる。\n\n【野菜】"
+    },
+    {
+      "VardId": "INFO_ITEM_RADISH",
+      "Text": "春の作物。\n自分で食べたり、\n料理に使ったりできる。\n\n【野菜】"
+    },
+    {
+      "VardId": "INFO_ITEM_POTATE",
+      "Text": "春の作物。\n自分で食べたり、\n料理に使ったりできる。\n\n【野菜】"
+    },
+    {
+      "VardId": "INFO_ITEM_CABBAGE",
+      "Text": "春の作物。\n自分で食べたり、\n料理に使ったりできる。\n\n【野菜】"
+    },
+    {
+      "VardId": "INFO_ITEM_CUCUMBER",
+      "Text": "春の作物。\n自分で食べたり、\n料理に使ったりできる。\n\n【野菜】"
+    },
+    {
+      "VardId": "INFO_ITEM_STRAWBERRY",
+      "Text": "春の作物。\n自分で食べたり、\n料理に使ったりできる。\n\n【野菜】"
+    },
+    {
+      "VardId": "INFO_ITEM_ONION",
+      "Text": "夏の作物。\n自分で食べたり、\n料理に使ったりできる。\n\n【野菜】"
+    },
+    {
+      "VardId": "INFO_ITEM_TOMATE",
+      "Text": "夏の作物。\n自分で食べたり、\n料理に使ったりできる。\n\n【野菜】"
+    },
+    {
+      "VardId": "INFO_ITEM_CORN",
+      "Text": "夏の作物。\n自分で食べたり、\n料理に使ったりできる。\n\n【野菜】"
+    },
+    {
+      "VardId": "INFO_ITEM_PERILLA",
+      "Text": "夏の作物。\n自分で食べたり、\n料理に使ったりできる。\n\n【野菜】"
+    },
+    {
+      "VardId": "INFO_ITEM_PUMPKIN",
+      "Text": "夏の作物。\n自分で食べたり、\n料理に使ったりできる。\n\n【野菜】"
+    },
+    {
+      "VardId": "INFO_ITEM_WATER_MELON",
+      "Text": "夏の作物。\n自分で食べたり、\n料理に使ったりできる。\n\n【野菜】"
+    },
+    {
+      "VardId": "INFO_ITEM_MELON",
+      "Text": "夏の作物。\n自分で食べたり、\n料理に使ったりできる。\n\n【野菜】"
+    },
+    {
+      "VardId": "INFO_ITEM_PAPRIKA",
+      "Text": "夏の作物。\n自分で食べたり、\n料理に使ったりできる。\n\n【野菜】"
+    },
+    {
+      "VardId": "INFO_ITEM_PINEAPPLE",
+      "Text": "夏の作物。\n自分で食べたり、\n料理に使ったりできる。\n\n【野菜】"
+    },
+    {
+      "VardId": "INFO_ITEM_CASSAVA",
+      "Text": "夏の作物。\n自分で食べたり、\n料理に使ったりできる。\n\n【野菜】"
+    },
+    {
+      "VardId": "INFO_ITEM_SPINACH",
+      "Text": "秋の作物。\n自分で食べたり、\n料理に使ったりできる。\n\n【野菜】"
+    },
+    {
+      "VardId": "INFO_ITEM_CARROT",
+      "Text": "秋の作物。\n自分で食べたり、\n料理に使ったりできる。\n\n【野菜】"
+    },
+    {
+      "VardId": "INFO_ITEM_GREAT_BURDOCK",
+      "Text": "秋の作物。\n自分で食べたり、\n料理に使ったりできる。\n\n【野菜】"
+    },
+    {
+      "VardId": "INFO_ITEM_SWEET_POTATO",
+      "Text": "秋の作物。\n自分で食べたり、\n料理に使ったりできる。\n\n【野菜】"
+    },
+    {
+      "VardId": "INFO_ITEM_EGGPLANT",
+      "Text": "秋の作物。\n自分で食べたり、\n料理に使ったりできる。\n\n【野菜】"
+    },
+    {
+      "VardId": "INFO_ITEM_GREEN_PEPPER",
+      "Text": "秋の作物。\n自分で食べたり、\n料理に使ったりできる。\n\n【野菜】"
+    },
+    {
+      "VardId": "INFO_ITEM_WHITE_RADISH",
+      "Text": "冬の作物。\n自分で食べたり、\n料理に使ったりできる。\n\n【野菜】"
+    },
+    {
+      "VardId": "INFO_ITEM_NAPA",
+      "Text": "冬の作物。\n自分で食べたり、\n料理に使ったりできる。\n\n【野菜】"
+    },
+    {
+      "VardId": "INFO_ITEM_BROCCOLI",
+      "Text": "冬の作物。\n自分で食べたり、\n料理に使ったりできる。\n\n【野菜】"
+    },
+    {
+      "VardId": "INFO_ITEM_MARGUERITE",
+      "Text": "春に咲く花。\nプレゼント、花束や香水に\n使ったりできる。\n\n【花】"
+    },
+    {
+      "VardId": "INFO_ITEM_PINK_ROSE",
+      "Text": "春に咲く花。\nプレゼント、花束や香水に\n使ったりできる。\n\n【花】"
+    },
+    {
+      "VardId": "INFO_ITEM_CAMPANULA",
+      "Text": "春に咲く花。\nプレゼント、花束や香水に\n使ったりできる。\n\n【花】"
+    },
+    {
+      "VardId": "INFO_ITEM_CARNATION",
+      "Text": "春に咲く花。\nプレゼント、花束や香水に\n使ったりできる。\n\n【花】"
+    },
+    {
+      "VardId": "INFO_ITEM_HIBISCUS",
+      "Text": "夏に咲く花。\nプレゼント、花束や香水に\n使ったりできる。\n\n【花】"
+    },
+    {
+      "VardId": "INFO_ITEM_RED_ROSE",
+      "Text": "夏に咲く花。\nプレゼント、花束や香水に\n使ったりできる。\n\n【花】"
+    },
+    {
+      "VardId": "INFO_ITEM_LILY",
+      "Text": "夏に咲く花。\nプレゼント、花束や香水に\n使ったりできる。\n\n【花】"
+    },
+    {
+      "VardId": "INFO_ITEM_SUN_FLOWER",
+      "Text": "夏に咲く花。\nプレゼント、花束や香水に\n使ったりできる。\n\n【花】"
+    },
+    {
+      "VardId": "INFO_ITEM_PLUMERIA",
+      "Text": "夏に咲く花。\nプレゼント、花束や香水に\n使ったりできる。\n\n【花】"
+    },
+    {
+      "VardId": "INFO_ITEM_MORNINGGLORY",
+      "Text": "夏に咲く花。\nプレゼント、花束や香水に\n使ったりできる。\n\n【花】"
+    },
+    {
+      "VardId": "INFO_ITEM_PINK",
+      "Text": "秋に咲く花。\nプレゼント、花束や香水に\n使ったりできる。\n\n【花】"
+    },
+    {
+      "VardId": "INFO_ITEM_GARBERA",
+      "Text": "秋に咲く花。\nプレゼント、花束や香水に\n使ったりできる。\n\n【花】"
+    },
+    {
+      "VardId": "INFO_ITEM_DAHILA",
+      "Text": "秋に咲く花。\nプレゼント、花束や香水に\n使ったりできる。\n\n【花】"
+    },
+    {
+      "VardId": "INFO_ITEM_WHITE_ROSE",
+      "Text": "秋に咲く花。\nプレゼント、花束や香水に\n使ったりできる。\n\n【花】"
+    },
+    {
+      "VardId": "INFO_ITEM_CHRYSANTHEMUM",
+      "Text": "秋に咲く花。\nプレゼント、花束や香水に\n使ったりできる。\n\n【花】"
+    },
+    {
+      "VardId": "INFO_ITEM_RINDOU",
+      "Text": "冬に咲く花。\nプレゼント、花束や香水に\n使ったりできる。\n\n【花】"
+    },
+    {
+      "VardId": "INFO_ITEM_SNOWDROP",
+      "Text": "冬に咲く花。\nプレゼント、花束や香水に\n使ったりできる。\n\n【花】"
+    },
+    {
+      "VardId": "INFO_ITEM_BLUE_ROSE",
+      "Text": "冬に咲く花。\nプレゼント、花束や香水に\n使ったりできる。\n\n【花】"
+    },
+    {
+      "VardId": "INFO_ITEM_WASABI",
+      "Text": "収穫したわさび。\n料理などに使ったりできる。\n食べると鼻の奥がツンとする。\n\n【水田作物】"
+    },
+    {
+      "VardId": "INFO_ITEM_INAHO",
+      "Text": "米を収穫したもの。\n脱穀してから使うもの。\n\n【水田作物】"
+    },
+    {
+      "VardId": "INFO_ITEM_MOCHIINAHO",
+      "Text": "もち米を収穫したもの。\n脱穀してから使うもの。\n\n【水田作物】"
+    },
+    {
+      "VardId": "INFO_ITEM_WHEAT",
+      "Text": "収穫した小麦。\n粉にしてから使うもの。\n\n【穀物】"
+    },
+    {
+      "VardId": "INFO_ITEM_SOYBEAN",
+      "Text": "収穫した大豆。\n料理などに使ったりできる。\n\n【穀物】"
+    },
+    {
+      "VardId": "INFO_ITEM_ADZUKIBEAN",
+      "Text": "収穫した小豆。\n料理などに使ったりできる。\n\n【穀物】"
+    },
+    {
+      "VardId": "INFO_ITEM_RED_PEPPER",
+      "Text": "収穫した唐辛子。\n辛さのかたまりみたいな作物。\nスパイスを作るのに使う。\n\n【スパイス】"
+    },
+    {
+      "VardId": "INFO_ITEM_SUGARCANE",
+      "Text": "収穫したサトウキビ。\nくきの外側はとても固いが、\n中は甘い汁が詰まっている。\nさとうを作るのに使う。\n\n【スパイス】"
+    },
+    {
+      "VardId": "INFO_ITEM_CHERRY",
+      "Text": "春の果実。\n自分で食べたり、\n料理などに使ったりできる。\n\n【果樹】"
+    },
+    {
+      "VardId": "INFO_ITEM_ALMOND",
+      "Text": "夏の果実。\n自分で食べたり、\n料理などに使ったりできる。\n\n【果樹】"
+    },
+    {
+      "VardId": "INFO_ITEM_PEACH",
+      "Text": "夏の果実。\n自分で食べたり、\n料理などに使ったりできる。\n\n【果樹】"
+    },
+    {
+      "VardId": "INFO_ITEM_KIWI",
+      "Text": "夏の果実。\n自分で食べたり、\n料理などに使ったりできる。\n\n【果樹】"
+    },
+    {
+      "VardId": "INFO_ITEM_LEMON",
+      "Text": "夏の果実。\n自分で食べたり、\n料理などに使ったりできる。\n\n【果樹】"
+    },
+    {
+      "VardId": "INFO_ITEM_LITCHEE",
+      "Text": "夏の果実。\n自分で食べたり、\n料理などに使ったりできる。\n\n【果樹】"
+    },
+    {
+      "VardId": "INFO_ITEM_ORANGE",
+      "Text": "夏の果実。\n自分で食べたり、\n料理などに使ったりできる。\n\n【果樹】"
+    },
+    {
+      "VardId": "INFO_ITEM_MANGO",
+      "Text": "夏の果実。\n自分で食べたり、\n料理などに使ったりできる。\n\n【果樹】"
+    },
+    {
+      "VardId": "INFO_ITEM_STARFRUIT",
+      "Text": "夏の果実。\n自分で食べたり、\n料理などに使ったりできる。\n\n【果樹】"
+    },
+    {
+      "VardId": "INFO_ITEM_COCONUT",
+      "Text": "夏の果実。\n自分で食べたり、\n料理などに使ったりできる。\n\n【果樹】"
+    },
+    {
+      "VardId": "INFO_ITEM_BANANA",
+      "Text": "夏の果実。\n自分で食べたり、\n料理などに使ったりできる。\n\n【果樹】"
+    },
+    {
+      "VardId": "INFO_ITEM_CACAO",
+      "Text": "夏の果実。\n自分で食べたり、\n料理などに使ったりできる。\n\n【果樹】"
+    },
+    {
+      "VardId": "INFO_ITEM_APPLE",
+      "Text": "秋の果実。\n自分で食べたり、\n料理などに使ったりできる。\n\n【果樹】"
+    },
+    {
+      "VardId": "INFO_ITEM_GRAPE",
+      "Text": "秋の果実。\n自分で食べたり、\n料理などに使ったりできる。\n\n【果樹】"
+    },
+    {
+      "VardId": "INFO_ITEM_OLIVE",
+      "Text": "秋の果実。\n自分で食べたり、\n料理などに使ったりできる。\n\n【果樹】"
+    },
+    {
+      "VardId": "INFO_ITEM_PERSIMMON",
+      "Text": "秋の果実。\n自分で食べたり、\n料理などに使ったりできる。\n\n【果樹】"
+    },
+    {
+      "VardId": "INFO_ITEM_SPRING_TEA",
+      "Text": "春につんだお茶の葉。\n料理に使うと美味しいお茶が\nできる。\n\n【茶葉】"
+    },
+    {
+      "VardId": "INFO_ITEM_SUMMER_TEA",
+      "Text": "夏につんだお茶の葉。\n料理に使うと美味しいお茶が\nできる。\n\n【茶葉】"
+    },
+    {
+      "VardId": "INFO_ITEM_AUTUMN_TEA",
+      "Text": "秋につんだお茶の葉。\n料理に使うと美味しいお茶が\nできる。\n\n【茶葉】"
+    },
+    {
+      "VardId": "INFO_ITEM_COTTON",
+      "Text": "収穫したせんい作物。\nキレイな白色をしている。\n服などの材料になる。\n\n【繊維】"
+    },
+    {
+      "VardId": "INFO_ITEM_LINEN",
+      "Text": "収穫したせんい作物。\nせんいは黄色っぽい茶色で、\n服などの材料になる。\n\n【繊維】"
+    },
+    {
+      "VardId": "INFO_ITEM_SIITAKE",
+      "Text": "きのこの一種。\n香りがとてもよく人気が高い。\n\n【きのこ】"
+    },
+    {
+      "VardId": "INFO_ITEM_MATSUTAKE",
+      "Text": "きのこの一種。\nみんな大好き、きのこの王様！\n\n【きのこ】"
+    },
+    {
+      "VardId": "INFO_ITEM_SIMEJI",
+      "Text": "きのこの一種。\n小さいきのこの大家族。\n料理の材料になる。\n\n【きのこ】"
+    },
+    {
+      "VardId": "INFO_ITEM_ERINGI",
+      "Text": "きのこの一種。\n大きくて太いきのこで、\n歯ごたえがあって人気。\n\n【きのこ】"
+    },
+    {
+      "VardId": "INFO_ITEM_HOUKITAKE",
+      "Text": "きのこの一種。\nサンゴや木の枝のような\n形をしている。\n\n【きのこ】"
+    },
+    {
+      "VardId": "INFO_ITEM_MASHROOM",
+      "Text": "きのこの一種。\n丸くて白いきのこ。\n味がよくとても人気がある。\n\n【きのこ】"
+    },
+    {
+      "VardId": "INFO_MILKNORMAL",
+      "Text": "美味しいミルク。\n料理やチーズの材料になる。\n\n【ミルク】"
+    },
+    {
+      "VardId": "INFO_MILKNORMALGOKU",
+      "Text": "おどろくほど美味しいミルク。\n料理やチーズの材料になる。\n\n【ミルク】"
+    },
+    {
+      "VardId": "INFO_MILKJERSEY",
+      "Text": "濃くて美味しいミルク。\n料理やチーズの材料になる。\n\n【ミルク】"
+    },
+    {
+      "VardId": "INFO_MILKJERSEYGOKU",
+      "Text": "とても濃くて美味しいミルク。\n料理やチーズの材料になる。\n\n【ミルク】"
+    },
+    {
+      "VardId": "INFO_MILKBUFFALO",
+      "Text": "バッファローのミルク。\n他のミルクより力強い味。\n料理やチーズの材料になる。\n\n【ミルク】"
+    },
+    {
+      "VardId": "INFO_MILKBUFFALOGOKU",
+      "Text": "バッファローのミルク。\nさらに力強い味。\n料理やチーズの材料になる。\n\n【ミルク】"
+    },
+    {
+      "VardId": "INFO_WOOLNORMAL",
+      "Text": "やわらかい羊毛。\n服などの材料になる。\n\n【羊毛】"
+    },
+    {
+      "VardId": "INFO_WOOLNORMALGOKU",
+      "Text": "とてもやわらかい\n最高級の羊毛。\n服などの材料になる。\n\n【羊毛】"
+    },
+    {
+      "VardId": "INFO_WOOLSUFFOLK",
+      "Text": "サフォークからとれた羊毛。\n服などの材料になる。\n\n【羊毛】"
+    },
+    {
+      "VardId": "INFO_WOOLSUFFOLKGOKU",
+      "Text": "サフォークからとれた\n最高級の羊毛。\n服などの材料になる。\n\n【羊毛】"
+    },
+    {
+      "VardId": "INFO_WOOLPAKA",
+      "Text": "アルパカからとれる白色の毛。\n手ざわりモコモコ。\n\n【アルパカの毛】"
+    },
+    {
+      "VardId": "INFO_WOOLPAKAGOKU",
+      "Text": "アルパカからとれる白色の\n最高級の毛。\n手ざわりもっとモコモコ。\n\n【アルパカの毛】"
+    },
+    {
+      "VardId": "INFO_WOOLPAKABROWN",
+      "Text": "茶色いアルパカからとれる\n茶色の毛。\n手ざわりモコモコ。\n\n【アルパカの毛】"
+    },
+    {
+      "VardId": "INFO_WOOLPAKABROWNGOKU",
+      "Text": "茶色いアルパカからとれる\n茶色の最高級の毛。\n手ざわりもっとモコモコ。\n\n【アルパカの毛】"
+    },
+    {
+      "VardId": "INFO_WOOLLLAMA",
+      "Text": "リャマからとれる黒い毛。\n手ざわりふわふわ。\n\n【リャマの毛】"
+    },
+    {
+      "VardId": "INFO_WOOLLLAMAGOKU",
+      "Text": "リャマからとれる最高級の\n黒い毛。\n手ざわりさらにふわふわ。\n\n【リャマの毛】"
+    },
+    {
+      "VardId": "INFO_WOOLANGORARABBITS",
+      "Text": "アンゴラウサギからとれる毛。\nさわるとふっわふわ。\n\n【ウサギの毛】"
+    },
+    {
+      "VardId": "INFO_WOOLANGORARABBITSGOKU",
+      "Text": "アンゴラウサギからとれる\n最高級の毛。\nさわるとふっわふわるん。\n\n【ウサギの毛】"
+    },
+    {
+      "VardId": "INFO_WOOLANGORARABBITSGRAY",
+      "Text": "灰アンゴラウサギからとれる\n灰色の毛。\nさわるとふっわふわ。\n\n【ウサギの毛】"
+    },
+    {
+      "VardId": "INFO_WOOLANGORARABBITSGRAYGOKU",
+      "Text": "灰アンゴラウサギからとれる\n灰色の最高級の毛。\nさわるとふっわふわるん。\n\n【ウサギの毛】"
+    },
+    {
+      "VardId": "INFO_EGGNORMAL",
+      "Text": "美味しいニワトリの卵。\n料理の材料になる。\n\n【卵】"
+    },
+    {
+      "VardId": "INFO_EGGNORMALGOKU",
+      "Text": "おどろくほど美味しい\nニワトリの卵。\n料理の材料になる。\n\n【卵】"
+    },
+    {
+      "VardId": "INFO_EGGBLACK",
+      "Text": "美味しいウコッケイの卵。\n料理の材料になる。\n\n【卵】"
+    },
+    {
+      "VardId": "INFO_EGGBLACKGOKU",
+      "Text": "すばらしく美味しい\nウコッケイの卵。\n料理の材料になる。\n\n【卵】"
+    },
+    {
+      "VardId": "INFO_EGGUZURA",
+      "Text": "美味しいウズラの卵\n料理の材料になる。\n\n【卵】"
+    },
+    {
+      "VardId": "INFO_EGGUZURAGOKU",
+      "Text": "とんでもなく美味しい\nウズラの卵。\n料理の材料になる。\n\n【卵】"
+    },
+    {
+      "VardId": "INFO_ITEM_HONEY_BOX_1",
+      "Text": "すきとおったきれいな色の\nハチミツ。\nとっても甘くて美味しい。\n\n【ハチミツ】"
+    },
+    {
+      "VardId": "INFO_ITEM_ROYAL_JELLY",
+      "Text": "めったにとれない貴重な\n極上のゼリー。\nひとつ食べると元気モリモリ！\n\n【ハチミツ】"
+    },
+    {
+      "VardId": "INFO_ITEM_COMB_HONEY",
+      "Text": "最上級のハチミツ。\nミツの甘さが濃くて\nとてもおいしい。\n\n【ハチミツ】"
+    },
+    {
+      "VardId": "INFO_ITEM_MAPLESYRUP",
+      "Text": "カエデから採れる\nあま〜いミツ。\nハチミツとはちがう風味を\n楽しめる。\n\n【スパイス】"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODPOTATOSALAD",
+      "Text": "マッシュしたじゃがいもに、\nきゅうりとにんじんを和えた\nサラダ。ほっこりおいしい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMASHEDPOTATO",
+      "Text": "じゃがいもをつぶしたもの。\nクリーミィな食感で、\n付け合せにもぴったり。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODONIONSALAD",
+      "Text": "うす切りたまねぎのサラダ。\nフレッシュなものを使えば\nほんのり甘い。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODTOMATOSALAD",
+      "Text": "トマトをうすく切ったサラダ。\nみずみずしい酸味がおいしい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMIMOZASALADA",
+      "Text": "野菜サラダの上に、うらごし\nゆで卵をふりかけたもの。\n見た目がミモザの花に似て\nいることが、名前の由来。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMILKYSALADA",
+      "Text": "フレッシュな野菜に、\n練乳ミルクをかけたサラダ。\n甘くておいしいけれど、\nカロリーちょっと高め。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODHERBSALADA",
+      "Text": "ハーブを混ぜたサラダ。\nいい香りが食欲をそそる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMIXSALAD",
+      "Text": "サラダの定番野菜を\n組み合わせて作ったサラダ。\nキングオブサラダ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSOYSALAD",
+      "Text": "大豆の水煮を使った、\nとってもヘルシーなサラダ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSALADSPAGHETTI",
+      "Text": "サラダ仕立てのパスタ。\nあっさりさっぱり。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCOLESLAW",
+      "Text": "千切り野菜にりんごを加え、\nハチミツとヨーグルトで\n和えた、ちょっとぜいたくな\nサラダ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODPUMPKINSALAD",
+      "Text": "かぼちゃとさつまいもを煮て\nざっくりマッシュしたサラダ。\nほくほく食感とほど良い甘み。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODOHITASI",
+      "Text": "ほうれんそうとなすをゆでて\nしょうゆをかけたもの。\n定番のおかず。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODBURDOCKSALAD",
+      "Text": "ささがきごぼうのサラダ。\nシャキシャキ食感。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODKINOKOSALADA",
+      "Text": "生野菜ときのこのサラダ。\n加えるきのこによって\nちがう味が楽しめる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODUMECUCUMBER",
+      "Text": "きゅうりと梅肉を和えたもの。\n夏バテ解消にピッタリ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODUMESHISO",
+      "Text": "うめとしそを和えたサラダ。\nニつの酸味のハーモニー。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODWAKAMESALAD",
+      "Text": "かいそうを合わせたサラダ。\nミネラル豊富で、体に良い。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODTAKOWASABI",
+      "Text": "タコをわさびと和えたもの。\nコリコリ食感にツーンとした\n辛味が相性ぴったり。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODOSASHIMI",
+      "Text": "フレッシュな魚の切り身。\n海の幸をそのまま楽しもう。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODYUBA",
+      "Text": "豆乳をにて作る精進料理。\nやさしい味でヘルシー。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODFRITTERSALAD",
+      "Text": "エビのフリッターに、\nフレッシュなきゃべつを\n加えたサラダ。\nおかずにもなります。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODTARAMOSALAD",
+      "Text": "マッシュポテトに魚卵を\n合わせたサラダで、\n色鮮やかなピンク色。\nマヨネーズと相性ばっちり。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCORNSALAD",
+      "Text": "とうもろこしの甘いサラダ。\n野菜のきらいな子にも大人気。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODPAPRIKAMARINAED",
+      "Text": "細く切ったパプリカを、\nドレッシングと和えたマリネ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCARPACCIO",
+      "Text": "幻の魚イトウを使った\n高級なカルパッチョ。\n深い味わいがある逸品。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSUMMERVEGETABLESALAD",
+      "Text": "夏野菜盛りだくさんのサラダ。\n口いっぱいに広がる夏の味。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCOCONUTSALAD",
+      "Text": "パプリカとエビをココナッツの\nソースで和えたサラダ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODTROPICALSALAD",
+      "Text": "熱帯フルーツのサラダ。\n器にくりぬいたパイナップルを\n使っているのがポイント。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODHOTATEMARINADE",
+      "Text": "お酢で作ったマリネ液に\nホタテをつけこんだ料理。\nさっぱり食べられる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODFRUITSSALAD",
+      "Text": "みずみずしいフルーツを\nヨーグルトで和えたサラダ。\nデザートじゃなくてサラダ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODROMIROMISALMON",
+      "Text": "ロミロミとはマッサージの事。\nロミロミしたサーモンを\n野菜と和えていただこう。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSPRINGROLL",
+      "Text": "米粉から作るライスペーパーで\n食材を包んだ料理。\n皮がもちもちしておいしい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODKERAGUEN",
+      "Text": "細かくきざんだタコを\nココナッツと和えたもの。\nルルココ村の伝統料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODACAAR",
+      "Text": "カレーに合う、辛いつけもの。\nこの辛さがクセになる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCOUSCOUS",
+      "Text": "クスクスとは、\n小麦粉をそぼろ状にしたもの。\nサラダにかけて召し上がれ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODKOKONDA",
+      "Text": "トロピカルな魚介のマリネ。\nキンキンに冷やして食べる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODITALIANSALAD",
+      "Text": "トマトとブロッコリーに\nハーブをあしらったサラダ。\n香りづけのトリュフによって\n格調高い風味に。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCAPRESE",
+      "Text": "フレッシュトマトとチーズ、\nシンプルだが相性ばつぐんの\nサラダ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCURRYSALAD",
+      "Text": "さつまいもに辛いカレー粉を\nまぶしたサラダ。甘さと辛さ\nのバランスが味の決め手。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODBAGNACAUDA",
+      "Text": "あったかいディップソースに\n色んな野菜をつけて食べる、\nフォンデュのような料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODONIONGRATINSOUP",
+      "Text": "たまねぎをとろとろになるまで\nじっくり煮込んだスープ。\nチーズをかけてグラタン風に。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODPOTAGESOUP",
+      "Text": "いもを裏ごししてクリーミィに\n仕上げた、スープの代表格。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCORNPOTAGE",
+      "Text": "とうもろこしのポタージュ。\n甘くて優しい、大人も子供も\n大好きな味。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCARROTSOUP",
+      "Text": "ペースト状にしたにんじんを\n生クリームでのばした、\nまろやかな味わいのスープ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCHEESESOUP",
+      "Text": "溶かしたチーズを、\nミルクに混ぜて作るスープ。\nコクがあってまろやか。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODHERBSOUP",
+      "Text": "ハーブのスープ。\n香りだけでも楽しい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSOUPPISTOU",
+      "Text": "野菜たっぷりの豆スープ。\n体にやさしい味で、\nほっとあたたまる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSOUPSPAGHETTI",
+      "Text": "スープの中にパスタ。\nパスタ　イン　スープ。　　"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODBOUILLONSOUP",
+      "Text": "野菜を煮込んでエキスを\n抽出したスープ。\nあらゆるスープの基本。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODGUMBO",
+      "Text": "魚と野菜などを独特のルーで\n煮込んだスパイシーなスープ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODULTIMATESOUP",
+      "Text": "選び抜かれた高級食材が奏でる\n究極のハーモニー。\n選ばれし者のみがこのスープを\n口にすることができる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODKINOKOSOUP",
+      "Text": "色んな種類のきのこがたっぷり\n入った、具だくさん汁。\nおいしくて温まる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSPINACHSOUP",
+      "Text": "ほうれんそうと卵をだし汁で\n煮込んだお吸い物。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODTURNIPSOUP",
+      "Text": "かぶを煮込んだスープ。\n口の中でとろけるかぶが絶品。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODKAKITAMAJIRU",
+      "Text": "とろみをつけた汁に、\n野菜や溶いた卵を入れた料理。\nひとくち飲めば、思わず\nため息をついてしまう。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMISOSOUP",
+      "Text": "だし汁にみそを溶かした、\n朝ごはんの定番料理。\n具材はお好みで。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODBURDOCKSOUP",
+      "Text": "ごぼうを煮込んだ汁物。\nごぼうのだしが汁に溶け、\n独特の風味がある。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSHANHAIGANISOUP",
+      "Text": "シャンハイガニを余す所なく\n使った、ぜいたくなスープ。\nカニ好きなら絶対うれしい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODOSUIMONO",
+      "Text": "魚のだしを使った汁物。\nみそ汁と並ぶ基本的なスープ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSANPEISOUP",
+      "Text": "サケの身とアラを使った塩汁。\n北の海のうまみがぎゅっと\nつまっている。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODKENCHINSOUP",
+      "Text": "野菜を煮込んだすまし汁。\nだしはしいたけからとる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSHIJIMISOUP",
+      "Text": "だしもシジミ、具材もシジミ。\nシジミを味わい尽くす汁物。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSUPREMACYSOUP",
+      "Text": "山菜と川魚のマリアージュ。\nその出逢いは、まさに\n至高と呼ぶにふさわしい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODAQUAPAZZA",
+      "Text": "魚と野菜を水で煮込んだ、\n魚のうま味を楽しめるスープ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODGAZPACHO",
+      "Text": "トマトの冷製スープ。\nさっぱりしたい時に。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODPHO",
+      "Text": "あっさりとしたスープに、\n米粉で打った白いメンを\n入れた料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSTURGEONSOUP",
+      "Text": "サメの尾びれを使った\nぜいたくスープ。\nコラーゲンたっぷり。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCOCONUTSOUP",
+      "Text": "マッシュルームを、\nココナッツミルクで煮込んだ\nスープ。野菜を入れると\nなお美味しい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODROIFEKE",
+      "Text": "濃厚なココナッツミルクに\nタコを加えた素朴な料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODTOMYUMGOONG",
+      "Text": "酸味と辛味の中にうまみがある\nからだがホカホカするスープ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODIKAVAKAMITI",
+      "Text": "まろやかなココナッツミルク\nとかんきつ類を合わせた、\n冷たいスープ。\nイカが入ってるわけではない。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODGEMSOUP",
+      "Text": "様々なフルーツのうまみが\nやわらかく溶け込んだスープ。\n宝石のような光沢に、\n人は目がくらむだろう。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMINESTRONE",
+      "Text": "トマト味の野菜スープ。\n具だくさんで栄養たっぷり。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODFISHCHOWDER",
+      "Text": "魚を使ったチャウダー。\n魚の代わりに貝を使うと\nクラムチャウダー。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODVICHYSSOISE",
+      "Text": "じゃがいもの冷たいスープ。\n夏の暑いときにおすすめ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCLAMCHOWDER",
+      "Text": "貝を使ったスープ。\n貝のだしとハーブの風味が\nよくマッチしている。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODPOTATOPANCAKE",
+      "Text": "うすくスライスした\nじゃがいもを、\nこんがり焼いた料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMUSHROOMPIE",
+      "Text": "きのこがたっぷり入った\n濃厚なパイ。\n山の香りが楽しめる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODFISHPIE",
+      "Text": "魚の切り身を使ったパイ。\nメインディッシュにも使える\n一品。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODGRILLEDTOMATO",
+      "Text": "トマトを輪切りにして\n焼いた料理。\n焼くと甘くなっておいしい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODFRYVEGETABLES",
+      "Text": "野菜を炒めた料理。\n具材をふやすほど\n深い味わいに。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODROASTCHEESE",
+      "Text": "チーズをオーブンで焼いた\nだけの料理。\nとろとろ感がたまらない。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODTURNIPBUTTERITAME",
+      "Text": "かぶをバターで炒めた料理。\n香ばしいバターが決め手。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODGRATIN",
+      "Text": "野菜にベシャメルソースを\nかけ、少しこげ目がつくまで\nオーブンで焼いた料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODQUISHE",
+      "Text": "香ばしいパイ生地の中に\n卵や具材をつめて焼く料理。\n焼き上がりの匂いが食欲を\nしげきする。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODPIZZA",
+      "Text": "小麦粉の生地の上に\nチーズなどの食材を乗せて\n焼いた料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODBUTTERCORN",
+      "Text": "とうもろこしを\nバターで炒めた料理。\n簡単でおいしい一品。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODBROCCOLIJAPANITAME",
+      "Text": "ブロッコリーとエリンギを\nバターで炒めた料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODOMELET",
+      "Text": "卵を使った料理。\nふわっとさせるのがポイント。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMINIOMELETTE",
+      "Text": "ウズラ卵で作れば、\nミニオムレツのできあがり。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODRACRET",
+      "Text": "とかしたチーズをじゃがいもに\nかけて食べる料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODHASTYPUDDING",
+      "Text": "かんたんな材料でさっと作れる\nプディング。メープルシロップ\nをかけて食べよう。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODJOHNNYCAKE",
+      "Text": "コーンミールのパンケーキ。\n素朴でなつかしい味わい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODBAKEDBEANS",
+      "Text": "煮豆をオーブンで焼いたもの。\n野菜と合わせることで、\nこっくりした風味に。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCARROTGRASSET",
+      "Text": "にんじんをあまく煮つめた、\nてらてらと光る料理。\nにんじんぎらいのお子様でも\nこれなら食べられる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODFRIEDPOTATO",
+      "Text": "細切りじゃがいものフライ。\n出来立ては格別だが、水気を\n吸ってくにゃっとしたのも\nそれはそれでおいしい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODROASTPOTATO",
+      "Text": "さつまいもを焼いたもの。\nホクホク甘くてみんな大好き。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODROASTEGG",
+      "Text": "フライパンで卵を焼いただけの\nお手軽料理。黄身の固さに\nものすごくこだわる人もいる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODROASTMUSHROOM",
+      "Text": "きのこを焼いたもの。\n香りゆたかで、食欲がわく。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODGRILLEDFISH",
+      "Text": "魚を焼いた料理。\n骨が多いのもごあいきょう。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODPUMPKINTERIYAKI",
+      "Text": "うすくスライスしたかぼちゃを\n照り焼きにした料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODHAPPOSAI",
+      "Text": "野菜を炒めつつ、少しだけ\n汁にとろみをつけた料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODOKONOMI",
+      "Text": "小麦粉の生地にきゃべつと\n卵を乗せて鉄板で焼いた料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODLOTUSROOTKINPIRA",
+      "Text": "ささがきにしたごぼうと\n細切りにんじんを炒めた料理。\nシャキシャキした食感。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODTOFUSTEKI",
+      "Text": "とうふを使ったハンバーグ。\n代表的なヘルシーメニュー。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODROASTGYOZA",
+      "Text": "小麦粉の皮で具材を包み\nパリッと焼き上げた料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODTRIPLEROASTEGG",
+      "Text": "三種類の卵から作る目玉焼き。\n作るのは簡単だが、\nめずらしいので喜ばれる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODGRILLEDTURBANSHELL",
+      "Text": "採れたてサザエを焼いたもの。\n中身を取り出すのに、\nちょっとコツがいる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODIKAPEPPERITAME",
+      "Text": "イカをとうがらしといっしょに\n炒めたピリ辛な料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSTEAMEDBREADFRUIT",
+      "Text": "パンの実を蒸したもの。\nふわふわのパンのような、\n不思議な食感になる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODROASTCORN",
+      "Text": "とうもろこしを一本丸ごと\n焼いただけのお手軽料理。\n甘くておいしいけど、\nすじが歯につまるのが難点。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODTUNASTEAK",
+      "Text": "巨大なマグロをダイナミックに\nまるっと焼いたステーキ。\nしたたる脂を見れば、\nいやおうなく食欲がたぎる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODFAROFA",
+      "Text": "粉状にしたキャッサバを、\nたまねぎとバターで炒めた物。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCARROTSHIRISHIRI",
+      "Text": "しりしりとは千切りの意味。\nにんじんの千切りに卵を加えた\n料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODVIETNAMESECREPES",
+      "Text": "米粉とココナッツで作る粉物。\n中に色んな具が入ってごうか。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMEUNIERE",
+      "Text": "魚の切り身をハーブで味付けし\n小麦粉をまぶして焼いた料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODTERRINE",
+      "Text": "彩り豊かな野菜をゼリーで\n固めた、見た目も美しい料理。\n芸術的センスが問われる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODPISSALADIERE",
+      "Text": "たまねぎの甘味とイワシの塩味\nハーブの相性が絶妙なタルト。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODEBITIRI",
+      "Text": "エビのチリソース炒め。\nピリッとした辛味が決め手。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODROLLCABBAGE",
+      "Text": "具材をきゃべつで丸めて\nなべで煮込んで作った料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODFARCE",
+      "Text": "トマトの中につめものをして\nオーブンで焼いた料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODTORTILLA",
+      "Text": "じゃがいもなどの野菜を\n卵に混ぜて、\n平らに焼いたオムレツ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCROQUATTE",
+      "Text": "夕食の定番として大人気。\nあげたてホクホクがおいしい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCREAMCROQUATTE",
+      "Text": "クリームが入ったコロッケ。\nミルクの質が味の決め手。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMILKNABE",
+      "Text": "魚介類と野菜をミルクで\n煮込んだ料理。\n煮込みすぎないのがコツ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCHEESEFONDUE",
+      "Text": "色々な具材を、\nたっぷりの溶けたチーズに\nからめて食べる料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSTEW",
+      "Text": "コトコト煮込んだシチュー。\n冬はこれであったまろう。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSUCCOTASH",
+      "Text": "とうもろこしとトマトに\nバターを加えて煮込んだ料理。\n昔ながらの味わい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODKIRIBOSIDAIKON",
+      "Text": "切っただいこんを干して作った\nどこかなつかしい味の料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODODEN",
+      "Text": "しょうゆで味付けしただしに\n様々な具材を入れた、伝統的な\nなべ料理。冬の風物詩。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODPUMPKINNI",
+      "Text": "かぼちゃをだしで煮たもの。\nかぼちゃの甘みが決め手。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODTURNIPNI",
+      "Text": "かぶをだしで煮込んだ料理。\nとろけるような口当たりが\nたまらない。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODPOTATONI",
+      "Text": "いもをなべの中で転がしつつ\n煮ることからそう呼ばれる、\nおふくろの味。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODBOILEDEGG",
+      "Text": "卵をお湯でゆでたもの。\n半熟と完熟で好みがわかれる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCHAWANMUSHI",
+      "Text": "ちゃわんに具材と卵を入れて\n蒸した料理。\nきれいに蒸すのはむずかしい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODFRIEDANKOU",
+      "Text": "アンコウを油であげたもの。\n衣でうまみを閉じ込めるので\n上品な甘みのある味になる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODHARUMAKI",
+      "Text": "小麦粉の皮で具材を包み、\n油でパリっとあげたもの。\n古くは春の野菜を具材にして\n作っていたことが名前の由来。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODFRIEDNAMAZU",
+      "Text": "ナマズのフィレフライ。\n淡白な白身なので、\nカレーとチーズがアクセント。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODKAKIAGE",
+      "Text": "様々な野菜や魚を小麦粉に絡め\nサクサクにあげた料理。\n具材によって食感が変わる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSUPPONNABE",
+      "Text": "スッポンを使ったなべ料理。\n主に汁の部分をいただく。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODFUGUTIRI",
+      "Text": "フグのなべ料理。\nあっさりした白身は\nまさに冬の味覚の王様。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSABAMISO",
+      "Text": "サバをみそで煮付けた料理。\nサバといったらこれ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSABADAIKON",
+      "Text": "サバとだいこんを煮た料理。\nサバのうまみがだいこんにも\n染みて、コクのある煮物に。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODFRIEDSHRIMP",
+      "Text": "エビに小麦粉をまぶして\n油であげた料理。\n外はさくさく、中はぷりぷり。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODOSECHI",
+      "Text": "新年の風物詩。\n全ての具材には意味があり、\n様々な願いがこめられている。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSHIMOTSUKARE",
+      "Text": "野菜やサケを大根おろしと\n混ぜたもの。神社にお供えする\n行事食でもある。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODFRIEDTOFU",
+      "Text": "うす切りとうふをあげたもの。\nとある町の神様の大好物。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODHOUTOU",
+      "Text": "ざっくりと切ったメンと野菜を\nみそで煮込んだ、郷土料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODGAMMODOKI",
+      "Text": "水気を切ったとうふに具材を\n混ぜ合わせ、まんまる形にして\n油であげた料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODTENPURA",
+      "Text": "具材を卵と小麦粉にまぶして\n油であげた料理。\nどんな具材でもおいしくなる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODTSUKUDANI",
+      "Text": "小魚をさとうとしょうゆで\n甘辛く煮付けたもの。\n白ごはんにぴったり。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODDOJOUNABE",
+      "Text": "ドジョウをそのまま煮た\nなべ料理。どぜうと書いて\nドジョウと読む。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODVEGETABLEETUVER",
+      "Text": "野菜を蒸すシンプルな料理。\n野菜本来の味を楽しめる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMOQUECA",
+      "Text": "魚とたまねぎなどを煮込んだ\n南国風の海鮮シチュー。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCORNSTEW",
+      "Text": "とうもろこしのシチュー。\nコーンの甘さが口に広がる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCAPONATA",
+      "Text": "なすをメインにした\n野菜の煮込み料理。\nハーブの香りと酸味が\n食欲をそそる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODBOILEDCORN",
+      "Text": "とうもろこしをゆでたもの。\nおやつにもぴったり。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSAMOSA",
+      "Text": "じゃがいもを小麦粉の皮で\n三角形に包み、あげた料理。\nホクホク食感。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODKUENABE",
+      "Text": "クエを使ったなべ料理。\n脂がのっているのにあっさりと\nした、上品なおいしさ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODANKOUNABE",
+      "Text": "アンコウを使ったなべ料理。\n白身もおいしいけど、\nやっぱりアンキモが最高。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODTARABANABE",
+      "Text": "タラバガニがメインの\nとってもぜいたくななべ料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODAHIPOKE",
+      "Text": "マグロの切身にハーブなどを\n混ぜ込んだ料理。\nさわやか南国味。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODLAULAU",
+      "Text": "バナナの葉で具材を包んで\n蒸し焼きにしたもの。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODFRIEDFISHCAKES",
+      "Text": "魚のすり身を油であげたもの。\nピリ辛なさつまあげ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODPIPERADE",
+      "Text": "トマトとピーマンなどを\nオリーブ油で煮込んだ\n野菜煮込み。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODBOUILLABAISSE",
+      "Text": "香味野菜とハーブで魚を\n煮込んだ、トマトベースの\n濃厚な海鮮スープ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODPOTAUFEU",
+      "Text": "根菜をコンソメで煮込んだ\n料理。時間をかけてじっくり\n味を煮出すのがコツ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODROSTI",
+      "Text": "じゃがいもをすりおろして\nハーブなどを重ね、バターで\nカリカリに焼き上げた料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODRATATOUILLE",
+      "Text": "トマトをメインに、\n様々な野菜をハーブと\nコンソメで煮込んだ料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODONIONRICE",
+      "Text": "たまねぎとご飯を炒めた料理。\n炒めたたまねぎの甘さと\n香ばしさが食欲をそそる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODDORIA",
+      "Text": "炒めたご飯にチーズを乗せて\nオーブンで焼いた料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODPUMPKINDORIA",
+      "Text": "かぼちゃを使ったドリア。\nかぼちゃの甘さが絶妙な料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODRISOTTO",
+      "Text": "具材入りのスープで\nお米を炊いた料理。\n具材の味が染みてとろとろに\nなったご飯が絶品。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODTOMATORISOTTO",
+      "Text": "ブイヨンスープとトマトで\nご飯を炊いた料理。\nトマトの酸味が心地よい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODDOLMA",
+      "Text": "ご飯と辛味の効いた野菜を混ぜ\nきゃべつで包んだ料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODYOGURTRICE",
+      "Text": "ご飯にヨーグルトを加えて\n炊いた料理。さわやかな酸味は\nカレーと相性が良い。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODBUTTERRICE",
+      "Text": "バターで炒めたご飯に水を加え\n軽くしおで味付けして炊いた\n料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMILKRICE",
+      "Text": "ご飯とたまねぎを、とろとろに\nなるまでミルクで炊いた料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODOMELETRICE",
+      "Text": "炒めたご飯をふわふわ卵で\nくるんだ料理。\n卵がやぶけないよう\n包むのにはコツがいる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSEEFOODOMELETRICE",
+      "Text": "オムライスの上にシーフードの\n具材とソースをかけた料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODRACE",
+      "Text": "つゆくさの里の主食。\n銀シャリとも言う。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODTAKIKOMIRICE",
+      "Text": "お米と具材を混ぜたものに\nしょうゆをかけ、\n一緒に炊いた料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSWITPOTATORICE",
+      "Text": "さつまいも入り炊き込みご飯。\nおいもの甘みが、\nご飯をさらにおいしくする。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCHESTNUTRICE",
+      "Text": "大きなくりが入った炊き込み\nご飯。秋ならではの味。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMUSHROOMRICE",
+      "Text": "お米に複数のきのこを混ぜて\n一緒に炊いた料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODROASTRICE",
+      "Text": "小さく切った具材とご飯を\n炒めて作る料理。パラッと\n仕上げるためには、\n実はかなりの技術がいる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODROASTRICEBALL",
+      "Text": "おにぎりを焼いた料理。\nカリカリしていておいしい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSQUIDRICE",
+      "Text": "イカの身の輪切りに米をつめて\nだしで炊いた料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODEGGBOWL",
+      "Text": "あめいろになるまで炒めた\nたまねぎをたまごでとじ、\nご飯の上に乗せた丼もの。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODEELRICE",
+      "Text": "タレでつけ焼きにしたウナギを\nご飯の上に乗せた料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSEAURCHIN",
+      "Text": "ご飯の上に新鮮なうにを\nたっぷり乗せ、しょうゆを\nかけていただく丼もの。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSEAFOODBOWL",
+      "Text": "ご飯の上に魚介類を乗せ、\nタレをかけていただく料理。\nいその香りが広がる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODOSINKOUMAKI",
+      "Text": "つけものをご飯とのりで\n巻いたお手軽料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODKAPPAMAKI",
+      "Text": "きゅうりを寿司飯とのりで\n巻いた料理。\nきゅうりがかっぱの好物だと\nいう伝説からこの名がついた。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSCATTEREDSUSHI",
+      "Text": "酢飯の中にいろいろな魚や、\n具材を混ぜて作る料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODTAICHADUKE",
+      "Text": "ご飯にタイの身を乗せ、\n熱いお茶をかけた料理。\nわさびはお好みで。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSHISOONIGIRI",
+      "Text": "のりの代わりにしそを巻いた\nおにぎり。\nお弁当にもぴったり。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODKAKINOHASUSHI",
+      "Text": "酢めしにサバを乗せ、\nかきの葉で包んだ押し寿司。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCHIMAKI",
+      "Text": "しょうゆで煮込んだ具材に\n米を合わせ、\n三角形に整えて蒸したもの。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODRICEPORRIDGE",
+      "Text": "お米を水としょうゆで煮た\nかんたんな料理。\n優しい味で、消化にもいい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODEGGRICE",
+      "Text": "白ご飯に新鮮な溶き卵をかけた\nだけのお手軽料理。\nこれだけでどうしてこんなに\nおいしいのか。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODTEKKASUSHI",
+      "Text": "マグロを酢めしで包んで\nのりを巻いた寿司。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODINARISUSHI",
+      "Text": "酢めしをあぶらあげで包んだ\n寿司。ちょっぴり甘めに\n味付けするのがコツ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSEKIHAN",
+      "Text": "お米と一緒に小豆を入れて\n蒸したご飯。\nおめでたいときに食べる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODTAKOMESHI",
+      "Text": "たこをお米と一緒に炊いた\nご飯。生たこを使えば、\nほんのり赤いご飯になる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCYAGAYU",
+      "Text": "お米を水でなく、\nお茶で炊いたご飯。\nかなり昔から食べられている。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODUZUMEMESHI",
+      "Text": "細かく切った具の上に\nご飯を乗せ、熱々のだし汁を\nかけて食べる料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODKUSAGAYU",
+      "Text": "山菜とお米を一緒に\n炊いたかゆ。\nほんのり塩気が効いている。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODFUKAGAWAMESHI",
+      "Text": "アサリの煮汁と米を一緒に\n炊いたもの。\nアサリの身は後で混ぜ込む。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODKIRITAMPO",
+      "Text": "つぶしたご飯を棒に巻き付けて\n焼き、食べやすいように切った\n郷土料理。\nみそをつけたらみそたんぽ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCURRY",
+      "Text": "ご飯の上に、煮込んだ\nカレーをかけて食べる料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODDRYCURRY",
+      "Text": "スパイシーな味のするカレー。\n通常のカレーよりずっと辛い。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCURRIEDRICE",
+      "Text": "カレー粉をまぶしたご飯を\n炒めて作る料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODPILAF",
+      "Text": "炒めた米と野菜を\nスープで炊いた料理。\n野菜のうまみが\nぎゅっとつまっている。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODHERBPILAF",
+      "Text": "炒めた米を、ハーブ入りの\nスープで炊いた料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCOCONUTCURRY",
+      "Text": "ココナッツを入れたカレー。\nこれだけでぐっと南国風に。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODNASIGORENG",
+      "Text": "南国のやきめし。\n固めに焼いた目玉焼きを\n上に添える。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODLONTON",
+      "Text": "米をバナナの葉で包んで\n蒸したもの。\n小腹が空いたときにぴったり。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODTHIEBOUDIENNE",
+      "Text": "ご飯を魚の煮汁で炊いた、\nピラフのような料理。\n南国のおふくろの味。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODBIRYANI",
+      "Text": "カレー風味の蒸しご飯。\n手間ひまかけて作る逸品。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODKUSHARI",
+      "Text": "南国風の混ぜご飯。\n食べる直前に\n具材とご飯を混ぜる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMAKLUBEH",
+      "Text": "「ひっくり返す」という\n意味があるライスケーキ。\nその名の通り、ご飯を\n大皿にひっくり返して作る。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODNASILEMAK",
+      "Text": "直訳すると「脂ご飯」。\nココナッツの油を使って\n炒める。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODLOCOMOKO",
+      "Text": "ご飯の上に目玉焼きと\nとうふハンバーグを\n乗せたもの。\nご飯が進みます。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODARANCINI",
+      "Text": "中にご飯をたっぷり入れた、\n丸いコロッケ。\n「小さなオレンジ」という\n意味がある。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODBIBINBA",
+      "Text": "いろいろな野菜と魚に、\n辛い調味料を合わせた\n混ぜご飯。\nおこげがたまらない。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODPAELLA",
+      "Text": "さまざまな魚介類とお米を\n一緒に炊きこんだ料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODBREAD",
+      "Text": "小麦粉の生地をオーブンで\n焼いたもの。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODPOTATOBREAD",
+      "Text": "パン生地にマッシュポテトを\n練りこんで焼いたパン。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCORNBREAD",
+      "Text": "コーンミールで作ったパン。\nほんのりとうもろこしの\n甘みがある。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODWALNUTBREAD",
+      "Text": "パン生地にクルミを混ぜて\n焼いたパン。\n森の恵みの味がする。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODVEGETABLEBREAD",
+      "Text": "野菜をはさんだパン。\n具材はお好みで。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODFRUITBREAD",
+      "Text": "フルーツの入ったパン。\nおやつにピッタリ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODFRENCHTOAST",
+      "Text": "パンに卵をひたひたになるまで\n漬けたあと、フライパンで\n焼いた料理。\nとっても甘くておいしい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODYOGURTBREAD",
+      "Text": "パン生地にヨーグルトを混ぜて\n焼いたパン。ヨーグルト風味で\nちょっと甘酸っぱい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODBUTTERBREAD",
+      "Text": "小麦粉の生地に、バターを\nたっぷり練りこんで焼いた\nパン。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODBASILCHEESEBREAD",
+      "Text": "チーズとバジルを練りこんで\n焼いたパン。\nバジルの香りが刺激的。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMELONBREAD",
+      "Text": "メロンの果汁を使って焼いた\nこだわりのパン。\n外はサクサク、中はふんわり。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODHERBPASTA",
+      "Text": "ゆでたパスタにハーブを乗せて\n香り付けした料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMUSHROOMSPAGHETTI",
+      "Text": "ゆでて軽く味付けしたパスタと\nきのこを混ぜた料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMACARONICHEESE",
+      "Text": "ゆでたマカロニにチーズを\nかけたシンプルな料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODEGGSBENEDICT",
+      "Text": "マフィンにポーチドエッグなど\nの具材をはさみ、オランデーズ\nソースをかけて食べる料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODRAISINBREAD",
+      "Text": "パン生地にレーズンを入れて\n焼いたもの。さわやかな酸味。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCINNAMONROLL",
+      "Text": "シナモン風味のロールパン。\n生地の内側に練り込んで焼く。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCRACKER",
+      "Text": "昔ながらの保存食で、\n塩気の強いビスケット。\n色んなものを付けて食べる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODGINGERBREAD",
+      "Text": "しょうがを風味づけに使った\nパン。しみじみ心に染みる味。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODHIYASHICHUKA",
+      "Text": "ゆでた中華メンに野菜を乗せ\n酸味の効いただしをかけて\n冷やした料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODKITUNENOODLE",
+      "Text": "うどんの上に、\n甘いあぶらあげを乗せた料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODROASTNOODLE",
+      "Text": "うどんに味がしみ込むまで\nじっくりと煮込んだ料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODTSUKIMINOODLE",
+      "Text": "温かいうどんに生卵をポンと\n落としただけの簡単な料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODANNBREAD",
+      "Text": "パン生地の中にあんこを入れて\n焼いたパン。\nふかふかして香ばしい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCOLDUDON",
+      "Text": "冷やしたみそ汁をうどんに\nかけて食べる。\nさっぱりさわやかで、\n夏にぴったりの料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODTAKOPASTA",
+      "Text": "タコのぶつ切りが入った\nパスタ。のりの香りが\n食欲をそそる一品。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODUNIPASTA",
+      "Text": "うにをパスタに絡めた料理。\n濃厚なうにの味わいと、\n口の中で広がるいその香り。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCORNCREAMPASTA",
+      "Text": "濃厚なコーンクリームと\nパスタの絡みが絶妙な一品。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODNAAN",
+      "Text": "南国の主食のひとつ。\n大きな三角形のものが多く、\nちぎって少しずつ食べる。\nもっちもちの食感。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODPITABREAD",
+      "Text": "平たいパン。具材を中に\n入れたり、上に乗せたりして\n食べる。\nピザの起源とも言われる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSAIMIN",
+      "Text": "エビで煮出したあっさり風味の\nスープにメンを入れて食べる、\n南国風メン料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODFUFU",
+      "Text": "キャッサバから作られる、\n南国の主食。地域によって\n様々な呼び方がある。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODTROPICALSANDWICH",
+      "Text": "トロピカルフルーツを合わせた\nサンドイッチ。\n果汁がジュワッとあふれ出す。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODHOTSANDWICH",
+      "Text": "焼きサンドイッチ。\nお手軽な朝の一品。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODPESCATORE",
+      "Text": "魚介類のパスタ。\nペスカトーレとは「漁師」と\nいう意味で、その名の通り\n海の幸がいっぱいの料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODFOCATCHA",
+      "Text": "オリーブやハーブで味を付けた\n平たい形のパン。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCARBONARA",
+      "Text": "ミルキーなカルボナーラソース\nをパスタに絡めて作った料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODLASAGNE",
+      "Text": "何層にもパスタやチーズを\n重ねて焼き上げた料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODPEPERONCINO",
+      "Text": "オイルソースにスパイスを\n加えたピリ辛パスタ。\nすっきりした刺激が\n食欲をそそる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODBIFARONI",
+      "Text": "たまねぎとマッシュルームを\n炒めマカロニと和えた料理。\n温かいうちにチーズをかけて。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODNIAPOLITAIN",
+      "Text": "トマトソースで炒めた野菜を\nパスタに絡めた料理。\n代表的なパスタ料理の一つ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCREAMPASTA",
+      "Text": "クリームソースをかけた\nシンプルなパスタ料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODGENOVESE",
+      "Text": "バジルソースをかけたパスタ。\nさわやかなバジルが香る逸品。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSWITPOTATO",
+      "Text": "さつまいものデザート。\nほっこり甘く、\nどこかなつかしい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCRAPE",
+      "Text": "小麦粉の生地をうすーく\n伸ばして焼いたもの。\n中に色んな具を包む。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODPEACHTART",
+      "Text": "ももを使ったタルト。\nももの優しい甘みが広がる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODORANGETART",
+      "Text": "オレンジを使ったタルト。\nプツプツした食感が\n気持ち良い。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCHERRYTART",
+      "Text": "チェリーを使ったタルト。\nちょっと甘酸っぱい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODPUMPKINPIE",
+      "Text": "かぼちゃを使ったタルト。\nとっても甘くてホクホク。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODAPPLEPIE",
+      "Text": "りんごを使ったパイ。\n焼けたりんごが香ばしい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODBLUBERRYPIE",
+      "Text": "ブルーベリーを使ったパイ。\n白いクリームにブルーベリーの\nみずみずしい青が映える。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODYOGYRTPIE",
+      "Text": "ヨーグルトを使ったパイ。\nクリーミィでほどよい酸味が\n味わえる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODVEGETABLECAKE",
+      "Text": "野菜を使ったケーキ。\n甘さをおさえた、\nヘルシーなお菓子。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODGRAPECAKE",
+      "Text": "コーンミールとぶどうで作る\n昔ながらのケーキ。ぶどうを\nたっぷり盛り付けよう。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODANZUCAKE",
+      "Text": "あんずを使った、\nちょっと甘酸っぱいケーキ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODHOTCAKE",
+      "Text": "やわらか〜いホットケーキ。\nシロップをかけて食べたい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCHOCOLATECOOKIE",
+      "Text": "チョコの入ったクッキー。\n子供のおやつに最適。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODALMONDCOOKIE",
+      "Text": "砕いたアーモンドを混ぜた\nクッキー。サクサクの食感と、\nアーモンドの香ばしい味わい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCHEESECAKE",
+      "Text": "しっとりしたチーズのケーキ。\nおさえた甘さが人気のヒミツ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODPUDDING",
+      "Text": "ミルクと卵から作る、\nプルプル食感のデザート。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODPUMPKINPUDDING",
+      "Text": "かぼちゃを加えたプリン。\n自然な甘みがおいしい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCHOCOLATEPUDDING",
+      "Text": "チョコを入れたプリン。\nとろとろでなめらか。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODALMONDCARAMEL",
+      "Text": "アーモンドを混ぜ込んだ、\n香ばしいキャラメル。\n口の中でとろりと溶ける。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCREAMCHOCOLATE",
+      "Text": "やわらかくてちょっぴり苦い。\n新しい食感のチョコ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODPUMPKINICE",
+      "Text": "かぼちゃを使ったアイス。\n自然の甘さが身体に優しい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCHOCOLATEICE",
+      "Text": "甘くてちょっぴりほろ苦い\nビターチョコのアイス。\n大人の気分で食べたい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCORNMUFFIN",
+      "Text": "ふっくらとして香ばしく、\nコーンの甘さが優しく広がる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSOFTCREAM",
+      "Text": "やわらかくて冷たい\nアイスクリーム。\n暑い日に食べたい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCOFFEEGELLY",
+      "Text": "コーヒーをゼラチンで固めた\nゼリー。ゼリーのほろ苦さと\n甘いミルクが絶妙にマッチ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCORNFLAKE",
+      "Text": "とうもろこしのつぶを薄く\nつぶして作ったもの。\nミルクをかけて食べる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODDOUGHNUT",
+      "Text": "小麦粉の生地を油で\nあげたお菓子。\nなぜ真ん中に穴を\n空けるのかはナゾ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODPERSIMMONPUDDING",
+      "Text": "伝統的なプディング。\nかきを裏ごしして生地に混ぜる\nため、もったりとした食感に。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODBERRYPUDDING",
+      "Text": "ベリーをかざったプディング。\nカスタードの甘さと\nベリーの甘酸っぱさが、\n相性ぴったり。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODAPPLEGERRY",
+      "Text": "りんごとさとうを煮詰めて\n作るジェリー。\nパンにぬるとおいしい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMAPLECANDY",
+      "Text": "メープルシロップを\n冷やしただけのキャンディー。\nいつまでもなめていたい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODVINEGARPIE",
+      "Text": "古くから食べられている\n伝統的なパイ。\n昔、パイにお酢を入れたら\n意外とおいしかったと\nいうのが始まり。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCUSTARDPIE",
+      "Text": "卵とバニラエッセンスで作った\nたっぷりのカスタードを\n乗せたパイ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODHUSHPUPPIES",
+      "Text": "コーンミールに\nきざんだたまねぎを入れ、\n丸めて油であげたお菓子。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODPOPCORN",
+      "Text": "とうもろこしをはぜるまで\n炒ったもの。\n基本はしお味だけど、\n好きな味付けで食べよう。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMINCEPIE",
+      "Text": "ドライフルーツから作った\nミンスミートを乗せて\n焼いたパイ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODDECORATIONCAKE",
+      "Text": "デコレーションがごうかな、\n手のこんだケーキ。\nお祝い用にも。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODRICEPANCAKE",
+      "Text": "米粉を使ったパンケーキ。\nふつうよりもっちりしている。\nあんこを乗せて召し上がれ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSOYMILKCOOKIE",
+      "Text": "ミルクの代わりに豆乳を使った\nクッキー。とってもヘルシー。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODPUDDINGSOYMILK",
+      "Text": "豆乳の入ったプリン。\n大人のおやつにも最適。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODHERBICE",
+      "Text": "スッとするハーブの香りが\n口の中をさわやかにしてくれる\nアイス。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMONAKA",
+      "Text": "おもちから作った皮で\nあんこを包んだお菓子。\n皮が歯にくっつきやすい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODDAIFUKU",
+      "Text": "あんこをおもちで包んだ\nお菓子。中に果物を入れて\n食べることもある。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODKUSADANGO",
+      "Text": "よもぎで作っただんご。\nそぼくで、\n昔なつかしい味わい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMITARASHIDANGO",
+      "Text": "串にささっただんごに、\nさとうじょうゆのあんをかけた\nお菓子。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODKIBIDANGO",
+      "Text": "説明不要の有名なお菓子。\n野生動物がなついてくれそう\nだが、特にそんな効果はない。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSENBEI",
+      "Text": "米粉を練って焼いた昔ながらの\nお菓子。陽のあたる縁側で、\nボリボリと食べたくなる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODDORAYAKI",
+      "Text": "カステラ風の生地で\nあんこを包んだ、みんなが\nとっても大好きなお菓子。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODYOUKAN",
+      "Text": "小豆で作ったあんを固めた\nもの。さとうをたっぷり\n使うので、かなり保存がきく。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSHAVEDICEMIZORE",
+      "Text": "シロップをかけたかき氷。\n急いで食べると\n頭がキーンとする。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSHAVEDICEMACCYA",
+      "Text": "抹茶シロップをかけ、\nあんこをそえたかき氷。\nお上品な味がする。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSHAVEDICESTRAWBERRY",
+      "Text": "いちごシロップの上からさらに\nミルクをかけたかき氷。\nいちごとミルクの相性が\nバツグンに良い。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCASTELLA",
+      "Text": "異国から伝わったとされる\nお菓子。しっとりきめ細かい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODFRUITPUNCH",
+      "Text": "彩り鮮やかなカットフルーツに\n炭酸水をかけたデザート。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODPINEAPPLECAKE",
+      "Text": "パイナップルをかざった\nケーキ。生地にも\n果肉を練り込んである。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODLEMONTARTE",
+      "Text": "レモンクリームと\nレモンの輪切りをあしらった、\n酸味が心地よいタルト。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODFRUITGRATIN",
+      "Text": "フルーツたっぷりのグラタン。\nボリューム満点。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMANGOCAKE",
+      "Text": "マンゴーを生地に混ぜて\n焼き上げたケーキ。\n甘い香りがほのかに広がる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMELONCAKE",
+      "Text": "みずみずしいメロンを\nふんだんに使ったケーキ。\nエメラルド色が見た目にも\n美しい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMALASADA",
+      "Text": "生地を丸めてカリッとあげた\nお菓子。\n外はサクッと、中はふわふわ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODBUTTERICE",
+      "Text": "アイスの中でも定番中の定番。\nバニラエッセンスの甘い香りが\n食欲をそそる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSTRAWBERRYICE",
+      "Text": "いちごを使ったアイス。\n果肉を少し残すのがポイント。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODPINEAPPLEICE",
+      "Text": "パイナップルを使ったアイス。\nあっさりした甘さが心地よい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODPEACHICE",
+      "Text": "ももを使ったアイス。\nうっとりするももの香りが\n女性に喜ばれる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCHERRYICE",
+      "Text": "さくらんぼを使ったアイス。\nほんのり甘い大人の味。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODBANANAICE",
+      "Text": "バナナを使ったアイス。\nねっとりした濃厚な味。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMANGOICE",
+      "Text": "マンゴーを使ったアイス。\n南国にトリップできそうな\n香り。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODAPPLEICE",
+      "Text": "りんごの甘酸っぱい香りが\n口いっぱいに広がるアイス。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODGRAPEICE",
+      "Text": "ほうじゅんなぶどうの香りを\n包み込んだアイス。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMELONICE",
+      "Text": "メロンの果汁が入ったアイス。\n口の中に広がる上品な甘み。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODBLUBERRYICE",
+      "Text": "ブルーベリーをぜいたくに\n使った、甘酸っぱいアイス。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODWATERMELONICE",
+      "Text": "すいかを使ったシャーベット。\n夏らしい一品。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODKIWIFRUITSHERBET",
+      "Text": "キウイを使ったシャーベット。\nさっぱりした味が暑さを\n忘れさせてくれる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODLEMONSHERBET",
+      "Text": "レモンを使ったシャーベット。\n香りも色もさわやか。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODORANGESHERBET",
+      "Text": "オレンジのシャーベット。\n甘酸っぱいシャリシャリ感が\n楽しめる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODPANIPURI",
+      "Text": "小ぶりのあげ菓子。\n甘く味付けしたスパイスソース\nを中に入れて食べる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODNATADECOCO",
+      "Text": "寒天に似たスイーツ。\n色んなフルーツとあわせて\nどうぞ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODALOEYOGURT",
+      "Text": "ヨーグルトにアロエの果肉を\n混ぜたお菓子。\nこりこりした食感が楽しい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODBURFI",
+      "Text": "ミルクとさとうを煮つめて\n作るお菓子。\nミルクケーキのような味。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSATAANDAGI",
+      "Text": "さとうをたっぷり使った\n丸いあげドーナツ。\n中はしっとりもっちり。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODGURUAIBOCHI",
+      "Text": "バナナとさとうを\nココナッツミルクで一緒に\n煮つめたお菓子。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODYOGYRTICE",
+      "Text": "ヨーグルトの酸味が\nさわやかなアイス。\nすっきりとした味わい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCHOCOLATEFONDUE",
+      "Text": "とろとろに溶けたチョコに、\nいろいろなものを\nつけて食べる料理。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMACARON",
+      "Text": "泡立てたメレンゲを\nふっくら焼いて、\nジャムをはさんだお菓子。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODICECRAPE",
+      "Text": "冷たくひやしたクレープに\nアイスクリームを乗せた\nお菓子。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMONTBLANC",
+      "Text": "くりをたっぷり使ったケーキ。\nモンブランという名前の山に\n見立てて作られたため、\n山の形をしている。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCRAFTY",
+      "Text": "カスタードにさくらんぼを\n混ぜてやわらかく焼き上げた、\nプリンのようなお菓子。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCANNOLI",
+      "Text": "サクサクのパイ生地に、\n酸味のきいたチーズ風味の\nクリームをつめたお菓子。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSHORTCAKE",
+      "Text": "たっぷり生クリームをぬった\nスポンジに、色とりどりの\nフルーツを乗せたケーキ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMILLEFEUILLE",
+      "Text": "パイ生地にいちごと生クリーム\nを何層にも重ねたお菓子。\n千枚の葉という意味がある。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCHIFFONCAKE",
+      "Text": "メレンゲのふんわり感が\n決め手のスポンジケーキ。\n季節の果物で盛り付けよう。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCHOCOLATECAKE",
+      "Text": "香り高いチョコレートを\nたっぷり使用した、\nおとな向けほろにがケーキ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCHOUCREAM",
+      "Text": "中を空洞にして焼いた生地に\nたっぷりのクリームを入れた、\nおなじみのお菓子。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMADELINE",
+      "Text": "バターの風味が効いた、\n手軽に作れる小さな焼き菓子。\n貝がらの形にするのが一般的。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODBAVARIAN",
+      "Text": "ミルクたっぷりのババロア。\nジャムをつけていただく。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODBAKLAVA",
+      "Text": "うすい生地を何枚も重ね、\n砕いたアーモンドを間に挟んで\n焼いたお菓子。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODTOMATOJUICE",
+      "Text": "トマトで作った、\n濃厚でフレッシュな\n味わいのジュース。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCARROTJUICE",
+      "Text": "にんじんで作った\nほんのり甘いジュース。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODGRAPEJUICE",
+      "Text": "ぶどう果汁１００％、\nさっぱりとした甘さの\nジュース。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODGINGERALE",
+      "Text": "しょうがで味を付けた炭酸水。\n独特の辛みがクセになる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODAPPLEJUICE",
+      "Text": "りんご果汁をしぼった\nジュース。すりおろした\n実も入れるのがポイント。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCHEESEDRINK",
+      "Text": "チーズ味の飲み物。\nさっぱりした後味の乳酸飲料。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODICECOCOA",
+      "Text": "冷たいココア。\n飲むとほっとする甘さ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODVEGETABLETEA",
+      "Text": "野菜を使ったお茶。\nいろんな香りが楽しめる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSTRAWBERRYTEA",
+      "Text": "いちごのお茶。\nほんのり甘酸っぱい香りが\n口の中に広がる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODPEACHTEA",
+      "Text": "もものお茶。\nふんわりした飲み心地で\n後味すっきり。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCHERRYTEA",
+      "Text": "さくらんぼのお茶。\nすっぱさの中にただよう\n存在感のある甘みが印象的。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODAPPLETEA",
+      "Text": "りんごのお茶。\nフルーツティーの定番。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODBLUBERRYTEA",
+      "Text": "ブルーベリーのほのかな香りと\n優しい酸味が溶け合ったお茶。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODEARLGREY",
+      "Text": "ベルガモットで香り付けした\nフレーバーティーの一種。\n落ち着きのある香り。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODHERBTEA",
+      "Text": "ハーブの香りをぞんぶんに\n楽しむことができる紅茶。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMILKTEA",
+      "Text": "ミルク入りの紅茶。\nまろやかでおいしい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSPRINGMILKTEA",
+      "Text": "春茶葉だけを使用した紅茶。\nやわらかな春の風の香り。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSUMMERMILKTEA",
+      "Text": "夏茶葉だけを使用した紅茶。\nさわやかな緑の風景が広がる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODAUTUMNMILKTEA",
+      "Text": "秋茶葉だけを使用した紅茶。\n熟成された深みを感じる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSPRINGHERBTEA",
+      "Text": "春茶葉の香り付けに\nハーブを使った紅茶。\nうっとりするような香り。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSUMMERHERBTEA",
+      "Text": "夏茶葉の香り付けに\nハーブを使った紅茶。\nスカッとする後味。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODAUTUMNHERBTEA",
+      "Text": "秋茶葉の香り付けに\nハーブを使った紅茶。\nしっとり落ち着いた時間を\n楽しむお供として。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCAPPUCCINO",
+      "Text": "クリーム状に泡立てたミルクを\nコーヒーに加えた飲み物。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCAFEMOCHA",
+      "Text": "コーヒーにミルクと\nチョコレートを混ぜた飲み物。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCOFFEE",
+      "Text": "ひきたての豆を使っていれた\n熱いコーヒー。\n独特の深い苦みとコクがあり、\nこれを楽しめるようになったら\nオトナ…かもしれない。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODHOTMILK",
+      "Text": "ミルクを温めた飲み物。\n寝る前に飲むとほっとする。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODLEMONTEA",
+      "Text": "紅茶にレモン汁を入れたもの。\n冷やして飲んでもおいしい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODEGGNOG",
+      "Text": "ミルクと卵で作る\n甘いドリンク。\nこっくり濃厚な味わい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODLEMONADE",
+      "Text": "さとうの入ったレモン水。\n汗をかいたときに飲むと、\n身も心もすっきりする。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODGREENJUICE",
+      "Text": "野菜のしぼり汁にミルクを\n混ぜて飲みやすくしたもの。\nおなじみの健康飲料。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSHISOJUICE",
+      "Text": "しそをしぼって作るドリンク。\n色鮮やかで体にも良い。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMACCYA",
+      "Text": "粉状の茶葉を泡立てたもの。\n泡がきめ細かいほど良い。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODRYOKUCYA",
+      "Text": "ポピュラーな飲み物のひとつ。\n寒い冬に飲むと、\nしんからあったまる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMACCYAMILK",
+      "Text": "抹茶にミルクを加えた飲み物。\n抹茶の苦みとミルクのコクが\n相性ぴったり。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODAMAZAKE",
+      "Text": "お米から作る甘いお酒。\nおめでたいときに\n飲むことが多い。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODUMECYA",
+      "Text": "緑茶にうめを入れた飲み物。\nまろやかな酸味。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODGREENTEA",
+      "Text": "さとうと抹茶を合わせて\n水に溶かした飲み物。\nかんたんでおいしい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODHIYASHIAME",
+      "Text": "みずあめにおろししょうがを\n加え、つめたーく冷やした\n飲み物。夏の風物詩。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODPINEAPPLEJUICE",
+      "Text": "パイナップル果汁１００％の\n甘酸っぱいジュース。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODWATERMELONJUICE",
+      "Text": "すいか果汁１００％の\nフレッシュで甘いジュース。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODKIWIFRUITJUICE",
+      "Text": "キウイ果汁１００％の\nジュース。まろやかな酸味。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODLITCHEEJUICE",
+      "Text": "ライチ果汁１００％の\nさっぱりした甘さのジュース。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMANGOJUICE",
+      "Text": "マンゴー果汁１００％の\n濃厚な甘さのジュース。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODORANGEJUICE",
+      "Text": "オレンジ果汁１００％の\n酸味と甘みが抜群なジュース。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMELONJUICE",
+      "Text": "メロン果汁１００％の\n上品な甘さのジュース。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODBANANAAULAIT",
+      "Text": "ミルクを多めに使った\nバナナジュース。\nバナナの果肉も入って、\n濃厚な甘みがある。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODVANILLASHAKE",
+      "Text": "バニラ味のシェイク。\n甘いバニラの香りが\nたまらない。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSOYBANANASHAKE",
+      "Text": "豆乳とバナナを混ぜた\nシェイク。\n濃密リッチな味わい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCOCONUTPINESHAKE",
+      "Text": "パイナップルとココナッツの\nシェイク。\nパイナップルの酸味が\nココナッツの甘さと合わさり、\n飲みやすくなっている。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCHERRYPEACHSHAKE",
+      "Text": "さくらんぼともものシェイク。\nピンク色で、\n女の子に好まれそう。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODDOUBLEBERRYSHAKE",
+      "Text": "いちごとベリーのシェイク。\n色鮮やかな赤紫色。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODSUNRISESHAKE",
+      "Text": "あんずとマンゴーのシェイク。\n元気いっぱい、太陽のような\n味わい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODAPPLECINNAMONSHAKE",
+      "Text": "りんごとしょうがのシェイク。\nりんごの酸味を、\nしょうがが引き立てる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODWATERMELONMILKSHAKE",
+      "Text": "甘いすいかにコンデンスミルク\nを足したシェイク。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODHONEYLEMONSHAKE",
+      "Text": "ハチミツとレモンのシェイク。\nさわやかな青春の味。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODMELONSODA",
+      "Text": "メロンの果汁を炭酸水で割った\n飲み物。お子様に大人気。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODGRAPEKIWISHAKE",
+      "Text": "キウイとぶどうのシェイク。\n異なる二つの酸味が\n絶妙にマッチ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODORANGECHOCOLATESHAKE",
+      "Text": "オレンジとチョコレートの\nシェイク。甘いチョコに\nオレンジの酸味が加わり、\nビターマイルドな味に。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODYOGYRTSMOOTHIE",
+      "Text": "凍らせたフルーツを\nミルクで割った飲み物。\n素材の味が際立つ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODGREENSMOOTHIE",
+      "Text": "凍らせた野菜を\nミルクで割った飲み物。\n健康志向の人にぴったり。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCOCONUTMILK",
+      "Text": "ココナッツの実から採れる\nミルク。\n南国では重要な飲み物。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODTAPIOCAJUICE",
+      "Text": "ココナッツミルクにタピオカを\n入れた飲み物。タピオカの\nもちもち感が楽しい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODTROPICALJUICE",
+      "Text": "トロピカルフルーツを\nココナッツミルクで\n割ったもの。\n浜辺で飲むと雰囲気ばっちり。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODTAPIOCATEA",
+      "Text": "タピオカ入りミルクティー。\n底にしずんだタピオカを\nストローで吸うのが楽しい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODCHAI",
+      "Text": "ミルクでとろりと煮出した紅茶\nに色んなスパイスを入れた、\n独特な風味の飲み物。\nスパイスの調合は\n家庭によって異なる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODHIBISCUSTEA",
+      "Text": "ハイビスカスで入れたお茶。\n透明な赤色がとてもきれい。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODLASSI",
+      "Text": "ヨーグルトにミルクを混ぜて\n作った飲み物。\nカレー料理に良くあう。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODYOGYRTDRINK",
+      "Text": "ヨーグルトをミルクで割って\n飲みやすくしたドリンク。\nすっきりさわやか。"
+    },
+    {
+      "VardId": "INFO_ITEM_FOODTIRAMISUSHAKE",
+      "Text": "ティラミスで作ったシェイク。\nココアの香りと冷たい食感が\nたまらない。"
+    },
+    {
+      "VardId": "INFO_ITEM_CHEESE",
+      "Text": "ウシのミルクで作った\n美味しいチーズ。\nいろいろな料理に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CHEESEGOKU",
+      "Text": "ウシのミルクで作った\n高級なチーズ。\nいろいろな料理に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CHEESEJERSEY",
+      "Text": "ジャージーミルクで作った\n濃くて美味しいチーズ。\nいろいろな料理に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CHEESEJERSEYGOKU",
+      "Text": "ジャージーミルクで作った\n濃厚な高級チーズ。\nいろいろな料理に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CHEESEBUFFALO",
+      "Text": "バッファローミルクで作った\n力強いチーズ。\nいろいろな料理に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CHEESEGOKUBUFFALO",
+      "Text": "バッファローミルクで作った\n力強さを極めたチーズ。\nいろいろな料理に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CHEESEHERB",
+      "Text": "ハーブを練り込んだ\n風味豊かなチーズ。\nいろいろな料理に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CHEESEGOLDEN",
+      "Text": "チーズの粋を結集した\n黄金にかがやく究極のチーズ。\nすべてのチーズの王様。"
+    },
+    {
+      "VardId": "INFO_ITEM_BUTTER",
+      "Text": "ウシのミルクで作った\n美味しいバター。\nいろいろな料理に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_BUTTERGOKU",
+      "Text": "ウシのミルクで作った\n高級なバター。\nいろいろな料理に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_BUTTERJERSEY",
+      "Text": "ジャージーミルクで作った\n濃くて美味しいバター。\nいろいろな料理に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_BUTTERGOKUJERSEY",
+      "Text": "ジャージーミルクで作った\n濃厚な高級バター。\nいろいろな料理に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_BUTTERBUFFALO",
+      "Text": "バッファローミルクで作った\n力強いバター。\nいろいろな料理に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_BUTTERGOKUBUFFALO",
+      "Text": "バッファローミルクで作った\n力強さを極めたバター。\nいろいろな料理に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_BUTTERALMOND",
+      "Text": "アーモンドで作ったバター。\n濃厚でコクがあり、\nクセになる味わい。"
+    },
+    {
+      "VardId": "INFO_ITEM_BUTTERCACAO",
+      "Text": "カカオで作ったバター。\nカカオパワーがいっぱい。"
+    },
+    {
+      "VardId": "INFO_ITEM_BUTTERMAPLE",
+      "Text": "メープルシロップで\n作ったバター。\nメープルパワーがいっぱい。"
+    },
+    {
+      "VardId": "INFO_ITEM_BUTTERGOLDEN",
+      "Text": "バターのうまみを結集した\n黄金にかがやく究極のバター。\nすべてのバターの王様。"
+    },
+    {
+      "VardId": "INFO_ITEM_YOGYRT",
+      "Text": "ウシのミルクで作った\n美味しいヨーグルト。\nいろいろな料理に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_YOGYRTGOKU",
+      "Text": "ウシのミルクで作った\n高級なヨーグルト。\nいろいろな料理に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_YOGYRTJERSEY",
+      "Text": "ジャージーミルクで作った\n濃くて美味しいヨーグルト。\nいろいろな料理に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_YOGYRTGOKUJERSEY",
+      "Text": "ジャージーミルクで作った\n濃厚な高級ヨーグルト。\nいろいろな料理に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_YOGYRTBUFFALO",
+      "Text": "バッファローミルクで作った\n力強いヨーグルト。\nいろいろな料理に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_YOGYRTGOKUBUFFALO",
+      "Text": "バッファローミルクで作った\n力強さを極めたヨーグルト。\nいろいろな料理に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_YOGYRTFRUIT",
+      "Text": "果実入りのヨーグルト。\nいろいろな料理に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_YOGYRTGOLDEN",
+      "Text": "ヨーグルトのうまみを結集した\n究極のヨーグルト。\nすべてのヨーグルトの王様。"
+    },
+    {
+      "VardId": "INFO_ITEM_CORNFLOUR",
+      "Text": "とうもろこしを粉状にした物。\nいろいろな料理に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_FLOUR",
+      "Text": "小麦の粉が入ったふくろ。\nパンやパスタの材料になる。"
+    },
+    {
+      "VardId": "INFO_ITEM_BREADFLOUR",
+      "Text": "パンの粉が入ったふくろ。\nあげものの材料になる。"
+    },
+    {
+      "VardId": "INFO_ITEM_RICE",
+      "Text": "ご飯の材料。炊いて食べるのも\n料理に使うのも良し。"
+    },
+    {
+      "VardId": "INFO_ITEM_MOCHIRICE",
+      "Text": "おもちを作る時に使うお米。\n炊くとふつうのお米より\nモチモチしている。"
+    },
+    {
+      "VardId": "INFO_ITEM_RICEFLOUR",
+      "Text": "お米の粉が入ったふくろ。\nちょっとユニークな料理に。\nヘルシー料理の材料でも\nよく使われる。"
+    },
+    {
+      "VardId": "INFO_ITEM_SUGAR",
+      "Text": "料理の時に欠かせない調味料。\n適量を入れることで食材の\nうまみをさらに引き立たせる。"
+    },
+    {
+      "VardId": "INFO_ITEM_SALT",
+      "Text": "料理の時に欠かせない調味料。\nただし入れすぎには注意。"
+    },
+    {
+      "VardId": "INFO_ITEM_SPICE",
+      "Text": "料理に入れると辛みが\nさらに上がって激辛になる。\n辛すぎて舌がしびれちゃう…。"
+    },
+    {
+      "VardId": "INFO_ITEM_COCOAPACK",
+      "Text": "カカオ粉が入ったパック。\nお手軽にココアを楽しめる。\nチョコレートの元にもなる。"
+    },
+    {
+      "VardId": "INFO_ITEM_TAPIOCA",
+      "Text": "キャッサバから作った\nでんぷんを丸く固めた物。\nデザートによく使われる。"
+    },
+    {
+      "VardId": "INFO_ITEM_MAYONNAISE",
+      "Text": "美味しいマヨネーズ。\nいろいろな料理に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_MAYONNAISEGOKU",
+      "Text": "高級なマヨネーズ。\nいろいろな料理に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_MAYONNAISESILKYFOWL",
+      "Text": "濃くて美味しいマヨネーズ。\nいろいろな料理に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_MAYONNAISEGOKUSILKYFOWL",
+      "Text": "濃厚な高級マヨネーズ。\nいろいろな料理に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_MAYONNAISEQUAIL",
+      "Text": "ウズラの卵のマヨネーズ。\nいろいろな料理に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_MAYONNAISEGOKUQUAIL",
+      "Text": "極ウズラの卵のマヨネーズ。\nいろいろな料理に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_MAYONNAISEWILDVEGETABLE",
+      "Text": "山菜のマヨネーズ。\nいろいろな料理に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_MAYONNAISEGOLDEN",
+      "Text": "マヨネーズのうまみを結集した\n究極のマヨネーズ。\nすべてのマヨネーズの王様。"
+    },
+    {
+      "VardId": "INFO_ITEM_DRIEDFRUIT",
+      "Text": "水分を無くしたフルーツ。\nいろいろな料理に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_VANILLAESSENCE",
+      "Text": "バニラからつくる調味料。\nいろいろな料理に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_VINEGAR",
+      "Text": "酸味付けに欠かせない調味料。\nいろいろな料理に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_OIL",
+      "Text": "オリーブから作られた油。\nあげものやいためものに\nよく使われる。"
+    },
+    {
+      "VardId": "INFO_ITEM_VEGETABLEJAM",
+      "Text": "野菜で作ったジャム。\n嫌いな野菜でも気にせず\n食べられるようになるはず！\nどの野菜を使ったかは内緒。"
+    },
+    {
+      "VardId": "INFO_ITEM_STRAWBERRYJAM",
+      "Text": "いちごのジャム。\n甘くてすっぱくて美味しい。\nジャムの定番！"
+    },
+    {
+      "VardId": "INFO_ITEM_PINEAPPLEJAM",
+      "Text": "パイナップルのジャム。\nすっきりとしたさわやかな\n香りがするジャム。"
+    },
+    {
+      "VardId": "INFO_ITEM_WATERMELONJAM",
+      "Text": "すいかのジャム。\n夏を感じる味がする。\nでも、たまに種が入ってる。"
+    },
+    {
+      "VardId": "INFO_ITEM_MELONJAM",
+      "Text": "メロンのジャム。\nさわやかな甘みのあるジャム。"
+    },
+    {
+      "VardId": "INFO_ITEM_CHERRYJAM",
+      "Text": "さくらんぼのジャム。\n少し酸味が効いている。\n鮮やかな赤色がキレイ。"
+    },
+    {
+      "VardId": "INFO_ITEM_PEACHJAM",
+      "Text": "もものジャム。\n思ったより甘さひかえめ。\n完熟したももを使うと\nもっと美味しくなりそう。"
+    },
+    {
+      "VardId": "INFO_ITEM_BANANAJAM",
+      "Text": "バナナのジャム。\nとろっとろで甘くて\nとても美味しい。"
+    },
+    {
+      "VardId": "INFO_ITEM_MANGOJAM",
+      "Text": "マンゴーのジャム。\n甘さひかえめで、\nフルーツ感覚で食べられる。"
+    },
+    {
+      "VardId": "INFO_ITEM_APPLEJAM",
+      "Text": "りんごのジャム。\nさっぱりした甘みが美味しい。\n果肉が残っているとさらに\n美味しいかもしれない。"
+    },
+    {
+      "VardId": "INFO_ITEM_GRAPEJAM",
+      "Text": "ぶどうのジャム。\n甘くて美味しい。\nぶどう狩りの後にぜひどうぞ。"
+    },
+    {
+      "VardId": "INFO_ITEM_KIWIFRUITJAM",
+      "Text": "キウイのジャム。\n甘くてすっぱくて美味しい。\n煮込んでジャムにすると少し\n黄色くなる。"
+    },
+    {
+      "VardId": "INFO_ITEM_LEMONJAM",
+      "Text": "レモンのジャム。\nすっぱさがあふれるジャム。"
+    },
+    {
+      "VardId": "INFO_ITEM_ORANGEJAM",
+      "Text": "オレンジのジャム。\n色とつやがとてもいい。\n皮ごと入れるとマーマレードに\nなるらしい。"
+    },
+    {
+      "VardId": "INFO_ITEM_PERSIMMONJAM",
+      "Text": "かきのジャム。\n甘さがあふれるジャム。"
+    },
+    {
+      "VardId": "INFO_ITEM_STARFRUITJAM",
+      "Text": "スターフルーツのジャム。\n甘酸っぱさがあふれるジャム。"
+    },
+    {
+      "VardId": "INFO_ITEM_LITCHEEJAM",
+      "Text": "ライチのジャム。\n独特の味があふれるジャム。"
+    },
+    {
+      "VardId": "INFO_ITEM_APRICOTJAM",
+      "Text": "アプリコットのジャム。\nやさしい甘さのジャム。"
+    },
+    {
+      "VardId": "INFO_ITEM_BLUBERRYJAM",
+      "Text": "ブルーベリーのジャム。\n疲れた目にちょうどいい。"
+    },
+    {
+      "VardId": "INFO_ITEM_CHOCOLATEJAM",
+      "Text": "チョコレートのジャム。\nあま〜くておいしいジャム。"
+    },
+    {
+      "VardId": "INFO_ITEM_MILKJAM",
+      "Text": "ミルクで作ったジャム。\n煮るだけで簡単に作れる。"
+    },
+    {
+      "VardId": "INFO_ITEM_HERBJAM",
+      "Text": "ハーブで作ったジャム。\nハーブの風味が良くフルーツに\n負けないくらい栄養たっぷり。"
+    },
+    {
+      "VardId": "INFO_ITEM_KABUSEMMAIDUKE",
+      "Text": "かぶの漬物。\nかぶを薄く切った漬物。"
+    },
+    {
+      "VardId": "INFO_ITEM_CUCUMBERASADUKE",
+      "Text": "きゅうりの漬物。\nきゅうりを調味料であっさり\nつけたもの。"
+    },
+    {
+      "VardId": "INFO_ITEM_TAKUAN",
+      "Text": "だいこんの漬物。\nだいこんを調味料につけて\n黄色くなるまでつけたもの。"
+    },
+    {
+      "VardId": "INFO_ITEM_EGGPLANTSHIBADUKE",
+      "Text": "なすの漬物。\nなすを調味料につけたもの。"
+    },
+    {
+      "VardId": "INFO_ITEM_UMEBOSHI",
+      "Text": "うめの漬物。\nすっぱくてご飯のお供に最適。"
+    },
+    {
+      "VardId": "INFO_ITEM_PICKLES",
+      "Text": "きゅうりの漬物。\n他の野菜でもピクルスに\nすることがある。"
+    },
+    {
+      "VardId": "INFO_ITEM_KIMUCHI",
+      "Text": "はくさいの漬物。\n赤くて辛い、でもうまい。"
+    },
+    {
+      "VardId": "INFO_ITEM_SOYSAUCE",
+      "Text": "大豆から作ることができる。\nコクのある香りと味わいで、\n食材をよりおいしくする\n定番調味料。"
+    },
+    {
+      "VardId": "INFO_ITEM_MISO",
+      "Text": "大豆から作ることができる。\n深い味わいで健康にもいい\n定番調味料。"
+    },
+    {
+      "VardId": "INFO_ITEM_SOYMILK",
+      "Text": "大豆からとった飲み物。\n色は少し灰色の白。"
+    },
+    {
+      "VardId": "INFO_ITEM_TOFU",
+      "Text": "大豆で作る四角い食べ物。\nやわらかくてしょうゆと合う。"
+    },
+    {
+      "VardId": "INFO_ITEM_STRAWBERRYWINE",
+      "Text": "いちごで作るワイン。\nあまい味わいがある。"
+    },
+    {
+      "VardId": "INFO_ITEM_PINEAPPLEWINE",
+      "Text": "パイナップルで作るワイン。\nすっぱい味わいがある。"
+    },
+    {
+      "VardId": "INFO_ITEM_WATERMELONWINE",
+      "Text": "すいかで作るワイン。\nさわやかな味わいがある。"
+    },
+    {
+      "VardId": "INFO_ITEM_MELONWINE",
+      "Text": "メロンで作るワイン。\n独特の甘さを持つ。"
+    },
+    {
+      "VardId": "INFO_ITEM_CHERRYWINE",
+      "Text": "さくらんぼで作るワイン。\n甘酸っぱい味わいがある。"
+    },
+    {
+      "VardId": "INFO_ITEM_PEACHWINE",
+      "Text": "ももで作るワイン。\nほのかな甘みがある。"
+    },
+    {
+      "VardId": "INFO_ITEM_BANANAWINE",
+      "Text": "バナナで作るワイン。\n濃厚な甘みがある。"
+    },
+    {
+      "VardId": "INFO_ITEM_MANGOWINE",
+      "Text": "マンゴーで作るワイン。\nフレッシュな甘みがある。"
+    },
+    {
+      "VardId": "INFO_ITEM_APPLEWINE",
+      "Text": "りんごで作るワイン。\nさわやかな甘みがある。"
+    },
+    {
+      "VardId": "INFO_ITEM_GRAPEWINE",
+      "Text": "ぶどうで作るワイン。\n深い味わいを持つ。"
+    },
+    {
+      "VardId": "INFO_ITEM_KIWIWINE",
+      "Text": "キウイで作るワイン。\n甘酸っぱい味わいを持つ。"
+    },
+    {
+      "VardId": "INFO_ITEM_LEMONWINE",
+      "Text": "レモンで作るワイン。\nさっぱりした味わいを持つ。"
+    },
+    {
+      "VardId": "INFO_ITEM_ORANGEWINE",
+      "Text": "オレンジで作るワイン。\n酸味のある味わいを持つ。"
+    },
+    {
+      "VardId": "INFO_ITEM_PERSIMMONWINE",
+      "Text": "かきで作るワイン。\n甘味としぶ味がある。"
+    },
+    {
+      "VardId": "INFO_ITEM_STARFRUITWINE",
+      "Text": "スターフルーツで作るワイン。\nくせになるすっぱさを持つ。"
+    },
+    {
+      "VardId": "INFO_ITEM_LITCHEEWINE",
+      "Text": "ライチで作るワイン。\nさわやかなジューシーさを\n持つ。"
+    },
+    {
+      "VardId": "INFO_ITEM_BLUBERRYWINE",
+      "Text": "ブルーベリーで作るワイン。\n甘みとほのかな酸味がある。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHWHITE",
+      "Text": "清潔感のある白色の布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHBLACK",
+      "Text": "クールな黒色の布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHBROWN",
+      "Text": "やわらかい茶色の布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHRED",
+      "Text": "鮮やかな赤色の布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHYELLOW",
+      "Text": "明るい黄色の布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHGREEN",
+      "Text": "ナチュラルな緑色の布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHBLUE",
+      "Text": "すがすがしい青色の布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHGOKUWHITE",
+      "Text": "清潔感のある白色の極上布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHGOKUBLACK",
+      "Text": "クールな黒色の極上布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHGOKUBROWN",
+      "Text": "やわらかい茶色の極上布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHGOKURED",
+      "Text": "鮮やかな赤色の極上布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHGOKUYELLOW",
+      "Text": "明るい黄色の極上布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHGOKUGREEN",
+      "Text": "ナチュラルな緑色の極上布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHGOKUBLUE",
+      "Text": "すがすがしい青色の極上布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHGOKUSILVER",
+      "Text": "スタイリッシュな銀色の\n極上布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHGOKUGOLD",
+      "Text": "ごうかな金色の極上布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHSUFFOLKWHITE",
+      "Text": "清潔感のある白色の\nサフォーク布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHSUFFOLKBLACK",
+      "Text": "クールな黒色の\nサフォーク布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHSUFFOLKBROWN",
+      "Text": "やわらかい茶色の\nサフォーク布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHSUFFOLKRED",
+      "Text": "鮮やかな赤色の\nサフォーク布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHSUFFOLKYELLOW",
+      "Text": "明るい黄色の\nサフォーク布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHSUFFOLKGREEN",
+      "Text": "ナチュラルな緑色の\nサフォーク布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHSUFFOLKBLUE",
+      "Text": "すがすがしい青色の\nサフォーク布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHSUFFOLKGOKUWHITE",
+      "Text": "清潔感のある白色の\n極上サフォーク布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHSUFFOLKGOKUBLACK",
+      "Text": "クールな黒色の\n極上サフォーク布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHSUFFOLKGOKUBROWN",
+      "Text": "やわらかい茶色の\n極上サフォーク布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHSUFFOLKGOKURED",
+      "Text": "鮮やかな赤色の\n極上サフォーク布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHSUFFOLKGOKUYELLOW",
+      "Text": "明るい黄色の\n極上サフォーク布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHSUFFOLKGOKUGREEN",
+      "Text": "ナチュラルな緑色の\n極上サフォーク布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHSUFFOLKGOKUBLUE",
+      "Text": "すがすがしい青色の\n極上サフォーク布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHSUFFOLKGOKUSILVER",
+      "Text": "スタイリッシュな銀色の\n極上サフォーク布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHSUFFOLKGOKUGOLD",
+      "Text": "ごうかな金色の\n極上サフォーク布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHPAKAWHITE",
+      "Text": "清潔感のある白色の\nアルパカ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHPAKABLACK",
+      "Text": "クールな黒色の\nアルパカ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHPAKARED",
+      "Text": "鮮やかな赤色の\nアルパカ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHPAKAYELLOW",
+      "Text": "明るい黄色の\nアルパカ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHPAKAGREEN",
+      "Text": "ナチュラルな緑色の\nアルパカ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHPAKABLUE",
+      "Text": "すがすがしい青色の\nアルパカ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHPAKAGOKUWHITE",
+      "Text": "清潔感のある白色の\n極上アルパカ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHPAKAGOKUBLACK",
+      "Text": "クールな黒色の\n極上アルパカ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHPAKAGOKURED",
+      "Text": "鮮やかな赤色の\n極上アルパカ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHPAKAGOKUYELLOW",
+      "Text": "明るい黄色の\n極上アルパカ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHPAKAGOKUGREEN",
+      "Text": "ナチュラルな緑色の\n極上アルパカ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHPAKAGOKUBLUE",
+      "Text": "すがすがしい青色の\n極上アルパカ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHPAKABROWN",
+      "Text": "しぶい茶色のアルパカ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHPAKAGOKUBROWN",
+      "Text": "しぶい茶色の\n極上アルパカ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHLLAMABLACK",
+      "Text": "クールな黒色のリャマ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHLLAMAGOKUBLACK",
+      "Text": "クールな黒色の\n極上リャマ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHLLAMAGOKUSILVER",
+      "Text": "スタイリッシュな銀色の\n極上リャマ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHLLAMAGOKUGOLD",
+      "Text": "ごうかな金色の\n極上リャマ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHRABBITWHITE",
+      "Text": "清潔感のある白色のウサギ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHRABBITBLACK",
+      "Text": "クールな黒色のウサギ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHRABBITBROWN",
+      "Text": "やわらかい茶色のウサギ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHRABBITRED",
+      "Text": "鮮やかな赤色のウサギ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHRABBITYELLOW",
+      "Text": "明るい黄色のウサギ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHRABBITGREEN",
+      "Text": "ナチュラルな緑色のウサギ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHRABBITBLUE",
+      "Text": "すがすがしい青色のウサギ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHRABBITGOKUWHITE",
+      "Text": "清潔感のある白色の\n極上ウサギ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHRABBITGOKUBLACK",
+      "Text": "クールな黒色の\n極上ウサギ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHRABBITGOKUBROWN",
+      "Text": "やわらかい茶色の\n極上ウサギ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHRABBITGOKURED",
+      "Text": "鮮やかな赤色の\n極上ウサギ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHRABBITGOKUYELLOW",
+      "Text": "明るい黄色の\n極上ウサギ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHRABBITGOKUGREEN",
+      "Text": "ナチュラルな緑色の\n極上ウサギ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHRABBITGOKUBLUE",
+      "Text": "すがすがしい青色の\n極上ウサギ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHRABBITGOKUSILVER",
+      "Text": "スタイリッシュな銀色の\n極上ウサギ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHRABBITGOKUGOLD",
+      "Text": "ごうかな金色の\n極上ウサギ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHRABBITGRAY",
+      "Text": "シックな灰色のウサギ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHRABBITGOKUGRAY",
+      "Text": "シックな灰色の\n極上ウサギ布。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHCOTTONWHITE",
+      "Text": "清潔感のある白色のコットン。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHCOTTONBLACK",
+      "Text": "クールな黒色のコットン。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHCOTTONBROWN",
+      "Text": "やわらかい茶色のコットン。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHCOTTONRED",
+      "Text": "鮮やかな赤色のコットン。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHCOTTONYELLOW",
+      "Text": "明るい黄色のコットン。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHCOTTONGREEN",
+      "Text": "ナチュラルな緑色のコットン。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHCOTTONBLUE",
+      "Text": "すがすがしい青色のコットン。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHCOTTONSILVER",
+      "Text": "スタイリッシュな銀色の\nコットン。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHCOTTONGOLD",
+      "Text": "ごうかな金色のコットン。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHLINENWHITE",
+      "Text": "清潔感のある白色のリネン。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHLINENBLACK",
+      "Text": "クールな黒色のリネン。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHLINENBROWN",
+      "Text": "やわらかい茶色のリネン。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHLINENRED",
+      "Text": "鮮やかな赤色のリネン。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHLINENYELLOW",
+      "Text": "明るい黄色のリネン。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHLINENGREEN",
+      "Text": "ナチュラルな緑色のリネン。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHLINENBLUE",
+      "Text": "すがすがしい青色のリネン。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHLINENSILVER",
+      "Text": "スタイリッシュな銀色の\nリネン。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_CLOTHLINENGOLD",
+      "Text": "ごうかな金色のリネン。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_THREADCOTTONWHITE",
+      "Text": "清潔感のある白色の綿糸。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_THREADCOTTONBLACK",
+      "Text": "クールな黒色の綿糸。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_THREADCOTTONBROWN",
+      "Text": "やわらかい茶色の綿糸。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_THREADCOTTONRED",
+      "Text": "鮮やかな赤色の綿糸。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_THREADCOTTONYELLOW",
+      "Text": "明るい黄色の綿糸。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_THREADCOTTONGREEN",
+      "Text": "ナチュラルな緑色の綿糸。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_THREADCOTTONBLUE",
+      "Text": "すがすがしい青色の綿糸。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_THREADCOTTONSILVER",
+      "Text": "スタイリッシュな銀色の綿糸。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_THREADCOTTONGOLD",
+      "Text": "ごうかな金色の綿糸。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_THREADLINENWHITE",
+      "Text": "清潔感のある白色の麻糸。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_THREADLINENBLACK",
+      "Text": "クールな黒色の麻糸。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_THREADLINENBROWN",
+      "Text": "やわらかい茶色の麻糸。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_THREADLINENRED",
+      "Text": "鮮やかな赤色の麻糸。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_THREADLINENYELLOW",
+      "Text": "明るい黄色の麻糸。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_THREADLINENGREEN",
+      "Text": "ナチュラルな緑色の麻糸。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_THREADLINENBLUE",
+      "Text": "すがすがしい青色の麻糸。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_THREADLINENSILVER",
+      "Text": "スタイリッシュな銀色の麻糸。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_THREADLINENGOLD",
+      "Text": "ごうかな金色の麻糸。\n服などの材料に使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_RING",
+      "Text": "きれいな指輪。"
+    },
+    {
+      "VardId": "INFO_ITEM_RING_15",
+      "Text": "ウェスタウンの伝統的な\nプロポーズアイテム。\n\n丸い輪の形は、途切れない\n永遠の愛を表している。"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_ANAGO",
+      "Text": "いつでも獲れる魚。\nウナギとそっくりで\nちがいがあまり分からない。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_AMAGO",
+      "Text": "春から秋に獲れる魚。\n同じ種類の魚の中で川に残った\n個体のことをアマゴという。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_AYU",
+      "Text": "夏から冬にかけて獲れる魚。\nすいかやきゅうりのような\n香りがするらしい。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_IWASI",
+      "Text": "春から秋にかけて獲れる。\n栄養価が高いとても優秀な魚。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_IWANA",
+      "Text": "春と秋に獲れる魚。\n水の冷たいところを好む。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_UGUI",
+      "Text": "いつでも獲れる魚。\n群れで泳いで環境への\n適応力が強い。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_UTSUBO",
+      "Text": "春と冬に獲れる魚。\n口が大きくするどい歯を持つ。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_OIKAWA",
+      "Text": "いつでも獲れる魚。\n釣り人に人気がある。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_KAJIKA",
+      "Text": "夏から冬に獲れる魚。\n大きな胸びれを持っている。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_KATUO",
+      "Text": "夏と秋に獲れる魚。\nアゴががっしりしていて、\n縦じまのもようがついている。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_KAREI",
+      "Text": "夏から冬にかけて獲れる魚。\n平たい体をしていて両目が\n体の右側についている。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_FISHGIGI",
+      "Text": "いつでも獲れる魚。\n胸ビレのとげを使ってギギと\n音を鳴らす。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_KUE",
+      "Text": "冬に獲れる魚。\nとても高級な魚で、\n釣り人のあこがれの的。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_KOI",
+      "Text": "いつでも獲れる魚。\n口ひげが2本生えている。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_SAKE",
+      "Text": "秋に獲れる魚。\n産卵時期には必ず生まれた川に\n戻ってくる。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_SABA",
+      "Text": "秋と冬に獲れる魚。\nその体は青くかがやいており\n青魚の代表格。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_SAYORI",
+      "Text": "春と秋と冬に獲れる魚。\n下あごが突き出ていて、\nあごの下が鮮やかな朱色に\nなっている。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_SANMA",
+      "Text": "秋に獲れる魚。\n食べると血流が良くなり\n頭の回転が早くなるかも？\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_FISHCRAYFISH",
+      "Text": "春から秋に獲れる。\n大きなはさみを持ち、\nカニに似た姿をしている。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_FISHSHIRA",
+      "Text": "夏と秋に獲れる魚。\n成長していくとオスは\nひたいが盛り上がる。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_SISYAMO",
+      "Text": "秋と冬に獲れる魚。\nある植物の葉が名前の由来。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_SIRAUO",
+      "Text": "春と冬に獲れる魚。\nほとんど透明で体の中が\n透けて見える。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_SUKETOUDARA",
+      "Text": "冬に獲れる魚。\n白身魚として有名。\n鮮度がすぐ落ちやすい。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_SUZUKI",
+      "Text": "いつでも獲れる魚。\n成長とともに名前が変わる。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_TAI",
+      "Text": "春と冬に獲れる魚。\nタイを使った料理は縁起物\nとして祝いの席で出てくる。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_FISHTAKASAGO",
+      "Text": "いつでも獲れる魚。\n普段は緑系の色をしているが\n興奮すると赤く変化する。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_TACHIUO",
+      "Text": "夏から冬にかけて獲れる魚。\nヘビのように体をくねらせて\n海を泳ぐ。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_FISHSEAHORSE",
+      "Text": "いつでも獲れる魚。\nメスが産んだ卵をオスが自分の\n袋の中で孵化するまで守る。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_DOJYOU",
+      "Text": "春と夏に獲れる魚。\n口ひげが10本も生えている。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_TOBIUO",
+      "Text": "春に獲れる魚。\n大きな胸びれと腹びれで\n飛ぶように水上に飛び出す\nこともある。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_FISHRAINBOWTROUT",
+      "Text": "春から秋にかけて獲れる魚。\nオスの身体がキレイな虹色に\n変わることから名前がついた。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_HASU",
+      "Text": "いつでも獲れる魚。\n口がへの字に曲がっている。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_HAZE",
+      "Text": "秋と冬に獲れる魚。\nふだんは水の底にお腹をつけ、\n胸びれをはためかせて海を\n泳ぐ。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_FISHSTARFISH",
+      "Text": "いつでも獲れるヒトデ。\n星型をした変わった生物。\n一部が切れても再生できる。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_FISHKOKANEE",
+      "Text": "いつでも獲れる魚。\n鮮度が落ちやすいことが\n欠点だが食べるととても\nおいしい魚。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_HIRAME",
+      "Text": "いつでも獲れる魚。\n平たい体をしていて、\n両目が体の左側についている。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_FUGU",
+      "Text": "冬に獲れる魚。\n「どく」には注意が必要。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_FUNA",
+      "Text": "いつでも獲れる魚。\nいろいろなものを食べる。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_BLACKBASS",
+      "Text": "春から秋にかけて獲れる魚。\n体の大きさのわりには\n力が強い。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_BLUEGIRU",
+      "Text": "春から秋にかけて獲れる魚。\nえらの所に青いもようがある。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_FISHHOKI",
+      "Text": "いつでも獲れる魚。\n深海魚なのでインパクトの\nある顔をしている。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_FISHBORA",
+      "Text": "夏と秋に獲れる魚。\nいろんな場所で釣れるので\n呼び方がたくさんある魚。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_FISHWHITEBASS",
+      "Text": "いつでも獲れる魚。\nブラックバスの白版ではなく、\n別の種類の魚。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_HONMOROKO",
+      "Text": "秋と冬に獲れる魚。\n細長い体をしている。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_MAGURO",
+      "Text": "秋と冬に獲れる魚。\n寝ている間も泳ぎ続ける。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_MASU",
+      "Text": "いつでも獲ることのできる魚。\n栄養価がとても豊富。\nサケと似ているけど\nちょっとちがう。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_MANBOW",
+      "Text": "春と夏に獲れる魚。\nとても大きく、のんびりとした\n顔をしている。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_MEDAKA",
+      "Text": "春から秋にかけて獲れる魚。\n水がキレイなところに住む。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_YAMAME",
+      "Text": "春と夏に獲れる魚。\n体にきれいなもようがあり\n女性的な美しさをそなえる。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_RAIGYO",
+      "Text": "春から秋にかけて獲れる魚。\n細長い体とヘビのような頭から\n別名、スネークヘッド。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_FISHLAKETROUT",
+      "Text": "春と秋と冬に獲れる魚。\n虫食い状のはんてんもようが\n特徴的な魚。\nまた釣り人からも人気がある。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_WAKASAGI",
+      "Text": "春と秋と冬に獲れる魚。\n天ぷらにすると美味しい。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_FISHSPEARSQUID",
+      "Text": "春と秋と冬に獲れるイカ。\n釣る時はスミをかけられない\nように注意しよう。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_FISHFIREFLYSQUID",
+      "Text": "春と夏に獲れるイカ。\nサイズは小さいが自分の身体を\n光らせることができる。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_TAKO",
+      "Text": "いつでも獲れるタコ。\n体のほとんどが筋肉。\n吸ばんに吸い付かれると\nけっこう痛い…。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_SAWAGANI",
+      "Text": "いつでも獲れるカニ。\nきれいな川にしかいない。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_AOSAWAGANI",
+      "Text": "いつでも獲れるカニ。\n鮮やかな青色をしている。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_ISWEBI",
+      "Text": "冬に獲れるエビ。\n全身が赤く、とげだらけで\nずっしりと重い。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_KURUMAEBI",
+      "Text": "春から秋にかけて獲れるエビ。\n体を丸めた時に体のもようが\n車輪のように見えるのが\n名前の由来。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_SUJIEBI",
+      "Text": "秋と冬に獲れるエビ。\n体がほとんど透明で、\n体の中が透けて見える。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_TENAGAEBI",
+      "Text": "春と夏に獲れるエビ。\nなわばり意識がとても強い。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_YAMATONUMAEBI",
+      "Text": "いつでも獲れるエビ。\n体に赤いもようがついている。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_ASARI",
+      "Text": "いつでも獲れる貝。\nしましまもようからアサリの\n誕生日がわかるとのウワサ。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_SAZAE",
+      "Text": "いつでも獲れる貝。\nとげのある殻の個体と\nとげのない個体がある。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_SIJIMI",
+      "Text": "いつでも獲れる貝。\n黒くつやのある殻をしている。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_HAMAGURI",
+      "Text": "いつでも獲れる貝。\n２枚の貝がぴったり重なる\nことから結婚の縁起物として\n使われる。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_HOTATE",
+      "Text": "いつでも獲れる貝。\n帆を立て進む船のような\n泳ぎ方をすると信じられていた\nころにこの名前が付いた。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_KEIJI",
+      "Text": "サケの仲間で、\n限られた所で姿を見せる大物。\n幻のサケと呼ばれている。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_AROWANA",
+      "Text": "せり出した下あごが印象的な、\n限られた所で姿を見せる大物。\nとてもゆうがに泳ぐ。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_EI",
+      "Text": "大きく広がった胸びれで泳ぐ\n限られた所で姿を見せる大物。\n尾にどくを持つものもいる。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_ALLIGATOR_GAR",
+      "Text": "世界一大きな淡水魚で\n限られた所で姿を見せる大物。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_ITOU",
+      "Text": "頑丈なあごとするどい歯を持つ\n限られた所で姿を見せる大物。\n伝説の中の伝説の魚。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_NAMAZU",
+      "Text": "長い口ひげを持つ、\n限られた所で姿を見せる大物。\n大きな体をくねらせて\nゆったり泳ぐ。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_ANKOU",
+      "Text": "水中深くにひそむ、\n限られた所で姿を見せる大物。\n見た目に反して美味しい。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_KAJIKIMAGURO",
+      "Text": "すごい速さで泳ぐ\n限られた所で姿を見せる大物。\n泳ぎをやめると死んでしまう。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_NISIKIGOI",
+      "Text": "水中をゆうがに泳ぐ\n限られた所で姿を見せる大物。\n美しい色合いの魚。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_TIBIZAME",
+      "Text": "ごつごつとしたウロコを持つ\n限られた所で姿を見せる大物。\nあっさりとした味わいで\nとても美味しい。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_SUPPON",
+      "Text": "軽いこうらで身軽に動く、\n限られた所で姿を見せる大物。\nかみつく力がとても強い。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_SYANHAIGANI",
+      "Text": "限られた所で姿を見せる大物。\nまったり濃厚な味わいの\n高級食材として有名。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_UNAGI",
+      "Text": "細長い体でするすると泳ぐ、\n限られた所で姿を見せる大物。\n体がぬれていれば地面も\nすいすい進むことができる。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_TARABAGAMI",
+      "Text": "広げると１メートルを超える\n限られた所で姿を見せる大物。\n実はヤドカリの仲間。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_FISHGIANTSQUID",
+      "Text": "全てのイカの頂点に君臨する\nイカの中のイカ。\n別名クラーケンと呼ばれ、\n恐れられている地域もある。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_UNI",
+      "Text": "遠くの島でとれたうに。\nこの地方では珍しい海の幸。\n夏のうにが美味しいらしい。\n\n【魚】"
+    },
+    {
+      "VardId": "INFO_ITEM_BLUE_WING",
+      "Text": "ルルココ村の伝統的な\nプロポーズアイテム。\n\nプロポーズの際にわたすと\n一生幸せになれると\n伝えられている。"
+    },
+    {
+      "VardId": "INFO_ITEM_CALENDARBOOK",
+      "Text": "さまざまな予定が書かれた\n携帯カレンダー。\n予定はしっかり確認しよう。"
+    },
+    {
+      "VardId": "INFO_ITEM_FERTILIZERPIKA",
+      "Text": "作物に使えるひりょうの１つ。\n「色つや」が\n上がる効果がある。"
+    },
+    {
+      "VardId": "INFO_ITEM_FERTILIZERAMA",
+      "Text": "作物に使えるひりょうの１つ。\n「甘み」または「香り」が\n上がる効果がある。"
+    },
+    {
+      "VardId": "INFO_ITEM_FERTILIZERJUSHI",
+      "Text": "作物に使えるひりょうの１つ。\n「水分量」が\n上がる効果がある。"
+    },
+    {
+      "VardId": "INFO_ITEM_FERTILIZERGUN",
+      "Text": "作物に使えるひりょうの１つ。\n「サイズ」が\n上がる効果がある。"
+    },
+    {
+      "VardId": "INFO_ITEM_FERTILIZERFUERU",
+      "Text": "作物に使えるひりょうの１つ。\n「収獲できる個数」が\n多くなる効果がある。"
+    },
+    {
+      "VardId": "INFO_ITEM_FERTILIZERSUPER",
+      "Text": "作物に使えるひりょうの１つ。\n「色つや」「甘み/香り」\n「水分量」「サイズ」が\nそれぞれ上がる効果がある。"
+    },
+    {
+      "VardId": "INFO_ITEM_FERTILIZERPIKAULTRA",
+      "Text": "作物に使えるひりょうの１つ。\n「ぴかりんひりょう」より、\n効果が高い。"
+    },
+    {
+      "VardId": "INFO_ITEM_FERTILIZERAMAULTRA",
+      "Text": "作物に使えるひりょうの１つ。\n「あまあまひりょう」より、\n効果が高い。"
+    },
+    {
+      "VardId": "INFO_ITEM_FERTILIZERJUSHIULTRA",
+      "Text": "作物に使えるひりょうの１つ。\n「ジューシーひりょう」より、\n効果が高い。"
+    },
+    {
+      "VardId": "INFO_ITEM_FERTILIZERGUNULTRA",
+      "Text": "作物に使えるひりょうの１つ。\n「ぐんぐんひりょう」より、\n効果が高い。"
+    },
+    {
+      "VardId": "INFO_ITEM_FERTILIZERFUERUULTRA",
+      "Text": "作物に使えるひりょうの１つ。\n「ふえーるひりょう」より、\n効果が高い。"
+    },
+    {
+      "VardId": "INFO_ITEM_ANIMAL_DRUG",
+      "Text": "病気の動物を治す薬。\n装備して病気の動物のそばで\nＡボタンを押すと使える。"
+    },
+    {
+      "VardId": "INFO_ITEM_FODDER",
+      "Text": "ウシやヒツジなどのエサ、\n１個で１食分。\nエサ箱は最大７食分入る。"
+    },
+    {
+      "VardId": "INFO_ITEM_FODDER_2",
+      "Text": "ウシやヒツジなどのエサ、\n１個で１食分。\nエサ箱は最大７食分入る。\n毛並が良くなる飼い葉。"
+    },
+    {
+      "VardId": "INFO_ITEM_FODDER_3",
+      "Text": "ウシやヒツジなどのエサ、\n１個で１食分。\nエサ箱は最大７食分入る。\n収穫量が増えやすくなる。"
+    },
+    {
+      "VardId": "INFO_ITEM_FODDER_4",
+      "Text": "ウシやヒツジなどのエサ、\n１個で１食分。\nエサ箱は最大７食分入る。\n副産物レベルが上がりやすい。"
+    },
+    {
+      "VardId": "INFO_ITEM_HENFOOD_1",
+      "Text": "ニワトリが食べるエサ、\n１個で１食分。\nエサ箱は最大７食分入る。"
+    },
+    {
+      "VardId": "INFO_ITEM_HENFOOD_2",
+      "Text": "ニワトリが食べるエサ、\n１個で１食分。\nエサ箱は最大７食分入る。\n毛並が良くなるエサ。"
+    },
+    {
+      "VardId": "INFO_ITEM_HENFOOD_3",
+      "Text": "ニワトリが食べるエサ、\n１個で１食分。\nエサ箱は最大７食分入る。\n収穫量が増えやすくなる。"
+    },
+    {
+      "VardId": "INFO_ITEM_HENFOOD_4",
+      "Text": "ニワトリが食べるエサ、\n１個で１食分。\nエサ箱は最大７食分入る。\n副産物レベルが上がりやすい。"
+    },
+    {
+      "VardId": "INFO_ITEM_RABBITFOOD_1",
+      "Text": "ウサギが食べるエサ、\n１個で１食分。\nエサ箱は最大７食分入る。"
+    },
+    {
+      "VardId": "INFO_ITEM_RABBITFOOD_2",
+      "Text": "ウサギが食べるエサ、\n１個で１食分。\nエサ箱は最大７食分入る。\n毛並が良くなるエサ。"
+    },
+    {
+      "VardId": "INFO_ITEM_RABBITFOOD_3",
+      "Text": "ウサギが食べるエサ、\n１個で１食分。\nエサ箱は最大７食分入る。\n収穫量が増えやすくなる。"
+    },
+    {
+      "VardId": "INFO_ITEM_RABBITFOOD_4",
+      "Text": "ウサギが食べるエサ、\n１個で１食分。\nエサ箱は最大７食分入る。\n副産物レベルが上がりやすい。"
+    },
+    {
+      "VardId": "INFO_ITEM_PETFOOD",
+      "Text": "イヌやネコにあげるエサ。\nこれを食べると仲良くなれて\nペットが喜ぶ。"
+    },
+    {
+      "VardId": "INFO_ITEM_ANIMAL_FOOD_3",
+      "Text": "動物たちにあげるおやつ。\nしっとりとした食感。\n\n動物たちとなかよくなれそう。"
+    },
+    {
+      "VardId": "INFO_ITEM_ANIMAL_FOOD_4",
+      "Text": "動物たちにあげるおやつ。\nふっくらとした食感。\n\n動物たちの体格が大きく\nなりそう。"
+    },
+    {
+      "VardId": "INFO_ITEM_ANIMAL_FOOD_5",
+      "Text": "動物たちにあげるおやつ。\nなめらかな食感。\n\n動物たちの毛並が\nよくなりそう。"
+    },
+    {
+      "VardId": "INFO_ITEM_ANIMAL_FOOD_6",
+      "Text": "動物たちにあげるおやつ。\nサクサクとした食感。\n\n動物たちからとれる物が\nよくなりそう。"
+    },
+    {
+      "VardId": "INFO_ITEM_ANIMAL_FOOD_7",
+      "Text": "動物たちにあげるおやつ。\nもっちりとした食感。\n\n動物たちからとれる物が\n多くなりそう。"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_FOOD_2",
+      "Text": "釣竿にセットして使用する\n魚釣り用のエサ。\n\n【釣りエサ】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_FOOD_3",
+      "Text": "釣竿にセットして使用する\n魚釣り用のエサ。\n\n【釣りエサ】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_FOOD_4",
+      "Text": "釣竿にセットして使用する\n魚釣り用のエサ。\n\n【釣りエサ】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_FOOD_5",
+      "Text": "釣竿にセットして使用する\n魚釣り用のエサ。\n\n【釣りエサ】"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_FOOD_1",
+      "Text": "養殖用のエサ。\n魚たちの品質が上がる。"
+    },
+    {
+      "VardId": "INFO_ITEM_DEVICESEINE",
+      "Text": "浅瀬の海に設置して使用する\n魚介類を獲るための道具。"
+    },
+    {
+      "VardId": "INFO_ITEM_BUCKUT",
+      "Text": "カエデに設置して使用すると\nメープルシロップを採ることが\nできる道具。"
+    },
+    {
+      "VardId": "INFO_ITEM_DOG_BONE",
+      "Text": "投げるとイヌが取りに行く、\nガムでできたほね。\nイヌと遊ぶほど仲良くなれる。"
+    },
+    {
+      "VardId": "INFO_ITEM_CAT_BELL",
+      "Text": "投げるとネコが取りに行く、\nおもちゃのすず。\nネコと遊ぶほど仲良くなれる。"
+    },
+    {
+      "VardId": "INFO_ITEM_CURRY_FLOUR",
+      "Text": "カレーの材料。\nこれがなくてはカレーは\n始まらない！"
+    },
+    {
+      "VardId": "INFO_ITEM_NORI",
+      "Text": "遠くの島でとれたのり。\nこの地方では珍しい海の幸。\nちょっとした風味づけに。"
+    },
+    {
+      "VardId": "INFO_ITEM_TORYUFU",
+      "Text": "遠くの島でとれた高級食材。\nちょっとリッチな料理に。\n別名、黒いダイヤ。"
+    },
+    {
+      "VardId": "INFO_ITEM_COFFEE_PACK",
+      "Text": "コーヒー粉が入ったパック。\nお手軽にコーヒーを\n楽しめる。"
+    },
+    {
+      "VardId": "INFO_ITEM_PEPPER",
+      "Text": "さわやかな辛さの香辛料。\nかけすぎには注意。"
+    },
+    {
+      "VardId": "INFO_ITEM_ICE",
+      "Text": "自然にできた氷。\n持っていてもとけないから、\nとっても不思議。\nアイスなどの料理には必須！"
+    },
+    {
+      "VardId": "INFO_ITEM_ROCK_SALT",
+      "Text": "岩のように固まった塩の結晶。\nまるで宝石のようにキレイ。"
+    },
+    {
+      "VardId": "INFO_ITEM_CINNAMON",
+      "Text": "独特の甘みと香り、\nそしてほのかな辛さの香辛料。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_ITEM_MINT",
+      "Text": "清涼感のあるさわやかな香りを\n持つハーブで、食べると口の中\nがスッとする。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_ITEM_CAMOMILE",
+      "Text": "「大地のりんご」という意味の\n名前を持つハーブ。\n花がりんごに似た香りを放つ\nことから名付けられた。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_ITEM_LAVENDER",
+      "Text": "うすい紫色の美しい花を\n咲かせるハーブ。\n人の心を落ち着かせると\n言われる、独特の香りを持つ。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_ITEM_ROSEMARY",
+      "Text": "「海のしずく」という意味で、\n青紫色の花の形からそう\n呼ばれるようになったハーブ。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_ITEM_SAGE",
+      "Text": "古くから薬草として利用されて\nきたハーブ。クセのある香りで\nちょっと苦い。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_ITEM_ALOE",
+      "Text": "肉厚な葉を持つ植物で、葉っぱ\nの内側はゼリーのようになって\nいる。ハーブの一種としても\n利用できる。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_ITEM_BASIL",
+      "Text": "食欲をそそるスパイシーな香り\nと味を持つハーブ。\nペースト状にして料理に利用\nしてもおいしい。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_ITEM_LAURIER",
+      "Text": "香りが良く、料理や香り袋など\nに使われてきたハーブ。\nただし、煮込み過ぎると苦味が\n出るので注意。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_ITEM_BERGAMOT",
+      "Text": "同じ名前の果物とよく似た\nフレッシュな香りを持つこと\nからそう名付けられたハーブ。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_ITEM_THYME",
+      "Text": "すっきりした香りに、ピリッと\nした風味を持つハーブ。\n料理の香り付けによく使う。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_ITEM_ERI_GRASS",
+      "Text": "野に生えている珍しい草。\n薬に使ったりできるらしい。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_ITEM_KINOMI",
+      "Text": "時々落ちている木の実。\nカラがとても堅い。\nお菓子などの料理に使える。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_ITEM_CHESTUNT",
+      "Text": "たくさんのとげのある木の実。\nいろいろな料理に使える。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_ITEM_BLUBERRY",
+      "Text": "酸味のある紫色の果実。\nお菓子などの料理に使える。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_ITEM_UME",
+      "Text": "強い酸味が印象的な果実。\nお酒や料理に使える。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_ITEM_ANZU",
+      "Text": "鮮やかな色の果実。\nお酒やお菓子に使える。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_ITEM_BAMBOO_SHOOTS",
+      "Text": "地面から生えてくる\n香り豊かな山菜。\nいろいろな料理に使える。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_ITEM_GINGER",
+      "Text": "すりおろしたりきざんだり、\n料理の香辛料として活躍。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_PLUM",
+      "Text": "スモモとも呼ばれる。\n桃よりもすっぱさがある果実。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_BERRY",
+      "Text": "小さい実が１つに集まった\nような見た目をした果実。\nぷちぷちとした食感。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_WPRMWOOD",
+      "Text": "ぎざぎざの葉の野草で、\nおもちに混ぜたりして\n食べることができる。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_FLOWERINGFERN",
+      "Text": "うずまき状の野草。\nてんぷらで食べる所もある。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_HORSETAIL",
+      "Text": "春になると地面から頭を出す、\n筆のような形の野草。\n\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_BUTTERBURSPROUT",
+      "Text": "ふきという野草のつぼみ。\n花になる前に収穫して\n食べるのが一般的。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_AVOCADO",
+      "Text": "緑色をした果実で、中に\n大きな種が１つ入っている。\nさわってやわらかくなったら\n食べ頃。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_TREEOFBREAD",
+      "Text": "緑色の大きな実。\n火を通すと、パンのような\nふかふかした食感になるため\nこう名付けられた。\nなぜかパン粉に加工できる。\n【野草】"
+    },
+    {
+      "VardId": "INFO_VANILLA",
+      "Text": "バニラエッセンスの元。\n種の部分からあの独特の\n甘いかおりを取りだしている。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_ITEM_DOPE_1",
+      "Text": "飲むと体のつかれが取れる。\nちょっぴり苦いのが玉にキズ。"
+    },
+    {
+      "VardId": "INFO_ITEM_DOPE_2",
+      "Text": "飲むと元気になる。\nとてもすっきりする、\nひんやりとした口あたり。"
+    },
+    {
+      "VardId": "INFO_ITEM_DOPE_3",
+      "Text": "飲むとつかれにくくなる。\n飲みやすいシロップ味。"
+    },
+    {
+      "VardId": "INFO_ITEM_DOPE_4",
+      "Text": "飲むとつかれがふきとぶ。\nデザート感覚で飲める。\nちょっぴりぜいたくな味。"
+    },
+    {
+      "VardId": "INFO_ITEM_DOPE_5",
+      "Text": "飲むと体のつかれが全て取れ、\n体が軽くなったような気分に\nなれるごうかなドリンク。"
+    },
+    {
+      "VardId": "INFO_ITEM_DOPE_6",
+      "Text": "飲むと釣りがしやすくなる。\nちょっぴりしぶいクスリ。"
+    },
+    {
+      "VardId": "INFO_ITEM_DOPE_7",
+      "Text": "飲むとネコが寄って来て\n少し仲良くなれる。\n効果があるのは1日1回のみ。\nネコになった気分だニャン♪"
+    },
+    {
+      "VardId": "INFO_ITEM_DOPE_8",
+      "Text": "飲むとイヌが寄って来て\n少し仲良くなれる。\n効果があるのは1日1回のみ。\nイヌになった気分だワン♪"
+    },
+    {
+      "VardId": "INFO_ITEM_DOPE_9",
+      "Text": "飲むと野生動物が寄って来て\n少し仲良くなれる。\n効果があるのは1日1回のみ。\n自然にかえった気分になれる。"
+    },
+    {
+      "VardId": "INFO_ITEM_SPRING_SUN",
+      "Text": "太陽置き場におくと\n地下室内の季節が春になる。"
+    },
+    {
+      "VardId": "INFO_ITEM_SUMMER_SUN",
+      "Text": "太陽置き場におくと\n地下室内の季節が夏になる。"
+    },
+    {
+      "VardId": "INFO_ITEM_AUTUMN_SUN",
+      "Text": "太陽置き場におくと\n地下室内の季節が秋になる。"
+    },
+    {
+      "VardId": "INFO_ITEM_WINTER_SUN",
+      "Text": "太陽置き場におくと\n地下室内の季節が冬になる。"
+    },
+    {
+      "VardId": "INFO_ITEM_BRANCH_1",
+      "Text": "道に落ちているやわらかい枝。\nオノで割ると、少し高く売れる\n小さな木材になる。"
+    },
+    {
+      "VardId": "INFO_ITEM_BRANCH_2",
+      "Text": "道に落ちているかたい枝。\nオノで割ると、少し高く売れる\n木材になる。"
+    },
+    {
+      "VardId": "INFO_ITEM_BRANCH_3",
+      "Text": "道に落ちている珍しい黒い枝。\nオノで割ると、少し高く売れる\n黒い木材になる。"
+    },
+    {
+      "VardId": "INFO_ITEM_BRANCH_5",
+      "Text": "マツの葉がついた枝。\nトゲトゲしてて、\nさわると少し痛い…。"
+    },
+    {
+      "VardId": "INFO_ITEM_BRANCH_6",
+      "Text": "サクラの花がついた枝。\n色鮮やかで心がなごむ。"
+    },
+    {
+      "VardId": "INFO_ITEM_BRANCH_7",
+      "Text": "イチョウの葉がついた枝。\n葉が色づいてとても華やか。"
+    },
+    {
+      "VardId": "INFO_ITEM_BAMBOO",
+      "Text": "たけのこが成長して、\nかたくなった植物。\n\n【木材】"
+    },
+    {
+      "VardId": "INFO_ITEM_MAPLETREE",
+      "Text": "カエデを伐採して出てきた枝。\nここからはメープルシロップは\n採れない。\n\n【木材】"
+    },
+    {
+      "VardId": "INFO_ITEM_STONE_1",
+      "Text": "道に落ちている小さな石。\nハンマーでたたくと少し高く\n売れる、小さな石材になる。"
+    },
+    {
+      "VardId": "INFO_ITEM_STONE_2",
+      "Text": "道に落ちているふつうの石。\nハンマーでたたくと少し高く\n売れる、石材になる。"
+    },
+    {
+      "VardId": "INFO_ITEM_STONE_3",
+      "Text": "道に落ちている珍しい黒い石。\nハンマーでたたくと少し高く\n売れる、黒い石材になる。"
+    },
+    {
+      "VardId": "INFO_ITEM_TIMBER_MATERIAL_1",
+      "Text": "やわらかい枝をオノで割って\n形を整えたもの。\nやわらかい枝よりも\n少し高く売れる。\n\n【木材】"
+    },
+    {
+      "VardId": "INFO_ITEM_TIMBER_MATERIAL_2",
+      "Text": "かたい枝をオノで割って\n形を整えたもの。\nかたい枝よりも\n少し高く売れる。\n\n【木材】"
+    },
+    {
+      "VardId": "INFO_ITEM_TIMBER_MATERIAL_3",
+      "Text": "黒い枝をオノで割って\n形を整えたもの。\n黒い枝よりも少し高く売れる。\n\n【木材】"
+    },
+    {
+      "VardId": "INFO_ITEM_STONE_MATERIAL_1",
+      "Text": "小石をハンマーでたたいて\n形を整えたもの。\n小石よりも少し高く売れる。\n\n【石材】"
+    },
+    {
+      "VardId": "INFO_ITEM_STONE_MATERIAL_2",
+      "Text": "石をハンマーでたたいて\n形を整えたもの。\n石よりも少し高く売れる。\n\n【石材】"
+    },
+    {
+      "VardId": "INFO_ITEM_STONE_MATERIAL_3",
+      "Text": "黒い石をハンマーでたたいて\n形を整えたもの。\n黒い石よりも少し高く売れる。\n\n【石材】"
+    },
+    {
+      "VardId": "INFO_ITEM_ORE_STONE",
+      "Text": "さまざまな鉱石を含んだ石。\n何かを作るときの材料に\nなりそう。\n\n【鉱石】"
+    },
+    {
+      "VardId": "INFO_ITEM_COPPER",
+      "Text": "手に入れやすい値段の鉱石。\n鉱山でよく見つかる。\n\n【鉱石】"
+    },
+    {
+      "VardId": "INFO_ITEM_SILVER",
+      "Text": "高価な鉱石。高値で売れる。\n持っているだけで、とても\nリッチな気分になる鉱石。\n\n【鉱石】"
+    },
+    {
+      "VardId": "INFO_ITEM_GOLD",
+      "Text": "高価な鉱石。高値で売れる。\n持っているだけでとても\nゴージャスな気分になる鉱石。\n\n【鉱石】"
+    },
+    {
+      "VardId": "INFO_ITEM_KUZU",
+      "Text": "価値の低い鉱石。\n特に使い道はないが、なぜか\nたまに欲しがる人もいる。\n\n【鉱石】"
+    },
+    {
+      "VardId": "INFO_ITEM_BRICK_STONE",
+      "Text": "レンガのかたまり。\n赤褐色でザラザラしている。\n建物の材料などによく使う。\n\n【鉱石】"
+    },
+    {
+      "VardId": "INFO_ITEM_GLASS_STONE",
+      "Text": "ガラスのかたまり。\n白色でツルツルしている。\n建物の材料などによく使う。\n\n【鉱石】"
+    },
+    {
+      "VardId": "INFO_ITEM_IRON",
+      "Text": "手に入れやすい値段の鉱石。\n鉱山でよく見つかる。\nある地方では、くろがねと\n呼ばれていたらしい。\n\n【鉱石】"
+    },
+    {
+      "VardId": "INFO_ITEM_CRYSTAL",
+      "Text": "高価な鉱石。高値で売れる。\nすきとおっていてキレイ。\n占いなどで定番のアイテム。\n\n【鉱石】"
+    },
+    {
+      "VardId": "INFO_ITEM_RUBY",
+      "Text": "高価な宝石。高値で売れる。\n赤く発光する鉱石。\nまれに見つかる。\n\n【鉱石】"
+    },
+    {
+      "VardId": "INFO_ITEM_JADE",
+      "Text": "高価な宝石。高値で売れる。\n太古から人気がある鉱石。\nかなり貴重。\n\n【鉱石】"
+    },
+    {
+      "VardId": "INFO_ITEM_TOPAZ",
+      "Text": "高価な宝石。高値で売れる。\n昔の人はお守りにしていた\nらしい。魅力的な鉱石。\n\n【鉱石】"
+    },
+    {
+      "VardId": "INFO_ITEM_MOONSTONE",
+      "Text": "高価な宝石。高値で売れる。\n月光のような光を持つ鉱石。\nたまに見つかる。\n\n【鉱石】"
+    },
+    {
+      "VardId": "INFO_ITEM_DIAMOND",
+      "Text": "高価な宝石。高値で売れる。\n非常にかたく、美しい。\n女の子のあこがれ。\n\n【鉱石】"
+    },
+    {
+      "VardId": "INFO_ITEM_AMETHYST",
+      "Text": "高価な宝石。高値で売れる。\n光沢があり、美しい。\n掘り出す価値がある鉱石。\n\n【鉱石】"
+    },
+    {
+      "VardId": "INFO_ITEM_EMERALD",
+      "Text": "高価な宝石。高値で売れる。\n緑色の鉱石で大昔から\n喜ばれる価値がある鉱石。\n\n【鉱石】"
+    },
+    {
+      "VardId": "INFO_ITEM_AGATE",
+      "Text": "高価な宝石。高値で売れる。\n鉱物が変異した鉱石。\nまれに見つかる。\n\n【鉱石】"
+    },
+    {
+      "VardId": "INFO_ITEM_PERIDOT",
+      "Text": "高価な宝石。高値で売れる。\n明るい緑色の鉱石。\n何度見てもあきない。\n\n【鉱石】"
+    },
+    {
+      "VardId": "INFO_ITEM_SANDROSE",
+      "Text": "高価な宝石。高値で売れる。\n花のような形の鉱石。\n自然の神秘。\n\n【鉱石】"
+    },
+    {
+      "VardId": "INFO_ITEM_FLUORITE",
+      "Text": "高価な宝石。高値で売れる。\nほたるの光のような鉱石。\n宝物にしたい。\n\n【鉱石】"
+    },
+    {
+      "VardId": "INFO_ITEM_ADAMANTAITO",
+      "Text": "不思議な力のある宝石。\n非常にかたい。\n売ると高値で売れる。\n\n【鉱石】"
+    },
+    {
+      "VardId": "INFO_ITEM_ORIHARUKON",
+      "Text": "不思議な力のある鉱石。\n伝説の中の伝説の鉱石。\n実態はわかっていない。\n\n【鉱石】"
+    },
+    {
+      "VardId": "INFO_ITEM_MITHRI",
+      "Text": "不思議な力のある鉱石。\nなぞに包まれた存在で、\n売ると高値で売れる。\n\n【鉱石】"
+    },
+    {
+      "VardId": "INFO_ITEM_PLATINUM",
+      "Text": "高価な鉱石。高値で売れる。\n変色、変質しないので、\nとても価値が高い。\n\n【鉱石】"
+    },
+    {
+      "VardId": "INFO_ITEM_PINKDIAMOND",
+      "Text": "高価な宝石。高値で売れる。\nダイヤモンドより貴重で、\n自然の芸術品。\n\n【鉱石】"
+    },
+    {
+      "VardId": "INFO_ITEM_PEARL",
+      "Text": "貝からとれる宝石。\nとてもキレイな光沢がある。\n別名、人魚の涙。\n\n【真珠】"
+    },
+    {
+      "VardId": "INFO_ITEM_PEARL_YELLOW",
+      "Text": "貝を養殖するとたまにとれる\n淡い黄色の宝石。\n\n【真珠】"
+    },
+    {
+      "VardId": "INFO_ITEM_PEARL_GRREEN",
+      "Text": "貝を養殖するとたまにとれる\n淡い緑色の宝石。\n\n【真珠】"
+    },
+    {
+      "VardId": "INFO_ITEM_PEARL_RED",
+      "Text": "貝を養殖するとたまにとれる\n淡い朱色の宝石。\n\n【真珠】"
+    },
+    {
+      "VardId": "INFO_ITEM_PEARL_BLUE",
+      "Text": "貝を養殖するとたまにとれる\n淡い青色の宝石。\n\n【真珠】"
+    },
+    {
+      "VardId": "INFO_ITEM_PEARL_GOLD",
+      "Text": "貝を養殖するとたまにとれる\n淡い金色の宝石。\n\n【真珠】"
+    },
+    {
+      "VardId": "INFO_ITEM_SAGE_STONE",
+      "Text": "賢者がかくしたとされる石。\n何に使うのかわからない。\n不思議なパワーを感じる。\n\n【鉱石】"
+    },
+    {
+      "VardId": "INFO_ITEM_COIN_1",
+      "Text": "いたってふつうのコイン。\nたまに集める人もいる。\n何かに使えそうな気が\nしないでもない。"
+    },
+    {
+      "VardId": "INFO_ITEM_COIN_3",
+      "Text": "色が少しくすんだコイン。\nふつうのコインより高価かも。\n何かに使えそうな気が\nしないでもない。"
+    },
+    {
+      "VardId": "INFO_ITEM_COIN_4",
+      "Text": "キラキラしているコイン。\nコレクターにはたまらない。\n何かに使えそうな気が\nしないでもない。"
+    },
+    {
+      "VardId": "INFO_ITEM_FIGURE",
+      "Text": "いつ、何のために作られたか\n分からない謎の人形。\nこれは何の形かな？"
+    },
+    {
+      "VardId": "INFO_ITEM_OLDFISH",
+      "Text": "ちょっと珍しい魚の化石。\n収集家に売るといい値段で\n買いとってもらえそう。"
+    },
+    {
+      "VardId": "INFO_ITEM_DRY_SOIL",
+      "Text": "地面の土。\n畑や鉢植えなどを作る\nときに使う。"
+    },
+    {
+      "VardId": "INFO_ITEM_SOFT_SOIL",
+      "Text": "やわらかい地面の土。\n畑や鉢植えなどを作る\nときに使う。"
+    },
+    {
+      "VardId": "INFO_ITEM_HARD_SOIL",
+      "Text": "かたい地面の土。\n畑や鉢植えなどを作る\nときに使う。"
+    },
+    {
+      "VardId": "INFO_ITEM_WEEDS_1",
+      "Text": "道などに生えている草。\nこの草のようにたくましく\n生きたい。"
+    },
+    {
+      "VardId": "INFO_ITEM_MOON_DROP",
+      "Text": "野に咲く黄色い花。\nとても良い香りがする。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_ITEM_MAGIRED_BLUE",
+      "Text": "野に咲く青い花。\nとても良い香りがする。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_ITEM_MAGIRED_RED",
+      "Text": "野に咲く赤い花。\nとても良い香りがする。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_OPUNTIACACTI",
+      "Text": "名前の通りうちわに似ている\n形をしたサボテン。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_LUPINUSPINK",
+      "Text": "チョウのような形をした花を\nたくさんつける桃色の花。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_LUPINUSPURPLE",
+      "Text": "チョウのような形をした花を\nたくさんつける藤色の花。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_HYDRANGEA",
+      "Text": "花の部分がそれぞれちがう色に\nなったりすることから\n七変化と呼ばれたりする花。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_LYCONIS",
+      "Text": "割れるように花が開いて\n鮮やかな赤色をしている花。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_CALLALILY",
+      "Text": "白い花に見える部分は、\n花ではなく葉が変化したもの。\nだが、きれいなことには\nかわりない。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_HANMABOOSU",
+      "Text": "いくつものつぼみが咲いて\n一つの花となっている花。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_MATING",
+      "Text": "青紫色をした花をつける花。\n花の部分が中心からいくつかに\n分かれている。\n\n【野草】"
+    },
+    {
+      "VardId": "INFO_ITEM_FEATHER_1",
+      "Text": "野生動物が落とした\n赤色の羽毛。\n綿のようにふわふわ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FEATHER_2",
+      "Text": "野生動物が落とした\n緑色の羽毛。\n綿のようにふわふわ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FEATHER_3",
+      "Text": "野生動物が落とした\n青色の羽毛。\n綿のようにふわふわ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FEATHER_4",
+      "Text": "野生動物が落とした\n黄色の羽毛。\n綿のようにふわふわ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FEATHER_5",
+      "Text": "野生動物が落とした\n橙色の羽毛。\n綿のようにふわふわ。"
+    },
+    {
+      "VardId": "INFO_ITEM_FEATHER_6",
+      "Text": "野生動物が落とした\n紫色の羽毛。\n綿のようにふわふわ。"
+    },
+    {
+      "VardId": "INFO_ITEM_SNOW_BALL",
+      "Text": "誰が作ったのか、自然に\nできたのか分からない雪玉。\n投げるとこわれて、\nときどき中から何か出てくる。"
+    },
+    {
+      "VardId": "INFO_ITEM_CORAL",
+      "Text": "ルルココ村の海辺に落ちている\nサンゴのかけら。\n思い出の一品に。"
+    },
+    {
+      "VardId": "INFO_ITEM_VENUS_COMB",
+      "Text": "時々落ちている貝がら。\n形が魚の骨にそっくり。"
+    },
+    {
+      "VardId": "INFO_ITEM_FISH_HORAGAI",
+      "Text": "時々落ちている貝がら。\nもう何も住んでない…。\n楽器に利用できるらしい。"
+    },
+    {
+      "VardId": "INFO_ITEM_CAN",
+      "Text": "だれかが捨てた空き缶。\nラベルには…\n何て書いてあるか読めない。"
+    },
+    {
+      "VardId": "INFO_ITEM_SKULL",
+      "Text": "魚のざんがい。\n煮ても焼いても食べられない。\nのどにささると痛いから。"
+    },
+    {
+      "VardId": "INFO_ITEM_BOOTS",
+      "Text": "どこかの釣り人が足を\nすべらせて落とした長ぐつ。\nちょっと穴が開いている。"
+    },
+    {
+      "VardId": "INFO_ITEM_DOKUKINOKO",
+      "Text": "どくを持ったきのこ。\n体調くずすことまちがいなし！\n食べる勇気があるのなら…。"
+    },
+    {
+      "VardId": "INFO_ITEM_PERFUME_1",
+      "Text": "ピンクローズ、レッドローズ、\nマーガレットを合わせた香水。\n華やかで甘い花々の香り。\n\n【香水】"
+    },
+    {
+      "VardId": "INFO_ITEM_PERFUME_2",
+      "Text": "ブルーローズ、ホワイトローズ\nスノードロップの香水。\n静かな森の中の香り。\n\n【香水】"
+    },
+    {
+      "VardId": "INFO_ITEM_PERFUME_3",
+      "Text": "ひまわり、あさがお、ユリを\n合わせた香水。\nみずみずしい若草の香り。\n\n【香水】"
+    },
+    {
+      "VardId": "INFO_ITEM_PERFUME_4",
+      "Text": "りんどう、キク、なでしこを\n合わせた香水。\n晴れ晴れとした朝焼けの香り。\n\n【香水】"
+    },
+    {
+      "VardId": "INFO_ITEM_PERFUME_5",
+      "Text": "ダリア、プルメリア、\nカンパニュラを合わせた香水。\nスパイシーでするどい香り。\n\n【香水】"
+    },
+    {
+      "VardId": "INFO_ITEM_PERFUME_6",
+      "Text": "カーネーション、ガーベラ\nハイビスカスを合わせた香水。\nあわくフルーティーな香り。\n\n【香水】"
+    },
+    {
+      "VardId": "INFO_ITEM_BOUQUET_1",
+      "Text": "白と赤の花を合わせた花束。\n色鮮やかな春の息吹を\nイメージしているらしい。\n\n【花束】"
+    },
+    {
+      "VardId": "INFO_ITEM_BOUQUET_2",
+      "Text": "黄と赤の花を合わせた花束。\n燃えるような夏のまぶしさを\nイメージしているらしい。\n\n【花束】"
+    },
+    {
+      "VardId": "INFO_ITEM_BOUQUET_3",
+      "Text": "黄と青の花を合わせた花束。\n月のかがやく秋の夜長を\nイメージしているらしい。\n\n【花束】"
+    },
+    {
+      "VardId": "INFO_ITEM_BOUQUET_4",
+      "Text": "白と青の花を合わせた花束。\n粉雪が舞う冬の夜空を\nイメージしているらしい。\n\n【花束】"
+    },
+    {
+      "VardId": "INFO_ITEM_BOUQUET_5",
+      "Text": "カンパニュラ、ダリア、\nガーベラを合わせた花束。\n広い草原とかがやく太陽を\nイメージしているらしい。\n\n【花束】"
+    },
+    {
+      "VardId": "INFO_ITEM_BOUQUET_6",
+      "Text": "あさがお、なでしこ、\nりんどうを合わせた花束。\n静かな湖のほとりを\nイメージしているらしい。\n\n【花束】"
+    },
+    {
+      "VardId": "INFO_ITEM_BOUQUET_7",
+      "Text": "ひまわり、ハイビスカス、\nプルメリアを合わせた花束。\n光あふれる楽園を\nイメージしているらしい。\n\n【花束】"
+    },
+    {
+      "VardId": "INFO_ITEM_BOUQUET_8",
+      "Text": "４種のローズを合わせた花束。\n愛しあう恋人たちの姿を\nイメージしているらしい。\n\n【花束】"
+    },
+    {
+      "VardId": "INFO_ITEM_BOUQUET_9",
+      "Text": "数種類の花を合わせた花束。\n豊かな大地の実りを\nイメージしているらしい。\n\n【花束】"
+    },
+    {
+      "VardId": "INFO_ITEM_WRAPPINGA01",
+      "Text": "白地の箱に緑リボンの\nシンプルなラッピング。\nはでを好まない人に人気。"
+    },
+    {
+      "VardId": "INFO_ITEM_WRAPPINGA02",
+      "Text": "ハート柄に赤リボンの\nキュートなラッピング。\nかわいいモノ好きな人に人気。"
+    },
+    {
+      "VardId": "INFO_ITEM_WRAPPINGA03",
+      "Text": "花柄に紫リボンの\nシックなラッピング。\n落ち着いた大人に人気。"
+    },
+    {
+      "VardId": "INFO_ITEM_WRAPPINGA04",
+      "Text": "幾何学もように深緑リボンの\nレトロなラッピング。\nおしゃれな人に人気。"
+    },
+    {
+      "VardId": "INFO_ITEM_WRAPPINGA05",
+      "Text": "ストライプに青リボンの\nクールなラッピング。\n主に男性に人気。"
+    },
+    {
+      "VardId": "INFO_ITEM_WRAPPINGA06",
+      "Text": "ドット柄に水色リボンの\nポップなラッピング。\n元気で明るい人に人気。"
+    },
+    {
+      "VardId": "INFO_ITEM_WRAPPINGJ01",
+      "Text": "若草色のそぼくなふろしき。\nはでを好まない人に人気。"
+    },
+    {
+      "VardId": "INFO_ITEM_WRAPPINGJ02",
+      "Text": "赤い市松もようのふろしき。\nかわいいモノ好きな人に人気。"
+    },
+    {
+      "VardId": "INFO_ITEM_WRAPPINGJ03",
+      "Text": "紫の花柄の上品なふろしき。\n落ち着いた大人に人気。"
+    },
+    {
+      "VardId": "INFO_ITEM_WRAPPINGJ04",
+      "Text": "幾何学もようのふろしき。\nおしゃれな人に人気。"
+    },
+    {
+      "VardId": "INFO_ITEM_WRAPPINGJ05",
+      "Text": "青いしまもようのふろしき。\n主に男性に人気。"
+    },
+    {
+      "VardId": "INFO_ITEM_WRAPPINGJ06",
+      "Text": "水玉もようのふろしき。\n元気で明るい人に人気。"
+    },
+    {
+      "VardId": "INFO_ITEM_WRAPPINGS01",
+      "Text": "無地に緑のかざりがついた\nシンプルなラタン箱。\nはでを好まない人に人気。"
+    },
+    {
+      "VardId": "INFO_ITEM_WRAPPINGS02",
+      "Text": "ピンク地に赤のかざりがついた\nキュートなラタン箱。\nかわいいモノ好きな人に人気。"
+    },
+    {
+      "VardId": "INFO_ITEM_WRAPPINGS03",
+      "Text": "紫地に深緑のかざりがついた\nシックなラタン箱。\n落ち着いた大人に人気。"
+    },
+    {
+      "VardId": "INFO_ITEM_WRAPPINGS04",
+      "Text": "緑地に橙色のかざりがついた\nレトロなラタン箱。\nおしゃれな人に人気。"
+    },
+    {
+      "VardId": "INFO_ITEM_WRAPPINGS05",
+      "Text": "青地に茶色のかざりがついた\nクールなラッピング。\n主に男性に人気。"
+    },
+    {
+      "VardId": "INFO_ITEM_WRAPPINGS06",
+      "Text": "黄色地に水色のかざりがついた\nポップなラッピング。\n元気で明るい人に人気。"
+    },
+    {
+      "VardId": "INFO_ITEM_WRAPPINGA07",
+      "Text": "紫の箱に草色リボン、\nホワイトローズをあしらった\n花祭り限定ラッピング。\nこれに包んでわたせば、\n喜ばれることまちがいなし。"
+    },
+    {
+      "VardId": "INFO_ITEM_WRAPPINGJ07",
+      "Text": "緑の市松もようの布地に\nさくらの枝をあしらった\nおかゆ祭り限定ふろしき。\nこれに包んでわたせば、\n喜ばれることまちがいなし。"
+    },
+    {
+      "VardId": "INFO_ITEM_WRAPPINGS07",
+      "Text": "白いラタン箱の上に\nかざりのフルーツをあしらった\nフルーツ祭り限定ラタン箱。\nこれに包んでわたせば、\n喜ばれることまちがいなし。"
+    },
+    {
+      "VardId": "INFO_ITEM_HAIRCOMB",
+      "Text": "つゆくさの里の伝統的な\nプロポーズアイテム。\n\nくしは自らの分身とされ、\nそれをわたすことで\n縁をむすぶと信じられている。"
+    },
+    {
+      "VardId": "INFO_ITEM_PENDANT",
+      "Text": "言葉にできない気持ちを、\n相手に伝える際におくるもの。\n意中の相手にわたそう。"
+    },
+    {
+      "VardId": "INFO_TRANS_MOJI_00",
+      "Text": "春"
+    },
+    {
+      "VardId": "INFO_TRANS_MOJI_01",
+      "Text": "夏"
+    },
+    {
+      "VardId": "INFO_TRANS_MOJI_02",
+      "Text": "秋"
+    },
+    {
+      "VardId": "INFO_TRANS_MOJI_03",
+      "Text": "冬"
+    },
+    {
+      "VardId": "-",
+      "Text": "ダミーのアイテムMSG。"
+    }
+  ]
+}

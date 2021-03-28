@@ -1,0 +1,1002 @@
+﻿{
+  "Date": "2016-06-10T19:46:27.4509079+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_TOUREVENT_KNOCK",
+      "Text": "<FACE_DUNHILL><POS_LEFT><FACE_NORMAL>\r\nGood morning, <MYNAME>. May I come in?"
+    },
+    {
+      "VardId": "MES_TOUREVENT_GO",
+      "Text": "<FACE_DUNHILL><POS_LEFT><FACE_NORMAL>\r\nToday is the <RED>Gardening Tour</RED>. Everyone's\nalready gathered so let's head on over\nto the event stage!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_PERSONS_BAD",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_NORMAL>\r\nThe previous one ended in a very\nunfortunate way. This time, \n<BLUE><MOJI0> people</BLUE> have come to watch."
+    },
+    {
+      "VardId": "MES_TOUREVENT_PERSONS_SUBTLE",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_NORMAL>\r\nThe previous one ended in an unfortunate\nway. This time, <BLUE><MOJI0> people</BLUE> have come\nto watch."
+    },
+    {
+      "VardId": "MES_TOUREVENT_PERSONS_NORMAL",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_NORMAL>\r\nThe previous one ended well. This time,\n<BLUE><MOJI0> people</BLUE> have come to watch."
+    },
+    {
+      "VardId": "MES_TOUREVENT_PERSONS_GOOD",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_NORMAL>\r\nThe previous one was a lot of fun for\neveryone. This time, <BLUE><MOJI0> people</BLUE> \nhave come to watch."
+    },
+    {
+      "VardId": "MES_TOUREVENT_PERSONS_NICE",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_NORMAL>\r\nEveryone liked the previous one! This\ntime, <BLUE><MOJI0> people</BLUE> have come to watch."
+    },
+    {
+      "VardId": "MES_TOUREVENT_PERSONS_BRAVO",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_NORMAL>\r\nThe previous one was outstanding! This\ntime, <BLUE><MOJI0> people</BLUE> have come to watch."
+    },
+    {
+      "VardId": "MES_TOUREVENT_PERSONS_FIRST",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_NORMAL>\r\nIt's our very first one! We have\n<BLUE><MOJI0> people</BLUE> here to watch."
+    },
+    {
+      "VardId": "MES_TOUREVENT_GO_SEEING",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_ROUGH>\r\nNow let's go view some gardening! Take\nit away, <MYNAME>."
+    },
+    {
+      "VardId": "MES_TOUREVENT_CLOSE",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_NORMAL>\r\nI think it's about time to call it a \nday. To all the participants, thank you\nvery much for coming out today."
+    },
+    {
+      "VardId": "MES_TOUREVENT_FORGET",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_SAD>\r\n<MYNAME>, don't tell me... Did you forget\nabout today's tour? How could you?!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_CANCEL_00",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_SAD>\r\nWe have no choice but to cancel it."
+    },
+    {
+      "VardId": "MES_TOUREVENT_CANCEL_01",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_SAD>\r\nI'm sorry, everyone. I know you came all\nthe way out here, but you might as well\ngo home."
+    },
+    {
+      "VardId": "MES_TOUREVENT_SCOLD",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_ANGRY>\r\n<MYNAME>, you disappoint me. Not only\nthat, you disappointed the participants.\nMake sure this never happens again."
+    },
+    {
+      "VardId": "MES_TOUREVENT_PAY_MONEY",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_ROUGH>\r\nOh, <MYNAME>. Here's the money you've\nearned. I hope you'll use it for your\nfuture gardening endeavors!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_GOOD_BYE",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_NORMAL>\r\nI have high hopes for the next tour. \nGood luck! Well now, I think we'll\nexcuse ourselves."
+    },
+    {
+      "VardId": "MES_TOUREVENT_HOW_MUCH",
+      "Text": "Let's take a look at the collections\nyou received. How much did you earn?"
+    },
+    {
+      "VardId": "MES_TOUREVENT_MONEY_BAD",
+      "Text": "You didn't receive any money this time.\nNext time make sure to have a proper\ngarden ready!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_MONEY_SUBTLE",
+      "Text": "You received <BLUE><MOJI0> G</BLUE> this time.\nI guess the tour was a failure. Better\nluck next time."
+    },
+    {
+      "VardId": "MES_TOUREVENT_MONEY_NORMAL",
+      "Text": "You received <BLUE><MOJI0> G</BLUE> this time!\nThe tour was a moderate success. Give it\nyour all next time."
+    },
+    {
+      "VardId": "MES_TOUREVENT_MONEY_GOOD",
+      "Text": "You received <BLUE><MOJI0> G</BLUE> this time!\nThe tour was a moderate success. Give it\nyour all next time. "
+    },
+    {
+      "VardId": "MES_TOUREVENT_MONEY_NICE",
+      "Text": "You received <BLUE><MOJI0> G</BLUE> this time!\nEveryone had fun on the tour. Give it\nyour all next time. "
+    },
+    {
+      "VardId": "MES_TOUREVENT_MONEY_BRAVO",
+      "Text": "You received <BLUE><MOJI0> G</BLUE> this time!\nThe tour was a great success! Good job!\nLet's make the next one just as good!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_CALL",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_NORMAL>\r\nHey, <MYNAME>!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_SPACE_SELL_00",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_NORMAL>\r\n<CHARANAME0> wants to buy your garden\ndisplay. Would you consider selling it?"
+    },
+    {
+      "VardId": "MES_TOUREVENT_SPACE_SELL_01",
+      "Text": "Sell"
+    },
+    {
+      "VardId": "MES_TOUREVENT_SPACE_SELL_02",
+      "Text": "Don't sell"
+    },
+    {
+      "VardId": "MES_TOUREVENT_SPACE_SELL_YES",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_ROUGH>\r\nIt's a deal! Here's the asking price of\n<BLUE><MOJI0> G</BLUE>. I'm sure <CHARANAME0> \nwill be thrilled!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_MONEY_SELL",
+      "Text": "Received <BLUE><MOJI0> G</BLUE>!\nHooray! Aren't you glad you put\nso much work into your garden?"
+    },
+    {
+      "VardId": "MES_TOUREVENT_SELL_LEAVE",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_NORMAL>\r\nI'll take the garden to <CHARANAME0>.\nThank you, <MYNAME>."
+    },
+    {
+      "VardId": "MES_TOUREVENT_SPACE_SELL_NO",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_SAD>\r\nI understand. You poured your heart into\nit, so I'm not surprised you don't want\nto let it go. I'll tell <CHARANAME0>."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LEAVE",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_NORMAL>\r\nI'll be going now. See you later, \n<MYNAME>."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM1_00",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_ROUGH>\r\nOh, it's a Western-style garden this\ntime. It's got a nice atmosphere to it.\nI really like gardens like this.\n<PAGE>\n<FACE_ROD><POS_LEFT><FACE_ROUGH>Me, too! I wish I had a garden like\nthis. I want <MYNAME> to make me one."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM1_01",
+      "Text": "<FACE_ROD><POS_LEFT><FACE_ROUGH>\r\nThis one is amazing! It's really very\nlovely. \n<PAGE>\n<FACE_ALLEN><POS_RIGHT><FACE_ROUGH>I agree. For something that <MYNAME>\nmade, I think it's very well done.\nI'll be sure to give some compliments."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM1_02",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>\r\nI wouldn't say it's the best I've ever\nseen, but it is a very nice garden. \nNot bad. Not bad at all.\n<PAGE>\n<FACE_ROD><POS_LEFT><FACE_NORMAL><MYNAME> is amazing. To think\nthat they can make something\nlike this just amazes me."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM1_03",
+      "Text": "<FACE_ROD><POS_LEFT><FACE_NORMAL>\r\nNice! I really like this garden. <MYNAME>\ndid a really good job.\n<PAGE>\n<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>It's not bad, but it needs just a bit\nmore to really shine. I'll be expecting\nbig things next time."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM1_04",
+      "Text": "<FACE_ROD><POS_LEFT><FACE_NORMAL>\r\nNow this is quite a garden. I'm sure\na lot of hard work goes into making a\ngarden like this.\n<PAGE>\n<FACE_ALLEN><POS_RIGHT><FACE_LOSS>You think so? I could make something\nlike this easily."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM1_05",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_SAD>\r\nMan, what's the deal with this garden? \nThere's nothing interesting about it. I\nshouldn't have even come here.\n<PAGE>\n<FACE_ROD><POS_LEFT><FACE_LOSS>Hmm... I have to agree, Allen. And I was\nlooking forward to it, too..."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM2_00",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nI really love the tropical theme this\ngarden evokes. It's been coordinated\nwonderfully.\n<PAGE>\n<FACE_OLIVIA><POS_LEFT><FACE_ROUGH>You're right. It's beautiful. I could\ngaze at it for hours. I have to remember\nto get a picture of it later."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM2_01",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nThis is a wonderful garden. I would say\nit is on the same level as one you'd\nfind back at the palace.\n<PAGE>\n<FACE_OLIVIA><POS_LEFT><FACE_ROUGH>Yes. This garden is so lovely. It would\ngo perfect with some tea and sweets."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM2_02",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nWhat a wonderful garden. A garden like\nthis could be a famous attraction for\nthe town.\n<PAGE>\n<FACE_OLIVIA><POS_LEFT><FACE_ROUGH>I agree. I must say, <MYNAME> is really\nquit talented. I'm certainly impressed."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM2_03",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nThis is a nice garden. I want to spend\nsome more time observing it. It's too\nbad there's a time limit.\n<PAGE>\n<FACE_OLIVIA><POS_LEFT><FACE_NORMAL><MYNAME> would be happy to hear that. I\nsure hope their future gardens are just\nas lovely."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM2_04",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nNot terribly impressive, but not bad by\nany means. I suppose it's decent. At the\nvery least, it has a good balance.\n<PAGE>\n<FACE_OLIVIA><POS_LEFT><FACE_NORMAL>It does have balance, but something is\nmissing... I think their next garden\nwill be better. "
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM2_05",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_SAD>\r\nTo be honest, I'm disappointed. I had\nexpected a much better garden.\n<PAGE>\n<FACE_OLIVIA><POS_LEFT><FACE_SAD>Yes. This garden should never have seen\nthe light of day in its current state. "
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM3_00",
+      "Text": "<FACE_KUROZE><POS_RIGHT><FACE_ROUGH>\r\nIs the theme of this garden the\nwaterfront? I think it's wonderful.\n<PAGE>\n<FACE_IROHA><POS_LEFT><FACE_ROUGH>I love the atmosphere. I want a picture\nto be taken so I can hang it in my room.\nMaybe I should go ask Dunhill."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM3_01",
+      "Text": "<FACE_IROHA><POS_LEFT><FACE_ROUGH>\r\nTake a look, Klaus. This garden is\nwonderful. I could gaze at it forever.\n<PAGE>\n<FACE_KUROZE><POS_LEFT><FACE_ROUGH>This garden is nothing short of\nbreathtaking. Simply spectacular. My hat\ncomes off to you."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM3_02",
+      "Text": "<FACE_KUROZE><POS_RIGHT><FACE_ROUGH>\r\nGood work, <MYNAME>. You've made a great\ngarden. I am enthralled by its beauty.\n<PAGE>\n<FACE_IROHA><POS_LEFT><FACE_ROUGH>I agree. I enjoy just simply gazing at\nit."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM3_03",
+      "Text": "<FACE_KUROZE><POS_RIGHT><FACE_NORMAL>\r\nHm... I can sense just how hard <MYNAME>\nhas worked to make this garden. All I\ncan say is \"good job.\"\n<PAGE>\n<FACE_IROHA><POS_LEFT><FACE_NORMAL>The placements must have been difficult\nto decide, but the outcome still came\nout wonderfully. You have my respect."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM3_04",
+      "Text": "<FACE_IROHA><POS_LEFT><FACE_NORMAL>\r\nThis garden is rather ordinary. But\nit has some qualities I'm quite fond of.\n<PAGE>\n<FACE_KUROZE><POS_LEFT><FACE_NORMAL>Well, I suppose it isn't bad... But \nwith everyone gathered around I was \nexpecting something more."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM3_05",
+      "Text": "<FACE_KUROZE><POS_RIGHT><FACE_SAD>\r\nWhat a boring garden. It seems I have\nwasted my time here.\n<PAGE>\n<FACE_IROHA><POS_LEFT><FACE_SAD>I had hoped you would make a more\nentertaining garden, but you have \ninstead disappointed me."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM4_00",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_ROUGH>\r\nWow<RED>∀</RED> What a pretty garden!\n<PAGE>\nIf the entire town was like this garden,\nit would be like we were living in a\ntheme park!\n<PAGE>\n<FACE_YURI><POS_LEFT><FACE_ROUGH>Yeah... It's pretty... I want to live in\na town like this..."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM4_01",
+      "Text": "<FACE_YURI><POS_LEFT><FACE_ROUGH>\r\nWhat a wonderful garden.... I could stay\nhere forever.\n<PAGE>\n<FACE_MICHEL><POS_RIGHT><FACE_ROUGH>I didn't think I would ever see a\ngarden this beautiful!<RED>∀</RED> I'm so glad\nI came today!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM4_02",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_ROUGH>\r\nAmazing! You don't see a garden this\nspectacular every day!\n<PAGE>\n<FACE_YURI><POS_LEFT><FACE_ROUGH>Yeah... I'm having a good time just\ngazing at it. I should thank\n<MYNAME> later."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM4_03",
+      "Text": "<FACE_YURI><POS_LEFT><FACE_NORMAL>\r\nWhat a nice garden. It must have taken\na long time to make.\n<PAGE>\n<FACE_MICHEL><POS_RIGHT><FACE_NORMAL>You're right. I think a lot of effort\nwas put into it and it shows."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM4_04",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_NORMAL>\r\nHmm, it's not bad, but it's kind of\nordinary. I wanted something a little\nmore exciting.\n<PAGE>\n<FACE_YURI><POS_LEFT><FACE_NORMAL>Yeah. I hope <MYNAME>\ntries a little harder next time..."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM4_05",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_ANGRY>\r\nAs an entertainer, I can't say anything\ngood about your garden. You have to be\nmore considerate to your audience.\n<PAGE>\n<FACE_YURI><POS_LEFT><FACE_SAD>Yeah. You should always give it your all\nwhen trying to make other people happy."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM5_00",
+      "Text": "<FACE_KAMONBERU><POS_RIGHT><FACE_ROUGH>\r\nOh! What an impressive Eastern-themed\ngarden! It's moving!\n<PAGE>\n<FACE_KOSABURO><POS_LEFT><FACE_ROUGH>I love it! I can feel the cultural\nsignificance flowing from the garden!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM5_01",
+      "Text": "<FACE_KOSABURO><POS_LEFT><FACE_ROUGH>\r\nAmazing! I didn't think <MYNAME> had the\nheart to make a garden like this!\n<PAGE>\n<FACE_KAMONBERU><POS_RIGHT><FACE_ROUGH>Bravo! I'm impressed through and\nthrough! <MYNAME> is amazing!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM5_02",
+      "Text": "<FACE_KAMONBERU><POS_RIGHT><FACE_ROUGH>\r\nWonderful! You do great work, <MYNAME>.\n<PAGE>\nI would love to have a garden like this\nfor my store!\n<PAGE>\n<FACE_KOSABURO><POS_LEFT><FACE_ROUGH>Sounds good! I'd love to make a garden\nlike this someday! I oughtta get <MYNAME>\nto teach me a thing or two!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM5_03",
+      "Text": "<FACE_KOSABURO><POS_LEFT><FACE_NORMAL>\r\nA delightful garden indeed! <MYNAME>\nhas done a great job!\n<PAGE>\n<FACE_KAMONBERU><POS_RIGHT><FACE_NORMAL>What a nice garden! I could stay here\nall day! How fun!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM5_04",
+      "Text": "<FACE_KAMONBERU><POS_RIGHT><FACE_NORMAL>\r\nA standard garden. I would compare it to\nyour standard fare at an ordinary\nrestaurant.\n<PAGE>\nIt's not bad, but I wish I could have\nseen a garden more like a full course\nmeal!\n<PAGE>\n<FACE_KOSABURO><POS_LEFT><FACE_NORMAL>You're absolutely right! I was hoping to\nsee a more impressive garden on a bigger\nscale!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM5_05",
+      "Text": "<FACE_KAMONBERU><POS_RIGHT><FACE_ANGRY>\r\nThis garden is just... It's all wrong!\nYou're not going to win over any fans\nthis way! You need to try much harder!\n<PAGE>\n<FACE_KOSABURO><POS_LEFT><FACE_ANGRY>You're right! You think I'd be\nsatisfied with a garden like this? What\ndo you take me for!?"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM6_00",
+      "Text": "<FACE_HOSSAN><POS_RIGHT><FACE_ROUGH>\r\nI see this garden incorporates fall\nplants.\n<PAGE>\nAs someone born in the fall, I must say\nI think it's wonderful! I'm very\nimpressed!\n<PAGE>\n<FACE_SANDRA><POS_LEFT><FACE_ROUGH>Ahehehehe! I was born in fall, too!\n<PAGE>\nWas this garden made just for us?!\nNot bad! Good job! Ahehehehe!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM6_01",
+      "Text": "<FACE_SANDRA><POS_LEFT><FACE_ROUGH>\r\nAhehehe! Good! Good! I'm glad I came\neven though it's so bright out.\n<PAGE>\nIt's rare for me to look at anything\nother than my research for this long!\nYou're in luck!\n<PAGE>\n<FACE_HOSSAN><POS_RIGHT><FACE_ROUGH>I understand why you would say that,\nSandra.\n<PAGE>\nThis garden would be the perfect setting\nfor a novel. Maybe I should use it for\nmy book... I should ask <MYNAME> later."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM6_02",
+      "Text": "<FACE_HOSSAN><POS_RIGHT><FACE_ROUGH>\r\nWonderful. Well done, <MYNAME>. This\ngarden is fabulous.\n<PAGE>\n<FACE_SANDRA><POS_LEFT><FACE_ROUGH>Ahehehehe! This garden is perfect for me\nto come take a break from my research!\n<PAGE>\nI should create a miniature version of\nthis garden for my room. Ahehehehe!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM6_03",
+      "Text": "<FACE_SANDRA><POS_LEFT><FACE_NORMAL>\r\nMy my, this garden seems very relaxing.\nMaybe I should go in and have a look.\n<PAGE>\n<FACE_HOSSAN><POS_RIGHT><FACE_ANGRY>I know how you feel, Sandra, but you\nshouldn't. Dunhill will get mad at you."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM6_04",
+      "Text": "<FACE_HOSSAN><POS_RIGHT><FACE_NORMAL>\r\nThis is so much more ordinary than I\nexpected. But I guess it's not awful...\n<PAGE>\n<FACE_SANDRA><POS_LEFT><FACE_NORMAL>I just don't have time for ordinary\nthings. I'd rather those youngsters\nfocus on flashier gardens."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM6_05",
+      "Text": "<FACE_HOSSAN><POS_RIGHT><FACE_SAD>\r\nWell... No comment on this garden.\n<PAGE>\n<FACE_SANDRA><POS_LEFT><FACE_ANGRY>What is this?! I came here to see a\ngarden and this is what I get!? Are you\ntrying to insult me?!\n<PAGE>\nI'd rather go back to my research than\nwaste my time with this!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM7_00",
+      "Text": "Oh, a country-style garden. It's like\nbeing on the set of a movie. It makes \nme want to grab a guitar and sing."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM7_01",
+      "Text": "Wow, what a surprise. I didn't think\nthere'd be a garden so splendid. I'm at\na loss for words.\n<PAGE>\nThis was absolutely worth coming all\nthis way. Maybe I should bring my girl\nnext time."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM7_02",
+      "Text": "You're already amazing for being a\nrancher, but to be able to create a\ngarden like this, too? Can you teach me?"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM7_03",
+      "Text": "What a wonderful garden. Definitely a\nworthwhile sight.\n<PAGE>\nI've been a part of many tours, but\nthis one was a hit!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM7_04",
+      "Text": "Even I could make a garden like this.\n<PAGE>\nIf something like this can make money,\nI ought to grow my own garden..."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM7_05",
+      "Text": "Did I really spend five hours getting\nhere just to see a garden like this? I\nshould have slept in today."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM8_00",
+      "Text": "Gardens with Eastern motifs are always\nso relaxing.\n<PAGE>\nIf I had a garden like this nearby, I'd\nvisit every day. I'm so jealous!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM8_01",
+      "Text": "They say truly wonderful things can\nchange a person's life. I really think\nthis is one of them.\n<PAGE>\nI had no interest in creating a garden\nbefore, but I think I'll really focus\non that now."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM8_02",
+      "Text": "I only stopped by on my vacation, but\nnow I feel like this garden is the\nhighlight of my trip..\n<PAGE>\nIf I have another chance, I'll\ndefinitely come again."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM8_03",
+      "Text": "You made such a wonderful garden all\non your own.\n<PAGE>\nIf I weren't a woman, I'd ask <MYNAME>\nfor her hand in marriage."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM8_04",
+      "Text": "What an ordinary garden. You had better\nput some effort in, or no one will visit\nagain."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM8_05",
+      "Text": "This garden is terrible. It doesn't\ninterest me in the least."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM9_00",
+      "Text": "You've used many plants from the spring\nseason. The colors are beautiful and\nthe combinations are graceful.\n<PAGE>\nI think today's going to be a wonderful\nday. I'm so glad I came."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM9_01",
+      "Text": "I wasn't sure about the statement you\nare trying to make with your garden, but\nI'm honestly impressed.\n<PAGE>\nPeople really do become speechless when\nthey experience something truly\nbeautiful."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM9_02",
+      "Text": "What a great garden. A garden like this\nis bound to bring more tourists here."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM9_03",
+      "Text": "You made this garden by yourself? I'm\nhonestly impressed."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM9_04",
+      "Text": "It's ordinary... I didn't have any high\nhopes to begin with, but this sure was\na disappointment."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM9_05",
+      "Text": "You wanted us to pay to see this? I\nfeel insulted, to be honest."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM1_00",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_ROUGH>\r\nLook! There are so many animals! It's\nlike a zoo!\n<PAGE>\n<FACE_FELICIA><POS_LEFT><FACE_ROUGH>You're right! They're adorable! If\nthere were a garden like this in town,\nit would be so much fun!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM1_01",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_ROUGH>\r\nWow, what a great garden! You made\nsomething this awesome?! <MYNAME>,\nyou're a genius!\n<PAGE>\n<FACE_FELICIA><POS_LEFT><FACE_ROUGH>Haha. Oh, Tina. You look like you're\nhaving fun!\n<PAGE>\nThen again, I am, too! There's just so\nmany things to look at and enjoy!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM1_02",
+      "Text": "<FACE_FELICIA><POS_LEFT><FACE_ROUGH>\r\nWow! This is such a nice garden, Tina!\nLet's take a picture together later!\n<PAGE>\n<FACE_TINA><POS_LEFT><FACE_ROUGH>That's a great idea! I think I should\nwrite an article about this garden, too!\n<PAGE>\nMaybe we can create a photo collection\nentitled \"Gardening Tour Top 100 Picks\"\nwith you as the editor!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM1_03",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_NORMAL>\r\nI find it surprising that <MYNAME>\ndid all this alone.\n<PAGE>\nIf I could make a garden this nice, I'd\nbecome a gardener myself.\n<PAGE>\n<FACE_FELICIA><POS_LEFT><FACE_NORMAL>I'm so jealous of people that have so\nmany different talents. I'd be happy if\nI could do half as much!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM1_04",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_NORMAL>\r\nThis garden isn't bad at all. I like\nthis kind of thing quite a bit.\n<PAGE>\nGardens that let you relax can't be too\nbusy, but they can't be too barren\neither.\n<PAGE>\n<FACE_FELICIA><POS_LEFT><FACE_NORMAL>You're right. That makes a lot of sense,\nTina. I'm a fan of gardens like this\ntoo."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM1_05",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_SAD>\r\nEven I can't rile myself up over a\ngarden like this. Oh, <MYNAME>...\n<PAGE>\n<FACE_FELICIA><POS_LEFT><FACE_SAD>Right. I was looking forward to today's\ntour, but it's very unfortunate."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM2_00",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_ROUGH>\r\nThis garden has many winter plants.\nWell done. I was born in winter, so I\nenjoy it all the more. \n<PAGE>\n<FACE_NEEL><POS_LEFT><FACE_ROUGH>I like this garden, too. I'm not\nreally interested in gardening, but I\ncould stay here forever."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM2_01",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_ROUGH>\r\nThere's only one word to describe this:\nSplendid. Every single thing in the\ngarden looks full of energy.\n<PAGE>\nAs I gaze at it, I completely lose track\nof time.\n<PAGE>\n<FACE_NEEL><POS_LEFT><FACE_ROUGH>You're right. I could stay here all\nday and never be bored. Every glance\nbrings a new discovery."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM2_02",
+      "Text": "<FACE_NEEL><POS_LEFT><FACE_ROUGH>\r\nOh, I didn't think <MYNAME> could make a\ngarden this nice.\n<PAGE>\nNow our city will be bustling with\npeople soon!\n<PAGE>\n<FACE_SYUMITTO><POS_RIGHT><FACE_ROUGH>I was thinking the same thing. What an\nexciting garden! It's had quite an \nimpression on me."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM2_03",
+      "Text": "<FACE_NEEL><POS_LEFT><FACE_NORMAL>\r\nI don't really care about what makes it\na good garden, but I can tell a lot of\neffort was put in it.\n<PAGE>\n<FACE_SYUMITTO><POS_RIGHT><FACE_NORMAL>I agree. I can sense the passion of the\nmaker just by looking at it. It's a\ngood garden, indeed."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM2_04",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_NORMAL>\r\nThis garden doesn't particularly attract\nother people, but I like it.\n<PAGE>\n<FACE_NEEL><POS_LEFT><FACE_ROUGH>I'd rather see something more amazing,\nsince we came all this way, but I guess\nthere's nothing wrong with this one. "
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM2_05",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_LOSS>\r\nI don't know what to say...\n<PAGE>\n<FACE_NEEL><POS_LEFT><FACE_ANGRY>I don't know a lot about gardens, but\nthis one is just a bit too...lacking,\nmaybe? It really needs something more."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM3_00",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_ROUGH>\r\nOh, this garden is pretty unique. It's\nfull of little details everywhere. I\nlike it!\n<PAGE>\n<FACE_GARDNER><POS_LEFT><FACE_ROUGH>Agreed. Going the traditional route can\nbe good, but it's fun to see gardens\nlike this that are a little different."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM3_01",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_ROUGH>\r\nWhat a great garden! I still can't\nbelieve a single person did all this!\nI'm glad I've had the chance to see it.\n<PAGE>\n<FACE_GARDNER><POS_LEFT><FACE_ROUGH>Splendid... Camellia and I love gardens,\nbut this one is something special.\n<PAGE>\nI envy <MYNAME> for being able to create\na garden of this caliber."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM3_02",
+      "Text": "<FACE_GARDNER><POS_LEFT><FACE_ROUGH>\r\nWhat a wonderful garden. I wish I could\nbe enjoying it with the Goddess and not\nhere with you, Soseki.\n<PAGE>\n<FACE_SENGOKU><POS_RIGHT><FACE_ROUGH>Right back at you, buddy. Anyway, this\ngarden really is something else. I wish\nI could live here."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM3_03",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_NORMAL>\r\nI really like this garden. It sure has\na great atmosphere. I couldn't help but\ndrop by to look.\n<PAGE>\n<FACE_GARDNER><POS_LEFT><FACE_NORMAL>It's not bad. If I could see a garden\nof this caliber every time, I'd \nwouldn't mind coming here more often."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM3_04",
+      "Text": "<FACE_GARDNER><POS_LEFT><FACE_NORMAL>\r\nIt's a very average garden, but being an\nadult means finding things to enjoy\nin that. \n<PAGE>\nSoseki, look. Don't you think that area\nover there is particularly nice?\n<PAGE>\n<FACE_SENGOKU><POS_RIGHT><FACE_NORMAL>Oh, that? It's nice, but I prefer\nthis section over here."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM3_05",
+      "Text": "<FACE_GARDNER><POS_LEFT><FACE_SAD>\r\nI had high hopes for this tour. What\nhappened? It's just disappointing.\n<PAGE>\n<FACE_SENGOKU><POS_RIGHT><FACE_LOSS>Hmmm... I was looking forward to it,\ntoo. Let's just hope the next one is\nbetter."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM4_00",
+      "Text": "<FACE_HANA><POS_RIGHT><FACE_ROUGH>\r\nI'm an old woman, so these country-style\ngardens are really appealing to me.\n<PAGE>\nI'd want to make a garden like this\nmyself. I should go ask <MYNAME> the\ntrick to doing it later.\n<PAGE>\n<FACE_EMA><POS_RIGHT><FACE_ROUGH>I want to listen in on that, too.\nGardens like this are hard to make, even\nif you know how.\n<PAGE>\nI really like this garden. I just feel\nso at ease here."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM4_01",
+      "Text": "<FACE_HANA><POS_RIGHT><FACE_ROUGH>\r\nOh, my! What a wonderful garden!\n<PAGE>\nI'm so glad I could live long enough to\nsee something like this in my lifetime.\n<PAGE>\n<FACE_EMA><POS_LEFT><FACE_ROUGH>Oh, Hana. Then again, you've got a\npoint. It's such a luxury to be able to\nsee a garden like this."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM4_02",
+      "Text": "<FACE_EMA><POS_LEFT><FACE_ROUGH>\r\nWhat a wonderful garden. If only I had\na garden like this at home, I'd skip\nwith joy everywhere I go.\n<PAGE>\n<FACE_HANA><POS_RIGHT><FACE_ROUGH>Oh, that sounds good. Maybe I should\nskip along with you. Hahaha..."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM4_03",
+      "Text": "<FACE_HANA><POS_RIGHT><FACE_NORMAL>\r\nThis is nice. I feel so happy being able\nto look at a garden like this. <MYNAME>\nmust be such a hard worker.\n<PAGE>\n<FACE_EMA><POS_LEFT><FACE_NORMAL>There's work at the ranch to be done and\nyet <MYNAME> still had the time to make\nthis. I'm really impressed."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM4_04",
+      "Text": "<FACE_EMA><POS_LEFT><FACE_NORMAL>\r\nNot too overdone, not too barren, this\ngarden manages a perfect, delicate\nbalance. It's just my type of garden.\n<PAGE>\n<FACE_HANA><POS_LEFT><FACE_NORMAL>Right. They say simple is best, and I\ncompletely agree."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM4_05",
+      "Text": "<FACE_HANA><POS_RIGHT><FACE_SAD>\r\nThis garden was pitiful. It's\nunfortunate because I was looking\nforward to seeing it...\n<PAGE>\n<FACE_EMA><POS_LEFT><FACE_SAD>Right... It needs to look more like a\ngarden or we'll start losing visitors. "
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM5_00",
+      "Text": "<FACE_REBECCA><POS_RIGHT><FACE_ROUGH>\r\nWonderful! Summer plants everywhere!\n<PAGE>\nCamellia and I were both born in the\nsummer, so it's especially lovely to us.\n<PAGE>\n<FACE_KAMIRIYA><POS_LEFT><FACE_ROUGH>Honestly... The gracefulness of summer\nplants just brings the garden to life.\nIt's spectacular."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM5_01",
+      "Text": "<FACE_REBECCA><POS_RIGHT><FACE_ROUGH>\r\nI didn't think the blueprint I made\nwould eventually turn into a garden\nas wonderful as this.\n<PAGE>\nI'll be sure to give <MYNAME> my praise.\n<PAGE>\n<FACE_KAMIRIYA><POS_LEFT><FACE_ROUGH>Oh, you look like you're about\nto cry, Rebecca...\n<PAGE>\nI suppose you're moved to tears because\nyou had sort of a part in creating this\nbeautiful garden."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM5_02",
+      "Text": "<FACE_KAMIRIYA><POS_LEFT><FACE_ROUGH>\r\nWhat a delightful garden. Being able to\nmake a garden like this shows just how\nartistic the creator is.\n<PAGE>\n<FACE_REBECCA><POS_RIGHT><FACE_ROUGH>It sure does! It'll be free advertising\nfor my blueprints, too!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM5_03",
+      "Text": "<FACE_REBECCA><POS_RIGHT><FACE_NORMAL>\r\nWhat a nice garden. I want to go in and\njust relax. <MYNAME> sure is impressive.\n<PAGE>\n<FACE_KAMIRIYA><POS_LEFT><FACE_NORMAL>Oh, Rebecca. But you are right. This is\na nice garden. Maybe I should pick up\ngardening, too."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM5_04",
+      "Text": "<FACE_KAMIRIYA><POS_LEFT><FACE_NORMAL>\r\nI don't think this garden is too shabby.\nWhat do you think, Rebecca?\n<PAGE>\n<FACE_REBECCA><POS_RIGHT><FACE_NORMAL>You're right. It's not bad. Let's hope\nthe garden's quality is maintained."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM5_05",
+      "Text": "<FACE_REBECCA><POS_LEFT><FACE_ANGRY>\r\nWhat's with this garden? My blueprints\naren't helping at all.\n<PAGE>\nIt's up to <MYNAME> to use them or not,\nbut it's just unfortunate.\n<PAGE>\n<FACE_KAMIRIYA><POS_LEFT><FACE_SAD>Right... I just wondered if maybe this\nwas the best garden they could make..."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM6_00",
+      "Text": "<FACE_HINA><POS_RIGHT><FACE_ROUGH>\r\nWow! Look! There are so many animals\nhere!\n<PAGE>\n<FACE_TONI><POS_LEFT><FACE_ROUGH>Whoa! It sure is different when you\nsee so many of them! Cool!\n<PAGE>\n<FACE_NARUKU><POS_LEFT><FACE_ROUGH>Yeah! It's so fun. <MYNAME> must be so \namazing to make this place by himself!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM6_01",
+      "Text": "<FACE_TONI><POS_LEFT><FACE_ROUGH>\r\nAwesome! Look at this garden!\n<PAGE>\nThere's so much stuff everywhere! It\nlooks like a whole lot of fun!\n<PAGE>\n<FACE_HINA><POS_RIGHT><FACE_ROUGH>I know! It looks like a toy box!\nEverything is shiny!\n<PAGE>\n<FACE_NARUKU><POS_LEFT><FACE_ROUGH>This is amazing. I wish I could cook\nsomething up that's as fun as this."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM6_02",
+      "Text": "<FACE_NARUKU><POS_LEFT><FACE_ROUGH>\r\nWow, this is a wonderful garden. I\nwonder if I'd have more guests at the\ninn if I had a garden like this there.\n<PAGE>\n<FACE_TONI><POS_RIGHT><FACE_ROUGH>Sounds like a great idea! I'd come visit\nyou every day if you get a garden like\nthis!\n<PAGE>\n<FACE_HINA><POS_LEFT><FACE_ROUGH>Me, too! And we'd go there to play \neveryday!\n<PAGE>\n<FACE_NARUKU><POS_LEFT><FACE_SAD>Hehe. If you did that, you'd scare off\nall my customers. "
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM6_03",
+      "Text": "<FACE_HINA><POS_RIGHT><FACE_NORMAL>\r\nThat's nice. I want to make a garden\nlike this when I grow up.\n<PAGE>\n<FACE_NARUKU><POS_LEFT><FACE_NORMAL>But gathering all the materials might\nbe a lot of trouble. I'm not sure if I\ncan do it.\n<PAGE>\n<FACE_TONI><POS_LEFT><FACE_NORMAL>I normally don't think so, but maybe\n<MYNAME> is actually really amazing."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM6_04",
+      "Text": "<FACE_NARUKU><POS_LEFT><FACE_NORMAL>\r\nHmm. I don't mind it the way it is now,\nbut adding some animal statues might\nmake it even better.\n<PAGE>\n<FACE_HINA><POS_RIGHT><FACE_NORMAL>I'd put up a statue of the Harvest\nGoddess and an arch, too! It'll make the\ngarden pretty.\n<PAGE>\n<FACE_TONI><POS_LEFT><FACE_NORMAL>I want to put my toys around! The more\nthe better! It'll look cool!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM6_05",
+      "Text": "<FACE_TONI><POS_LEFT><FACE_ANGRY>\r\nWhat?! What's with this garden? There's\nnothing fun about it!\n<PAGE>\n<FACE_HINA><POS_RIGHT><FACE_SAD>Yeah. We came all the way out here,\nbut it's so boring.\n<PAGE>\n<FACE_NARUKU><POS_LEFT><FACE_SAD>\nHmm... What a huge disappointment."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM7_00",
+      "Text": "There are lots of winter plants in this\ngarden. It's like it's welcoming me\nsince I was born during winter.\n<PAGE>\nI will remember this day for the rest\nof my life."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM7_01",
+      "Text": "The word \"unbeatable\" was created for\ntimes like this.\n<PAGE>\nThis garden is absolutely perfect."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM7_02",
+      "Text": "I heard this Gardening Tour is fun and\nit did not disappoint.\n<PAGE>\nI'm glad I came today."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM7_03",
+      "Text": "I'm so lucky to have seen such a great\ngarden. I should go tell my family."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM7_04",
+      "Text": "Everything is too ordinary and boring.\nCouldn't they have made it better?"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM7_05",
+      "Text": "That was a waste of time. I shouldn't\nhave come."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM8_00",
+      "Text": "Spring plants are gorgeous. I can't help\nbut smile when I look at them.\n<PAGE>\nI wish I could share this wonderful\ngarden with more people."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM8_01",
+      "Text": "That's beautiful! I have never seen\nsuch a wonderful garden."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM8_02",
+      "Text": "That's <MYNAME> for you. I knew it would\nbe a fabulous garden.\n<PAGE>\nMaybe I should become a regular and join\nevery tour. That might be fun."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM8_03",
+      "Text": "This is a nice garden. My town doesn't\nhave anything like it, so I'm glad I\ncame."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM8_04",
+      "Text": "I really shouldn't have come, what with\ngardens like this. Yawn."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM8_05",
+      "Text": "This is terrible. I didn't think I would\nsee anything as awful as this garden."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM9_00",
+      "Text": "Fall plants are so colorful!\n<PAGE>\nFall is the season of food! After\nlooking at this garden I'm starved!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM9_01",
+      "Text": "Bravo! I didn't think a garden like this\nexisted in this world. This was a\nwonderful experience."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM9_02",
+      "Text": "Hmm... I would never be able to recreate\na garden like this.\n<PAGE>\nBut it wasn't made by a professional in\nthe first place, so that makes it all\nthe more surprising."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM9_03",
+      "Text": "This garden makes me happy just looking\nat it. I'll never grow tired of it."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM9_04",
+      "Text": "The garden may look ordinary, but\nthere's something tasteful about it."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM9_05",
+      "Text": "Oh, no... I can't find a single thing\nto compliment in this garden."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM1_00",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_ROUGH>\r\nWhat a stylish garden. I'd want a garden\nlike this in front of my store.\n<PAGE>\n<FACE_IROHA><POS_LEFT><FACE_ROUGH>Only people with real taste can make\nsomething like this."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM1_01",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_ROUGH>\r\nThis is a well-made garden. Perfect, I\ndare say. Even I don't have the talent\nto make something like this.\n<PAGE>\n<FACE_IROHA><POS_LEFT><FACE_ROUGH>I could stare at it forever. That's\nhow good it is.\n<PAGE>\nIf only I could draw, I'd like to paint\na painting of it."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM1_02",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_ROUGH>\r\nI wouldn't say it's the best, but this\ngarden is well-made. It's not bad.\n<PAGE>\n<FACE_IROHA><POS_LEFT><FACE_ROUGH>I think so, too. Just looking at it\nmakes me feel happy inside."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM1_03",
+      "Text": "<FACE_IROHA><POS_LEFT><FACE_ROUGH>\r\nYou made things and placed them in just\nthe right places... It must have taken\na very long time.\n<PAGE>\nThe amount of time and effort spent on\nmaking this garden really shows.\n<PAGE>\n<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>That may be true, but changing things up\nmight make it even better. Let's see how\nwell it turns out next time."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM1_04",
+      "Text": "<FACE_IROHA><POS_LEFT><FACE_NORMAL>\r\nCome to think of it, I've seen gardens\nlike this in places where I've trained.\n<PAGE>\n<FACE_ALLEN><POS_RIGHT><FACE_LOSS>Doesn't that mean this garden isn't much\ndifferent from gardens of ordinary\nhomes there?\n<PAGE>\nThough I'm not disagreeing with you."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM1_05",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_ANGRY>\r\nWhat's the deal with this garden?\nThere's absolutely nothing to see. I\nshouldn't have come to this one.\n<PAGE>\n<FACE_IROHA><POS_LEFT><FACE_LOSS>Yes. It's especially bad since I was\nexpecting so much more."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM2_00",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_ROUGH>\r\nNow this is quite a unique garden. It\nhas many interesting things about it. I\nlike it!\n<PAGE>\n<FACE_TINA><POS_LEFT><FACE_ROUGH>I like it, too! It seems to resemble a\ntoy box. Just looking at is a lot of\nfun!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM2_01",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_ROUGH>\r\nWhat a wonderful garden! I can't believe\na single person made the whole thing.\nI'm glad I got to see it.\n<PAGE>\n<FACE_TINA><POS_LEFT><FACE_ROUGH>\nI know! <MYNAME> must be a genius for\nbeing able to make this garden!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM2_02",
+      "Text": "<FACE_TINA><POS_LEFT><FACE_ROUGH>\r\nNow I want to write an article on\n<MYNAME>. No one else could make a\ngarden like this!\n<PAGE>\n<FACE_SENGOKU><POS_RIGHT><FACE_ROUGH>I want to do the same. But seriously,\nthis is a really nice garden. I wish\nI could have something like this."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM2_03",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_NORMAL>\r\nThis garden is nice. I really like the\nfeel of it. I can't help but stop by\nto look.\n<PAGE>\n<FACE_TINA><POS_LEFT><FACE_NORMAL>If I could make a garden like this, I'd\nbe a gardener in a heartbeat.\n<PAGE>\n<MYNAME> can do anything. I wish I had\neven half the talent."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM2_04",
+      "Text": "<FACE_TINA><POS_LEFT><FACE_NORMAL>\r\nHmm. This is quite a garden. I actually\nlike this a lot.\n<PAGE>\nGardens that you can really relax in\nhave to have just the right amount of\nstuff.\n<PAGE>\n<FACE_SENGOKU><POS_RIGHT><FACE_NORMAL>I agree. I just love these gardens that\nsoothe the soul."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM2_05",
+      "Text": "<FACE_TINA><POS_LEFT><FACE_SAD>\r\nI just can't get excited about a garden\nlike this.\n<PAGE>\n<FACE_SENGOKU><POS_RIGHT><FACE_LOSS>Hmm... I was looking forward to it.\nI suppose I'll wait to see what the\nnext one will be like."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM3_00",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_ROUGH>\r\nThis waterfront garden is very nicely\ndone. It feels as if I'm surrounded by\nnature.\n<PAGE>\n<FACE_OLIVIA><POS_LEFT><FACE_ROUGH>It really is wonderful. I can look at\nit forever. I should have someone take\na picture for me later."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM3_01",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_ROUGH>\r\nSimply splendid. Every single thing\nplaced in the garden seems full of life.\n<PAGE>\nIt makes me forget the passage of time. \nI could end up gazing at this garden\nforever. \n<PAGE>\n<FACE_OLIVIA><POS_LEFT><FACE_ROUGH>Yes. It is a wonderful garden that makes\nme want to gather some tea and sweets\nto enjoy along with it."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM3_02",
+      "Text": "<FACE_OLIVIA><POS_LEFT><FACE_ROUGH>\r\nSuch talent. I wonder if <MYNAME> would\nmake a garden like this for me if I\nif I asked.\n<PAGE>\n<FACE_SYUMITTO><POS_RIGHT><FACE_ROUGH>I think so, too. This garden makes my\nsoul dance with joy. It would leave a\nstrong impression on anyone."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM3_03",
+      "Text": "<FACE_OLIVIA><POS_LEFT><FACE_NORMAL>\r\nThis garden must have taken ages to\nmake. I can see how much effort <MYNAME> \nhas put in.\n<PAGE>\n<FACE_SYUMITTO><POS_RIGHT><FACE_NORMAL>Yes. The maker's passion can be felt\njust by looking at it. I think it's a\ngood garden."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM3_04",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_NORMAL>\r\nThis garden doesn't particularly stand\nout, but I like it.\n<PAGE>\n<FACE_OLIVIA><POS_LEFT><FACE_NORMAL>I don't think it's bad, but something\nabout it seems lacking. I will be\nexpecting something better next time."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM3_05",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_LOSS>\r\nI don't know what to say...\n<PAGE>\n<FACE_OLIVIA><POS_LEFT><FACE_SAD>Yes. This garden isn't worthy to be\nshown in public."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM4_00",
+      "Text": "<FACE_REBECCA><POS_RIGHT><FACE_ROUGH>\r\nThis is wonderful! The tropical-motif\ncreates a wonderful atmosphere.\n<PAGE>\nConsidering how inexperienced you were\nwith blueprints, this is a huge \nsurprise.\n<PAGE>\n<FACE_TONI><POS_LEFT><FACE_ROUGH>Haha!  Aren't you glad you spent all\nthat time teaching, Mom?!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM4_01",
+      "Text": "<FACE_REBECCA><POS_RIGHT><FACE_ROUGH>\r\nI feel so proud seeing my blueprint\nbeing made into a magnificent garden\nlike this.\n<PAGE>\nI will have to give <MYNAME> my utmost\npraise.\n<PAGE>\n<FACE_TONI><POS_LEFT><FACE_ROUGH>There is so much here and it all looks\nso fun! I think I want to make a garden\nof my own!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM4_02",
+      "Text": "<FACE_TONI><POS_LEFT><FACE_ROUGH>\r\nThat <MYNAME>. If I knew there was a\ngarden as great as this, I'd come to the\nranch every day.\n<PAGE>\n<FACE_REBECCA><POS_RIGHT><FACE_ROUGH>Haha! You're so simple! But it'll be\nfree advertisement for our store, so go\nahead and play over there every day."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM4_03",
+      "Text": "<FACE_REBECCA><POS_RIGHT><FACE_NORMAL>\r\nWhat a nice garden. It makes me want to\nsit down and relax. I expected nothing\nless from <MYNAME>.\n<PAGE>\n<FACE_TONI><POS_LEFT><FACE_NORMAL>I usually don't think so, but maybe\n<MYNAME> actually has some talent."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM4_04",
+      "Text": "<FACE_TONI><POS_LEFT><FACE_NORMAL>\r\nThis garden seems ordinary. It's not\nbad, but...\n<PAGE>\n<FACE_REBECCA><POS_RIGHT><FACE_NORMAL>You're right. It's not bad. I just hope\nmore work will be put into the next one."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM4_05",
+      "Text": "<FACE_REBECCA><POS_LEFT><FACE_ANGRY>\r\nWhat's with this garden? My blueprint\ndidn't help out at all.\n<PAGE>\nI guess it was up to <MYNAME> whether or\nnot to use it, but this is really\nunfortunate.\n<PAGE>\n<FACE_TONI><POS_LEFT><FACE_SAD>I understand why you're so mad.\nThere's nothing fun about this garden.\n<MYNAME> needs to try harder."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM5_00",
+      "Text": "<FACE_HANA><POS_RIGHT><FACE_ROUGH>\r\nEastern-style gardens like this make\nme feel peace of mind.\n<PAGE>\nI want to be able to recreate something\nlike this. I should go ask <MYNAME>\nfor some pointers.\n<PAGE>\n<FACE_KOSABURO><POS_LEFT><FACE_ROUGH>Nice! I can feel the spirit of harmony\ncharging into me! I love this garden!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM5_01",
+      "Text": "<FACE_KOSABURO><POS_LEFT><FACE_ROUGH>\r\nThis is amazing! I'm amazed at how\n<MYNAME> can make this without any help!\n<PAGE>\n<FACE_HANA><POS_RIGHT><FACE_NORMAL>You're right. This is a lovely garden.\n<PAGE>\nI'm glad I could live long enough to see\na garden like this."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM5_02",
+      "Text": "<FACE_HANA><POS_RIGHT><FACE_ROUGH>\r\nThis is lovely. I want a garden like\nthis at home.\n<PAGE>\n<FACE_KOSABURO><POS_LEFT><FACE_ROUGH>It really is amazing! I want to make a\ngarden like this!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM5_03",
+      "Text": "<FACE_KOSABURO><POS_LEFT><FACE_NORMAL>\r\nThis is an awesome garden! You sure\nworked hard, <MYNAME>!\n<PAGE>\n<FACE_HANA><POS_RIGHT><FACE_NORMAL>This is nice. I have to thank <MYNAME>\nfor making this garden."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM5_04",
+      "Text": "<FACE_HANA><POS_RIGHT><FACE_NORMAL>\r\nThey say simple is best, but I realize\njust how true that is when I see this\ngarden.\n<PAGE>\n<FACE_KOSABURO><POS_LEFT><FACE_NORMAL>That may be true, but I want a huge and\nimpressive garden!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM5_05",
+      "Text": "<FACE_HANA><POS_RIGHT><FACE_SAD>\r\nThis garden is poorly made. I'm even\nmore disappointed because I was really\nlooking forward to it.\n<PAGE>\n<FACE_KOSABURO><POS_LEFT><FACE_ANGRY>Hana is right! You think we'll be\nsatisfied with a garden like this? We're\ninsulted!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM6_00",
+      "Text": "<FACE_KAMONBERU><POS_RIGHT><FACE_ROUGH>\r\nOh! The western-style garden looks\nfantastic! I'm so very impressed!\n<PAGE>\n<FACE_KUROZE><POS_LEFT><FACE_ROUGH>It's impressive seeing how well you\nbrought out the Western motif. It\nis a sight to behold."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM6_01",
+      "Text": "<FACE_KUROZE><POS_LEFT><FACE_ROUGH>\r\nI have nothing but the highest\naccolades for you. It is that great.\n<PAGE>\n<FACE_KAMONBERU><POS_RIGHT><FACE_ROUGH>Bravo! I am moved to tears! You are\ntoo wonderful, <MYNAME>!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM6_02",
+      "Text": "<FACE_KAMONBERU><POS_RIGHT><FACE_ROUGH>\r\nOh! Wonderful! You do great work,\n<MYNAME>.\n<PAGE>\nI would very much like to have you\nmake a garden for my store!\n<PAGE>\n<FACE_KUROZE><POS_LEFT><FACE_ROUGH>I expected nothing less from <MYNAME>.\nIt's a good garden, as usual. I couldn't\nhelp but lose myself in awe."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM6_03",
+      "Text": "<FACE_KUROZE><POS_LEFT><FACE_NORMAL>\r\nHm, I can really sense how much effort\n<MYNAME> has put into creating this\ngarden. I should express my gratitude.\n<PAGE>\n<FACE_KAMONBERU><POS_RIGHT><FACE_NORMAL>That really is a nice garden! I will\nnever get tired of looking at it!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM6_04",
+      "Text": "<FACE_KAMONBERU><POS_RIGHT><FACE_NORMAL>\r\nThis garden is too normal. It's like\na regular dish of food that everyone's\nsick of!\n<PAGE>\nIt's not bad, but I'd rather see a\ngarden that's more filling, like a\nfull-course meal!\n<PAGE>\n<FACE_KUROZE><POS_LEFT><FACE_NORMAL>I agree. People gathered to see it, so I\nwas expecting much more."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM6_05",
+      "Text": "<FACE_KAMONBERU><POS_RIGHT><FACE_ANGRY>\r\nThis garden is terrible! This won't win\nover any visitors! You need to strive\nfor something better!\n<PAGE>\n<FACE_KUROZE><POS_LEFT><FACE_ANGRY>You're absolutely right. Seeing an\nuninteresting garden brings nothing but\npain. I wasted my time here."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM7_00",
+      "Text": "This garden expresses the beautiful\nspring. I love it so much! I'd live here\nif I could!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM7_01",
+      "Text": "I've never been so excited just looking\nat a garden! It's wonderful."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM7_02",
+      "Text": "I've heard the rumors, but this sure is\nsomething else. It's a wonderful garden.\nWell done!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM7_03",
+      "Text": "This is a nice garden. They really\nshould use this garden to bring more\nattention to the town."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM7_04",
+      "Text": "I was expecting much more."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM7_05",
+      "Text": "This garden is terrible! I wasted a lot\nof time coming all this way to see it."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM8_00",
+      "Text": "Seeing so many colorful summer plants\nmakes me feel alive!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM8_01",
+      "Text": "I can't believe how great this garden\nis.\n<PAGE>\nComing all the way here was certainly\nworth it!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM8_02",
+      "Text": "It's amazing enough that someone who\ncould make a garden like this, also owns\na ranch. I'm so jealous."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM8_03",
+      "Text": "This is a wonderful garden. It has lots\nof wonderful things to see.\n<PAGE>\nI've gone on many tours, but this one\nwas an especially great experience!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM8_04",
+      "Text": "Even I could make a garden like this.\n<PAGE>\nIf even someone can make money off a\ngarden like this this, I ought to give\nit a shot."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM8_05",
+      "Text": "I can't believe I came to look at a\ngarden like this. I wish I stayed home\nand slept."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM9_00",
+      "Text": "Fall plants are so colorful! I enjoy\njust looking at them! It's so romantic!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM9_01",
+      "Text": "I can't help but be blown away when I'm\npresented with something as grand as\nthis!\n<PAGE>\nI never thought a garden like this could\nexist."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM9_02",
+      "Text": "Hmm... An ordinary person like me could\nnever make a garden like this.\n<PAGE>\nBut the person who made it isn't a pro\nby any means, so that makes it all the\nmore surprising."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM9_03",
+      "Text": "It's fun just to gaze at this garden.\nI could stay here forever."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM9_04",
+      "Text": "This garden may look plain, but there's\nsomething very tasteful about it."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM9_05",
+      "Text": "Oh, no... I can't find a single good\nthing to say about this garden. Am I\njust weird?"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM1_00",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_ROUGH>\r\nWow<RED>∀</RED> What a unique garden!\n<PAGE>\nYou don't find a garden like this every\nday! It fills me with wonderment! As a\nmagician, I have to step up my game!\n<PAGE>\n<FACE_ROD><POS_LEFT><FACE_ROUGH>I like it, too! I want a garden like\nthis for myself! I wish <MYNAME> would\nmake me one."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM1_01",
+      "Text": "<FACE_ROD><POS_LEFT><FACE_ROUGH>\r\nWow! This one's really great! There's\nso many things to see.\n<PAGE>\n<FACE_MICHEL><POS_RIGHT><FACE_ROUGH>I feel so lucky to be able to see a\ngarden like this<RED>∀</RED> I'm so\nglad I came today!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM1_02",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_NORMAL>\r\nWow! It's not everyday that you see a\ngreat garden like this!\n<PAGE>\n<FACE_ROD><POS_LEFT><FACE_NORMAL>\nThat's our <MYNAME>. No one has a knack\nfor beauty like <MYNAME>."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM1_03",
+      "Text": "<FACE_ROD><POS_LEFT><FACE_NORMAL>\r\nWow! This garden sure is nice! <MYNAME>\nmust have tried really hard to make\nsomething like this.\n<PAGE>\n<FACE_MICHEL><POS_RIGHT><FACE_NORMAL>You're right. I see that a lot of effort\nwas put into its creation."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM1_04",
+      "Text": "<FACE_ROD><POS_LEFT><FACE_NORMAL>\r\nThis is a nice garden. It must have\ntaken a lot of work to build.\n<PAGE>\n<FACE_MICHEL><POS_RIGHT><FACE_NORMAL>I know it was hard to make, but I want\nto see something more exciting. I know\n<MYNAME> can do it."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM1_05",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_ANGRY>\r\nAs an entertainer, I can't give any\ngood marks to this garden. You have to\nthink about your audience.\n<PAGE>\n<FACE_ROD><POS_LEFT><FACE_LOSS>Hmm... I would have to agree with you,\nMichelle. And I was looking forward to\nit. Oh well..."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM2_00",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nThis garden features many winter plants.\nIt's intended theme is conveyed vividly.\nI say, it is wonderfully coordinated.\n<PAGE>\n<FACE_YURI><POS_LEFT><FACE_ROUGH>Yeah... I was born during winter so it\nmakes me happy. I wish our town had an\natmosphere like this."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM2_01",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nThis is a wonderful garden. I daresay\nthat it is as good as the palace garden.\n<PAGE>\n<FACE_YURI><POS_LEFT><FACE_ROUGH>\nYeah... It's very pretty. I wish I could\nlive in a house with a garden like this."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM2_02",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nThis is a lovely garden. A garden like\nthis could single-handedly turn this\ntown into a famous destination.\n<PAGE>\n<FACE_YURI><POS_LEFT><FACE_ROUGH>You're right. It's very nice. I could\nspend the rest of my life here, to be\nhonest."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM2_03",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nThis is a nice garden. I really want to\nspend more time with it. It's so\nunfortunate that there's a time limit.\n<PAGE>\n<FACE_YURI><POS_LEFT><FACE_ROUGH>Yeah... It's fun just looking at it.\nI should thank <MYNAME> later."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM2_04",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nIt's not bad, but not good either.\nI suppose it is rather well-rounded.\n<PAGE>\n<FACE_YURI><POS_LEFT><FACE_NORMAL>Making a well-rounded garden is harder\nthan you'd think. I'm sure it took a lot\nof time."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM2_05",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_SAD>\r\nTo be honest, I'm very disappointed. I\nwas expecting a much better garden.\n<PAGE>\n<FACE_YURI><POS_LEFT><FACE_SAD>Yeah... You have to try harder than this\nif you want to make other people happy."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM3_00",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_ROUGH>\r\nI like this garden because of all the\nanimals. I don't really care about\ngardens, but I like this one.\n<PAGE>\n<FACE_FELICIA><POS_LEFT><FACE_ROUGH>You're right. They're adorable! If we\nhad this garden in town, our life would\nbe so much more fun!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM3_01",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_ROUGH>\r\nI would never get bored with a garden\nlike this. Every time I look I discover\nsomething new.\n<PAGE>\n<FACE_FELICIA><POS_LEFT><FACE_ROUGH>Haha. Oh, Neil. You look like you're\nhaving so much fun!\n<PAGE>\nThen again, I'm really enjoying this,\ntoo! I feel satisfied just looking\naround!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM3_02",
+      "Text": "<FACE_FELICIA><POS_LEFT><FACE_ROUGH>\r\nWow! Look at this pretty garden, Neil!\n<PAGE>\n<FACE_NEEL><POS_RIGHT><FACE_ROUGH>Wow, did <MYNAME> really make this?\nImpressive.\n<PAGE>\nThat's the person who will revive our\ntown."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM3_03",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_NORMAL>\r\nI have no interest in knowing what makes\na garden good or bad, but I think this\none is definitely not bad.\n<PAGE>\n<FACE_FELICIA><POS_LEFT><FACE_NORMAL>That's right! <MYNAME> is amazing!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM3_04",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_NORMAL>\r\nI was hoping for a garden that's a bit\nflashier, but I guess this one has its\ncharm.\n<PAGE>\n<FACE_FELICIA><POS_LEFT><FACE_NORMAL>Yes, I agree with you, Neil. I like\nthese kinds of gardens, too."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM3_05",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_SAD>\r\nI'm not really interested in gardens,\nbut this one is a bit...boring I guess. \nI think it could have been a bit better.\n<PAGE>\n<FACE_FELICIA><POS_LEFT><FACE_SAD>Right. I was really looking forward to\nthis tour. It's too bad..."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM4_00",
+      "Text": "<FACE_KAMIRIYA><POS_RIGHT><FACE_ROUGH>\r\nWhat a trendy garden. I love things that\nlook fashionable!\n<PAGE>\n<FACE_GARDNER><POS_LEFT><FACE_ROUGH>You're right. A garden like this is\nreally worth seeing.\n<PAGE>\n<FACE_HINA><POS_RIGHT><FACE_ROUGH>Someday, I want to live in a house with\na garden like this!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM4_01",
+      "Text": "<FACE_KAMIRIYA><POS_RIGHT><FACE_ROUGH>\r\nWhat a great garden... It's so nice that\nI could make this garden a part of a\nvacation package.\n<PAGE>\n<FACE_GARDNER><POS_LEFT><FACE_ROUGH>Right... Even I, a connoisseur of\ngardens, think this one is especially\ngood.\n<PAGE>\n<FACE_HINA><POS_RIGHT><FACE_ROUGH>Wow! It looks amazing! Everything is so\nshiny!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM4_02",
+      "Text": "<FACE_GARDNER><POS_LEFT><FACE_ROUGH>\r\nThis is a wonderful garden. I'm having\nso much fun being able to enjoy it with\nmy beautiful goddesses.\n<PAGE>\n<FACE_KAMIRIYA><POS_RIGHT><FACE_ROUGH>Oh, you. But you're right about this\nbeing a pretty garden.\n<PAGE>\n<FACE_HINA><POS_RIGHT><FACE_ROUGH>That's our <MYNAME>! <MYNAME> can do\nanything! I'm so jealous."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM4_03",
+      "Text": "<FACE_KAMIRIYA><POS_RIGHT><FACE_NORMAL>\r\nThis is quite the garden. What do you\nthink?\n<PAGE>\n<FACE_GARDNER><POS_LEFT><FACE_NORMAL>I think it's really good. If I could\nsee a garden like this, I'd visit as\nmany times as they'd let me.\n<PAGE>\n<FACE_HINA><POS_RIGHT><FACE_ROUGH>If we had a garden like this at home,\nevery day would be so much fun! Maybe\nI should marry a gardener!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM4_04",
+      "Text": "<FACE_GARDNER><POS_LEFT><FACE_NORMAL>\r\nEverything about it is average. How\nwould you make it better, Camellia?\n<PAGE>\n<FACE_KAMIRIYA><POS_RIGHT><FACE_ROUGH>If it were me, I'd add more flowers to\nbring it some more color. \n<PAGE>\n<FACE_HINA><POS_RIGHT><FACE_NORMAL>I'd set up a statue of the Harvest\nGoddess and an arch, too! It'd be a\nbeautiful garden."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM4_05",
+      "Text": "<FACE_GARDNER><POS_LEFT><FACE_SAD>\r\nI had high hopes for this tour, but how\ndid it end up like this? It's very\nunfortunate.\n<PAGE>\n<FACE_KAMIRIYA><POS_RIGHT><FACE_SAD>Well... Maybe we just expected too much.\n<PAGE>\n<FACE_HINA><POS_RIGHT><FACE_SAD>It's no fun at all. What a huge letdown."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM5_00",
+      "Text": "<FACE_HOSSAN><POS_RIGHT><FACE_ROUGH>\r\nWow, check out the tropical-motif of\nthis garden.\n<PAGE>\nIt feels like I'm on a vacation in a\nforeign land.\n<PAGE>\n<FACE_NARUKU><POS_LEFT><FACE_ROUGH>Yeah! It's so fun just looking at it!\n<MYNAME> is so amazing to be able to \nmake a garden like this!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM5_01",
+      "Text": "<FACE_HOSSAN><POS_RIGHT><FACE_ROUGH>\r\nThis garden is really nice. Can I use it\nas a setting for one of my books?\n<PAGE>\nI should ask <MYNAME> about it later.\n<PAGE>\n<FACE_NARUKU><POS_LEFT><FACE_SAD>Dad... That's good and everything, but\ndon't forget about your job at the inn."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM5_02",
+      "Text": "<FACE_NARUKU><POS_LEFT><FACE_ROUGH>\r\nWow, what a pretty garden! If we had\none of these at the inn, would we get\nmore guests?\n<PAGE>\n<FACE_HOSSAN><POS_RIGHT><FACE_ROUGH>I'm sure we would, Niko. We'd be fully \nbooked every day!\n<PAGE>\nI'm so impressed with <MYNAME>. Just\nlook at that garden."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM5_03",
+      "Text": "<FACE_NARUKU><POS_LEFT><FACE_NORMAL>\r\nI wonder how many materials were needed\nto create this garden. I could never\nmake something like this.\n<PAGE>\n<FACE_HOSSAN><POS_RIGHT><FACE_NORMAL>When you really think about it, you\nhave to give it to <MYNAME>. Such a\nhard worker."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM5_04",
+      "Text": "<FACE_HOSSAN><POS_RIGHT><FACE_NORMAL>\r\nIt's a lot more plain than I expected.\nBut I guess it has its own charm.\n<PAGE>\n<FACE_NARUKU><POS_LEFT><FACE_NORMAL>Hmm... It's fine the way it is, but\nputting up animal statues could make it\neven better."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM5_05",
+      "Text": "<FACE_HOSSAN><POS_RIGHT><FACE_SAD>\r\nWell... Nothing to say about this\ngarden.\n<PAGE>\n<FACE_NARUKU><POS_LEFT><FACE_SAD>Right. I know what you mean, Dad. It's\nsuch a letdown. "
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM6_00",
+      "Text": "<FACE_SANDRA><POS_RIGHT><FACE_ROUGH>\r\nIs this garden a little something to\ngive me a break from all my research?\n<PAGE>\nGood job! You have my compliments!\nAhehehehehe!\n<PAGE>\n<FACE_EMA><POS_RIGHT><FACE_ROUGH>Making gardens like this might look\neasy, but that's far from the truth.\n<PAGE>\nI really like this garden. I feel at\npeace just looking at it."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM6_01",
+      "Text": "<FACE_SANDRA><POS_RIGHT><FACE_ROUGH>\r\nAhehehehe! Excellent! It was worth\nit to come out here, even though it's\nstill so bright out!\n<PAGE>\nAside from my research, there isn't much\nI could stand to look at for extended\nperiods of time! I'm in luck today!\n<PAGE>\n<FACE_EMA><POS_LEFT><FACE_ROUGH>Oh, Sandra. But it's true that this\ngarden is very nice. I feel spoiled\nbeing able to enjoy it like this."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM6_02",
+      "Text": "<FACE_EMA><POS_LEFT><FACE_ROUGH>\r\nWhat a pretty garden! If had a garden\nlike this, I would have tea there\neveryday.\n<PAGE>\n<FACE_SANDRA><POS_LEFT><FACE_ROUGH>Ahehehehehe! That sounds good! Call me\nif you ever have a tea party at night."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM6_03",
+      "Text": "<FACE_SANDRA><POS_RIGHT><FACE_NORMAL>\r\nHmm. This garden looks like a nice place\nto relax. Maybe I should go in to take\na look around.\n<PAGE>\n<FACE_EMA><POS_LEFT><FACE_NORMAL>I understand why you'd want to. It's\ntoo bad we can't see everything from\nhere."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM6_04",
+      "Text": "<FACE_EMA><POS_LEFT><FACE_NORMAL>\r\nNot overdone, nothing lacking. This\ngarden has the perfect balance. It's\ngreat to see these when you can.\n<PAGE>\n<FACE_SANDRA><POS_LEFT><FACE_NORMAL>But it's plain and boring. The maker is\nyoung, so I was hoping to see something\nflashier."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM6_05",
+      "Text": "<FACE_SANDRA><POS_RIGHT><FACE_ANGRY>\r\nWhat is this?! How could they put a \ngarden like this on display?! Is this\nsome kind of insult?!\n<PAGE>\nIf this is the best they can do, I'd \nrather go back to my research instead!\n<PAGE>\n<FACE_EMA><POS_LEFT><FACE_SAD>You're right, though. It should look\nmore like an actual garden, or no one\nwill ever visit again..."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM7_00",
+      "Text": "I was born during the winter, so I love\ngardens featuring so many winter plants.\n<PAGE>\nI have to thank <MYNAME>."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM7_01",
+      "Text": "This is a wonderful garden, without a\nsingle flaw. I could come here \neveryday and never grow tired of it."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM7_02",
+      "Text": "I heard this gardening tour was very\ngood have not been disappointed.\n<PAGE>\nI'm so glad I came today. This will\nsurely be a wonderful memory."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM7_03",
+      "Text": "I'm so lucky to have been able to see\nthis garden. I'd better tell my friends\nall about it."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM7_04",
+      "Text": "This garden is much too common. I was\nhoping for something more interesting."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM7_05",
+      "Text": "It's horribly-made. I'm seriously\nregretting coming here."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM8_00",
+      "Text": "Everything in here is in the Western\nstyle. I think it's beautiful.\n<PAGE>\nIf I had a garden like this near my\nhome, I'd visit every single day. Oh how\nI envy the people living here."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM8_01",
+      "Text": "They say truly wonderful things can\nchange a person's life. I really think\nthis is one of them.\n<PAGE>\nI had no interest in gardening before,\nbut I think I'll take it up as a hobby\nnow."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM8_02",
+      "Text": "I only dropped by during my vacation,\nbut now this garden has become the\nhighlight of my trip."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM8_03",
+      "Text": "It's incredible that a single person\ncould make such a wonderful garden."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM8_04",
+      "Text": "What a plain garden. Why did I bother\njoining this tour if this is the best\nthey could do?"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM8_05",
+      "Text": "This garden is terrible. It doesn't\nexcite me one bit. "
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM9_00",
+      "Text": "The Eastern motif of this garden is very\ntasteful.\n<PAGE>\nI want to share this experience with as\nmany people as possible."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM9_01",
+      "Text": "This is beautiful! Every other garden\nI've seen up until this moment pale in\ncomparison!"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM9_02",
+      "Text": "Amazing job, <MYNAME>. I knew you could\nmake a fabulous garden like this. I\nexpected nothing less.\n<PAGE>\nI will definitely become a regular \nparticipant of this tour."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM9_03",
+      "Text": "This is a good garden. We don't have\ngardens like this in my hometown, so I'm\nglad I came."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM9_04",
+      "Text": "The gardens are going to have to be\nmuch better than this to make my trip\nhere worthwhile."
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM9_05",
+      "Text": "Bleh... Is this the best you can show\nme? What a waste of my time."
+    }
+  ]
+}

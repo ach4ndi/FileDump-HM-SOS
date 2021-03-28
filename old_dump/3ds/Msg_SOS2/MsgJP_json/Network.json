@@ -1,0 +1,354 @@
+﻿{
+  "Date": "2016-06-25T01:44:47.4171633+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "TEXT_NONE",
+      "Text": "　"
+    },
+    {
+      "VardId": "MSG_MULTIPLAY_SAVE_ASK",
+      "Text": "通信プレイの前に、日記を書きます。\nよろしいですか？"
+    },
+    {
+      "VardId": "MSG_MULTPLAY_SAVE_YES",
+      "Text": "日記を書く"
+    },
+    {
+      "VardId": "MSG_MULTPLAY_SAVE_NO",
+      "Text": "やめる"
+    },
+    {
+      "VardId": "MSG_MULTIPLAY_QUIT_ASK",
+      "Text": "通信プレイをやめますか？"
+    },
+    {
+      "VardId": "MSG_MULTIPLAY_SAVE_MIDDLE",
+      "Text": "日記を書いています。\n電源を切らないでください。"
+    },
+    {
+      "VardId": "TEXT_ITEM_FULL",
+      "Text": "女神ちゃまがあずかれるアイテム数が\nいっぱいになってしまいました。\nこれ以上はあずかれません。\n<PAGE>\n続けて通信プレイをおこなうと、\n持って帰れないアイテムが\n出てくるかもしれません。\n<PAGE>\nアイテムをムダにしないためにも、\n女神ちゃまからアイテムを受け取った後で\n通信プレイで遊ぶことをオススメします。"
+    },
+    {
+      "VardId": "TEXT_ITEM_19",
+      "Text": "女神ちゃまにあずかってもらえる\nアイテムの数が少なくなっています。\n<PAGE>\n続けて通信プレイを行う場合は、\n持って帰れないアイテムが\n出てくるかもしれません。\n<PAGE>\nアイテムをムダにしないためにも、\n女神ちゃまからアイテムを受け取った後で\n通信プレイで遊ぶことをオススメします。"
+    },
+    {
+      "VardId": "TEXT_ITEM_SEND_TO_CHILD",
+      "Text": "島に持って行くアイテムを選んでください。\n他の牧場主さんとのアイテム交換に\n使えます。"
+    },
+    {
+      "VardId": "TEXT_ITEM_BRING_BACK",
+      "Text": "持ち帰るアイテムを選んで下さい。"
+    },
+    {
+      "VardId": "TEXT_ITEM_BRING_BACK_NOT",
+      "Text": "持ち帰れるアイテムがありません。"
+    },
+    {
+      "VardId": "TEXT_ITEM_BRING_BACK_ALLRIGHT",
+      "Text": "持ち帰るアイテムはこれでよろしいですか？"
+    },
+    {
+      "VardId": "TEXT_ITEM_BRING_BACK_BAG_IN",
+      "Text": "島からアイテムを持ち帰ったよ。"
+    },
+    {
+      "VardId": "TEXT_ITEM_BRING_BACK_BAG_NO",
+      "Text": "かばんに入らないアイテムは、\n女神ちゃまがあずかってくれたから\n後で取りに行こう。"
+    },
+    {
+      "VardId": "TEXT_LOCAL_MODE",
+      "Text": "近くにいる人と通信を行います。"
+    },
+    {
+      "VardId": "TEXT_INTERNET_MODE",
+      "Text": "インターネットを使用して通信を行います。"
+    },
+    {
+      "VardId": "TEXT_CHOOSE_ANYBODY_OR_FRIEND",
+      "Text": "だれとインターネット通信を行いますか？"
+    },
+    {
+      "VardId": "TEXT_CANCEL_NETWORK",
+      "Text": "通信をやめてゲームにもどります。"
+    },
+    {
+      "VardId": "TEXT_CREATE_ROOM",
+      "Text": "島を開いて他の牧場主さんを待ちます。"
+    },
+    {
+      "VardId": "TEXT_BROWSE_ROOM",
+      "Text": "開いている島を探します。"
+    },
+    {
+      "VardId": "TEXT_BACK_MODE_SELECT",
+      "Text": "通信相手を選ぶ画面にもどります。"
+    },
+    {
+      "VardId": "TEXT_INITIALIZE",
+      "Text": "通信の準備をしています。"
+    },
+    {
+      "VardId": "TEXT_SEARCH",
+      "Text": "検索中です…"
+    },
+    {
+      "VardId": "TEXT_SELECT_ROOM",
+      "Text": "遊びに行く島を選択してください。"
+    },
+    {
+      "VardId": "TEXT_SELECT_NOT_ROOM",
+      "Text": "通信相手が見つかりませんでした。"
+    },
+    {
+      "VardId": "TEXT_WAIT_CHILD",
+      "Text": "決定するとゲームを始めます。"
+    },
+    {
+      "VardId": "TEXT_WAIT_CHILD_NOBODY",
+      "Text": "参加する牧場主さんを待っています。"
+    },
+    {
+      "VardId": "TEXT_WAIT_DECIDE",
+      "Text": "島を開いてくれた牧場主さんが\n決定するのを待っています。"
+    },
+    {
+      "VardId": "TEXT_START_GAME",
+      "Text": "ゲーム開始の準備をしています。"
+    },
+    {
+      "VardId": "TEXT_NO_FRIEND",
+      "Text": "登録済みのフレンドがいないため\nこのモードをプレイできません。"
+    },
+    {
+      "VardId": "TEXT_JOIN",
+      "Text": "参加中です。"
+    },
+    {
+      "VardId": "TEXT_DISCONNECT",
+      "Text": "通信を切断しています。"
+    },
+    {
+      "VardId": "TEXT_SELECT_LOCAL",
+      "Text": "ローカル通信"
+    },
+    {
+      "VardId": "TEXT_SELECT_INTERNET",
+      "Text": "インターネット通信"
+    },
+    {
+      "VardId": "TEXT_SELECT_INTERNET_ANYBODY",
+      "Text": "だれとでも"
+    },
+    {
+      "VardId": "TEXT_SELECT_INTERNET_FRIEND",
+      "Text": "フレンドと"
+    },
+    {
+      "VardId": "TEXT_SELECT_CANCEL",
+      "Text": "やめる"
+    },
+    {
+      "VardId": "TEXT_SELECT_CREATE_ROOM",
+      "Text": "島を開く"
+    },
+    {
+      "VardId": "TEXT_SELECT_BROWSE_ROOM",
+      "Text": "島を探す"
+    },
+    {
+      "VardId": "TEXT_SELECT_BACK",
+      "Text": "もどる"
+    },
+    {
+      "VardId": "TEXT_ERROR_WIRELESS_OFF",
+      "Text": "無線通信機能がＯＦＦになっているため\n通信できません。\n\n無線スイッチをスライドして\n無線通信機能をＯＮにしてください。"
+    },
+    {
+      "VardId": "TEXT_CANNOT_CHAT",
+      "Text": "保護者により「長文テキストの送受信」が\n制限されているためチャットはできません"
+    },
+    {
+      "VardId": "TEXT_ERROR_DISCONNECT_PLAYER",
+      "Text": "他の牧場主さんとの接続が切断されました。"
+    },
+    {
+      "VardId": "TEXT_NPC_QUESTION_TOP",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nどうしましたか？"
+    },
+    {
+      "VardId": "TEXT_NPC_SELECT_TUTORIAL",
+      "Text": "通信の事が聞きたい"
+    },
+    {
+      "VardId": "TEXT_NPC_SELECT_EXIT_NETWORK",
+      "Text": "通信を終わる"
+    },
+    {
+      "VardId": "TEXT_NPC_SELECT_NG_SETTING",
+      "Text": "受信拒否設定"
+    },
+    {
+      "VardId": "TEXT_NPC_SELECT_NOTHING",
+      "Text": "<CANCEL_SELECT>\r\nなんでもない"
+    },
+    {
+      "VardId": "TEXT_NPC_SELECT_NOTHING_ANSWER",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\n何かあれば話しかけてくださいです〜。"
+    },
+    {
+      "VardId": "TEXT_NPC_TUTORIAL_QUESTION",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\n何について聞きたいですか？"
+    },
+    {
+      "VardId": "TEXT_NPC_TUTORIAL_SELECT_PLAY",
+      "Text": "通信プレイでできること"
+    },
+    {
+      "VardId": "TEXT_NPC_TUTORIAL_SELECT_ACTION",
+      "Text": "アクション・チャットについて"
+    },
+    {
+      "VardId": "TEXT_NPC_TUTORIAL_SELECT_GATSHA",
+      "Text": "島のほこらについて"
+    },
+    {
+      "VardId": "TEXT_NPC_TUTORIAL_SELECT_EXIT",
+      "Text": "通信の終わり方について"
+    },
+    {
+      "VardId": "TEXT_NPC_TUTORIAL_SELECT_NPC_NG",
+      "Text": "受信拒否設定について"
+    },
+    {
+      "VardId": "TEXT_NPC_TUTORIAL_SELECT_NOTHING",
+      "Text": "<CANCEL_SELECT>\r\nもう大丈夫"
+    },
+    {
+      "VardId": "TUTORIAL_SELECT_PLAY_DESCRIPTION",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\n通信プレイでは、持ってきたアイテムが\n始めにシャッフル交換されて\nゲームが開始されますよ〜。\n<PAGE>\nどんな物が送られてくるかドキドキですね。\nでも、自分にとって必要ない物が\n送られてくるかもしぇませんよね？\n<PAGE>\nそんな時は、通信している人と話しあって\nアイテムを交換してみてくださいなのです。\n<PAGE>\n島の入り江では、釣りができます。\n釣竿は、あなたが持っていたものが\nカバンに入っているはずですよ〜。\n<PAGE>\nもし、持っていない場合は、\n未改造の釣竿が入っているはずなので\nそれを使って釣りをしてくださいね。\n<PAGE>\nまた、通信中のカバンは通信専用なので、\n入る量もふだんよりも少なくなってます。\n<PAGE>\n島から帰る時にカバンに入っていた物を\n持ち帰れますから気を付けてください。"
+    },
+    {
+      "VardId": "TUTORIAL_SELECT_ACTION_DESCRIPTION_1",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nアクションとチャットは、\n他のプレイヤーとのコミュニケーションを\n取ることができる機能なのです〜。"
+    },
+    {
+      "VardId": "TUTORIAL_SELECT_ACTION_DESCRIPTION_2",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\n下画面に表示されている顔のマークを\nタッチするとそれにあった\nアクションをすることができますよ〜。"
+    },
+    {
+      "VardId": "TUTORIAL_SELECT_ACTION_DESCRIPTION_3",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nチャット機能は、下画面のキーボード\nマークをタッチするとキーボード入力\nできるようになりますので、\n<PAGE>\n他の人にメッセージを送りたい時に\n利用してください〜。"
+    },
+    {
+      "VardId": "TUTORIAL_SELECT_ACTION_DESCRIPTION_4",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nキーボードマークがでていない\n場合はチャットができましぇん。\n<PAGE>\n設定を変える場合は、ニンテンドー3DSの\n本体設定からおこなってくださいね。"
+    },
+    {
+      "VardId": "TUTORIAL_SELECT_GATSHA_DESCRIPTION",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\n島の奥にあるほこらは特別な力を\n持っているのですよ〜。\n<PAGE>\n<_____MYNAME_____>が持っている\nアイテムをささげると、なんと！\n<PAGE>\nちがうアイテムに変えてくれる\n力を持っているんです！\n<PAGE>\nですから、持って帰るアイテムに\nなっとくいっていないなら、\nささげてみるのもありなのですよ！\n<PAGE>\nただし、このアイテム変化は、\n一回の通信中におひとり３回まで！\nと、なっています。\n<PAGE>\nいい物になるかどうかは運しだいですから、\nよおく考えてからご利用くださいね〜。"
+    },
+    {
+      "VardId": "TUTORIAL_SELECT_EXIT_DESCRIPTION",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\n通信を終わりたくなったら、\nわたちに話しかけて「通信を終わる」を\n選んでくださいです〜。"
+    },
+    {
+      "VardId": "TEXT_NPC_NG_QUESTION_DESCRIPTION",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\n受信拒否設定をすると、\nその相手とチャットができなくなります。\n<PAGE>\nまた、すれちがい通信も\nできなくなりますので、\n覚えておいてくださいね〜。\n<PAGE>\n解除するときは、ニンテンドー3DSの\n本体設定からおこなってください。"
+    },
+    {
+      "VardId": "TEXT_NPC_NG_QUESTION",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nだれを受信拒否しますか？\n<RED>※受信拒否をすると次回から\n　その相手とチャットできません</RED>"
+    },
+    {
+      "VardId": "TEXT_NPC_NG_SELECT_CHARA_00",
+      "Text": "<CHARANAME0>"
+    },
+    {
+      "VardId": "TEXT_NPC_NG_SELECT_CHARA_01",
+      "Text": "<CHARANAME1>"
+    },
+    {
+      "VardId": "TEXT_NPC_NG_SELECT_CHARA_02",
+      "Text": "<CHARANAME2>"
+    },
+    {
+      "VardId": "TEXT_NPC_NG_SELECT_NOTHING",
+      "Text": "<CANCEL_SELECT>\r\nもどる"
+    },
+    {
+      "VardId": "TEXT_NPC_NG_CONFIRM_QUESTION",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\n<CHARANAME3>さんを受信拒否しますか？\n<RED>※受信拒否をすると次回から\n　その相手とチャットできません。</RED>"
+    },
+    {
+      "VardId": "TEXT_NPC_NG_CONFIRM_SELECT_YES",
+      "Text": "受信拒否をする"
+    },
+    {
+      "VardId": "TEXT_NPC_NG_CONFIRM_SELECT_NO",
+      "Text": "<CANCEL_SELECT>\r\nやっぱりやめる"
+    },
+    {
+      "VardId": "TEXT_NPC_NG_SETTING_DONE",
+      "Text": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\n<CHARANAME3>さんを受信拒否にしました。\n<PAGE>\n<RED>受信拒否を解除したい場合は、\nニンテンドー3DSの本体設定から\nおこなってください。</RED>"
+    },
+    {
+      "VardId": "TEXT_NPC_EXIT_QUESTION",
+      "Text": "本当に通信を終わりますか？"
+    },
+    {
+      "VardId": "TEXT_NPC_EXIT_SELECT_YES",
+      "Text": "終わる"
+    },
+    {
+      "VardId": "TEXT_NPC_EXIT_SELECT_NO",
+      "Text": "<CANCEL_SELECT>\r\n終わらない"
+    },
+    {
+      "VardId": "TEXT_CEC_BOX_NAME",
+      "Text": "牧場物語\n３つの里の大切な友だち"
+    },
+    {
+      "VardId": "TEXT_CEC_MESSAGE_INFO",
+      "Text": "牧場物語 ３つの里の大切な友だち %d年目\n%ls %ls牧場"
+    },
+    {
+      "VardId": "TEXT_ROOM_CANCEL",
+      "Text": "他の牧場主さんと接続中です。\n本当にやめますか？"
+    },
+    {
+      "VardId": "TEXT_CANNOT_CEC",
+      "Text": "『他のユーザーとのすれちがい通信』が\n保護者により制限されているため\nすれちがい通信を利用できません。"
+    },
+    {
+      "VardId": "TEXT_LEAVING_PLAYER_0",
+      "Text": "<RED><CHARANAME0></RED>さんが自分の牧場に帰りました"
+    },
+    {
+      "VardId": "TEXT_LEAVING_PLAYER_1",
+      "Text": "<BLUE><CHARANAME0></BLUE>さんが自分の牧場に帰りました"
+    },
+    {
+      "VardId": "TEXT_LEAVING_PLAYER_2",
+      "Text": "<ORANGE><CHARANAME0></ORANGE>さんが自分の牧場に帰りました"
+    },
+    {
+      "VardId": "TEXT_LEAVING_PLAYER_3",
+      "Text": "<GREEN><CHARANAME0></GREEN>さんが自分の牧場に帰りました"
+    },
+    {
+      "VardId": "TEXT_ITEM_BRING_BACK_BAG_IN",
+      "Text": "島からアイテムを持ち帰ったよ。"
+    },
+    {
+      "VardId": "TEXT_ITEM_BRING_BACK_BAG_NO",
+      "Text": "カバンに入らないアイテムは、\n女神ちゃまがあずかってくれているから\n取りに行こう。"
+    },
+    {
+      "VardId": "TEXT_ITEM_BRING_BACK_BAG_NO2",
+      "Text": "カバンに入らず、女神ちゃまに\nあずかってもらうこともできなかった\nアイテムは、持って帰れなかった。"
+    }
+  ]
+}

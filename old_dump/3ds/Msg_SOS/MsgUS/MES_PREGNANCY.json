@@ -1,0 +1,490 @@
+﻿{
+  "Date": "2016-06-06T19:39:54.7883779+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_EV_PREGNANCY_BAD_FACE_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\r\nHoly crap! Are you okay? You look pale as milk!\n<PAGE>\nMaybe you should take today off from work.\nC'mon, I'll take you to the clinic."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HOW_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\r\nHey, Doc! Is <MYNAME> gonna be okay?! It's\nnot some life-threatening disease, is it? C'mon,\ntell me something, old man!"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_00_POORFARMER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\r\nGoodness! Calm down, would you honey?\n...And if you call me \"old man\" again, I'll give\nyou the biggest, most painful shot I have.\n<PAGE>\n<FACE_NORMAL>But anyway, hmm...I'd say you have about <BLUE>60\ndays</BLUE> left until the baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_01_POORFARMER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\r\nGoodness! Calm down, would you honey?\n...And if you call me \"old man\" again, I'll give\nyou the biggest, most painful shot I have.\n<PAGE>\n<FACE_NORMAL>But anyway, hmm...I'd say you have about <BLUE>40\ndays</BLUE> left until the baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_02_POORFARMER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\r\nGoodness! Calm down, would you honey?\n...And if you call me \"old man\" again, I'll give\nyou the biggest, most painful shot I have.\n<PAGE>\n<FACE_NORMAL>But anyway, hmm...I'd say you have about <BLUE>30\ndays</BLUE> left until the baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_CONGRATULATON",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nCongratulations, honey. You're pregnant. You've\ngot a little baby growing right there in your\ntummy."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\r\n<WINDOW_QUESTION_R>Oh, so it's just a bab--WAIT, IT'S A BABY?! Th-\nthen <MYNAME> wasn't feeling sick because\nshe had a cold...\n<PAGE>\n<WINDOW_DEFAULT><FACE_MARIAN><POS_LEFT><FACE_LAUGH>Right. It's simple morning sickness, which is\ncommon in early pregnancy. Otherwise, she's\nperfectly healthy.\n<PAGE>\nSo no, it's not a life-threatening disease, honey.\nYou can relax."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION02_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\r\nO-oh...Th-that's good, at least. So...we're gonna\nhave a new family member soon. Heh heh! Man,\nI'm stoked!"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_ATTENTION_POORFARMER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\r\nI'm so happy for you, honey. But listen to your\nbody now, okay? No overdoing it.\n<PAGE>\n<FACE_NORMAL>I know it probably doesn't feel real to you just\nyet, but your body isn't yours alone for the time\nbeing. Remember that.\n<PAGE>\nFritz, as her husband, I want you to keep an eye\non her condition too, okay?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_WORRY_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_LEFT><FACE_NORMAL>\r\nRight! <MYNAME>, you're feeling okay, right? If\nyou're starting to feel tired or hurt or anything,\ntell me right away, okay?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HAPPY_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_LEFT><FACE_LAUGH>\r\nStill...we're gonna be parents! Man, it's a HUGE\nsurprise, but it's so cool!\n<PAGE>\nI'd better step up my game and work harder if\nI'm gonna be a proper papa for our new baby.\nYeah, we can do this! Bring it on!"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_BAD_FACE_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\r\nWhat's wrong? You look very pale today.\n<PAGE>\n<FACE_SAD>Take the day off from work. You're in no\ncondition for it. Come. I'll take you to the clinic."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HOW_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\r\nMarian, how is <MYNAME> doing? Is it some\nsort of virus?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_00_PERFUMER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nHmm...I'd say you have about <BLUE>60 days</BLUE> left until\nthe baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_01_PERFUMER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nHmm...I'd say you have about <BLUE>40 days</BLUE> left until\nthe baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_02_PERFUMER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nHmm...I'd say you have about <BLUE>30 days</BLUE> left until\nthe baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\r\nEh?! A.........b-baby? Then, <MYNAME> was\nfeeling unwell because of...\n<PAGE>\n<WINDOW_DEFAULT><FACE_MARIAN><POS_LEFT><FACE_LAUGH>Right. It's simple morning sickness, which is\ncommon in early pregnancy. Otherwise, she's\nperfectly healthy.\n<PAGE>\nSo no, it's not a virus of any kind. You can relax."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION02_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_LAUGH>\r\nA baby... Well now. We're going to have a\nbaby... O-okay...a baby..."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_ATTENTION_PERFUMER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\r\nI'm so happy for you, honey. But listen to your\nbody now, okay? No overdoing it.\n<PAGE>\n<FACE_NORMAL>I know it probably doesn't feel real to you just\nyet, but your body isn't yours alone for the time\nbeing. Remember that.\n<PAGE>\nKlaus, as her husband, I want you to keep an\neye on her condition too, okay?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_WORRY_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_LEFT><FACE_NORMAL>\r\n<MYNAME>, are you feeling a little better? I\nwant you to tell me the minute you start feeling\nout of sorts, all right?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HAPPY_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_LEFT><FACE_LAUGH>\r\nWe are going to be parents. It is all so sudden\nthat it doesn't yet feel real to me, but still, it\nmakes me very happy.\n<PAGE>\nI guess I'm going to have to work harder so that\nI can be a fit father for our child. I can hardly\nwait for the day it is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_BAD_FACE_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_SAD>\r\nWhoa there, <MYNAME> what's wrong?! You\nlook as pale as a sheet!\n<PAGE>\n<FACE_LOSS>I think you should take today off from work.\nC'mon, I'll take you to the clinic."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HOW_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_NORMAL>\r\nDoc Marian, how's <MYNAME> doing? She\nhasn't caught some kind of nasty flu or\nanything, right?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_00_CHEF",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nHmm...I'd say you have about <BLUE>60 days</BLUE> left until\nthe baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_01_CHEF",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nHmm...I'd say you have about <BLUE>40 days</BLUE> left until\nthe baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_02_CHEF",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nHmm...I'd say you have about <BLUE>30 days</BLUE> left until\nthe baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_NORMAL>\r\nWait, what? Baby? Like, a BABY baby?\n...<MYNAME> is going to have a baby...?\nHooooo boy...\n<PAGE>\nThen, she wasn't feeling sick because she had\nthe flu. It's because...\n<PAGE>\n<WINDOW_DEFAULT><FACE_MARIAN><POS_LEFT><FACE_LAUGH>Right. It's simple morning sickness, which is\ncommon in early pregnancy. Otherwise, she's\nperfectly healthy.\n<PAGE>\nSo no, it's not the flu. You can relax."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION02_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_LOVE>\r\nO-oh...w-we're going to have a new family\nmember soon... Wow, that's fantastic."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_ATTENTION_CHEF",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\r\nI'm so happy for you, honey. But listen to your\nbody now, okay? No overdoing it.\n<PAGE>\n<FACE_NORMAL>I know it probably doesn't feel real to you just\nyet, but your body isn't yours alone for the time\nbeing. Remember that.\n<PAGE>\nRaeger, as her husband, I want you to keep an\neye on her condition too, okay?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_WORRY_CHEF",
+      "Text": "<FACE_REGER><POS_LEFT><FACE_NORMAL>\r\n<MYNAME>, are you feeling okay? If you ever\nstart feeling tired or drained, let me know right\naway. Got it?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HAPPY_CHEF",
+      "Text": "<FACE_REGER><POS_LEFT><FACE_LOVE>\r\nStill...a baby. It's all so sudden it hasn't really\nsunk in yet, but I think we're at the start of\nsomething great.\n<PAGE>\n<FACE_LAUGH>Guess I'm gonna have to start working even\nharder so I can be a cool dad for our little squirt."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_BAD_FACE_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_SAD>\r\nWhat's wrong, <MYNAME>? You look terribly\npale.\n<PAGE>\nI think you ought to take today off from work\nand go straight to the clinic. Come, I'll go with\nyou."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HOW_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_SAD>\r\nDoctor Marian, how is <MYNAME>? I fear she's\ncome down with something awful."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_00_ANTIQUE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nHmm...I'd say you have about <BLUE>60 days</BLUE> left until\nthe baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_01_ANTIQUE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nHmm...I'd say you have about <BLUE>40 days</BLUE> left until\nthe baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_02_ANTIQUE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nHmm...I'd say you have about <BLUE>30 days</BLUE> left until\nthe baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_NORMAL>\r\nI'm sorry, did you just say \"baby\"? Really?\n.........Well. Th-then I suppose it was no illness\nthat <MYNAME> was experiencing...\n<PAGE>\n<WINDOW_DEFAULT><FACE_MARIAN><POS_LEFT><FACE_LAUGH>Right. It's simple morning sickness, which is\ncommon in early pregnancy. Otherwise, she's\nperfectly healthy.\n<PAGE>\nSo no, it's not some strange ailment. You can\nrelax."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION02_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_LAUGH>\r\nI...see. We're going to have a baby. W-well now.\nA baby...I see...\n<PAGE>\nIt's all quite overwhelming, but this is news of\nthe happiest sort."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_ATTENTION_ANTIQUE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\r\nI'm so happy for you, honey. But listen to your\nbody now, okay? No overdoing it.\n<PAGE>\n<FACE_NORMAL>I know it probably doesn't feel real to you just\nyet, but your body isn't yours alone for the time\nbeing. Remember that.\n<PAGE>\nMistel, as her husband, I want you to keep an\neye on her condition too, okay?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_WORRY_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_LEFT><FACE_NORMAL>\r\nAre you feeling all right now, <MYNAME>? Like\nDoctor Marian said, you mustn't push yourself.\n<PAGE>\nIf you start feeling even the slightest bit out of\nsorts, let me know right away."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HAPPY_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_LEFT><FACE_LOVE>\r\nIt hasn't yet sunk all the way in, but...we are\ngoing to be parents. What a wonderful surprise.\nI'm looking forward to it.\n<PAGE>\nI shall have to start working even harder, I think,\nso that I can prove a worthy father for our child."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_BAD_FACE_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_SAD>\r\nWhat's wrong, <MYNAME>? You don't look so\nhot today.\n<PAGE>\nIn fact...cancel your work plans for the day. I'm\ntaking you to the clinic right now."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HOW_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_SAD>\r\nMarian, how's <MYNAME> doing? I've seen\nsymptoms like these, with parasites..."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_00_GARDENER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nHmm...I'd say you have about <BLUE>60 days</BLUE> left until\nthe baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_01_GARDENER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nHmm...I'd say you have about <BLUE>40 days</BLUE> left until\nthe baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_02_GARDENER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nHmm...I'd say you have about <BLUE>30 days</BLUE> left until\nthe baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_LAUGH>\r\nOh, it's just a baby......HOLD ON, WHAT DID YOU\nJUST SAY?!\n<PAGE>\n<WINDOW_QUESTION_R><FACE_NORMAL><MYNAME> is p-p-pr-prr...is gonna have a b-b-\nbaby?! Th-then she wasn't feeling bad 'cause of\na parasite...\n<PAGE>\n<WINDOW_DEFAULT><FACE_MARIAN><POS_LEFT><FACE_LAUGH>Right. It's simple morning sickness, which is\ncommon in early pregnancy. Otherwise, she's\nperfectly healthy.\n<PAGE>\nAnd no, I don't think babies qualify as parasites.\nYou can relax."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION02_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_LAUGH>\r\nA...A baby... So that's it...We're gonna have a\nbaby... That's...that's pretty wild."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_ATTENTION_GARDENER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\r\nI'm so happy for you, honey. But listen to your\nbody now, okay? No overdoing it.\n<PAGE>\n<FACE_NORMAL>I know it probably doesn't feel real to you just\nyet, but your body isn't yours alone for the time\nbeing. Remember that.\n<PAGE>\nNadi, as her husband, I want you to keep an eye\non her condition too, okay?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_WORRY_GARDENER",
+      "Text": "<FACE_NADI><POS_LEFT><FACE_LOSS>\r\nYou feelin' okay? No pushing it, got it? And be\nsure to tell me the second you feel bad, all\nright?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HAPPY_GARDENER",
+      "Text": "<FACE_NADI><POS_LEFT><FACE_LAUGH>\r\nWow... I-it still doesn't feel real to me, but we're\ngonna be parents. That's pretty awesome.\n<PAGE>\nGuess I'm gonna to have to step it up so I can\nbe a good dad for our new baby. Can't wait 'til\nit's born!"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_BAD_FACE_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_SAD>\r\nWhoa, whoa, whoa, are you all right? You aren't\nlooking too spry, there.\n<PAGE>\nMaybe you should take the day off work today.\nIn fact...come on, I'm taking you to the clinic."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HOW_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_SAD>\r\nDoctor Marian, how is <MYNAME> doing? It's\nnot something bad like the flu, is it?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_00_KAMIRU",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nHmm...I'd say you have about <BLUE>60 days</BLUE> left until\nthe baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_01_KAMIRU",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nHmm...I'd say you have about <BLUE>40 days</BLUE> left until\nthe baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_02_KAMIRU",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nHmm...I'd say you have about <BLUE>30 days</BLUE> left until\nthe baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_LAUGH>\r\nWhat? A b-b-b-baby?! Th-then she wasn't\nfeeling bad because she was sick, it's--\n<PAGE>\n<WINDOW_DEFAULT><FACE_MARIAN><POS_LEFT><FACE_LAUGH>Right. It's simple morning sickness, which is\ncommon in early pregnancy. Otherwise, she's\nperfectly healthy.\n<PAGE>\nSo no, it's not some kind of viral illness. You\ncan relax."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION02_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_LAUGH>\r\nWhew. I'm glad to know you aren't three steps\nfrom vomit-town, but wow...a baby? We're\nreally going to have a baby? I can't believe it!"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_ATTENTION_KAMIRU",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\r\nI'm so happy for you, honey. But listen to your\nbody now, okay? No overdoing it.\n<PAGE>\n<FACE_NORMAL>I know it probably doesn't feel real to you just\nyet, but your body isn't yours alone for the time\nbeing. Remember that.\n<PAGE>\nKamil, as her husband, I want you to keep an\neye on her condition too, okay?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_WORRY_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_LEFT><FACE_LOSS>\r\nYou feeling all right? Let me know if you start\nfeeling wiped out or nauseous. I'll do whatever I\ncan to help."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HAPPY_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_LEFT><FACE_LAUGH>\r\nI can still hardly believe it. We're going to have a\nnew family member... I don't know if I've ever\nbeen this happy in my life.\n<PAGE>\nI guess I'm going to have to work a lot harder\nnow, so I can be a great dad for our new little\none. I can hardly wait."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_BAD_FACE_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_LEFT><FACE_SAD>\r\nEr, <MYNAME>...?\n<PAGE>\nThere have been a few times lately when I've felt\nout of sorts, but this morning I feel particularly\nunwell.\n<PAGE>\nI think I ought to visit the clinic..."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HOW_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\r\nDoctor Marian, please tell me. What kind of\nillness do I have?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_00_RICHGIRL",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nHmm...I'd say you have about <BLUE>60 days</BLUE> left until\nthe baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_01_RICHGIRL",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nHmm...I'd say you have about <BLUE>40 days</BLUE> left until\nthe baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_02_RICHGIRL",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nHmm...I'd say you have about <BLUE>30 days</BLUE> left until\nthe baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\r\nA b-b-baby...? I'm pregnant?! Then...the reason\nI've been feeling unwell recently has been...\n<PAGE>\n<WINDOW_DEFAULT><FACE_MARIAN><POS_LEFT><FACE_LAUGH>Right. It's simple morning sickness, which is\ncommon in early pregnancy. Otherwise, you're\nperfectly healthy.\n<PAGE>\nSo no, it isn't a virus of any kind. You can relax."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION02_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOVE>\r\nI...I'm pregnant. A little baby is growing inside\nme right now...! How wonderful!"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_ATTENTION_RICHGIRL",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\r\nI'm so happy for you, honey. But listen to your\nbody now, okay? No overdoing it.\n<PAGE>\n<FACE_NORMAL>I know it probably doesn't feel real to you just\nyet, but your body isn't yours alone for the time\nbeing. Remember that.\n<PAGE>\n<MYNAME>, as her husband, I want you to keep\nan eye on her condition too, okay?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_WORRY_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\r\nNow that Doctor Marian has examined\neverything, I am feeling much better.\n<PAGE>\n<FACE_LAUGH>Thank you for escorting me to the clinic,\n<MYNAME>,"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HAPPY_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOVE>\r\n...I'm pregnant. I am still having trouble getting\nover my surprise at that fact. But...it makes me\nvery happy.\n<PAGE>\n<FACE_LAUGH>I guess I shall have to take very good care of\nmyself for the foreseeable future, so as to help\nour baby stay healthy."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_BAD_FACE_WRITER",
+      "Text": "<FACE_IRIS><POS_LEFT><FACE_LOSS>\r\nOh dear. <MYNAME>, did I wake you? I'm sorry.\n<PAGE>\n<FACE_SAD>I haven't been feeling well for several days now,\nbut this morning it's especially bad. I think I\nshould go to the clinic today."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HOW_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_LOSS>\r\nDoctor Marian, what's wrong with me? I don't\nhave some sort of bacterial infection, do I?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_00_WRITER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nHmm...I'd say you have about <BLUE>60 days</BLUE> left until\nthe baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_01_WRITER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nHmm...I'd say you have about <BLUE>40 days</BLUE> left until\nthe baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_02_WRITER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nHmm...I'd say you have about <BLUE>30 days</BLUE> left until\nthe baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\r\nA baby...? I'm going to have a baby...?! Then,\nthe reason I haven't been feeling well is...\n<PAGE>\n<WINDOW_DEFAULT><FACE_MARIAN><POS_LEFT><FACE_LAUGH>Right. It's simple morning sickness, which is\ncommon in early pregnancy. Otherwise, you're\nperfectly healthy.\n<PAGE>\nSo no, it's not a bacterial infection. You can\nrelax."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION02_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_LAUGH>\r\nO-oh my goodness...! I...I'm pregnant! We're\ngoing to have a baby! I'm so happy!"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_ATTENTION_WRITER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\r\nI'm so happy for you, honey. But listen to your\nbody now, okay? No overdoing it.\n<PAGE>\n<FACE_NORMAL>I know it probably doesn't feel real to you just\nyet, but your body isn't yours alone for the time\nbeing. Remember that.\n<PAGE>\n<MYNAME>, as her husband, I want you to keep\nan eye on her condition too, okay?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_WORRY_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\r\nNow that Doctor Marian has had a chance to\nexamine me, I'm feeling much better.\n<PAGE>\n<FACE_LAUGH>Thank you for seeing me to the clinic today,\n<MYNAME>."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HAPPY_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_LAUGH>\r\nWhat a wonderful surprise. We're going to have a\nbaby. I wonder if it'll be a boy or a girl. We\nshould start thinking about names!\n<PAGE>\nI can hardly wait to find out. I'll have to take\ngood care of myself, so our baby can be as\nhealthy as possible."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_BAD_FACE_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_LEFT><FACE_SAD>\r\nOh, <MYNAME>...\n<PAGE>\nSorry. I haven't been feeling so good lately. This\nmorning it's been really bad, so I was thinking\nmaybe I should go to the clinic."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HOW_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_LOSS>\r\nDoctor Marian, am I sick? Did I catch the flu or\nsomething?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_00_WEATHERGIRL",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nHmm...I'd say you have about <BLUE>60 days</BLUE> left until\nthe baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_01_WEATHERGIRL",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nHmm...I'd say you have about <BLUE>40 days</BLUE> left until\nthe baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_02_WEATHERGIRL",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nHmm...I'd say you have about <BLUE>30 days</BLUE> left until\nthe baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_NORMAL>\r\nA b-b-b-baby?! I'm p-pregnant?! Then...th-the\nreason I haven't been feeling good is...\n<PAGE>\n<WINDOW_DEFAULT><FACE_MARIAN><POS_LEFT><FACE_LAUGH>Right. It's simple morning sickness, which is\ncommon in early pregnancy. Otherwise, you're\nperfectly healthy.\n<PAGE>\nSo no, you don't have the flu. You can relax."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION02_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_LOVE>\r\nWow...I-I'm pregnant. There's a little baby\ngrowing in my tummy right now...! Ohmigosh,\nthat is so amazing!"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_ATTENTION_WEATHERGIRL",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\r\nI'm so happy for you, honey. But listen to your\nbody now, okay? No overdoing it.\n<PAGE>\n<FACE_NORMAL>I know it probably doesn't feel real to you just\nyet, but your body isn't yours alone for the time\nbeing. Remember that.\n<PAGE>\n<MYNAME>, as her husband, I want you to keep\nan eye on her condition too, okay?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_WORRY_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_LAUGH>\r\nNow that the doctor's looked at me, I'm feeling\nlots better.\n<PAGE>\nThanks for coming with me to the clinic today,\n<MYNAME>. "
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HAPPY_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_LOVE>\r\nWe're going to have a baby...! It's so surprising it\nstill feels unreal. But I'm so happy!\n<PAGE>\n<FACE_NORMAL>I'm going to have to talk with my boss and see if\nI can get some time off work. I don't want to\noverdo anything.\n<PAGE>\n<FACE_LAUGH>Oh geez, now the adrenaline is starting to kick\nin. I can hardly wait for our new family member\nto be born!"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_BAD_FACE_RANGER",
+      "Text": "<FACE_MENOU><POS_LEFT><FACE_SAD>\r\n...<MYNAME>.\n<PAGE>\nI feel really icky this morning. If I have a cold, I\ndon't want you getting sick, too. Maybe I should\nhead down to the clinic."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HOW_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_SAD>\r\nUm, Doctor...? Do I have a cold?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_00_RANGER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nHmm...I'd say you have about <BLUE>60 days</BLUE> left until\nthe baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_01_RANGER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nHmm...I'd say you have about <BLUE>40 days</BLUE> left until\nthe baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_02_RANGER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nHmm...I'd say you have about <BLUE>30 days</BLUE> left until\nthe baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT>\r\nA...b-b-baby? I'm pregnant...?! Then...the\nreason I've felt so icky is because...\n<PAGE>\n<WINDOW_DEFAULT><FACE_MARIAN><POS_LEFT><FACE_LAUGH>Right. It's simple morning sickness, which is\ncommon in early pregnancy. Otherwise, you're\nperfectly healthy.\n<PAGE>\nSo no, you're 100% cold-free. You can relax."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION02_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_LAUGH>\r\nYay! I don't even know what to say. This is so\ngreat!\n<PAGE>\nIt's wonderful to know we're going to have a\nbaby together."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_ATTENTION_RANGER",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\r\nI'm so happy for you, honey. But listen to your\nbody now, okay? No overdoing it.\n<PAGE>\n<FACE_NORMAL>I know it probably doesn't feel real to you just\nyet, but your body isn't yours alone for the time\nbeing. Remember that.\n<PAGE>\n<MYNAME>, as her husband, I want you to keep\nan eye on her condition too, okay?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_WORRY_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_LAUGH>\r\nHeeheehee! There's a little baby in my tummy\nright now! That's such a wonderful surprise, it\nmade all the icky feelings go away. ♪"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HAPPY_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_NORMAL>\r\nI want to have lots and lots of children, so I'd be\nreally happy if I could have a whole litter at\nonce, just like puppies!\n<PAGE>\n<FACE_LAUGH>But...I don't think that'd work. So I'll be happy\nwith one baby, too."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_BAD_FACE_NURSE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_SAD>\r\nAh...<MYNAME>.\n<PAGE>\nI feel really unwell this morning. I thought I\nmight go to work early and talk to the doctor\nabout what it might be."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HOW_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT>\r\nDoctor, what is the diagnosis? There are several\ndifferent viruses I am aware of that could cause\nthese symptoms."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_00_NURSE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nHmm...I'd say you have about <BLUE>60 days</BLUE> left until\nthe baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_01_NURSE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nHmm...I'd say you have about <BLUE>40 days</BLUE> left until\nthe baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_02_NURSE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nHmm...I'd say you have about <BLUE>30 days</BLUE> left until\nthe baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_NORMAL>\r\nA...baby? I'm pregnant...? Then...these\nsymptoms aren't an illness, they're...\n<PAGE>\n<WINDOW_DEFAULT><FACE_MARIAN><POS_LEFT><FACE_LAUGH>Right. It's simple morning sickness, which is\ncommon in early pregnancy. Otherwise, you're\nperfectly healthy.\n<PAGE>\nSo no, it's not a viral or bacterial illness, or\nanything on your list of suspicions. You can\nrelax."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION02_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LOVE>\r\nIt feels so strange to say it, but...I'm pregnant.\nWe're going to have a baby. That is truly\nwonderful, wonderful news..."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_ATTENTION_NURSE",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\r\nI'm so happy for you, honey. But listen to your\nbody now, okay? No overdoing it.\n<PAGE>\n<FACE_NORMAL>I know it probably doesn't feel real to you just\nyet, but your body isn't yours alone for the time\nbeing. Remember that.\n<PAGE>\n<MYNAME>, as her husband, I want you to keep\nan eye on her condition too, okay?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_WORRY_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LAUGH>\r\n<MYNAME>, thank you for accompanying me\ntoday.\n<PAGE>\nNow that the doctor has examined me, I'm\nfeeling much better. You needn't worry so much\nnow."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HAPPY_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LOVE>\r\nStill...this all still feels somewhat surreal. But it\nisn't, is it. We really are going to have a baby.\n<PAGE>\n<FACE_LAUGH>I guess I shall have to pay special attention to\nmy health and nutrition not just for myself, but\nfor our baby, too."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_BAD_FACE_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_LEFT><FACE_LOSS>\r\nAah, <MYNAME>. Did I wake you?\n<PAGE>\n<FACE_SAD>Sorry, I was just gonna head to the clinic. I've\nbeen feeling sick a lot lately, and I feel especially\nnauseous this morning."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HOW_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\nDoctor Marian, what kind of illness is it? It's...it's\nnot chronic fungal sporeosis, is it?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_00_RIKORISU",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nHmm...I'd say you have about <BLUE>60 days</BLUE> left until\nthe baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_01_RIKORISU",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nHmm...I'd say you have about <BLUE>40 days</BLUE> left until\nthe baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_OK_02_RIKORISU",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_NORMAL>\r\nHmm...I'd say you have about <BLUE>30 days</BLUE> left until\nthe baby is born."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\nA baby?! I'm p-p-pregnant?!\n<PAGE>\n<FACE_SAD>Then the nausea I've been feeling the last few\ndays wasn't the result of those exotic fungal\nspores I've been working with...\n<PAGE>\n<WINDOW_DEFAULT><FACE_MARIAN><POS_LEFT><FACE_LAUGH>Right. It's simple morning sickness, which is\ncommon in early pregnancy. Otherwise, you're\nperfectly healthy.\n<PAGE>\nSo no, it's not some strange fungal infection.\nYou can relax."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_REACTION02_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\nWow. I...I'm pregnant. What a massive surprise.\nBut, I'm very happy to know we are going to\nhave a baby."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_ATTENTION_RIKORISU",
+      "Text": "<FACE_MARIAN><POS_LEFT><FACE_LAUGH>\r\nI'm so happy for you, honey. But listen to your\nbody now, okay? No overdoing it.\n<PAGE>\n<FACE_NORMAL>I know it probably doesn't feel real to you just\nyet, but your body isn't yours alone for the time\nbeing. Remember that.\n<PAGE>\n<MYNAME>, as her husband, I want you to keep\nan eye on her condition too, okay?"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_WORRY_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nNow that Doctor Marian has examined me, I'm\nfeeling much better.\n<PAGE>\n<FACE_LAUGH><MYNAME>, thanks for coming with me to the\nclinic. I needed the moral support."
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_HAPPY_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\nWe're...having a baby. It still hasn't really sunk\nin, but I feel so warm and happy to know that.\n<PAGE>\nI guess I'm going to have to take good care of\nmyself, for the health of our baby. I can hardly\nwait until it's born."
+    }
+  ]
+}

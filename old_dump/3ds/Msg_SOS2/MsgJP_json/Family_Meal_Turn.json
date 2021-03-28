@@ -1,0 +1,2222 @@
+﻿{
+  "Date": "2016-06-25T01:44:45.8791375+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_CHECK_TABLE_MYHOUSE_01",
+      "Text": "ごはんを食べようかな？"
+    },
+    {
+      "VardId": "MES_CHECK_TABLE_MYHOUSE_02",
+      "Text": "食べる"
+    },
+    {
+      "VardId": "MES_CHECK_TABLE_MYHOUSE_03",
+      "Text": "食べない"
+    },
+    {
+      "VardId": "MES_CHECK_TABLE_MYHOUSE_04",
+      "Text": "ごはんはだれが作ろう？"
+    },
+    {
+      "VardId": "MES_CHECK_TABLE_MYHOUSE_05",
+      "Text": "自分が作る"
+    },
+    {
+      "VardId": "MES_CHECK_TABLE_MYHOUSE_06",
+      "Text": "<CHARANAME0>に作ってもらう"
+    },
+    {
+      "VardId": "MES_CHECK_TABLE_MYHOUSE_07",
+      "Text": "まだごはんの時間には早いかも。\nお昼ごはんは <BLUE>11:00</BLUE> からだ。"
+    },
+    {
+      "VardId": "MES_CHECK_TABLE_MYHOUSE_08",
+      "Text": "まだごはんの時間には早いかも。\n夜ごはんは <BLUE>18:00</BLUE> からだ。"
+    },
+    {
+      "VardId": "MES_CHECK_TABLE_MYHOUSE_09",
+      "Text": "もう夜もおそい。\nごはんはまた明日食べよう。"
+    },
+    {
+      "VardId": "MES_CHECK_TABLE_MYHOUSE_10",
+      "Text": "さっきごはんを食べたばかりだ。\nもう少し時間をあけよう。"
+    },
+    {
+      "VardId": "MES_CHECK_TABLE_MYHOUSE_11",
+      "Text": "さっき夜ごはんを食べたばかりだ。\nごはんはまた明日にしよう。"
+    },
+    {
+      "VardId": "MES_CHECK_TABLE_MYHOUSE_12",
+      "Text": "今日は病人がいるから、\n家族みんなでごはんが食べられない。\nまた明日にしよう。"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_00",
+      "Text": "まずは料理を１品作ろう。\n何を作ろうかな？"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_01",
+      "Text": "レシピから料理を作る"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_02",
+      "Text": "手ぬき料理にする"
+    },
+    {
+      "VardId": "MES_EV_PREGNANCY_03",
+      "Text": "<BLUE><____ITEMNAME0____></BLUE>ができた。\nあとは他の料理を作ろう。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_REQUEST_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nメニューはもう決まってる？\nもしまだなら、<BLUE><____ITEMNAME0____></BLUE>を\n作ってくれるとうれしいな。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_ITADAKI_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nいただきます。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_GOTI_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nごちそうさま。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_NORMAL_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nうん、おいしいよ。\nさすが、<_____MYNAME_____>だね。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_GOOD_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nすごくおいしいよ！\n料理上手な奥さんを持てて\nオレって、最高に幸せ者だね。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_BRAVO_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nうわっ、おいしい！\nすごくおいしいよ、これ！\n<PAGE>\nおかわりってある？\nあるなら、もっと食べたいな。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nあっ、オレの好きな\n<BLUE><____ITEMNAME0____></BLUE>だ。\nうれしいな。食べ過ぎちゃいそうだ。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_BIRTHDAY_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\n今日は、オレの好きな\n<BLUE><____ITEMNAME0____></BLUE>なんだね。\n<PAGE>\n…もしかして、\nオレの誕生日だから？\nうれしいな。食べ過ぎちゃいそうだ。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_MARRIAGE_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\n今日は、オレの好きな\n<BLUE><____ITEMNAME0____></BLUE>なんだね。\n<PAGE>\n…もしかして、\nオレたちの結婚記念日だから？\nうれしいな。食べ過ぎちゃいそうだ。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_REQUEST_COMMENT_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nオレのリクエストに応えてくれたんだ。\nサンキュ、<_____MYNAME_____>。\nうれしくて、ついほおがゆるんじゃうな。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nそれじゃ、準備してくるよ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\n今日のメニューは…\nうーん<_____MYNAME_____>、\nなにかリクエストはない？"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_00_Postman",
+      "Text": "<____ITEMNAME0____>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_01_Postman",
+      "Text": "<____ITEMNAME1____>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_02_Postman",
+      "Text": "<____ITEMNAME2____>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_OK_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\n了解！\n愛情をたっぷりこめて作るよ。\nまかせておいて。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_ITADAKI_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nお待たせ、これで全部だよ。\nそれじゃ食べようか。\nいただきます。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_GOTI_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nごちそうさま。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_00_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\n一人暮らしが長かったから\n料理のうではそれなりのはずなんだけど…\n<PAGE>\n基本的に自分テイストなんだよね。\n<PAGE>\nだから、味や量で気になることがあれば\nエンリョなく言ってくれるとうれしいな。\n<PAGE>\n<FACE_LAUGH>これからは、自分のためじゃなく\n大好きなキミがよろこんでくれる料理を\n作っていけるようになりたいからさ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_01_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nキミと結婚してよかったなと\n思うことはたくさんあるけど\nそのうちのひとつは、やっぱり…\n<PAGE>\nこうして、幸せそうにごはんを食べる\nキミの笑顔をひとりじめできるように\nなったことかな。\n<PAGE>\n<FACE_LAUGH>…あれ、食事の手が止まってるよ？\nもしかして、照れてるの？\n本当、キミってかわいいなあ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_02_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_LOSS>\r\n……あいたっ。\nうわ…ゴリッていった…。\nほおの内側かんじゃったよ…。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_03_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>、\nはい、あーん。\n<PAGE>\n<FACE_LAUGH>急でびっくりした？\nアハハ、ごめんごめん。\nたまにはこういうのもいいかなって。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_04_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nそんなにじっとオレのこと\n見つめてどうかした？\n<PAGE>\n…なんとなく？\nそっか、でもあんまり熱心に\n見つめられるとこまっちゃうな。\n<PAGE>\n<FACE_LOVE>その…食事中だとかそういうの\nわすれて、うっかりキミに\nキスしたくなっちゃうからさ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_05_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事っていいよね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_06_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事っていいよね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_07_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事っていいよね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_08_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事っていいよね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_09_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事っていいよね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildBoy_Postman",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n…それへえ、ひょう\nほんなほとがあって…！\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_ANGRY>\nこら、話したいことがいっぱい\nあるのはわかるけど、口の中に\nものを入れたまましゃべらない。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>\n……もぐもぐもぐ、ごっくん。\n<PAGE>\nはーい、パパ。ごめんなさい〜…。\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\nうん、いい子だね。\nよしよし。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>エヘヘ〜♪"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildBoy_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、好ききらいはダメだよ。\nちゃんと食べないと\n大きくなれないからね。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nうん、ボク好ききらいせずに\nたくさん食べて早く大きくなるよ！\nそれで、ママとけっこんするんだ〜♪\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\nこれは、手強いライバルの出現だ。\n<_____MYNAME_____>をとられないように\nがんばらなくちゃ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildBoy_Postman",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nボク、好きなものは\n最後に食べたいんだ〜♪\nパパは？　最初と最後どっち？\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>うーん、そうだなあ。\n<CHILD_NAME>といっしょで\nお楽しみは最後にとっておく方かな。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nそっか、いっしょだね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildBoy_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nはい、これ好きだろ。\n<CHILD_NAME>、あーん。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>わーいっ！\nじゃあ、ボクはママにこれあげる！\nはい、あーん。\n<PAGE>\nエヘヘッ。\nつぎはママの番だよ。\nはい、パパにあーんして！\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LOVE>\n……うん、おいしい。\nけど、なんだかちょっとてれるね。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nパパもママも顔まっかだ！\nタコさんみたい。変なのー！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildBoy_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、口元よごれてるよ。\nはい、とれた。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nありがとう、パパ！\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\nどういたしまして…ってあれ？\n<_____MYNAME_____>も、ついてるよ。\n<PAGE>\n<FACE_LAUGH>アハハ、そういうところソックリだね。\nおいでよ、<_____MYNAME_____>のも\nとってあげる。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildGirl_Postman",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n…それへえ、ひょう\nほんなほとがあって…！\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_ANGRY>\nこら、話したいことがいっぱい\nあるのはわかるけど、口の中に\nものを入れたまましゃべらない。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>\n……もぐもぐもぐ、ごっくん。\n<PAGE>\nはーい、パパ。ごめんなさい〜…。\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\nうん、いい子だね。\nよしよし。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>エヘヘ〜♪"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildGirl_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、好ききらいはダメだよ。\nちゃんと食べないと\n大きくなれないからね。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nうん、わたし好ききらいせずに\nたくさん食べて早く大きくなるわ！\nそれで、パパとけっこんするの〜<RED>∀</RED>\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\n…だってさ。どうする？\nかわいいライバルの出現だけど\nオレのために戦ってくれる？　なんてね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildGirl_Postman",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nわたしは、好きなものは\n最後に食べたいなって思うんだけど…\nパパは？　最初と最後どっち？\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\nうーん、そうだなあ。\n<CHILD_NAME>といっしょで\nお楽しみは最後にとっておく方かな。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nわーい、パパといっしょー！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildGirl_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nはい、これ好きだろ。\n<CHILD_NAME>、あーん。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>わーいっ！\nじゃあ、わたしはママにこれあげる！\nはい、あーん。\n<PAGE>\nフフッ。\nつぎはママの番よ。\nはい、パパにあーんして！\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LOVE>\n……うん、おいしい。\nけど、なんだかちょっとてれるね。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nパパもママも顔まっかよ！\nタコさんみたい。変なのー！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildGirl_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、口元よごれてるよ。\nはい、とれた。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nありがとう、パパ！\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\nどういたしまして…ってあれ？\n<_____MYNAME_____>も、ついてるよ。\n<PAGE>\n<FACE_LAUGH>アハハ、そういうところソックリだね。\nおいでよ、<_____MYNAME_____>のも\nとってあげる。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_REQUEST_COMMENT_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>リクエストの\n<BLUE><____ITEMNAME0____></BLUE>の味はどう？\nキミの口に合えばいいんだけど。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_BREAKFAST_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nそれじゃ、<_____MYNAME_____>。\nおたがい今日も一日がんばろうね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_LUNCH_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\n家族でいっしょに食事するって\nやっぱりいいよね。\nおかげで昼からもがんばれそうだよ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_DINNER_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\n今日も一日、おつかれさま。\n根のつめすぎはからだに悪いし\n夜はいっしょにゆっくりと過ごそうよ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_BREAKFAST_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nそれじゃ、<_____MYNAME_____>。\nおたがい今日も一日がんばろうね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_LUNCH_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nどんなにいそがしくても家族で\nいっしょに食事するって、大事だよね。\nおかげで昼からもがんばれそうだよ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_DINNER_Postman",
+      "Text": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\n今日も一日、おつかれさま。\n根のつめすぎはからだに悪いし\n夜はいっしょにゆっくりと過ごそうよ。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_REQUEST_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nなにを作るかは、もう決めてあるのか？\nもしまだなら、<BLUE><____ITEMNAME0____></BLUE>を\n作ってもらえるとうれしいのだが。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_ITADAKI_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nいただきます。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_GOTI_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nごちそうさま。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_NORMAL_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nふむ、悪くない。\n可もなく不可もない…\n安定した味といえる。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_GOOD_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nおいしいな。\n私が同じ食材で作ってもこうはならない。\n君の料理のうでは本当にすばらしい。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_BRAVO_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nこれは…あまりにおいしすぎる！\n食欲をかきたてられる味だ。\nおかわりをいただこう。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\n…うれしそう、だと？\n君が私の好きな料理を作ってくれたのだ。\nうれしくないはずがないだろう。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_BIRTHDAY_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\n…うれしそう、だと？\n<PAGE>\n私の誕生日に、君が私の\n好きな料理を作ってくれたのだ。\nうれしくないはずがないだろう。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_MARRIAGE_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\n…うれしそう、だと？\n<PAGE>\n結婚記念日に、君が私の\n好きな料理を作ってくれたのだ。\nうれしくないはずがないだろう。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_REQUEST_COMMENT_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\n私が食べたいと言っていた料理を\n作ってくれたのか。\n<PAGE>\n…なに？\n私をよろこばせたかった、だと？\n<PAGE>\nならば、君の作戦は大成功だ。\n私はいま、\n君の料理とその言葉に歓喜している。\n<PAGE>\n…ありがとう、<_____MYNAME_____>。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nでは、食事の準備に\nとりかかるとしよう。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n…参考までに、今日のメニューについて\n君の意見を聞きたいのだが。\nなにか食べたいものはあるか？"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_00_Doctor",
+      "Text": "<____ITEMNAME0____>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_01_Doctor",
+      "Text": "<____ITEMNAME1____>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_02_Doctor",
+      "Text": "<____ITEMNAME2____>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_OK_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nそうか、わかった。\nならばそれを作るとしよう。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_ITADAKI_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nこれで準備はかんぺきだ。\nでは、食べるとしよう。\nいただきます。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_GOTI_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nごちそうさま。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_00_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n結婚するまでは、\n食事は生命活動を保つために\n必要なものという認識だけがあり…\n<PAGE>\n味よりも、\n栄養を重視しがちだった。\n<PAGE>\n<FACE_LAUGH>\nしかし最近は、栄養にこだわりすぎず\n君が笑顔でおいしいと言ってくれるものを\n作りたいと…そう思っている。\n<PAGE>\nもし君が私の料理に\nなんらかの変化を感じているなら、\n理由はそこにあると思ってくれていい。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_01_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n君と食事を共にするようになって以来、\n一人で食べる味気なさというものが\n理解できるようになった。\n<PAGE>\n<FACE_LAUGH>…君と囲む食卓を\n私はとても気にいっている。\n<PAGE>\nだから、どれだけいそがしくとも\n今後もこうして君と共に食事を\nとれるよう力をつくしていくつもりだ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_02_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n人体において、空気の入る気道と\n食物の入る食道はとなりあっている。\n<PAGE>\nこれらは、私たちが自らで判断せずとも\n口から入った直後、\n<PAGE>\nからだが適切な道を判断し、\n勝手により分けてくれるのだ。\nそこがまさに人体のすごいところであり…\n<PAGE>\n<FACE_SAD>……うっ、ゴホッ。ゴホンッ。\n気管に入っ…ゴホッ！\n<PAGE>\n…ンンッ、食事中の会話では\nまれにこういった事態も起こるが…\n本来はおおむね上手く分けられるはずだ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_03_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_SAD>\r\n…<_____MYNAME_____>、\nそれを私にどうしろというのだ。\nまさかとは思うが…。\n<PAGE>\n<FACE_LOSS>…わ、わかった。\n君がどうしてもと言うのであれば\nしかたあるまい。\n<PAGE>\n<FACE_NORMAL>……あーん。\n<PAGE>\n<FACE_LOVE>…君は…私にこんなはずかしめを\n与えて一体どうしたいのだ…。\nたのむから、これきりにするように…。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_04_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nそんなにじっと見て、なんだ？\n私の顔になにかついているのか？\n…ん？　ほおに食べかす？\n<PAGE>\n<FACE_LOVE>そ、そうか。\n子どものようなことをしてしまったな。\n…あまり、ジロジロ見ないように。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_05_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事というのは\nいいものだな。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_06_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事というのは\nいいものだな。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_07_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事というのは\nいいものだな。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_08_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事というのは\nいいものだな。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_09_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事というのは\nいいものだな。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildBoy_Doctor",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n…それへえ、ひょう\nほんなほとがあって…！\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_ANGRY>\n<CHILD_NAME>、口の中にものを入れたまま\nしゃべるんじゃない。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>\n……もぐもぐもぐ、ごっくん。\n<PAGE>\nはーい、パパ。ごめんなさい〜…。\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\nよし。素直に自分のまちがいを受け入れ\n正すことができる…<CHILD_NAME>は\nいい子に育っているな。\n<PAGE>\n<FACE_NORMAL>…親バカとは心外だ。\n<CHILD_NAME>がかしこく\nかわいいというのは、ただの事実だからな。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildBoy_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、好ききらいはせず\nしっかりと残さず食べるように。\nでないと、大きくなれないからな。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nうん、ボク好ききらいせずに\nたくさん食べて早く大きくなるよ！\nそれで、ママとけっこんするんだ〜♪\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_SAD>\n…なにっ！？\n<PAGE>\n<_____MYNAME_____>は、すでに私の妻だ。\n断じて渡すわけにはいかない。\n<PAGE>\nいや、そもそも君たちは血縁関係でだな…\n<PAGE>\n…なんだ、<_____MYNAME_____>。\nなにをそんなに笑っているのだ？"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildBoy_Doctor",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nボク、好きなものは\n最後に食べたいんだ〜♪\nパパは？　最初と最後どっち？\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>そういったこだわりは特にないが\nしいて言うなら…後だろうか。\n<PAGE>\nイヤなものを後回しにして\nいい結果になることはあまりないからな。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nえっと、よくわかんないけど\nパパといっしょなのはうれしいな！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildBoy_Doctor",
+      "Text": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nパパ、はいあーん。\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\n…悪いが、私はそういった\n行為(こうい)があまり得意では…。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nはい、あーん！\nほら、ママはしてくれたよ。\nパパもしてよー。…はい、あーんっ！\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\n………あーん。\n<PAGE>\n<FACE_LOVE>…君たちは、そういうところが\n本当に親子だな…そろいもそろって\n私をはずかしめて楽しいのか…っ！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildBoy_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、口元がよごれている。\n…よし、とれたな。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nありがとう、パパ！\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\nどういたしまして…と\n君もか、<_____MYNAME_____>。\n<PAGE>\n<FACE_LAUGH>まったく、君たちはムダに\n変なところまでソックリだな…。\n<PAGE>\n…来なさい。\nついでだ。とってあげよう。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildGirl_Doctor",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n…それへえ、ひょう\nほんなほとがあって…！\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_ANGRY>\n<CHILD_NAME>、口の中にものを入れたまま\nしゃべるんじゃない。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>\n……もぐもぐもぐ、ごっくん。\n<PAGE>\nはーい、パパ。ごめんなさい〜…。\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\nよし。素直に自分のまちがいを受け入れ\n正すことができる…<CHILD_NAME>は\nいい子に育っているな。\n<PAGE>\n<FACE_NORMAL>…親バカとは心外だ。\n<CHILD_NAME>が、かしこく\nかわいいというのはただの事実だからな。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildGirl_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、好ききらいはせず\nしっかりと残さず食べるように。\nでないと、大きくなれないからな。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nうん、わたし好ききらいせずに\nたくさん食べて早く大きくなるわ！\nそれで、パパとけっこんするの〜<RED>∀</RED>\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_SAD>\n…なに！？\n私はすでに、<_____MYNAME_____>の夫だ。\n気持ちはうれしいが受け入れることは…\n<PAGE>\nいや、そもそも私たちは血縁関係でだな…\n<PAGE>\n…なんだ、<_____MYNAME_____>。\nなにをそんなに笑っているのだ？"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildGirl_Doctor",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nわたしは、好きなものは\n最後に食べたいなって思うんだけど…\nパパは？　最初と最後どっち？\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\nそういったこだわりは特にないが\nしいて言うなら…後だろうか。\n<PAGE>\nイヤなものを後回しにして\nいい結果になることはあまりないからな。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nえっと、よくわからないけど\nパパといっしょなのはうれしいな！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildGirl_Doctor",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nパパ、はいあーん。\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\n…悪いが、私はそういった\n行為(こうい)があまり得意では…。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nはい、あーん！\nほら、ママはしてくれたわよ。\nパパもしてー。…はい、あーんっ！\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\n………あーん。\n<PAGE>\n<FACE_LOVE>…君たちは、そういうところが\n本当に親子だな…そろいもそろって\n私をはずかしめて楽しいのか…っ！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildGirl_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、口元がよごれている。\n…よし、とれたな。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nありがとう、パパ！\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\nどういたしまして…と\n君もか、<_____MYNAME_____>。\n<PAGE>\n<FACE_LAUGH>まったく、君たちはムダに\n変なところまでソックリだな…。\n<PAGE>\n…来なさい。\nついでだ。とってあげよう。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_REQUEST_COMMENT_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\n<BLUE><____ITEMNAME0____></BLUE>の味はどうだ？\n君の期待に応えられる\n味になっていればいいのだが。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_BREAKFAST_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n朝からはりきるのはけっこうだが\nケガにはくれぐれも気を付けるように。\n<PAGE>\n<FACE_LAUGH>万が一の場合には\n迷わず私をたよりなさい。\nでは、おたがい今日も一日がんばろう。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_LUNCH_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\n昼食後は気のゆるみが出やすいが\nここが折り返しだ。\nたがいにもうひとがんばりするとしよう。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_DINNER_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\n君の方の仕事はもう終わったのか？\n<PAGE>\n終わっているのなら、この後は夫婦の\n時間を大切にする必要があると思うのだが…\n<PAGE>\n<FACE_LOVE>いや、この言い方が適切ではないな。\n<PAGE>\n…私は君と少しでも多くの時間を\n共に過ごしたいと思うのだが…\nどうだろうか。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_BREAKFAST_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n朝からはりきるのはけっこうだが\nケガにはくれぐれも気を付けるように。\n<PAGE>\n<FACE_LAUGH>万が一の場合には\n迷わず私をたよりなさい。\nでは、おたがい今日も一日がんばろう。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_LUNCH_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\n昼食後は気のゆるみが出やすいが\nここが折り返しだ。\nたがいにもうひとがんばりするとしよう。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_DINNER_Doctor",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\n君の方の仕事はもう終わったのか？\n終わっているのなら、この後は夫婦の\n時間を大切にする必要があると思うのだが…\n<PAGE>\n<FACE_LOVE>いや、この言い方が適切ではないな。\n…私は君と少しでも多くの時間を共に\n過ごしたいと思うのだが、どうだろうか。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_REQUEST_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>、もしよかったら今日は\n<BLUE><____ITEMNAME0____></BLUE>を\n作っていただけませんか？\n<PAGE>\n<FACE_LAUGH>あなたの作る<BLUE><____ITEMNAME0____></BLUE>が\nすごく食べたくなってしまって。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_ITADAKI_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nいただきます。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_GOTI_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nごちそうさまでした。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_NORMAL_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>、おいしい料理を\nありがとうございます。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_GOOD_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nとてもおいしいですよ。\n毎日こんなにおいしい料理が\n食べられるなんてボクは幸せ者ですね。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_BRAVO_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nこの料理、すごくおいしいです…！\nこんなにおいしい料理が家で作れるなんて\nさすが、<_____MYNAME_____>ですね。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nボクの好きな<BLUE><____ITEMNAME0____></BLUE>を\n作ってもらえるなんてうれしいです。\nありがとうございます！"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_BIRTHDAY_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nボクの好きな<BLUE><____ITEMNAME0____></BLUE>を\n誕生日に作ってもらえるなんて\nうれしいです。\n<PAGE>\nありがとうございます！"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_MARRIAGE_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nボクの好きな<BLUE><____ITEMNAME0____></BLUE>を\n結婚記念日に作ってもらえるなんて\nうれしいです。\n<PAGE>\nありがとうございます！"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_REQUEST_COMMENT_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nあっ、これは…\nボクが食べたいと言った\n<BLUE><____ITEMNAME0____></BLUE>ですね。\n<PAGE>\n作ってくださって\nありがとうございます。\nとてもうれしいです。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nそれでは、\n食事の準備をしてきますね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nそうだ、<_____MYNAME_____>。\nなにか食べたいものはありますか？"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_00_Chaser",
+      "Text": "<____ITEMNAME0____>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_01_Chaser",
+      "Text": "<____ITEMNAME1____>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_02_Chaser",
+      "Text": "<____ITEMNAME2____>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_OK_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nわかりました。\nでは、それを作ろうと思います。\n待っていてくださいね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_ITADAKI_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nお待たせしました。\nでは、食べましょうか。\nいただきます。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_GOTI_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nごちそうさまでした。\nふう、おなかいっぱいになりましたね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_00_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nボクの料理は、ほとんどが祖母仕込みです。\n元々は祖母の助けになれることが\nうれしい一心で覚えた料理ですが…\n<PAGE>\nそれが今は、愛しいあなたを助け\nよろこばせることにもつながっている…。\n<PAGE>\n<FACE_LAUGH>大切な人から教わったことが\n大切な人のために生かせているなんて\nこれほどよろこばしいことはないです。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_01_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nあなたと結婚すると決まってから\nほかの町の方々にお願いして\nいくつか料理本をお借りしたんです。\n<PAGE>\nあなたが各町に出荷している作物が\nその場所でどんな料理に変身するのかを\nボク自身、知りたいと思いましたし…\n<PAGE>\nそうして知ったことを\nほかならぬあなたへ伝える\n手伝いができたらと思いまして。\n<PAGE>\n<FACE_LAUGH>でもやっぱりまだまだあなたの\n知識にはおよびませんね。\nもっと理解に努めたいと思います。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_02_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_SAD>\r\n……くしゅんっ。\n<PAGE>\nうう、すみません…。\nだれかがボクのウワサでも\nしているんでしょうか？"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_03_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>、\nはい、あーん。\n<PAGE>\nふふ、とつぜんすみません。\nたまにはこういった食事中ならではの\nたわむれもいいかと思いまして。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_04_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nそ、そんなにじっと見つめて…\nどうかしましたか？\nあまり見られるとはずかしいのですが。\n<PAGE>\n…はずかしがるかと思って？\n確信犯だなんて人が悪い。\n<PAGE>\nそれなら仕返しにボクもあなたを\nじっと見つめたいと思います。\nはずかしがっても、やめてあげませんよ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_05_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事って\nいいですよね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_06_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事って\nいいですよね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_07_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事って\nいいですよね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_08_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事って\nいいですよね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_09_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事って\nいいですよね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildBoy_Chaser",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n…それへえ、ひょう\nほんなほとがあって…！\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_ANGRY>\n<CHILD_NAME>、口の中に\nものを入れたまましゃべるのは\n感心しませんよ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>\n……もぐもぐもぐ、ごっくん。\n<PAGE>\nはーい、パパ。ごめんなさい〜…。\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LAUGH>いい子ですね。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>エヘヘ〜♪"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildBoy_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、\n好ききらいはしていませんか？\nちゃんと食べないと大きくなれませんよ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nだいじょうぶだよ！\nボクね、たくさん食べて早く大きくなって\nそれでね、ママとけっこんするんだ〜♪\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LOSS>\nおやおや、それはこまりましたね。\n<CHILD_NAME>の夢は\nかなえてあげたいところですが…\n<PAGE>\n<FACE_NORMAL><_____MYNAME_____>はボクの大事な\n奥さんですから、<CHILD_NAME>にだって\nわたせないんですよ。すみません。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildBoy_Chaser",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nボク、好きなものは\n最後に食べたいんだ〜♪\nパパは？　最初と最後どっち？\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\nそうですね…最後でしょうか。\n昔から、苦い薬をガマンした後に\nお菓子をもらったりしていましたからね。\n<PAGE>\nおいしいものや好きなものは\n最後のごほうび、という感覚が\n今でも残っているのでしょう。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nそうなんだー！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildBoy_Chaser",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nパパ、これ食べさせて！\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\n<CHILD_NAME>は\nあまえんぼうですね。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nエヘヘッ。\nだって好きな人に食べさせてもらった方が\nおいしく感じるんだもん♪\n<PAGE>\nそうだ、パパもママにやってもらいなよ！\nはい、あーん！\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\nえっ…！\nは、はい……あーん。\n<PAGE>\n<FACE_LOVE>……確かに何倍もおいしく感じますが\nちょっと…てれますね。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nパパもママも顔まっかだ！\nタコさんみたい。変なのー！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildBoy_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、\n口元がよごれていますよ。\n…はい、とれました。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>ありがとう、パパ！\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\nどういたしまして…って、あれ？\n<_____MYNAME_____>も、ついてますよ。\n…えっ、ボクにもついてますか？\n<PAGE>\n<FACE_LAUGH>ふふ、家族らしくボクたちみんな\n似た者同士といったところでしょうか。\n<PAGE>\nでは、<_____MYNAME_____>の口元は\nボクがぬぐいますので、ボクのは\n<_____MYNAME_____>にお願いできますか？"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildGirl_Chaser",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n…それへえ、ひょう\nほんなほとがあって…！\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_ANGRY>\n<CHILD_NAME>、口の中に\nものを入れたまましゃべるのは\n感心しませんよ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>\n……もぐもぐもぐ、ごっくん。\n<PAGE>\nはーい、パパ。ごめんなさい〜…。\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LAUGH>いい子ですね。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>エヘヘ〜♪"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildGirl_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、\n好ききらいはしていませんか？\nちゃんと食べないと大きくなれませんよ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>だいじょうぶよ！\nわたしね、たくさん食べて早く大きくなって\nそれでね、パパとけっこんするの〜♪\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\nふふ、ありがとうございます。\nうれしいですよ、<CHILD_NAME>。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildGirl_Chaser",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nわたしは、好きなものは\n最後に食べたいなって思うんだけど…\nパパは？　最初と最後どっち？\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\nそうですね…最後でしょうか。\n昔から、苦い薬をガマンした後に\nお菓子をもらったりしていましたからね。\n<PAGE>\nおいしいものや好きなものは\n最後のごほうび、という感覚が\n今でも残っているのでしょう。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nそうなのね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildGirl_Chaser",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nパパ、これ食べさせて！\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\n<CHILD_NAME>は\nあまえんぼうですね。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nウフフッ。\nだって好きな人に食べさせてもらった方が\nおいしく感じるんだもん♪\n<PAGE>\nそうだ、パパもママに\nやってもらったら？\nはい、あーん！\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_NORMAL>えっ…！\nは、はい……あーん。\n<PAGE>\n<FACE_LOVE>……確かに何倍もおいしく感じますが\nちょっと…てれますね。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nパパもママも顔まっかよ！\nタコさんみたい。変なのー！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildGirl_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、\n口元がよごれていますよ。\n…はい、とれました。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>ありがとう、パパ！\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\nどういたしまして…って、あれ？\n<_____MYNAME_____>も、ついてますよ。\n…えっ、ボクにもついてますか？\n<PAGE>\n<FACE_LAUGH>ふふ、家族らしくボクたちみんな\n似た者同士といったところでしょうか。\n<PAGE>\nでは、<_____MYNAME_____>の口元は\nボクがぬぐいますので、ボクのは\n<_____MYNAME_____>にお願いできますか？"
+    },
+    {
+      "VardId": "MES_MEALDEMO_REQUEST_COMMENT_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\n<BLUE><____ITEMNAME0____></BLUE>の味はどうですか？\nちゃんとあなたの期待に応えられる\n味になっていれば、いいのですが。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_BREAKFAST_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\n朝食を食べると活力がでますね。\nおたがい、今日も一日\nがんばりましょう。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_LUNCH_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nふふ、あくびが出ていますよ。\n食後のそういった姿を見せて\nもらえるのも、夫の特権ですね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_DINNER_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\n今日の仕事は終わりですか？\nもしまだ終わっていないのなら\nどうか無理だけはしないでくださいね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_BREAKFAST_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\n朝食を食べると活力がでますね。\nおたがい、今日も一日\nがんばりましょう。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_LUNCH_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nふふ、あくびが出ていますよ。\n食後のそういった無防備な姿を見せて\nもらえるのも、夫の特権ですね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_DINNER_Chaser",
+      "Text": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\n今日の仕事は終わりですか？\nもしまだ終わっていないのなら\nどうか無理だけはしないでくださいね。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_REQUEST_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nなあ、<_____MYNAME_____>。\n今日のごはんってなににする予定なんだ？\n<PAGE>\n<FACE_LAUGH>もし決まってないなら、オレ\n<BLUE><____ITEMNAME0____></BLUE>が\n食べたいなーなんて。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_ITADAKI_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nいただきます！"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_GOTI_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nごちそうさまー！"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_NORMAL_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nやっぱ、<_____MYNAME_____>の\nメシはうまいな！"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_GOOD_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nこの料理、素材の味が\nすげえ活きてるって感じだ。\n最高にうまいよ！"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_BRAVO_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nうわっ、すっげえうまいっ！！\n眠気やつかれも一気に\nふっとんじまう、うまさだな！"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nおっ、オレの好きな\n<BLUE><____ITEMNAME0____></BLUE>だ！\nやったー♪"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_BIRTHDAY_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nおっ、オレの好きな\n<BLUE><____ITEMNAME0____></BLUE>だ！\nやったー♪\n<PAGE>\nあっ、もしかして誕生日だからか？\nありがとな、<_____MYNAME_____>！"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_MARRIAGE_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nおっ、オレの好きな\n<BLUE><____ITEMNAME0____></BLUE>だ！\nやったー♪\n<PAGE>\nあっ、もしかして結婚記念日だからか？\nありがとな、<_____MYNAME_____>！"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_REQUEST_COMMENT_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nこれって、オレが食べたいって\n言ってた料理じゃん！\nうわっ、すげえうれしい！\n<PAGE>\n作ってくれてありがとな！\n<_____MYNAME_____>！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nそんじゃ、食事の準備に\nとりかかるとしますか！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nうーん、なににするかなあ。\n<_____MYNAME_____>は\nなにか食べたいものとかあるか？"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_00_Apprentice",
+      "Text": "<____ITEMNAME0____>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_01_Apprentice",
+      "Text": "<____ITEMNAME1____>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_02_Apprentice",
+      "Text": "<____ITEMNAME2____>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_OK_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nよし、じゃあそれにするか！\n<_____MYNAME_____>のために\n心をこめて作るからな♪"
+    },
+    {
+      "VardId": "MES_MEALDEMO_ITADAKI_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nこれで全部だな。\nそれじゃ、食べようぜ！\nいただきます！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_GOTI_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nごちそうさまー！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_00_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nオレの実家じゃ、兄弟も多いし\n大なべ料理が定番だったんだ。\n<PAGE>\n家を出るまでは、下のやつらの分は\n大体オレがよそってやったりしてたけど…\n<PAGE>\n<FACE_SAD>あいつら、今はちゃんと好ききらいせず\n自分でよそえてんのかな。\n<PAGE>\nオレがいないのをいいことに\n親の目をぬすんで、自分が\n好きなもんばっかり入れてそうだなあ…。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_01_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n自分がそこそこ料理のできる\n人間でよかったなって思うよ。\n<PAGE>\nだってオレの料理が下手くそだったら、\nお前にばっか負担をかけることに\nなってただろ？\n<PAGE>\n<FACE_LAUGH>\n台所に立つのは女の仕事とか\nいうヤツもいるみたいだけど…\n<PAGE>\nオレは夫婦なら、できるだけ\n対等でいたいって思うからさ！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_02_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\nはっくしゅん…っ！\n<PAGE>\n<FACE_SAD>うー、悪い…なんか\nいきなり鼻がむずむずして…\nだれかがウワサでもしてんのか？"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_03_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>って\n本当、うまそうに食うよな。\n<PAGE>\n同じもの食べてるはずなのに\nそっちの方がうまそうに見えてくるぜ。\n試しにひと口そっちの皿もらっていいか？\n<PAGE>\nはい、あーん…\n……って、ええっ！？\n<PAGE>\n<FACE_LOVE>ふつうにつられちまったけど\nなんだそれ、不意打ちすぎるだろ…。\nいや…いいけどさ…。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_04_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\n…なあ、<_____MYNAME_____>。\nそんなにじっと見つめられると\nてれるんだけど…。\n<PAGE>\nえ、先にじっと見てたのはオレの方？\n…………あれっ？\nそ、そういえば……。\n<PAGE>\n<FACE_LOVE>うまそうに食べてる姿が\nかわいいなーって思って見てた…かも…\nうわ、完全に無意識だった…悪い…っ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_05_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事って\nいいよな！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_06_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事って\nいいよな！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_07_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事って\nいいよな！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_08_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事って\nいいよな！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_09_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事って\nいいよな！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildBoy_Apprentice",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n…それへえ、ひょう\nほんなほとがあって…！\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_ANGRY>\nこらー、口の中に\nものを入れたまましゃべるのは\nぎょうぎ悪いぞ！\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>\n……もぐもぐもぐ、ごっくん。\n<PAGE>\nはーい、パパ。ごめんなさい〜…。\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\nん、ちゃんと言うこと聞けて\n<CHILD_NAME>は、えらいなー！\nよしよし！\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>エヘヘ〜♪"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildBoy_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、好ききらいしてないか？\nちゃんと食べないと\n大きくなれないんだぞ！\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nだいじょうぶだよ！\nボクね、たくさん食べて早く大きくなって\nそれでね、ママとけっこんするんだ〜♪\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\nお〜、そっか！\n<_____MYNAME_____>、モテモテだなあ！\n<PAGE>\nそれじゃ、オレも<_____MYNAME_____>を\nとられないよう<CHILD_NAME>よりも\nいっぱい食べないとな！\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>えー！？\n追いつけなくなっちゃうから\nパパはそれ以上大きくなっちゃダメー！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildBoy_Apprentice",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nボク、好きなものは\n最後に食べたいんだ〜♪\nパパは？　最初と最後どっち？\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\nん〜、最初かなあ。\n熱々の料理ならできたてが一番だろうし\n好きなら一番おいしい状態で食べたいしな。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nそっか、なるほどー！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildBoy_Apprentice",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nパパ、はいあーん。\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\nおっ、なんだ？\n食べさせてくれんのか？\nありがとな。あーん。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nじゃあ、つぎは\nパパがママにしてあげてー！\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\nええっ？\nんじゃ、まあ…<_____MYNAME_____>。\nはい、あーん。\n<PAGE>\n<FACE_LOVE>………って、なんだこれ。\nすげーてれるんですけど。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nパパもママも顔まっかだ！\nタコさんみたい。変なのー！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildBoy_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、ほおに食べかす。\nほらここ、ついてるぞ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nありがとう、パパ！\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\nどういたしまして…って、ん？\n<_____MYNAME_____>も、ついてるぞ。\n<PAGE>\n<FACE_LAUGH>そっちじゃなくて、こっち。\n…よし、とれた！\nさすが親子。ソックリだな〜。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildGirl_Apprentice",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n…それへえ、ひょう\nほんなほとがあって…！\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_ANGRY>\nこらー、口の中に\nものを入れたまましゃべるのは\nぎょうぎ悪いぞ！\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>\n……もぐもぐもぐ、ごっくん。\n<PAGE>\nはーい、パパ。ごめんなさい〜…。\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\nん、ちゃんと言うこと聞けて\n<CHILD_NAME>は、えらいなー！\nよしよし！\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>エヘヘ〜♪"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildGirl_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、好ききらいしてないか？\nちゃんと食べないと\n大きくなれないんだぞ！\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nだいじょうぶだよ！\nわたしね、たくさん食べて早く大きくなって\nそれでね、パパとけっこんするの〜♪\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\nお〜、そっか！\nモテモテだなあ、オレ！\n両手に花ってやつだな！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildGirl_Apprentice",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nわたしは、好きなものは\n最後に食べたいなって思うんだけど…\nパパは？　最初と最後どっち？\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\nん〜、最初かなあ。\n熱々の料理ならできたてが一番だろうし\n好きなら一番おいしい状態で食べたいしな。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nそっか、なるほどねー！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildGirl_Apprentice",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nパパ、はいあーん。\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\nおっ、なんだ？\n食べさせてくれんのか？\nありがとな。あーん。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nじゃあ、つぎは\nパパがママにしてあげてね！\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\nええっ？\nんじゃ、まあ…<_____MYNAME_____>。\nはい、あーん。\n<PAGE>\n<FACE_LOVE>………って、なんだこれ。\nすげーてれるんですけど。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nパパもママも顔まっかよ！\nタコさんみたい。変なのー！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildGirl_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、ほおに食べかす。\nほらここ、ついてるぞ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nありがとう、パパ！\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\nどういたしまして…って、ん？\n<_____MYNAME_____>も、ついてるぞ。\n<PAGE>\n<FACE_LAUGH>そっちじゃなくて、こっち。\n…よし、とれた！\nさすが親子。ソックリだな〜。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_REQUEST_COMMENT_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nこれが食べたい、って\n言ってもらえるのってうれしいし\nやる気になるよな〜！\n<PAGE>\n…ってわけで、気合いいれて作ったけど\nもし味で気になるところがあったら\nエンリョなく言ってくれよ！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_BREAKFAST_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nこれからまたすぐ仕事か？\nいってらっしゃい、気をつけてな。\nオレもがんばってくるよ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_LUNCH_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nよーし、午後も眠気に\n負けないよう元気にがんばろうぜ！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_DINNER_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n今日もおつかれさん！\n仕事が一段落したなら、\n夜はいっしょにのんびり過ごそうぜ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_BREAKFAST_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nこれからまたすぐ仕事か？\nいってらっしゃい、気をつけてな。\nオレもがんばってくるよ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_LUNCH_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nよーし、午後も眠気に\n負けないよう元気にがんばろうぜ！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_DINNER_Apprentice",
+      "Text": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n今日もおつかれさま。\n仕事がひと段落したなら夜は\nいっしょにのんびりして過ごそうぜ。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_REQUEST_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\n今日は、なにを作ってくれるんダ？\n<BLUE><____ITEMNAME0____></BLUE>だったりしたら\nすごくうれしいんだが…なんてナ。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_ITADAKI_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nいただきマス。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_GOTI_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nごちそうサマ。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_NORMAL_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>が\n作ってくれたってだけで、\n自分で作るよりも数倍うまく感じるヨ。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_GOOD_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nこれ、めちゃくちゃうまいヨ。\nまたうでがあがったんじゃないカ？\nさすがだナ、<_____MYNAME_____>。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_BRAVO_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\n…オレ、そのうちアンタの料理以外\n口にできなくなりそうだナ。\nそう思っちまうくらい、最高にうまいヨ。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nおっ、オレの好きな\n<BLUE><____ITEMNAME0____></BLUE>カ。\nアリンガ、<_____MYNAME_____>。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_BIRTHDAY_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nおっ、オレの好きな\n<BLUE><____ITEMNAME0____></BLUE>カ。\n<PAGE>\nえ、誕生日ノ…？\nアリンガ、<_____MYNAME_____>。\nうれしいヨ。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_MARRIAGE_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nおっ、オレの好きな\n<BLUE><____ITEMNAME0____></BLUE>カ。\n<PAGE>\nえ、結婚記念日ノ…？\nアリンガ、<_____MYNAME_____>。\nうれしいヨ。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_REQUEST_COMMENT_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nオレが食べたいって言ってた料理を\n作ってくれたのカ！\nアリンガ、<_____MYNAME_____>。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nよし、それじゃ\n食事の準備をしてくル。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\n…とはいえ、メニューになやむナ。\n<_____MYNAME_____>は、\nなにか食べたいもの、あるカ？"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_00_Craftman",
+      "Text": "<____ITEMNAME0____>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_01_Craftman",
+      "Text": "<____ITEMNAME1____>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_02_Craftman",
+      "Text": "<____ITEMNAME2____>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_OK_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nじゃあ、それにするカ。\nリクエストをもらえるとうでがなるナ。\nアリンガ、<_____MYNAME_____>。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_ITADAKI_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\n待たせたな、これで全部ダ。\nさ、食べようゼ。\nいただきマス。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_GOTI_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nごちそうサマ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_00_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nなあ、<_____MYNAME_____>。\nオレの料理の味付けってさ…\nその…大ざっぱカ？\n<PAGE>\n<FACE_SAD>昔からセンサイな見た目の割に\n味が大ざっぱだって言われるんだが\n自分じゃよくわからないんだよナ…。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_01_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>と結婚してから\n食卓が平和でいいナ。\n<PAGE>\n<FACE_SAD>前は、食事中だろうとおかまいなしで\n無茶を言ってくるやつがいたからナ。\nさすがにここまでは来ないだろうガ…。\n<PAGE>\n<FACE_NORMAL>アンタとの食事をジャマされたら\n怒らない自信はないから、今後も\nこの平和な食卓が続くのを祈るばかりダ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_02_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_SAD>\r\n……イテッ！\nあー…舌、かんダ…。\n<PAGE>\nもっとゆっくり食べろってことカ？\nそんなに早食いしたつもりは\nないんだけどナ…。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_03_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\n同じものでも、アンタが食べてると\nそっちの方がうまそうに見えるから\n不思議だよナ。\n<PAGE>\nえ、試しに食べてみるかっテ？\n<PAGE>\nそうだな、せっかくだし\nアンタが食べさせてくれるなら\nもらおうカナ。\n<PAGE>\n<FACE_LOVE>…って、オイ。\nそんなにキンチョウされるとこっちまで\n変にてれるダロ。こまったナ…。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_04_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nなんだ、そんなにじっと見テ。\nオレの顔になにかついてるカ？\n…え、カッコイイなと思って見てタ？\n<PAGE>\n<FACE_LOVE>……っ、ゴホッ！\nゲホッ！\nなっ、いきなりなんダ！\n<PAGE>\nアンタってやつは…\nなあそれって、天然なのカ？\n<PAGE>\nいや、どっちでもいいんだが\n食事中にいきなりは\n本気でカンベンしてクレ…。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_05_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事って\nいいよナ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_06_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事って\nいいよナ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_07_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事って\nいいよナ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_08_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事って\nいいよナ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_09_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事って\nいいよナ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildBoy_Craftman",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n…それへえ、ひょう\nほんなほとがあって…！\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_ANGRY>\nこら、<CHILD_NAME>。\n口の中にものを入れたまましゃべらナイ。\nぎょうぎが悪いゾ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>\n……もぐもぐもぐ、ごっくん。\n<PAGE>\nはーい、パパ。ごめんなさい〜…。\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\nよし、いい子ダ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>エヘヘ〜♪"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildBoy_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、\n好ききらいはしてないカ？\nちゃんと食べないと大きくなれないゾ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nだいじょうぶだよ！\nボクね、たくさん食べて早く大きくなって\nそれでね、ママとけっこんするんだ〜♪\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\nハハッ、そうカ。\nこれは強力なライバル出現だナ。\n<PAGE>\nがんばれと言うべきか\nおとなげなく<_____MYNAME_____>は\nわたさないと言うべきか、なやむところダ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildBoy_Craftman",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nボク、好きなものは\n最後に食べたいんだ〜♪\nパパは？　最初と最後どっち？\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\nそりゃ、最初だナ。\n後回しにして、満腹で食べられなくなったり\nだれかにとられたりしたらこまるダロ。\n<PAGE>\nそれに、好きなものが目の前にあって\n手を出さずにいられるほど\nオレは、ガマン強くないからナ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>\nそうなの？\nパパ、すごくガマン強そうなのにー。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildBoy_Craftman",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nパパ、はいあーん。\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\n…ん、ウマイ。\nアリンガ、<CHILD_NAME>。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nじゃあ、つぎは\nパパがママにしてあげて！\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\n…だってさ、<_____MYNAME_____>。\nはい、アーン。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>\nあれ、ママ顔まっかだよ！\nタコさんみたい。なんでー？\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\nハハッ、ママはてれ屋だからナ。\nすぐ赤くナル。カワイイよナ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nうん、ママかわいいー♪"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildBoy_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、口元よごれてるゾ。\nよし、とれタ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nありがとう、パパ！\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\nどういたしまして…って、ン？\n<_____MYNAME_____>も、ついてるゾ。\n<PAGE>\n<FACE_LAUGH>ハハッ、さすが親子だナ。\nそういうところ、ソックリダ。\n<_____MYNAME_____>のも、とってやろうカ？"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildGirl_Craftman",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n…それへえ、ひょう\nほんなほとがあって…！\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_ANGRY>\nこら、<CHILD_NAME>。\n口の中にものを入れたまましゃべらナイ。\nぎょうぎが悪いゾ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>\n……もぐもぐもぐ、ごっくん。\n<PAGE>\nはーい、パパ。ごめんなさい〜…。\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\nよし、いい子ダ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>エヘヘ〜♪"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildGirl_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、\n好ききらいはしてないカ？\nちゃんと食べないと大きくなれないゾ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nだいじょうぶだよ！\nわたしね、たくさん食べて早く大きくなって\nそれでね、パパとけっこんするの〜♪\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\nハハッ、そうカ。\n大きくなるのが楽しみだナ。\n<PAGE>\nけど、ママの何倍もいい女にならないと\nパパを落とすのはむずかしいゾ。\nパパは、ママにゾッコンだからナ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildGirl_Craftman",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nわたしは、好きなものは\n最後に食べたいなって思うんだけど…\nパパは？　最初と最後どっち？\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\nそりゃ、最初だナ。\n後回しにして、満腹で食べられなくなったり\nだれかにとられたりしたらこまるダロ。\n<PAGE>\nそれに、好きなものが目の前にあって\n手を出さずにいられるほど\nオレは、ガマン強くないからナ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>\nそうなの？\nパパ、すごくガマン強そうなのにー。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildGirl_Craftman",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nパパ、はいあーん。\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\n…ん、ウマイ。\nアリンガ、<CHILD_NAME>。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>じゃあ、つぎは\nパパがママにしてあげて！\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\n…だってさ、<_____MYNAME_____>。\nはい、アーン。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>\nあれ、ママ顔まっかよ！\nタコさんみたい。なんでー？\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\nハハッ、ママはてれ屋だからナ。\nすぐ赤くなル。カワイイよナ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nうん、ママかわいいー♪"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildGirl_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、口元よごれてるゾ。\nよし、とれタ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>ありがとう、パパ！\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\nどういたしまして…って、ン？\n<_____MYNAME_____>も、ついてるゾ。\n<PAGE>\n<FACE_LAUGH>ハハッ、さすが親子だナ。\nそういうところ、ソックリダ。\n<_____MYNAME_____>のも、とってやろうカ？"
+    },
+    {
+      "VardId": "MES_MEALDEMO_REQUEST_COMMENT_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nリクエストしてくれた\n<BLUE><____ITEMNAME0____></BLUE>の味はどうダ？\nうまくできてるといいんだガ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_BREAKFAST_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\n朝食のおかげで目が覚めたナ。\n今日も一日、おたがい\n元気にがんばろうゼ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_LUNCH_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nさて、午後もがんばるカ。\n<_____MYNAME_____>も、\nいそがしいだろうが無理はするなヨ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_DINNER_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\n今日も一日、オツカレ。\n後でマッサージでもしてやろうカ？\nうで前はババサマのおすみつきだゼ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_BREAKFAST_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\n朝食のおかげで目が覚めたナ。\n今日も一日、おたがい\n元気にがんばろうゼ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_LUNCH_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nさて、午後もがんばるカ。\n<_____MYNAME_____>も、\nいそがしいだろうが無理はするなヨ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_DINNER_Craftman",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\n今日も一日、オツカレ。\n後でマッサージでもしてやろうカ？\nうで前はババサマのおすみつきだゼ。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_REQUEST_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>の料理、\nとっても楽しみです。\n今日のメニューはなんですか？\n<PAGE>\nもしまだ決まっていないなら、わたし\nあなたの作った<BLUE><____ITEMNAME0____></BLUE>が\n食べたいなあ…なんて。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_ITADAKI_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nいただきます。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_GOTI_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nごちそうさまでした。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_NORMAL_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nおいしいです。\n家族で食べると、一人で食べるよりも\nずっとおいしく感じられますね。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_GOOD_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nこの料理、すごくおいしい！\nどうやったらこんな味になるんですか？\nぜひ、作り方を教えてほしいです。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_BRAVO_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nわっ、<_____MYNAME_____>…\nこの料理、とってもおいしいです！\n料理人になれちゃいますよ！"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nわあ、わたしの大好きな\n<BLUE><____ITEMNAME0____></BLUE>！\nうれしいです！"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_BIRTHDAY_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nわあ、わたしの大好きな\n<BLUE><____ITEMNAME0____></BLUE>を\n誕生日に作ってくれるなんてうれしいです！"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_MARRIAGE_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nわあ、わたしの大好きな\n<BLUE><____ITEMNAME0____></BLUE>を\n結婚記念日に作ってくれるなんてうれしい！"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_REQUEST_COMMENT_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nあっ、この料理は…うれしい！\nわたしのワガママを聞いてくれて\nありがとうございます。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nでは、食事の準備をしてきますね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nそうだ、<_____MYNAME_____>。\nなにかリクエストはありますか？"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_00_Florist",
+      "Text": "<____ITEMNAME0____>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_01_Florist",
+      "Text": "<____ITEMNAME1____>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_02_Florist",
+      "Text": "<____ITEMNAME2____>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_OK_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nわかりました。\nでは、それを作りますね！\n待っていてください。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_ITADAKI_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nお待たせしました。\nでは、食べましょうか。\nいただきます。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_GOTI_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nごちそうさまでした。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_00_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\n５才のころ、母に教えてもらいながら\n初めてキッシュを焼いたのですが…\n<PAGE>\n作っている間、父が後ろでずっと\nそわそわと声をかけたり\n手を出そうとするものですから、\n<PAGE>\nいつも温厚な母がおこって\n父をキッチンからつまみだしたんです。\nそれがあまりに印象的だったんでしょうね。\n<PAGE>\n<FACE_LAUGH>今でも、初めて作ったキッシュの味や\n仕上がりよりも、\n<PAGE>\n父の泣きべその方が\n鮮明に思い出されてしまいます。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_01_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>と結婚してから、\n<_____MYNAME_____>の奥さんとしてほかの\n町の人と交流する機会がふえたんです。\n<PAGE>\n<FACE_LAUGH>おかげで、いろんな方から\nいろんな料理のレシピを教えてもらえて\nレパートリーもずいぶんとふえましたよ！\n<PAGE>\n<FACE_LOSS>…といっても、ほかの町の料理は\nまだまだ勝手がつかめず\n失敗してしまうことも多いのですけれど。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_02_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_SAD>\r\n……くしゅっ。\n<PAGE>\n<FACE_LOSS>す、すみませんいきなり\nくしゃみが…冷えたのかしら。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_03_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>、\nはい、あーん。\nフフッ、急にごめんなさい。\n<PAGE>\nこの間、キャリーさんがブラッドさんに\nこうしていたのを思い出して…\nつい、やりたくなっちゃいました。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_04_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nそんなにじっと見て…\nどうしたんですか？\nわたしの顔、なにかついてます？\n<PAGE>\n<FACE_LAUGH>え、特に意味はない？\nフフッ、なんですかそれ。\n<PAGE>\n<FACE_LOVE>あなたに見つめられていると、\n照れてごはんが進みませんから、\n<PAGE>\n続きはごはんの後にしてくれると、\nうれしいです…。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_05_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事って\nいいですよね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_06_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事って\nいいですよね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_07_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事って\nいいですよね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_08_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事って\nいいですよね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_09_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事って\nいいですよね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildBoy_Florist",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n…それへえ、ひょう\nほんなほとがあって…！\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_ANGRY>\nダメよ、<CHILD_NAME>。\n口の中にものをいれたまましゃべるのは\nおぎょうぎが悪いわ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>\n……もぐもぐもぐ、ごっくん。\n<PAGE>\nはーい、ママ。ごめんなさい〜…。\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\nはい、よくできました。\nつぎからは気をつけようね。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>は〜い♪"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildBoy_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、好ききらいはダメよ。\nちゃんと食べないと\n大きくなれないわ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nうん、ボク好ききらいせずに\nたくさん食べて早く大きくなるよ！\nそれで、ママとけっこんするんだ〜♪\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\nあら…ウフフ、うれしい。\nこういう親子のやりとりって、じつは\nちょっとあこがれてたんですよね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildBoy_Florist",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nボク、好きなものは\n最後に食べたいんだ〜♪\nママは？　最初と最後どっち？\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\nうーん、最後かな？\nやっぱり物語と同じで、最後が一番\n幸せな気分で終われた方がいいもの。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>\nそうなんだー！\nじゃあ、ボクと同じだね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildBoy_Florist",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nママ、これ食べさせて！\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\nあら、<CHILD_NAME>ってば\nあまえんぼうさんね。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>エヘヘッ。\nだって好きな人に食べさせてもらった方が\nおいしく感じるんだもん♪\n<PAGE>\nそうだ、ママもパパにやってもらいなよ！\nはい、あーん！\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\nえっ？\nえーっと……あーん？\n<PAGE>\n<FACE_LOVE>…確かに、何倍もおいしく感じますね。\nでも…ちょっとてれちゃいます…。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nパパもママも顔まっかだ！\nタコさんみたい。変なのー！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildBoy_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、ほっぺたに\n食べかすがついているわ。\n…はい、とれた。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>ありがとう、ママ！\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\nどういたしまして…あら？\n大きな子どもがいるみたいですね。\n<_____MYNAME_____>も、ついてますよ。\n<PAGE>\n<FACE_LAUGH>はい、とれました。\nフフ、そういうところまで\n親子でソックリなんですから。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildGirl_Florist",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n…それへえ、ひょう\nほんなほとがあって…！\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_ANGRY>\nダメよ、<CHILD_NAME>。\n口の中にものをいれたまましゃべるのは\nおぎょうぎが悪いわ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>\n……もぐもぐもぐ、ごっくん。\n<PAGE>\nはーい、ママ。ごめんなさい〜…。\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\nはい、よくできました。\nつぎからは気をつけようね。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>は〜い♪"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildGirl_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、好ききらいはダメよ。\nちゃんと食べないと\n大きくなれないわ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nうん、わたし好ききらいせずに\nたくさん食べて早く大きくなるわ！\nそれで、パパとけっこんするの〜<RED>∀</RED>\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\n…だそうですよ、<_____MYNAME_____>。\nフフッ、父親みょうりにつきますね。\nでもちょっぴり、やけちゃいます。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildGirl_Florist",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nわたしは、好きなものは\n最後に食べたいなって思うんだけど…\nママは？　最初と最後どっち？\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\nうーん、最後かな？\nやっぱり物語と同じで、最後が一番\n幸せな気分で終われた方がいいもの。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nそっかー！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildGirl_Florist",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nママ、これ食べさせて！\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\nあら、<CHILD_NAME>ってば\nあまえんぼうさんね。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>ウフフッ。\nだって好きな人に食べさせてもらった方が\nおいしく感じるんだもん♪\n<PAGE>\nそうだ、ママもパパに\nやってもらったら？\nはい、あーん！\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\nえっ？\nえーっと……あーん？\n<PAGE>\n<FACE_LOVE>…確かに、何倍もおいしく感じますね。\nでも…ちょっとてれちゃいます…。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nパパもママも顔まっかよ！\nタコさんみたい。変なのー！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildGirl_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、ほっぺたに\n食べかすがついているわ。\n…はい、とれた。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>ありがとう、ママ！\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\nどういたしまして…あら？\n大きな子どもがいるみたいですね。\n<_____MYNAME_____>も、ついてますよ。\n<PAGE>\n<FACE_LAUGH>はい、とれました。\nフフ、そういうところまで\n親子でソックリなんですから。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_REQUEST_COMMENT_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nリクエストいただいたので\nいつも以上にはりきっちゃいました♪\nお口に合うといいのですが…。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_BREAKFAST_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nおたがい、今日も一日ケガや\n病気に気を付けてがんばりましょう。\nいってらっしゃい。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_LUNCH_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nふふ、食事と愛情の力はすごいですね。\nごはんとあなたを充電したので\n午後からもたくさんがんばれそうです♪"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_DINNER_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\n今日もあっという間の一日でしたね。\n<_____MYNAME_____>の仕事も\n今日はもう終わりですか？\n<PAGE>\n<FACE_LOVE>もし終わっているなら夜は\nゆっくりあなたといっしょに\n過ごしたいのですが…ダメですか？"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_BREAKFAST_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nおたがい、今日も一日ケガや\n病気に気を付けてがんばりましょう。\nいってらっしゃい。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_LUNCH_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nふふ、食事と愛情の力はイダイですね。\nごはんとあなたを充電したので\n午後からもたくさんがんばれそうです♪"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_DINNER_Florist",
+      "Text": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\n今日もあっという間の一日でしたね。\n<_____MYNAME_____>の仕事も\n今日はもう終わりですか？\n<PAGE>\n<FACE_LOVE>もし終わっているなら夜は\nゆっくりあなたといっしょに\n過ごしたいのですが…ダメですか？"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_REQUEST_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nあんたが作ってくれるなら、うち\n<BLUE><____ITEMNAME0____></BLUE>が食べたいな〜。\nよかったら作ってくれへん？"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_ITADAKI_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nいただきます！"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_GOTI_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nごちそうさま〜！"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_NORMAL_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nうん、おいしいおいしい。\nこれぞ家庭の味って感じやわ。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_GOOD_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nめっちゃおいしいやん！\nこれは、妻として負けてられへんわ。\n特訓せな…けど、その前におかわりいい？"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_BRAVO_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nなにこれ、めっちゃおいしい…！\nあんたいいおヨメさんになれるで〜！\n……って、ちゃうやん。\n<PAGE>\n<FACE_NORMAL>うちのおムコさんなんやから\nよそへおヨメに行かれたらこまるわ…。\n<PAGE>\nいいおヨメさんにならなあかんの、\nうちの方や。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nあっ、<BLUE><____ITEMNAME0____></BLUE>や！\nうちこれめっちゃ好きやねん。\n作ってくれて、ありがとう！"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_BIRTHDAY_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nあっ、<BLUE><____ITEMNAME0____></BLUE>や！\nえ、誕生日やからうちの好きなもの\n作ってたん？　ありがとう！"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_MARRIAGE_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nあっ、<BLUE><____ITEMNAME0____></BLUE>や！\nえ、結婚記念日やからうちの\n好きなもの作ってたん？　ありがとう！"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_REQUEST_COMMENT_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nあっ、これうちが食べたいって言ってた\n<BLUE><____ITEMNAME0____></BLUE>！\n作ってくれて、ありがとう！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nそしたら、食事の準備してくるわ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nそうや、<_____MYNAME_____>。\nなんか食べたいものとかある？"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_00_TeaGirl",
+      "Text": "<____ITEMNAME0____>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_01_TeaGirl",
+      "Text": "<____ITEMNAME1____>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_02_TeaGirl",
+      "Text": "<____ITEMNAME2____>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_OK_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nん、まかせときー！\nぱぱっと作って来るわ！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_ITADAKI_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nこれで全部やな。\nよし、じゃあ食べよっか。\nいただきます！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_GOTI_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nごちそうさま〜！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_00_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOSS>\r\nうちの料理のうでが\nいつまでたっても中の下止まりなんは\nたぶん、うちがガサツなせいやな。\n<PAGE>\n計量とか皮むきとか…\nうち、そういう細かい作業が\nほんまに苦手やねん。\n<PAGE>\nこれでも練習して、ちょっとは\nマシになったはずなんやけどなあ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_01_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\n子どものころによく食べた料理とか\nなつかしい味つけのことを\n「おふくろの味」とか言うやん？\n<PAGE>\nあれ、うちの場合やったら\nなんの料理になるんかなーって\n考えてみてんけど…\n<PAGE>\n考えるまでもなく\n「白ごはん」と「みそ汁」やったわ。\nおかあちゃん言うたらそれしか浮かばん。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_02_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_SAD>\r\n……はくちっ！\n<PAGE>\n<FACE_LOSS>あ〜、あんたの言いたいことはわかるで。\nうちのくしゃみってなんか変やんな〜。\n<PAGE>\n…えっ、ちょっとかわいかった？\n<PAGE>\n<FACE_LOVE>くしゃみにかわいいもなんもないやろ！\nもうっ、テキトウなこと言って…！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_03_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nこの間、店のお客さんが\n食べさせあいっこしててな。\nもう、めっちゃ熱々やったわ〜。\n<PAGE>\n<FACE_LOVE>…あっ、ちゃうで！？\n<_____MYNAME_____>とそういうことが\nしたいってことちゃうから！！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_04_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nそんなに見つめられるとてれるねんけど…。\nうちの顔、なんかついてる？\n……え、なんとなく見てただけ？\n<PAGE>\n<FACE_LAUGH>あはは、なんやのそれ。\nまあ、口に食べかすついてるとか\nちゃうんやったら、ひと安心やわ！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_05_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事って\nやっぱりいいな〜。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_06_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事って\nやっぱりいいな〜。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_07_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事って\nやっぱりいいな〜。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_08_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事って\nやっぱりいいな〜。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_09_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事って\nやっぱりいいな〜。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildBoy_TeaGirl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n…それへえ、ひょう\nほんなほとがあって…！\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_ANGRY>\nこら〜、口の中にものをいれたまま\nしゃべってる悪い子はだれや？\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>\n……もぐもぐもぐ、ごっくん。\nはーい、ママ。ごめんなさい〜…。\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\nん、いい子やね。\nよしよし♪\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>エヘヘ〜♪"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildBoy_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、好ききらいはあかんで。\nちゃんと食べんといつまでたっても\n大きくなれへんからな。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nうん、ボク好ききらいせずに\nたくさん食べて早く大きくなるよ！\nそれで、ママとけっこんするんだ〜♪\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\nちょっと、<_____MYNAME_____>聞いた？\nめっちゃかわいいこと言うねんけど\nうちの子！　どうしようこれ！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildBoy_TeaGirl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nボク、好きなものは\n最後に食べたいんだ〜♪\nママは？　最初と最後どっち？\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\nそうやな〜、うちは最初かな！\n好きなものを前にガマンとか無理やわ。\n<CHILD_NAME>は根性あるな〜。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nエヘヘ〜、ほめられちゃった♪"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildBoy_TeaGirl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nママ、これ食べさせて！\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\n<CHILD_NAME>は\nあまえんぼうやなあ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>エヘヘッ。\nだって好きな人に食べさせてもらった方が\nおいしく感じるんだもん♪\n<PAGE>\nそうだ、ママもパパにやってもらいなよ！\nはい、あーん！\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\nえっ、ええ！？\nいやそれはちょっと…\nううっ……あ、あーん……。\n<PAGE>\n<FACE_LOVE>……あかん…っ。\nはずかしすぎて、味せえへん…！\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nママ、顔まっかだ！\nタコさんみたい。変なのー！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildBoy_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、ほっぺた。\n食べかすついてるで。\n…はい、とれた！\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>ありがとう、ママ！\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\nどういたしまして…って、あれ？\n<_____MYNAME_____>も、ついてるやん。\n<PAGE>\n<FACE_LAUGH>…はい、とれたで！\nあんたら、ほんま似た者親子やな〜。\n見てて面白いわ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildGirl_TeaGirl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n…それへえ、ひょう\nほんなほとがあって…！\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_ANGRY>\nこら〜、口の中にものをいれたまま\nしゃべってる悪い子はだれや？\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>\n……もぐもぐもぐ、ごっくん。\nごめんなさい〜…。\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\nん、いい子やね。\nよしよし♪\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>エヘヘ〜♪"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildGirl_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、好ききらいはあかんで。\nちゃんと食べんといつまでたっても\n大きくなれへんからな。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nうん、わたし好ききらいせずに\nたくさん食べて早く大きくなるわ！\nそれで、パパとけっこんするの〜<RED>∀</RED>\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\n<_____MYNAME_____>と結婚したいって？\n<PAGE>\nそれやったら、大きくなるだけやなく\n正妻である、うちをたおしてもらわなっ！\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>せいさい？\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_SAD>あ、あかん。\n完全に言葉選びまちがったわ。\n伝わってない。ボケぞんやった…！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildGirl_TeaGirl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nわたしは、好きなものは\n最後に食べたいなって思うんだけど…\nママは？　最初と最後どっち？\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\nそうやな〜、うちは最初かな！\n好きなものを前にガマンとか無理やわ。\n<CHILD_NAME>は根性あるな〜。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nエヘヘ〜、ほめられちゃった♪"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildGirl_TeaGirl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nママ、これ食べさせて！\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\n<CHILD_NAME>は\nあまえんぼうやなあ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>ウフフッ。\nだって好きな人に食べさせてもらった方が\nおいしく感じるんだもん♪\n<PAGE>\nそうだ、ママもパパに\nやってもらったら？\nはい、あーん！\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\nえっ、ええ！？\nいや…ううっ……あ、あーん……。\n<PAGE>\n<FACE_LOVE>……あかん…なんやこれ…っ。\nはずかしすぎて、味せえへん…！\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nママ、顔まっかよ！\nタコさんみたい。変なのー！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildGirl_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、ほっぺた。\n食べかすついてるで。\n…はい、とれた！\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>ありがとう、ママ！\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\nどういたしまして…って、あれ？\n<_____MYNAME_____>も、ついてるやん。\n<PAGE>\n<FACE_LAUGH>…はい、とれたで！\nあんたら、ほんま似た者親子やな〜。\n見てて面白いわ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_REQUEST_COMMENT_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>ご要望の\n<BLUE><____ITEMNAME0____></BLUE>の味はどない？\nあんたの口に合ったらうれしいわ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_BREAKFAST_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nおなかもいっぱいになったことやし\n今日も一日元気にがんばろな♪"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_LUNCH_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>はこの後も仕事？\n無理しすぎたらあかんで！\nいってらっしゃい。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_DINNER_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nあっという間の一日やったな〜。\nあとは、寝るまでいっしょに\nまったりと家族の時間を過ごそうな♪"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_BREAKFAST_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nおなかもいっぱいになったことやし\n今日も一日元気にがんばろな♪"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_LUNCH_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>はこの後も仕事？\n無理しすぎたらあかんで！\nいってらっしゃい。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_DINNER_TeaGirl",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nあっという間の一日やったな〜。\nあとは、寝るまでいっしょに\nまったりと家族の時間を過ごそうな♪"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_REQUEST_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\n今日のこんだてですが…\n<PAGE>\nもし決まっていないのなら、\n<BLUE><____ITEMNAME0____></BLUE>を\n作っていただけると、うれしいです。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_ITADAKI_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nいただきます。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_GOTI_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nごちそうさまでした。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_NORMAL_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nおいしいです。\n作ってくださって\nありがとう存じます。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_GOOD_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nとてもおいしいです。\nあなたは本当に料理がお上手ですね。\nわたしももっと精進せねばなりません。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_BRAVO_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nおいしい…！\nこんなにおいしいなんて…\n<PAGE>\nいったいなにをどうすれば、\nこれほどの味になるのです？"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nわたしの好きな料理を\n作ってくださったのですか？\nうれしい…。ありがとう存じます。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_BIRTHDAY_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nわたしの誕生日のために好物を\n作ってくださったのですか？\nうれしい…。ありがとう存じます。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_MARRIAGE_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nわたしたちの結婚記念日にわたしの\n好物を作ってくださったのですか？\nうれしい…。ありがとう存じます。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_REQUEST_COMMENT_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nわたしの食べたいと言っていた\n料理を作ってくださったのですね。\nありがとう存じます。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nでは、食事の準備をしてきますね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nなにか食べたいものはありますか？\n要望があるのなら、できるだけ\n応えさせていただきますが。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_00_Teacher",
+      "Text": "<____ITEMNAME0____>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_01_Teacher",
+      "Text": "<____ITEMNAME1____>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_02_Teacher",
+      "Text": "<____ITEMNAME2____>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_OK_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nわかりました。\nそれでは、がんばって\nうでをふるうとしましょう。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_ITADAKI_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nいただきます。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_GOTI_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nごちそうさまでした。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_00_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\n和食ならば自信があるのですが\n洋食となると、とたんに\n要領を得ないと言いますか…。\n<PAGE>\n<FACE_LOSS>\n料理本を見ても、聞きなれぬ材料や\n単語を前に、首をかしげるばかりで。\n<PAGE>\nどうやら、わたしにとっては\n下手な問題集よりも異国の料理本の方が\nよほど難解に感じられるようです。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_01_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\n実家をはなれて以来\n一人の食事にもずいぶんなれ\nそれがふつうとなりつつありましたが…\n<PAGE>\nやはり、こうして家族と共に\n食事をするというのはいいですね。\n<PAGE>\n<FACE_LOVE>…食事時に限らず、\nあなたと過ごす時間はいつだって\n心地のよいものではありますが。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_02_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_SAD>\r\n……くしゅんっ。\n<PAGE>\nしょ、食事中に\nすみませ…くしゅんっ！\n<PAGE>\n<FACE_LOSS>こんなに続けざまにでるなんて\n…もしや、だれかが\nウワサ話でもしているのでしょうか？"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_03_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nウェスタウンの食事処の\nご夫婦は本当に仲がよいですね。\n<PAGE>\n<FACE_LOVE>先日も…いわゆる食べさせあいを\nしているところに立ち会ってしまい…\n少々気まずい思いをしました。\n<PAGE>\n…その期待のまなざしはなんです？\nなぜ、口をあけるのですか。\nわたしは食べさせあいなどしませんよ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_04_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_LOVE>\r\nな、なんです？\n食事中の顔をじっと見つめるなど\nあまり感心できることではありませんよ。\n<PAGE>\n…食べ方がキレイで見とれた？\nそ、そうですか。\nそれは…ありがとう存じます。\n<PAGE>\n<FACE_LAUGH>食事の作法は幼少より\nきびしくしつけられましたので\nキレイと言われるとほこらしいですね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_05_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事というのは\nやはりよいものですね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_06_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事というのは\nやはりよいものですね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_07_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事というのは\nやはりよいものですね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_08_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事というのは\nやはりよいものですね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_09_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事というのは\nやはりよいものですね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildBoy_Teacher",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n…それへえ、ひょう\nほんなほとがあって…！\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_ANGRY>\n<CHILD_NAME>、口の中にものを\n入れながらしゃべるなど\nぎょうぎが悪いですよ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>\n……もぐもぐもぐ、ごっくん。\n<PAGE>\nはーい、ママ。ごめんなさい〜…。\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\n素直にあやまれたのはえらいですね。\nですが、つぎからは気を付けること。\nいいですね？\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>は〜い！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildBoy_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、好ききらいはいけませんよ。\nなんでもよく食べなければ\n大きくなれませんからね。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nうん、ボク好ききらいせずに\nたくさん食べて早く大きくなるよ！\nそれで、ママとけっこんするんだ〜♪\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\nふふ、それは楽しみですね。\n<PAGE>\nそういえばわたしも、父の花ヨメになると\n言っていた時期がありました。\n<PAGE>\n<_____MYNAME_____>はどうですか？\n子なら、だれもが通る道なのでしょうか。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildBoy_Teacher",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nボク、好きなものは\n最後に食べたいんだ〜♪\nママは？　最初と最後どっち？\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\nそうですね…。\nしいて言うならば最後でしょうか。\n<PAGE>\n幼少のおりには、月見うどんの卵を\nくずさずに最後に食べる…といった妙な\n食べ方をしていたような気がします。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nそうなんだー！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildBoy_Teacher",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nママ、これ食べさせて！\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LOSS>\nこら、<CHILD_NAME>。\n赤子ではないのですから…\nいつまでもあまえていてはいけませんよ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>エヘヘッ。\nだって好きな人に食べさせてもらった方が\nおいしく感じるんだもん♪\n<PAGE>\nそうだ、ママもパパにやってもらいなよ！\nはい、あーん！\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\nな、なにを言いだすのですか！\n…というか、<_____MYNAME_____>もなぜ\nそんなにやる気に満ちているのです！？\n<PAGE>\n<FACE_LOVE>…わ、わかりました！\n観念すればいいのでしょう！？\n……あーん。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>ママ、顔まっかだ！\nタコさんみたい。変なのー！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildBoy_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、ほおに\n食べかすがついていますよ。\n…はい、とれました。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>ありがとう、ママ！\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LOSS>\n…<_____MYNAME_____>、あなたもですか。\nそしてその期待に満ちた目はなんです。\nまったく、しょうがない人たちですね。\n<PAGE>\n<FACE_LAUGH>\nですが、本当にしょうがないのは\nそんなところも愛しいと思い、つい手を\n貸してしまうわたし自身なのでしょうね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildGirl_Teacher",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n…それへえ、ひょう\nほんなほとがあって…！\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_ANGRY>\n<CHILD_NAME>、口の中にものを\n入れながらしゃべるなど\nぎょうぎが悪いですよ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>\n……もぐもぐもぐ、ごっくん。\nはーい、ママ。ごめんなさい〜…。\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\n素直にあやまれたのはえらいですね。\nですが、つぎからは気を付けること。\nいいですね？\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>は〜い！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildGirl_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、好ききらいはいけませんよ。\nなんでもよく食べなければ\n大きくなれませんからね。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nうん、わたし好ききらいせずに\nたくさん食べて早く大きくなるわ！\nそれで、パパとけっこんするの〜♪\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\n…だそうですよ、<_____MYNAME_____>。\n子にここまで思われるとは\n父親みょうりにつきますね。\n<PAGE>\nそういえば、わたしも幼少のおりには\n父の花ヨメになると言っていたものです。\nふふ、なつかしい。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildGirl_Teacher",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nわたしは、好きなものは\n最後に食べたいなって思うんだけど…\nママは？　最初と最後どっち？\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\nそうですね…。\nしいて言うならば最後でしょうか。\n<PAGE>\n幼少のおりには、月見うどんの卵を\nくずさずに最後に食べる…といった妙な\n食べ方をしていたような気がします。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nそうなんだー！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildGirl_Teacher",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nママ、これ食べさせて！\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LOSS>\nこら、<CHILD_NAME>。\n赤子ではないのですから…\nいつまでもあまえていてはいけませんよ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>ウフフッ。\nだって好きな人に食べさせてもらった方が\nおいしく感じるんだもん♪\n<PAGE>\nそうだ、ママもパパに\nやってもらったら？\nはい、あーん！\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\nな、なにを言いだすのですか！\n…というか、<_____MYNAME_____>もなぜ\nそんなにやる気に満ちているのです！？\n<PAGE>\n<FACE_LOVE>…わ、わかりました！\n観念すればいいのでしょう！？\n……あーん。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>ママ、顔まっかよ！\nタコさんみたい。変なのー！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildGirl_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、ほおに\n食べかすがついていますよ。\n…はい、とれました。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>ありがとう、ママ！\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LOSS>\n…<_____MYNAME_____>、あなたもですか。\nそしてその期待に満ちた目はなんです。\nまったく、しょうがない人たちですね。\n<PAGE>\n<FACE_LAUGH>ですが、本当にしょうがないのは\nそんなところも愛しいと思い、つい手を\n貸してしまうわたし自身なのでしょうね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_REQUEST_COMMENT_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\n<BLUE><____ITEMNAME0____></BLUE>の味はどうですか？\nあなたが食べたいと言ってくださったので\nついはりきってしまいました。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_BREAKFAST_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\n朝食もきちんととりましたし\n活力は十分ですね。\n今日も一日、がんばりましょう。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_LUNCH_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nおたがい、食後の眠気に負けぬよう\nがんばりましょう。\nでは、いってらっしゃいませ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_DINNER_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nおつかれさまでした。\nたとえ、仕事がいそがしくとも\n夜はゆっくり休むように。\n<PAGE>\n<FACE_LOVE>…そして、眠るまでの時間を\nできるだけわたしのそばで\n過ごしてください。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_BREAKFAST_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\n朝食もきちんととりましたし\n活力は十分ですね。\n今日も一日、がんばりましょう。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_LUNCH_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nおたがい、食後の眠気に負けぬよう\nがんばりましょう。\nでは、いってらっしゃいませ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_DINNER_Teacher",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nおつかれさまでした。\nたとえ、仕事がいそがしくとも\n夜はゆっくり休むように。\n<PAGE>\n<FACE_LOVE>…そして、眠るまでの時間を\nできるだけわたしのそばで\n過ごしてください。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_REQUEST_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nねえ、<_____MYNAME_____>。\n<BLUE><____ITEMNAME0____></BLUE>作っテ♪\nカワイイ妻のお願い、聞いてくれるわよネ？"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_ITADAKI_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nいただきマス。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_GOTI_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nごちそうサマ。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_NORMAL_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nフーン。\n悪くないわネ。\nまあまあの味じゃナイ？"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_GOOD_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nへえ、けっこうやるじゃないノ。\nおいしいわ、コレ。\n気にいっちゃっタ！"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_BRAVO_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nな、なにコレ！\nなんでこんなにおいしいノ…？\nヤバイわ…食べ過ぎちゃいソウ…。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nこれって、アタシの大好きな\n<BLUE><____ITEMNAME0____></BLUE>じゃナイ。\nいい仕事ネ！　ほめてあげるワ♪"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_BIRTHDAY_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nこれって、アタシの大好きな\n<BLUE><____ITEMNAME0____></BLUE>じゃナイ。\n<PAGE>\nもしかして、誕生日だカラ？\nいい仕事ネ！\nほめてあげるワ♪"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_MARRIAGE_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nこれって、アタシの大好きな\n<BLUE><____ITEMNAME0____></BLUE>じゃナイ。\n<PAGE>\nもしかして、結婚記念日だカラ？\nいい仕事ネ！\nほめてあげるワ♪"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_REQUEST_COMMENT_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nあ、これ…\nアタシがリクエストした料理…。\n本当に作ってくれたんダ。\n<PAGE>\n<FACE_LOVE>ア、アタシのワガママ聞いてくれて\nアリンガ、<_____MYNAME_____>。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nそれじゃ、ごはんの準備してくるわネ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nそうだ、アンタ今\nなにか食べたいものとかアル？"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_00_TwinOlder",
+      "Text": "<____ITEMNAME0____>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_01_TwinOlder",
+      "Text": "<____ITEMNAME1____>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_02_TwinOlder",
+      "Text": "<____ITEMNAME2____>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_OK_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nふーん、それじゃ仕方ないから\nリクエストに応えて作ってあげル。\n待ってなサイ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_ITADAKI_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nいただきマス。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_GOTI_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nごちそうサマ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_00_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\n料理を作るのってむずかしいし\n大変だしで、結婚する前は\nシゥカにたよりきりだったケド…\n<PAGE>\n<FACE_LAUGH>こうしてアンタのために作るように\nなってからは、ほんのちょっとだけ\n料理の楽しさがわかるようになったワ。\n<PAGE>\n<FACE_NORMAL>…まあ、楽しさがわかるように\nなったっていうだけで、失敗する回数が\n減ったわけじゃないんだケド。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_01_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_SAD>\r\n最近、シゥカに頼んで\n料理を教えてもらってるんだけど、\nあの子、けっこうスパルタなのよネ…。\n<PAGE>\nこの間なんて、センイの方向が\nどうとか言って野菜を切るだけで\n一日が終わったんだカラ…。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_02_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_SAD>\r\n……ヒャッ！？\n<PAGE>\n<FACE_LOSS>いった〜…うう、最悪…。\nほおの内側かんじゃったワ…。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_03_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nこの間、店に来たお客さんが\n食事を食べさせあってたんだけど\nああいうのをバカップルっていうのかしラ。\n<PAGE>\n…一応言っとくけど、アタシはアンタと\n食べさせあいなんてしないわヨ。\n<PAGE>\n<FACE_LOSS>そ、そんな小動物っぽい\nうるうるした目で見つめられても\nダメなものは、ダメだカラ！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_04_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nナニ？\nそんなにじっと見つめてきて…\nアタシに見とれてるワケ？\n<PAGE>\n<FACE_LOVE>な…っ、そこは\nうなずくとこじゃないデショ！\nバカ！　バカー！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_05_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事って\nやっぱりいいわネ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_06_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事って\nやっぱりいいわネ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_07_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事って\nやっぱりいいわネ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_08_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事って\nやっぱりいいわネ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_09_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事って\nやっぱりいいわネ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildBoy_TwinOlder",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n…それへえ、ひょう\nほんなほとがあって…！\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>\nあら、口の中にものを入れながら\nしゃべる悪い子がいるみたいネ〜？\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>\n……もぐもぐもぐ、ごっくん。\nごめんなさい〜…。\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\nそう、そうやってちゃんと\n飲みこんでからしゃべらないとネ。\nいい子ね、<CHILD_NAME>。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>エヘヘ〜♪"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildBoy_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、好ききらいはダメよ。\n残さずしっかり食べなサイ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nうん、ボク好ききらいせずに\nたくさん食べて早く大きくなるよ！\nそれで、ママとけっこんするんだ〜♪\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\nあら、アタシをおヨメさんにしようなんて\nわが子ながら、なかなか\n目のつけどころがいいわネ！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildBoy_TwinOlder",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nボク、好きなものは\n最後に食べたいんだ〜♪\nママは？　最初と最後どっち？\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\nもちろん、最初ヨ。\n後に残しておいて、おなかがいっぱいで\n入らなくなったらこまるじゃナイ？\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>\nそっかー、そうかも！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildBoy_TwinOlder",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nママ、これ食べさせて！\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\n<CHILD_NAME>ったら\nいつまでたってもあまえんぼうネ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>エヘヘッ。\nだって好きな人に食べさせてもらった方が\nおいしく感じるんだもん♪\n<PAGE>\nそうだ、ママもパパにやってもらいなよ！\nはい、あーん！\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\nちょ…っ、なに言ってるのヨ！\n…アンタも、なにノリノリで\n食べさせようとしちゃってるワケ！？\n<PAGE>\n<FACE_LOVE>…ま、まったく、モウ。\n今回だけだからネ！\n………アーン。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>ママ、顔まっかだ！\nタコさんみたい。変なのー！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildBoy_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、口元。\n食べかすがついてるわヨ。\n…はい、とれたワ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>ありがとう、ママ！\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\nどういたしまして…って、アラ？\n<_____MYNAME_____>もついてるわヨ。\n<PAGE>\n<FACE_LAUGH>アンタたち、そういうところ\n本当にソックリネ。\nまったく、手のかかる親子だワ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildGirl_TwinOlder",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n…それへえ、ひょう\nほんなほとがあって…！\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>\nあら、口の中にものを入れながら\nしゃべる悪い子がいるみたいネ〜？\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>\n……もぐもぐもぐ、ごっくん。\nごめんなさい〜…。\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\nそうそう、そうやってちゃんと\n飲みこんでからしゃべらないとネ。\nいい子ね、<CHILD_NAME>。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>エヘヘ〜♪"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildGirl_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、好ききらいはダメよ。\n残さずしっかり食べなサイ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nうん、わたし好ききらいせずに\nたくさん食べて早く大きくなるわ！\nそれで、パパとけっこんするの〜♪\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\nあら、<_____MYNAME_____>ったら\nモテモテじゃないノ。\n両手に花ヨ。よかったわネ♪"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildGirl_TwinOlder",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nわたしは、好きなものは\n最後に食べたいなって思うんだけど…\nママは？　最初と最後どっち？\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\nもちろん、最初ヨ。\n後に残しておいておなかがいっぱいで\n入らなくなったらこまるじゃナイ？\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>\nそっかー、そうかも！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildGirl_TwinOlder",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nママ、これ食べさせて！\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\n<CHILD_NAME>ったら\nいつまでたってもあまえんぼうネ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>ウフフッ。\nだって好きな人に食べさせてもらった方が\nおいしく感じるんだもん♪\n<PAGE>\nそうだ、ママもパパに\nやってもらったら？\nはい、あーん！\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\nちょ…っ、なに言ってるのヨ！\n…アンタも、なにノリノリで\n食べさせようとしちゃってるワケ！？\n<PAGE>\n<FACE_LOVE>…ま、まったく、モウ。\n今回だけだからネ！\n………アーン。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>ママ、顔まっかよ！\nタコさんみたい。変なのー！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildGirl_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、口元。\n食べかすがついてるわヨ。\n…はい、とれたワ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>ありがとう、ママ！\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\nどういたしまして…って、アラ？\n<_____MYNAME_____>もついてるわヨ。\n<PAGE>\n<FACE_LAUGH>アンタたち、そういうところ\n本当にソックリネ。\nまったく、手のかかる親子だワ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_REQUEST_COMMENT_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nアンタが食べたいって言ってた\n<BLUE><____ITEMNAME0____></BLUE>の味、ドウ？\nけっこう上手くできてるデショ？"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_BREAKFAST_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nそれじゃ、今日もしっかり\n仕事がんばりなさいよネ。\nいってらっしゃイ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_LUNCH_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\n今日も、もう折り返しネ。\n残りもあと少しだと思って\nがんばりまショ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_DINNER_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\n仕事はまだ残ってるノ？\nあんまり遅くまで\nがんばりすぎちゃダメよ。\n<PAGE>\n<FACE_LOVE>夜はいっしょに寝るんだカラ。\nカワイイ妻を一人で寝かせるなんて\nそんなヒドイこと…しないわよネ？"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_BREAKFAST_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nそれじゃ、今日もしっかり\n仕事がんばりなさいよネ。\nいってらっしゃイ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_LUNCH_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\n今日も、もう折り返しネ。\n残りもあと少しだと思って\nがんばりまショ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_DINNER_TwinOlder",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\n仕事はまだ残ってるノ？\nあんまり遅くまで\nがんばりすぎちゃダメよ。\n<PAGE>\n<FACE_LOVE>夜はいっしょに寝るんだカラ。\nカワイイ妻を一人で寝かせるなんて\nそんなヒドイこと…しないわよネ？"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_REQUEST_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOSS>\r\n今日は、<BLUE><____ITEMNAME0____></BLUE>が\n食べたい気分…。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_ITADAKI_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n…いただきマス。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_GOTI_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n…ごちそうサマ。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_NORMAL_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n…まずくは、ナイ。\nでもおいしいにはちょっと足りナイ。\nもうひとがんばりが、必要。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_GOOD_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>のごはん、\nおいしい…シアワセ。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_BRAVO_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nこれ、すごくおいしイ。\nもっと食べたイ。\n作り方も、教えてほしイ。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nあ…<BLUE><____ITEMNAME0____></BLUE>。\nワタシの好きなもの…\n作ってくれて、すごくうれしイ。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_BIRTHDAY_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nあ…<BLUE><____ITEMNAME0____></BLUE>。\nワタシの好きなもの…\n誕生日に作ってくれて、うれしイ。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_MARRIAGE_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nあ…<BLUE><____ITEMNAME0____></BLUE>。\nワタシの好きなもの…\n結婚記念日に作ってくれて、うれしイ。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_REQUEST_COMMENT_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nワタシが食べたいって言ってた料理…\n作ってくれたんだ…うれしイ。\nアリンガ、<_____MYNAME_____>。大好キ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nそれじゃ…\nごはん、準備してくル。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n…<_____MYNAME_____>、\n食べたいもの、アル？"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_00_TwinYounger",
+      "Text": "<____ITEMNAME0____>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_01_TwinYounger",
+      "Text": "<____ITEMNAME1____>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_02_TwinYounger",
+      "Text": "<____ITEMNAME2____>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_OK_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nん、わかっタ。\nじゃあ、今日のメニューは\nそれに決まリ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_ITADAKI_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n…いただきマス。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_GOTI_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n…ごちそうサマ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_00_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOSS>\r\n…イゥカ、ちゃんとごはん食べてるカナ。\n今まで食事はほとんどワタシが\n作ってたから、ちょっと心配…。\n<PAGE>\n<FACE_NORMAL>バッチャがいるから大丈夫だと思うケド。\nこの間も、料理したら炭になったから\nパンをかじったって言ってタ。\n<PAGE>\n<FACE_LOSS>………すごく、心配。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_01_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\n料理を作るの、元々好きだけど\n<_____MYNAME_____>と結婚してからは\nもっと好きになっタ。\n<PAGE>\n理由は…<_____MYNAME_____>が\nワタシの料理をおいしそうに\n食べてくれるから、だと思ウ。\n<PAGE>\n<FACE_LOSS>…<_____MYNAME_____>マジック？"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_02_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOSS>\r\n………ッ。\n<PAGE>\n<FACE_NORMAL>……うん、口の中かんじゃっタ。\nでも、よくわかったネ。\n<PAGE>\n<FACE_LAUGH>こういうの、イゥカ以外に\n気づかれたことないのに…\n<_____MYNAME_____>、スゴイ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_03_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>、アーン。\n…こういうの、夫婦で\nちょっとやってみたかっタ。\n<PAGE>\n<FACE_LOSS>…？\n<_____MYNAME_____>、顔まっカ？\n味つけ、からかったカナ？"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_04_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>、\nあんまりじっと見られると…\nムズムズして、ごはんに集中できナイ。\n<PAGE>\n<FACE_LOVE>…もう、イヤだって言ってるのニ。\n<_____MYNAME_____>は、時々イジワル。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_05_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事…\nおいしいネ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_06_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事…\nおいしいネ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_07_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事…\nおいしいネ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_08_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事…\nおいしいネ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_09_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n家族そろって食べる食事…\nおいしいネ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildBoy_TwinYounger",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n…それへえ、ひょう\nほんなほとがあって…！\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_ANGRY>\n…<CHILD_NAME>、それダメ。\n口の中、まだ食べ物が入ってル。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>\n……もぐもぐもぐ、ごっくん。\nはーい、ママ。ごめんなさい〜…。\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\nそう…飲みこんでからしゃべル。\nそれは正解。花マル。\n…<CHILD_NAME>、いい子。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>エヘヘ〜♪"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildBoy_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、好ききらいはダメ。\n残さず食べてネ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nうん、ボク好ききらいせずに\nたくさん食べて早く大きくなるよ！\nそれで、ママとけっこんするんだ〜♪\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\n……それは、ダメ。\nワタシはもう<_____MYNAME_____>のダカラ。\n<PAGE>\n<CHILD_NAME>は、<CHILD_NAME>だけの\n大切な人を見つけないと、ダメ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildBoy_TwinYounger",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nボク、好きなものは\n最後に食べたいんだ〜♪\nママは？　最初と最後どっち？\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\n…ワタシは、最初の方がイイ。\n後にしたら食べわすれそうダカラ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>\n食べわすれちゃうの？\nそっか、じゃあ最初の方がいいね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildBoy_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME>、ハイ。\nアーン。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>わーいっ！\nじゃあ、ボクはパパにこれあげる！\nはい、あーん！\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\nつぎは、<_____MYNAME_____>が\nワタシに食べさせる番。\n…アーン。\n<PAGE>\n<FACE_LOSS>……？\n同じものなのに、<_____MYNAME_____>が\n食べさせてくれた方がおいしイ…？"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildBoy_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、ほっぺたに\n食べかすがついてル。\n…はい、とれタ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>ありがとう、ママ！\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\n…あれ、<_____MYNAME_____>もついてル。\n<CHILD_NAME>と同じトコロ。\n<PAGE>\nフフッ、<_____MYNAME_____>と\n<CHILD_NAME>…オーラや顔だけじゃなく\nやることもソックリ。親子だカラ？"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildGirl_TwinYounger",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n…それへえ、ひょう\nほんなほとがあって…！\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_ANGRY>\n…<CHILD_NAME>、それダメ。\n口の中、まだ食べ物が入ってル。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>\n……もぐもぐもぐ、ごっくん。\n<PAGE>\nはーい、ママ。ごめんなさい〜…。\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\nそう…飲みこんでからしゃべル。\nそれは正解。花マル。\n…<CHILD_NAME>、いい子。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>エヘヘ〜♪"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildGirl_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、好ききらいはダメ。\n残さず食べてネ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>\nうん、わたし好ききらいせずに\nたくさん食べて早く大きくなるわ！\nそれで、パパとけっこんするの〜♪\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_ANGRY>\n……それは、ダメ。\n<_____MYNAME_____>は、ワタシノ。\n<CHILD_NAME>にだって、あげナイ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildGirl_TwinYounger",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nわたしは、好きなものは\n最後に食べたいなって思うんだけど…\nママは？　最初と最後どっち？\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\n…ワタシは、最初の方がイイ。\n後にしたら食べわすれそうダカラ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>\n食べわすれちゃうの？\nそっか、じゃあ最初の方がいいね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildGirl_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME>、ハイ。\nアーン。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>わーいっ！\nじゃあ、わたしはパパにこれあげる！\nはい、あーん！\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\nつぎは、<_____MYNAME_____>が\nワタシに食べさせる番。\n…アーン。\n<PAGE>\n<FACE_LOSS>……？\n同じものなのに、<_____MYNAME_____>が\n食べさせてくれた方がおいしイ…？"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildGirl_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>、ほっぺたに\n食べかすがついてル。\n…はい、とれタ。\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>ありがとう、ママ！\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\n…あれ、<_____MYNAME_____>もついてル。\n<CHILD_NAME>と同じトコロ。\n<PAGE>\nフフッ、<_____MYNAME_____>と\n<CHILD_NAME>…オーラや顔だけじゃなく\nやることもソックリ。親子だカラ？"
+    },
+    {
+      "VardId": "MES_MEALDEMO_REQUEST_COMMENT_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\n<BLUE><____ITEMNAME0____></BLUE>の味…\nどうだっタ？　<_____MYNAME_____>の\n口に合ったなら、うれしイ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_BREAKFAST_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>、今日も\nお仕事がんばっテ。\nいっぱい、応援してるネ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_LUNCH_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOSS>\r\nおなかいっぱいで、ねむたイ。\n…いっしょにお昼寝すル？\nダメ？　…残念。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_DINNER_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nごはんを食べた後にすることは、ヒトツ。\nのんびり過ごすコト。\nだからいっしょにのんびり、しヨ？"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_BREAKFAST_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>、今日も\nお仕事がんばっテ。\nいっぱい、応援してるネ。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_LUNCH_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOSS>\r\nおなかいっぱいで、ねむたイ。\n…いっしょにお昼寝すル？\nダメ？　…残念。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_DINNER_TwinYounger",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nごはんを食べた後にすることは、ヒトツ。\nのんびり過ごすコト。\nだからいっしょにのんびり、しヨ？"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_REQUEST_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nボクね、<BLUE><____ITEMNAME0____></BLUE>が\n食べたいな〜♪\nおねがい、作って〜！"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_ITADAKI_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nわ〜いっ、<PARENT>の作った\nごはん、うれしいな〜♪\nいただきま〜す！"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_GOTI_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nごちそうさま〜♪"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_NORMAL_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\n<PARENT>の作った\nごはん、おいしいね！"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_GOOD_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nエヘヘ、ボクね\n<PARENT>の作ったごはん大好き！\nだって、すごくおいしいんだもん♪"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_BRAVO_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nおいし〜いっ！\nほっぺたが落ちちゃいそうだよ〜♪\n<PAGE>\nやっぱり、<PARENT>の作る\nごはんは世界一だね！\nいっぱいおかわりしちゃおっと♪"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nあーっ、ボクの大好きな\n<BLUE><____ITEMNAME0____></BLUE>だ！！\nやったー♪"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_BIRTHDAY_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nあーっ、ボクの大好きな\n<BLUE><____ITEMNAME0____></BLUE>だ！！\n誕生日だから？　やったー♪"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_MARRIAGE_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nあーっ、ボクの大好きな\n<BLUE><____ITEMNAME0____></BLUE>だ！！\n結婚記念日だから？　やったー♪"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_REQUEST_COMMENT_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nわ〜い、<BLUE><____ITEMNAME0____></BLUE>だ！\nこれ、すごく食べたかったんだ♪\n作ってくれてありがとう〜！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nごはん準備してくるね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n何か食べたいものはある？"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_00_Child_Boy",
+      "Text": "<BLUE><____ITEMNAME0____></BLUE>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_01_Child_Boy",
+      "Text": "<____ITEMNAME1____>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_02_Child_Boy",
+      "Text": "<____ITEMNAME2____>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_OK_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nがんばって作るね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_ITADAKI_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nいただきま〜す！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_GOTI_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nごちそうさま〜♪"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_00_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_01_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_02_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_03_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_04_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_05_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_06_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_07_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_08_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_09_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_01_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_02_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_03_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_04_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_05_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_06_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_07_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_08_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_09_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_REQUEST_COMMENT_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_BREAKFAST_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nうーん、今日はどこで\nなにして遊ぼうかな？\nまよっちゃうな〜。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_LUNCH_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nふ〜、おなかいっぱいで\nねむくなってきちゃった。\nちょっとだけお昼寝しようかな？"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_DINNER_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nねえ、<PARENT>！\nいっしょにおふろに入ろうよ♪"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_BREAKFAST_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nうーん、今日はどこで\nなにして遊ぼうかな？\nまよっちゃうな〜。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_LUNCH_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nふ〜、おなかいっぱいで\nねむくなってきちゃった。\nちょっとだけお昼寝しようかな？"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_DINNER_Child_Boy",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nねえ、<PARENT>！\nいっしょにおふろに入ろうよ♪"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_REQUEST_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nわたし、<BLUE><____ITEMNAME0____></BLUE>が\n食べたいな〜♪\nおねがい、作って〜！"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_ITADAKI_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nわ〜いっ、<PARENT>の作った\nごはん、うれしいな〜♪\nいただきま〜す！"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_GOTI_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nごちそうさま〜♪"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_NORMAL_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\n<PARENT>の作った\nごはん、おいしいね！"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_GOOD_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nウフフ、わたし\n<PARENT>の作ったごはん大好き！\nだって、すごくおいしいんだもん♪"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_BRAVO_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nおいし〜いっ！\nほっぺた落ちちゃいそう♪\n<PAGE>\nやっぱり、<PARENT>の作る\nごはんは世界一だわ！\nいっぱいおかわりしちゃおっと<RED>∀</RED>"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nあーっ、わたしの大好きな\n<BLUE><____ITEMNAME0____></BLUE>だ！！\nやったー<RED>∀</RED>"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_BIRTHDAY_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n自分の誕生日に\n好きなものが食べられてうれしいな。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_LIKE_MARRIAGE_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n結婚記念日に\n好きなものが食べられてうれしいな。"
+    },
+    {
+      "VardId": "MES_PLAYER_MEALDEMO_REQUEST_COMMENT_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nわ〜い、<BLUE><____ITEMNAME0____></BLUE>だ！\nこれ、すごく食べたかったの♪\n作ってくれてありがとう<RED>∀</RED>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nごはん準備してくるね。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n何か食べたいものはある？"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_00_Child_Girl",
+      "Text": "<____ITEMNAME0____>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_01_Child_Girl",
+      "Text": "<____ITEMNAME1____>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_SELECT_02_Child_Girl",
+      "Text": "<____ITEMNAME2____>"
+    },
+    {
+      "VardId": "MES_MEALDEMO_READY_REQUEST_OK_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nがんばって作るね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_ITADAKI_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nいただきま〜す！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_GOTI_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nごちそうさま〜♪"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_00_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_01_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_02_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_03_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_04_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_05_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_06_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_07_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_08_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_PAIR_COMMENT_09_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_01_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_02_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_03_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_04_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_05_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_06_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_07_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_08_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_FAMILY_COMMENT_09_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_REQUEST_COMMENT_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nみんなで食べるのって\n楽しいね！"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_BREAKFAST_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nうーん、今日はどこで\nなにして遊ぼうかしら？\nまよっちゃうな〜。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_LUNCH_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nふ〜、おなかいっぱいで\nねむくなってきちゃったわ。\nちょっとだけお昼寝しようかしら？"
+    },
+    {
+      "VardId": "MES_MEALDEMO_WEEKDAY_DINNER_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nねえ、<PARENT>！\nいっしょにおふろに入りましょ♪"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_BREAKFAST_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nうーん、今日はどこで\nなにして遊ぼうかしら？\nまよっちゃうな〜。"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_LUNCH_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nふ〜、おなかいっぱいで\nねむくなってきちゃったわ。\nちょっとだけお昼寝しようかしら？"
+    },
+    {
+      "VardId": "MES_MEALDEMO_HOLIDAY_DINNER_Child_Girl",
+      "Text": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nねえ、<PARENT>！\nいっしょにおふろはいろ〜♪"
+    }
+  ]
+}

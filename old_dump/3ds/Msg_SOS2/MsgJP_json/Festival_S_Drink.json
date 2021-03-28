@@ -1,0 +1,1406 @@
+﻿{
+  "Date": "2016-06-25T01:44:46.1335238+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_EV_FES_S_DRINK_00",
+      "Text": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nよし、顔ぶれがそろったようじゃノ。\n<PAGE>\nでは、これよりルルココ村主催の\nドリンク祭を始めるゾ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_01",
+      "Text": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\n今回はルルココ村主催じゃから、\nテーマは「ジュース」ジャ。\n<PAGE>\nみんな、ジュースに合う食材を\n持ってきたかノ？\n<PAGE>\nそれぞれ４人のチームを組んで\nオリジナルのジュースを作ってもらうゾ。\n<PAGE>\n一番おいしいジュースを作ったチームには\nすてきな景品があるからノ。\nがんばるのジャ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_02",
+      "Text": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nそれではさっそく、\nチームを作ってもらおうかノ。\n<PAGE>\nチームが出来たら\nワシに言いに来るんジャゾ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_03",
+      "Text": "チームは自分も入れて、４人だ。\nみんなが持ってきたものを聞いて、\nだれと組むか決めよう。"
+    },
+    {
+      "VardId": "MES_EV_FES_DRINK_04",
+      "Text": "<CHARANAME0>を\nチームにさそおうかな？"
+    },
+    {
+      "VardId": "MES_EV_FES_DRINK_05",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_FES_DRINK_06",
+      "Text": "いいえ"
+    },
+    {
+      "VardId": "MES_EV_FES_DRINK_32",
+      "Text": "…人数がいっぱいで、さそえない。\nだれかはずしてから、また話しかけよう。"
+    },
+    {
+      "VardId": "MES_EV_FES_DRINK_33",
+      "Text": "<CHARANAME0>がチームに加わった！"
+    },
+    {
+      "VardId": "MES_EV_FES_DRINK_07",
+      "Text": "<CHARANAME0>を\nチームからはずそうかな？"
+    },
+    {
+      "VardId": "MES_EV_FES_DRINK_08",
+      "Text": "はずす"
+    },
+    {
+      "VardId": "MES_EV_FES_DRINK_09",
+      "Text": "はずさない"
+    },
+    {
+      "VardId": "MES_EV_FES_DRINK_10",
+      "Text": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nフム…人数がそろったようじゃノ。\n<PAGE>\nチームは、<CHARANAME0>　<CHARANAME1>\n<CHARANAME2>　<CHARANAME3>　\nのメンバーで確定するゾ？"
+    },
+    {
+      "VardId": "MES_EV_FES_DRINK_11",
+      "Text": "これで決まり"
+    },
+    {
+      "VardId": "MES_EV_FES_DRINK_12",
+      "Text": "考えなおす"
+    },
+    {
+      "VardId": "MES_EV_FES_DRINK_13",
+      "Text": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nそれじゃあ、決まったら\nまた言いに来るんじゃゾ。"
+    },
+    {
+      "VardId": "MES_EV_FES_DRINK_14",
+      "Text": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nチームは４人ジャ。\n人数がそろったら\n言いに来ておくレ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_15",
+      "Text": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nチームづくりが終わったところで、\n各チームの紹介をするゾ！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_16",
+      "Text": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\n星チーム！\n<MOJI0>　<MOJI1>　<MOJI2>\n<MOJI3>　<MOJI4>の<MOJI5>名！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_17",
+      "Text": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\n月チーム！\n<MOJI0>　<MOJI1>　<MOJI2>\n<MOJI3>　<MOJI4>の<MOJI5>名！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_18",
+      "Text": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\n海チーム！\n<MOJI0>　<MOJI1>　<MOJI2>\n<MOJI3>　<MOJI4>の<MOJI5>名！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_19",
+      "Text": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\n風チーム！\n<MOJI0>　<MOJI1>　<MOJI2>\n<MOJI3>　<MOJI4>の<MOJI5>名！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_20",
+      "Text": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\n空チーム！\n<MOJI0>　<MOJI1>　<MOJI2>\n<MOJI3>　<MOJI4>の<MOJI5>名！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_21",
+      "Text": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nでは、作成開始ジャ！\n準備のできたチームから\n調理を始めてよいゾ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_22",
+      "Text": "今回は、このチームで\n一番をねらうぞ！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_23",
+      "Text": "オリジナルのジュースができた！\n試飲が楽しみだ♪"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_24",
+      "Text": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nどのチームも\nジュースができたようじゃノ。\nさっそく試飲会に移るゾ。\n<PAGE>\n今からそれぞれのチームが作った\nジュース飲み比べて…\n<PAGE>\n一番おいしいと思った\nチームに投票するのジャ。\n<PAGE>\nでは、星チームのジュースから\n評価を始めるゾ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_25",
+      "Text": "ほかの人たちにも高評価みたいだ。\nこれは優勝が\n期待できるかも…！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_26",
+      "Text": "ほかの人たちにも\nそこそこ評価されてるな。\nこれは、期待できるかも…！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_27",
+      "Text": "ほかの人たちもびみょうな反応だ。\nうーん…。\n優勝はむずかしいかなあ？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_28",
+      "Text": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nヒョッヒョ、待たせたノ！\n投票の結果が出たので\n発表するゾ！\n<PAGE>\n今回のドリンク祭、\n最も人気の高かった\nジュースを作ったのは…"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_29",
+      "Text": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\n<MOJI4>チーム！\n<MOJI0>　<MOJI1>　<MOJI2>\n<MOJI3>　おめでとウ！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_30",
+      "Text": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\n優勝した<MOJI4>チームには\n景品の<BLUE><____ITEMNAME0____></BLUE>を\nプレゼントするゾ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_31",
+      "Text": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\n以上でルルココ村主催の\nドリンク祭は終了ジャ！\n<PAGE>\nみんなご苦労じゃったノウ。\nこの後はゆっくり休むといいゾ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TEAMNAME_A",
+      "Text": "星"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TEAMNAME_B",
+      "Text": "月"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TEAMNAME_C",
+      "Text": "海"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TEAMNAME_D",
+      "Text": "風"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TEAMNAME_E",
+      "Text": "空"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Craftman_INVITE",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nオレは<BLUE><____ITEMNAME0____></BLUE>を持ってキタ。\n一応ババサマの意見を聞いたが、\n…どうだろうナ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Craftman_JOIN",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nさそってくれるとはうれしいナ。\nがんばろうゼ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Craftman_CONFIRM",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nオレの持ってきたものカ？\n<BLUE><____ITEMNAME0____></BLUE>ダ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Craftman_RELEASE",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nそういうこともアル。\n気にしないでクレ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Craftman_GREETING",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nヨロシク。\nこのメンバーなら\nいいとこまで行けそうダ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Craftman_GOOD_COMMENT",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nオレは甘いものは苦手なんだが、\nこれはうまいナ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Craftman_OTHER_GOOD_COMMENT",
+      "Text": "<FACE_CRAFTMAN>\r\nおっ、けっこう飲みやすくて\n好きな味ダ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Craftman_NORMAL_COMMENT",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nちょっとオレには甘すぎるが、\nいけると思うゼ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Craftman_OTHER_NORMAL_COMMENT",
+      "Text": "<FACE_CRAFTMAN>\r\nなんかスーッとする味ダ。\nなにが入っているんダ？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Craftman_BAD_COMMENT",
+      "Text": "<FACE_CRAFTMAN><POS_RIGHT><FACE_SAD>\r\n甘ったるくて\nオレにはちょっと無理ダ…。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Craftman_OTHER_BAD_COMMENT",
+      "Text": "<FACE_CRAFTMAN>\r\n…さすがにこれは\nウマイとは言えないナ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TwinOlder_INVITE",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nアタシは<BLUE><____ITEMNAME0____></BLUE>を\n持ってきたワ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TwinOlder_JOIN",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nアンタがどうしてもって\n言うなら、入ってあげてもイイわヨ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TwinOlder_CONFIRM",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nアタシの持ってきたモノ？\n<BLUE><____ITEMNAME0____></BLUE>ヨ。\n何回も同じコト言わせないデ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TwinOlder_RELEASE",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>\r\nあっきれタ。\nアタシぬきで勝てると思ってるノ？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TwinOlder_GREETING",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nアタシがいるんだモノ。\n優勝以外ありえないワ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TwinOlder_GOOD_COMMENT",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\n予想通りネ。\n優勝まちがいないんじゃナイ？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TwinOlder_OTHER_GOOD_COMMENT",
+      "Text": "<FACE_TWINOLDER>\r\nくやしいけど、おいしいワ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TwinOlder_NORMAL_COMMENT",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nまあまあ、おいしいわネ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TwinOlder_OTHER_NORMAL_COMMENT",
+      "Text": "<FACE_TWINOLDER>\r\nまずまず、と言ったところネ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TwinOlder_BAD_COMMENT",
+      "Text": "<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>\r\nだれヨ！\nせっかくのジュースに変なの入れたのハ！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TwinOlder_OTHER_BAD_COMMENT",
+      "Text": "<FACE_TWINOLDER>\r\nこんなのがドリンクなんて\n聞いてあきれるワ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TwinYounger_INVITE",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n…<BLUE><____ITEMNAME0____></BLUE>を持ってキタ。\n自信、アル。…カモ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TwinYounger_JOIN",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n…ヨロシク。\nうれしい、カナ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TwinYounger_CONFIRM",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n……<BLUE><____ITEMNAME0____></BLUE>だけど、\nどう、カナ？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TwinYounger_RELEASE",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n…ワタシのオーラとキミのオーラ、\n今日は合わないみたイ…。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TwinYounger_GREETING",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nおいしいの、作ル。\nがんばるネ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TwinYounger_GOOD_COMMENT",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\n……イゥカのと、いい勝負、カモ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TwinYounger_OTHER_GOOD_COMMENT",
+      "Text": "<FACE_TWINYOUNGER>\r\nおいしいものは、\nオーラでわかル。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TwinYounger_NORMAL_COMMENT",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n…これならワタシにも\n作れそウ…。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TwinYounger_OTHER_NORMAL_COMMENT",
+      "Text": "<FACE_TWINYOUNGER>\r\nイゥカみたいに言うなら、\n「まずまず」、カナ？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TwinYounger_BAD_COMMENT",
+      "Text": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_SAD>\r\n…ダメ。\nワタシのオーラと反発してル。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TwinYounger_OTHER_BAD_COMMENT",
+      "Text": "<FACE_TWINYOUNGER>\r\n…よくないオーラが、見えル。\n……あまり飲みたくナイ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_InnOwner_INVITE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_InnOwner_JOIN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_InnOwner_CONFIRM",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_InnOwner_RELEASE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_InnOwner_GREETING",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_InnOwner_GOOD_COMMENT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_InnOwner_OTHER_GOOD_COMMENT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_InnOwner_NORMAL_COMMENT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_InnOwner_OTHER_NORMAL_COMMENT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_InnOwner_BAD_COMMENT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_InnOwner_OTHER_BAD_COMMENT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Fisher_INVITE",
+      "Text": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nん？　オレカ？\nオレは<BLUE><____ITEMNAME0____></BLUE>ダ。\nたぶん、イケると思うゼ！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Fisher_JOIN",
+      "Text": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nオウ！\nアンタといっしょなら\n負ける気がしねえゼ！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Fisher_CONFIRM",
+      "Text": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nン？　オレのは<BLUE><____ITEMNAME0____></BLUE>だが、\nどうかしたのカ？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Fisher_RELEASE",
+      "Text": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nなんダ、やめるのカ。\nチョット残念だけどヨ。\nアンタもがんばれヨ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Fisher_GREETING",
+      "Text": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nこのメンバーなら\n負ける気がしねえナ！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Fisher_GOOD_COMMENT",
+      "Text": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nこりゃあウマいナ！\n優勝をねらえるんじゃねえカ！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Fisher_OTHER_GOOD_COMMENT",
+      "Text": "<FACE_FISHER>\r\nこりゃ負けたんじゃねえカ？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Fisher_NORMAL_COMMENT",
+      "Text": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nオ？　案外イケるんじゃねえカ？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Fisher_OTHER_NORMAL_COMMENT",
+      "Text": "<FACE_FISHER>\r\nマア、ウマいんじゃねえカ？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Fisher_BAD_COMMENT",
+      "Text": "<FACE_FISHER><POS_RIGHT><FACE_SAD>\r\nこりゃあウマい……\n…………とはさすがのオレも言えねえナ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Fisher_OTHER_BAD_COMMENT",
+      "Text": "<FACE_FISHER>\r\nオイオイ、コレはなにが入ってるんダ？\nひでえ味だナ……。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_FisherWife_INVITE",
+      "Text": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nアタシは<BLUE><____ITEMNAME0____></BLUE>を\n持ってきたヨ。\n<PAGE>\n食材屋だからネ！\n味は期待してくれてイイヨ！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_FisherWife_JOIN",
+      "Text": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nアア！　イイヨ！\nアタシの目利きを信じナ！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_FisherWife_CONFIRM",
+      "Text": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nン？　なんだイ？\n<BLUE><____ITEMNAME0____></BLUE>じゃ\n不安になったのかイ？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_FisherWife_RELEASE",
+      "Text": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nしかたないねエ。\nアタシは優勝できると\n思ってるんだけどネ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_FisherWife_GREETING",
+      "Text": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\n気合い入れてがんばるヨ！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_FisherWife_GOOD_COMMENT",
+      "Text": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nウン！　思った通リ！\n最高の味だヨ！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_FisherWife_OTHER_GOOD_COMMENT",
+      "Text": "<FACE_FISHERWIFE>\r\n敵ながらあっぱれって感じだねエ！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_FisherWife_NORMAL_COMMENT",
+      "Text": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nイイ味だネ！\n案外いけるかもしれないヨ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_FisherWife_OTHER_NORMAL_COMMENT",
+      "Text": "<FACE_FISHERWIFE>\r\nなるほど、\nこういうのもアリかもしれないねエ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_FisherWife_BAD_COMMENT",
+      "Text": "<FACE_FISHERWIFE><POS_RIGHT><FACE_SAD>\r\nウン……思った通りの\n個性的な味わいだヨ……。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_FisherWife_OTHER_BAD_COMMENT",
+      "Text": "<FACE_FISHERWIFE>\r\n食材をムダにするってのは\nこういうコトだねエ…。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_FisherSon_INVITE",
+      "Text": "<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>\r\nア、<BLUE><____ITEMNAME0____></BLUE>！\n見てくれよこの<BLUE><____ITEMNAME0____></BLUE>！\nウマそうダロッ！？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_FisherSon_JOIN",
+      "Text": "<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>\r\nしかたねーナー！\n<_____MYNAME_____>も仲間にしてやるヨ！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_FisherSon_CONFIRM",
+      "Text": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\nもう忘れたのかヨ？\nオレのは<BLUE><____ITEMNAME0____></BLUE>ダゼ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_FisherSon_RELEASE",
+      "Text": "<FACE_FISHERSON><POS_RIGHT><FACE_SAD>\r\nちぇーッ。なんだヨー。\nオモワセブリって言うんだろソレー。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_FisherSon_GREETING",
+      "Text": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\n優勝しようゼ！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_FisherSon_GOOD_COMMENT",
+      "Text": "<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>\r\n大成功だナッ！　<_____MYNAME_____>！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_FisherSon_OTHER_GOOD_COMMENT",
+      "Text": "<FACE_FISHERSON>\r\n<_____MYNAME_____>のチーム、\nチョーウマいんだケドッ！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_FisherSon_NORMAL_COMMENT",
+      "Text": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\n味はイイんじゃねーノ？\nオレは好きだゼ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_FisherSon_OTHER_NORMAL_COMMENT",
+      "Text": "<FACE_FISHERSON>\r\nなんかチョットふしぎな味だケド…\nアリっちゃアリだよナ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_FisherSon_BAD_COMMENT",
+      "Text": "<FACE_FISHERSON><POS_RIGHT><FACE_SAD>\r\nうげェー。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_FisherSon_OTHER_BAD_COMMENT",
+      "Text": "<FACE_FISHERSON>\r\nマッズ………。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_FisherDaughter_INVITE",
+      "Text": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nアルマはネ、\n<BLUE><____ITEMNAME0____></BLUE>を持ってきたノ！\nドウ？　おいしそうでショ♪"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_FisherDaughter_JOIN",
+      "Text": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nヤッタ〜♪\n<_____MYNAME_____>といっしょダ〜♪\nガンバロ〜！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_FisherDaughter_CONFIRM",
+      "Text": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_NORMAL>\r\nどうしたノ？\nエ？　アルマの？\n<BLUE><____ITEMNAME0____></BLUE>だヨ？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_FisherDaughter_RELEASE",
+      "Text": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_SAD>\r\nエェーッ、なんデーッ！？\n<_____MYNAME_____>のバカァ。\nもう知らないモン。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_FisherDaughter_GREETING",
+      "Text": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nウフフー♪\nアルマ、いきまーすッ♪"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_FisherDaughter_GOOD_COMMENT",
+      "Text": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nおいし〜イ♪\n<_____MYNAME_____>天才！\nもうちょっとちょーだーイ♪"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_FisherDaughter_OTHER_GOOD_COMMENT",
+      "Text": "<FACE_FISHERDAUGHTER>\r\n<_____MYNAME_____>のジュース\nと〜ってもおいしいワ♪\nイイナ〜！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_FisherDaughter_NORMAL_COMMENT",
+      "Text": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_NORMAL>\r\nウ〜ン、おいしイ？\nちょっとふしギ〜。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_FisherDaughter_OTHER_NORMAL_COMMENT",
+      "Text": "<FACE_FISHERDAUGHTER>\r\nあんまり飲んだコトない\nにおいなノ〜。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_FisherDaughter_BAD_COMMENT",
+      "Text": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_SAD>\r\nうえぇェ〜。\nおいしくないノ……。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_FisherDaughter_OTHER_BAD_COMMENT",
+      "Text": "<FACE_FISHERDAUGHTER>\r\nヤーダー！\nアルマもう飲めないモン！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Historian_INVITE",
+      "Text": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nワタシも参加しようと思ってネ！\n<BLUE><____ITEMNAME0____></BLUE>を持ってきたヨ！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Historian_JOIN",
+      "Text": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nわかっタ。\nキミの持ってきたものは\nドライフルーツじゃないだろうネ？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Historian_CONFIRM",
+      "Text": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nなんダ？\n<BLUE><____ITEMNAME0____></BLUE>じゃ不満カ？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Historian_RELEASE",
+      "Text": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nフン。\nそんなコトだろうと思っていたヨ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Historian_GREETING",
+      "Text": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nせめて飲めるものが\nできるようにいのってるヨ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Historian_GOOD_COMMENT",
+      "Text": "<FACE_HISTORIAN><POS_RIGHT><FACE_LAUGH>\r\nホウ、コレはなかなかにおいしいネ。\n意外だヨ。\n材料のメモをとっておこうカ…。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Historian_OTHER_GOOD_COMMENT",
+      "Text": "<FACE_HISTORIAN>\r\n存外イイモノを作ったんだネ！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Historian_NORMAL_COMMENT",
+      "Text": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\n…悪くはないと思うヨ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Historian_OTHER_NORMAL_COMMENT",
+      "Text": "<FACE_HISTORIAN>\r\nまあまあ。\nソレ以外の感想はないヨ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Historian_BAD_COMMENT",
+      "Text": "<FACE_HISTORIAN><POS_RIGHT><FACE_ANGRY>\r\n……不要。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Historian_OTHER_BAD_COMMENT",
+      "Text": "<FACE_HISTORIAN>\r\n…………………。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Assistant_INVITE",
+      "Text": "<FACE_ASSISTANT><POS_RIGHT><FACE_NORMAL>\r\nおいしそうな<BLUE><____ITEMNAME0____></BLUE>を\n見つけたのデ〜。\nそれを持ってきましタ〜。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Assistant_JOIN",
+      "Text": "<FACE_ASSISTANT><POS_RIGHT><FACE_LAUGH>\r\nあ、ボクなんかでいいんですカァ？\nえへへ……。\nありがとうございマス〜。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Assistant_CONFIRM",
+      "Text": "<FACE_ASSISTANT><POS_RIGHT><FACE_NORMAL>\r\nはぁ、もう１回ですカ〜？\nボクは<BLUE><____ITEMNAME0____></BLUE>を\n持ってきましたヨォ〜？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Assistant_RELEASE",
+      "Text": "<FACE_ASSISTANT><POS_RIGHT><FACE_SAD>\r\nあ、そ、そう、ですカァ…。\n…ですよネェ〜。\nボクなんかダメですよネ…。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Assistant_GREETING",
+      "Text": "<FACE_ASSISTANT><POS_RIGHT><FACE_NORMAL>\r\n足をひっぱらないよう……\nが、がんばり…マス…。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Assistant_GOOD_COMMENT",
+      "Text": "<FACE_ASSISTANT><POS_RIGHT><FACE_LAUGH>\r\nうわァ〜。\nすっごくおいしいですネェ〜。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Assistant_OTHER_GOOD_COMMENT",
+      "Text": "<FACE_ASSISTANT>\r\nこんなにおいしいのを……\nうらやましいデス…。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Assistant_NORMAL_COMMENT",
+      "Text": "<FACE_ASSISTANT><POS_RIGHT><FACE_NORMAL>\r\nえへへ、変わった味ですケド〜。\nおいしいデス〜。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Assistant_OTHER_NORMAL_COMMENT",
+      "Text": "<FACE_ASSISTANT>\r\nちょっとピリッっとしますネェ〜。\n案外クセになりそうデス〜。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Assistant_BAD_COMMENT",
+      "Text": "<FACE_ASSISTANT><POS_RIGHT><FACE_SAD>\r\nひどいにおいがしますネェ…。\nハァ……。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Assistant_OTHER_BAD_COMMENT",
+      "Text": "<FACE_ASSISTANT>\r\nイタズラで飲まされた飲みものに\n似ていマス…。…ハァ……。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Angler_INVITE",
+      "Text": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nワタシは<BLUE><____ITEMNAME0____></BLUE>を\n持ってきましタ。\nさて、吉と出るか凶と出るカ…。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Angler_JOIN",
+      "Text": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nホッホッホ…\nうまくいくといいですネ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Angler_CONFIRM",
+      "Text": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nワタシの持ってきたものですカ？\n<BLUE><____ITEMNAME0____></BLUE>ですヨ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Angler_RELEASE",
+      "Text": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nやむをえませんネ。\nどちらが勝っても\nうらみっこなしですヨ？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Angler_GREETING",
+      "Text": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nよろしくおねがいしますネ。\nみんなでいいものをつくりましょウ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Angler_GOOD_COMMENT",
+      "Text": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nおや、われながら\nおいしいと思いますヨ。\nいけるのではないですかナ？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Angler_OTHER_GOOD_COMMENT",
+      "Text": "<FACE_ANGLER>\r\nふむ、これは\nけっこうおいしいですネ…。\nいったいなにを入れたのでしょウ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Angler_NORMAL_COMMENT",
+      "Text": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\n少しばかりクセがありますが、\nキライではないですネ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Angler_OTHER_NORMAL_COMMENT",
+      "Text": "<FACE_ANGLER>\r\n後に残る味ですネ。\nわりと好きな味ですヨ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Angler_BAD_COMMENT",
+      "Text": "<FACE_ANGLER><POS_RIGHT><FACE_SAD>\r\nちょっとエンリョしたい味に\nなってしまいましたナ…。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Angler_OTHER_BAD_COMMENT",
+      "Text": "<FACE_ANGLER>\r\n……なんでしょうか、\nこの舌ざわりハ…。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_AnglerGrandson_INVITE",
+      "Text": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nおいしそうな<BLUE><____ITEMNAME0____></BLUE>が\nあったので持ってきましタ。\n味は確かだと思いマス。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_AnglerGrandson_JOIN",
+      "Text": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nご期待にそえるよう\nがんばりマス。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_AnglerGrandson_CONFIRM",
+      "Text": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nオレの持ってきたものですカ？\n<BLUE><____ITEMNAME0____></BLUE>ですが、\n大丈夫でしょうカ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_AnglerGrandson_RELEASE",
+      "Text": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\n…そうですカ。\nではまた次の機会にでモ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_AnglerGrandson_GREETING",
+      "Text": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nおいしいものができるよう、\n手は抜きませン。\nがんばりマス。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_AnglerGrandson_GOOD_COMMENT",
+      "Text": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_LAUGH>\r\nいい出来ですネ。\n使った食材、メモしておかないト…。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_AnglerGrandson_OTHER_GOOD_COMMENT",
+      "Text": "<FACE_ANGLERGRANDSON>\r\nくやしいですが、\nおいしいですネ。\nうーん、入っているのハ…。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_AnglerGrandson_NORMAL_COMMENT",
+      "Text": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nいい感じだとは思いますが、\n少し物足りない感じがしマス。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_AnglerGrandson_OTHER_NORMAL_COMMENT",
+      "Text": "<FACE_ANGLERGRANDSON>\r\n…スパイシーというか\nちょっと独特な味デス。\nこれはこれでいけますネ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_AnglerGrandson_BAD_COMMENT",
+      "Text": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_SAD>\r\n……今度からこの組み合わせは\nさけようと思いマス。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_AnglerGrandson_OTHER_BAD_COMMENT",
+      "Text": "<FACE_ANGLERGRANDSON>\r\n…うぁっ……\nきょうれつなにおいがしマス…。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Doctor_INVITE",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n私は<BLUE><____ITEMNAME0____></BLUE>を\n持参している。\n家ではよく摂取するのだが…。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Doctor_JOIN",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nジュースに<BLUE><____ITEMNAME0____></BLUE>は\n問題ないということだな。\n少し、安心した。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Doctor_CONFIRM",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n私の持参したものは\n<BLUE><____ITEMNAME0____></BLUE>だが…。\nどうかしたのか？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Doctor_RELEASE",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_SAD>\r\nそうか…。\nもっとジュースに適したものが\nあったということだな。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Doctor_GREETING",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nオッホン。\nなにぶん不慣れだが、\n私も全力をつくそう。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Doctor_GOOD_COMMENT",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nうむ。\nさっぱりとしていておいしい。\nなにも問題はないだろう。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Doctor_OTHER_GOOD_COMMENT",
+      "Text": "<FACE_DOCTOR>\r\nクセがなくて飲みやすい。\n…<_____MYNAME_____>のチームは\nよいジュースを作ったな。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Doctor_NORMAL_COMMENT",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nうむ。\n少しあまいが、\n気にすることはないだろう。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Doctor_OTHER_NORMAL_COMMENT",
+      "Text": "<FACE_DOCTOR>\r\n飲めないというほどではないな。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Doctor_BAD_COMMENT",
+      "Text": "<FACE_DOCTOR><POS_RIGHT><FACE_SAD>\r\nいささかあますぎると思うのだが…。\nこれはこういうものか…？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Doctor_OTHER_BAD_COMMENT",
+      "Text": "<FACE_DOCTOR>\r\nこのかおりは…！？\n成分を抽出(ちゅうしゅつ)すれば\n虫よけになりそうだな。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_RestaurantHusbund_INVITE",
+      "Text": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\n今日、オレは<BLUE><____ITEMNAME0____></BLUE>を\n家から持ってきたんだ。\n絶対合うと思うんだよな。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_RestaurantHusbund_JOIN",
+      "Text": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_LAUGH>\r\nよしっ！　いっしょにやるか。\n<_____MYNAME_____>が\nいてくれるとたのもしいぜ！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_RestaurantHusbund_CONFIRM",
+      "Text": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nオレが持ってきたものは\n<BLUE><____ITEMNAME0____></BLUE>だ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_RestaurantHusbund_RELEASE",
+      "Text": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_SAD>\r\nおいおい、一応これでもオレは\nレストランのコックだぞ！\n外しちゃっても良いのか〜？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_RestaurantHusbund_GREETING",
+      "Text": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nよろしくな！\nせっかくだからうまいジュースを\n作って優勝をねらおうぜ！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_RestaurantHusbund_GOOD_COMMENT",
+      "Text": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_LAUGH>\r\nおっ！　すげーうまい！\n予想以上にいい味になったな。\nこれは優勝もらったんじゃねぇか？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_RestaurantHusbund_OTHER_GOOD_COMMENT",
+      "Text": "<FACE_RESTAURANTHUSBUND>\r\nうん、うまいっ！\n<_____MYNAME_____>チームの\nジュースはなかなか…勝てるかね…？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_RestaurantHusbund_NORMAL_COMMENT",
+      "Text": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nよしよし、まぁまぁってところか。\nオレは悪くないと思うぞ。\nむしろけっこう好きな味だ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_RestaurantHusbund_OTHER_NORMAL_COMMENT",
+      "Text": "<FACE_RESTAURANTHUSBUND>\r\nんん…そうだな…。\n好きキライが分かれそうな味だ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_RestaurantHusbund_BAD_COMMENT",
+      "Text": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_ANGRY>\r\nうぐっ！？　こ、これは…。\nなんの化学反応が起きたんだ！？\nある意味すごいもん作れたぞ…。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_RestaurantHusbund_OTHER_BAD_COMMENT",
+      "Text": "<FACE_RESTAURANTHUSBUND>\r\nこれはまたスゴイ味だな…。\nよくこんなもん作れたよ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_RestaurantWife_INVITE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n今日はね、あたしは\n<BLUE><____ITEMNAME0____></BLUE>を持ってきたのよ。\nジュースに合いそうでしょう？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_RestaurantWife_JOIN",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nおさそいありがとう♪\nせっかくだから優勝目指して\nおいしいジュースを作りましょう。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_RestaurantWife_CONFIRM",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nあたしが持ってきたものは\n<BLUE><____ITEMNAME0____></BLUE>よ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_RestaurantWife_RELEASE",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_SAD>\r\nあら…そう？\n残念ねぇ〜…あなたがチームに\nいてくれるとうれしいんだけど。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_RestaurantWife_GREETING",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n改めてよろしくね。\nみんなでおいしいジュースを\n作って優勝しましょう！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_RestaurantWife_GOOD_COMMENT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nとってもおいしいわ〜！\n材料の良さが引き出されているわね。\n<PAGE>\nこんなにおいしいなら\n優勝できそうねっ！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_RestaurantWife_OTHER_GOOD_COMMENT",
+      "Text": "<FACE_RESTAURANTWIFE>\r\nうん、<_____MYNAME_____>のチームの\nジュース…とってもおいしい！\nおかわりをもらってもいいかしら？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_RestaurantWife_NORMAL_COMMENT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n少し後に残る味かしら…？\nもしかしたら、苦手な人も\nいるかもしれないわね。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_RestaurantWife_OTHER_NORMAL_COMMENT",
+      "Text": "<FACE_RESTAURANTWIFE>\r\nあたしは好きな味だけれど…。\nクセが強いような気もするわ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_RestaurantWife_BAD_COMMENT",
+      "Text": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_SAD>\r\nけほっ！　こほんっ！\nま、まさかこんな味だなんて\n予想できなかったわ…。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_RestaurantWife_OTHER_BAD_COMMENT",
+      "Text": "<FACE_RESTAURANTWIFE>\r\nいったい何を入れたら\nこんなことになるの…？\nすごく複雑な味だわ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TeaGirl_INVITE",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nうちは<BLUE><____ITEMNAME0____></BLUE>や。\nジュースに合うかわからへんけど\nおいしいもんやで？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TeaGirl_JOIN",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nさすが、<_____MYNAME_____>。\nわかってるやん！\n優勝目指すで〜。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TeaGirl_CONFIRM",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nなんや、もっかい？\n<BLUE><____ITEMNAME0____></BLUE>や。\n良品質な<BLUE><____ITEMNAME0____></BLUE>や。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TeaGirl_RELEASE",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nなんやの、やめるんかいな。\n意外と優柔不断やな。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TeaGirl_GREETING",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\n茶屋のムスメ、コマリ！\nよろしくたのむで！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TeaGirl_GOOD_COMMENT",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nうわっ、想像以上やな！\nこれ、茶屋で出したらあかんかな？\nどや？　<_____MYNAME_____>。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TeaGirl_OTHER_GOOD_COMMENT",
+      "Text": "<FACE_TEAGIRL>\r\n<_____MYNAME_____>のチーム、\nかおりも味も最高やん！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TeaGirl_NORMAL_COMMENT",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nどうかと思ったけど意外とおいしいな。\n万人向けではなさそうやけど…。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TeaGirl_OTHER_NORMAL_COMMENT",
+      "Text": "<FACE_TEAGIRL>\r\nうん、夏場にはええんちゃうかな。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TeaGirl_BAD_COMMENT",
+      "Text": "<FACE_TEAGIRL><POS_RIGHT><FACE_SAD>\r\nうわ、まっず…。\nだれやこんなん作ったん！\n…ってうちや…。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TeaGirl_OTHER_BAD_COMMENT",
+      "Text": "<FACE_TEAGIRL>\r\nこ、これは…\n…飲めたもんやないで…。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Teacher_INVITE",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nわたしは<BLUE><____ITEMNAME0____></BLUE>を\n持ってきました。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Teacher_JOIN",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nわかりました。\nお役に立てるよう\nせいいっぱい努めます。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Teacher_CONFIRM",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\n…わたしの持ってきたものは\n<BLUE><____ITEMNAME0____></BLUE>ですが、\nなにか問題でも起こりましたか？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Teacher_RELEASE",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nこの行事は組み合わせが大事ですから、\nいたしかたありませんね。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Teacher_GREETING",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\n…みなさん、\nよろしくおねがいします。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Teacher_GOOD_COMMENT",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\n…これは、茶屋で飲む味に\n勝るともおとらない出来ですね。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Teacher_OTHER_GOOD_COMMENT",
+      "Text": "<FACE_TEACHER>\r\nおいしいですね。\nいったいどうやって\nこのような味を出したのか…。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Teacher_NORMAL_COMMENT",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nたまにはこのような味も\nいいかもしれません。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Teacher_OTHER_NORMAL_COMMENT",
+      "Text": "<FACE_TEACHER>\r\n特別優れているわけでは\nありませんが…面白い味ですね。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Teacher_BAD_COMMENT",
+      "Text": "<FACE_TEACHER><POS_RIGHT><FACE_ANGRY>\r\nわたしは今、子どもたちには\n見せられないような顔を\nしているでしょうね…。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Teacher_OTHER_BAD_COMMENT",
+      "Text": "<FACE_TEACHER>\r\n……これ以上は\nえんりょさせていただきます。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TeaOwner_INVITE",
+      "Text": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nオレが持ってきた食材？\n最高の<BLUE><____ITEMNAME0____></BLUE>や！\n<PAGE>\n<FACE_LAUGH>茶屋を経営してメシ食ってるんや、\n手なんかぬけるかいな！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TeaOwner_JOIN",
+      "Text": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nさすが<_____MYNAME_____>！\nオレに声をかけるとはな〜！\nたよりにしてるでっ？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TeaOwner_CONFIRM",
+      "Text": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nハイハイ、オレが持ってきたのは\n<BLUE><____ITEMNAME0____></BLUE>やで〜！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TeaOwner_RELEASE",
+      "Text": "<FACE_TEAOWNER><POS_RIGHT><FACE_SAD>\r\nオイオイ、本気で言ってんのか？\nしゃあないな〜。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TeaOwner_GREETING",
+      "Text": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nどうぞよろしゅうな。\nもちろん目指すは優勝やでー！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TeaOwner_GOOD_COMMENT",
+      "Text": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nほら、<_____MYNAME_____>！\n最高の味になったな〜！\nオレの店で出せる味やわ！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TeaOwner_OTHER_GOOD_COMMENT",
+      "Text": "<FACE_TEAOWNER>\r\nくっ、な、なんやて…！？\nオレんとこ以外でこんなウマい\nドリンクが作れるとはな…！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TeaOwner_NORMAL_COMMENT",
+      "Text": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nそうやなー…こんなもんか？\nいや、もう少し調整が必要な気も…。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TeaOwner_OTHER_NORMAL_COMMENT",
+      "Text": "<FACE_TEAOWNER>\r\nせやな、十分ちゃうか？\nオレはまぁまぁ好きな味やで。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TeaOwner_BAD_COMMENT",
+      "Text": "<FACE_TEAOWNER><POS_RIGHT><FACE_SAD>\r\nぐほっ！　これはアカン…！\n人様に出せるもんとちゃうわ…！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TeaOwner_OTHER_BAD_COMMENT",
+      "Text": "<FACE_TEAOWNER>\r\nなんてもんを作ってんねん…。\nこれはホンマに飲みもんか？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Sister_INVITE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Sister_JOIN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Sister_CONFIRM",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Sister_RELEASE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Sister_GREETING",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Sister_GOOD_COMMENT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Sister_OTHER_GOOD_COMMENT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Sister_NORMAL_COMMENT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Sister_OTHER_NORMAL_COMMENT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Sister_BAD_COMMENT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Sister_OTHER_BAD_COMMENT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mother_INVITE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mother_JOIN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mother_CONFIRM",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mother_RELEASE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mother_GREETING",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mother_GOOD_COMMENT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mother_OTHER_GOOD_COMMENT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mother_NORMAL_COMMENT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mother_OTHER_NORMAL_COMMENT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mother_BAD_COMMENT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mother_OTHER_BAD_COMMENT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Child_Boy_INVITE",
+      "Text": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nはーい！　ボクはね、\n<BLUE><____ITEMNAME0____></BLUE>を持ってきたよ！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Child_Boy_JOIN",
+      "Text": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nいいの？　よかったー！\n<PARENT>がいてくれるなら\n楽しくジュースを作れそうだね♪"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Child_Boy_CONFIRM",
+      "Text": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nえっと、ボクが持ってきたものは\n<BLUE><____ITEMNAME0____></BLUE>だよ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Child_Boy_RELEASE",
+      "Text": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\nそんなぁ〜…わかった。\n<PARENT>の言うとおりにするよ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Child_Boy_GREETING",
+      "Text": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>です。\nおいしいジュースを作れるように\nたくさんお手伝いするね！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Child_Boy_GOOD_COMMENT",
+      "Text": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nうわ〜すっごくおいしいよ！\nたくさん飲んじゃいそう♪\n<PARENT>も飲んでみて？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Child_Boy_OTHER_GOOD_COMMENT",
+      "Text": "<FACE_CHILD>\r\n<PARENT>のチームのジュース、\nすっごくおいしいね！\nおうちに持って帰りたいくらいだよ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Child_Boy_NORMAL_COMMENT",
+      "Text": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n…うーん、なんだか個性的な味だね。\nおいしいかどうか人によって\n分かれるかもしれないよ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Child_Boy_OTHER_NORMAL_COMMENT",
+      "Text": "<FACE_CHILD>\r\nんー…なんだか、\nまずくはないけれど…。\nボクにはわかんないなぁ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Child_Boy_BAD_COMMENT",
+      "Text": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\nううっ、どうしてこんな味に…？\nヘンなものでも入ってるのかな…？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Child_Boy_OTHER_BAD_COMMENT",
+      "Text": "<FACE_CHILD>\r\nうわっ、これ…ボク飲めないよ〜…。\n<PARENT>、残してもいい…？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Child_Girl_INVITE",
+      "Text": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nはーい！　わたしね、\n<BLUE><____ITEMNAME0____></BLUE>を持ってきたの！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Child_Girl_JOIN",
+      "Text": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nいいの？　よかったー！\n<PARENT>がいてくれるなら\n楽しくジュースを作れそうだわ♪"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Child_Girl_CONFIRM",
+      "Text": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nわたしが持ってきたものは\n<BLUE><____ITEMNAME0____></BLUE>よ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Child_Girl_RELEASE",
+      "Text": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\nそんなぁ〜…わかった。\n<PARENT>の言うとおりにするわ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Child_Girl_GREETING",
+      "Text": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>です。\nおいしいジュースを作りたいから\nたくさんお手伝いしますね！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Child_Girl_GOOD_COMMENT",
+      "Text": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nうわ〜とってもおいしいわ！\nたくさん飲んじゃいそう♪\n<PARENT>も飲んでみて？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Child_Girl_OTHER_GOOD_COMMENT",
+      "Text": "<FACE_CHILD>\r\n<PARENT>のチームのジュース、\nすっごくおいしいわ！\nおうちに持って帰りたいくらいね。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Child_Girl_NORMAL_COMMENT",
+      "Text": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n…うーん、なんだか個性的な味だわ。\nおいしいかどうか人によって\n分かれるかもしれないわね。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Child_Girl_OTHER_NORMAL_COMMENT",
+      "Text": "<FACE_CHILD>\r\nんー…なんだか、\nまずくはないけれど…。\nわたしにはむずかしいわ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Child_Girl_BAD_COMMENT",
+      "Text": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\nううっ、どうしてこんな味に…？\nヘンなものでも入ってるのかしら…？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Child_Girl_OTHER_BAD_COMMENT",
+      "Text": "<FACE_CHILD>\r\nうっ、これ…わたし飲みたくない〜…。\n<PARENT>、残してもいい…？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Teto_INVITE",
+      "Text": "<NAME_MOB_TETO>\r\n…<BLUE><____ITEMNAME0____></BLUE>ダ。\nどうだろうカ？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Teto_JOIN",
+      "Text": "<NAME_MOB_TETO>\r\nアリンガ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Teto_CONFIRM",
+      "Text": "<NAME_MOB_TETO>\r\n…<BLUE><____ITEMNAME0____></BLUE>ダ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Teto_RELEASE",
+      "Text": "<NAME_MOB_TETO>\r\nソウカ…。分かっタ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Teto_GREETING",
+      "Text": "<NAME_MOB_TETO>\r\nオレは料理は苦手なんダ。\n調理は任せたゾ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Teto_GOOD_COMMENT",
+      "Text": "<NAME_MOB_TETO>\r\n…この味は、文句なしだナ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Teto_OTHER_GOOD_COMMENT",
+      "Text": "<NAME_MOB_TETO>\r\n…この味は、文句なしだナ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Teto_NORMAL_COMMENT",
+      "Text": "<NAME_MOB_TETO>\r\n…まあ、こんなものダロウ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Teto_OTHER_NORMAL_COMMENT",
+      "Text": "<NAME_MOB_TETO>\r\n…まあ、こんなものダロウ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Teto_BAD_COMMENT",
+      "Text": "<NAME_MOB_TETO>\r\n…薬よりもヒドイ味ダナ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Teto_OTHER_BAD_COMMENT",
+      "Text": "<NAME_MOB_TETO>\r\n…薬よりもヒドイ味ダナ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Hoala_INVITE",
+      "Text": "<NAME_MOB_HOALA>\r\n<BLUE><____ITEMNAME0____></BLUE>入りのジュース…\n作りたくないカ？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Hoala_JOIN",
+      "Text": "<NAME_MOB_HOALA>\r\n仲間に入れてくれて、アリンガ。\nがんばるヨ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Hoala_CONFIRM",
+      "Text": "<NAME_MOB_HOALA>\r\n<BLUE><____ITEMNAME0____></BLUE>入りのジュース…\n作りたくないカ？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Hoala_RELEASE",
+      "Text": "<NAME_MOB_HOALA>\r\nそうカ…無理にとは言わないヨ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Hoala_GREETING",
+      "Text": "<NAME_MOB_HOALA>\r\nヨロシク。\nうまいジュースができるといいナ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Hoala_GOOD_COMMENT",
+      "Text": "<NAME_MOB_HOALA>\r\nみんな、顔がニヤけてるゾ。\nでも、このおいしさなんだカラ、\nそうなるのも無理はナイ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Hoala_OTHER_GOOD_COMMENT",
+      "Text": "<NAME_MOB_HOALA>\r\nみんな、顔がニヤけてるゾ。\nでも、このおいしさなんだカラ、\nそうなるのも無理はナイ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Hoala_NORMAL_COMMENT",
+      "Text": "<NAME_MOB_HOALA>\r\nみんなの表情がバラバラだ。\n好みの分かれる味だカラ、無理はナイ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Hoala_OTHER_NORMAL_COMMENT",
+      "Text": "<NAME_MOB_HOALA>\r\nみんなの表情がバラバラだ。\n好みの分かれる味だカラ、無理はナイ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Hoala_BAD_COMMENT",
+      "Text": "<NAME_MOB_HOALA>\r\nみんな、暗い表情だナ。\nまあ、こんなジュースの味じゃ\n無理はナイ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Hoala_OTHER_BAD_COMMENT",
+      "Text": "<NAME_MOB_HOALA>\r\nみんな、暗い表情だナ。\nまあ、こんなジュースの味じゃ\n無理はナイ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Maharo_INVITE",
+      "Text": "<NAME_MOB_MAHARO>\r\n今日のお祭りを忘れてましテ…\n<BLUE><____ITEMNAME0____></BLUE>しか\n用意できませんでしタ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Maharo_JOIN",
+      "Text": "<NAME_MOB_MAHARO>\r\n声をかけてもらえて\nホッとしましタ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Maharo_CONFIRM",
+      "Text": "<NAME_MOB_MAHARO>\r\nあわてて<BLUE><____ITEMNAME0____></BLUE>を\n持ってきたんですガ…。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Maharo_RELEASE",
+      "Text": "<NAME_MOB_MAHARO>\r\nお力になれず、スミマセン。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Maharo_GREETING",
+      "Text": "<NAME_MOB_MAHARO>\r\nどうぞよろしくお願いしマス。\n楽しく作りましょウ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Maharo_GOOD_COMMENT",
+      "Text": "<NAME_MOB_MAHARO>\r\nイヤ〜、とてもおいしいデス。\n日ごろのつかれが\n吹き飛びそうですヨ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Maharo_OTHER_GOOD_COMMENT",
+      "Text": "<NAME_MOB_MAHARO>\r\nイヤ〜、とてもおいしいデス。\n日ごろのつかれが\n吹き飛びそうですヨ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Maharo_NORMAL_COMMENT",
+      "Text": "<NAME_MOB_MAHARO>\r\nもう少しなにかを加えた方が…\nイヤ、逆に引いた方がいいのカモ…？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Maharo_OTHER_NORMAL_COMMENT",
+      "Text": "<NAME_MOB_MAHARO>\r\nもう少しなにかを加えた方が…\nイヤ、逆に引いた方がいいのカモ…？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Maharo_BAD_COMMENT",
+      "Text": "<NAME_MOB_MAHARO>\r\nこのドリンクを宿屋で出したら…\nお客様が逃げてしまいそうデス。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Maharo_OTHER_BAD_COMMENT",
+      "Text": "<NAME_MOB_MAHARO>\r\nこのドリンクを宿屋で出したら…\nお客様が逃げてしまいそうデス。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Cocopaya_INVITE",
+      "Text": "<NAME_MOB_COCOPAYA>\r\nこの<BLUE><____ITEMNAME0____></BLUE>を使って、\n新しい味わいのジュースを\n飲んでみたいもんジャ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Cocopaya_JOIN",
+      "Text": "<NAME_MOB_COCOPAYA>\r\nオオ、うれしいノウ。\nアリンガ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Cocopaya_CONFIRM",
+      "Text": "<NAME_MOB_COCOPAYA>\r\nこの<BLUE><____ITEMNAME0____></BLUE>を使って、\n新しい味わいのジュースを\n飲んでみたいもんジャ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Cocopaya_RELEASE",
+      "Text": "<NAME_MOB_COCOPAYA>\r\nこの<BLUE><____ITEMNAME0____></BLUE>なら\nきっとおいしいものが\nできると思うんジャガ…。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Cocopaya_GREETING",
+      "Text": "<NAME_MOB_COCOPAYA>\r\nワシは果物屋ジャ。\nジュース作りは得意ジャヨ。\nなんでも言ってクレ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Cocopaya_GOOD_COMMENT",
+      "Text": "<NAME_MOB_COCOPAYA>\r\nこれぞ、ワシが追い求めていた\nジュースの味…！\n幸せジャ〜。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Cocopaya_OTHER_GOOD_COMMENT",
+      "Text": "<NAME_MOB_COCOPAYA>\r\nこれぞ、ワシが追い求めていた\nジュースの味…！\n幸せジャ〜。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Cocopaya_NORMAL_COMMENT",
+      "Text": "<NAME_MOB_COCOPAYA>\r\nフム…。\n材料の量のバランス次第では、\nまだおいしくなれそうな気もするガ…。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Cocopaya_OTHER_NORMAL_COMMENT",
+      "Text": "<NAME_MOB_COCOPAYA>\r\nフム…。\n材料の量のバランス次第では、\nまだおいしくなれそうな気もするガ…。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Cocopaya_BAD_COMMENT",
+      "Text": "<NAME_MOB_COCOPAYA>\r\nどうしてこんな味に…悲しいノウ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Cocopaya_OTHER_BAD_COMMENT",
+      "Text": "<NAME_MOB_COCOPAYA>\r\nどうしてこんな味に…悲しいノウ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Fundy_INVITE",
+      "Text": "<NAME_MOB_FUNDY>\r\nホラ、<BLUE><____ITEMNAME0____></BLUE>だゼ。\nうまそうダロ？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Fundy_JOIN",
+      "Text": "<NAME_MOB_FUNDY>\r\nオッ！　わかってるネ！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Fundy_CONFIRM",
+      "Text": "<NAME_MOB_FUNDY>\r\nホラ、<BLUE><____ITEMNAME0____></BLUE>だゼ。\nうまそうダロ？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Fundy_RELEASE",
+      "Text": "<NAME_MOB_FUNDY>\r\nウマイのに…もったいナイ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Fundy_GREETING",
+      "Text": "<NAME_MOB_FUNDY>\r\nオレは負けずギライなんダ！\nはりきって作ろうゼ！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Fundy_GOOD_COMMENT",
+      "Text": "<NAME_MOB_FUNDY>\r\nこりゃウマイ！\nルルココ村の特産品として\n売りだしてもイイくらいダ！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Fundy_OTHER_GOOD_COMMENT",
+      "Text": "<NAME_MOB_FUNDY>\r\nこりゃウマイ！\nルルココ村の特産品として\n売りだしてもイイくらいダ！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Fundy_NORMAL_COMMENT",
+      "Text": "<NAME_MOB_FUNDY>\r\n悪くはナイ。悪くはないんだケド…\nおいしいと言えるほどでもないナ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Fundy_OTHER_NORMAL_COMMENT",
+      "Text": "<NAME_MOB_FUNDY>\r\n悪くはナイ。悪くはないんだケド…\nおいしいと言えるほどでもないナ。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Fundy_BAD_COMMENT",
+      "Text": "<NAME_MOB_FUNDY>\r\n…こ、これ以上は飲めナイ！\n身体が口にするのをこばんでイル。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_Mob_Fundy_OTHER_BAD_COMMENT",
+      "Text": "<NAME_MOB_FUNDY>\r\n…こ、これ以上は飲めナイ！\n身体が口にするのをこばんでイル。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TeaOwner_INVITE",
+      "Text": "<NAME_MOB_QINA>\r\n<BLUE><____ITEMNAME0____></BLUE>がたっぷり\n入ってるジュースなんて\nどうかナ〜？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TeaOwner_JOIN",
+      "Text": "<NAME_MOB_QINA>\r\nソウソウ！\nそうこなくっチャ！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TeaOwner_CONFIRM",
+      "Text": "<NAME_MOB_QINA>\r\n<BLUE><____ITEMNAME0____></BLUE>がたっぷり\n入ってるジュースを作りたいナ〜。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TeaOwner_RELEASE",
+      "Text": "<NAME_MOB_QINA>\r\nアラ〜、だめなノ？\nちょっとさびしいナ〜。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TeaOwner_GREETING",
+      "Text": "<NAME_MOB_QINA>\r\nよろしくネ〜♪\nほっぺたが落ちるくらい\nおいし〜いジュースにしヨ〜！"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TeaOwner_GOOD_COMMENT",
+      "Text": "<NAME_MOB_QINA>\r\nいいネ〜。最高！\n甘さも香りも言うことなしだヨ〜♪"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TeaOwner_OTHER_GOOD_COMMENT",
+      "Text": "<NAME_MOB_QINA>\r\nいいネ〜。最高！\n甘さも香りも言うことなしだヨ〜♪"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TeaOwner_NORMAL_COMMENT",
+      "Text": "<NAME_MOB_QINA>\r\n思ったよりも\nフツーの味になっちゃっタ〜。\n残念〜。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TeaOwner_OTHER_NORMAL_COMMENT",
+      "Text": "<NAME_MOB_QINA>\r\n思ったよりも\nフツーの味になっちゃっタ〜。\n残念〜。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TeaOwner_BAD_COMMENT",
+      "Text": "<NAME_MOB_QINA>\r\n…さすがのアタシも、\nこのジュースはお手上げ〜。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_TeaOwner_OTHER_BAD_COMMENT",
+      "Text": "<NAME_MOB_QINA>\r\n…さすがのアタシも、\nこのジュースはお手上げ〜。"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_GO_HOME_00",
+      "Text": "自宅に帰ろうかな？"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_GO_HOME_01",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_FES_S_DRINK_GO_HOME_02",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    }
+  ]
+}

@@ -1,0 +1,910 @@
+﻿{
+  "Date": "2016-06-10T19:21:14.6010784+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MSG_NONE",
+      "Text": "-------"
+    },
+    {
+      "VardId": "MSG_CHOICE_000",
+      "Text": "Ein Feld pachten."
+    },
+    {
+      "VardId": "MSG_CHOICE_001",
+      "Text": "<CANCEL_SELECT>\nNichts."
+    },
+    {
+      "VardId": "MSG_CHOICE_002",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nWillkommen in der Gilde.\nWas kann ich für dich tun?"
+    },
+    {
+      "VardId": "MSG_000",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nWelches Feld möchtest du pachten?"
+    },
+    {
+      "VardId": "MSG_001",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nDieses Feld scheint zurzeit nicht benutzt zu\nwerden. Ich werde dich sofort als <gender male=\"Pächter\" female=\"Pächterin\"> ein-\ntragen. Du kannst <RED>heute anfangen</RED>, es zu nutzen."
+    },
+    {
+      "VardId": "MSG_002",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDu bist zurzeit als <gender male=\"Pächter\" female=\"Pächterin\"> dieses Feldes\neingetragen, <BLUE><MYNAME></BLUE>.\n<PAGE>\nIch kann dich gerne erneut als Pächter eintragen."
+    },
+    {
+      "VardId": "MSG_003",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nSieht aus, als sei dieses Feld zurzeit vergeben.\n<PAGE>\nBitte warte, bis <BLUE><CHARANAME0></BLUE> hier ist, sodass\nwir alles Weitere besprechen können."
+    },
+    {
+      "VardId": "MSG_003_1",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\n<BLUE><CHARANAME0></BLUE> hat dieses Feld momentan\ngepachtet.\n<PAGE>\nLeider geht es <BLUE><CHARANAME0></BLUE> zurzeit nicht so\ngut. Komm doch bitte <BLUE>morgen oder später</BLUE>\nzurück, um deinen Antrag erneut vorzubringen."
+    },
+    {
+      "VardId": "MSG_004_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_SAD>\nOh, du interessierst dich für das Feld, das ich\ngepachtet habe?"
+    },
+    {
+      "VardId": "MSG_004_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\nSo, <MYNAME>. Du interessierst dich also für\ndas Feld, das ich gepachtet habe."
+    },
+    {
+      "VardId": "MSG_004_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SPECIAL>\nDu willst das Feld pachten, das ich zurzeit\nbenutze? Dir muss wohl mal gezeigt\nwerden, wo du stehst!"
+    },
+    {
+      "VardId": "MSG_004_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nDu willst das Feld pachten, das ich zurzeit\nbenutze? Äh... das kommt jetzt aber ein\nbisschen plötzlich..."
+    },
+    {
+      "VardId": "MSG_004_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nDu willst das Feld pachten, das ich zurzeit\nbenutze? Äh... das kommt jetzt aber ein\nbisschen plötzlich..."
+    },
+    {
+      "VardId": "MSG_004_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nOh? Du möchtest das Feld pachten, das ich\nbenutze? Ojemine, was machen wir da nur?"
+    },
+    {
+      "VardId": "MSG_004_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\nDu willst also das Feld pachten, das ich\nbenutze? Hmmm... Ich weiß nicht..."
+    },
+    {
+      "VardId": "MSG_004_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\nDu willst also das Feld pachten, das ich\nbenutze? Hmmm... Ich weiß nicht..."
+    },
+    {
+      "VardId": "MSG_004_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\nDu willst also das Feld pachten, das ich be-\nnutze? Normalerweise würde ich dir ja gern hel-\nfen, aber mit dem Feld ist das so 'ne Sache..."
+    },
+    {
+      "VardId": "MSG_CHOICE_003",
+      "Text": "Entscheidung bei einer Veranstaltung"
+    },
+    {
+      "VardId": "MSG_CHOICE_004",
+      "Text": "Entscheidung nach Liefereinnahmen"
+    },
+    {
+      "VardId": "MSG_CHOICE_005",
+      "Text": "Entscheidung nach Anzahl gelieferter Items"
+    },
+    {
+      "VardId": "MSG_CHOICE_006",
+      "Text": "Entscheidung nach Vielfalt gelieferter Items"
+    },
+    {
+      "VardId": "MSG_CHOICE_007",
+      "Text": "Ausdiskutieren"
+    },
+    {
+      "VardId": "MSG_CHOICE_008",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\n<SPEED_IMME>Was möchtest du tun?"
+    },
+    {
+      "VardId": "MSG_005",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nWer bei der nächsten jährlichen Veranstaltung,\nan der jeder gerne teilnehmen kann, den höheren\nPlatz belegt, darf dieses Feld pachten.\n<PAGE>\nDie nächste infrage kommende Veranstaltung ist\n<article-d_nom> <RED><MOJI0></RED>."
+    },
+    {
+      "VardId": "MSG_006",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_SAD>\nEs sieht so aus, als gäbe es in nächster Zeit\nkein Ereignis bei dem ihr gegeneinander\nantreten könnt.\n<PAGE>\n<FACE_NORMAL>\nWähle doch bitte eine andere Methode aus."
+    },
+    {
+      "VardId": "MSG_CHOICE_009",
+      "Text": "Herausforderung annehmen!"
+    },
+    {
+      "VardId": "MSG_CHOICE_010",
+      "Text": "<CANCEL_SELECT>\nNoch mal überdenken."
+    },
+    {
+      "VardId": "MSG_CHOICE_011",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nDu möchtest also eine\n<RED><MOJI0></RED>?"
+    },
+    {
+      "VardId": "MSG_007",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nIn Ordnung. Wer am <BLUE><MOJI1>. im <MOJI0></BLUE>\n<RED>am meisten Profit mit Lieferungen</RED>\nmacht, erhält das Pachtrecht."
+    },
+    {
+      "VardId": "MSG_008",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nIn Ordnung. Wer am <BLUE><MOJI1>. im <MOJI0></BLUE>\n<RED>am meisten <MOJI2></RED> verkauft,\nerhält das Pachtrecht für dieses Feld."
+    },
+    {
+      "VardId": "MSG_008_ALL",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nIn Ordnung. Wer am <BLUE><MOJI1>. im <MOJI0> </BLUE>\n<RED>die meisten Items verschickt</RED>, erhält das\nPachtrecht für dieses Feld.\n<PAGE>\nFür diesen Wettbewerb kann <RED>jede Art</RED> von Item \nverschickt werden, ganz ohne Beschränkungen."
+    },
+    {
+      "VardId": "MSG_009",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nIn Ordnung. Wer am <BLUE><MOJI1>. im <MOJI0></BLUE><RED> die\ngrößte Vielfalt an Items</RED> verschickt, erhält das\nPachtrecht für dieses Feld."
+    },
+    {
+      "VardId": "MSG_CHOICE_012",
+      "Text": "Ausdiskutieren."
+    },
+    {
+      "VardId": "MSG_CHOICE_013",
+      "Text": "<CANCEL_SELECT>\nNoch mal überdenken."
+    },
+    {
+      "VardId": "MSG_CHOICE_014",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nIn Ordnung. Du und <CHARANAME0> könnt die\nAngelegenheit besprechen, und wenn ihr euch\neinig seid, darfst du das Feld benutzen.\n<PAGE>\nWenn ihr es allerdings nicht schafft, zu einer \nEinigung zu gelangen, wird <CHARANAME0>\ndie Art der Herausforderung entscheiden.\n<PAGE>\nBist du mit diesen Bedingungen einverstanden?"
+    },
+    {
+      "VardId": "MSG_010_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_SAD>\nDu willst es ausdiskutieren? Gib mir einen\nMoment Zeit, darüber nachzudenken. Hmmm...\nSollte ich oder sollte ich nicht..."
+    },
+    {
+      "VardId": "MSG_010_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_SAD>\nDu willst es ausdiskutieren? Gib mir einen\nMoment Zeit, darüber nachzudenken. Hmmm...\nSollte ich oder sollte ich nicht..."
+    },
+    {
+      "VardId": "MSG_010_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\nDu willst es ausdiskutieren? Na gut. Warte hier.\nIch muss einen Moment nachdenken."
+    },
+    {
+      "VardId": "MSG_010_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\nDu willst es ausdiskutieren? Na gut. Warte hier.\nIch muss einen Moment nachdenken."
+    },
+    {
+      "VardId": "MSG_010_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\nDu willst es ausdiskutieren? Na gut. Warte hier.\nIch muss einen Moment nachdenken."
+    },
+    {
+      "VardId": "MSG_010_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nDu willst es ausdiskutieren? Hmmm... was \nkönnte man da nur machen?"
+    },
+    {
+      "VardId": "MSG_010_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\nDu willst drüber reden? Hmmm... mal sehen..."
+    },
+    {
+      "VardId": "MSG_010_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\nDu willst drüber reden? Hmmm... mal sehen..."
+    },
+    {
+      "VardId": "MSG_010_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\nDu willst drüber reden? Hmmm... mal sehen..."
+    },
+    {
+      "VardId": "MSG_CHOICE_015",
+      "Text": "Geduldig abwarten. "
+    },
+    {
+      "VardId": "MSG_CHOICE_016",
+      "Text": "Bezahlung anbieten."
+    },
+    {
+      "VardId": "MSG_CHOICE_017",
+      "Text": "Scheint angestrengt nachzudenken..."
+    },
+    {
+      "VardId": "MSG_011_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_SAD>\nHmmm..."
+    },
+    {
+      "VardId": "MSG_011_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_SAD>\nHmmm..."
+    },
+    {
+      "VardId": "MSG_011_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\nWas mache ich nur, was mache ich nur... Das\nwill wohlüberlegt sein."
+    },
+    {
+      "VardId": "MSG_011_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\nWas mache ich nur, was mache ich nur... Das\nwill wohlüberlegt sein."
+    },
+    {
+      "VardId": "MSG_011_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\nWas mache ich nur, was mache ich nur... Das\nwill wohlüberlegt sein."
+    },
+    {
+      "VardId": "MSG_011_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nAch Gottchen, was machen wir da nur..."
+    },
+    {
+      "VardId": "MSG_011_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\nÜber so was nachdenken liegt mir echt nicht.\nIch krieg schon Kopfschmerzen..."
+    },
+    {
+      "VardId": "MSG_011_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\nÜber so was nachdenken liegt mir echt nicht.\nIch krieg schon Kopfschmerzen..."
+    },
+    {
+      "VardId": "MSG_011_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\nÜber so was nachdenken liegt mir echt nicht.\nIch krieg schon Kopfschmerzen..."
+    },
+    {
+      "VardId": "MSG_012",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nAlso gut, wie lautet dein Angebot für das\nRecht, dieses Feld zu nutzen?"
+    },
+    {
+      "VardId": "MSG_013_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\n?!\nAlso das habe ich jetzt nicht von dir erwartet.\nHmmm..."
+    },
+    {
+      "VardId": "MSG_013_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\n?!\nAlso das habe ich jetzt nicht von dir erwartet.\nHmmm..."
+    },
+    {
+      "VardId": "MSG_013_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\nWie? Du schlägst mir - MIR - also vor, die\nAngelegenheit mit GELD zu regeln?"
+    },
+    {
+      "VardId": "MSG_013_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\nBrauchst du dieses Feld wirklich so\ndringend?"
+    },
+    {
+      "VardId": "MSG_013_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\nBrauchst du dieses Feld wirklich so\ndringend?"
+    },
+    {
+      "VardId": "MSG_013_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_SAD>\nDu bietest mir so viel Geld an, damit du dieses\nFeld nutzen kannst? Ach, du liebes bisschen..."
+    },
+    {
+      "VardId": "MSG_013_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\nOh nein, nicht Geld! Meine einzi-- Äh, eine mei-\nner Schwächen! Verflixt, was mach ich nur..."
+    },
+    {
+      "VardId": "MSG_013_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\nOh nein, nicht Geld! Meine einzi-- Äh, eine mei-\nner Schwächen! Verflixt, was mach ich nur..."
+    },
+    {
+      "VardId": "MSG_013_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\nOh nein, nicht Geld! Meine einzi-- Äh, eine mei-\nner Schwächen! Verflixt, was mach ich nur..."
+    },
+    {
+      "VardId": "MSG_014_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\n<WINDOW_ROSE_R>Konflikt liegt einfach nicht in meiner Natur.\nSolche Auseinandersetzungen widerstreben mir\nund ich gehe ihnen lieber aus dem Weg...\n<PAGE>\nNun gut, ich bin einverstanden. Du kannst das\nFeld nutzen. Ich hoffe, du behandelst es gut."
+    },
+    {
+      "VardId": "MSG_014_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\n<WINDOW_ROSE_R>Nun gut, <MYNAME>, eine Bitte von dir kann ich\nja wohl kaum ablehnen.\n<PAGE>\nDas Feld ist dein. Ich bin sicher, in deinen\nHänden wird es wundervoll gedeihen."
+    },
+    {
+      "VardId": "MSG_014_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\n<WINDOW_PLEASANT_R>Na schön, dann bin ich diesmal eben großzügig\nund lasse dich das Feld nutzen. Du zeigst\nbesser die angemessene Dankbarkeit!"
+    },
+    {
+      "VardId": "MSG_014_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\n<WINDOW_PLEASANT_R>Na schön, dann bin ich diesmal eben großzügig\nund lasse dich das Feld nutzen. Du zeigst\nbesser die angemessene Dankbarkeit!"
+    },
+    {
+      "VardId": "MSG_014_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\nWenn du so offen und ehrlich fragst, kann ich\nwohl kaum Nein sagen. Ich habe anscheinend\nkeine Wahl...\n<PAGE>\n<FACE_LAUGH><WINDOW_PLEASANT_R>Du darfst das Feld benutzen. Aber ich erwarte,\ndass du dich zu Hause für diesen Gefallen\nrevanchierst, verstanden?!"
+    },
+    {
+      "VardId": "MSG_014_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\n<WINDOW_PLEASANT_R>Na gut, ich sehe ja, wie gern du auf diesem Feld\narbeiten möchtest. Du kannst es haben, viel\nErfolg damit."
+    },
+    {
+      "VardId": "MSG_014_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\n<WINDOW_PLEASANT_R>\nAlles klar, wenn es dir so wichtig ist, kann\nich, glaub ich, drauf verzichten."
+    },
+    {
+      "VardId": "MSG_014_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\n<WINDOW_PLEASANT_R>Ich würde dir also einen Gefallen tun,\n<MYNAME>? Kein Problem! Wenn es dir so\nwichtig ist, kannst du es gerne haben."
+    },
+    {
+      "VardId": "MSG_014_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\n<WINDOW_PLEASANT_R>Also, wenn du es so dringend brauchst, kann\nich natürlich nicht nein sagen. Alles klar, du\nkannst es haben.\n<PAGE>\nAber dafür machst du mir morgen mein\nLieblingsfrühstück, einverstanden?"
+    },
+    {
+      "VardId": "MSG_015",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nHervorragend. Ich werde dich gleich als\n<gender male=\"neuen Pächter\" female=\"neue Pächterin\"> eintragen."
+    },
+    {
+      "VardId": "MSG_016_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\n...Nein, ich fürchte, das kann ich nicht tun.\n<PAGE>\n<FACE_LAUGH>Aber ich schätze, so schnell gibst du nicht auf.\nDeshalb fordere ich eine\n<RED><MOJI0></RED>!\n\n "
+    },
+    {
+      "VardId": "MSG_016_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_SAD>\nAuch wenn ich dich gerne unterstützen würde,\n<MYNAME>, kann ich das leider nicht tun.\n<PAGE>\n<FACE_LAUGH>Aber ich schätze, so schnell gibst du nicht auf.\nDeshalb fordere ich eine\n<RED><MOJI0></RED>!"
+    },
+    {
+      "VardId": "MSG_016_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nNein, ich habe auch meinen Stolz, musst du\nwissen.\n<PAGE>\n<FACE_SPECIAL>Wenn du es haben willst, gibt\nes dafür nur einen Weg:\nEine <RED><MOJI0></RED>!"
+    },
+    {
+      "VardId": "MSG_016_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nIch fürchte, selbst wenn du fragst, muss ich\nablehnen. Nicht nur du strebst danach, eine\nWeltklasse-Farm zu besitzen, weißt du?\n<PAGE>\n<FACE_LAUGH>Wenn du es haben willst, gibt\nes dafür nur einen Weg:\nEine <RED><MOJI0></RED>!"
+    },
+    {
+      "VardId": "MSG_016_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nIch fürchte, selbst wenn du fragst, muss ich\nablehnen. Nicht nur du strebst danach, eine\nWeltklasse-Farm zu besitzen, weißt du?\n<PAGE>\n<FACE_LAUGH>Wenn du es haben willst, gibt\nes dafür nur einen Weg:\nEine <RED><MOJI0></RED>!"
+    },
+    {
+      "VardId": "MSG_016_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_SAD>\nTut mir leid, <gender male=\"mein Junge\" female=\"Kleines\">, aber die Ernte von dem\nFeld ist ziemlich wichtig für mich. Ich kann es\ndir nicht überlassen.\n<PAGE>\n<FACE_NORMAL>Aber du siehst aus, als würdest du es wirklich\ngern für dich haben. Also, wie wäre es mit einer\n<RED><MOJI0></RED>?"
+    },
+    {
+      "VardId": "MSG_016_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_ANGRY>\n<WINDOW_FLAME_R>Argh! Mir fällt einfach nichts ein, also... nein!\nWenn du es willst, musst du's schon gewinnen!\n<RED><MOJI0></RED>!"
+    },
+    {
+      "VardId": "MSG_016_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\n<WINDOW_FLAME_R>Argh! Mir fällt einfach nichts ein, also... nein!\nWenn du es willst, musst du's schon gewinnen!\n<RED><MOJI0></RED>!"
+    },
+    {
+      "VardId": "MSG_016_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\nÄhm... ich hab versucht, mir was einfallen zu\nlassen, aber wenn wir beide Weltklasse-Farmer\nwerden wollen, sollten wir drum kämpfen!\n<PAGE>\n<FACE_LAUGH>Wenn du es wirklich willst, regeln wir das offen\nund ehrlich mit einer\n<RED><MOJI0></RED>!"
+    },
+    {
+      "VardId": "MSG_017_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\nWunderbar. Liefern wir uns ein elegantes Duell!\nIch freue mich schon darauf."
+    },
+    {
+      "VardId": "MSG_017_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\nWunderbar. Liefern wir uns ein elegantes Duell!\nIch freue mich schon darauf."
+    },
+    {
+      "VardId": "MSG_017_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nIch werde mit Sicherheit gewinnen, aber gib\nruhig dein Bestes."
+    },
+    {
+      "VardId": "MSG_017_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nOhoho! Glaub ja nicht, dass du leichtes Spiel\nhaben wirst, denn ich kann dir versichern, dass\nich gewinnen werde! Das wird ein Spaß."
+    },
+    {
+      "VardId": "MSG_017_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nOhoho! Glaub ja nicht, dass du leichtes Spiel\nhaben wirst, denn ich kann dir versichern, dass\nich gewinnen werde! Das wird ein Spaß."
+    },
+    {
+      "VardId": "MSG_017_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nGeben wir unser Bestes, <gender male=\"mein Junge\" female=\"Kleines\">.\nIrgendwie freue ich mich drauf!"
+    },
+    {
+      "VardId": "MSG_017_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\nJawoll! Das wird ein Spitzenduell! "
+    },
+    {
+      "VardId": "MSG_017_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\nJawoll! Das wird ein Spitzenduell, <MYNAME>! "
+    },
+    {
+      "VardId": "MSG_017_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\nJawoll! Das wird ein Spitzenduell! Halt dich\naber nicht zurück, nur weil wir verheiratet sind,\nin Ordnung?"
+    },
+    {
+      "VardId": "MSG_CHOICE_018",
+      "Text": "Geld: %lldG"
+    },
+    {
+      "VardId": "MSG_018_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\nDa kann man wohl nichts machen.\nWie unschön.\n<PAGE>\nDa steht uns ohne Zweifel eine entzückende\nHerausforderung bevor. Ich fordere eine\n<RED><MOJI0></RED>!"
+    },
+    {
+      "VardId": "MSG_018_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\nDa kann man wohl nichts machen.\nWie unschön.\n<PAGE>\nDa steht uns ohne Zweifel eine entzückende\nHerausforderung bevor. Ich fordere eine\n<RED><MOJI0></RED>!"
+    },
+    {
+      "VardId": "MSG_018_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nEgal, wie sehr ich darüber nachdenke, es geht\neinfach nicht. Aber ich schätze, ich kann dir\nzumindest eine faire Chance geben.\n<PAGE>\n<FACE_SPECIAL>Fordere mich heraus! Wer gewinnt erhält das\nRecht, dieses Feld zu nutzen. Ich verlange eine\n<RED><MOJI0></RED>!"
+    },
+    {
+      "VardId": "MSG_018_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nNein, das ist nicht akzeptabel. Aber ich kann dir\nzumindest eine faire Chance geben.\n<PAGE>\n<FACE_LAUGH>Fordere mich heraus! Wer gewinnt erhält das\nRecht, dieses Feld zu nutzen. Ich verlange eine\n<RED><MOJI0></RED>!"
+    },
+    {
+      "VardId": "MSG_018_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nNein, das ist nicht akzeptabel. Aber ich kann dir\nzumindest eine faire Chance geben.\n<PAGE>\n<FACE_LAUGH>Fordere mich heraus! Wer gewinnt erhält das\nRecht, dieses Feld zu nutzen. Ich verlange eine\n<RED><MOJI0></RED>!"
+    },
+    {
+      "VardId": "MSG_018_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\n<cap><MYNAME>, <gender male=\"mein Junge\" female=\"Kleines\"> wie wär es mit einer\n<RED><MOJI0></RED>?\nDabei kannst du bestimmt eine Menge lernen."
+    },
+    {
+      "VardId": "MSG_018_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_ANGRY>\nArgh! Dieses Ausdiskutieren bringt nichts!\nIch krieg schon Kopfschmerzen!\n<PAGE>\n<FACE_LAUGH>Ich finde, wir sollten es einfach mit einer\nHerausforderung klären. Ich wär für eine\n<RED><MOJI0></RED>."
+    },
+    {
+      "VardId": "MSG_018_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_ANGRY>\nArgh! Dieses Ausdiskutieren bringt nichts!\nIch krieg schon Kopfschmerzen!\n<PAGE>\n<FACE_LAUGH>Ich finde, wir sollten es einfach mit einer\nHerausforderung klären. Ich wär für eine\n<RED><MOJI0></RED>."
+    },
+    {
+      "VardId": "MSG_018_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_ANGRY>\nArgh! Dieses Ausdiskutieren bringt nichts!\nIch krieg schon Kopfschmerzen!\n<PAGE>\n<FACE_LAUGH>Ich finde, wir sollten es einfach mit einer\nHerausforderung klären. Ich wär für eine\n<RED><MOJI0></RED>."
+    },
+    {
+      "VardId": "MSG_019_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\n<WINDOW_EXCLAMATION_R>Einen Moment bitte!"
+    },
+    {
+      "VardId": "MSG_019_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\n<WINDOW_EXCLAMATION_R>Einen Moment bitte!"
+    },
+    {
+      "VardId": "MSG_019_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SPECIAL>\n<WINDOW_EXCLAMATION_R>Hey, nicht so hastig!"
+    },
+    {
+      "VardId": "MSG_019_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SPECIAL>\n<WINDOW_EXCLAMATION_R>Hey, nicht so hastig!"
+    },
+    {
+      "VardId": "MSG_019_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SPECIAL>\n<WINDOW_EXCLAMATION_R>Hey, Moment mal!"
+    },
+    {
+      "VardId": "MSG_019_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nMeine Güte, warte mal ein Sekündchen. "
+    },
+    {
+      "VardId": "MSG_019_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_ANGRY>\n<WINDOW_FLAME_R>Hey, warte mal!"
+    },
+    {
+      "VardId": "MSG_019_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_ANGRY>\n<WINDOW_FLAME_R>Hey, warte mal!"
+    },
+    {
+      "VardId": "MSG_019_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_ANGRY>\n<WINDOW_FLAME_R>Hey, warte mal!"
+    },
+    {
+      "VardId": "MSG_020_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\nBei dieser Herausforderung wäre ich gerne dabei."
+    },
+    {
+      "VardId": "MSG_020_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\nBei dieser Herausforderung wäre ich gerne dabei."
+    },
+    {
+      "VardId": "MSG_020_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nAn der Herausforderung nehme ich auch teil!"
+    },
+    {
+      "VardId": "MSG_020_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nAn der Herausforderung nehme ich auch teil!"
+    },
+    {
+      "VardId": "MSG_020_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nAn der Herausforderung nehme ich auch teil!"
+    },
+    {
+      "VardId": "MSG_020_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nIch wäre bei der Herausforderung auch gern\ndabei, wenn es geht."
+    },
+    {
+      "VardId": "MSG_020_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\nBei der Herausforderung bin ich dabei!"
+    },
+    {
+      "VardId": "MSG_020_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\nBei der Herausforderung bin ich dabei!"
+    },
+    {
+      "VardId": "MSG_020_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\nBei der Herausforderung bin ich dabei!"
+    },
+    {
+      "VardId": "MSG_021_EV",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nNun gut, <BLUE><MOJI3></BLUE> werden bei <article-d_dat> \n<RED><MOJI2></RED> am <BLUE><MOJI1>.\nim <BLUE><MOJI0></BLUE></BLUE> um das Feld wettstreiten."
+    },
+    {
+      "VardId": "MSG_021_1",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nNun gut, <BLUE><MOJI3></BLUE> stellen sich am <BLUE><MOJI1>. im\n<MOJI0></BLUE> der Herausforderung. Der <RED>Wert\naller gelieferten Items</RED> entscheidet, wer gewinnt."
+    },
+    {
+      "VardId": "MSG_021_2_ALL",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nNun gut, <BLUE><MOJI3></BLUE> stellen sich am <BLUE><MOJI1>. im\n<MOJI0></BLUE> der Herausforderung. Die\n<RED>Anzahl gelieferter Items</RED> bestimmt, wer gewinnt.\n<PAGE>\nDie Art der Items ist dabei nicht von Belang. Du\nkannst <RED>alle Items verschicken, die du willst</RED>."
+    },
+    {
+      "VardId": "MSG_021_2",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nAlso, <BLUE><MOJI3></BLUE> werden am <BLUE><MOJI1>. im <MOJI0></BLUE>\nherausgefordert. Es gewinnt, wer <RED>am meisten\n<MOJI2></RED> verkauft."
+    },
+    {
+      "VardId": "MSG_021_3",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nNun gut, <BLUE><MOJI3></BLUE> werden am <BLUE><MOJI1>. im \n<MOJI0></BLUE> herausgefordert. Die <RED>Vielfalt\ngelieferter Items</RED> entscheidet, wer gewinnt."
+    },
+    {
+      "VardId": "MSG_022",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nEs scheint, wir haben hier Schwierigkeiten, uns\nauf die Art der Herausforderung zu einigen. Der\nZweckmäßigkeit halber werde ich entscheiden."
+    },
+    {
+      "VardId": "MSG_023_EV",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\n<BLUE><MOJI3></BLUE> werden bei <article-d_dat> <RED><MOJI2></RED>\nam <BLUE><MOJI1>. im <MOJI0></BLUE> herausgefordert."
+    },
+    {
+      "VardId": "MSG_023_1",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\n<BLUE><MOJI3></BLUE> stellen sich am <BLUE><MOJI1>. im <MOJI0></BLUE>\nder Herausforderung. Der <RED>Gesamtwert gelieferter\nGüter</RED> entscheidet, wer gewinnt."
+    },
+    {
+      "VardId": "MSG_023_2_ALL",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\n<BLUE><MOJI3></BLUE> stellen sich am <BLUE><MOJI1>. im <MOJI0></BLUE>\nder Herausforderung. Die <RED>Anzahl gelieferter Items</RED>\nbestimmt, wer gewinnt.\n<PAGE>\nDie Art der Items ist dabei nicht von Belang. Ihr\nkönnt <RED>alle Items verschicken, die ihr wollt</RED>."
+    },
+    {
+      "VardId": "MSG_023_2",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\n<BLUE><MOJI3></BLUE> werden am <BLUE><MOJI1>. im <MOJI0></BLUE>\nherausgefordert. Der Teilnehmer, der <RED>die meisten\n<RED><MOJI2> </RED>liefert</RED>, gewinnt."
+    },
+    {
+      "VardId": "MSG_023_3",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\n<BLUE><MOJI3></BLUE> werden am <BLUE><MOJI1>. im <MOJI0></BLUE>\nherausgefordert. Die <RED>Vielfalt gelieferter Items</RED>\nbestimmt, wer gewinnt."
+    },
+    {
+      "VardId": "MSG_024_1",
+      "Text": "2 Personen"
+    },
+    {
+      "VardId": "MSG_024_2",
+      "Text": "3 Personen"
+    },
+    {
+      "VardId": "MSG_024_3",
+      "Text": "4 Personen"
+    },
+    {
+      "VardId": "MSG_026",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nTrotz dem, was ich zuvor gesagt habe, gibt es\nin Wirklichkeit nur eine Möglichkeit.\n<PAGE>\n<BLUE><MOJI3></BLUE> stellen sich am <BLUE><MOJI1>. im <MOJI0></BLUE>\nder Herausforderung. Die <RED>Gesamtzahl gelieferter\nItems</RED> bestimmt, wer gewinnt."
+    },
+    {
+      "VardId": "MSG_027",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nGuten Morgen, <MYNAME>."
+    },
+    {
+      "VardId": "MSG_028",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nTut mir leid, dass ich so früh störe. Ich habe \netwas anzukündigen, das du bestimmt mit an-\nhören willst. Kommst du mit zur Gilde?"
+    },
+    {
+      "VardId": "MSG_029_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\nSei gegrüßt, <MYNAME>. Ich habe gehört, dein\nNutzungsrecht für <article-d_nom>\n<RED><MOJI0></RED> ist abgelaufen.\n<PAGE>\nWenn du nichts dagegen hast, würde ich das\nFeld gern als Nächstes nutzen."
+    },
+    {
+      "VardId": "MSG_029_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\nSei gegrüßt, <MYNAME>. Ich habe gehört, dein\nNutzungsrecht für <article-d_nom>\n<RED><MOJI0></RED> ist abgelaufen.\n<PAGE>\n<FACE_NORMAL>Wenn du nichts dagegen hast, würde ich das\nFeld gern als Nächstes nutzen."
+    },
+    {
+      "VardId": "MSG_029_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\n<cap><MYNAME>! Ich habe dich schon erwartet. Dein\nNutzungsrecht für <article-d_nom> <RED><MOJI0></RED>\nist abgelaufen, nicht wahr?\n<PAGE>\n<FACE_NORMAL>Da du es nicht erneuert hast, macht es dir doch\nsicher nichts aus, wenn ich das Feld als\nNächstes nutze, oder?"
+    },
+    {
+      "VardId": "MSG_029_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\n<cap><MYNAME>! Ich habe dich schon erwartet. Dein\nNutzungsrecht für <article-d_nom> <RED><MOJI0></RED>\nist abgelaufen, nicht wahr?\n<PAGE>\n<FACE_NORMAL>Da du es nicht erneuert hast, macht es dir doch\nsicher nichts aus, wenn ich das Feld als\nNächstes nutze, oder?"
+    },
+    {
+      "VardId": "MSG_029_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\n<cap><MYNAME>! Ich habe dich schon erwartet. Dein\nNutzungsrecht für <article-d_nom> <RED><MOJI0></RED>\nist abgelaufen, nicht wahr?\n<PAGE>\n<FACE_NORMAL>Da du es nicht erneuert hast, macht es dir doch\nsicher nichts aus, wenn ich das Feld als\nNächstes nutze, oder?"
+    },
+    {
+      "VardId": "MSG_029_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nAuf dich hab ich gewartet, <gender male=\"mein Junge\" female=\"Kleines\">.\n<PAGE>\n<FACE_NORMAL>Ich wollte mit dir über <article-d_acc>\n<RED><MOJI0></RED> reden. Sieht aus, als\nwär dein Nutzungsrecht abgelaufen.\n<PAGE>\nIch hab mir neulich überlegt, ein paar neue\nProdukte anzubauen. Macht es dir was aus,\nwenn ich das Feld als Nächstes benutze?"
+    },
+    {
+      "VardId": "MSG_029_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\nGrüß dich! Ich hab auf dich gewartet!\n<PAGE>\n<FACE_NORMAL>Deine Pacht für <article-d_acc> <RED><MOJI0></RED>\nist abgelaufen, stimmts?\n<PAGE>\n<FACE_LAUGH>Kann ich das Feld als Nächstes benutzen?"
+    },
+    {
+      "VardId": "MSG_029_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\nGrüß dich! Ich hab auf dich gewartet!\n<PAGE>\n<FACE_NORMAL>Deine Pacht für <article-d_acc> <RED><MOJI0></RED>\nist abgelaufen, stimmts?\n<PAGE>\n<FACE_LAUGH>Kann ich das Feld als Nächstes benutzen?"
+    },
+    {
+      "VardId": "MSG_029_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\nGrüß dich! Ich hab auf dich gewartet!\n<PAGE>\n<FACE_NORMAL>Deine Pacht für <article-d_acc> <RED><MOJI0></RED>\nist abgelaufen, stimmts?\n<PAGE>\n<FACE_LAUGH>Kann ich das Feld als Nächstes benutzen?"
+    },
+    {
+      "VardId": "MSG_030_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\nNun gut, regeln wir die Angelegenheit mit einer\nHerausforderung.\n<PAGE>\nDu darfst die Bedingungen bestimmen. Ich bitte\nnur darum, dass es möglichst anmutig wird!"
+    },
+    {
+      "VardId": "MSG_030_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\nNun gut, regeln wir die Angelegenheit mit einer\nHerausforderung.\n<PAGE>\nDu darfst die Bedingungen bestimmen. Es\nkümmert mich nicht, welche Herausforderung\ndu wählst, denn mit dir wird es sicher reizend."
+    },
+    {
+      "VardId": "MSG_030_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_ANGRY>\nW-was?! Du... Du wagst es, meine Bitte\nabzuschlagen?\n<PAGE>\n<FACE_NORMAL>\nNun, dann müssen wir die Angelegenheit eben\nmit einer Herausforderung klären, nicht wahr?\n<PAGE>\n<FACE_SPECIAL>\nIch werde dir gestatten, die Bedingungen zu\nwählen, die du bevorzugst. Du sollst einen klei-\nnen Vorteil haben, damit es fair bleibt! Ohohoho!"
+    },
+    {
+      "VardId": "MSG_030_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nNein? Wie wäre es dann mit einer Herausforde-\nrung, um die Angelegenheit zu klären?\n<PAGE>\n<FACE_LAUGH>\nIch werde dir gestatten, die Bedingungen zu\nwählen, die dir am besten liegen.\nFür mich macht es keinen Unterschied!"
+    },
+    {
+      "VardId": "MSG_030_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nNein? Wie wäre es dann mit einer Herausforde-\nrung, um die Angelegenheit zu klären?\n<PAGE>\n<FACE_LAUGH>\nIch werde dir gestatten, die Bedingungen zu\nwählen, die dir am besten liegen.\nFür mich macht es keinen Unterschied!"
+    },
+    {
+      "VardId": "MSG_030_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nAch Gottchen. Na dann, wie wär es, wenn wir\ndie Sache mit einer Herausforderung klären?\n<PAGE>\n<FACE_LAUGH>Konfrontation liegt mir zwar sonst nicht, aber\ndu könntest dabei noch so einiges dazu lernen. \nWelche Herausforderung hättest du gerne?"
+    },
+    {
+      "VardId": "MSG_030_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\nOh. Geht klar. Klären wir das mit einer\nHerausforderung!\n<PAGE>\n<FACE_LAUGH>Du kannst die Bedingungen wählen. Egal,\nwie du dich entscheidest, wir tragen das offen\nund ehrlich aus!"
+    },
+    {
+      "VardId": "MSG_030_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\nOh. Geht klar. Klären wir das mit einer\nHerausforderung!\n<PAGE>\n<FACE_LAUGH>Du kannst die Bedingungen wählen. Egal,\nwie du dich entscheidest, wir tragen das offen\nund ehrlich aus!"
+    },
+    {
+      "VardId": "MSG_030_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\nOh, verflixt! Schätze, wir müssen das mit 'ner\nHerausforderung klären, was?\n<PAGE>\n<FACE_LAUGH>Du kannst die Bedingungen wählen. Egal,\nwie du dich entscheidest, wir tragen das offen\nund ehrlich aus! ♪"
+    },
+    {
+      "VardId": "MSG_CHOICE_019",
+      "Text": "Klar!"
+    },
+    {
+      "VardId": "MSG_CHOICE_020",
+      "Text": "Nö."
+    },
+    {
+      "VardId": "MSG_CHOICE_021_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\nEs macht dir doch nichts aus, wenn ich das\nFeld stattdessen benutze, oder?"
+    },
+    {
+      "VardId": "MSG_CHOICE_021_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\nEs macht dir doch nichts aus, wenn ich das\nFeld stattdessen benutze, oder?"
+    },
+    {
+      "VardId": "MSG_CHOICE_021_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nIch hätte viel bessere Verwendung für das Feld!"
+    },
+    {
+      "VardId": "MSG_CHOICE_021_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nDu hast doch nichts dagegen, wenn ich das Feld\nstattdessen benutze, oder?"
+    },
+    {
+      "VardId": "MSG_CHOICE_021_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nDu hast doch nichts dagegen, wenn ich das Feld\nstattdessen benutze, oder?"
+    },
+    {
+      "VardId": "MSG_CHOICE_021_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nLässt du mich bitte das Feld benutzen?"
+    },
+    {
+      "VardId": "MSG_CHOICE_021_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\nWie sieht's aus, kann ich das Feld benutzen?"
+    },
+    {
+      "VardId": "MSG_CHOICE_021_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\nWie sieht's aus, kann ich das Feld benutzen?"
+    },
+    {
+      "VardId": "MSG_CHOICE_021_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\nWie sieht's aus, kann ich das Feld benutzen?"
+    },
+    {
+      "VardId": "MSG_CHOICE_022",
+      "Text": "<SPEED_IMME>Einigungsbetrag → <BLUE><MOJI0></BLUE> G."
+    },
+    {
+      "VardId": "MSG_031_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\nIch wusste, auf dich ist Verlass, <MYNAME>!\nDein zuvorkommendes Wesen ist deine heraus-\nragendste Eigenschaft. Mein Dank ist dir Gewiss!"
+    },
+    {
+      "VardId": "MSG_031_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\nIch wusste, auf dich ist Verlass, <MYNAME>!\nDein zuvorkommendes Wesen ist deine heraus-\nragendste Eigenschaft. Mein Dank ist dir gewiss!"
+    },
+    {
+      "VardId": "MSG_031_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nOh, wie einsichtig! Das macht alles gleich viel\neinfacher."
+    },
+    {
+      "VardId": "MSG_031_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nGut, dann sind wir uns ja einig! Das macht alles\ngleich viel einfacher."
+    },
+    {
+      "VardId": "MSG_031_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nGut, dann sind wir uns ja einig. Danke,\n<MYNAME>."
+    },
+    {
+      "VardId": "MSG_031_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nJa, darf ich? Vielen Dank, <gender male=\"mein Junge\" female=\"Kleines\">."
+    },
+    {
+      "VardId": "MSG_031_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\nEcht? Ich darf? Juhu! Danke, <MYNAME>!"
+    },
+    {
+      "VardId": "MSG_031_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\nEcht? Ich darf? Juhu! Danke, <MYNAME>!\nDu bist <gender male=\"der Beste\" female=\"die Beste\">!"
+    },
+    {
+      "VardId": "MSG_031_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\nEcht? Ich darf? Juhu! Danke!\nIch liebe dich, <MYNAME>!"
+    },
+    {
+      "VardId": "MSG_032_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_SAD>\nUnsere Verhandlung steckt anscheinend in einer\nSackgasse. Es ist zwar etwas unansehnlich, aber\nwir haben wohl keine andere Wahl..."
+    },
+    {
+      "VardId": "MSG_032_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_SAD>\nUnsere Verhandlung steckt anscheinend in einer\nSackgasse. Es ist zwar etwas unansehnlich, aber\nich muss mich wohl fügen..."
+    },
+    {
+      "VardId": "MSG_032_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\nIch mache dir so ein großzügiges Angebot, und\ndu lehnst einfach ab?! ...Nun gut, dann wär das\nja geklärt... vorerst."
+    },
+    {
+      "VardId": "MSG_032_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\nHmpf! Warum musst du nur so stur sein? Nun\ngut, mir bleibt wohl keine andere Wahl, als die\nSache aufzugeben. Aber nur dieses eine Mal!"
+    },
+    {
+      "VardId": "MSG_032_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\nHmpf! Warum musst du nur so stur sein? Nun\ngut, mir bleibt wohl keine andere Wahl, als die\nSache aufzugeben. Aber nur dieses eine Mal!"
+    },
+    {
+      "VardId": "MSG_032_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_SAD>\nOh. Na schön, da kann man wohl nichts\nmachen!"
+    },
+    {
+      "VardId": "MSG_032_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\nAch, komm schon! Oh, Mann..."
+    },
+    {
+      "VardId": "MSG_032_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\nAch, komm schon! Oh, Mann..."
+    },
+    {
+      "VardId": "MSG_032_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\nAch, komm schon! Oh, Mann..."
+    },
+    {
+      "VardId": "MSG_CHOICE_023_0",
+      "Text": "<CHARANAME0>"
+    },
+    {
+      "VardId": "MSG_CHOICE_023_1",
+      "Text": "<CHARANAME1>"
+    },
+    {
+      "VardId": "MSG_CHOICE_023_2",
+      "Text": "<CHARANAME2>"
+    },
+    {
+      "VardId": "MSG_CHOICE_024",
+      "Text": "Äääh... nein."
+    },
+    {
+      "VardId": "MSG_CHOICE_025",
+      "Text": "<CHARANAME0> → <BLUE><MOJI0> G</BLUE>\n<CHARANAME1> → <BLUE><MOJI1> G</BLUE>"
+    },
+    {
+      "VardId": "MSG_CHOICE_026",
+      "Text": "<CHARANAME0> → <BLUE><MOJI0> G</BLUE>\n<CHARANAME1> → <BLUE><MOJI1> G</BLUE>\n<CHARANAME2> → <BLUE><MOJI2> G</BLUE>"
+    },
+    {
+      "VardId": "MSG_033_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_SAD>\nWie schade. Dieses Resultat ist zwar nicht\ngerade elegant, aber ich habe wohl keine andere\nWahl. Ich füge mich dem Schicksal."
+    },
+    {
+      "VardId": "MSG_033_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_SAD>\nWie schade. Dieses Resultat ist zwar nicht\ngerade elegant, aber ich habe wohl keine andere\nWahl. Ich füge mich dem Schicksal."
+    },
+    {
+      "VardId": "MSG_033_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\nWirklich? Nun gut... das war's dann wohl.\nVorerst..."
+    },
+    {
+      "VardId": "MSG_033_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\nWirklich? Nun gut... das war's dann wohl.\nVorerst..."
+    },
+    {
+      "VardId": "MSG_033_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\nWirklich? Nun gut... das war's dann wohl.\nVorerst..."
+    },
+    {
+      "VardId": "MSG_033_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_SAD>\nOh? Das ist aber schade. Na gut."
+    },
+    {
+      "VardId": "MSG_033_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\nAch, komm schon! Du weißt doch, dass ich\nnicht oft Leuten Geld anbiete!\n<PAGE>\nOh, Mann..."
+    },
+    {
+      "VardId": "MSG_033_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\nAch, komm schon! Du weißt doch, dass ich\nnicht oft Leuten Geld anbiete!\n<PAGE>\nOh, Mann..."
+    },
+    {
+      "VardId": "MSG_033_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\nWas, nein? Oh Mann..."
+    },
+    {
+      "VardId": "MSG_034_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\nNun gut, wie wäre es damit?"
+    },
+    {
+      "VardId": "MSG_034_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\nNun gut, wie wäre es damit?"
+    },
+    {
+      "VardId": "MSG_034_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nKann ich vielleicht... hiermit deine Meinung\nändern?"
+    },
+    {
+      "VardId": "MSG_034_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nKann ich vielleicht... hiermit deine Meinung\nändern?"
+    },
+    {
+      "VardId": "MSG_034_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nKann ich vielleicht... hiermit deine Meinung\nändern?"
+    },
+    {
+      "VardId": "MSG_034_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nWie wär's hiermit, <gender male=\"mein Junge\" female=\"Kleines\">?"
+    },
+    {
+      "VardId": "MSG_034_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\nHmmm... Alles klar, wie wär's hiermit?!"
+    },
+    {
+      "VardId": "MSG_034_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\nHmmm... Alles klar, wie wär's hiermit?!"
+    },
+    {
+      "VardId": "MSG_034_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\nHmmm... Alles klar, wie wär's hiermit?!"
+    },
+    {
+      "VardId": "MSG_035",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nGroßartig. Wenn das so ist, fällt das Nutzungs-\nrecht für <article-d_acc> <RED><MOJI0></RED> an\n<BLUE><CHARANAME0></BLUE>."
+    },
+    {
+      "VardId": "MSG_036_N",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\nDu hast bestimmt Produkte auf dem Feld,\ndie du erst noch abernten musst. Ich werde mit\nmeinen Arbeiten bis morgen warten."
+    },
+    {
+      "VardId": "MSG_036_N_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\nDu hast bestimmt Produkte auf dem Feld,\ndie du erst noch abernten musst. Ich werde mit\nmeinen Arbeiten bis morgen warten."
+    },
+    {
+      "VardId": "MSG_036_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nIch werde einen Tag warten, falls du auf dem\nFeld noch etwas abernten musst. Aber nur\neinen Tag, nicht länger."
+    },
+    {
+      "VardId": "MSG_036_M_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nIch werde einen Tag warten, falls du auf dem\nFeld noch etwas abernten musst. Aber nur\neinen Tag, nicht länger.  "
+    },
+    {
+      "VardId": "MSG_036_M_M",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nIch werde einen Tag warten, falls du auf dem\nFeld noch etwas abernten musst. Aber nur\neinen Tag, nicht länger.  "
+    },
+    {
+      "VardId": "MSG_036_G",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nIch werde noch einen Tag warten, bevor ich\nanfange, das Feld zu benutzen, für den Fall,\ndass du da noch was ernten musst. "
+    },
+    {
+      "VardId": "MSG_036_P",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\nDu hast auf dem Feld bestimmt noch was, das\ndu ernten musst, oder? Ich warte lieber noch\n'nen Tag auf dich."
+    },
+    {
+      "VardId": "MSG_036_P_1",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\nDu hast auf dem Feld bestimmt noch was, das\ndu ernten musst, oder? Ich warte lieber noch\n'nen Tag auf dich."
+    },
+    {
+      "VardId": "MSG_036_P_M",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\nDu hast auf dem Feld bestimmt noch was, das\ndu ernten musst, oder? Ich warte lieber noch\n'nen Tag auf dich."
+    },
+    {
+      "VardId": "MSG_037",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nGroßartig. Ich werde vermerken, dass die neue\nPacht <RED>morgen beginnt</RED>. Vielen Dank."
+    },
+    {
+      "VardId": "MSG_BAD_WEATHER_000",
+      "Text": "Donnerwetter, heute tobt ein <RED>Taifun</RED>! Der Wettbe-\nwerb um das öffentliche Feld wurde mit Sicher-\nheit abgesagt.\n<PAGE>\nIch sollte später zur Gilde gehen und meinen\nAntrag erneuern."
+    },
+    {
+      "VardId": "MSG_BAD_WEATHER_001",
+      "Text": "Donnerwetter, heute tobt ein <RED>Blizzard</RED>! Der Wett-\nbewerb um das öffentliche Feld wurde mit\nSicherheit abgesagt.\n<PAGE>\nIch sollte später zur Gilde gehen und meinen\nAntrag erneuern."
+    },
+    {
+      "VardId": "MSG_EDDA_CANCEL_000",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nOh, <MYNAME>. Es gibt da etwas, das du\nwissen solltest.\n<PAGE>\n<FACE_SAD>\nMadam Eda ließ mich wissen, dass sie ihr\nPachtrecht für das öffentliche Feld, das sie\ngenutzt hat, gerne wieder abgeben möchte.\n<PAGE>\n<FACE_NORMAL>Es bleibt noch etwas Zeit, bis die Pacht ausläuft,\naber sie hat entschieden, jemand anderen das\nFeld an ihrer Stelle nutzen zu lassen.\n<PAGE>\nWenn du es also selbst nutzen möchtest, bin ich\nbefugt, dich sofort als <gender male=\"neuen Pächter\" female=\"neue Pächterin\">\neinzutragen."
+    }
+  ]
+}

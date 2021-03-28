@@ -1,0 +1,666 @@
+﻿{
+  "Date": "2016-06-10T19:21:59.7284892+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_MORNING_00",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nBonjour, <MYNAME>. Comment te sens-tu ?"
+    },
+    {
+      "VardId": "MES_MORNING_01",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nBonjour, <MYNAME>. Donnons le meilleur de\nnous-mêmes aujourd'hui encore !"
+    },
+    {
+      "VardId": "MES_MORNING_02",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nBonjour, <MYNAME>. Saperlotte, tu as les traits\ndu visage vraiment tirés ! Tu n'as pas dormi ?\nTu ne devrais pas te surmener comme ça !"
+    },
+    {
+      "VardId": "MES_AFTERNOON_00",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nAh, <MYNAME>. Comment vas-tu ?"
+    },
+    {
+      "VardId": "MES_AFTERNOON_01",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nAh, <MYNAME>. Est-ce que tout se passe\nbien ?"
+    },
+    {
+      "VardId": "MES_AFTERNOON_02",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nBonjour, <MYNAME>. Comment se porte ta\nferme ? J'espère que tu ne te démènes pas trop !"
+    },
+    {
+      "VardId": "MES_EVENING_00",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nBonsoir, <MYNAME>. As-tu complété toutes\ntes tâches de la journée ?"
+    },
+    {
+      "VardId": "MES_EVENING_01",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nBonsoir, <MYNAME>. Comment vas-tu ?"
+    },
+    {
+      "VardId": "MES_EVENING_02",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nBonsoir, <MYNAME>. Il est tard, tu ne trouves\npas ? Le sommeil est la clé d'une bonne santé et\nprolonge la vie, alors si tu es <gender male=\"fatigué\" female=\"fatiguée\">, va dormir."
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_SPRING",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nIl fait beau et bon aujourd'hui, n'est-ce pas ?\nUn temps idéal pour aller se promener !"
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_SPRING",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nC'est dommage qu'il pleuve tant aujourd'hui.\nMais je suis sûre que les cultures apprécient\ntoute cette eau."
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_SUMMER",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nLe soleil tape vraiment fort aujourd'hui... Oooh,\nje me suis sentie un peu fébrile tout à coup."
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_SUMMER",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nJe n'ai rien contre la pluie qui rafraîchit un peu\nl'atmosphère, mais l'humidité !\nOooh, je n'aime vraiment pas ça !"
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_AUTUMN",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nC'est une magnifique journée d'été indien.\nLe temps adéquat pour sortir un peu."
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_AUTUMN",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nPendant l'automne, le temps se rafraîchit\nbeaucoup après une averse. Ce n'est pas évident\npour mes vieux os."
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_WINTER",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nL'air est si pur et frais aujourd'hui.\nAhhh, c'est tellement agréable !"
+    },
+    {
+      "VardId": "MES_WEATHER_SNOW",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_SAD>\nJ'espère que cette neige ne va pas s'entasser\ntrop. Je n'ai pas envie de déneiger demain."
+    },
+    {
+      "VardId": "MES_WEATHER_TYPHOON",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nSaperlipopette. Tu ne devrais pas sortir par tel\ntemps, mon enfant."
+    },
+    {
+      "VardId": "MES_WEATHER_HEAVYSNOW",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nOh, je sens que la neige va tenir... Il va falloir\nque je déneige dès l'aube, demain."
+    },
+    {
+      "VardId": "MES_BLESSING_LOVER",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\n... <cap><MYNAME>, j'ai entendu dire que tu t'étais\n<gender male=\"entiché\" female=\"entichée\"> de quelqu'un. Les amours de jeunesse\nsont tellement attendrissants !\n<PAGE>\nIl me tarde de te voir <gender male=\"marié\" female=\"mariée\"> avec un petit bébé !"
+    },
+    {
+      "VardId": "MES_HOUSE_FRIEND",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nJ'aime venir ici pour discuter avec Otmar de\ntemps en temps."
+    },
+    {
+      "VardId": "MES_HOUSE_PINPOINT_00",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nJe viens ici de temps en temps, pour faire ma\nvisite médicale de routine.\n<PAGE>\nLe Dr Marian s'habille peut-être de façon étrange,\nmais c'est un très bon docteur. Et Angela est\nvraiment très gentille, une fois qu'on la connaît."
+    },
+    {
+      "VardId": "MES_HOUSE_PINPOINT_01",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nFritz travaille dur, n'est-ce pas ? Il est peut-être\nun peu insouciant de temps en temps, mais\nc'est un très gentil garçon."
+    },
+    {
+      "VardId": "MES_HOUSE_PINPOINT_02",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nCes temps-ci, je ne peux pas sortir beaucoup,\nalors je suis toujours très heureuse d'avoir la\npossibilité de discuter avec des gens comme toi."
+    },
+    {
+      "VardId": "MES_AREA_FOREST_00",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nIl y a une rumeur qui dit qu'il existe des lutins\npar ici, le savais-tu ?\n<PAGE>\nÇa serait tout à fait naturel qu'il y en ait. Moi, je\nsuis juste heureuse de travailler sur des terres qui\nont tant d'importance pour eux !"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_01",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nJ'aime tellement la sensation de l'air frais sur ma\npeau, lorsque je me balade en forêt..."
+    },
+    {
+      "VardId": "MES_AREA_RIVER_00",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nIl y a beaucoup d'agitation dans cette rivière.\nC'est un lieu connu pour la pêche."
+    },
+    {
+      "VardId": "MES_AREA_RIVER_01",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nMarcher jusqu'ici me fatigue toujours beaucoup."
+    },
+    {
+      "VardId": "MES_AREA_FARM_00",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nLa rivière d'à côté est un très bon endroit pour la\npêche. Mon défunt mari me ramenait souvent\ndu poisson, à l'époque."
+    },
+    {
+      "VardId": "MES_AREA_FARM_01",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nJe viens rendre visite à Fritz de temps en temps.\n<PAGE>\nC'est une longue marche pour moi, mais j'oublie\ntous mes soucis quand je viens le voir."
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_00",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nCe genre de travail laisse ses marques sur mes\nnombreux printemps. Je suis aussi raide qu'une\nbinette quand je termine de sarcler."
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_01",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nCe genre de travail laisse ses marques sur mes\nnombreux printemps. Je suis aussi raide qu'une\nbinette quand je termine de sarcler."
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_02",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nJ'essaie de faire pousser du sucre de canne,\nmais... c'est plus difficile que ça n'y paraît.\nQuelqu'un d'autre devrait sans doute essayer... ?"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_00",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nCe genre de travail laisse ses marques sur mes\nnombreux printemps. Je suis aussi raide qu'une\nbinette quand je termine de sarcler."
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_01",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nCe genre de travail laisse ses marques sur mes\nnombreux printemps. Je suis aussi raide qu'une\nbinette quand je termine de sarcler."
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_02",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nTu peux cultiver du riz dans les terrains irrigués,\nici... mais c'est trop de travail pour moi. Et puis,\nc'est un peu loin de chez moi."
+    },
+    {
+      "VardId": "MES_AREA_OTHER_00",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nJe me fatigue très vite ces derniers temps, et ce\nmême si je ne marche plus autant qu'avant.\nJe me demande si je couve quelque chose..."
+    },
+    {
+      "VardId": "MES_AREA_OTHER_01",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nQuand je me sens bien, j'essaie de sortir et de\nme balader autant que possible."
+    },
+    {
+      "VardId": "MES_HEART_WHITE",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nNous n'étions que quatre fermiers au Village du\nChêne avant ton arrivée. Maintenant, nous\nsommes cinq.\n<PAGE>\nOn compte beaucoup sur tout le monde pour\ntravailler dur par ici. Tout le monde, même toi."
+    },
+    {
+      "VardId": "MES_HEART_PURPLE",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nFais-tu des conserves, avec tes légumes ?\n<PAGE>\nSi tu en cultives beaucoup, tu devrais les\nmettre en conserve dans du vinaigre. C'est\ndélicieux et ça se garde longtemps."
+    },
+    {
+      "VardId": "MES_HEART_BLUE",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nC'est très dur de travailler sur une ferme, mais\nc'est aussi très gratifiant.\n<PAGE>\nQuand tu travailles d'arrache-pied pour faire\npousser tes cultures, ta fatigue s'évapore toute\nseule dès que tu vois ton travail porter ses fruits."
+    },
+    {
+      "VardId": "MES_HEART_GREEN",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nLes habitants du Village du Chêne sont un peu\ncomme ma famille.\n<PAGE>\nSurtout Otmar et moi. Nous sommes amis\ndepuis très longtemps. On aime beaucoup se\nretrouver autour d'une tasse de thé."
+    },
+    {
+      "VardId": "MES_HEART_YELLOW",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nÇa fait un moment que je travaille en tant que\nfermière. Mais j'ai toujours su me ménager, et\ngrâce à ça, j'arrive toujours à travailler.\n<PAGE>\n... Et oui, tout doucement, sans se presser...\nVoilà ma devise.\n<PAGE>\nÇa ne m'a jamais rendue riche, mais j'ai toujours\neu assez pour me nourrir et suffisamment de\ntemps pour en profiter un maximum."
+    },
+    {
+      "VardId": "MES_HEART_ORANGE",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nJe suis née et ai été élevée ici. Jamais je ne me\nsuis intéressée aux autres endroits.\n<PAGE>\nJe n'ai jamais eu l'envie de voyager non plus.\nJ'imagine que j'ai trouvé mon petit paradis.\n<PAGE>\nMais mon fils m'envoie des lettres de temps en\ntemps. Elles me donnent toujours envie d'aller\nlui rendre visite."
+    },
+    {
+      "VardId": "MES_HEART_RED",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nÉcoute, <MYNAME>, je suis ravie que tu sois\n<gender male=\"venu\" female=\"venue\"> chez moi.\n<PAGE>\nTu travailles très dur, et tu as toujours été très\n<gender male=\"gentil\" female=\"gentille\"> avec moi... c'est pourquoi, un jour,\nj'aimerais que tu reprennes ma ferme.\n<PAGE>\nJe ne t'y forcerais jamais, mais je t'en prie,\nréfléchis-y bien."
+    },
+    {
+      "VardId": "MES_PRESENT_BEST",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nSaperlotte, c'est vraiment pour moi ? C'est ce\nque je préfère. Merci !"
+    },
+    {
+      "VardId": "MES_PRESENT_VERY",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nOh, c'est pour moi ? C'est tellement attentionné.\nMerci !"
+    },
+    {
+      "VardId": "MES_PRESENT_LIKE",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nOh, tu me donnes ça ? Ça me fait plaisir. Merci."
+    },
+    {
+      "VardId": "MES_PRESENT_NORMAL",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nMerci de m'offrir un tel cadeau. Mais rien ne te\nforce à être aussi <gender male=\"généreux\" female=\"généreuse\">."
+    },
+    {
+      "VardId": "MES_PRESENT_DISLIKE",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\n... C'est pour moi... ? Eh bien, puisque ça vient\nde toi, je l'accepte."
+    },
+    {
+      "VardId": "MES_PRESENT_HATE",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_ANGRY>\nOh, c'est un... cadeau pour moi ?\n<PAGE>\n<FACE_SAD>Oh, n-non, c'est... je l'accepte. Ce serait\ndommage de le jeter."
+    },
+    {
+      "VardId": "MES_PRESENT_WORST",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_ANGRY>\n... !\n<PAGE>\n<FACE_SAD>Je... suis navrée, <MYNAME>. Je suis sûre que\n<adjective male-s=\"ce\" female-s=\"cette\" male-p=\"ces\" female-p=\"ces\"> <low><BLUE><ITEMNAME0></BLUE> <adjective male-s=\"est bon\" female-s=\"est bonne\" male-p=\"sont bons\" female-p=\"sont bonnes\">...\nmais ce n'est pas ce que je préfère.\n<PAGE>\nM-Mais puisque tu l'as fait pour moi, merci."
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_NORMAL",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nOh, ça brille autant que de l'or. Tu n'as pas\nbesoin d'être aussi <gender male=\"gentil\" female=\"gentille\"> avec moi, tu sais,\nmais merci d'être aussi <gender male=\"attentionné\" female=\"attentionnée\">."
+    },
+    {
+      "VardId": "MES_PRESENT_CANNOT",
+      "Text": "Je ne devrais pas lui offrir de cadeau pour le\nmoment."
+    },
+    {
+      "VardId": "MES_PRESENT_RESERVE",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nSapristi, ça fait tellement longtemps que nous\nn'avons pas discuté. Je ne sais pas si je peux\naccepter ton cadeau après tout ce temps..."
+    },
+    {
+      "VardId": "MES_PRESENT_SECONDTIME",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nOh, merci beaucoup, mais deux cadeaux en une\nseule journée ? Je ne peux pas accepter."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_BEST",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nQuoi ? Un cadeau d'anniversaire pour moi ?!\nOh mais oui, c'est mon anniversaire !\nSapristi, tu t'en es rappelé ?\n<PAGE>\n<FACE_LAUGH>Oh, <adjective male-s=\"quel beau\" female-s=\"quelle belle\" male-p=\"quels beaux\" female-p=\"quelles belles\"> <low><BLUE><ITEMNAME0></BLUE> !\nCe sont mes <adjective female-p=\"préférés\" neuter-p=\"préférées\">. Merci !"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_VERY",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nOh, c'est si gentil !\n... C'est un \"cadeau d'anniversaire\" dis-tu ?\n<PAGE>\nMaintenant que j'y pense, c'est vrai, C'EST mon\nanniversaire... ! Tu t'en es rappelé ? Merci."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_LIKE",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nOh, comme c'est gentil ! J'aime beaucoup.\nUn cadeau d'anniversaire ? Pour moi ?\n<PAGE>\nOh, mais oui. Merci. J'avais totalement oublié."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_NORMAL",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nOh, un cadeau d'anniversaire pour moi ?\nMerci beaucoup."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_DISLIKE",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nQuoi ? C'est pour moi... ?\nUn cadeau d'anniversaire... Oh, eh bien. Merci."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_HATE",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\n... Quoi ? Un cadeau d'anniversaire ? Oh, tu\nme le donnes ? Ce serait impoli de ma part de\nrefuser un cadeau.\n<PAGE>\n<FACE_LAUGH>Mais je suis étonnée que tu te sois <gender male=\"souvenu\" female=\"souvenue\">\nde mon anniversaire. Ça me fait plaisir."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_WORST",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_ANGRY>\n... !\n<PAGE>\n<FACE_SAD>O-oh, je suis navrée. Je suis sûre que tu as\nvoulu bien faire mais je n'ai jamais aimé <article-d>\n<low><BLUE><ITEMNAME0></BLUE>.\n<PAGE>\nOh ? C'est un cadeau d'anniversaire ?! ... Je suis\nsurprise. J'avais totalement oublié.\n<PAGE>\nBon, eh bien puisque tu t'es donné tant de mal,\nje vais l'accepter."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_NORMAL",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nOh, ce cadeau d'anniversaire est pour moi ?\nEh bien, regarde-moi ce visage angélique. Merci."
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_RABBIT",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nOh, regarde-moi cet adorable petit lapin. Et son\npetit nez qui renifle l'air ! Il est si mignon."
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_FOX",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nOh, oui, il a l'air mignon, mais je préfère garder\nmes distances."
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_OKOJO",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nOh, c'est une hermine, pas vrai ? Elles pointent\nle bout de leur nez de temps en temps."
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_OTHER",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nSaperlipopette, c'est trop mignon."
+    },
+    {
+      "VardId": "MES_ANGORA",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nOh, je crois bien que c'est la première fois que\nje vois un lapin comme celui-ci.\nIl a un si beau pelage."
+    },
+    {
+      "VardId": "MES_CHICK",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nQuel adorable petit poussin. Prends-en bien\nsoin, d'accord ?"
+    },
+    {
+      "VardId": "MES_HEN",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nC'est une bien jolie poule. Je suis sûre qu'elle\npond des œufs excellents."
+    },
+    {
+      "VardId": "MES_DOG",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nSaperlipopette, ce chien est adorable.\nEst-ce qu'il est à toi ?"
+    },
+    {
+      "VardId": "MES_FAT_DOG",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nCe chien est vraiment mignon, mais... tu ne\ntrouves pas qu'il est un peu... costaud ?"
+    },
+    {
+      "VardId": "MES_LARGEDOG",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nEh bien, ce chien m'a l'air très futé."
+    },
+    {
+      "VardId": "MES_FAT_LARGEDOG",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nC'est un petit chien très mignon, mais il m'a\nl'air un peu costaud."
+    },
+    {
+      "VardId": "MES_CAT",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nOooh, quel adorable chat. Il est tellement beau."
+    },
+    {
+      "VardId": "MES_FAT_CAT",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nOh, ce chat est bien mignon, quoi qu'un peu\nrondouillet."
+    },
+    {
+      "VardId": "MES_LONGHAIR_CAT",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nOh, quel magnifique chat.\nIl a une bien belle robe."
+    },
+    {
+      "VardId": "MES_FAT_LONGHAIR_CAT",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nOh, ce chat a une jolie tête\nmais un corps tout rond."
+    },
+    {
+      "VardId": "MES_FLOWER_FESTIVAL",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nOh, comme c'est gentil ! Ah, c'est la Foire\naux Fleurs aujourd'hui, non... ? Merci."
+    },
+    {
+      "VardId": "MES_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nOh cette plume bleue est si belle... Mon mari\nm'en a offert une similaire, il y a de nombreuses\nannées. Merci pour ce bond en arrière."
+    },
+    {
+      "VardId": "MES_RING",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nOh, c'est une très jolie bague... Tu souhaites\nl'offrir à quelqu'un en particulier, non ? Il n'y a\npas de temps à perdre, alors hop hop hop !"
+    },
+    {
+      "VardId": "MES_PRESENT_LAPPING_LIKE ",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nOh, j'aime beaucoup ce papier cadeau, il est\ntrès joli ! Je suis curieuse de voir ce qu'il y a à\nl'intérieur."
+    },
+    {
+      "VardId": "MES_PRESENT_LAPPING",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nOh, c'est un joli papier cadeau. Je me demande\nce qu'il y a à l'intérieur."
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_00",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nTu sais quel jour on est ?\n<PAGE>\n... Joyeux anniversaire ! Ce petit cadeau est pour\ntoi. Prends-le, s'il te plaît."
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_01",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nC'est ton... anniversaire aujourd'hui si je me\nsouviens bien. Joyeux anniversaire."
+    },
+    {
+      "VardId": "MES_LONG_INTERVAL",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nOh, <MYNAME>. Ça fait longtemps.\n<PAGE>\nJe suis contente que le travail t'occupe, mais\nessaie de passer me voir de temps en temps."
+    },
+    {
+      "VardId": "MES_CLOTHES_9",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nCe pantalon bleu te va très bien. Il m'a l'air\négalement très confortable pour travailler."
+    },
+    {
+      "VardId": "MES_CLOTHES_12",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nOh, j'aime beaucoup ce tablier. Il est mignon.\nLe rouge et le blanc te vont très bien au teint."
+    },
+    {
+      "VardId": "MES_CLOTHES_18",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nTu as l'air très chic aujourd'hui.\nC'est un style très étonnant pour <gender male=\"un fermier\" female=\"une fermière\">."
+    },
+    {
+      "VardId": "MES_CLOTHES_25",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nCe pantalon orange est très tendance. Il va très\nbien avec ce t-shirt blanc."
+    },
+    {
+      "VardId": "MES_CLOTHES_33",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nOh, tu portes un uniforme de marin aujourd'hui ?\nTout te va de toute manière."
+    },
+    {
+      "VardId": "MES_CLOTHES_34",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nOh, tu portes une écharpe de marin aujourd'hui ?\nJ'aime beaucoup ton écharpe rose."
+    },
+    {
+      "VardId": "MES_CLOTHES_38",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nHmmm, c'est la première fois que je vois ce\ngenre de costume... D'où est-ce qu'il vient ?\n<PAGE>\nAprès tout aucune importance, ça a l'air\nd'être très confortable pour travailler."
+    },
+    {
+      "VardId": "MES_CLOTHES_39",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nHmmm, c'est la première fois que je vois ce\ngenre de costume... D'où est-ce qu'il vient ?\n<PAGE>\nC'est très joli malgré tout, et ça a l'air d'être très\nconfortable pour travailler."
+    },
+    {
+      "VardId": "MES_CLOTHES_51",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nOh, j'aime beaucoup cet imperméable.\nIl va très bien avec tes bottes roses."
+    },
+    {
+      "VardId": "MES_CLOTHES_68",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nJ'aime beaucoup ce haut sans manches.\nLa couleur est très jolie."
+    },
+    {
+      "VardId": "MES_CLOTHES_73",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nOù est-ce que tu vas comme ça, avec cette\nsi jolie tenue ?"
+    },
+    {
+      "VardId": "MES_CLOTHES_78",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nHmm, cette tenue... Tu ressembles à un\nmembre de la royauté d'un pays lointain.\nEt à quelqu'un de très élégant aussi."
+    },
+    {
+      "VardId": "MES_CLOTHES_108",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nQuelle adorable petite jupe.\nLa veste te va très bien aussi."
+    },
+    {
+      "VardId": "MES_CLOTHES_109",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nC'est une tenue ethnique venue d'un autre pays,\nn'est-ce pas ?\n<PAGE>\nUne jupe pour hommes... Je crois qu'ils\nappellent ça un \"kilt\", non ?"
+    },
+    {
+      "VardId": "MES_CLOTHES_129",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nOh, depuis quand es-tu <gender male=\"devenu\" female=\"devenue\"> docteur ?\nQu'est-il arrivé à ta ferme... ?\n<PAGE>\n... Hein ? Tu t'es juste <gender male=\"déguisé\" female=\"déguisée\"> en docteur ?\nJe ne comprends pas. Tu es très <gender male=\"imaginatif\" female=\"imaginative\"> !"
+    },
+    {
+      "VardId": "MES_CLOTHES_131",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nOh, j'aime beaucoup cette tenue pure et\ninnocente. Mais c'est ce que portent les nonnes,\nnon ? Pourquoi est-ce que portes ça ?"
+    },
+    {
+      "VardId": "MES_CLOTHES_137",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\n... <cap><MYNAME>, c'est bien toi ?\n<PAGE>\n... Ne me fais pas de frayeurs comme ça. Tout\nle monde prendrait peur si tu leur parlais <gender male=\"vêtu\" female=\"vêtue\">\nde la sorte. Pourquoi portes-tu ça, d'ailleurs ?"
+    },
+    {
+      "VardId": "MES_CLOTHES_152",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\n... C'est toi, <MYNAME>, non ? C'est une jolie\ntenue, mais où est-ce que tu l'as achetée ?"
+    },
+    {
+      "VardId": "MES_CLOTHES_153",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\n... C'est toi, <MYNAME>, non ? Pourquoi est-ce\nque tu portes un déguisement de chien ?"
+    },
+    {
+      "VardId": "MES_CLOTHES_156",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\n... C'est toi, <MYNAME>, non ? C'est une jolie\ntenue, mais où est-ce que tu l'as achetée ?"
+    },
+    {
+      "VardId": "MES_CLOTHES_157",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nQue se passe-t-il ?! Quelque chose est arrivé ?\nPourquoi portes-tu une armure ?"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_3",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nOh, c'est un joli chapeau de paille.\nParfait pour le travail à la ferme."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_9",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nJ'aime les chapeaux blancs. Ça fait propre.\nSurtout lorsque tu les portes, <MYNAME>."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_15",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nOh, ce chapeau est si bien fait. Il va de pair\navec ces chaudes journées d'été."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_25",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nCe chapeau que tu portes a l'air parfait pour les\nfermiers. Il te va à ravir."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_30",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nSaperlotte, c'est si mignon !\nTu ressembles à un chat."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_32",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nOh, c'est si mignon et ça te va comme un gant !"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_42",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nHa ! L'espace d'un instant, j'ai cru que\ntu gouvernais un pays lointain.\n<PAGE>\nOù as-tu trouvé ce costume, d'ailleurs ?"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_58",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nLes lunettes à monture blanche m'ont toujours\nparues un peu bizarres, mais elles te vont à ravir."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_63",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nOh, tu joues au pirate aujourd'hui ?\nFais attention à ne pas te blesser, d'accord ?"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_64",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nQu'est-il arrivé à ton œil ? Oh, c'est juste pour\nêtre à la mode ? Bon, alors ça va."
+    },
+    {
+      "VardId": "MES_FARM_WORKING",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nQuand je vois mes cultures pousser, mon cœur\ns'allège et j'en oublie tout l'effort que ça requiert."
+    },
+    {
+      "VardId": "MES_CARE_ANIMAL",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nLes animaux sentent lorsque tu es <gender male=\"gentil\" female=\"gentille\"> avec\neux, et ils te remercieront à leur manière."
+    },
+    {
+      "VardId": "MES_SCHEDULE_SLEEP_00",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_PATI>\nZzz... Zzz..."
+    },
+    {
+      "VardId": "MES_SCHEDULE_SLEEPY_00",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nIl se fait tard. Tu devrais aller te reposer.\nJe vais en faire de même, moi aussi."
+    },
+    {
+      "VardId": "MES_MEAL_00",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nPardon. Est-ce que tu peux attendre que\nj'aie terminé de manger ?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BARREL",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nJe me demande ce que contiennent\nces tonneaux..."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SCARECROW",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nToutes les fermes des environs possédaient des\népouvantails. Ce n'est plus le cas aujourd'hui."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_STATUE",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nIl y a de nombreuses années, il existait un chien\ntrès loyal qui attendait son maître à la gare tous\nles soirs, et ce même après son décès.\n<PAGE>\nJe pense que cette statue lui rend hommage."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POND",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nEst-ce qu'il y a des poissons dans cette mare ?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WELL",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nJe me demande si on peut puiser de l'eau de ce\npuits... L'eau qui provient de puits est si fraîche\net délicieuse."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_CHERRYBLOSSOM",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nCe serait merveilleux de faire une petite fête\nautour de ce beau cerisier fleuri, pas vrai ?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COLOR_1",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nCette panoplie de couleurs claires est si jolie et\nrafraîchissante. C'est une jolie palette qui égaye\nmon cœur."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COLOR_2",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nCette panoplie de couleurs sombres me rend\nforte et robuste. Pas toi ?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ATMOSPHERE_1",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nAh... cet endroit me rappelle tant de souvenirs.\nTout le Village du Chêne était comme ça, avant."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ATMOSPHERE_2",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nJ'ai l'impression de sentir la chaleur du soleil de\nprintemps. Ça me donne envie de m'asseoir un\ninstant et de profiter du temps qui passe."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COMBO_1",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nHé hé, l'ambiance est au beau fixe ici, comme\nen plein été. Jamais je ne m'ennuierais de toutes\nces décorations."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COMBO_2",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_LAUGH>\nEst-ce que cet arbre ginkgo produit des noix\nde ginkgo ?\n<PAGE>\nJe passais mon temps à les cueillir, avant.\nAh, que de souvenirs..."
+    },
+    {
+      "VardId": "MES_TOWN_POPULARITY_BEST",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nCe village est devenu très populaire. Je croise\nbeaucoup de gens de pays très lointains ces\nderniers jours."
+    },
+    {
+      "VardId": "MES_TOWN_POPULARITY_BETTER",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nCe village est devenu bien plus attrayant avec le\ntemps."
+    },
+    {
+      "VardId": "MES_AREA_TOWN_00",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nC'est un petit village, parfois un peu esseulé,\nmais je l'aime beaucoup. La vie y est simple et\ntranquille."
+    },
+    {
+      "VardId": "MES_AREA_TOWN_01",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nCela fait un moment que j'habite ce village, et j'ai\nvu sa population grandir petit à petit."
+    },
+    {
+      "VardId": "MES_AREA_TOWN_02",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nC'est un petit village de campagne, mais chacun\nd'entre nous, fermiers, pouvons travailler à le\nfaire évoluer si nous nous y mettons tous."
+    },
+    {
+      "VardId": "MES_AREA_TOWN_03",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nJamais je n'aurais cru que ce village devienne\naussi connu. Je suis heureuse d'avoir vécu\nsuffisamment longtemps pour en être témoin..."
+    },
+    {
+      "VardId": "MES_GRANDMA_MONEY_00",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nVoici ta paye pour la journée. Utilise-la bien."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_WHITE",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nQuel banc somptueux. Et le blanc est ma\ncouleur préférée, en plus."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WOOD_BOX",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nJe me demande ce que renferme ces\ncaisses en bois..."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SMALL_CART",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nElle est un peu usée, mais c'est\nune belle charrette."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SHIPMENTBOX",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nÀ mon époque, nous envoyions nos produits\ndans des boîtes comme celle-ci au lieu de\npasser par la Place du Marché."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GARDENLANTERN",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nCette lampe a un style oriental qui me plaît\nbeaucoup."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OPEN_SPACE_WOOD_SMALL",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nJ'aime cet endroit. On s'y sent bien. C'est le\nmeilleur endroit du village pour se détendre après\nune longue marche."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OPEN_SPACE_BRICK_SMALL",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nJ'aime cet endroit. On s'y sent bien. C'est le\nmeilleur endroit du village pour se détendre après\nune longue marche."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_KAMAKURA",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nUne fois, lors d'une tempête de neige, j'ai dû\nme construire un igloo. C'est étonnant combien\nil peut faire bon à l'intérieur."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_KADOMATU",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nPourquoi y a-t-il une décoration de nouvelle\nannée du Pays des sakuras, ici ?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SHISHIODOSHI",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nOh, regarde cette fontaine en bambou.\nOn appelle ça \"shishiodoshi\" au Pays des sakuras\nou quelque chose comme ça, non ?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_LILY",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nJ'adore les fleurs blanches."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_WHITEROSE",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nJ'adore les fleurs blanches."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_SNOWDROP",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nJ'adore les fleurs blanches."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_LILY",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nJ'adore les fleurs blanches."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_WHITEROSE",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nJ'adore les fleurs blanches."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_SNOWDROP",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nJ'adore les fleurs blanches."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BONSAI",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nMon mari aimait faire pousser des bonsaïs.\nAh, que de souvenirs..."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_CHRRYBLOSSOM",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nLes cerisiers en fleurs sont d'une rare beauté, et\nsurtout lorsque leurs fleurs tombent."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_GINGKO",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nJ'aime beaucoup les ginkgo en automne.\nIls ont une belle couleur dorée."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BASKET_WHITE",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nC'est un bien beau panier de fleurs."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_GINGKO",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nJ'aime beaucoup les ginkgo en automne.\nIls ont une belle couleur dorée."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_WHITE_1",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nLa ville a un côté plus propre grâce à ces\nbarrières blanches."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WALL_WOOD_1",
+      "Text": "<FACE_EDDA><POS_RIGHT><FACE_NORMAL>\nJe ne sais pas pourquoi, mais les barrières en\nbois me réchauffent toujours de l'intérieur..."
+    }
+  ]
+}

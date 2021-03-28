@@ -1,0 +1,834 @@
+﻿{
+  "Date": "2016-06-10T19:22:17.229424+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_LOVE_6B_TALK_CHARA_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\nEhi, <MYNAME>! Sei venuta a trovarmi?\nMi sento così amato e coccolato! ♪\n<PAGE>\n<FACE_NORMAL>Ehi, uhm... C'è qualcosa di cui vorrei parlarti."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_OUT_CHARA_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\nPreferirei non farlo qui, però. Andiamo\nin un luogo un po' più riservato."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_00_CHARA_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\nUltimamente ho riflettuto molto.\n<PAGE>\nSai, l'aver visto quel volantino, l'essermi trasferito\nqui... Se non l'avessi fatto, non ci saremmo mai\nincontrati.\n<PAGE>\nVoglio dire, anche tu sei una contadina e\nsiamo andati subito d'accordo... e adesso\nstiamo perfino insieme!\n<PAGE>\n<FACE_LAUGH>... Sì, credo sia destino. Prendimi pure in giro\nse vuoi, ma per me è destino! Penso... che\ntu sia LA persona per me, l'unica al mondo...\n<PAGE>\n<FACE_NORMAL>... e se provi lo stesso per me vorrei... vorrei\nche rispondessi sì a quanto sto per chiederti.\n<PAGE>\n<FACE_LAUGH>Ti amo davvero, davvero tanto. Più di qualsiasi\naltra persona al mondo, più di qualsiasi altra\ncosa al mondo!\n<PAGE>\nE vorrei trascorrere il resto della mia vita con te.\n<PAGE>\n<FACE_LOVE>Quindi, <MYNAME>... Vuoi sposarmi???"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_00_CHARA_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\nSo cucinare e sono bravo con le faccende\ndomestiche. Garantisco che sarebbe\nun'ottima decisone!\n<PAGE>\n<FACE_LOSS>E non solo quello, ma anche... uhm... uh...\nOk, non mi viene in mente nient'altro adesso.\n<PAGE>\n<FACE_NORMAL>Ma non importa! Davvero, non puoi sbagliare\nsposando me! Quindi... ecco... Per favore???"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_01_CHARA_POORFARMER",
+      "Text": "Sì, voglio sposarti!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_02_CHARA_POORFARMER",
+      "Text": "Ho bisogno di più tempo."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_01_CHARA_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\n<WINDOW_HEART2_R>D-davvero?! DAVVERO??? Sei seria?\nNon mi prendi in giro???\n<PAGE>\n<FACE_LAUGH>YU-HUUU!!! <cap><MYNAME>, saremo la famiglia\npiù felice del mondo!!! Lo sento!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_KISS_CHARA_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\n<WINDOW_HEART2_R>Ok, dichiaro qui e ora che il nostro obiettivo\ncome coppia è diventare i più grandiosi,\nmeravigliosi e innamorati consorzi del mondo!!!\n<PAGE>\n<FACE_LOSS>... Uh? \"Consorti\", dici?\n<PAGE>\n<FACE_NORMAL>C-comunque! Ignora i dettagli. L'unica cosa che\nimporta è siamo felici!\n<PAGE>\n<FACE_LOVE>E prometto che ti renderò superfelice.\nCapito? Ottimo. Ti amo, <MYNAME>,\nnon dimenticartelo mai."
+    },
+    {
+      "VardId": "MES_LOVE_6B_REPORT_CHARA_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\nOk! Informiamo subito tutto il villaggio!\n<PAGE>\nEheheh. Voglio mostrare la mia futura sposa\na tutti."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_00_CHARA_POORFARMER",
+      "Text": "<FACE_VERONICA><POS_LEFT><FACE_NORMAL>\nCapisco. Quindi vi sposerete presto?\n<PAGE>\n<FACE_LAUGH>Che splendida notizia. Congratulazioni\na entrambi!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_01_CHARA_POORFARMER",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_NORMAL>\nCongratulazioni a entrambi!\n<PAGE>\nEri proprio l'ultima persona che pensavo\nsi sarebbe sposata prima di me, Fritz.\nNon so cosa pensarne onestamente!\n<PAGE>\nMa è da quando tu e <MYNAME> vi frequentate\nche vaneggi sul fatto che un giorno\nvi sareste sposati.\n<PAGE>\nE adesso l'hai reso realtà. Congratulazioni!\nÈ magnifico."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSINGRETURN_00_CHARA_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_LEFT><FACE_LOSS>\nE-ehi! Hai detto che sapevi mantenere\nun segreto!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_02_CHARA_POORFARMER",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_LAUGH>\nAhahah. Beh, siete fidanzati adesso.\nNon è più tempo di segreti.\n<PAGE>\n<FACE_NORMAL><cap><MYNAME>, sono sicuro che lo conosci\nmolto bene ormai. Stagli vicino e\ntienilo d'occhio, ok?\n<PAGE>\n<FACE_LAUGH>Vi auguro tutto il bene possibile.\nE non dimenticate di invitarmi al matrimonio!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_00_CHARA_POORFARMER",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nOh, ecco. A proposito di inviti al matrimonio,\navete deciso che tipo di matrimonio\nvorreste organizzare?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_01_CHARA_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_LEFT><FACE_NORMAL>\nNo, non ci abbiamo ancora pensato.\n<PAGE>\nAnzi, mi sa che non ne sappiamo proprio niente.\nCi puoi dare qualche dettaglio?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_02_CHARA_POORFARMER",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nMa certo. È un vero piacere. Abbiamo\ntre pacchetti matrimoniali disponibili.\n<PAGE>\n<FACE_NORMAL>Il <BLUE>pacchetto matrimoniale semplice</BLUE> ha un costo\ndi <BLUE>100.000 G</BLUE>. Il <BLUE>pacchetto matrimoniale elegante</BLUE>\nè leggermente migliore e costa <BLUE>500.000 G</BLUE>.\n<PAGE>\nOppure, potete scegliere l'opzione più splendida,\nil <BLUE>pacchetto matrimoniale di lusso</BLUE>, che ha\nun costo di <BLUE>1.000.000 G</BLUE>.\n<PAGE>\nI pacchetti più sontuosi vi permettono di invitare\npiù persone e vi offrono maggiori opzioni per\ngli abiti degli sposi e degli ospiti.\n<PAGE>\nIn altre parole, come avrete capito, più costoso\nil pacchetto, più il matrimonio sarà meraviglioso.\n<PAGE>\nPer richiedere il pacchetto che desiderate\nnon dovete far altro che venire alla gilda.\n<PAGE>\nUna volta presa la decisione, presentatevi\nal <RED>bancone della gilda durante l'orario\ndi apertura</RED> e consegnate la vostra richiesta."
+    },
+    {
+      "VardId": "MES_LOVE_6B_END_CHARA_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\nOh, possiamo scegliere tra tante opzioni!\nSuper!\n<PAGE>\nNon ci si sposa tutti i giorni, quindi sarei\ntentato di organizzare una megafesta, ma\nmi sa che il mio portafoglio è a dieta...\n<PAGE>\nMeglio che scegli tu, <MYNAME>.\n<PAGE>\nNon m'importa quale pacchetto scegli. È\nil nostro matrimonio, quindi sarà comunque\nil più spettacolare di sempre! ♪\n<PAGE>\nSono così emozionato, tremo tutto! È un sogno\nche si avvera per me..."
+    },
+    {
+      "VardId": "MES_LOVE_6B_NO_COMMENT_CHARA_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_SAD>\nO-oh... Immagino che sia stata una richiesta\nun po' improvvisa per te, vero?\n<PAGE>\n<FACE_NORMAL>Ok. Prenditi pure tutto il tempo necessario."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_HOME_CHARA_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\nComunque, è tempo di rientrare.\nLascia che ti accompagni a casa."
+    },
+    {
+      "VardId": "MES_LOVE_6B_TALK_CHARA_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\nAh, <MYNAME>. Sei venuta a trovarmi?\n<PAGE>\n<FACE_LAUGH>Bene allora, che ne dici se trasformiamo\nquest'occasione in un appuntamento\na sorpresa? Volevo proprio parlarti."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_OUT_CHARA_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\nParlarti di cosa? Di una cosa\nmolto importante, in realtà.\n<PAGE>\nMa preferirei non farlo qui. Vieni, seguimi."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_00_CHARA_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\nC'è un pensiero che mi assilla sin da quando\nabbiamo cominciato a uscire insieme,\n<MYNAME>.\n<PAGE>\n<FACE_SAD>Per molto tempo ho continuato a chiedermi\nse mi amassi davvero o se la tua fosse semplice\nammirazione per un uomo più grande.\n<PAGE>\nE temevo che anche tu finissi per porti la stessa\ndomanda e che all'improvviso decidessi\ndi lasciarmi.\n<PAGE>\n<FACE_NORMAL>Ma più tempo passiamo insieme,\npiù mi sento rassicurato.\n<PAGE>\nEd è per questo che voglio dirti quanto segue.\n<PAGE>\n<cap><MYNAME>... Vorrei averti al mio fianco\nper sempre. Vorrei che stessi con me\ne solo con me."
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_00_CHARA_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_LOVE>\n<cap><MYNAME>, v-vuoi sposarmi?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_01_CHARA_PERFUMER",
+      "Text": "Sì, voglio sposarti!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_02_CHARA_PERFUMER",
+      "Text": "Ho bisogno di più tempo."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_01_CHARA_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_LOVE>\n<WINDOW_HEART2_R>Grazie.\n<PAGE>\n<FACE_NORMAL>Anche da sposati ci capiterà di pensare che la\nnostra differenza d'età sia un problema, ma ti\nrenderò così felice che non ti importerà affatto."
+    },
+    {
+      "VardId": "MES_LOVE_6B_KISS_CHARA_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_LOVE>\n<WINDOW_HEART2_R>Giuro che non rimpiangerai di avermi scelto.\nMai. Ti amo, <MYNAME>."
+    },
+    {
+      "VardId": "MES_LOVE_6B_REPORT_CHARA_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\nAdesso, che ne dici se andiamo a dare la lieta\nnotizia al resto del villaggio?\n<PAGE>\nDovremmo passare prima alla gilda. Dobbiamo\nchiedere a Veronica come organizzare\nil matrimonio."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_00_CHARA_PERFUMER",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nCapisco. Quindi vi sposerete presto?\n<PAGE>\n<FACE_LAUGH>Che splendida notizia. Congratulazioni\na entrambi!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_01_CHARA_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_LEFT><FACE_LAUGH>\nGrazie.\n<PAGE>\n<FACE_NORMAL>Se non ricordo male ci sono un po' di pacchetti\nmatrimoniali tra cui scegliere, giusto?\n<PAGE>\nÈ un'esperienza nuova per me. Potresti spiegarci\nnel dettaglio tutti i pacchetti?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_02_CHARA_PERFUMER",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nMa certo. È un vero piacere. Abbiamo\ntre pacchetti matrimoniali disponibili.\n<PAGE>\n<FACE_NORMAL>Il <BLUE>pacchetto matrimoniale semplice</BLUE> ha un costo\ndi <BLUE>100.000 G</BLUE>. Il <BLUE>pacchetto matrimoniale elegante</BLUE>\nè leggermente migliore e costa <BLUE>500.000 G</BLUE>.\n<PAGE>\nOppure, potete scegliere l'opzione più splendida,\nil <BLUE>pacchetto matrimoniale di lusso</BLUE>, che ha\nun costo di <BLUE>1.000.000 G</BLUE>.\n<PAGE>\nI pacchetti più sontuosi vi permettono di invitare\npiù persone e vi offrono maggiori opzioni per\ngli abiti degli sposi e degli ospiti.\n<PAGE>\nIn altre parole, come avrete capito, più costoso\nil pacchetto, più il matrimonio sarà meraviglioso.\n<PAGE>\nPer richiedere il pacchetto che desiderate\nnon dovete far altro che venire alla gilda.\n<PAGE>\nUna volta presa la decisione, presentatevi\nal <RED>bancone della gilda durante l'orario\ndi apertura</RED> e consegnate la vostra richiesta."
+    },
+    {
+      "VardId": "MES_LOVE_6B_END_CHARA_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\n<cap><MYNAME>, voglio che tu scelga il pacchetto\nche più preferisci.\n<PAGE>\n<FACE_LAUGH>Questo sarà un evento unico nella nostra vita,\nnon voglio che tu abbia nessun rimpianto\nin futuro.\n<PAGE>\n<FACE_LOVE>Per me, sarà l'averti accanto quel giorno a\nrendere la cerimonia speciale.\n<PAGE>\n<FACE_LAUGH>Spero solo che prenderai questa decisione\nin fretta. Non penso di poter attendere a lungo."
+    },
+    {
+      "VardId": "MES_LOVE_6B_NO_COMMENT_CHARA_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\nOh. Capisco. Ok. Mi spiace di aver sollevato\nl'argomento in modo così improvviso.\n<PAGE>\n<FACE_SAD>Immagino che il desiderio di averti al mio fianco\nmi abbia spinto ad agire troppo in fretta.\n<PAGE>\n<FACE_NORMAL>È ovviamente una decisione che cambia la vita.\nPrenditi pure tutto il tempo necessario\nper decidere."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_HOME_CHARA_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\nBene. Permettimi di accompagnarti a casa."
+    },
+    {
+      "VardId": "MES_LOVE_6B_TALK_CHARA_CHEF",
+      "Text": "<FACE_REGER><POS_LEFT><FACE_NORMAL>\nOh, <MYNAME>. Tempismo perfetto!\n<PAGE>\nStavo giusto per venire a cercarti.\nC'è... c'è qualcosa di cui vorrei parlarti."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_OUT_CHARA_CHEF",
+      "Text": "<FACE_REGER><POS_LEFT><FACE_NORMAL>\nQuesto non è il posto migliore però.\nAndiamo in un posto più riservato."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_00_CHARA_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_NORMAL>\nStiamo insieme da un bel po' adesso, come sai.\n<PAGE>\nE ultimamente ho cominciato a pensare\nche sarebbe bello averti sempre lì con me..."
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_00_CHARA_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_NORMAL>\nE con questo intendo... tutto il giorno.\nMi piacerebbe svegliarmi il mattino con te\naccanto e poterti augurare \"buongiorno\"...\n<PAGE>\n... e la sera trovarti a casa, sorridente, quando\nchiudo il ristorante.\n<PAGE>\n<FACE_LAUGH>Ovviamente, se tornerò prima io, ti farò trovare\nuna cenetta deliziosa.\n<PAGE>\n<FACE_NORMAL>Sarei la persona più felice del mondo.\n<PAGE>\nVorrei trascorrere la mia vita con te,\n<MYNAME>. Quindi, uhm...\n<PAGE>\n<FACE_LOVE>... <cap><MYNAME>... Vuoi sposarmi?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_01_CHARA_CHEF",
+      "Text": "Sì, voglio sposarti!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_02_CHARA_CHEF",
+      "Text": "Ho bisogno di più tempo."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_01_CHARA_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_LAUGH>\n<WINDOW_HEART2_R>D-davvero???\n<PAGE>\n<FACE_NORMAL>... EHM. Scusami. Ero talmente agitato che\nmi ero quasi convinto che avresti detto di no.\nQuindi... mi è scappato.\n<PAGE>\n<FACE_LOVE>So che sembro un po' intontito al momento,\nma non hai idea di quanto sia felice! O...\nmagari sì? Grazie davvero, <MYNAME>."
+    },
+    {
+      "VardId": "MES_LOVE_6B_KISS_CHARA_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_LOVE>\n<WINDOW_HEART2_R>Ti amo. E ti renderò felice, lo prometto.\n<PAGE>\nQuindi... stammi accanto, ok?\nVoglio vederti sorridere sempre,\nogni giorno, in eterno."
+    },
+    {
+      "VardId": "MES_LOVE_6B_REPORT_CHARA_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_NORMAL>\nSu, andiamo a condividere la splendida notizia\ncon il resto del villaggio!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_00_CHARA_CHEF",
+      "Text": "<FACE_VERONICA><POS_LEFT><FACE_NORMAL>\nCapisco. Quindi vi sposerete presto?\n<PAGE>\n<FACE_LAUGH>Che splendida notizia. Congratulazioni\na entrambi!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_01_CHARA_CHEF",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_ANGRY>\nEhi! Ma che...? Raeger! Non mi hai detto niente!\n<PAGE>\n<FACE_NORMAL>Per fortuna passavo di qui per caso\ne ho sentito.\n<PAGE>\n<FACE_SAD>Spero per te che avevi intenzione\ndi dirmelo presto!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSINGRETURN_00_CHARA_CHEF",
+      "Text": "<FACE_REGER><POS_LEFT><FACE_NORMAL>\nNo, no. Certo che te l'avrei detto, Fritz...\n<PAGE>\n... prima o poi. Immaginavo il gran chiasso\nche avresti fatto e avevo in programma di...\nehm... tenerti per ultimo."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_02_CHARA_CHEF",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_SAD>\nEhi! Che hai detto?! Giurerei di aver sentito\nqualcosa che non mi piace pronunciato\nproprio dalle tue labbra!\n<PAGE>\n<FACE_LAUGH>... Va beh, non importa. Congratulazioni\na entrambi! Ma vedi di invitarmi al matrimonio\no... Ci siamo capiti, no?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_00_CHARA_CHEF",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nOh, ecco. A proposito di inviti al matrimonio,\navete deciso che tipo di matrimonio\nvorreste organizzare?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_01_CHARA_CHEF",
+      "Text": "<FACE_REGER><POS_LEFT><FACE_NORMAL>\nNon ancora, no. Non eravamo ancora arrivati\na quel punto. Potresti darci un po' di dettagli\nsu ogni pacchetto?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_02_CHARA_CHEF",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nMa certo. È un vero piacere. Abbiamo\ntre pacchetti matrimoniali disponibili.\n<PAGE>\n<FACE_NORMAL>Il <BLUE>pacchetto matrimoniale semplice</BLUE> ha un costo\ndi <BLUE>100.000 G</BLUE>. Il <BLUE>pacchetto matrimoniale elegante</BLUE>\nè leggermente migliore e costa <BLUE>500.000 G</BLUE>.\n<PAGE>\nOppure, potete scegliere l'opzione più splendida,\nil <BLUE>pacchetto matrimoniale di lusso</BLUE>, che ha\nun costo di <BLUE>1.000.000 G</BLUE>.\n<PAGE>\nI pacchetti più sontuosi vi permettono di invitare\npiù persone e vi offrono maggiori opzioni per\ngli abiti degli sposi e degli ospiti.\n<PAGE>\nIn altre parole, come avrete capito, più costoso\nil pacchetto, più il matrimonio sarà meraviglioso.\n<PAGE>\nPer richiedere il pacchetto che desiderate\nnon dovete far altro che venire alla gilda.\n<PAGE>\nUna volta presa la decisione, presentatevi\nal <RED>bancone della gilda durante l'orario\ndi apertura</RED> e consegnate la vostra richiesta."
+    },
+    {
+      "VardId": "MES_LOVE_6B_END_CHARA_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_NORMAL>\n<cap><MYNAME>, solo sapere che questa è\nla cerimonia per le nostre nozze mi rende felice.\n<PAGE>\n<FACE_LAUGH>Voglio che sia tu a decidere. Scegli il pacchetto\nche ti renderà più felice in assoluto.\nNon trattenerti per me, ok?\n<PAGE>\nWow. Non riesco nemmeno a esprimere quanto\nsono emozionato! Non vedo l'ora di scegliere\nla data delle nozze!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_NO_COMMENT_CHARA_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_SAD>\nOh. Suppongo sia stata una proposta un po'\nimprovvisa per te. Non voglio una risposta\nimmediata, tranquilla."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_HOME_CHARA_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_NORMAL>\nTi senti un po' messa alle strette, vero?\nMi spiace molto. Ma i miei sentimenti\nsono sinceri, ti prego di tenerlo presente.\n<PAGE>\n... Ad ogni modo, credo che dovremmo\ntornare a casa. Ti accompagno."
+    },
+    {
+      "VardId": "MES_LOVE_6B_TALK_CHARA_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_LAUGH>\nSei venuta a trovare il tuo amato? Eheheh.\nSei gentilissima come sempre.\n<PAGE>\nOnestamente, stavo giusto pensando\ndi venirti a trovare."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_OUT_CHARA_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_NORMAL>\nC'è una cosa molto importante di cui vorrei\nparlarti ma questo non è il luogo ideale.\nChe ne dici di andare altrove?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_00_CHARA_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_PATI>\nPermettimi di andare dritto al punto.\n<PAGE>\n<FACE_NORMAL><cap><MYNAME>... vorrei che mi sposassi."
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_00_CHARA_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_LAUGH>\nSei una ragazza molto attraente. Sei anche\nsocievole e amichevole con tutti, tanto da\nriuscire a fare amicizia con chiunque.\n<PAGE>\nOvviamente, è grazie al tuo carattere che ci\nsiamo incontrati, siamo diventati amici e,\ninfine, abbiamo iniziato a uscire insieme.\n<PAGE>\n<FACE_LOSS>Tuttavia, temo di doverti chiedere\ndi essere ancora più socievole con\nuna persona in particolare. \n<PAGE>\n<FACE_LAUGH>Esito a farti questa richiesta, ma il mio cuore\nnon mi lascia alternative.\n<PAGE>\n<FACE_NORMAL>Vorrei che tu diventassi la mia sposa,\nche confortassi il mio cuore sofferente.\n<cap><MYNAME>, vuoi essere mia?\n<PAGE>\nLo so che è un atto di egoismo il volerti solo\nper me... ma pensi di poter perdonare questo\nmio gesto e accettare la mia proposta?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_01_CHARA_ANTIQUE",
+      "Text": "Sì, voglio sposarti!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_02_CHARA_ANTIQUE",
+      "Text": "Ho bisogno di più tempo."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_01_CHARA_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_LOVE>\n<WINDOW_HEART2_R>Grazie, <MYNAME>.\n<PAGE>\nÈ stata una proposta un po' egoista, mi rendo\nconto, ma più di tutto... vorrei che fossimo\nuna vera famiglia.\n<PAGE>\n<FACE_LAUGH>Dopotutto, mia sorella è stata la mia unica\nfamiglia per molto, molto tempo ormai.\n<PAGE>\nHo sempre pensato che io e te insieme\navremmo potuto costruire una famiglia\ngrande e affettuosa. Ne ho sempre voluta una."
+    },
+    {
+      "VardId": "MES_LOVE_6B_KISS_CHARA_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_LAUGH>\n<WINDOW_HEART2_R>... Che vergogna! Non badare ai miei sproloqui,\nero agitato. Se potessi dimenticare ciò\nche ho detto, lo apprezzerei molto.\n<PAGE>\nAd ogni modo, grazie per aver accettato\nla mia proposta. Farò tutto ciò che è in mio\npotere per renderti felice.\n<PAGE>\n<FACE_LOVE>Ti amo, <MYNAME>."
+    },
+    {
+      "VardId": "MES_LOVE_6B_REPORT_CHARA_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_NORMAL>\nBene, adesso dovremmo dare la notizia\ndel nostro matrimonio a mia sorella\ne al resto del villaggio.\n<PAGE>\n<FACE_LAUGH>Devo mostrare la mia adorabile promessa sposa\na tutti, dopotutto!\n<PAGE>\n... Eheheh. Sei diventata tutta rossa. Puoi\nnasconderti dietro di me se sei imbarazzata.\n<PAGE>\n... Pronta ad andare adesso?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_00_CHARA_ANTIQUE",
+      "Text": "<FACE_VERONICA><POS_LEFT><FACE_NORMAL>\nCapisco. Quindi vi sposerete presto?\n<PAGE>\n<FACE_LAUGH>Che splendida notizia. Congratulazioni\na entrambi!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_01_CHARA_ANTIQUE",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_LAUGH>\nCongratulazioni! Due delle persone a cui tengo\ndi più al mondo si sposano! Non potrei esserne\npiù felice.\n<PAGE>\nMistel, assicurati di rendere felice <MYNAME>,\nok?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSINGRETURN_00_CHARA_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_LEFT><FACE_LAUGH>\nCerto. Farò di <MYNAME> la sposa\npiù felice sulla faccia della terra."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_02_CHARA_ANTIQUE",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\n<cap><MYNAME>, per favore, prenditi cura\ndel mio fratellino.\n<PAGE>\nSpero che sarete una famiglia\nmeravigliosa e felice.\n<PAGE>\n<FACE_LAUGH>Non che ci sia bisogno che ve lo dica io,\novviamente. Eheheh! Non vedo l'ora di\nricevere l'invito."
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_00_CHARA_ANTIQUE",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nOh, ecco. A proposito di inviti al matrimonio,\navete deciso che tipo di matrimonio\nvorreste organizzare?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_01_CHARA_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_LEFT><FACE_NORMAL>\nNon ancora, era la prossima cosa che\nintendevamo discutere.\n<PAGE>\nSaresti tanto gentile da illustrarci i dettagli\ndei vari pacchetti matrimoniali?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_02_CHARA_ANTIQUE",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nMa certo. È un vero piacere. Abbiamo\ntre pacchetti matrimoniali disponibili.\n<PAGE>\n<FACE_NORMAL>Il <BLUE>pacchetto matrimoniale semplice</BLUE> ha un costo\ndi <BLUE>100.000 G</BLUE>. Il <BLUE>pacchetto matrimoniale elegante</BLUE>\nè leggermente migliore e costa <BLUE>500.000 G</BLUE>.\n<PAGE>\nOppure, potete scegliere l'opzione più splendida,\nil <BLUE>pacchetto matrimoniale di lusso</BLUE>, che ha\nun costo di <BLUE>1.000.000 G</BLUE>.\n<PAGE>\nI pacchetti più sontuosi vi permettono di invitare\npiù persone e vi offrono maggiori opzioni per\ngli abiti degli sposi e degli ospiti.\n<PAGE>\nIn altre parole, come avrete capito, più costoso\nil pacchetto, più il matrimonio sarà meraviglioso.\n<PAGE>\nPer richiedere il pacchetto che desiderate\nnon dovete far altro che venire alla gilda.\n<PAGE>\nUna volta presa la decisione, presentatevi\nal <RED>bancone della gilda durante l'orario\ndi apertura</RED> e consegnate la vostra richiesta."
+    },
+    {
+      "VardId": "MES_LOVE_6B_END_CHARA_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_NORMAL>\nPersonalmente, non mi piace l'idea di una\ncerimonia troppo stravagante. Ma se è ciò\nche desideri, amore mio, lo avrai senz'altro!\n<PAGE>\n<FACE_LAUGH>Quindi, scegli pure il pacchetto che preferisci.\n<PAGE>\nLa mia opzione preferita è quella che ti\nrenderà più felice.\n<PAGE>\nIn fin dei conti, non la cerimonia, ma tu e io\nsaremo gli artefici della reciproca felicità.\n<PAGE>\n<FACE_LOVE>Eheheh. Non vedo l'ora che arrivi il giorno in cui\npotrò ufficialmente considerarti mia moglie."
+    },
+    {
+      "VardId": "MES_LOVE_6B_NO_COMMENT_CHARA_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_PATI>\nAmmetto che è stata una proposta\nmolto improvvisa. Per favore, prendi\npure il tempo necessario."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_HOME_CHARA_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_NORMAL>\nPer il momento, sarebbe meglio rientrare.\nMi concedi l'onore di riaccompagnarti\na casa?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_TALK_CHARA_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_NORMAL>\nOh. <cap><MYNAME>. Sei tu.\n<PAGE>\nTempismo perfetto. Dobbiamo parlare."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_OUT_CHARA_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_LOSS>\nNon è qualcosa di cui posso parlare qui però.\nAndiamo in un posto più riservato. Seguimi."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_00_CHARA_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_NORMAL>\n<cap><MYNAME>. Come di sicuro avrai notato,\nnon sono molto romantico e non sono\nbravo con le parole.\n<PAGE>\nQuindi evito di girare intorno alla questione e\nvado subito al punto, ok?\n<PAGE>\n<FACE_LAUGH>Non mi dispiace affatto averti intorno. Mi piace\nperfino il tuo sorriso svagato e vagamente\nistupidito di chi ha la testa tra le nuvole.\n<PAGE>\n<FACE_LOSS>Infatti, mi sento perso se non lo vedo\nanche solo per un giorno.\n<PAGE>\n<FACE_NORMAL>Quindi... ho deciso che mi piacerebbe vederti\nsorridere stupidamente al mio fianco\nper tutta la vita.\n<PAGE>\n<FACE_LOVE><cap><MYNAME>... Vuoi sposarmi?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_00_CHARA_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_LOVE>\nVorrei che diventassi come una parte di me\ne che continuassi a sorridere come fai sempre,\nma con ancora più gioia."
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_01_CHARA_GARDENER",
+      "Text": "Sì, voglio sposarti!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_02_CHARA_GARDENER",
+      "Text": "Ho bisogno di più tempo."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_01_CHARA_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_NORMAL>\n<WINDOW_HEART2_R>... Aspetta... hai detto sì???\nO sto avendo delle allucinazioni?!\n<PAGE>\n<FACE_LAUGH>Fiuuu! Grazie al cielo! Mi sento meglio.\n<PAGE>\n<FACE_LOVE>Ho pensato a questa proposta di matrimonio\ncosì di continuo negli ultimi tempi che\nè quasi diventata un'ossessione."
+    },
+    {
+      "VardId": "MES_LOVE_6B_KISS_CHARA_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_LAUGH>\n<WINDOW_HEART2_R>Non hai idea di quanto sia felice\ndi averti conosciuta!\n<PAGE>\nHo deciso di fermarmi un po' in questo villaggio\nsul momento, quasi senza pensarci. Sono\ncontento di aver preso la decisione giusta.\n<PAGE>\n<FACE_LOVE>Ti amo, <MYNAME>. Spero resteremo insieme\nper sempre!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_REPORT_CHARA_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_LAUGH>\n... Dunque. Onestamente non vedo l'utilità\ndi scarpinare per tutto il villaggio per annunciare\nche ci sposiamo ma Veronica dovrebbe saperlo.\n<PAGE>\nDopotutto né io né tu sappiamo come\nfunzionano le cerimonie di nozze\nin questo villaggio, no?\n<PAGE>\nDovrebbero esserci un po' di opzioni diverse\ntra cui scegliere. Veronica saprà sicuramente\ndirci di più."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_00_CHARA_GARDENER",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nCapisco. Quindi vi sposerete presto?\n<PAGE>\n<FACE_LAUGH>Che splendida notizia. Congratulazioni\na entrambi!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_01_CHARA_GARDENER",
+      "Text": "<FACE_NADI><POS_LEFT><FACE_LOVE>\nGrazie!\n<PAGE>\n<FACE_NORMAL>Dunque... ehm... ho sentito che questo villaggio\nha diversi tipi di matrimonio tra cui scegliere.\n<PAGE>\nPotresti dirci qualcosa di più al riguardo?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_02_CHARA_GARDENER",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nMa certo. È un vero piacere. Abbiamo\ntre pacchetti matrimoniali disponibili.\n<PAGE>\n<FACE_NORMAL>Il <BLUE>pacchetto matrimoniale semplice</BLUE> ha un costo\ndi <BLUE>100.000 G</BLUE>. Il <BLUE>pacchetto matrimoniale elegante</BLUE>\nè leggermente migliore e costa <BLUE>500.000 G</BLUE>.\n<PAGE>\nOppure, potete scegliere l'opzione più splendida,\nil <BLUE>pacchetto matrimoniale di lusso</BLUE>, che ha\nun costo di <BLUE>1.000.000 G</BLUE>.\n<PAGE>\nI pacchetti più sontuosi vi permettono di invitare\npiù persone e vi offrono maggiori opzioni per\ngli abiti degli sposi e degli ospiti.\n<PAGE>\nIn altre parole, come avrete capito, più costoso\nil pacchetto, più il matrimonio sarà meraviglioso.\n<PAGE>\nPer richiedere il pacchetto che desiderate\nnon dovete far altro che venire alla gilda.\n<PAGE>\nUna volta presa la decisione, presentatevi\nal <RED>bancone della gilda durante l'orario\ndi apertura</RED> e consegnate la vostra richiesta."
+    },
+    {
+      "VardId": "MES_LOVE_6B_END_CHARA_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_NORMAL>\nUhm. Penso che tu abbia più preferenze di me\nin questo caso. Scegli pure!\n<PAGE>\n<FACE_LOSS>Fosse per me, sceglierei il pacchetto semplice.\nÈ quello che più mi si addice!\n<PAGE>\n<FACE_LAUGH>Ma questo è un evento irripetibile e voglio\nche tu scelga l'opzione che ti rende più felice.\n<PAGE>\nNon abbiamo fretta, quindi prenditi pure tutto\nil tempo di cui hai bisogno per decidere.\n<PAGE>\n<FACE_LOVE>Dopo tutto, è il nostro matrimonio!!!\nSolo al pensiero ho la pelle d'oca."
+    },
+    {
+      "VardId": "MES_LOVE_6B_NO_COMMENT_CHARA_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_SAD>\nOh... Ok. Mi spiace di aver preso l'argomento\ncosì all'improvviso."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_HOME_CHARA_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_NORMAL>\n... Comunque, che ne dici di tornare?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_TALK_CHARA_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_NORMAL>\nOh, ciao <MYNAME>. Il tuo tempismo\nè perfetto.\n<PAGE>\nC'è qualcosa di cui vorrei parlarti."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_OUT_CHARA_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_LOSS>\nEhm, preferirei non farlo qui. Andiamo\nda un'altra parte. Seguimi, per favore."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_00_CHARA_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_NORMAL>\nOgni volta che sono in tua compagnia,\ntutto è... roseo. Perfetto. Mi sento a casa.\n<PAGE>\n<FACE_LAUGH>Scommetto che se fossimo sposati, ogni nostro\ngiorno sarebbe sereno e piacevole."
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_00_CHARA_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_NORMAL>\nEhm... <cap><MYNAME>?\n<PAGE>\nVorrei stare con te per sempre.\n<PAGE>\nNon voglio che ciò che ho detto un minuto fa\nrimanga una sensazione. Voglio che sia reale.\n<PAGE>\n<FACE_LOVE>Quindi, <MYNAME>... Vuoi sposarmi?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_01_CHARA_KAMIRU",
+      "Text": "Sì, voglio sposarti!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_02_CHARA_KAMIRU",
+      "Text": "Ho bisogno di più tempo."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_01_CHARA_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_LOVE>\n<WINDOW_HEART2_R>Grazie, <MYNAME>. Non hai idea di cosa\nsignifichi per me.\n<PAGE>\nTi renderò felice, lo prometto. Avremo\nla famiglia più bella e serena mai vista."
+    },
+    {
+      "VardId": "MES_LOVE_6B_KISS_CHARA_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_LOVE>\n<WINDOW_HEART2_R>Ti amo, <MYNAME>. Sono così felice\nche ci siamo trovati."
+    },
+    {
+      "VardId": "MES_LOVE_6B_REPORT_CHARA_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_LAUGH>\nImmagino che mi tocchi spedire qualche lettera\nagli amici nel mio villaggio d'origine,\nper informarli del matrimonio.\n<PAGE>\n<FACE_NORMAL>Ma possiamo dare la buona notizia di persona\nalla gente di Querciallegra. Andiamo insieme,\nche ne dici?\n<PAGE>\nDovremmo cominciare da Veronica. E già\nche ci siamo, dovremmo chiederle come\norganizzare la cerimonia e tutto il resto."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_00_CHARA_KAMIRU",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nCapisco. Quindi vi sposerete presto?\n<PAGE>\n<FACE_LAUGH>Che splendida notizia. Congratulazioni\na entrambi!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_01_CHARA_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_LEFT><FACE_LOVE>\nGrazie.\n<PAGE>\n<FACE_NORMAL>Ho sentito che ci sono dei pacchetti\nmatrimoniali diversi tra cui scegliere.\n<PAGE>\nCi diresti qualcosa di più?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_02_CHARA_KAMIRU",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nMa certo. È un vero piacere. Abbiamo\ntre pacchetti matrimoniali disponibili.\n<PAGE>\n<FACE_NORMAL>Il <BLUE>pacchetto matrimoniale semplice</BLUE> ha un costo\ndi <BLUE>100.000 G</BLUE>. Il <BLUE>pacchetto matrimoniale elegante</BLUE>\nè leggermente migliore e costa <BLUE>500.000 G</BLUE>.\n<PAGE>\nOppure, potete scegliere l'opzione più splendida,\nil <BLUE>pacchetto matrimoniale di lusso</BLUE>, che ha\nun costo di <BLUE>1.000.000 G</BLUE>.\n<PAGE>\nI pacchetti più sontuosi vi permettono di invitare\npiù persone e vi offrono maggiori opzioni per\ngli abiti degli sposi e degli ospiti.\n<PAGE>\nIn altre parole, come avrete capito, più costoso\nil pacchetto, più il matrimonio sarà meraviglioso.\n<PAGE>\nPer richiedere il pacchetto che desiderate\nnon dovete far altro che venire alla gilda.\n<PAGE>\nUna volta presa la decisione, presentatevi\nal <RED>bancone della gilda durante l'orario\ndi apertura</RED> e consegnate la vostra richiesta."
+    },
+    {
+      "VardId": "MES_LOVE_6B_END_CHARA_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_NORMAL>\nQuale preferisci, <MYNAME>? Vuoi anche tu\nun matrimonio da sogno come molte ragazze?\n<PAGE>\n<FACE_LAUGH>Questa sarà la nostra unica cerimonia di\nmatrimonio, quindi voglio che tu scelga\nil pacchetto che ti rende più felice.\n<PAGE>\n<FACE_LOVE>Dopotutto, a me basta sapere che\nè il nostro matrimonio per renderla\nuna cerimonia da sogno.\n<PAGE>\n<FACE_LAUGH>Non vedo l'ora di scoprire quale opzione\nsceglierai!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_NO_COMMENT_CHARA_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_NORMAL>\n... Ok. È una decisione importante dopotutto.\nPrendi pure tutto il tempo necessario."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_HOME_CHARA_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_NORMAL>\nDovremmo rientrare adesso. Permettimi\ndi accompagnarti."
+    },
+    {
+      "VardId": "MES_LOVE_6B_TALK_CHARA_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_LEFT><FACE_LOSS>\nIIIH!!! <cap><MYNAME>?!\n<PAGE>\n<FACE_LAUGH>Ehm... n-non è niente.\n<PAGE>\n<FACE_NORMAL><cap><MYNAME>, c'è qualcosa di molto importante\ndi cui vorrei parlarti."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_OUT_CHARA_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_LEFT><FACE_LOSS>\nM-ma non qui, ehm. \n<PAGE>\nE in realtà, sei apparso così all'improvviso\nche non sono ancora pronta a...\n<PAGE>\n<FACE_LAUGH>EHM. No! Nulla, nulla. Parlavo da sola.\nIncamminiamoci, su."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_00_CHARA_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\n<cap><MYNAME>?\n<PAGE>\nAmmetto di essermi affezionata a questa tua\nattitudine così indolente verso ogni cosa...\n<PAGE>\n<FACE_LOSS>Ma è passato un bel po' da quando siamo\ndiventati una coppia.\n<PAGE>\nNon pensi sia arrivato il momento di discutere\ndel nostro futuro?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_00_CHARA_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\nCome sarebbe \"che vuoi dire con futuro\"?!\nNon ci arrivi? Santi numi!\n<PAGE>\n<FACE_ANGRY>Continui a non capire? Come fai a essere\ncosì imbranato!\n<PAGE>\n<FACE_LOVE>Sto cercando di chiederti se vuoi sposarmi!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_01_CHARA_RICHGIRL",
+      "Text": "Sì, voglio sposarti!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_02_CHARA_RICHGIRL",
+      "Text": "Ho bisogno di più tempo."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_01_CHARA_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOVE>\n<WINDOW_HEART2_R>C-cosa? Eri già pronto a sposarmi?!\n<PAGE>\n<FACE_ANGRY>Allora perché non ti sei dichiarato\nprima?! Sfaticato!\n<PAGE>\n<FACE_SAD>Mi hai fatto aspettare così tanto che ho dovuto\nchiedertelo io. Il che, lasciamelo dire, non è\ndegno di una signora!\n<PAGE>\n<FACE_LOVE>I-infatti, è terribilmente imbarazzante...!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_KISS_CHARA_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\n<WINDOW_HEART2_R>Oh, beh. So che mi stavi pensando, a modo tuo.\n<PAGE>\nLa cosa mi rende felice e generosa a sufficienza\nda perdonarti.\n<PAGE>\n<FACE_LOVE>Ti amo, <MYNAME>. E mi aspetto che tu\nmi renda la sposa più felice del mondo,\nci siamo capiti?\n<PAGE>\nOvviamente anche io ti renderò lo sposo\npiù felice del mondo, com'è giusto che sia."
+    },
+    {
+      "VardId": "MES_LOVE_6B_REPORT_CHARA_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nPerfetto. Ora, per quanto possa essere seccante,\ndovremmo andare a dare a tutti la lieta notizia.\n<PAGE>\nSu, andiamo, <MYNAME>."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_00_CHARA_RICHGIRL",
+      "Text": "<FACE_VERONICA><POS_LEFT><FACE_NORMAL>\nCapisco. Quindi vi sposerete presto?\n<PAGE>\n<FACE_LAUGH>Che splendida notizia. Congratulazioni\na entrambi!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_01_CHARA_RICHGIRL",
+      "Text": "Congratulazioni, signorina Elise.\nSignor <MYNAME>."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSINGRETURN_00_CHARA_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_LEFT><FACE_LAUGH>\nGrazie. Una volta arrivata a casa, manderò\nimmediatamente una lettera alla mia famiglia.\n<PAGE>\nPer favore, assicurati che sia tutto pronto."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_02_CHARA_RICHGIRL",
+      "Text": "Come desidera, signorina Elise. Riguardo agli\ninviti di matrimonio? Trattandosi di una\noccasione speciale...\n<PAGE>\n... posso suggerirle di estendere l'invito a tutte\nle persone di sua conoscenza, in modo\nda avere un matrimonio in grande stile?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_00_CHARA_RICHGIRL",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nOh, giustappunto. Avete deciso che tipo di\nmatrimonio vorreste organizzare?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_01_CHARA_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_LEFT><FACE_NORMAL>\nNo, non abbiamo ancora deciso. Potresti dirci\nper favore quali sono i dettagli dei vari\npacchetti matrimoniali?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_02_CHARA_RICHGIRL",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nMa certo. È un vero piacere. Abbiamo\ntre pacchetti matrimoniali disponibili.\n<PAGE>\n<FACE_NORMAL>Il <BLUE>pacchetto matrimoniale semplice</BLUE> ha un costo\ndi <BLUE>100.000 G</BLUE>. Il <BLUE>pacchetto matrimoniale elegante</BLUE>\nè leggermente migliore e costa <BLUE>500.000 G</BLUE>.\n<PAGE>\nOppure, potete scegliere l'opzione più splendida,\nil <BLUE>pacchetto matrimoniale di lusso</BLUE>, che ha\nun costo di <BLUE>1.000.000 G</BLUE>.\n<PAGE>\nI pacchetti più sontuosi vi permettono di invitare\npiù persone e vi offrono maggiori opzioni per\ngli abiti degli sposi e degli ospiti.\n<PAGE>\nIn altre parole, come avrete capito, più costoso\nil pacchetto, più il matrimonio sarà meraviglioso.\n<PAGE>\nPer richiedere il pacchetto che desiderate\nnon dovete far altro che venire alla gilda.\n<PAGE>\nUna volta presa la decisione, presentatevi\nal <RED>bancone della gilda durante l'orario\ndi apertura</RED> e consegnate la vostra richiesta."
+    },
+    {
+      "VardId": "MES_LOVE_6B_END_CHARA_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nBeh, trattandosi del MIO matrimonio, non credo\nche oseresti scegliere qualcosa di scialbo e\nspartano. Mi sbaglio?\n<PAGE>\n<FACE_LOVE>A ben pensarci, però, l'importante è essere con\nte. Il che garantisce comunque una certa...\nmagnificenza, direi.\n<PAGE>\nV-va bene, lascio la decisione nelle tue mani!\nAssicurati di scegliere con cortesia e giudizio,\ncome ci si aspetterebbe da un vero uomo.\n<PAGE>\n<FACE_LAUGH>Non vedo l'ora che arrivi il nostro\ngiorno speciale."
+    },
+    {
+      "VardId": "MES_LOVE_6B_NO_COMMENT_CHARA_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_ANGRY>\nTi presento l'opportunità di una vita, ti chiedo IO\ndi sposarmi, nonostante non sia decoroso, e\nla tua risposta è che hai bisogno di tempo?!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_HOME_CHARA_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\nOh, basta per il momento. Torniamo a casa.\n<PAGE>\n<FACE_NORMAL>Ma assicurati di dare alla questione l'attenzione\nche merita! E in tempi opportuni!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_TALK_CHARA_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_LAUGH>\nOh, cielo. Sei venuto a trovarmi, <MYNAME>?\nChe gesto gentile!\n<PAGE>\nOggi è un'occasione speciale. C'è qualcosa\ndi molto importante di cui vorrei parlarti."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_OUT_CHARA_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\nPreferirei non parlarne qui però. Seguimi.\nAndiamo in un posto più riservato."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_00_CHARA_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\n<cap><MYNAME>? Hai pensato un po' al futuro?\n<PAGE>\nAl nostro futuro, intendo. Ho già una certa età,\ncome sai, non posso permettermi di aspettare\nancora a lungo.\n<PAGE>\n<FACE_SAD>Ci penso sin dal momento in cui siamo\ndiventati una coppia. Tu ci hai pensato\nalmeno un po'?\n<PAGE>\nTi sto chiedendo se hai intenzione di sposarmi."
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_00_CHARA_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_LOVE>\nVoglio essere tua moglie. Voglio poterci essere\nsempre per te e voglio che tu ci sia sempre\nper me. E non solo ora, ma per tutta la vita.\n<PAGE>\n<FACE_LOVE><cap><MYNAME>? Vuoi sposarmi?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_01_CHARA_WRITER",
+      "Text": "Sì, voglio sposarti!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_02_CHARA_WRITER",
+      "Text": "Ho bisogno di più tempo."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_01_CHARA_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_LOVE>\n<WINDOW_HEART2_R>Grazie. Non hai idea di quanto tu mi abbia\nresa felice.\n<PAGE>\nC'è bisogno di un tale coraggio per fare\nuna proposta di matrimonio!\n<PAGE>\nNon credo di aver mai avuto un tale\nbatticuore. Eheheh."
+    },
+    {
+      "VardId": "MES_LOVE_6B_KISS_CHARA_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\n<WINDOW_HEART2_R>So che potrei averti spinto a decidere troppo\nin fretta, ma farò di tutto per assicurarmi che\nnon te ne penta.\n<PAGE>\n<FACE_LAUGH>Ti prometto che sarai felice di essere mio marito.\n<PAGE>\nE spero che anche tu faccia il possibile per\nfar sì che io sia felice di essere tua moglie.\nSono sicura che avremo una famiglia splendida.\n<PAGE>\n<FACE_LOVE>Ti amo, <MYNAME>."
+    },
+    {
+      "VardId": "MES_LOVE_6B_REPORT_CHARA_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\nBene, direi che dovremmo andare a comunicare\nla notizia a mio fratello e al resto del villaggio.\nTi unisci a me?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_00_CHARA_WRITER",
+      "Text": "<FACE_VERONICA><POS_LEFT><FACE_NORMAL>\nCapisco. Quindi vi sposerete presto?\n<PAGE>\n<FACE_LAUGH>Che splendida notizia. Congratulazioni\na entrambi!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_01_CHARA_WRITER",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_LAUGH>\nIris. <cap><MYNAME>. Congratulazioni.\n<PAGE>\nGrazie per esserti presa cura di me finora, Iris.\n<PAGE>\nMa ora è tempo che pensi a essere felice\ncon <MYNAME>. Te lo meriti."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSINGRETURN_00_CHARA_WRITER",
+      "Text": "<FACE_IRIS><POS_LEFT><FACE_LAUGH>\nOh, cielo! Non è certo l'ultima volta \nche ci vedremo, Mistel!\n<PAGE>\n<FACE_NORMAL>E non è mai stato un peso prendermi\ncura di te. Mai.\n<PAGE>\nCi sono molte cose che non sarei stata in grado\ndi fare senza il tuo aiuto, sai? Quindi...\nti ringrazio.\n<PAGE>\n<FACE_LAUGH>Non vivremo più sotto lo stesso tetto, ma\ncontinueremo a vivere nello stesso villaggio...\n<PAGE>\nIl mio matrimonio non cancellerà il fatto che\ntu sei parte della mia famiglia. Ricordalo."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_02_CHARA_WRITER",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_LAUGH>\nLo farò.\n<PAGE>\n<cap><MYNAME>, per favore, prenditi\ncura di mia sorella.\n<PAGE>\nSpero che mi inviterete alla cerimonia. A meno\nche non vogliate che sia una cosa privata,\nnel qual caso non obietterò."
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_00_CHARA_WRITER",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nOh, ecco. A proposito di inviti al matrimonio,\navete deciso che tipo di matrimonio\nvorreste organizzare?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_01_CHARA_WRITER",
+      "Text": "<FACE_IRIS><POS_LEFT><FACE_NORMAL>\nNo, non ancora. Dovevamo ancora parlarne.\n<PAGE>\nSaresti così gentile da esporci tutte\nle opzioni disponibili?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_02_CHARA_WRITER",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nMa certo. È un vero piacere. Abbiamo\ntre pacchetti matrimoniali disponibili.\n<PAGE>\n<FACE_NORMAL>Il <BLUE>pacchetto matrimoniale semplice</BLUE> ha un costo\ndi <BLUE>100.000 G</BLUE>. Il <BLUE>pacchetto matrimoniale elegante</BLUE>\nè leggermente migliore e costa <BLUE>500.000 G</BLUE>.\n<PAGE>\nOppure, potete scegliere l'opzione più splendida,\nil <BLUE>pacchetto matrimoniale di lusso</BLUE>, che ha\nun costo di <BLUE>1.000.000 G</BLUE>.\n<PAGE>\nI pacchetti più sontuosi vi permettono di invitare\npiù persone e vi offrono maggiori opzioni per\ngli abiti degli sposi e degli ospiti.\n<PAGE>\nIn altre parole, come avrete capito, più costoso\nil pacchetto, più il matrimonio sarà meraviglioso.\n<PAGE>\nPer richiedere il pacchetto che desiderate\nnon dovete far altro che venire alla gilda.\n<PAGE>\nUna volta presa la decisione, presentatevi\nal <RED>bancone della gilda durante l'orario\ndi apertura</RED> e consegnate la vostra richiesta."
+    },
+    {
+      "VardId": "MES_LOVE_6B_END_CHARA_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_LOVE>\nPersonalmente, qualunque scelta mi renderebbe\nfelice visto che comunque saremo insieme.\n<PAGE>\nPerché non decidi tu, <MYNAME>? Ho già\nil batticuore per il giorno del matrimonio."
+    },
+    {
+      "VardId": "MES_LOVE_6B_NO_COMMENT_CHARA_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_SAD>\nOk. Aspetterò che tu prenda una decisione,\npositiva o negativa che sia.\n<PAGE>\n<FACE_NORMAL>Ma per favore, non farmi aspettare\ntroppo a lungo.\n<PAGE>\n<FACE_LAUGH>Talvolta con il tempo è facile cambiare idea, sai?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_HOME_CHARA_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_PATI>\nBene. Torniamo a casa."
+    },
+    {
+      "VardId": "MES_LOVE_6B_TALK_CHARA_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_LEFT><FACE_LOVE>\nIIIH!!!\n<PAGE>\n<FACE_LOSS>C-che...?! P-perché sei qui??? Sono sicura\ndi non averti ancora detto che avevo\nbisogno di parlarti!!!\n<PAGE>\nBeh, uhm... di... di una cosa.\n<PAGE>\nO-oh, uhm... Cielo, ma mi hai spaventata\na tal punto che..."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_OUT_CHARA_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_LEFT><FACE_LOVE>\nUhm... n-no, no. Posso farlo. Ok. Uhm...\n<cap><MYNAME>, c'è una cosa di cui vorrei parlarti.\n<PAGE>\n<FACE_LAUGH>Però mi sei piovuto tra capo e collo così\nall'improvviso e ora non sono pronta!\nQuindi... andiamo in un posto più tranquillo, ok?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_00_CHARA_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_NORMAL>\nUhm, <MYNAME>?\n<PAGE>\nT-ti ho detto che sei il mio primo ragazzo, no?\n<PAGE>\nQuindi... uhm, ho fatto tante nuove esperienze\ninsieme a te...\n<PAGE>\n<FACE_LAUGH>Il primo appuntamento. La prima volta che\nho tenuto per mano un ragazzo. Le prime\npaure di lasciarsi...\n<PAGE>\nÈ stato tutto meraviglioso, sorprendente,\ndivertente... anche un po' doloroso, a volte.\n<PAGE>\n<FACE_NORMAL>Sono stata alle prese con così tante esperienze\nnuove che spesso non sapevo cosa fare, ma\ntu sei rimasto con me nonostante tutto.\n<PAGE>\nPiù sto con te e più mi innamoro di te...\ne voglio... voglio sempre di più.\n<PAGE>\n<FACE_LOVE>Voglio stare con te per sempre. Voglio poter\nfare tutte le mie nuove esperienze insieme\na te.\n<PAGE>\nQuindi... <cap><MYNAME>? M-mi sposeresti?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_00_CHARA_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_LOVE>\nOppure n-non... non vuoi stare con me?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_01_CHARA_WEATHERGIRL",
+      "Text": "Sì, voglio sposarti!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_02_CHARA_WEATHERGIRL",
+      "Text": "Ho bisogno di più tempo."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_01_CHARA_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_LOVE>\n<WINDOW_HEART2_R>D-davvero??? Oh, grazie al cielo...! Sono così\nfelice di aver trovato il coraggio di chiedertelo..."
+    },
+    {
+      "VardId": "MES_LOVE_6B_KISS_CHARA_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_LAUGH>\n<WINDOW_HEART2_R>Eheheh! Un'altra prima esperienza da aggiungere\nalla mia lista.\n<PAGE>\nGrazie, <MYNAME>. Sei sempre stata l'unica\npersona per me.\n<PAGE>\n<FACE_LOVE>Ti... ti amo, <MYNAME>. Non vedo l'ora\ndi fare tante nuove esperienze con te."
+    },
+    {
+      "VardId": "MES_LOVE_6B_REPORT_CHARA_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_LOVE>\nDevo dare la splendida notizia a mio padre\ne a Melanie! Oh, e al resto del villaggio.\nVieni con me?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_00_CHARA_WEATHERGIRL",
+      "Text": "<FACE_VERONICA><POS_LEFT><FACE_NORMAL>\nCapisco. Quindi vi sposerete presto?\n<PAGE>\n<FACE_LAUGH>Che splendida notizia. Congratulazioni\na entrambi!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_01_CHARA_WEATHERGIRL",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nMa che grandiosa notizia! Congratulazioni,\nragazzi miei!\n<PAGE>\n<FACE_MELTY><POS_LEFT><FACE_LAUGH>Eheheh! Sapevo che <MYNAME> sarebbe\ndiventato il tuo principe, Lillie.\nCongratulazioni! ♪"
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSINGRETURN_00_CHARA_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_LEFT><FACE_LOVE>\nG-grazie..."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_02_CHARA_WEATHERGIRL",
+      "Text": "<FACE_MORRIS><POS_LEFT><FACE_LAUGH>\nSe tua madre fosse ancora tra noi, sono sicuro\nche sarebbe raggiante di gioia. <cap><MYNAME>,\nmi raccomando, prenditi cura di mia figlia, ok?\n<PAGE>\n<FACE_MELTY><POS_RIGHT><FACE_LAUGH>Non vedo l'ora di venire alla cerimonia! Siamo\ninvitati tutti e due, vero, Lillie?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_00_CHARA_WEATHERGIRL",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nOh, ecco. A proposito di inviti al matrimonio,\navete deciso che tipo di matrimonio\nvorreste organizzare?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_01_CHARA_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_LEFT><FACE_NORMAL>\nOh, uhm, non ancora, ma pensavamo di farlo\npresto. Potresti darci i dettagli dei pacchetti\nmatrimoniali disponibili?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_02_CHARA_WEATHERGIRL",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nMa certo. È un vero piacere. Abbiamo\ntre pacchetti matrimoniali disponibili.\n<PAGE>\n<FACE_NORMAL>Il <BLUE>pacchetto matrimoniale semplice</BLUE> ha un costo\ndi <BLUE>100.000 G</BLUE>. Il <BLUE>pacchetto matrimoniale elegante</BLUE>\nè leggermente migliore e costa <BLUE>500.000 G</BLUE>.\n<PAGE>\nOppure, potete scegliere l'opzione più splendida,\nil <BLUE>pacchetto matrimoniale di lusso</BLUE>, che ha\nun costo di <BLUE>1.000.000 G</BLUE>.\n<PAGE>\nI pacchetti più sontuosi vi permettono di invitare\npiù persone e vi offrono maggiori opzioni per\ngli abiti degli sposi e degli ospiti.\n<PAGE>\nIn altre parole, come avrete capito, più costoso\nil pacchetto, più il matrimonio sarà meraviglioso.\n<PAGE>\nPer richiedere il pacchetto che desiderate\nnon dovete far altro che venire alla gilda.\n<PAGE>\nUna volta presa la decisione, presentatevi\nal <RED>bancone della gilda durante l'orario\ndi apertura</RED> e consegnate la vostra richiesta."
+    },
+    {
+      "VardId": "MES_LOVE_6B_END_CHARA_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_LAUGH>\nOh. Una scelta difficile, dunque.\n<PAGE>\n<FACE_LOVE>A me non importa che la cerimonia sia\nsemplice o in grande stile, l'importante\nè che tu sia lo sposo.\n<PAGE>\nQuindi, scegli pure quella che preferisci.\nSono curiosa di sapere quale sarà la tua scelta."
+    },
+    {
+      "VardId": "MES_LOVE_6B_NO_COMMENT_CHARA_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_SAD>\nO-oh. Ok. Immagino che fare una proposta\nsimile così all'improvviso ti possa mettere\nalle strette, vero?\n<PAGE>\n<FACE_LAUGH>Uh... uhm... mi spiace.\nSono stata un po' precipitosa."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_HOME_CHARA_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_NORMAL>\nPrenditi pure tutto il tempo necessario...\na-anche se sono così imbarazzata al momento\nche preferirei non aver detto nulla!\n<PAGE>\n<FACE_LAUGH>C-comunque! È bene rientrare, ho... uhm...\nparecchio da fare. Ci vediamo!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_TALK_CHARA_RANGER",
+      "Text": "<FACE_MENOU><POS_LEFT><FACE_LAUGH>\n<cap><MYNAME>! Sei venuto per vedermi?\nChe bello!\n<PAGE>\nStavo giusto pensando a te.\n<PAGE>\nC'è qualcosa di importante di cui vorrei\nparlarti e speravo di vederti per poterlo\nfare oggi."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_OUT_CHARA_RANGER",
+      "Text": "<FACE_MENOU><POS_LEFT><FACE_NORMAL>\nQuesto non è il posto migliore però. Andiamo\nda un'altra parte, ok? Seguimi."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_00_CHARA_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_NORMAL>\n... Dunque, ultimamente ti penso di continuo,\nogni minuto di ogni giorno.\n<PAGE>\n<FACE_LOSS>Da quando siamo diventati una coppia\nabbiamo passato molto tempo insieme...\n<PAGE>\nMa non importa quante volte diciamo di amarci\no quanto tempo passiamo insieme, non è mai\nabbastanza per me. Voglio di più.\n<PAGE>\n<FACE_LOVE>Quindi... <cap><MYNAME>? Ti...\nti andrebbe di sposarmi?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_00_CHARA_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_LOVE>\nSe ci sposiamo possiamo dirci \"ti amo\" molto\npiù spesso! E possiamo stare insieme tuuutto\nil giorno!\n<PAGE>\nQuindi, uhm... che ne pensi, <MYNAME>?\nTi va di sposarmi in modo da passare il resto\ndella nostra vita insieme?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_01_CHARA_RANGER",
+      "Text": "Sì, voglio sposarti!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_02_CHARA_RANGER",
+      "Text": "Ho bisogno di più tempo."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_01_CHARA_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_LOVE>\n<WINDOW_HEART2_R>Sììì! Sono così felice che anche tu provi\nlo stesso!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_KISS_CHARA_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_LAUGH>\n<WINDOW_HEART2_R>Eheheh! Possiamo sposarci e stare sempre\ninsieme! È come un sogno che si avvera.\n<PAGE>\n<FACE_LOVE>Ti amo, <MYNAME>! Saremo una famiglia\nsuperfelice!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_REPORT_CHARA_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_LAUGH>\n... Oh, giusto! Dobbiamo andare a dirlo al resto\ndel villaggio! La felicità va condivisa, dopotutto!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_00_CHARA_RANGER",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nCapisco. Quindi vi sposerete presto?\n<PAGE>\n<FACE_LAUGH>Che splendida notizia. Congratulazioni\na entrambi!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_01_CHARA_RANGER",
+      "Text": "<FACE_MENOU><POS_LEFT><FACE_LOVE>\nGrazie!\n<PAGE>\n<FACE_NORMAL>Dobbiamo scegliere un tipo di cerimonia per\nil nostro matrimonio o mi sbaglio?\n<PAGE>\nPotresti dirci qualcosa al riguardo?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_02_CHARA_RANGER",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nMa certo. È un vero piacere. Abbiamo\ntre pacchetti matrimoniali disponibili.\n<PAGE>\n<FACE_NORMAL>Il <BLUE>pacchetto matrimoniale semplice</BLUE> ha un costo\ndi <BLUE>100.000 G</BLUE>. Il <BLUE>pacchetto matrimoniale elegante</BLUE>\nè leggermente migliore e costa <BLUE>500.000 G</BLUE>.\n<PAGE>\nOppure, potete scegliere l'opzione più splendida,\nil <BLUE>pacchetto matrimoniale di lusso</BLUE>, che ha\nun costo di <BLUE>1.000.000 G</BLUE>.\n<PAGE>\nI pacchetti più sontuosi vi permettono di invitare\npiù persone e vi offrono maggiori opzioni per\ngli abiti degli sposi e degli ospiti.\n<PAGE>\nIn altre parole, come avrete capito, più costoso\nil pacchetto, più il matrimonio sarà meraviglioso.\n<PAGE>\nPer richiedere il pacchetto che desiderate\nnon dovete far altro che venire alla gilda.\n<PAGE>\nUna volta presa la decisione, presentatevi\nal <RED>bancone della gilda durante l'orario\ndi apertura</RED> e consegnate la vostra richiesta."
+    },
+    {
+      "VardId": "MES_LOVE_6B_END_CHARA_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_NORMAL>\nUhm... Quale scegliamo? È così difficile!\n<PAGE>\nPer me va bene l'opzione che\npreferisci, <MYNAME>.\n<PAGE>\n<FACE_LOVE>Non c'è nulla che mi renda più felice che\nessere la tua promessa sposa. Il resto\nè puro... contorno.\n<PAGE>\n<FACE_LAUGH>Quindi, scegli pure il contorno che preferisci!\nIo trovo che l'intero menù sia\nsplendido comunque.\n<PAGE>\nEheheh. Non vedo l'ora di poter dire a tutti\ndi essere tua moglie!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_NO_COMMENT_CHARA_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_SAD>\nOh... Ok. Hai ragione. È giusto che anche tu\nabbia il tempo di riflettere. Non posso aspettarmi\nche accetti di sposarmi così su due piedi!\n<PAGE>\nAmare qualcuno non vuol dire smettere\ndi essere razionali, giusto?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_HOME_CHARA_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_SAD>\nMi spiace che la mia proposta di matrimonio\nti abbia messo a disagio, <MYNAME>.\nUhm... forse dovremmo rientrare, adesso?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_TALK_CHARA_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_NORMAL>\n...!!!\n<PAGE>\n<FACE_LOSS>Non spaventarmi così!!! Avevo appena avviato\nuna simulazione mentale su come fare una\nproposta di ma..."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_OUT_CHARA_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LOSS>\n... manutenzione! Intendo manutenzione! Una\nsimulazione mentale su come fare una proposta\ndi manutenzione delle apparecchiature mediche!\n<PAGE>\n<FACE_SAD>... Oh, basta. Ne ho abbastanza.\nSeguimi."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_00_CHARA_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LOSS>\nSeriamente, sei sempre così imprevedibile\nche non so mai cosa fare con te.\n<PAGE>\nE sei così ottuso a volte che magari hai anche\ncreduto a tutte quelle idiozie che ho appena\ndetto sulle apparecchiature mediche!\n<PAGE>\nDetto ciò, sono sicura che se mi lasciassi\nscappare questa occasione, non riuscirei\nmai a dirti ciò che vorrei dirti.\n<PAGE>\n<FACE_NORMAL>Quindi, lasciami parlare. Anzitutto, sono molto\nbrava con le faccende domestiche. E ovviamente\nil primo soccorso non è un problema per me.\n<PAGE>\nSono molto sicura di me... ok, tranne quando\nmi cogli di sorpresa, e sono capace di gestire\nquasi tutto razionalmente.\n<PAGE>\n... Non guardarmi così. Sto per arrivare\nal dunque.\n<PAGE>\nPer tutti questi motivi, credo che sarei\nuna moglie eccellente.\n<PAGE>\n<FACE_LOVE>Di conseguenza, <MYNAME>, uhm...\nv-vorresti sposarmi?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_00_CHARA_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LOVE>\nSe hai anche un minuscolo desiderio\ndi sposarmi...\n<PAGE>\n... diresti di sì, per favore?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_01_CHARA_NURSE",
+      "Text": "Sì, voglio sposarti!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_02_CHARA_NURSE",
+      "Text": "Ho bisogno di più tempo."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_01_CHARA_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LOVE>\n<WINDOW_HEART2_R>Grazie al cielo. Non è stata proprio come\navevo previsto, ma sono contenta che\nsia andata bene dopotutto.\n<PAGE>\n<FACE_LOSS>Uh? \"Ti amo, vuoi sposarmi\", dici? Non era\nnecessario elencare le mie virtù???\n<PAGE>\n<FACE_LOVE>P-perché non l'hai detto subito?!\n<PAGE>\nÈ stato incredibilmente imbarazzante vantarmi\na quel modo, sai!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_KISS_CHARA_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LOVE>\n<WINDOW_HEART2_R>Non so quando sia successo ma sono\ndisperatamente innamorata di te.\n<PAGE>\nNon me lo sarei mai aspettata.\n<PAGE>\nInfatti, non mi sarei mai aspettata di voler\nsposare qualcuno così tanto, da fare io\nla proposta di matrimonio.\n<PAGE>\nÈ una sensazione veramente strana\nma... bella. Splendida."
+    },
+    {
+      "VardId": "MES_LOVE_6B_REPORT_CHARA_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LOVE>\nBene, ora credo proprio che dovremmo andare\na dare la buona notizia a mia madre. Anche se\ndirle che mi sposo non... non sarà facile.\n<PAGE>\n<cap><MYNAME>, verresti con me, per favore?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_00_CHARA_NURSE",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nCapisco. Quindi vi sposerete presto?\n<PAGE>\n<FACE_LAUGH>Che splendida notizia. Congratulazioni\na entrambi!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_01_CHARA_NURSE",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nSono felice che tu abbia trovato una persona\ncosì speciale come <MYNAME>, Angela.\nCongratulazioni."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSINGRETURN_00_CHARA_NURSE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nLo penso anch'io. A volte mi chiedo se\nsarò mai veramente degna di una persona\ncosì meravigliosa."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_02_CHARA_NURSE",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nAh, a quanto pare ti ha anche aiutata ad aprirti\ned esprimere i tuoi sentimenti!\n<PAGE>\n<FACE_NORMAL><cap><MYNAME>, abbi cura di mia figlia.\n<PAGE>\nOh, a proposito. Avete già deciso quale\npacchetto matrimoniale fa per voi?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_01_CHARA_NURSE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_NORMAL>\nNo, non ancora. Dovevamo giusto discuterne.\nPuoi darci per favore qualche dettaglio su\nciascuno dei pacchetti disponibili?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_02_CHARA_NURSE",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nMa certo. È un vero piacere. Abbiamo\ntre pacchetti matrimoniali disponibili.\n<PAGE>\n<FACE_NORMAL>Il <BLUE>pacchetto matrimoniale semplice</BLUE> ha un costo\ndi <BLUE>100.000 G</BLUE>. Il <BLUE>pacchetto matrimoniale elegante</BLUE>\nè leggermente migliore e costa <BLUE>500.000 G</BLUE>.\n<PAGE>\nOppure, potete scegliere l'opzione più splendida,\nil <BLUE>pacchetto matrimoniale di lusso</BLUE>, che ha\nun costo di <BLUE>1.000.000 G</BLUE>.\n<PAGE>\nI pacchetti più sontuosi vi permettono di invitare\npiù persone e vi offrono maggiori opzioni per\ngli abiti degli sposi e degli ospiti.\n<PAGE>\nIn altre parole, come avrete capito, più costoso\nil pacchetto, più il matrimonio sarà meraviglioso.\n<PAGE>\nPer richiedere il pacchetto che desiderate\nnon dovete far altro che venire alla gilda.\n<PAGE>\nUna volta presa la decisione, presentatevi\nal <RED>bancone della gilda durante l'orario\ndi apertura</RED> e consegnate la vostra richiesta."
+    },
+    {
+      "VardId": "MES_LOVE_6B_END_CHARA_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_NORMAL>\nUhm... È meglio che scelga tu per entrambi,\n<MYNAME>.\n<PAGE>\nCerto, l'idea di vedere tante persone che sono\nappositamente venute per celebrare le nostre\nnozze è allettante, però...\n<PAGE>\n<FACE_LOVE>Io sono già felice sapendo che questa sarà\nla nostra cerimonia di nozze. Non sento\ndi poter chiedere di più.\n<PAGE>\nNon vedo l'ora di sapere quale pacchetto\nhai scelto!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_NO_COMMENT_CHARA_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_SAD>\nCapisco. D'accordo.\n<PAGE>\n<FACE_NORMAL>Il matrimonio è una delle decisioni più importanti\ndopotutto. Per favore, prendi tutto il tempo\nnecessario per pensarci."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_HOME_CHARA_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_SAD>\nAdesso, se vuoi scusarmi... Ciao."
+    },
+    {
+      "VardId": "MES_LOVE_6B_TALK_CHARA_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\n<cap><MYNAME>. Che tempismo! Devo parlarti."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_OUT_CHARA_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\nEhm... non qui, però. Andiamo da un'altra parte."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_00_CHARA_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\nC'è una cosa a cui ho pensato molto\nultimamente... Sono una persona\nmolto egoista.\n<PAGE>\nDa quando abbiamo cominciato a uscire insieme\nil tempo trascorso insieme a te è secondo solo\nal tempo che passo a studiare le mie piante.\n<PAGE>\nInfatti, prima le mie piante erano tutto ciò\nche desideravo. Ma adesso...\n<PAGE>\n<FACE_LOVE>Adesso voglio passare con te la stessa quantità\ndi tempo che passo con le mie piante. No...\nanche di più."
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_00_CHARA_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\nQuindi... <cap><MYNAME>? Vorresti sposarmi?\nVoglio stare con te più di qualunque altra\ncosa al mondo."
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_01_CHARA_RIKORISU",
+      "Text": "Sì, voglio sposarti!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_02_CHARA_RIKORISU",
+      "Text": "Ho bisogno di più tempo."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_01_CHARA_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\n<WINDOW_HEART2_R>Grazie. S-sono felice di avertelo detto."
+    },
+    {
+      "VardId": "MES_LOVE_6B_KISS_CHARA_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\n<WINDOW_HEART2_R>Ti amo, <MYNAME>. Spero che rimarremo\ninsieme per moltissimo tempo."
+    },
+    {
+      "VardId": "MES_LOVE_6B_REPORT_CHARA_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\nOh, già. Devo dare la buona notizia a tutti\ni miei amici, adesso.\n<PAGE>\nPenso che dovremmo chiedere a Veronica\nche tipo di matrimoni si celebrano qui\na Querciallegra.\n<PAGE>\nHo sentito che possiamo scegliere\ntra diversi pacchetti.\n<PAGE>\nAndiamo a darle la notizia e vediamo cosa\npuò dirci in merito."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_00_CHARA_RIKORISU",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nCapisco. Quindi vi sposerete presto?\n<PAGE>\n<FACE_LAUGH>Che splendida notizia. Congratulazioni\na entrambi!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_01_CHARA_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_LEFT><FACE_LAUGH>\nGrazie.\n<PAGE>\n<FACE_NORMAL>Ho sentito che questo villaggio offre diversi\npacchetti matrimoniali.\n<PAGE>\nPotresti dirci che cosa includono?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_02_CHARA_RIKORISU",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nMa certo. È un vero piacere. Abbiamo\ntre pacchetti matrimoniali disponibili.\n<PAGE>\n<FACE_NORMAL>Il <BLUE>pacchetto matrimoniale semplice</BLUE> ha un costo\ndi <BLUE>100.000 G</BLUE>. Il <BLUE>pacchetto matrimoniale elegante</BLUE>\nè leggermente migliore e costa <BLUE>500.000 G</BLUE>.\n<PAGE>\nOppure, potete scegliere l'opzione più splendida,\nil <BLUE>pacchetto matrimoniale di lusso</BLUE>, che ha\nun costo di <BLUE>1.000.000 G</BLUE>.\n<PAGE>\nI pacchetti più sontuosi vi permettono di invitare\npiù persone e vi offrono maggiori opzioni per\ngli abiti degli sposi e degli ospiti.\n<PAGE>\nIn altre parole, come avrete capito, più costoso\nil pacchetto, più il matrimonio sarà meraviglioso.\n<PAGE>\nPer richiedere il pacchetto che desiderate\nnon dovete far altro che venire alla gilda.\n<PAGE>\nUna volta presa la decisione, presentatevi\nal <RED>bancone della gilda durante l'orario\ndi apertura</RED> e consegnate la vostra richiesta."
+    },
+    {
+      "VardId": "MES_LOVE_6B_END_CHARA_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\nOh, c'è tanta scelta.\n<PAGE>\n<FACE_LOVE>Uhm... Personalmente, l'idea che tante persone\nvengano a vederci mi rende un po'... nervosa.\nPreferirei una cerimonia semplice.\n<PAGE>\n<FACE_LAUGH>Ma so che tu hai tanti amici e sono sicura che\nvorresti invitarli tutti.\n<PAGE>\nA te la scelta, allora! Scegli pure il piano\nche preferisci.\n<PAGE>\n<FACE_LOVE>Dopotutto, penso di non poter chiedere niente\ndi più. Ho la possibilità di essere al tuo fianco,\ned è tutto ciò che desidero.\n<PAGE>\nN-non vedo l'ora... davvero!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_NO_COMMENT_CHARA_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\nO-oh. Capisco. Mi dispiace di averti disturbato\ncon una proposta così improvvisa."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_HOME_CHARA_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\nBene, allora. Devo andare adesso. Ci vediamo."
+    }
+  ]
+}

@@ -1,0 +1,2914 @@
+﻿{
+  "Date": "2016-06-06T19:37:51.874845+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "時間帯ＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_FIRST_MEETING",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nやあ、キミが新しく来た牧場主かい？\nボクはジョルジュ、よろしく。"
+    },
+    {
+      "VardId": "MES_MORNING_00",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\nおはよう、<MYNAME>。\nごきげんいかがかな？"
+    },
+    {
+      "VardId": "MES_MORNING_01",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nおはよう、<MYNAME>。\n今日のボクはどう？"
+    },
+    {
+      "VardId": "MES_MORNING_02",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nおはよう、<MYNAME>。\nん、ちょっと眠そうだね…。\n睡眠不足は肌によくないよ。"
+    },
+    {
+      "VardId": "MES_AFTERNOON_00",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\nやあ、<MYNAME>。\nごきげんいかがかな？"
+    },
+    {
+      "VardId": "MES_AFTERNOON_01",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\nやあ、<MYNAME>。\n元気でやってる？"
+    },
+    {
+      "VardId": "MES_AFTERNOON_02",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nやあ、こんにちは。\n調子はどうだい？\nあまりがんばりすぎないようにね。"
+    },
+    {
+      "VardId": "MES_EVENING_00",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nこんばんは、<MYNAME>。\n仕事はもうすんだのかい？"
+    },
+    {
+      "VardId": "MES_EVENING_01",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nやあ、こんばんは。\n…なんか、眠そうな顔してるけど\n調子はどうだい？"
+    },
+    {
+      "VardId": "MES_EVENING_02",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nこんばんは、<MYNAME>。\n夜ふかしは健康に悪いよ。\n肌が荒れるから気を付けなくっちゃね。"
+    },
+    {
+      "VardId": "MES_LOVER_MORNING_00",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_LOVER_MORNING_01",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_LOVER_MORNING_02",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_LOVER_AFTERNOON_00",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_LOVER_AFTERNOON_01",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_LOVER_AFTERNOON_02",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_LOVER_EVENING_00",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_LOVER_EVENING_01",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_LOVER_EVENING_02",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_MORNING_00",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_MORNING_01",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_MORNING_02",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_AFTERNOON_00",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_AFTERNOON_01",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_AFTERNOON_02",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_EVENING_00",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_EVENING_01",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_EVENING_02",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "天気・季節ＭＳＧ（会話フラグOFFでしゃべる）",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_SPRING",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\n今日はいい天気だね。\n散歩でもするかな。"
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_SPRING",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n今日はうっとうしい天気だ。\nでも、花は喜んでるみたいだ。"
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_SUMMER",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_SAD>\r\n…なんて暑いんだ…。\n気を付けないと肌が焼けちゃいそうだ。\nクリームを塗らないと…。"
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_SUMMER",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n今日はうっとうしい天気だ。\nでも、花にとっては恵みの雨だね。\nくきをピンとのばして喜んでるだろう。"
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_AUTUMN",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\n今日はすがすがしい、いい天気だね。\nこんな日はどこか遠くへ行きたくなる。"
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_AUTUMN",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_SAD>\r\n秋の長雨っていう感じかな…。\nこんな日は部屋で本でも読むのが一番だ。\n晴耕雨読って言うのかな。"
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_WINTER",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\n今日は空気がすんでいて\nとてもいい気分だ。\n<PAGE>\n<FACE_NORMAL>肌をさす寒さが時には心地よいと\n感じることもあるんだ。\n…今日のように。"
+    },
+    {
+      "VardId": "MES_WEATHER_SNOW",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_SAD>\r\n今日は雪か…。\n積もらないと良いんだけど…。"
+    },
+    {
+      "VardId": "MES_WEATHER_TYPHOON",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nおいおい、こんな天気に\nわざわざボクに会いに来てくれたのかい？\n<PAGE>\n<FACE_LAUGH>…うれしいねえ。\n何もおもてなしできないけど\nまあ、ゆっくりしていきたまえ。"
+    },
+    {
+      "VardId": "MES_WEATHER_HEAVYSNOW",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nおいおい、こんな天気に\nわざわざボクに会いに来てくれたのかい？\n<PAGE>\n<FACE_LAUGH>実は退屈してたんだ…うれしいねえ。\nまあ、ゆっくり温まっていきたまえ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_WEATHER_TYPHOON",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_WEATHER_HEAVYSNOW",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "接近ＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BLESSING_LOVER",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…<MYNAME>、\nいい人ができたんなら\n紹介してほしいね。\n<PAGE>\n…で、結婚式はいつかな？"
+    },
+    {
+      "VardId": "現在地について",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_RESTAURANT_00",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nレーガの料理は最高だ。\n週に３回は食べに来るよ。"
+    },
+    {
+      "VardId": "MES_SCHEDULE_RESTAURANT_01",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nこの町にいる一つの理由は\nこのレストランがあるからなんだ。"
+    },
+    {
+      "VardId": "MES_HOUSE_FRIEND",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nマリアンとはときどきこうして\n話をしてるんだ。\n<PAGE>\nお互い美を追求するものとして\n意見を交換してるのさ。"
+    },
+    {
+      "VardId": "MES_HOUSE_PINPOINT_00",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nクラウスは良い調香師だ。\nボクもときどき部屋の香りを\n調香してもらってるんだ。\n<PAGE>\n彼の匂いに関するセンスは\n超一流だよ。"
+    },
+    {
+      "VardId": "MES_HOUSE_PINPOINT_01",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n今日は買い物に来たんだが\nなかなかボクのセンスに合ったものが\nないんだ。"
+    },
+    {
+      "VardId": "MES_HOUSE_PINPOINT_02",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nここには面白いものがたくさんあるね。\nきっと店主のセンスが良いんだな。\n<PAGE>\nキミもアンティークに興味があるなら\n何か買っていったらどうだい？"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_00",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_SAD>\r\nこの辺を歩いていると\nときどき何かの気配を感じるんだけど…\n気のせいかな。"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_01",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\nこの辺までくると\n木の香りがして、空気がおいしいね。"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_00",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nここはお気に入りの散歩コースなんだ。\n鳥の声を聴きながら、木々の間を\nぶらぶら歩くのは気持ちがいいよ。"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_01",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nときどきそこの川で釣りをしている人が\nいるんだけど、何が釣れるのかな。"
+    },
+    {
+      "VardId": "MES_AREA_FARM_00",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\nキミはこの辺に住んでるのかい？\n空気がすんでいて\nなかなか良い所じゃないか。"
+    },
+    {
+      "VardId": "MES_AREA_FARM_01",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nこの辺に来たら、ぜひボクの家へ\n寄ってくれたまえ。\n美についての話でもしよう。"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_00",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nここまで登ってくると\nさすがに息が切れるな…。"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_01",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nここには山の斜面を利用した作物が\n育っているんだ。"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_02",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nここの一番手前の畑はエッダさんが\n借りてるんだよね。\n…ここまでくるのは大変だろうな。"
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_00",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nここは花を育てるのに向いているんだ。\n花畑を作って養蜂をすればハチミツも\n取れるようになる。"
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_01",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nこの辺の土地は花を栽培するのに\n最適なんだ。"
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_02",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nどうだい、ボクの花畑は？\n冬以外は、バラを主に育てているんだが\n環境が良いからきれいな花を付けるんだ。"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_00",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nこの辺の畑は水はけが良くて、\n日当たりも良い。\n野菜作りにはうってつけだ。"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_01",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nやろうと思えばこの辺でも\n花畑ができそうだな。"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_02",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nここはフリッツの畑だね。\nなかなか立派な畑じゃないか。\n彼も、ちょっとはがんばってるんだね。"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_00",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_SAD>\r\nボクは水田が苦手なんだ。\nドロドロになるのは性格的に\n合わないんだよ。"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_01",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nここはボクの家から一番近い土地なんだが\n川から水を引いて水田をやってるんだ。\n…どうも水田は苦手でね。"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_02",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nボクも水田は苦手なんだが、\nエリーゼさんも一緒らしいな。"
+    },
+    {
+      "VardId": "MES_AREA_OTHER_00",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n外を歩くときは日に焼けるから\nクリームをぬらないと…。"
+    },
+    {
+      "VardId": "MES_AREA_OTHER_01",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_SAD>\r\n時間のある時は\nできるだけ散歩するようにしてる。\nもちろん美容と健康のためさ。"
+    },
+    {
+      "VardId": "友好度・愛情度ＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HEART_WHITE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n畑仕事ってけっこうつらいだろ。\nでも、美しく咲いた花を見てると\nそのつらさも忘れてしまうんだ。\n<PAGE>\nボクの庭にふさわしい花が咲いたって\n思える時が一番幸せなんだよ。"
+    },
+    {
+      "VardId": "MES_HEART_PURPLE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>は\n花は作ってるのかな？\n<PAGE>\n花がたくさん咲いたときは\nすぐにつまずにゆっくりとながめて\nその美しさを楽しむんだ。"
+    },
+    {
+      "VardId": "MES_HEART_BLUE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n牧場生活というのは、愛なんだ。\n動物や作物にちゃんと愛情をもって接して\nいれば、向こうもそれに応えてくれる。\n<PAGE>\nまあ、すぐにはうまくいかないだろうけど\n地道にがんばることだね。"
+    },
+    {
+      "VardId": "MES_HEART_GREEN",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nボクもこの町に来てずいぶんなるけど\nこの町の人はみんないい人だよ。\n…ちょっと変わったヤツもいるけど…。\n<PAGE>\n特にマリアンはごらんの通りだが、\n長い付き合いだし、同じ志を持つ友として\n仲よくしてもらってるよ。"
+    },
+    {
+      "VardId": "MES_HEART_YELLOW",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nボクは限りなく美しい牧場を\n目指してるんだが、なかなかむずかしいよ。\nまだまだ花の色をコントロールできない。\n<PAGE>\nもし、理想の牧場ができたら\nフィアンセを呼んでここで結婚しようと\n思ってるんだ。\n<PAGE>\nボクのフィアンセはモデルをしていて\n世界中を飛び回っているから、\n結婚してもお互い自由に生活するつもりさ。"
+    },
+    {
+      "VardId": "MES_HEART_ORANGE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nキミは『月刊牧場主』っていう雑誌を\n知ってるかい？\n<PAGE>\nカリスマ牧場主ということでボクも表紙を\nかざってるんだけど、まだまだ牧場主として\n満足できる仕事はしてないと思っている。\n<PAGE>\nだから、当分は雑誌の表紙には\n出ないことにしたんだ。\n牧場の仕事に専念するためにね。"
+    },
+    {
+      "VardId": "MES_HEART_RED",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nねえ<MYNAME>、\nキミがこの町に来て\nどれくらいたつだろう…。\n<PAGE>\n最初は気にならなかったんだが\n今ではキミの存在はボクにとって\n大変大きなものになっているんだ。\n<PAGE>\nボクはいろんな面でキミの影響を\n受けている事に気が付いたんだ。\nこれはきっとすばらしい事なんだと思う。"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_WHITE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_PURPLE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_BLUE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_GREEN",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_YELLOW",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_ORANGE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_RED",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_WHITE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_PURPLE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_BLUE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_GREEN",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_YELLOW",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_ORANGE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_RED",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "恋愛状況ＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVERS_00",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_LOVERS_01",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_LOVERS_02",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_ENGAGEMENT",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_00",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_01",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_02",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_03",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_00",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_01",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_02",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_03",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "プレイヤーが渡した、見せたＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_PRESENT_BEST",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_ROSE_R>おお、これはボクが一番好きな\n<BLUE><ITEMNAME0></BLUE>じゃないか…。\nうれしいね、ありがとう！"
+    },
+    {
+      "VardId": "MES_PRESENT_VERY",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_ROSE_R>ほう、<BLUE><ITEMNAME0></BLUE>だね！\nこれはボクの大好物だよ。\n<PAGE>\nえんりょなくいただいておくよ、\nありがとう！"
+    },
+    {
+      "VardId": "MES_PRESENT_LIKE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\nほう、<BLUE><ITEMNAME0></BLUE>か！\nボクの好みを知ってるのかい？\nありがとう、いただいておくよ。"
+    },
+    {
+      "VardId": "MES_PRESENT_NORMAL",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\nん…これをボクにプレゼントかい？\nそれはどうもありがとう。"
+    },
+    {
+      "VardId": "MES_PRESENT_DISLIKE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nふん、これをボクに…？\nまあとりあえず、いただいておくよ。"
+    },
+    {
+      "VardId": "MES_PRESENT_HATE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_SAD>\r\n<WINDOW_DISCOURAGEMENT_R>ううっ、<BLUE><ITEMNAME0></BLUE>…！\nい、いや、せっかくだから\nいただいておこう。"
+    },
+    {
+      "VardId": "MES_PRESENT_WORST",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_ANGRY>\r\n<WINDOW_DISCOURAGEMENT_R>言っておくが、ボクは…\n<BLUE><ITEMNAME0></BLUE>が\n一番苦手なんだ。\n<PAGE>\nまあ、せっかくだから\nいただいておくけどね…。"
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_VERY",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n<WINDOW_ROSE_R>ほほう、キンキラキンじゃないか！\nめずらしいものをどうもありがとう。"
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_LIKE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_ROSE_R>ほほう、キンキラキンじゃないか！\nめずらしいものをどうもありがとう。"
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_NORMAL",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nほう、ずいぶん派手なもんだな。\nありがとう。\nでもそんなに気をつかわなくてもいいよ。"
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_DISLIKE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n見た目はずいぶん派手だが\n問題は中身だからね。\nまあ、とりあえずいただいておくよ。"
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_HATE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n見た目はずいぶん派手だが\n問題は中身だからね。\nまあ、とりあえずいただいておくよ。"
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_WORST",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n見た目はずいぶん派手だが\n問題は中身だからね。\nまあ、とりあえずいただいておくよ。"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_VERY",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_LIKE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_NORMAL",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_DISLIKE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_HATE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_WORST",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_PRESENT_CANNOT",
+      "Text": "今はやめておこう。"
+    },
+    {
+      "VardId": "MES_PRESENT_RESERVE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n悪いけど今はそんな気分じゃないんだ。\nまた今度いただくよ。"
+    },
+    {
+      "VardId": "MES_LOVER_PRESENT_RESERVE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_PRESENT_RESERVE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_PRESENT_SECONDTIME",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nあれ、またくれるのかい？\n<PAGE>\nいや、えんりょしておくよ。\nそんなにもらっちゃ悪いからね。"
+    },
+    {
+      "VardId": "MES_LOVER_PRESENT_SECONDTIME",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_PRESENT_SECONDTIME",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_BEST",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n<WINDOW_ROSE_R>んっ、誕生日プレゼント！？\nそう言やぁ、今日はボクの誕生日だったね。\nほう、覚えていてくれたのか。\n<PAGE>\n<FACE_LAUGH>おお、これはボクが一番好きな\n<BLUE><ITEMNAME0></BLUE>じゃないか。\nうれしいよ、ありがとう！"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_VERY",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_ROSE_R>ほう、<BLUE><ITEMNAME0></BLUE>だね！\nこれはボクの大好物だよ。\nえんりょなくいただいておくよ！\n<PAGE>\n…なに、誕生日プレゼント！？\nそうか、今日はボクの誕生日だったな。\n覚えていてくれたなんて、うれしいね。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_LIKE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\nほう、誕生日プレゼントか！\nでも、よくボクの好みが分かったね。\nうれしいよ、ありがとう。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_NORMAL",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\nおや、ボクに誕生日プレゼントかい？！\nそれはどうもありがとう。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_DISLIKE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nえっ、これをボクに…？\n…誕生日プレゼント…。\nじゃあいただいておこう、ありがとう。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_HATE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n<WINDOW_DISCOURAGEMENT_R>…えっ、誕生日プレゼント！？\nううっ、<BLUE><ITEMNAME0></BLUE>か…！\nい、いや、せっかくだからいただくよ。\n<PAGE>\n<FACE_LAUGH>でも、ボクの誕生日を\n覚えていてくれたことがうれしいよ。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_WORST",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n<WINDOW_DISCOURAGEMENT_R>言っておくが、ボクは…\n<BLUE><ITEMNAME0></BLUE>が\n一番苦手なんだ。\n<PAGE>\n…なんだって、誕生日プレゼント？\nなら、しょうがないな。\nいただいておくよ、ありがとう。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_VERY",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n<WINDOW_ROSE_R>ほう、誕生日プレゼント…\nキンキラキンじゃないか！\n<PAGE>\nでも、よくボクの好みが分かったね。\nめずらしいものをどうもありがとう。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_LIKE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n<WINDOW_ROSE_R>ほう、誕生日プレゼント…\nキンキラキンじゃないか！\n<PAGE>\nでも、よくボクの好みが分かったね。\nめずらしいものをどうもありがとう。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_NORMAL",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nほう、ずいぶん派手なもんだな。\nありがとう。\n<PAGE>\nでも誕生日だからって\nそんなに気をつかわなくてもいいよ。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_DISLIKE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n見た目はずいぶん派手だが\n問題は中身だからね。\n<PAGE>\nまあ、誕生日プレゼントという事で\nとりあえずいただいておくよ。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_HATE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n見た目はずいぶん派手だが\n問題は中身だからね。\n<PAGE>\nまあ、誕生日プレゼントという事で\nとりあえずいただいておくよ。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_WORST",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n見た目はずいぶん派手だが\n問題は中身だからね。\n<PAGE>\nまあ、誕生日プレゼントという事で\nとりあえずいただいておくよ。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_VERY",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_LIKE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_NORMAL",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_DISLIKE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_HATE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_WORST",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_RABBIT",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nかわいらしいウサギだね。\n毛皮に…い、いや…なんでもない。"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_FOX",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nうん、かわいいな。\n毛皮に…い、いや…なんでもない。"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_OKOJO",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nあっ、オコジョだ。\n面白い顔してるな。"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_SIFAKA",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_PENGUIN",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_MONKEY",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_PARROT",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_TURTLE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_OTHER",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n嫌がってるから\n逃がしてやった方が良いよ。"
+    },
+    {
+      "VardId": "MES_ANGORA",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n変わったウサギだね。\n毛が気持ちよさそうだ。"
+    },
+    {
+      "VardId": "MES_CHICK",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nかわいいな。"
+    },
+    {
+      "VardId": "MES_HEN",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nいいニワトリだ。\nちゃんと育っているみたいだな。"
+    },
+    {
+      "VardId": "MES_LARGE_HEN",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_DOG",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\nうん、かわいいイヌだ。\n<MYNAME>が飼ってるのかい？"
+    },
+    {
+      "VardId": "MES_FAT_DOG",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nかわいいイヌだけど\nちょっと太りすぎだ。"
+    },
+    {
+      "VardId": "MES_LARGEDOG",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\nほう、なかなか良いイヌだね。\nかしこそうな顔してる。"
+    },
+    {
+      "VardId": "MES_FAT_LARGEDOG",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nほう、なかなか良いイヌだが\n太りすぎだな。"
+    },
+    {
+      "VardId": "MES_CAT",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nかわいいネコだね。\nいい顔してるな。"
+    },
+    {
+      "VardId": "MES_FAT_CAT",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nかわいいネコだけど\nちょっと太りすぎだ。"
+    },
+    {
+      "VardId": "MES_LONGHAIR_CAT",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nうん、かわいい猫だね\nいい毛並みしてる。"
+    },
+    {
+      "VardId": "MES_FAT_LONGHAIR_CAT",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nいい毛並みのネコだけど\n太りすぎだな。"
+    },
+    {
+      "VardId": "MES_FLOWER_FESTIVAL",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_ROSE_R>ほう、なかなかきれいな花じゃないか。\nボクによく似あうよ。\n<PAGE>\nそうか、今日は花祭りなんだね。\nいや、ありがとう。"
+    },
+    {
+      "VardId": "MES_LOVER_FLOWER_FESTIVAL",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FLOWER_FESTIVAL",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_THANKSGIVIING_FESTIVAL_S",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_LOVER_THANKSGIVIING_FESTIVAL_S",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_THANKSGIVIING_FESTIVAL_S",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_THANKSGIVIING_FESTIVAL_W",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_LOVER_THANKSGIVIING_FESTIVAL_W",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_THANKSGIVIING_FESTIVAL_W",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n青い羽根か…。\n悪いけど僕にはフィアンセがいるんだ。"
+    },
+    {
+      "VardId": "MES_LOVER_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_EVENT_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_PROPOSAL_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_ANGER_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_RING",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n指輪…！？\n悪いけど僕にはフィアンセがいるんだ。"
+    },
+    {
+      "VardId": "MES_EVENT_RING",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_LOVER_RING",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_RING",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_ANGER_RING",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_PRESENT_LAPPING_LIKE ",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nきれいなラッピングじゃないか。\nさて、中見はなにかな？"
+    },
+    {
+      "VardId": "MES_PRESENT_LAPPING",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nほう、プレゼントかい？\n何が入ってるのかな？"
+    },
+    {
+      "VardId": "プレイヤーに渡すＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_00",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n今日は何の日か知ってるかい？\n<PAGE>\n<FACE_LAUGH>…誕生日おめでとう！\nこれはボクからのお祝いだ。\n受け取ってくれ。"
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_01",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n今日は確か<MYNAME>の\n誕生日じゃなかったか？\nそうだよな、おめでとう。"
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_02",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_LOVER_GIFT_00",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_LOVER_GIFT_01",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_LOVER_GIFT_02",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "会話間隔が空いていたＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LONG_INTERVAL",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_SAD>\r\nやあ、<MYNAME>。\nずいぶん久しぶりだな。\nまあ、元気にしてたのならいいけど。"
+    },
+    {
+      "VardId": "MES_LOVER_LONG_INTERVAL",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRAGE_LONG_INTERVAL",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "サファリＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SAFARI_LEAVE_00",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_SAFARI_LEAVE_00",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_SAFARI_LEAVE_01",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_SAFARI_LEAVE_02",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_SAFARI_LEAVE_OK",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_SAFARI_LEAVE_NG",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_SAFARI_00",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_SAFARI_01",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_SAFARI_02",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "服装ＭＳＧ　",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_CLOTHES_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_CLOTHES_2",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_CLOTHES_3",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_CLOTHES_4",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_CLOTHES_5",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_CLOTHES_6",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_CLOTHES_7",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_CLOTHES_8",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_CLOTHES_9",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_CLOTHES_10",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_CLOTHES_11",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_CLOTHES_12",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_CLOTHES_13",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nほう、なかなかいい服着てるね。\n牧場主らしくて、色もいい。\nでも、ちょっとアクセントが足りないな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_14",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_CLOTHES_15",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_CLOTHES_16",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_CLOTHES_17",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_CLOTHES_18",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_CLOTHES_19",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_CLOTHES_20",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_CLOTHES_21",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_CLOTHES_22",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_CLOTHES_23",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_CLOTHES_24",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_CLOTHES_25",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_CLOTHES_26",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_CLOTHES_27",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_CLOTHES_28",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…………。"
+    },
+    {
+      "VardId": "MES_CLOTHES_29",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n牧場主らしい服だな。\n機能的で色も悪くない。\nよく似合ってるよ。"
+    },
+    {
+      "VardId": "MES_CLOTHES_30",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n青緑色つなぎガール"
+    },
+    {
+      "VardId": "MES_CLOTHES_31",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n紅色ニッカポッカ"
+    },
+    {
+      "VardId": "MES_CLOTHES_32",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n黒色鍛冶師の服"
+    },
+    {
+      "VardId": "MES_CLOTHES_33",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nシンプルセーラー"
+    },
+    {
+      "VardId": "MES_CLOTHES_34",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nセーラーマフラー"
+    },
+    {
+      "VardId": "MES_CLOTHES_35",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nあきんど青竹"
+    },
+    {
+      "VardId": "MES_CLOTHES_36",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nそれは異国の商人の服だね。\nサクラの国で見たことがある。\nなかなかシブい色合いだな。"
+    },
+    {
+      "VardId": "MES_CLOTHES_37",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nエスニックファーマー"
+    },
+    {
+      "VardId": "MES_CLOTHES_38",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nなでしこスタイル"
+    },
+    {
+      "VardId": "MES_CLOTHES_39",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n山桃なでしこスタイル"
+    },
+    {
+      "VardId": "MES_CLOTHES_40",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nワイルドファーマー"
+    },
+    {
+      "VardId": "MES_CLOTHES_41",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nノルディックスタイル"
+    },
+    {
+      "VardId": "MES_CLOTHES_42",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nカンフーファーマー"
+    },
+    {
+      "VardId": "MES_CLOTHES_43",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nワーキングチャイナ"
+    },
+    {
+      "VardId": "MES_CLOTHES_44",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nエスニックジェード"
+    },
+    {
+      "VardId": "MES_CLOTHES_45",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nやまびこボーイ"
+    },
+    {
+      "VardId": "MES_CLOTHES_46",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nやまびこガール"
+    },
+    {
+      "VardId": "MES_CLOTHES_47",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nそのベストはオシャレだね。\n黄色のチェックはボクの好きなデザインだ。"
+    },
+    {
+      "VardId": "MES_CLOTHES_48",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nノルディックドレス"
+    },
+    {
+      "VardId": "MES_CLOTHES_49",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n南の島スタイル"
+    },
+    {
+      "VardId": "MES_CLOTHES_50",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nそのコート、いいデザインだね。\nネクタイともよく合っている。"
+    },
+    {
+      "VardId": "MES_CLOTHES_51",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nいい色のレインコートだね。\nボクの好みの色だ。\n赤いブーツともよく合っている。"
+    },
+    {
+      "VardId": "MES_CLOTHES_52",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n今日はオシャレな服だね。\nそういう服は着こなしがむずかしいんだが\nなかなかよく似合ってるよ。"
+    },
+    {
+      "VardId": "MES_CLOTHES_53",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n今日のファッションは全体的に\nブルーで統一されているね。\n牧場にもよくあっていると思う。"
+    },
+    {
+      "VardId": "MES_CLOTHES_54",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n青甚平"
+    },
+    {
+      "VardId": "MES_CLOTHES_55",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n紅紫ノースリーブ"
+    },
+    {
+      "VardId": "MES_CLOTHES_56",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nライムグリーンコート"
+    },
+    {
+      "VardId": "MES_CLOTHES_57",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nカジュアルジャケット"
+    },
+    {
+      "VardId": "MES_CLOTHES_58",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nルバシカ"
+    },
+    {
+      "VardId": "MES_CLOTHES_59",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nブルーのダウンジャケットか…。\n温かそうでいいね。"
+    },
+    {
+      "VardId": "MES_CLOTHES_60",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nピンクチェックベスト"
+    },
+    {
+      "VardId": "MES_CLOTHES_61",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nローズピンクドレス"
+    },
+    {
+      "VardId": "MES_CLOTHES_62",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n南国グリーン"
+    },
+    {
+      "VardId": "MES_CLOTHES_63",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nリーフグリーンコート"
+    },
+    {
+      "VardId": "MES_CLOTHES_64",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nいい色のレインコートだね。\n赤いブーツともよく合っている。"
+    },
+    {
+      "VardId": "MES_CLOTHES_65",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nアッシュテーラード"
+    },
+    {
+      "VardId": "MES_CLOTHES_66",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nアルプススカート赤"
+    },
+    {
+      "VardId": "MES_CLOTHES_67",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n黒甚平"
+    },
+    {
+      "VardId": "MES_CLOTHES_68",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nそのノースリーブはいい色だね。\n深い黄色は落ち着いて見えるよ。"
+    },
+    {
+      "VardId": "MES_CLOTHES_69",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nその服、どうしたんだい？\nこの辺じゃ手に入らないと思うが…。\n<PAGE>\n…雪国のファッションだよね。\nなかなかよく似合ってるよ。"
+    },
+    {
+      "VardId": "MES_CLOTHES_70",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n赤色ポンチョ"
+    },
+    {
+      "VardId": "MES_CLOTHES_71",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nコスモスピンクコート"
+    },
+    {
+      "VardId": "MES_CLOTHES_72",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nピンクカジュアル"
+    },
+    {
+      "VardId": "MES_CLOTHES_73",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nコルクテーラード"
+    },
+    {
+      "VardId": "MES_CLOTHES_74",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n温かそうなダウンジャケットだね。\nパンツともよく合っているよ。"
+    },
+    {
+      "VardId": "MES_CLOTHES_75",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nリリーイエロードレス"
+    },
+    {
+      "VardId": "MES_CLOTHES_76",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nＢＫＪ２１ベスト青"
+    },
+    {
+      "VardId": "MES_CLOTHES_77",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nＢＫＪ２１スカート青"
+    },
+    {
+      "VardId": "MES_CLOTHES_78",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n異国の王子服"
+    },
+    {
+      "VardId": "MES_CLOTHES_79",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nワイルドロッカー"
+    },
+    {
+      "VardId": "MES_CLOTHES_80",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nゴージャスコート"
+    },
+    {
+      "VardId": "MES_CLOTHES_81",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n殿さまスタイル"
+    },
+    {
+      "VardId": "MES_CLOTHES_82",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n姫さまスタイル"
+    },
+    {
+      "VardId": "MES_CLOTHES_83",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nＢＫＪ２１ベスト赤"
+    },
+    {
+      "VardId": "MES_CLOTHES_84",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nＢＫＪ２１スカート翠"
+    },
+    {
+      "VardId": "MES_CLOTHES_85",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nホワイトジャケット"
+    },
+    {
+      "VardId": "MES_CLOTHES_86",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nプラチナコート"
+    },
+    {
+      "VardId": "MES_CLOTHES_87",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nゴシックスタイル"
+    },
+    {
+      "VardId": "MES_CLOTHES_88",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nその服、異国風でいい感じだね。\nそういう服は着こなしがむずかしいんだが\nうまく着こなしているよ。"
+    },
+    {
+      "VardId": "MES_CLOTHES_89",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n遊び人スタイル"
+    },
+    {
+      "VardId": "MES_CLOTHES_90",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n下町娘スタイル"
+    },
+    {
+      "VardId": "MES_CLOTHES_91",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nカジュアルパーカー"
+    },
+    {
+      "VardId": "MES_CLOTHES_92",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nコバルトパーカー"
+    },
+    {
+      "VardId": "MES_CLOTHES_93",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nダウンベストウェア"
+    },
+    {
+      "VardId": "MES_CLOTHES_94",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nカジュアルミニズボン"
+    },
+    {
+      "VardId": "MES_CLOTHES_95",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nピンクセーター"
+    },
+    {
+      "VardId": "MES_CLOTHES_96",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nミニベストウェア"
+    },
+    {
+      "VardId": "MES_CLOTHES_97",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nキルトウェア"
+    },
+    {
+      "VardId": "MES_CLOTHES_98",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nエレガントワンピース"
+    },
+    {
+      "VardId": "MES_CLOTHES_99",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nモードポンチョ"
+    },
+    {
+      "VardId": "MES_CLOTHES_100",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nハイネックジャケット"
+    },
+    {
+      "VardId": "MES_CLOTHES_101",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nシュバルツコート"
+    },
+    {
+      "VardId": "MES_CLOTHES_102",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nニットカーディガン"
+    },
+    {
+      "VardId": "MES_CLOTHES_103",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nアッシュパーカー"
+    },
+    {
+      "VardId": "MES_CLOTHES_104",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nストロベリーパーカー"
+    },
+    {
+      "VardId": "MES_CLOTHES_105",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nブルーダウンベスト"
+    },
+    {
+      "VardId": "MES_CLOTHES_106",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n紫ミニズボン"
+    },
+    {
+      "VardId": "MES_CLOTHES_107",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nおしゃれなセーター着てるね。\n黄色が良く似合ってるよ。"
+    },
+    {
+      "VardId": "MES_CLOTHES_108",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nクールベストウェア"
+    },
+    {
+      "VardId": "MES_CLOTHES_109",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nキルトウェア赤"
+    },
+    {
+      "VardId": "MES_CLOTHES_110",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n今日はずいぶんかわいらしい服着てるね。\nそういうのも似合うんだね。"
+    },
+    {
+      "VardId": "MES_CLOTHES_111",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nホワイトポンチョ"
+    },
+    {
+      "VardId": "MES_CLOTHES_112",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nイエローハイネック"
+    },
+    {
+      "VardId": "MES_CLOTHES_113",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nイケメンスタイル"
+    },
+    {
+      "VardId": "MES_CLOTHES_114",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nホワイトパーカー"
+    },
+    {
+      "VardId": "MES_CLOTHES_115",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nファンキージーンズ"
+    },
+    {
+      "VardId": "MES_CLOTHES_116",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nカジュアルロック"
+    },
+    {
+      "VardId": "MES_CLOTHES_117",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nパンジーカーディガン"
+    },
+    {
+      "VardId": "MES_CLOTHES_118",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nオレンジサロペット"
+    },
+    {
+      "VardId": "MES_CLOTHES_119",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nストライプポンチョ"
+    },
+    {
+      "VardId": "MES_CLOTHES_120",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nクールスカートウェア"
+    },
+    {
+      "VardId": "MES_CLOTHES_121",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nたんぽぽジャケット"
+    },
+    {
+      "VardId": "MES_CLOTHES_122",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nオレンジジャケット"
+    },
+    {
+      "VardId": "MES_CLOTHES_123",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nクリームセーター"
+    },
+    {
+      "VardId": "MES_CLOTHES_124",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nカジュアルサロペット"
+    },
+    {
+      "VardId": "MES_CLOTHES_125",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nシンフォニーポンチョ"
+    },
+    {
+      "VardId": "MES_CLOTHES_126",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nナチュラルスタイル"
+    },
+    {
+      "VardId": "MES_CLOTHES_127",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nシュバルツコート緑"
+    },
+    {
+      "VardId": "MES_CLOTHES_128",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nウィンターニット"
+    },
+    {
+      "VardId": "MES_CLOTHES_129",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nドクターウェア"
+    },
+    {
+      "VardId": "MES_CLOTHES_130",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n黒のドクターウェア"
+    },
+    {
+      "VardId": "MES_CLOTHES_131",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nシスターホワイト"
+    },
+    {
+      "VardId": "MES_CLOTHES_132",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nシスターブラック"
+    },
+    {
+      "VardId": "MES_CLOTHES_133",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nコックウェア"
+    },
+    {
+      "VardId": "MES_CLOTHES_134",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n空色コックウェア"
+    },
+    {
+      "VardId": "MES_CLOTHES_135",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n青忍者"
+    },
+    {
+      "VardId": "MES_CLOTHES_136",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n赤忍者"
+    },
+    {
+      "VardId": "MES_CLOTHES_137",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n白忍者"
+    },
+    {
+      "VardId": "MES_CLOTHES_138",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n黄色の服は好きなんだが\nその服は…どう言っていいか…。\nボクにはコメントできないよ。"
+    },
+    {
+      "VardId": "MES_CLOTHES_139",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n緑忍者"
+    },
+    {
+      "VardId": "MES_CLOTHES_140",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nマジシャンの服"
+    },
+    {
+      "VardId": "MES_CLOTHES_141",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nルビーレッドチャイナ"
+    },
+    {
+      "VardId": "MES_CLOTHES_142",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nエメラルドチャイナ"
+    },
+    {
+      "VardId": "MES_CLOTHES_143",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nカウボーイスタイル"
+    },
+    {
+      "VardId": "MES_CLOTHES_144",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nメイドウェア"
+    },
+    {
+      "VardId": "MES_CLOTHES_145",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nピンクメイドウェア"
+    },
+    {
+      "VardId": "MES_CLOTHES_146",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nブルーメイドウェア"
+    },
+    {
+      "VardId": "MES_CLOTHES_147",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nメイドロイヤル"
+    },
+    {
+      "VardId": "MES_CLOTHES_148",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n執事服"
+    },
+    {
+      "VardId": "MES_CLOTHES_149",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n赤の執事服"
+    },
+    {
+      "VardId": "MES_CLOTHES_150",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n青の執事服"
+    },
+    {
+      "VardId": "MES_CLOTHES_151",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n魔女の服"
+    },
+    {
+      "VardId": "MES_CLOTHES_152",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nねこの着ぐるみ"
+    },
+    {
+      "VardId": "MES_CLOTHES_153",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nいぬの着ぐるみ"
+    },
+    {
+      "VardId": "MES_CLOTHES_154",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nん、なんだ、今日はお祭りなのか？\nそんなかっこうして…。"
+    },
+    {
+      "VardId": "MES_CLOTHES_155",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nせっかくそんなかっこうしてるんなら\n子供の所へ行った方がいいよ。"
+    },
+    {
+      "VardId": "MES_CLOTHES_156",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nぺんぎんの着ぐるみ"
+    },
+    {
+      "VardId": "MES_CLOTHES_157",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nそういうのキライじゃないけど…\nふだんは着ないよね。"
+    },
+    {
+      "VardId": "アクセサリーＭＳＧ　",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n牧場主の帽子"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_2",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nバンダナ"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_3",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nむぎわら帽子"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_4",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nおっ、かっこいい帽子だ。\nトップハットか。\nうん、よく似合ってる。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_5",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n青のキャスケット"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_6",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n赤のキャスケット"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_7",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n緑のキャスケット"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_8",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n黒のキャスケット"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_9",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n白のキャスケット"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_10",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n黒のチロリアンハット"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_11",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n緑のチロリアンハット"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_12",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n赤のチロリアンハット"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_13",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n青のチロリアンハット"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_14",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n変わった帽子だけど\nおしゃれだね。\nよく似合ってるよ。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_15",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n傘帽子"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_16",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n髪に付けた花が目を引くね。\n非常に魅力的に見えるよ。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_17",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nピンクミニハット"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_18",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nブルーミニハット"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_19",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nかわいい帽子だね。\nファッションとしてはいいけど\n牧場ではかぶらない方がいいよ。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_20",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nパープルミニハット"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_21",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n茶のテンガロンハット"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_22",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n赤のテンガロンハット"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_23",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n青のテンガロンハット"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_24",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n黒のテンガロンハット"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_25",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nカウガールハット"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_26",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nコサック帽子"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_27",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nゴシックカチューシャ"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_28",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nメイドカチューシャ"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_29",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n黒猫耳カチューシャ"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_30",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n白猫耳カチューシャ"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_31",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n茶犬耳カチューシャ"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_32",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n白犬耳カチューシャ"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_33",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nニットキャップ"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_34",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nそのベレー帽、かっこいいじゃないか！\nボクには似合わないけど\n似合う人はあこがれるね。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_35",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nコック帽子"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_36",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n魔女の帽子"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_37",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nあの人の帽子"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_38",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nおお、なんとゴージャスな帽子だろう！\n今日はどこへお出かけですか？"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_39",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nマリン帽子"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_40",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nゴーグル"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_41",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nヘッドホン"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_42",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n王冠"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_43",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n青のフルフレーム"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_44",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n黒のフルフレーム"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_45",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n赤のフルフレーム"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_46",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nそのメガネ、いいね。\n黄色のフレームはおしゃれだよ。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_47",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n緑のフルフレーム"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_48",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n赤のアンダーフレーム"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_49",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nそのメガネ、いいね。\n黄色のフレームはおしゃれだよ。\nデザインもいい。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_50",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n青のアンダーフレーム"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_51",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n緑のアンダーフレーム"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_52",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n黒のアンダーフレーム"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_53",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n黒のヘビーフレーム"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_54",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n赤のヘビーフレーム"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_55",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n青のヘビーフレーム"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_56",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n緑のヘビーフレーム"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_57",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nそのメガネ、いいね。\n黄色のフレームはおしゃれだよ。\nデザインもいい。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_58",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n白のヘビーフレーム"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_59",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nサングラス"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_60",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nいいサングラスしてるね。\nパーティにはもってこいだ。"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_61",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n丸メガネ"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_62",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nモノクル"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_63",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n黒眼帯"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_64",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n白眼帯"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_65",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nバタフライマスク"
+    },
+    {
+      "VardId": "スケジュール行動中ＭＳＧ　",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_FARM_WORKING",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nきれいな花に囲まれてると\n仕事のつらさも忘れてしまうんだ。"
+    },
+    {
+      "VardId": "MES_CARE_ANIMAL",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n動物は家族みたいなもんだよ。\n愛情をかけて世話してやると\nちゃんと立派に育つのさ。"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOP_OPEN",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nお店営業中"
+    },
+    {
+      "VardId": "MES_MARRIAGE_SCHEDULE_SHOP_OPEN",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nお店営業中（結婚後）"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SLEEP_00",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_PATI>\r\n…ボク…キレイ……。"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SICK",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n病気（お付き合い解消後）\n※お付き合い解消の翌日、\nまたは翌々日に発生。"
+    },
+    {
+      "VardId": "MES_LOVER_SCHEDULE_SICK",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n病気（お付き合い状態）\n※怒りカウンターが「５」で発生。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_SCHEDULE_SICK",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n病気（結婚後）\n※怒りカウンターが「５」で発生。"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SLEEPY_00",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nボクはそろそろ寝るから\nキミも帰ったらどうだい？\n夜更かしは体に毒だよ。"
+    },
+    {
+      "VardId": "お手伝いＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_00",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nお手伝い依頼"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_01",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nお手伝い依頼選択肢・はい"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_02",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nお手伝い依頼選択肢・いいえ"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_CANCEL",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nお手伝い依頼キャンセル"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_OK",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nお手伝い了承"
+    },
+    {
+      "VardId": "ご飯ＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MEAL_00",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n今は食事中だから\n話ならちょっと待ってくれたまえ。"
+    },
+    {
+      "VardId": "MES_MEAL_01",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nご飯MSG"
+    },
+    {
+      "VardId": "視野判定ＭＳＧ（モブも含む）",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_WOOD",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n木のベンチ"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_STONE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n石のベンチ"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_RED",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n赤に輝くベンチ"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_GREEN",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n緑のベンチはきれいね。\n私の好きな色だわ。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_BLUE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n青に輝くベンチ"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_YELLOW",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nボクの好きな黄色いベンチがある。\n座ってみようかな…。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_PINK",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n桃に輝くベンチ"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_PURPLE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n紫に輝くベンチ"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_WHITE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n白に輝くベンチ"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_BLACK",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n黒に輝くベンチ"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_GOLD",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n金色のベンチって、こうして見ると\nけっこう派手だな。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_SILVER",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n銀に輝くベンチ"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BARREL",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nあのタルは何を入れるのかしら…。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WOOD_BOX",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n木箱"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SCARECROW",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n昔は畑には必ずかかしがあったのよ。\nでも、最近はあまり見かけないわねぇ。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WEATHERCOCK",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n風見鶏"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_MILK_CAN",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nミルク缶"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GRASS_ROLL",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n牧草ロール"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BLOCK_BRICH",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n積み上げられたレンガ"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_JAR_RED",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n赤いツボ"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_JAR_BLUE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n青いツボってなかなかきれいだね。\nできれば部屋にかざった方が良いと思う。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_JAR_WHITE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n白いツボ"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SMALL_CART",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nボロボロの荷車"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_CART",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n荷馬車"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WAGON",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nあんなワゴンがうちの庭にもほしいね。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SHIPMENTBOX",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n出荷箱"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PAVEMENT",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n敷石"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_LARGE_PAVEMENT",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n大きな敷石"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_STREETLAMP_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n街灯"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_STREETLAMP_2",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nこの町にもあんなおしゃれな街灯が\nあったんだな。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BONFIRE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nかがり火"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ANDON",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n行灯"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GARDENLANTERN",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n石灯篭"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PILLAR_WOOD",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n木の柱"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PILLAR_STONE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n石の柱"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PILLAR_BRICK",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nレンガの柱"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOTEM POLE_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nトーテムポール"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOTEM POLE_2",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nトーテムポールって\nちょっと不気味だけど…、\n冒険心をそそられるね。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TABLE_WEST",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nなかなかいいテーブルね。\nうちにもこんなのがあると良いんだけどね。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TABLE_JAPAN",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n和風テーブル"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TABLE_ORIENT",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n民族風テーブル"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_CHAIR_WEST",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n庭でパーティなんかするときは\nあんなガーデンチェアが\nあると良いんだけど…。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_CHAIR_JAPAN",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nひもうせんの茶席"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_CHAIR_ORIENT",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n丸太の椅子"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_CHAIR_BEACH",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nビーチチェア"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PARASOL_WEST",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nあんなガーデンパラソルがあったら\n庭でパーティができるわね。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PARASOL_GARDEN_NEW1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nガーデンパラソル２"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PARASOL_GARDEN_NEW2",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n庭でパーティなんかするときは\nあんなガーデンパラソルが\nあると良いんだけど…。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PARASOL_JAPAN",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n茶屋傘"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PARASOL_BEACH",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nビーチパラソルを見てると\nなんとなくウキウキするの。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GARDEN_BEACH_NEW1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nビーチパラソル２"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GARDEN_BEACH_NEW2",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nビーチパラソル３"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BOARD",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n立て札"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GUIDEPOST",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n道しるべ"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BLACKBOARD",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n黒板看板"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_STATUE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nあのイヌの石像は何かいわれが\nあるんだろうか…。\n<PAGE>\n凄くかしこそうな顔してるから\nきっと忠実なイヌだったんだろうな。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_STATUE_SUN",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n変わった像があるのねぇ。\n何かのお祭りに使うのかしら…。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_STATUE_PIKE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n矛を持った天女像"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_STATUE_SHIELD",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n盾を持った天女像"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FOUNTAIN_ANIMAL",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nトリの噴水"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FOUNTAIN_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n四角い噴水"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FOUNTAIN_2",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nなかなかセンスの良い噴水だな。\nボクの好みだ。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FAUCET",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n立水栓"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PUMP",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n手押しポンプ"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SMALLPOND",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n小さい池"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POND",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nあの池には魚がいるのかしらねぇ。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BRIDGE_DIGIT",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nけた橋"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BRIDGE_ARCH",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nうちの前の川にも\nあんなアーチ橋があるといいのに…。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WELL",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nあの井戸は水が汲めるのかしら…。\n井戸水は冷たくておいしいのよ。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TRAM",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nトロッコ"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WATCHTOWER",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n物見やぐら"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SWING_IRON",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nいいブランコがあるのねぇ。\nわたしものってみたいわ。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SWING_WOOD",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n木製のブランコ"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_JUNGLE_JYM",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n四角いジャングルジム"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SEASAW",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n昔はよくあんなシーソーに\n乗って遊んだものよ。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SLIDE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n滑り台なんか見ていると\n昔を思い出すわね。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SAND_CASTLE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nお城の砂場"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SAND_ANIMAL",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n動物の砂場"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_HORIZONTAL_BAR",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n鉄棒があるのね。\nわたしは逆上がりができなくてねぇ…。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_HORIZONTAL_BAR_HIGH",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n背の高い鉄棒"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OPEN_SPACE_WOOD_SMALL",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n小さな木の広場"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OPEN_SPACE_WOOD",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n木の広場"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OPEN_SPACE_STONE_SMALL",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n小さな石の広場"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OPEN_SPACE_STONE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n石の広場"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OPEN_SPACE_BRICK_SMALL",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n小さなレンガの広場"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OPEN_SPACE_BRICK",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nレンガの広場"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OPEN_SPACE_MOSS_SMALL",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n小さな苔の広場"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OPEN_SPACE_MOSS",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n苔の広場"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FIRE_EXTINGUISHER",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n消火器"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_DARUMA",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nだるま"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SNOWMAN",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n雪だるま"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_KAMAKURA",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nかまくら"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ICELIGHT",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n氷のライトってきれいだね。\nすき通った感じが良いな。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SNOWIMAGE_COW",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nあのウシの像、雪でできてるらしいわね。\n…誰が作ったのかしら。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SNOWIMAGE_SHEEP",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nヒツジの雪像"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SNOWIMAGE_BIRD",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nトリの雪像"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SNOWIMAGE_PIKE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n矛を持った天女の雪像"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SNOWIMAGE_SHIELD",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n盾を持った天女の雪像"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_REDLIGHT",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n赤く光るツリー"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_BLUELIGHT",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nきれいなツリーねぇ。\n特に青いのはいいんじゃないかしら。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_YELLOWLIGHT",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n黄色はボクの好きな色なんだ。\nだからあのツリーは気に入ってるよ。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POLE_REDLIGHT",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n赤く光るポール"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POLE_BLUELIGHT",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n青く光るポール"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POLE_YELLOWLIGHT",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nボクは黄色が好きなんだ。\nだからあのポールは気に入ってるよ。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GATE_REDLIGHT",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n赤く光るゲート"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GATE_BLUELIGHT",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n青く光るゲート"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GATE_YELLOWLIGHT",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n黄色はボクのラッキーカラーなんだ。\nだからあのゲートは気に入ってるよ。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PYRAMID",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nミニピラミッド"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_CASTLE_JAPAN",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nミニ和風城"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_CASTLE_WEST",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nミニ洋風城"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOWER",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nあのちっちゃなタワーは\n面白いね。\nでも、何に使うんだろう…。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_KADOMATU",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n門松"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SHISHIODOSHI",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nししおどし"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ANCHOR",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nいかり"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_HAMMOCK",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n気持ちよさそうなハンモックがあるのねぇ。\n一度あれで寝てみたいんだけど\nきっと落っこちちゃうわね。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OBELISK",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nオベリスク"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SLATE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n…あの石版には何が\n書いてあるのかしらねぇ。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_MOVING_CAR",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n面白そうな乗り物があるな。\nちょっと乗ってみたいけど\n無理かな…。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SHISHIMAI",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nシシマイ"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PANDA",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nパンダの乗り物"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ROBOT",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nサイキョウオー"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BOARD_SOUND",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n音の出るボード"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_PINKROSE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nピンクローズポット"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_MARGUERITE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nマーガレットポット"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_TULIP",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nまあ、かわいいチューリップだこと。\nうちの庭にもほしいわ。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_CARNATION",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nカーネーションポット"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_SUNFLOWER",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nひまわりはあの黄色い大きな花が\nボクの好みなんだ。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_REDROSE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nレッドローズポット"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_HYDRANGEA",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nあじさいポット"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_LILY",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nユリポット"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_HIBISCUS",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nハイビスカスポット"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_PINK",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nなでしこポット"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_WHITEROSE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nホワイトローズポット"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_GARBERA",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nガーベラポット"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_SNOWDROP",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nスノードロップポット"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_RINDOU",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nりんどうポット"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_BLUEROSE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nブルーローズって作るのがすごく\nむずかしいんだ。\n<PAGE>\nバラの花としては\n自然には存在しない色だからね。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_CACTUS",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nサボテンポット"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_PINKROSE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nピンクローズ鉢植え"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_MARGUERITE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nマーガレット鉢植え"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_TULIP",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nまあ、かわいいチューリップだこと。\nうちの庭にもほしいわ。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_CARNATION",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nカーネーション鉢植え"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_SUNFLOWER",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\nひまわりはあの黄色い大きな花が\nボクの好みなんだ。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_REDROSE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nレッドローズ鉢植え"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_HYDRANGEA",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nあじさい鉢植え"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_LILY",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nユリ鉢植え"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_HIBISCUS",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nハイビスカス鉢植え"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_PINK",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nなでしこ鉢植え"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_WHITEROSE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nホワイトローズ鉢植え"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_GARBERA",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nガーベラ鉢植え"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_SNOWDROP",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nスノードロップ鉢植え"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_RINDOU",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nりんどう鉢植え"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_BLUEROSE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nブルーローズって作るのがすごく\nむずかしいんだ。\n<PAGE>\nバラの花としては\n自然には存在しない色だからね。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_CACTUS",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nサボテン鉢植え"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_BAMBOO",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n竹の鉢植え"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BONSAI",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n盆栽"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_CHRRYBLOSSOM",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n桜の鉢植え"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_GINGKO",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nイチョウの鉢植え"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_PALM",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nヤシの鉢植え"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_HANGING_BOWL",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\n吊り鉢から花があふれていると\nきれいだね。\n<PAGE>\n特にテラスや窓からぶら下がっていると\n町がきれいに見える。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BASKET_RED",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n赤色の花かご"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BASKET_GREEN",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nきれいな花かごねぇ\n特に緑はいいわ。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BASKET_YELLOW",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\n花かごがたくさんあると\n町がきれいに見える。\n特に黄色い花かごはいいね。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BASKET_PINK",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n桃色の花かご"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BASKET_PURPLE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n紫色の花かご"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BASKET_WHITE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n白色の花かご"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOPIARY_BOXWOOD",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n丸い植込み"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOPIARY_CONIFER",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nコニファー"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOPIARY_BALL_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n１つ玉トピアリー"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOPIARY_BALL_2",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nトピアリーは２つ玉に限るよ。\n１つ玉はなんとなく奇妙に見える。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOPIARY_BOX",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n生垣"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOPIARY_LION",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nあのライオン、\nうまく刈り込んであるわねぇ。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOPIARY_MAMMOTH",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nあれはマンモスのトピアリーだね。\nよく刈り込んであるな。\n世話が大変そうだ。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_BAMBOO",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n竹やぶ"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_PINEAL",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n松の木"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_CHERRYBLOSSOM",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nあんなきれいな桜の木があるなら\nここでお花見ができるわね。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_GINGKO",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nイチョウの木"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_PALM",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nヤシの木"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_LATTICE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nラティス"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OMANENT_COW",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nウシの置物は牧場の象徴ね。\nうちの動物小屋にもほしいわ。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OMANENT_SHEEP",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nヒツジの置物"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OMANENT_COCK",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nニワトリの置物"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OMANENT_HORSE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nウマの置物"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OMANENT_ALPACA",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nアルパカの置物"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OMANENT_LAMA",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nリャマの置物"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TIN_TRICYCLE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nあの三輪車はさりげなく花をかざって\n庭に置いておくとおしゃれだね。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TIN_WATERING_CAN",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nブリキのじょうろ"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TIN_BOOTS",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nブリキの長ぐつ"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ARCH_RED_FLOWER",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n赤い花のアーチ"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ARCH_BLUE_FLOWER",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n青い花のアーチ"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ARCH_PLANTS",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n草木のアーチは少し地味だけど、\n庭の花をよりきれいに\n見せてくれるんだ。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GAZEBO",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nうちの庭にもあんなガゼボが\nあると良いんだけど…。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PERGOLA",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nパーゴラ"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FAN_PERGOLA",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nファンパーゴラ"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_WOOD_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n木の柵"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_STONE_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n石の柵"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_BAMBOO_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n竹の柵"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_RED_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n赤に輝く柵"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_GREEN_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n緑の柵があると\n町がきれいに見えるわね。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_BLUE_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n青に輝く柵"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_YELLOW_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\n黄色い柵はいいね。\n町がきれいに見える。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_PINK_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n桃に輝く柵"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_PURPLE_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n紫に輝く柵"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_WHITE_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n白に輝く柵"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_BLACK_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n黒に輝く柵"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_GOLD_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n金色の柵はゴージャスだけど\nいつもお祭りみたいだな。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_SILVER_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n銀に輝く柵"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_MILK_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nウシ柄の柵"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_HAIR_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nもこもこの柵"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GUARD_POLE_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nガードポール"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_CHAIN_POLE_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nチェーンポール"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WALL_WOOD_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n木の塀"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WALL_STONE_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n石の塀"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WALL_BRICK_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nレンガの塀"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COLOR_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n黄色というのは、見ているだけで\n気分が明るくなってくる色だね。\n落ち込んだ時に見るといいよ。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COLOR_2",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_ROSE_R>ああ…、美しい…。\n金という色は、何て美しいんだ。\nまるでボクのようじゃないか。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ATMOSPHERE_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_ROSE_R>うんうん、キミはわかっているね。\n世の中には、かがやきが必要なんだよ。\nキミのセンスは正しいよ。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ATMOSPHERE_2",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n置物の選び方にセンスを感じる…。\nキミは、その道のプロになれるよ。\n何なら、雑誌社を紹介しようか？"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COMBO_1",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\nふむ、バラに注目するとはすばらしい。\nバラは見た目・香りともに最高だ。\nずっとここに置いておくべきだよ。"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COMBO_2",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_LAUGH>\r\nうーむ、これはまた新しいな。\n夜も観賞できる置物とは………。\n発想力がすばらしいよ。"
+    },
+    {
+      "VardId": "貿易関係ＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_TRADE_ASIA",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nこの前、シルクロードの国の店に\n行ってきたんだが、\nけっこういろんなもの売ってたな。"
+    },
+    {
+      "VardId": "MES_TRADE_ALPS",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n山小屋の国の店にはいい布があるらしい。\n一度買ってみなければ…。"
+    },
+    {
+      "VardId": "MES_TRADE_JAPAN",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nサクラの国のコメは絶品だって話だ。\nそのうちリゾットでも作ってみるか…。"
+    },
+    {
+      "VardId": "MES_TRADE_USA",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nこの前、貿易ステーションに\n小麦の国の店が出ていたんだが\nけっこう人気だったみたいだ。"
+    },
+    {
+      "VardId": "MES_TRADE_EU",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nバラの国の店に行ってみたんだけど、\nあの店主になぜか親近感を覚えるんだよね…\nなぜだと思う？"
+    },
+    {
+      "VardId": "MES_TRADE_SOUTHERN",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nトロピカルの国の果物はおいしかったよ。\nぜひ食べてみるべきだ。"
+    },
+    {
+      "VardId": "MES_TRADE_SOUTH_POLE",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n氷の国の店にはペンギンの着ぐるみが\n置いてあるらしい。\n買ってみたらどうだ？"
+    },
+    {
+      "VardId": "陣取り関係ＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_PLACE_GOOD",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n陣取りの方も\nけっこうがんばってるみたいだな。"
+    },
+    {
+      "VardId": "MES_PLACE_BEST",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nこの町が管理している畑には\n全てキミの作物が育っている。\nいや、陣取りではキミにかなわないよ。"
+    },
+    {
+      "VardId": "町の発展MSG　//特定住人専用会話",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MOVE_OUT",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nまた誰か引っ越してきたようだな。\n町がにぎやかになって楽しいよ。"
+    },
+    {
+      "VardId": "MES_TOWN_POPULARITY_BEST",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nこの町もけっこう有名になったものだな。\n最近じゃいろんな国の人を見かける。"
+    },
+    {
+      "VardId": "MES_TOWN_POPULARITY_BETTER",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\n昔に比べるとこの町も\nずいぶんにぎやかになったな。"
+    },
+    {
+      "VardId": "MES_AREA_TOWN_00",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nこの町は人も少ないし\nひっそりとしてるけど\n花を育てるにはちょうどいいんだよ。"
+    },
+    {
+      "VardId": "MES_AREA_TOWN_01",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nボクがこの町に来てからも\n少しずつ人が増えているような\n気がする。"
+    },
+    {
+      "VardId": "MES_AREA_TOWN_02",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nこんな田舎の小さな町だけど\nボクたちががんばれば\nもっとたくさん人が来るようになるだろう。"
+    },
+    {
+      "VardId": "MES_AREA_TOWN_03",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nまさかこの町がこんなににぎやかになるとは\n思わなかったよ。\nキミも良くがんばったな。"
+    },
+    {
+      "VardId": "町ブラ専用MSG　//モブ専用会話",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MOB_RETURN_00",
+      "Text": "<POS_RIGHT><FACE_NORMAL>\r\n帰宅中（知名度低）"
+    },
+    {
+      "VardId": "MES_MOB_RETURN_01",
+      "Text": "<POS_RIGHT><FACE_NORMAL>\r\n帰宅中（知名度中）"
+    },
+    {
+      "VardId": "MES_MOB_RETURN_02",
+      "Text": "<POS_RIGHT><FACE_NORMAL>\r\n帰宅中（知名度高）"
+    },
+    {
+      "VardId": "MES_MOB_RETURN_03",
+      "Text": "<POS_RIGHT><FACE_NORMAL>\r\n帰宅中（知名度最高）"
+    },
+    {
+      "VardId": "MES_MOB_GUILD_00",
+      "Text": "<POS_RIGHT><FACE_NORMAL>\r\nギルドにいる時１"
+    },
+    {
+      "VardId": "MES_MOB_GUILD_01",
+      "Text": "<POS_RIGHT><FACE_NORMAL>\r\nギルドにいる時２"
+    },
+    {
+      "VardId": "MES_MOB_TALKING_00",
+      "Text": "<POS_RIGHT><FACE_NORMAL>\r\n会話中"
+    },
+    {
+      "VardId": "MES_MOB_SHOPPING_00",
+      "Text": "<POS_RIGHT><FACE_NORMAL>\r\n買物中"
+    },
+    {
+      "VardId": "MES_MOB_POPULARITY_00",
+      "Text": "<POS_RIGHT><FACE_NORMAL>\r\n町の知名度低"
+    },
+    {
+      "VardId": "MES_MOB_POPULARITY_01",
+      "Text": "<POS_RIGHT><FACE_NORMAL>\r\n町の知名度中"
+    },
+    {
+      "VardId": "MES_MOB_POPULARITY_02",
+      "Text": "<POS_RIGHT><FACE_NORMAL>\r\n町の知名度高"
+    },
+    {
+      "VardId": "MES_MOB_POPULARITY_03",
+      "Text": "<POS_RIGHT><FACE_NORMAL>\r\n町の知名度最高"
+    },
+    {
+      "VardId": "メイド、下僕用MSG　//モブ専用会話",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MAID_SLEEP",
+      "Text": "<POS_RIGHT><FACE_NORMAL>\r\n睡眠中（寝言）"
+    },
+    {
+      "VardId": "MES_MAID_SLEEPY",
+      "Text": "<POS_RIGHT><FACE_NORMAL>\r\n就寝時刻を過ぎているときのメッセージ"
+    },
+    {
+      "VardId": "MES_MAID_MASTER_MEAL",
+      "Text": "<POS_RIGHT><FACE_NORMAL>\r\nお嬢が食事中"
+    },
+    {
+      "VardId": "MES_MAID_ANIMAL_CARE",
+      "Text": "<POS_RIGHT><FACE_NORMAL>\r\n動物小屋にいる時"
+    },
+    {
+      "VardId": "MES_MAID_CHICKEN_CARE",
+      "Text": "<POS_RIGHT><FACE_NORMAL>\r\n鶏小屋にいる時"
+    },
+    {
+      "VardId": "MES_MAID_FIELD_WORK",
+      "Text": "<POS_RIGHT><FACE_NORMAL>\r\n畑仕事中"
+    },
+    {
+      "VardId": "MES_MAID_MASTER_BEFORE_REFORM_00",
+      "Text": "<POS_RIGHT><FACE_NORMAL>\r\nお嬢改心前１"
+    },
+    {
+      "VardId": "MES_MAID_MASTER_BEFORE_REFORM_01",
+      "Text": "<POS_RIGHT><FACE_NORMAL>\r\nお嬢改心前２"
+    },
+    {
+      "VardId": "MES_MAID_MASTER_BEFORE_REFORM_02",
+      "Text": "<POS_RIGHT><FACE_NORMAL>\r\nお嬢改心前３"
+    },
+    {
+      "VardId": "MES_MAID_MASTER_AFTER_REFORM_00",
+      "Text": "<POS_RIGHT><FACE_NORMAL>\r\nお嬢改心後１"
+    },
+    {
+      "VardId": "MES_MAID_MASTER_AFTER_REFORM_01",
+      "Text": "<POS_RIGHT><FACE_NORMAL>\r\nお嬢改心後２"
+    },
+    {
+      "VardId": "MES_MAID_MASTER_AFTER_REFORM_02",
+      "Text": "<POS_RIGHT><FACE_NORMAL>\r\nお嬢改心後３"
+    },
+    {
+      "VardId": "MES_GRANDMA_MONEY_00",
+      "Text": "<FACE_GEORGES><POS_RIGHT><FACE_NORMAL>\r\nはい、今日のおこずかい。\n大事に使うんだよ。"
+    },
+    {
+      "VardId": "アイテム入手メッセージ",
+      "Text": "NoMsg"
+    }
+  ]
+}

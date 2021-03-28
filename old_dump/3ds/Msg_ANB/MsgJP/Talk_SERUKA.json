@@ -1,0 +1,2774 @@
+﻿{
+  "Date": "2016-06-10T19:47:35.2799357+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_MORNING_00",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nおはようございます、<MYNAME>様。\n本日も、お元気そうですね。"
+    },
+    {
+      "VardId": "MES_MORNING_01",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nおはようございます、<MYNAME>様。\n紅茶でも、お入れしましょうか？"
+    },
+    {
+      "VardId": "MES_MORNING_02",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nおはようございます、<MYNAME>様。\n何か御用があれば、お声をかけてください。"
+    },
+    {
+      "VardId": "MES_AFTERNOON_00",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>様、何か御用でしょうか？\nあいさつ？　これは失礼致しました。\nお声がけくださり、ありがとうございます。"
+    },
+    {
+      "VardId": "MES_AFTERNOON_01",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>様、\nご機嫌いかがでしょうか？\n<PAGE>\nこの町で住むためのコツなどを、\nぜひともご教授ください。"
+    },
+    {
+      "VardId": "MES_AFTERNOON_02",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>様、\nいつもお世話になっております。\n<PAGE>\n<MYNAME>様の御尽力で、\nこの町もよりよくなっているようです。"
+    },
+    {
+      "VardId": "MES_EVENING_00",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>様、\n夜も更けてまいりました。\n<PAGE>\nそろそろ、お帰りになられた方が…。\nいえ、出すぎたマネでしたね。"
+    },
+    {
+      "VardId": "MES_EVENING_01",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>様、\n夜も更けてまいりました。\n<PAGE>\nお帰りになる時は、足元にお気をつけて。\n転倒されたりすると大変ですから。"
+    },
+    {
+      "VardId": "MES_EVENING_02",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>様、\n夜も更けてまいりました。\n<PAGE>\n空の星で明日の天気など\n見て見ましょうか？\nああ、明日は…。"
+    },
+    {
+      "VardId": "MES_LOVER_MORNING_00",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nおはようございます。\n<MYNAME>さん。\n…顔が固い？　いえ、いつも通りですよ。"
+    },
+    {
+      "VardId": "MES_LOVER_MORNING_01",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nおはようございます。\n<MYNAME>さん。\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_ROUGH><MYNAME>さんのお顔を見る事ができ、\nわたしは幸せです。"
+    },
+    {
+      "VardId": "MES_LOVER_MORNING_02",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nおはようございます。\n<MYNAME>さん。\n<PAGE>\nわたしからお声がけするべきでしたね。\n失礼致しました。"
+    },
+    {
+      "VardId": "MES_LOVER_AFTERNOON_00",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>さん。\n何か御用ですか？\n御用が無ければ、わたしは失礼致します。"
+    },
+    {
+      "VardId": "MES_LOVER_AFTERNOON_01",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n<MYNAME>さん。\nご機嫌いかがでしょうか？\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>見たところ、お元気そうですね。\n安心致しました。"
+    },
+    {
+      "VardId": "MES_LOVER_AFTERNOON_02",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n<MYNAME>さん。\nお待ちしておりました。\n<PAGE>\n<MYNAME>さんのあいさつが無いと、\n一日がはじまった気がしないのです。"
+    },
+    {
+      "VardId": "MES_LOVER_EVENING_00",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>さん。\n夜も更けてまいりました。\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_SAD>今日はお帰りになった方が、\nよろしいかと思われますが…。"
+    },
+    {
+      "VardId": "MES_LOVER_EVENING_01",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>さん。\n夜も更けてまいりました。\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_SAD>会えて、とてもうれしいのですが…。\nこの時間に出歩くのは感心しません。"
+    },
+    {
+      "VardId": "MES_LOVER_EVENING_02",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>さん。\n夜も更けてまいりました。\n女性が出歩く時間ではありませんよ。\n<PAGE>\n本当は、わたしが家まで\nお送りできればいいのですが…。\nお帰りの際は気をつけてくださいね。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_MORNING_00",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>、おはようございます。\n何か用ですか？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_MORNING_01",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n<MYNAME>、おはようございます。\n<MYNAME>のお世話をする事ができて、\nわたしは幸せですよ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_MORNING_02",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n<MYNAME>、おはようございます。\n牧場の朝とは、あわただしいものです。\nしかし、やりがいを感じますよ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_AFTERNOON_00",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>、どうかしましたか？\n仕事の方は、片付きましたか？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_AFTERNOON_01",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n<MYNAME>、お仕事お疲れ様です。\n牧場生活は楽しいですね。\n毎日が発見の連続です。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_AFTERNOON_02",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>、忙しそうですね。\nわたしも声をかけたかったのですが、\nジャマになると思い、控えていました。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_EVENING_00",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>、夜も更けてまいりました。\n早く寝た方がよろしいかと思います。\n明日に疲れが残りますよ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_EVENING_01",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_LOSS>\r\n<MYNAME>、夜も更けてまいりました。\n<MYNAME>と話したいのは山々ですが、\n明日に疲れが残りますよ？\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>…構わない？\nそれは困りましたね…。\nじゃあ、少しの時間だけですよ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_EVENING_02",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n<MYNAME>、夜も更けてまいりました。\nもう、お仕事は終わりましたか？\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>無理はしないでくださいね。\nとても心配になりますから。"
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_SPRING",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nこの時期の気温は心地いいですね。\nわたしの仕事もはかどりますよ。"
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_SPRING",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n雨の中お仕事ですか？\n春の雨は意外と冷たいですから、\nカゼには気をつけてくださいね。"
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_SUMMER",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n夏の暑苦しさを感じますね。\n体調には気をつけてください。"
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_SUMMER",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n今の時期の雨は、作物にとって\n恵みの雨になるのでしょうか？\nだとしたら、雨も悪くは無いですね。"
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_AUTUMN",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nわたしは、この季節が好きなのです。\n空気感と言いましょうか…。\n自然と笑みがこぼれてしまいます。"
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_AUTUMN",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n今の季節、雨が降っていても、\nわたしは気になりません。\nこの雨も秋という季節の一部なのですから。"
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_WINTER",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n今日も寒いですね…。\n少し、体を動かさなければ…。"
+    },
+    {
+      "VardId": "MES_WEATHER_SNOW",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nこの町の雪を見ると、\n心がおだやかな気分になります。\nここは雪が似合う場所ですね。"
+    },
+    {
+      "VardId": "MES_WEATHER_TYPHOON",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_LOSS>\r\n台風の風は、すさまじい破壊力があり、\n物を吹き飛ばすほどとか…。\n今日は家で過ごした方がよさそうです。"
+    },
+    {
+      "VardId": "MES_WEATHER_HEAVYSNOW",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_LOSS>\r\n今日の天気は大雪ですか…。\nここまで降るとは思いませんでした。\n自然とは、すごいものですね。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_WEATHER_TYPHOON",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_SAD>\r\n今日は外に出ないで下さい。\n外は風がふいて、大変危険です。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_WEATHER_HEAVYSNOW",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_SAD>\r\n今日は外に出ないで下さい。\n外は雪が降りすぎて、大変危険です。"
+    },
+    {
+      "VardId": "MES_BLESSING_LOVER",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nあ、<MYNAME>様。\nこの度は、おめでとうございます。\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>フフッ、交際を始められたのだと\n耳にしていますよ。\nどうか、末永くお幸せに。"
+    },
+    {
+      "VardId": "MES_BLESSING_PROPOSAL_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BLESSING_PROPOSAL_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BLESSING_MARRAIGE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BLESSING_CHILD_BIRTH",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BLESSING_VICTORY",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_AFTER_TRAVEL",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_AFTER_DEMAND_HALLOWEEN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_NEW_RESIDENT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HORSE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SEGWAY",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SHISHIMAI",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_PANDA",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_TAKEKOPUTA",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_00",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nこの町の自然には、シュミット様も\n大変満足されています。\nわたしも美しいと思いますよ。"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_01",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n森は静かでいいですね。\n心がすごくおだやかになります。\n<PAGE>\n特に、この森には神秘的な何かが、\n存在するのかもしれません。"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_00",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n昔は、よくシュミット様と\n川遊びをしました。\nフフフ…なつかしい思い出ですよ。"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_01",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nここの川で釣った魚は、\n料理をすると絶品なのです。\nわが国の人たちにも食べさせたいですね。"
+    },
+    {
+      "VardId": "MES_AREA_MOUNTAIN_00",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n山頂から見える景色はいつ見ても\n素晴らしいですね。\nいつまでもここにいたいくらいです。"
+    },
+    {
+      "VardId": "MES_AREA_MOUNTAIN_01",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n山頂から眼下に広がる町を見ると、\n人々の生活がよくわかりますね。\nつい、足を運んでしまいます。"
+    },
+    {
+      "VardId": "MES_AREA_FARM_00",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n牧場は、景色が目まぐるしく変化するので\n毎日見てもあきませんね。\n<PAGE>\n明日は一体、\nどんな景色になっているんでしょうか。\n楽しみです。"
+    },
+    {
+      "VardId": "MES_AREA_FARM_01",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n牧場とは、気持ちがいいものですね。\nのどかな牧場ならではの音が、\n気分を気持ちよくさせてくれます。"
+    },
+    {
+      "VardId": "MES_AREA_MINE_00",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n日の光が入らないと、寒くありませんか？\nどうかカゼをひかないよう\n気をつけてくださいね。"
+    },
+    {
+      "VardId": "MES_AREA_MINE_01",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n素人目には、どこで鉱石がとれるのか\n予測もつきませんね。\n<PAGE>\n鉱山夫になって経験を積めば、\nわたしも分かるようになるのでしょうか。"
+    },
+    {
+      "VardId": "MES_AREA_TOWN_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_AREA_TOWN_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_AREA_TOWN_02",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nこの町は、にぎやかですね。\nそれでいて、どこかおだやかさもあって…。\nとても過ごしやすいです。\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>それも、みなさんが今まで\n町の復興に力をつくしてきた\n結果なのでしょうね。"
+    },
+    {
+      "VardId": "MES_AREA_TOWN_03",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n本当に、にぎやかになりましたね。\nこうして町が復興したこと…\nわたしも、うれしく思います。\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>シュミット様とともに、この町に来て\nこんなにも素敵な町の住人になることが\nできて、本当に良かったです。"
+    },
+    {
+      "VardId": "MES_AREA_MYHOME_VASE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_AREA_MYHOME_RECORDE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_AREA_MYHOME_FIREPLACE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HEART_WHITE",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>様の建ててくださった\nお屋敷は、とても快適ですよ。\n<PAGE>\nどうか自分のもう一つの家だと思って、\nお気軽に遊びにいらしてくださいね。"
+    },
+    {
+      "VardId": "MES_HEART_PURPLE",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>様は、ハーブにキョウミは\nありませんか？\n<PAGE>\nわたしは、ハーブを育てるのが好きでして、\nハーブ栽培に関しては、少し勉強しました。\n<PAGE>\nもし、ハーブを育てられたら、\nわたしにも見せてください。\n今後の参考にさせていただきますので。"
+    },
+    {
+      "VardId": "MES_HEART_BLUE",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nわが国の執事の仕事内容ですか？\n生活の全てを行いますよ。\n<PAGE>\n炊事・洗濯はもちろんですし、\n国の仕事の整理や仕事をスムーズに行う為、\n様々なサポートをさせていただくのです。"
+    },
+    {
+      "VardId": "MES_HEART_GREEN",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nシュミット様には\n妹君がいらっしゃるのですが、\nその妹君の執事とは旧知の仲なんです。\n<PAGE>\n今でもよく手紙などで\nやりとりをしてるんですよ。\n…彼は元気にしてるでしょうか？"
+    },
+    {
+      "VardId": "MES_HEART_YELLOW",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>様は、ご自分の生き方に\n信念を持って行動されているようですね。\nすばらしい事です。\n<PAGE>\nそうでなければ、牧場を経営しつつ、\n町を立て直す事はできないでしょう。\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>わたしも、見習って行動をしていきたいと\n考えているのです。"
+    },
+    {
+      "VardId": "MES_HEART_ORANGE",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nわたしに、血のつながった者はおりません。\nでも、悲観した事はありません。\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>わたしにとって、血のつながりなど、\n何の意味もないのです。\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>わたしを助けてくれた、\nシュミット様のお父上やご家族のために\n忠誠をつくすのがわたしの喜びなのですよ。"
+    },
+    {
+      "VardId": "MES_HEART_RED",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n<MYNAME>様。\nぜひとも、わが主といつまでも\n仲良くしてくださいね。\n<PAGE>\nわたしの認めたあなたであれば、\nきっと主を幸せに導いてくれます。"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_WHITE",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_SAD>\r\n<MYNAME>さん…。\nあなたにとって、わたしは何なのですか？\nわたしには、わかりません…。"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_PURPLE",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_SAD>\r\n<MYNAME>さん…。\n<PAGE>\nわたしには、あなたからの愛情が\n感じられないのですが…。\nわたしの気のせいでしょうか？"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_BLUE",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nわたしには、今の状況が信じられません。\nわたしは、シュミット様にお仕えする身。\n主より、わたしが幸せになるわけには…。"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_GREEN",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nわたしたちの事を\nシュミット様にお伝えしたところ、\nとても喜んでくださいました。\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>正直、とてもうれしいです。\n主に喜んでいただけるなんて\n思っていませんでしたから…。"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_YELLOW",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nシュミット様から、\nわたしの顔がやさしくなったと\n言われました。\n<PAGE>\n思い当たる事と言えば…\n<MYNAME>さんでしょうか。\n<PAGE>\nこうして一緒にいるだけで、\n自然とやさしい気持ちに\nなっているのかもしれませんね。"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_ORANGE",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>さんは、\n出会ったころと変わりませんね。\n明るくて見ていて元気が出ます。\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>わたしは、そんな所にひかれたのかも…。\nいえ、何でもありません。\nお気になさらないでください。"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_RED",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n<MYNAME>さん。\n最近、この町に来てよかったと\nつくづく感じるのです。\n<PAGE>\nシュミット様のお供としてではなく、\nわたし個人の気持ちです。\n<PAGE>\nあなたに会えてよかった。\nこれが、わたしの気持ちです。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_WHITE",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_SAD>\r\n<MYNAME>。\nわたしの事は気にしないでください。\n牧場が忙しいのでしょう？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_PURPLE",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ANGRY>\r\n<MYNAME>。\nいいかげんにしてください。\n<PAGE>\nあなたにも、\nこんな子供な部分があったとは…。\n正直、手に負えません。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_BLUE",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_SAD>\r\n最近、会話が減りましたね…。\nわたしに何か不満があるのでしょうか？\nもしあるなら、言ってください。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_GREEN",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nやはり牧場で生活すると、\n自然とのふれあいが増えますね。\n家にいるだけで、心が和みます。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_YELLOW",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n家事はわたしに任せてください。\nこれまでずっとお屋敷の家事は、\nわたしが行っていたのですから。\n<PAGE>\n食べたいものも言っていただければ、\nすぐにお作りしますよ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_ORANGE",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n結婚というのは、\n人の心を変えてしまうものなのですね。\n<PAGE>\nこんなにも幸せな気分で毎日を送れるとは、\n思っていませんでした。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_RED",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nわたしの<MYNAME>に対する愛は\n何があろうとも変わりません。\nそれだけは、自信を持てます。\n<PAGE>\n<FACE_LOVE>………少しはずかしいですね。\nでも、これは本心ですよ。"
+    },
+    {
+      "VardId": "MES_LOVERS_00",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_LOVE>\r\nえっと…………。\nこういう時は、どのような会話を\nするべきなのでしょうか？\n<PAGE>\n申し訳ございません。\nこういった状況には、なれておりません…。"
+    },
+    {
+      "VardId": "MES_LOVERS_01",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>様。\nお付き合いさせていただいて、\n非常に貴重な体験をさせていただきました。\n<PAGE>\n感謝しております。\nありがとうございました。"
+    },
+    {
+      "VardId": "MES_LOVERS_02",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nお別れをしていた間、ずっと、\nあなたともう一度お付き合いしたいと\n天に祈っていました。\n<PAGE>\nフフッ…。\n天に思いが通じましたよ。"
+    },
+    {
+      "VardId": "MES_ENGAGEMENT",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nもうすぐ結婚式ですね。\n準備の方は、責任を持って行います。\n<MYNAME>様は安心してください。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_00",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_LOSS>\r\n台所用品や掃除道具の場所が\n普段と違うので、戸惑ってますよ。\n早くなれなければ…。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_01",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nわたしの子供が生まれる…。\n今まで生きてきた中で、\n一番うれしいかもしれません。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_02",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>。\nもうお腹が大きいのですから、\n運動をひかえてくださいね。\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>家事は、わたしが担当しますから、\n安静にしておいてください。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_03",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nお医者様の話では、\nもうすぐ、子供が生まれますね。\n<PAGE>\n生まれる時は、わたしが横にいますから、\n安心してください。\n一緒にがんばりましょう。"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_00",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n子供のあやし方には、\n昔からなれているのです。\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>よく、シュミット様の妹君を\nあやしていました。\nだから、安心して任せてください。"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_01",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>には、\nあのシュミット様もデレデレしています。\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_ROUGH><MYNAME>の子供ですから、\nかわいいのは当然ですよね。\nフフフ…。"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_02",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>も大きくなりました。\n色々な技術を学ばせたいです。\n知っていて損になる事はありませんので。"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_03",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n<CHILD_NAME>は身体が\n大きくなってうれしそうです。\n<PAGE>\n小さい身体ではできなかった\nお手伝いを頼むと\nとても楽しそうにやってくれますよ。"
+    },
+    {
+      "VardId": "MES_PRESENT_BEST",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nわたしにプレゼントですか…？\nどういったものでしょう？\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>これは、ハーブパスタですね。\nわたしの一番好きなものを、\nよくご存知でしたね。\n<PAGE>\n後で食べさせていただきます。\n大変うれしいです。\nありがとうございました。"
+    },
+    {
+      "VardId": "MES_PRESENT_VERY",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nわたしにプレゼントですか…？\nどういったものでしょう？\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>これは、いいものですね！\nわたしの大好きなものですよ。\nありがたくいただきます。"
+    },
+    {
+      "VardId": "MES_PRESENT_LIKE",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nわたしにプレゼントですか…？\nどういったものでしょう？\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>ありがとうございます。\nこれは好きなものなので、\nとてもうれしいです。"
+    },
+    {
+      "VardId": "MES_PRESENT_NORMAL",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nわたしにプレゼントですか…？\nありがとうございます。"
+    },
+    {
+      "VardId": "MES_PRESENT_DISLIKE",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nわたしにプレゼントですか…？\nどういったものでしょう？\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_LOSS>少々苦手なものですが、\nプレゼントというのはお気持ちですから、\nありがたくいただきます…。"
+    },
+    {
+      "VardId": "MES_PRESENT_HATE",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nわたしにプレゼントですか…？\nどういったものでしょう？\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_SAD>わたしにいただけると…？\nこれは、とても苦手なものなんです。\n困りましたね………。"
+    },
+    {
+      "VardId": "MES_PRESENT_WORST",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nわたしにプレゼントですか…？\nどういったものでしょう？\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_SAD>チョコジャムですか…。\nこのジャムだけは、ゆるせないのです。\nわたしの方で処分させていただきます。"
+    },
+    {
+      "VardId": "MES_LARGE_PRESENT_BEST",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LARGE_PRESENT_VERY",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LARGE_PRESENT_LIKE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LARGE_PRESENT_NORMAL",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nわたしに…ですか？\nありがとうございます。\n<PAGE>\n<FACE_ROUGH>これは見事な大きさですね。\n作り手の愛情が感じられます。"
+    },
+    {
+      "VardId": "MES_LARGE_PRESENT_DISLIKE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LARGE_PRESENT_HATE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LARGE_PRESENT_WORST",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_BEST",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_VERY",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_LIKE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_NORMAL",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nわたしに…ですか？\nありがとうございます。\n<PAGE>\nこんなに大きなものをもらえるなんて、\nまるで、どこかの王様にでも\nなった気分になりますね。"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_DISLIKE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_HATE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_WORST",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_PRESENT_RESERVE",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nわたしに…ですか？\nお気持ちはありがたいのですが、\nエンリョしておきます。"
+    },
+    {
+      "VardId": "MES_LOVER_PRESENT_RESERVE",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_SAD>\r\n………………。\n今のわたしには、無用のものです。\nお持ち帰りください。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_PRESENT_RESERVE",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_SAD>\r\n<MYNAME>、これは何でしょうか？\n物ではなく、行動で示してほしいものです。\nそれまでは、受け取る事ができません。"
+    },
+    {
+      "VardId": "MES_PRESENT_SECONDTIME",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nそう何度もいただくことはできません。\nこれは、わたしの心情にも反します。\nお持ち帰りください。"
+    },
+    {
+      "VardId": "MES_LOVER_PRESENT_SECONDTIME",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n<MYNAME>さんのお気持ちは、\nありがたいのですが…。\nこれ以上は受け取れません。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_PRESENT_SECONDTIME",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n<MYNAME>の気持ちは、\n先程いただきましたよ。\nありがとうございます。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_BEST",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nハーブパスタではありませんか！\nわたしの誕生日に、このようなプレゼントを\nいただけるとは、感激致しました。\n<PAGE>\nありがとうございます。\nうれしくて顔がゆるみますね。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_VERY",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nわたしの誕生日を\n覚えていてくださったのですか？\n祝ってくださって、ありがとうございます。\n<PAGE>\n誕生日に、このようなすばらしい\nプレゼントをいただけるなんて…。\nとても印象深い一日になりました。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_LIKE",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nわたしの誕生日を\n覚えていてくださったのですか？\n祝ってくださって、ありがとうございます。\n<PAGE>\nこのようなものをいただけるとは、\n思っておりませんでした。\nありがとうございます。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_NORMAL",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nわたしの誕生日を\n覚えていてくださったのですか？\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>祝ってくださって、ありがとうございます。\nとてもうれしいです。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_DISLIKE",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nわたしの誕生日を\n覚えていてくださったのですか？\n祝ってくださって、ありがとうございます。\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_LOSS>でも、プレゼントは無い方が…。\n………い、いえ。\nありがとうございます…。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_HATE",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nわたしの誕生日を\n覚えていてくださったのですか？\n祝ってくださって、ありがとうございます。\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_LOSS>と言うことは、このプレゼントは\n何かの間違い…では無さそうですね。\nそうだったら、もっと喜べたのですが…。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_WORST",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nわたしの誕生日を\n覚えていてくださったのですか？\n祝ってくださって、ありがとうございます。\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_SAD>ですが、チョコジャムですか…。\nあなたから、これをいただくとは\n思いませんでした…。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_LARGE_PRESENT_BEST",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_LARGE_PRESENT_VERY",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_LARGE_PRESENT_LIKE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_LARGE_PRESENT_NORMAL",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nわたしの誕生日を\n覚えていてくださったのですか？\n祝ってくださって、ありがとうございます。\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>見事な大きさですね。わたしのために\n用意してくださったのですか？\nありがとうございます。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_LARGE_PRESENT_DISLIKE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_LARGE_PRESENT_HATE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_LARGE_PRESENT_WORST",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_BEST",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_VERY",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_LIKE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_NORMAL",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nわたしの誕生日を\n覚えていてくださったのですか？\n祝ってくださって、ありがとうございます。\n<PAGE>\n誕生日に、これほどの大きい\nプレゼントをいただけるなんて…。\n今日のことは、きっとずっと忘れません。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_DISLIKE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_HATE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_WORST",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_CHICK",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nヒヨコというのは、\n見ている側に守ってあげたい気持ちを\n抱かせるものなのですね。"
+    },
+    {
+      "VardId": "MES_HEN",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n赤いトサカが可愛らしいですね。\nわたしにも抱かせてください。\n結構、重いものですね。"
+    },
+    {
+      "VardId": "MES_LARGE_HEN",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nこれだけ立派に育つと、\nまるで王者のように見えますね。\nたくましい成長ぶりです。"
+    },
+    {
+      "VardId": "MES_DOG",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n頭をなでても構いませんか？\nフフ…目を細めて気持ちよさそうですね。\n心がなごみますよ。"
+    },
+    {
+      "VardId": "MES_FAT_DOG",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nこれは運動不足ですね…。\nお腹がフニフニしてますよ。\nもう少し運動をさせてあげてください。"
+    },
+    {
+      "VardId": "MES_LARGEDOG",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n大型犬は、番犬としてよさそうですね。\nお屋敷で飼うのも、\n悪くないかもしれません。"
+    },
+    {
+      "VardId": "MES_FAT_LARGEDOG",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nここまで太ると番犬にはなりませんね。\nもう少しダイエットさせてください。"
+    },
+    {
+      "VardId": "MES_CAT",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n喉をさわっても構いませんか？\nフフ…目を細めて気持ちよさそうですね。\n心がなごみますよ。"
+    },
+    {
+      "VardId": "MES_FAT_CAT",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nこれは運動不足ですね…。\n動きが鈍くなってますよ。\nもう少し運動をさせてあげてください。"
+    },
+    {
+      "VardId": "MES_LONGHAIR_CAT",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nこの種類のネコは\n王宮でも飼われていましたよ。\n<PAGE>\n毛並みが気持ちよくて、\nついさわってしまいますね。"
+    },
+    {
+      "VardId": "MES_FAT_LONGHAIR_CAT",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nこのネコは、動きづらそうですね…。\n見ているこちらが手助けを\nしてあげたくなります。"
+    },
+    {
+      "VardId": "MES_FLOWER_FESTIVAL",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nこの花を、わたしに…？\n<MYNAME>様、ありがとうございます。\n部屋に、かざらせていただきます。"
+    },
+    {
+      "VardId": "MES_LOVER_FLOWER_FESTIVAL",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n今日は花祭りでしたか。\nわたしにいただけるとは感激です。\nありがとうございます、<MYNAME>さん。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FLOWER_FESTIVAL",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n<MYNAME>、ありがとうございます。\n結婚しても、わたしに対する心づかいを\n非常に感じます。"
+    },
+    {
+      "VardId": "MES_THANKSGIVIING_FESTIVAL_S",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_THANKSGIVIING_FESTIVAL_S",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRIAGE_THANKSGIVIING_FESTIVAL_S",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_THANKSGIVIING_FESTIVAL_W",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nわたしに、いただけるのですか？\n<MYNAME>様、ありがとうございます。\n大事に食べさせていただきます。"
+    },
+    {
+      "VardId": "MES_LOVER_THANKSGIVIING_FESTIVAL_W",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n<MYNAME>さん、\nありがとうございます。\n<PAGE>\n心がこもったプレゼントをいただくと、\n顔がほころびますね。\n後で大事に食べさせていただきます。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_THANKSGIVIING_FESTIVAL_W",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n<MYNAME>、冬の感謝祭ですか？\nフフ…ありがとうございます。\n後で大事に食べさせていただきますね。"
+    },
+    {
+      "VardId": "MES_HALLOWEEN",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_LOSS>\r\n<MYNAME>様、どうされました？\nこれは…かぼちゃ祭りのお菓子…。\nわたしも対象なのでしょうか？\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>いえ、せっかくですから、\nありがたくいただきますよ。"
+    },
+    {
+      "VardId": "MES_LOVER_HALLOWEEN",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>さん、\nおもしろいジョーダンですね。\nかぼちゃ祭りのプレゼントですか…。\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>フフフ……いいですよ。\nありがたくいただきます。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HALLOWEEN",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nかぼちゃ祭りのプレゼントですか？\nわたしたちは夫婦だというのに…。\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>フフ…子供みたいな人ですね。\nありがとうございます。\n後でいただきますよ。"
+    },
+    {
+      "VardId": "MES_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n青い羽根ですか。\n確か、求婚の証とうかがっております。\nだれかに、おわたしになるのですか？"
+    },
+    {
+      "VardId": "MES_LOVER_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_LOSS>\r\nわたしたちには、まだ早すぎます。\n物事には段階というものがあり、\n今は、その段階ではありませんよ。"
+    },
+    {
+      "VardId": "MES_EVENT_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_LOSS>\r\n青い羽根？\n………わたしと…その…。\n………………。\n<PAGE>\nここでは、都合が悪いですので、\n山頂の方へ行きましょう…。"
+    },
+    {
+      "VardId": "MES_PROPOSAL_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nそれは、青い羽根？\nまた手に入れたのですか？\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>フフ…二人の思い出の品ですからね。\n持っていたい気持ちも、わかります。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nこの青い羽根のおかげで、\nわたしたちの結婚生活がスタートしました。\n一生の宝物かもしれませんね。"
+    },
+    {
+      "VardId": "MES_ANGER_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ANGRY>\r\n町のウワサになっているのですが、\n青い羽根を他の方に\nわたそうとしていたそうですね。\n<PAGE>\nそれは、本当の事なのですか？\nもしそうなら、\n二度としないでくださいね。"
+    },
+    {
+      "VardId": "MES_RING",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nキレイな指輪ですね。\n品の良さを感じますが、だれかに\nプレゼントするものですか？"
+    },
+    {
+      "VardId": "MES_EVENT_RING",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_LOSS>\r\nわたしに指輪ですか…？\n………わたしと…その…。\n………………。\n<PAGE>\nここでは、都合が悪いですので、\n山頂の方へ行きましょう…。"
+    },
+    {
+      "VardId": "MES_LOVER_RING",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n改めて見ると、はずかしいものですね。\nお付き合いをはじめる事になったのも、\n指輪のおかげです。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_RING",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nああ、この指輪ですか。\n………なつかしいですね。\n大事な思い出ですよ。"
+    },
+    {
+      "VardId": "MES_ANGER_RING",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ANGRY>\r\n町のウワサになっているのですが、\n指輪を他の方に\nわたそうとしていたそうですね。\n<PAGE>\nどうして、\nそのような事をするのです？\nわたしが悲しまないと思ったのですか？"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_BIRD",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n野性の鳥は、自由でいいですね。\nわたしも、どこまでも高く飛びたいです。"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_OTHER",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nかわいいですね。\n野性の動物でも、抱けるものなのですね。\nさすがです。"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_TURTLE",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nこんなに近くで見たのは、\nはじめてですよ。\nわりと、かわいい顔をしていますね。"
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_00",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nお誕生日おめでとうございます。\nこの日のために、\n誕生日プレゼントをご用意しました。\n<PAGE>\n喜んでいただけるか\nわかりませんが…。\nぜひ受け取ってください。"
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_01",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n誕生日おめでとうございます。\nこれからもその笑顔で、わたしをはじめ、\n町のみなさんを元気にしてくださいね。"
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_02",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nお誕生日おめでとうございます。\nせっかくなので、\n今夜はお祝いをしませんか？\n<PAGE>\n<BLUE>19:00</BLUE>ごろには、\n自宅へ戻っていてくださいね。\nよろしくお願い致します。"
+    },
+    {
+      "VardId": "MES_GIFT_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_GIFT_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_GIFT_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_GIFT_00",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_SAD>\r\n<MYNAME>さん、大丈夫ですか？\nとても疲れた顔をしてますよ。\n<PAGE>\n<FACE_NORMAL>もしよかったら、\n差し入れにこちらをどうぞ。\nきっとあなたの力になりますよ。"
+    },
+    {
+      "VardId": "MES_LOVER_GIFT_01",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nはい、<MYNAME>さん。\nいつも頑張ってるあなたに\nわたしから、ささやかなプレゼントです。"
+    },
+    {
+      "VardId": "MES_LOVER_GIFT_02",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>さん、いつもお疲れ様です。\n差し入れを用意しましたので、\nどうぞ受け取ってください。\n<PAGE>\n無理をしすぎて倒れないように、\n気をつけてくださいね。"
+    },
+    {
+      "VardId": "MES_MARRAGE_GIFT_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRAGE_GIFT_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRAGE_GIFT_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_DATE_INDUCE_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_DATE_INDUCE_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_DATE_INDUCE_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_DATE_INDUCE_OK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_DATE_INDUCE_NG",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRAGE_DATE_INDUCE_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRAGE_DATE_INDUCE_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRAGE_DATE_INDUCE_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRAGE_DATE_INDUCE_OK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRAGE_DATE_INDUCE_NG",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_DATE_ANGER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRAGE_DATE_ANGER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LONG_INTERVAL",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>様。\n久しくご無沙汰しております。\nお元気そうで何よりです。"
+    },
+    {
+      "VardId": "MES_LOVER_LONG_INTERVAL",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_SAD>\r\n<MYNAME>さん。\nご無沙汰しております。\n最近、どうされていましたか？\n<PAGE>\n<MYNAME>さんとお話しできない間、\n少しさびしい思いをしておりました。\n<PAGE>\nお時間があれば、\nお会いしていただけませんか？\nよろしくお願い致します。"
+    },
+    {
+      "VardId": "MES_MARRAGE_LONG_INTERVAL",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_SAD>\r\n<MYNAME>…。\nやっと会話をしていただけましたね。\n<PAGE>\n夫婦というのは共同生活なのですから、\n何かあれば相談をしていただかないと…。\n<PAGE>\nいえ、もういいです。こうやって、\n会話をしていただけたのですから…。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TRAVEL_SOUTH_00",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nわたしはの出身国は暑い方なので、\nこれぐらいは何ともありませんよ。\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>それに、暑さより\nこの青い空や青い海のすばらしさに\n感激で心がいっぱいです。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TRAVEL_SOUTH_01",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nおやおや…いけませんね。\n暑さのせいでしょうか、\n顔が少し赤いですよ。\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_SAD>たまには木陰に入ったりして\n休まないといけませんよ…。\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>さぁ、こちらへ来て\n冷たい飲み物でも飲んでくださいね。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TRAVEL_SOUTH_02",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nわたしが泳げるかどうか、ですか？\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>フフッ、さあどうでしょうか。\nなにぶん、泳ぐ、ということが\n必要な機会がありませんでしたから…。\n<PAGE>\nこれはつまり…\n泳げないということになるのでしょうか。\nフフフッ。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TRAVEL_REMAINS_00",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nずいぶんと、不可思議な場所ですね。\nそれに、とても澄んでいて\n逆に息苦しいくらい…。\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>それだけ、汚してはならない場所\nなのでしょうね。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TRAVEL_REMAINS_01",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nここの入口にある、木の彫刻はいったい\nどんな意味があるのだと思いますか？\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_LOSS>歓迎の意味でしょうか。\n表札…記念柱…\nそれとも魔よけ…？\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>フフッ、謎はつきませんね。\n<MYNAME>は、どう思いますか？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TRAVEL_REMAINS_02",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nおや、<MYNAME>。\n楽しんでおられますか？\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>わたしも気に入っていますよ、この場所。\nたとえば、この建造物など昔の人は\nいったいどうやって作ったのか…。\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>過ぎ去った時代を、\nあれこれ想像することは結構好きなんです。\n時間を忘れるくらい…。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TRAVEL_JAPAN_00",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n美しいですね…。\nこのような国があるとは、\n世界はとても広いのですね。\n<PAGE>\nあなたのおかげで、こうしてわたしは\nいろんな場所へ行けるのです。\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_LOVE>………感謝しております。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TRAVEL_JAPAN_01",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nこの庭園のお世話は\nどのようにしておられるのでしょうか？\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>とてもきちんと手入れされていて\nお世話をされている方の\nこの場所への愛情が感じられます。\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>それに、あの石と砂で描かれた…\n枯山水…でしたでしょうか？\n不思議な風情を感じますね。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TRAVEL_JAPAN_02",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nあちらのイスで、\nお茶など一緒にいかがですか？\n<PAGE>\nこのような趣きのある場所に\n来たのですから、\nゆっくり座って鑑賞致しましょう。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TRAVEL_SNOWY_00",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_LOSS>\r\nさすがに…これは…\n予想以上の寒さですね…。\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_LOSS><MYNAME>、カゼをひかないよう\n早めに帰りましょうね。\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>いくら体力があると言っても\nあなたは女性なのですから…。\n心配しますよ、もちろん。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TRAVEL_SNOWY_01",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nあの水面が凍った場所…。\nよく見ると、…船でしょうか。\n沈んでいるのが見えますね。\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>もしかして、この下はすべて海水で\nどこかの海岸へつながっているので\nしょうか？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TRAVEL_SNOWY_02",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n日が落ちてくると、空のオーロラも\nより美しく輝きますね。\n<PAGE>\n寒いですが、これはその瞬間を\n待つものへのごほうびですね。"
+    },
+    {
+      "VardId": "MES_TRAVEL_LEAVE_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_TRAVEL_LEAVE_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_TRAVEL_LEAVE_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_TRAVEL_LEAVE_OK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_TRAVEL_LEAVE_NG",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_RESORT_LEAVE_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_RESORT_LEAVE_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_RESORT_LEAVE_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_RESORT_LEAVE_OK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_RESORT_LEAVE_NG",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_UNIFORM_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_UNIFORM_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_UNIFORM_2",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_UNIFORM_2",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nその服…とても動きやすそうで\n牧場主であるあなたにピッタリの\n服装ですね。\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>シンプルですが、とても似合っていて\nかわいらしいと思いますよ。"
+    },
+    {
+      "VardId": "MES_M_UNIFORM_3",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_UNIFORM_3",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_UNIFORM_4",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_UNIFORM_4",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_UNIFORM_5",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_UNIFORM_5",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_UNIFORM_6",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_UNIFORM_6",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nその服、とてもいい色合いですね。\nあなたに似合っていて\n素敵だと思います。"
+    },
+    {
+      "VardId": "MES_M_UNIFORM_7",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_UNIFORM_7",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nとてもおしゃれな服装ですね。\nあなたに似合っていると思いますよ。\n大変かわいらしいです。"
+    },
+    {
+      "VardId": "MES_M_UNIFORM_8",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_UNIFORM_8",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nかわいらしい服を着ていますね。\n大変お似合いですよ。\n色合いも、とてもわたし好みです。\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_LOVE>…もしかして、わたしの好みに\nあわせてくださったのでしょうか？\nだとしたら、大変光栄なことです。"
+    },
+    {
+      "VardId": "MES_M_UNIFORM_9",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_UNIFORM_9",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_UNIFORM_10",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_UNIFORM_10",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_UNIFORM_11",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_UNIFORM_11",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_UNIFORM_12",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_UNIFORM_12",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_EVERYDAY_WEAR_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_EVERYDAY_WEAR_1",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nあなたに大変よく似合う\nかわいらしい服装をしてらっしゃいますね。\n<PAGE>\nそういった格好も、女性らしくて\nわたしは好きですよ。"
+    },
+    {
+      "VardId": "MES_M_EVERYDAY_WEAR_2",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_EVERYDAY_WEAR_2",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_EVERYDAY_WEAR_3",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_EVERYDAY_WEAR_3",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_EVERYDAY_WEAR_4",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_EVERYDAY_WEAR_4",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nあなたに大変よく似合う\n気品のある服装をしてらっしゃいますね。\n<PAGE>\nそういった格好も、女性らしくて\nわたしは好きですよ。"
+    },
+    {
+      "VardId": "MES_M_EVERYDAY_WEAR_5",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_EVERYDAY_WEAR_5",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_EVERYDAY_WEAR_6",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_EVERYDAY_WEAR_6",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_EVERYDAY_WEAR_7",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_EVERYDAY_WEAR_7",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nその青のスカート、とてもいいですね。\nわたしの好みの色です。\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>え？　少し子供っぽくないか…ですか？\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>いいえ、とてもかわいらしくて\nお似合いだと思います。\nわたしは、好きですよ。"
+    },
+    {
+      "VardId": "MES_M_EVERYDAY_WEAR_8",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_EVERYDAY_WEAR_8",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_EVERYDAY_WEAR_9",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_EVERYDAY_WEAR_9",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_EVERYDAY_WEAR_10",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_EVERYDAY_WEAR_10",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_EVERYDAY_WEAR_11",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_EVERYDAY_WEAR_11",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_EVERYDAY_WEAR_12",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_EVERYDAY_WEAR_12",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nとても華やかな\n格好をしてらっしゃいますね。\nある国の民族衣装風…でしょうか？\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>そういった服も大変お似合いです。\n素敵だと思いますよ。"
+    },
+    {
+      "VardId": "MES_M_CASUAL_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_CASUAL_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_CASUAL_2",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_CASUAL_2",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n今日の服装、とてもいいですね。\nあなたのかわいらしさが\n大変きわだっていると思います。"
+    },
+    {
+      "VardId": "MES_M_CASUAL_3",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_CASUAL_3",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_CASUAL_4",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_CASUAL_4",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n素敵な服装ですね。\n色合いも落ち着いていて…\nあなたにピッタリだと思います。"
+    },
+    {
+      "VardId": "MES_M_CASUAL_5",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_CASUAL_5",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_CASUAL_6",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_CASUAL_6",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_CASUAL_7",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_CASUAL_7",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_CASUAL_8",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_CASUAL_8",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_CASUAL_9",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_CASUAL_9",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n女の子らしいかわいさだけでなく\nクールさもかねそなえた、\n素敵な服を着てらっしゃいますね。\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>あなたにピッタリですし…\n色合いもとてもわたしの好みです。\n<PAGE>\nあ…すみません。\nわたしの好みなど関係ありませんね。\nですが、とてもお似合いだと思いますよ。"
+    },
+    {
+      "VardId": "MES_M_CASUAL_10",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_CASUAL_10",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_CASUAL_11",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_CASUAL_11",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_M_CASUAL_12",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_W_CASUAL_12",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DOCTOR_WHITE",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n聴診器などさげて…\nもしや、クローゼ様の\nお手伝いでもされるのですか？\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>率先して人の役に立とうとするなんて\nすばらしい心がけですね。\nわたしも見習わなくては。"
+    },
+    {
+      "VardId": "MES_DOCTOR_BLACK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_COOK_WHITE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_COOK_GREEN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_NINJA_BLUE",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n何やら面白い服を着てらっしゃいますね。\n本で見たことがあります。\nたしか…忍者という職業の服装ですね。\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>わたしが本で見たのは、\n全身黒色の服でしたが…\n青色というのもとても素敵ですね。"
+    },
+    {
+      "VardId": "MES_NINJA_RED",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_NINJA_WHITE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_NINJA_YELLOW",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_NINJA_GREEN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_CHINA_RED",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_CHINA_BLUE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_COWBOY",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HOUSEMAID_BLACK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HOUSEMAID_PINK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HOUSEMAID_BLUE",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nあなたのメイド姿、というのも\nとてもかわいらしいですね。\n…ですが、なぜそのような格好を？\n<PAGE>\n<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>着てみただけ、ですか。\nフフッ、だれか主と決めた方でも\nできたのかと思ってしまいました。"
+    },
+    {
+      "VardId": "MES_STEWARD_BLACK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_STEWARD_RED",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_STEWARD_BLUE",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n青の執事服ですか。\n執事服というのは、着ると気が\n引きしまるような気がしますよね。\n<PAGE>\n執事服は黒が一般的ですが\nやはりあなたには青が一番合いますね。\nとてもお似合いで、素敵ですよ。"
+    },
+    {
+      "VardId": "MES_ANIMAL_CAT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ANIMAL_DOG",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ANIMAL_BEAR",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ANIMAL_PANDA",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOP_OPEN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SLEEP_00",
+      "Text": "…ん……シュミ……ト様……\n……大変…リッパに……なられて……\n…わたしは…感…激です………。"
+    },
+    {
+      "VardId": "MES_LOVER_SCHEDULE_SLEEP_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MARRAGE_SCHEDULE_SLEEP_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_POSTMAN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_HALL_PART",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHIPMENT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_NEET",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_MAGICSHOW",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SICK",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_SAD>\r\n<MYNAME>様、いけません。\nわたしに近づくと、カゼがうつるかも…。\n今日は、お話しない方がよろしいですよ。"
+    },
+    {
+      "VardId": "MES_LOVER_SCHEDULE_SICK",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_SAD>\r\n<MYNAME>さん、申し訳ございません。\n今日は、体の調子がよくありません。\nまたの機会に、お会いしましょう。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_SCHEDULE_SICK",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_SAD>\r\n<MYNAME>、申し訳ございません。\n少し体調が悪いのです…。\n横になれば、すぐに治りますよ。"
+    },
+    {
+      "VardId": "MES_SCHEDULE_WALK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_COOK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SITDOWN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_DOZE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOPPING_BARBAR",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOPPING_PET",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOPPING_ANIMAL",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOPPING_TAILOR",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOPPING_TRAVEL",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOPPING_DESIGN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOPPING_FISHING",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOPPING_GOODS",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOPPING_MERCHANT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOPPING_RESTAURANT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOPPING_RESTAURANT_MAGIC",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOPPING_CAFE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOPPING_MOVIE_THEATER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOPPING_HOSPITAL",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOPPING_INN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOPPING_BLACKSMITH",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_FISHING",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_INSECT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_COLLECTION",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_MINE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_STUDY",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALKING_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALKING_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALKING_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALKING_03",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALKING_04",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_GARDENING",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_PLAY_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_PLAY_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_PLAY_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_PLAY_03",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_PLAY_04",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_FESTIVAL",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_REST",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_MUSIC",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_EAT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_WITCH_SHOP",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_WITCH_SHOP2",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_WITCH_SHOP_OPEN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_WITCH_SHOP_NG",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SEEING",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_00",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>。\n明日の朝、お手伝いは要りませんか？\n<PAGE>\nあなたの夫として\nあなたに何かしてあげたいんです。"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_01",
+      "Text": "お手伝いを頼む"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_02",
+      "Text": "お手伝いを頼まない"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_CANCEL",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nそうですか…。\n残念です。"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_OK",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n分かりました。\nせっかくですから、明日はゆっくり\n休んでくださいね。"
+    },
+    {
+      "VardId": "MES_MEAL_00",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>様は、\nもう食事はすまされたのですか？\n<PAGE>\n衣食住と言いますし\n毎日の食事は健康なからだを作るために\nとても重要ですよ。"
+    },
+    {
+      "VardId": "MES_BREAKFAST_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BREAKFAST_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LUNCH_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LUNCH_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LUNCH_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DINNER_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DINNER_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DINNER_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MEAL_DEMO_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MEAL_DEMO_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MEAL_DEMO_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MEAL_01",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_LOVE>\r\n……あ、あの…何か？\nあなたにそのように見られていると…\n少々食べづらいです。\n<PAGE>\n少しの間、むこうを\n見ていていただけないでしょうか？\nお、お願いします。"
+    },
+    {
+      "VardId": "MES_LOVER_BREAKFAST_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_BREAKFAST_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_LUNCH_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_LUNCH_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_LUNCH_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_DINNER_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_DINNER_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_DINNER_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_MEAL_DEMO_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_MEAL_DEMO_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVER_MEAL_DEMO_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_BEE_BOX",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_FISH_FARM",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_MUSH_SPACE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_HOT_SPRING",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_FARM_CROP",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_FARM_CROP_MANY_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_FARM_CROP_MANY_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_FARM_ANIMAL",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_FARM_ANIMAL_MANY_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_FARM_ANIMAL_MANY_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_FARM_PET",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_FARM_PET_MANY_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_FARM_PET_MANY_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_TOWN_EUROPEAN_MASTER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_TOWN_JAPANESE_MASTER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_TOWN_NATIVE_MASTER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_TOWN_COUNTRY_MASTER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_TOWN_EUROPEAN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_TOWN_JAPANESE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_TOWN_NATIVE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_TOWN_COUNTRY",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BENCH_WOOD",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BENCH_STONE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BENCH_RED",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BENCH_GREEN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BENCH_BLUE",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n青いベンチがありますね。\nいい趣味をしておられます。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BENCH_YELLOW",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BENCH_PINK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BENCH_PURPLE",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n紫色のベンチですね。\nわたしの好きな色です。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BENCH_WHITE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BENCH_BLACK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BENCH_GOLD",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BENCH_SILVER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BARREL",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_WOOD_BOX",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SCARECROW",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nわが国にもかかしがありますが、\nシュミット様が大変お気に入りで\n昔の屋敷にも飾ってありました。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_WEATHERCOCK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_MILK_CAN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_GRASS_ROLL",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BLOCK_BRICH",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_JAR_RED",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_JAR_BLUE",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n美しいツボですね。\nこの青さは…ひょっとして…\nオリハルコンですか？\n<PAGE>\n…やっぱりそうでしたか。\nいや、良い物を見せて頂きました。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_JAR_WHITE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SMALL_CART",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_WAGON",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nかわいいワゴンですね。\n…ただのかざりですか？\n…もったいないですね。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_CART",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TABLE_WEST",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TABLE_JAPAN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TABLE_ORIENT",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nわが国にも同じようなテーブルが\nありますが、木の肌触りがやさしくて\n人気があります。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_CHAIR_WEST",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_CHAIR_JAPAN",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nひもうせんの茶席なんて\nよく手に入りましたね。\n<PAGE>\nシュミット様もわたしもお茶が好きですので\n昔の屋敷にも茶席がございました。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_CHAIR_ORIENT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_CHAIR_BEACH",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PARASOL_WEST",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PARASOL_JAPAN",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n茶屋傘は茶席には欠かせないものですよね。\nこういう異国の雰囲気は大好きです。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PARASOL_BEACH",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_STREETLAMP_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_STREETLAMP_2",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BONFIRE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_ANDON",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_GARDENLANTERN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PILLAR_WOOD",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PILLAR_STONE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PILLAR_BRICK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TOTEM POLE_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TOTEM POLE_2",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_STATUE",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n忠犬の石像の話は聞いた事があります。\n確かご主人の帰りをずっと待ち続けていた\n犬の話ですよね。\n<PAGE>\nすばらしい忠誠心です。\nわたしも見習いたいと思っています。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_STATUE_SUN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_STATUE_PIKE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_STATUE_SHIELD",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FOUNTAIN_ANIMAL",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FOUNTAIN_1",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n昔の屋敷にも噴水がありましたが、\nもっと大きくてゴテゴテしたものでした。\n<PAGE>\nシュミット様もおっしゃっていましたが\n噴水はシンプルな方がいいですよね。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FOUNTAIN_2",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BRIDGE_DIGIT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BRIDGE_ARCH",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_WELL",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TRAM",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_WATCHTOWER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FIRE_EXTINGUISHER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_DARUMA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nシュミット様の大好きな\nだるまが置いてありますね。\n<PAGE>\nでも、こんなに大きなものは\n初めて見ました。\nシュミット様も喜ばれるでしょう。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_KADOMATU",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SHISHIODOSHI",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nししおどしはいい音がしますね。\nこの音を聞くと、気持ちがスッとします。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_ANCHOR",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_HAMMOCK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_OBELISK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SLATE",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n何やら怪しげな石版がありますね。\nわたしは謎めいたものが大好きなんです。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_MOVING_CAR",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SHISHIMAI",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nししまいの乗り物ですか…\n変わったものをお持ちですね。\n<PAGE>\nシュミット様も乗ってみたいと\nおっしゃるかもしれませんね。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PANDA",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_ROBOT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_2",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_3",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_4",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_5",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_6",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_7",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nこの辺の雰囲気はいいですね。\n心が落ち着きます。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_8",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nやっぱりこういう景色は\n心が落ち着きますね。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_9",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nこの辺を歩いていますと\n何となく落ち着いた気分になれますね。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_10",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_11",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_12",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_13",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_14",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_15",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_16",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_17",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_18",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_19",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_20",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_SET_21",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_POT_PINKROSE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_POT_MARGUERITE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_POT_TULIP",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_POT_SUNFLOWER",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nひまわりが咲いていると\n周りが明るくなりますね。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_POT_REDROSE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_POT_HYDRANGEA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nあじさいはわたしの好きな花なんです。\n屋敷にも置きたいですね。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_POT_PINK",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nなでしこは昔の屋敷の近くにも\nたくさんありましたので、何となく\n懐かしくなります。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_POT_WHITEROSE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_POT_GARBERA",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_POT_SNOWDROP",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_POT_RINDOU",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n青い花はどれも好きですが\nリンドウは華麗でいいですね。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_POT_BLUEROSE",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n青いバラですね。\n非常に珍しい品種です。\n<PAGE>\nわたしも大好きですので方々探しましたが\nなかなか手に入るものではありませんよ。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_POT_CACTUS",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n鉢植えのサボテンはかわいらしくて\nいいですよね。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PLANTER_PINKROSE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PLANTER_MARGUERITE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PLANTER_TULIP",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PLANTER_SUNFLOWER",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nひまわりがあると周りが明るくなりますね。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PLANTER_REDROSE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PLANTER_HYDRANGEA",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nあじさいはわたしの好きな花なんです。\n屋敷にも置きたいですね。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PLANTER_PINK",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nなでしこは昔の屋敷の近くにも\nたくさんありましたので、何となく\n懐かしくなります。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PLANTER_WHITEROSE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PLANTER_GARBERA",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PLANTER_SNOWDROP",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PLANTER_RINDOU",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n青い花はどれも好きですが\nりんどうは華麗でいいですね。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PLANTER_BLUEROSE",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n青いバラですね。\n非常に珍しい品種です。\n<PAGE>\nわたしも大好きですので方々探しましたが\nなかなか手に入るものではありませんよ。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PLANTER_CACTUS",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n鉢植えのサボテンはかわいらしくて\nいいですよね。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_POT_BAMBOO",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BONSAI",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_POT_CHRRYBLOSSOM",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n桜は好きですね。\nでも鉢植えよりも\n直植えの方がいいですよ。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_POT_GINGKO",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_POT_PALM",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BASKET_RED",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BASKET_GREEN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BASKET_YELLOW",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BASKET_PINK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BASKET_PURPLE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_BASKET_WHITE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TOPIARY_BOXWOOD",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TOPIARY_CONIFER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TOPIARY_BALL_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TOPIARY_BALL_2",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TOPIARY_BOX",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TOPIARY_LION",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TOPIARY_MAMMOTH",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TREE_BAMBOO",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TREE_PINEAL",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n枝ぶりの良い松は庭木にしたいですね。\n松の枝ぶりは庭に動きを\n付けてくれるんです。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TREE_CHERRYBLOSSOM",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n桜は晴れやかでいいですね。\nシュミット様も大好きなんですよ。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TREE_GINGKO",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TREE_PALM",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_LATTICE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_OMANENT_COW",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_OMANENT_SHEEP",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_OMANENT_COCK",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_OMANENT_HORSE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TIN_TRICYCLE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TIN_WATERING_CAN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_TIN_BOOTS",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n長靴から花が出ているのは\nかわいらしくていいですね。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_ARCH_RED_FLOWER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_ARCH_BLUE_FLOWER",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n青い花のアーチ、庭の入り口に\n丁度いいですね。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_GAZEBO",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n庭の中にガゼボがあると\nちょっと散歩の休憩にいいですよね。\n花を見ながらお茶でも飲めたら…。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_PERGOLA",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FAN_PERGOLA",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FENCE_WOOD_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FENCE_STONE_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FENCE_BAMBOO_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FENCE_RED_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FENCE_GREEN_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FENCE_BLUE_1",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n青い柵があると\n道がキレイに見えますね。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FENCE_YELLOW_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FENCE_PINK_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FENCE_PURPLE_1",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nこの辺は良い雰囲気ですね。\nきっと紫の柵があるからですよ。"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FENCE_WHITE_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FENCE_BLACK_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FENCE_GOLD_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FENCE_SILVER_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FENCE_MILK_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_FENCE_HAIR_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_GUARD_POLE_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_CHAIN_POLE_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_WALL_WOOD_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_WALL_STONE_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_WALL_BRICK_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_VINYLHOUSE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ITEMCOMMENT_PLAN_RICE_FIELD_PANEL",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HOSPITAL_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HOSPITAL_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HOSPITAL_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HOSPITAL_03",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HP_RECOVER_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HP_RECOVER_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HP_RECOVER_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SP_RECOVER_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SP_RECOVER_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SP_RECOVER_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_GO_OUT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HOSPITAL_NO_MONEY",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HOSPITAL_END",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HIDE_HINT_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HIDE_HINT_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HIDE_HINT_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HIDE_HINT_03",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HIDE_HINT_04",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HIDE_HINT_05",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HIDE_HINT_06",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HIDE_HINT_07",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HIDE_HINT_08",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HIDE_HINT_09",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HIDE_HINT_10",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HIDE_HINT_11",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HIDE_HINT_12",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_WANT_TO_CANDY_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_WANT_TO_CANDY_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_WANT_TO_CANDY_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_FARMING_TOOL_COPPER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_FARMING_TOOL_SILVER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_TOOL_STEEL",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_FARMING_TOOL_GOLD",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_TOOL_WORKMAN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_FARMING_TOOL_WORKMAN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_SUPER_BELL",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_WALLPAPER_ANIMAL",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_YASHIKI",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n今のプレゼントのお礼に、\nこちらを差し上げます。\nどうぞお使いください。"
+    },
+    {
+      "VardId": "MES_DRAWING_SUMMER_POT",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n今のプレゼントのお礼に、\nこちらを差し上げます。\nどうぞお使いください。"
+    },
+    {
+      "VardId": "MES_DRAWING_SUMMER_PLANTER",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n今のプレゼントのお礼に、\nこちらを差し上げます。\nどうぞお使いください。"
+    },
+    {
+      "VardId": "MES_DRAWING_ALARM",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_MOVIE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_GREAT_ROD",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_WALLPAPER_SYUMITTO",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_POT_PINKROSE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_PLANTER_PINKROSE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_WALLPAPER_CROPS",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_MUSIC_PLAYER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_WINTER_POT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_WINTER_PLANTER",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_WAGON",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_FLOOR_ORIENTAL",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_RECIPE_BOOK_KAMON_00",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_RECIPE_BOOK_KAMON_01",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_RECIPE_BOOK_KAMON_02",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_RECIPE_BOOK_KAMON_03",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_RECIPE_BOOK_KAMON_04",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_BOOK_BEACH",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_BOOK_CACTUS",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_BONFIRE",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_TOTEM POLE_2",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_PIECE_HAIAO_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_PIECE_IRONASHI_1",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_BOOK_FENCE_BANBOO",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_BOOK_JAPAN",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_DRAWING_BRIDGE_ARCH",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_GIFT_WASABI",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_GIFT_STRAWBERRY",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_PRESENT_CANNOT",
+      "Text": "今プレゼントをわたすのは\nやめておこう。"
+    },
+    {
+      "VardId": "MES_PRESENT_CANNOT",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SHOP_BEAUTY_PARLOR",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n美容院があっても\nわたしは自分で髪を束ねますから\n行く事はないでしょう。"
+    },
+    {
+      "VardId": "MES_CLOTHES_SHOP",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n服屋で服を作るのもいいのですが、\nわたしにはこの服が一番合ってますから\n同じものを作ってもらうでしょうね。"
+    },
+    {
+      "VardId": "MES_RESTAURANT",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nここのレストランはすばらしいです。\nメニューの豊富さ、味の良さ、雰囲気…\nどれをとっても最高です。"
+    },
+    {
+      "VardId": "MES_TRAVEL_AGENCY",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nわたしは旅行が好きなので、\nたまに旅行会社に行って\nパンフレットをもらうんです。\n<PAGE>\nパンフレットを見ながら\nガードナーさんの説明を聞くのが楽しくて、\nつい長居してしまいます。"
+    },
+    {
+      "VardId": "MES_TEA_SHOP",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n茶店はいいですね。\nわたしは滅多に外でお茶を飲む事は\nないのですが、たまにはいいものです。"
+    },
+    {
+      "VardId": "MES_MOVE_OUT",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n引越し…と言っても今は私の\n身の回りのものを持って行くだけです。\n<PAGE>\nシュミット様のお荷物は国から\n運ばせますので…。"
+    },
+    {
+      "VardId": "MES_TOWN2_OPEN",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n町が広くなると賑やかになりますね。\nあまり人が多いのも住みにくいものですが\nこの町はほどほどでいいです。"
+    },
+    {
+      "VardId": "MES_TOWN_WEST",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nこの土地は洋風の町並みが多いようですね。\n私にとっては異国の町並みですので\n何かと興味深いです。"
+    },
+    {
+      "VardId": "MES_TOWN_JAPAN",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nこの土地は和風の町並みが多いようですね。\nわたしもこういう雰囲気は好きです。\n<PAGE>\n粋、という言葉を聞いた事がありますが\n何となく分かる気がします。"
+    },
+    {
+      "VardId": "MES_TOWN_ORIENT",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nこの土地は民族風なものが多いようですね。\nどことなく懐かしいような気がします。"
+    }
+  ]
+}

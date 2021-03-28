@@ -1,0 +1,3910 @@
+﻿{
+  "Date": "2016-06-25T01:44:50.5216473+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_MAN_FIRST_MEETING",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n……ああ、母から話は聞いている。\nオレは、ヘクターだ。\n…よろしく。"
+    },
+    {
+      "VardId": "MES_WOMAN_FIRST_MEETING",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n……ああ、母から話は聞いている。\nオレは、ヘクターだ。\n…よろしく。"
+    },
+    {
+      "VardId": "MES_LONG_INTERVAL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…ひさしぶりだな。\n…元気なら、それでいい。"
+    },
+    {
+      "VardId": "MES_LOVER_LONG_INTERVAL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_LONG_INTERVAL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_PLAYER_DOWN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…からだは、平気なのか？\nそうか、ならいい。"
+    },
+    {
+      "VardId": "WORKING_REQUEST_000",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…配達のバイトで来たのか。\nこれは、配達物だ。"
+    },
+    {
+      "VardId": "WORKING_REQUEST_001",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…よろしくな。"
+    },
+    {
+      "VardId": "WORKING_DELIVERY_000",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…オレに配達物か？"
+    },
+    {
+      "VardId": "WORKING_DELIVERY_001",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nたしかに。\n配達ありがとうな。"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_A_BRIDGE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…橋がキレイになってよかった。\nボロボロの橋は、コリンが渡るとき\n少し心配だったからな。\n<PAGE>\nこれでいくらか安心だ。\n<_____MYNAME_____>、ありがとう。"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_A_BELL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…鐘がなると、コリンが楽しそうだ。\nそれを見てオレも少し肩の力がぬける。\n<PAGE>\n町にはこういうものも…\n必要なのだな。"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_A_BRONZE_STATUE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nあのバッファロー像…\n元はあんな色をしていたんだな。\nおどろいた。"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_A_GODDESS_STATUE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…女神像が出来たことで、\nコリンたちもよく泉に遊びに行く。\n<PAGE>\nとても楽しそうだ。\nあんたのおかげだ、ありがとう。"
+    },
+    {
+      "VardId": "MES_TOWN_COLLABO_A_RESTAURANT_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\n…あんたたちの考え出したスイートポテト。\nいもをお菓子にするなんて、すごいな。\nなかなか、うまかったぞ。"
+    },
+    {
+      "VardId": "MES_TOWN_COLLABO_A_RESTAURANT_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nミンスパイ…\nかなりいい出来らしいな。\n機会があれば食べに行かせてもらおう。"
+    },
+    {
+      "VardId": "MES_TOWN_COLLABO_A_PERFUME",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n香水か…オレは使わないが\n町の女性たちは身近で手に入るようになって\nうれしいだろうな。"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_J_BRIDGE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_J_BATHSHOP",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_J_RELIEF",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_J_SHRINE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TOWN_COLLABO_J_TEA",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TOWN_COLLABO_J_BATH",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TOWN_COLLABO_J_ACCESSORY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_S_KITCHEN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_S_BONFIRE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_S_INN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TOWN_GRADEUP_S_LANDING",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TOWN_COLLABO_S_FOOD",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TOWN_COLLABO_S_TEA",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TOWN_COLLABO_S_DRESS",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_WEATHER_A_SUNNY_SPRING",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…今日は、天気がいい。\n放牧びよりだ。"
+    },
+    {
+      "VardId": "MES_WEATHER_A_RAIN_SPRING",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…雨か。\n…よく降るな。"
+    },
+    {
+      "VardId": "MES_WEATHER_A_SNOW_SPRING",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…雪の日に走るな。\nケガをする。"
+    },
+    {
+      "VardId": "MES_WEATHER_A_SUNNY_SUMMER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…暑いのに、すずしい顔をしている？\n…顔に出ないだけだ。"
+    },
+    {
+      "VardId": "MES_WEATHER_A_RAIN_SUMMER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_SAD>\r\n雨の日は、無線の電波が悪いな…。\n……ああ、ただのひとりごとだ。"
+    },
+    {
+      "VardId": "MES_WEATHER_A_SNOW_SUMMER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_SAD>\r\n…雪の日に走るな。\nケガをする。"
+    },
+    {
+      "VardId": "MES_WEATHER_A_SUNNY_AUTUMN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_SAD>\r\n…カサカサしている。\n…いや…落ち葉の話じゃない。\nオレの、ひじの話だ。"
+    },
+    {
+      "VardId": "MES_WEATHER_A_RAIN_AUTUMN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_SAD>\r\n…雨か。\n動物たちのストレスに\n気をつけてやらないとな…。"
+    },
+    {
+      "VardId": "MES_WEATHER_A_SNOW_AUTUMN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_SAD>\r\n…雪の日に走るな。\nケガをする。"
+    },
+    {
+      "VardId": "MES_WEATHER_A_SUNNY_WINTER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_SAD>\r\n…寒いな。\n指が、かじかんで仕方ない…。"
+    },
+    {
+      "VardId": "MES_WEATHER_A_RAIN_WINTER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_SAD>\r\n…雨か。\n動物たちのストレスに\n気をつけてやらないとな…。"
+    },
+    {
+      "VardId": "MES_WEATHER_A_SNOW_WINTER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…雪の日に走るな。\nケガをする。"
+    },
+    {
+      "VardId": "MES_WEATHER_J_SUNNY_SPRING",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_WEATHER_J_RAIN_SPRING",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_WEATHER_J_SNOW_SPRING",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_WEATHER_J_SUNNY_SUMMER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_WEATHER_J_RAIN_SUMMER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_WEATHER_J_SNOW_SUMMER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_WEATHER_J_SUNNY_AUTUMN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_WEATHER_J_RAIN_AUTUMN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_WEATHER_J_SNOW_AUTUMN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_WEATHER_J_SUNNY_WINTER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_WEATHER_J_RAIN_WINTER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_WEATHER_J_SNOW_WINTER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_WEATHER_S_SUNNY_SPRING",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_WEATHER_S_RAIN_SPRING",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_WEATHER_S_SNOW_SPRING",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_WEATHER_S_SUNNY_SUMMER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_WEATHER_S_RAIN_SUMMER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_WEATHER_S_SNOW_SUMMER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_WEATHER_S_SUNNY_AUTUMN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_WEATHER_S_RAIN_AUTUMN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_WEATHER_S_SNOW_AUTUMN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_WEATHER_S_SUNNY_WINTER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_WEATHER_S_RAIN_WINTER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_WEATHER_S_SNOW_WINTER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_WEATHER_TYPHOON",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_SAD>\r\n…この台風の中を出歩くなんて\n一体、なにがあんたをそこまで\nかきたててるんだ…？"
+    },
+    {
+      "VardId": "MES_WEATHER_HEAVYSNOW",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_SAD>\r\n…大雪で命をおとす者だっている。\nあまり、自然をあまく見るものじゃない。"
+    },
+    {
+      "VardId": "MES_MARRIAGE_WEATHER_TYPHOON",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_SAD>\r\n…この台風の中を出歩くなんて\n一体、なにがあんたをそこまで\nかきたててるんだ…？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_WEATHER_HEAVYSNOW",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_ANGRY>\r\n…大雪で命をおとす者だっている。\nあまり、自然をあまく見るものじゃない。"
+    },
+    {
+      "VardId": "MES_MAN_MORNING_TALK_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…おはよう。\n朝から…元気だな…。"
+    },
+    {
+      "VardId": "MES_MAN_MORNING_TALK_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n……………なんだ。\nこんな時間になんの用だ。"
+    },
+    {
+      "VardId": "MES_WOMAN_MORNING_TALK_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…おはよう。\n朝から…元気だな…。"
+    },
+    {
+      "VardId": "MES_WOMAN_MORNING_TALK_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n……………なんだ。\nこんな時間になんの用だ。"
+    },
+    {
+      "VardId": "MES_MAN_AFTERNOON_TALK_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…<_____MYNAME_____>か。\nいつも、リチギなヤツだ…。"
+    },
+    {
+      "VardId": "MES_MAN_AFTERNOON_TALK_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんの用だ。\n用事なら、手短にしてくれ。"
+    },
+    {
+      "VardId": "MES_WOMAN_AFTERNOON_TALK_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…<_____MYNAME_____>か。\nいつも、リチギなヤツだ…。"
+    },
+    {
+      "VardId": "MES_WOMAN_AFTERNOON_TALK_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…用事なら、手短にしてくれ。\n長話は不得手だ…。"
+    },
+    {
+      "VardId": "MES_MAN_EVENING_TALK_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…こんな時間に、オレになんの用だ？\n…声をかけただけ…？\n<PAGE>\n<FACE_LAUGH>……変なヤツだ。"
+    },
+    {
+      "VardId": "MES_MAN_EVENING_TALK_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…もう夜だ。\n家は、長く空けるものじゃない。"
+    },
+    {
+      "VardId": "MES_WOMAN_EVENING_TALK_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…こんな時間に、オレになんの用だ？\n…声をかけただけ…？\n<PAGE>\n<FACE_LAUGH>……変なヤツだ。"
+    },
+    {
+      "VardId": "MES_WOMAN_EVENING_TALK_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…もう夜だ。\nいつまでも、うろつくものじゃない。"
+    },
+    {
+      "VardId": "MES_LOVER_MORNING_TALK_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVER_MORNING_TALK_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVER_MORNING_TALK_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVER_AFTERNOON_TALK_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVER_AFTERNOON_TALK_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVER_AFTERNOON_TALK_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVER_EVENING_TALK_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVER_EVENING_TALK_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVER_EVENING_TALK_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_MORNING_TALK_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_MORNING_TALK_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_MORNING_TALK_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_AFTERNOON_TALK_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_AFTERNOON_TALK_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_AFTERNOON_TALK_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_EVENING_TALK_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_EVENING_TALK_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_EVENING_TALK_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_GREETING_WEEKDAYS_0",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_GREETING_WEEKDAYS_1",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_GREETING_WEEKDAYS_2",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_FEERING_GOOD_TALK_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\n…表情がやわらかい？\nそうか…よくわからないが\nきっと、気分がいいせいだろう。"
+    },
+    {
+      "VardId": "MES_FEERING_GOOD_TALK_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\n……〜♪\n………………ん？\n<PAGE>\n<FACE_NORMAL>\n…………ンンッ、ゴホンッ！\n…ノドの調子を整えていただけだ。\n歌ってない……断じて、歌ってない。"
+    },
+    {
+      "VardId": "MES_LOVER_FEERING_GOOD_TALK_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVER_FEERING_GOOD_TALK_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FEERING_GOOD_TALK_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FEERING_GOOD_TALK_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_FEERING_TIRED_TALK_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_SAD>\r\n…なんだ？\n話したいなら、ほかをあたれ。\n…見ての通り、調子が悪い。"
+    },
+    {
+      "VardId": "MES_FEERING_TIRED_TALK_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_SAD>\r\n…つかれた顔に見える？\n…今朝は、夢見が悪かったからな…。"
+    },
+    {
+      "VardId": "MES_LOVER_FEERING_TIRED_TALK_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVER_FEERING_TIRED_TALK_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FEERING_TIRED_TALK_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FEERING_TIRED_TALK_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAN_CHANGE_FEELING_GOOD",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\n…あんたと話すと\n肩の力がぬける気がする。\n…ブラッドのヤツと話す時に似てるな。\n<PAGE>\n変なヤツってことだ。\nいい意味でな。"
+    },
+    {
+      "VardId": "MES_WOMAN_CHANGE_FEELING_GOOD",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\n…あんたと話すと\n肩の力がぬける気がする…。\n…変なヤツだ。"
+    },
+    {
+      "VardId": "MES_LOVER_CHANGE_FEELING_GOOD",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_CHANGE_FEELING_GOOD",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAN_CHANGE_FEELING_BAD",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_SAD>\r\n…オレに話しかけても得はない。\n放っておいてくれ。"
+    },
+    {
+      "VardId": "MES_WOMAN_CHANGE_FEELING_BAD",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_SAD>\r\n…オレは、妻以外の女と話すのは不得手だ。\nそんな男と話したところで得はない。\n放っておいてくれ…。"
+    },
+    {
+      "VardId": "MES_LOVER_CHANGE_FEELING_BAD",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_CHANGE_FEELING_BAD",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TODAY_GODDESS",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n今日の女神祭の準備はバンタンだ。\nきっと、いい祭りになる。"
+    },
+    {
+      "VardId": "MES_TODAY_RICE_EAR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TODAY_WITCH",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TODAY_GAME",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\nゲーム大会は、毎年白熱する。\n今年はどんな勝負になるか…楽しみだ。"
+    },
+    {
+      "VardId": "MES_TODAY_DRINK",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nドリンク祭か…。\n今年は、どんなドリンクが\nできあがるんだろうな…。"
+    },
+    {
+      "VardId": "MES_MAN_TODAY_FRIENDSHIP",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…星夜祭でだれと過ごすか？\nもちろん、コリンだ。\n<PAGE>\nほかの相手…ましてや妻以外の女を\nオレからさそうなんてことはありえない。\nしたくもない。一生な。"
+    },
+    {
+      "VardId": "MES_WOMAN_TODAY_FRIENDSHIP",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…星夜祭でだれと過ごすか？\nもちろん、コリンだ。\n<PAGE>\nほかの相手…ましてや妻以外の女を\nオレからさそうなんてことはありえない。\nしたくもない。一生な。"
+    },
+    {
+      "VardId": "MES_LOVER_TODAY_FRIENDSHIP",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TODAY_FRIENDSHIP",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TODAY_NEW_YEAR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…今日は、新年祭か。\n今年もあっという間だった…。"
+    },
+    {
+      "VardId": "MES_TODAY_FLOWER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…<_____MYNAME_____>。\nこれを、受け取ってくれ。\n<PAGE>\n花祭りの花だ。\n…あんたには、なんだかんだと\n世話になってるからな。"
+    },
+    {
+      "VardId": "MES_LOVER_TODAY_FLOWER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TODAY_FLOWER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TODAY_FLOWER_NOT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…カバンがいっぱいだな。\nなら…空き次第、わたそう。"
+    },
+    {
+      "VardId": "MES_FORGET_FLOWER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nカバンが空いたのか？\n…そうか、ならあらためて…\n花祭りの花だ。受け取ってくれ。"
+    },
+    {
+      "VardId": "MES_LOVER_FORGET_FLOWER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FORGET_FLOWER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TODAY_GRUEL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVER_TODAY_GRUEL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TODAY_GRUEL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TODAY_GRUEL_NOT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_FORGET_GRUEL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVER_FORGET_GRUEL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FORGET_GRUEL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TODAY_FRUIT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVER_TODAY_FRUIT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_TODAY_FRUIT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TODAY_FRUIT_NOT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_FORGET_FRUIT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVER_FORGET_FRUIT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FORGET_FRUIT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_GODDESS_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…女神祭のカンパか。\n今年は……。"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_GODDESS_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\n…あんたの熱意は、伝わった。\n親子ともども世話になっている身でもある。\n手持ちの全額、持って行ってくれ。"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_GODDESS_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…わたす金額は、決めてある。\nこれを、持って行ってくれ。"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_GODDESS_SELECT_00",
+      "Text": "おがむ"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_GODDESS_SELECT_01",
+      "Text": "せっとくする"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_GODDESS_SELECT_02",
+      "Text": "こまる"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_GODDESS_SELECT_03",
+      "Text": "すねる"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_RICE_EAR_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_RICE_EAR_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_RICE_EAR_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_RICE_EAR_SELECT_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_RICE_EAR_SELECT_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_RICE_EAR_SELECT_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_RICE_EAR_SELECT_03",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_WITCH_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_WITCH_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_WITCH_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_WITCH_SELECT_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_WITCH_SELECT_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_WITCH_SELECT_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_WITCH_SELECT_03",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_FINISH",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_1_MORE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_2_MORE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_3_MORE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_4_MORE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_5_MORE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_CAMPAIGN_6_MORE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_THREE_FORKED_ROAD_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_THREE_FORKED_ROAD_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_AMERICA_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nこっちには、ブラッドに会いに\n足を運ぶことが多い。\n…アイツとは、昔からの友人なんだ。"
+    },
+    {
+      "VardId": "MES_MAP_AMERICA_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nここらは、段差が多い。\n…足元には、十分気をつけろ。"
+    },
+    {
+      "VardId": "MES_MAP_AMERICA_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…フランクのところの畑は\nなかなかのものだ。"
+    },
+    {
+      "VardId": "MES_MAP_AMERICA_03",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…人の家の近所で\nなにをウロウロしているんだ？"
+    },
+    {
+      "VardId": "MES_MAP_AMERICA_04",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_AMERICA_05",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_JAPAN_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_JAPAN_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_JAPAN_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_JAPAN_03",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_JAPAN_04",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_JAPAN_05",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_SOUTH_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_SOUTH_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_SOUTH_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_SOUTH_03",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_SOUTH_04",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_SOUTH_05",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_SHOOTING_STAR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n……………………。\nなんだ、オレが星に願い事するのが\nそんなにおかしいか？"
+    },
+    {
+      "VardId": "MES_MAP_WINDMILL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…ここらの景色は、オレが町を\nはなれる前から変わってないな…。\nあの風車も、見慣れたものだ。"
+    },
+    {
+      "VardId": "MES_MAP_MILKY_WAY_A",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…キレイな星空だ。\n…妻なら嬉々としてシャッターを\n切っているところだな…。"
+    },
+    {
+      "VardId": "MES_MAP_SNOWMAN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\nこの雪だるまは…\nなかなかの力作だな…。"
+    },
+    {
+      "VardId": "MES_MAP_TREE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n毎年、ツリーをかざりつけるために\nコリンを肩車するが…\nそのたびにあいつの成長を感じる。\n<PAGE>\n<FACE_LAUGH>…来年はもっと上まで\n届くようになるんだろうな。"
+    },
+    {
+      "VardId": "MES_MAP_WIND_BELL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_COLD_VEGETABLE_J",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_FIREFLY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_MORNING_GRLORY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_SILVER_GRASS",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_DRAGONFLY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_STRAW",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_DRIED_PERSIMMON",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_THUNDERHEAD",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_NOCTILUCA",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_MILKY_WAY_S",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_COLD_VEGETABLE_S",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_GULL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_PLAYER_HOUSE_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_PLAYER_HOUSE_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MY_HOUSE_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…そこにある無線機は、オレの宝物だ。\n興味があるなら見てもかまわないが\nぜったいに、さわらないでくれ。"
+    },
+    {
+      "VardId": "MES_MY_HOUSE_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…下の物置スペースで\n無線機をさわっている時と\nこの部屋にいる時が、一等心安らぐ。"
+    },
+    {
+      "VardId": "MES_FRIEND_HOUSE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_A_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_A_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_A_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_A_03",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_A_04",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_A_05",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_A_06",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_A_07",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_A_08",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_A_09",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_J_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_J_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_J_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_J_03",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_J_04",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_J_06",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_J_08",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_J_09",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_S_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_S_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_S_03",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_S_05",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_S_07",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_S_08",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_REACTION_SHIP_CROPS_S_09",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOP_OPEN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVER_SCHEDULE_SHOP_OPEN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_SCHEDULE_SHOP_OPEN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOP_FREETALK_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOP_FREETALK_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOP_FREETALK_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SLEEP",
+      "Text": "<FACE_AMERICAFARMMAN>\r\n……ちがうんだ…母さん………………\n…口が勝手に……言いたくないのに…\n………ハキハキ…………言うハキ…！"
+    },
+    {
+      "VardId": "MES_LOVER_SCHEDULE_SLEEP",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_SCHEDULE_SLEEP",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SICK",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVER_SCHEDULE_SICK",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_SCHEDULE_SICK",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MEAL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…………食事中だ。\n用事なら後にしてくれ。"
+    },
+    {
+      "VardId": "MES_LOVER_MEAL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MEAL_RESTAURANT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MEAL_JAPANESE_TEA",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MEAL_SOUTH_TEA",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MEAL_WITH_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n……それか、食事がまだなら\nいっしょにどうだ？"
+    },
+    {
+      "VardId": "MES_MEAL_WITH_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\n…そうか、なら用意しよう。"
+    },
+    {
+      "VardId": "MES_MEAL_WITH_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…そうか、わかった。"
+    },
+    {
+      "VardId": "MES_LOVER_MEAL_WITH_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVER_MEAL_WITH_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVER_MEAL_WITH_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MEAL_SELECT_00",
+      "Text": "食べる"
+    },
+    {
+      "VardId": "MES_MEAL_SELECT_01",
+      "Text": "食べない"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_03",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_04",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_05",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_06",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_07",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_08",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_09",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_10",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_11",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_12",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_13",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_14",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…ん、<_____MYNAME_____>か。\n釣りはオレの性にあってるようだ。\nたとえ釣れなくても、苦じゃないな。"
+    },
+    {
+      "VardId": "MES_SCHEDULE_TALK_15",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…オレは、会話が不得手だ。\nオレにかまうよりも\nほかに時間をさいた方がいい。"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_01",
+      "Text": "お手伝いを頼む"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_02",
+      "Text": "お手伝いを頼まない"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_CANCEL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…オレは、会話が不得手だ。\nオレにかまうよりも\nほかに時間をさいた方がいい。"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_OK",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…オレは、会話が不得手だ。\nオレにかまうよりも\nほかに時間をさいた方がいい。"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_RESULT_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…オレは、会話が不得手だ。\nオレにかまうよりも\nほかに時間をさいた方がいい。"
+    },
+    {
+      "VardId": "MES_MAN_FRENDSHIP_CONVERSATION_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…オレは、会話が不得手だ。\nオレにかまうよりも\nほかに時間をさいた方がいい。"
+    },
+    {
+      "VardId": "MES_MAN_FRENDSHIP_CONVERSATION_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…あんたは、変なヤツだ。\nなんでそんなにオレと話したがる？\n話し相手なんてほかにもいるだろうに…。"
+    },
+    {
+      "VardId": "MES_MAN_FRENDSHIP_CONVERSATION_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…あんたと話すのは\nキライじゃない。\n<PAGE>\n…だからオレも、これからはもう少し\nあんたとの話が盛り上げられるよう\n努力していこうと思う。"
+    },
+    {
+      "VardId": "MES_MAN_FRENDSHIP_CONVERSATION_03",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…<_____MYNAME_____>と話していると\n自分が、会話が不得手なことを\nわすれそうになる時がある。\n<PAGE>\n<FACE_LAUGH>つまり…そう思えるくらい\n<_____MYNAME_____>との会話を\nいつも楽しんでいるってことだ。"
+    },
+    {
+      "VardId": "MES_MAN_FRENDSHIP_CONVERSATION_04",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…<_____MYNAME_____>のことは、\nオレの大切な友人だと思っている。\n<PAGE>\n<FACE_LAUGH>そう思うくらいには\nあんたとの会話は楽しいし、なにより…\nオレが、一度にこんなにも話せているんだ。\n<PAGE>\nその相手を友人と呼ばずして\nだれを友人と呼べばいいのかわからない。\n<PAGE>\nだから…<_____MYNAME_____>。\nこれからも友人として、よろしくたのむ。"
+    },
+    {
+      "VardId": "MES_WOMAN_FRENDSHIP_CONVERSATION_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…オレは、会話が不得手だ。\nしかも、妻以外の女相手となれば…\nなおさら、なにを話せばいいかわからない。\n<PAGE>\nわかったら、オレにかまうよりも\nほかのヤツに時間をさいた方がいい。"
+    },
+    {
+      "VardId": "MES_WOMAN_FRENDSHIP_CONVERSATION_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…あんたは、変なヤツだ。\nなんでそんなにオレと話したがる？\nもっと話して楽しい相手がいるだろうに…。"
+    },
+    {
+      "VardId": "MES_WOMAN_FRENDSHIP_CONVERSATION_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…あんたと話すのは\nキライじゃない。\n<PAGE>\n…だからオレも、これからはもう少し\nあんたとの話が盛り上げられるよう\n努力していこうと思う。"
+    },
+    {
+      "VardId": "MES_WOMAN_FRENDSHIP_CONVERSATION_03",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…<_____MYNAME_____>と話していると\n自分が、会話が不得手なことを\nわすれそうになる時がある。\n<PAGE>\n<FACE_LAUGH>つまり…そう思えるくらい\n<_____MYNAME_____>との会話を\nいつも楽しんでいるってことだ。"
+    },
+    {
+      "VardId": "MES_WOMAN_FRENDSHIP_CONVERSATION_04",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>は、オレにとって\nなくなった妻のつぎに\n話しやすいと思える相手だ。\n<PAGE>\n妻以上に会話をはずませられる女には\nこれからも、一生めぐりあえないだろうが…\nそれと同じように…\n<PAGE>\n<_____MYNAME_____>と同じくらい\n会話をはずませられる女にもまた\n一生、めぐりあえないと思っている。\n<PAGE>\n<FACE_LAUGH>…オレが、一度に\nこんなにも話せているのが、その証拠だ。\nだから…これからも友人としてよろしくな。"
+    },
+    {
+      "VardId": "MES_LOVER_CONVERSATION_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVER_CONVERSATION_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVER_CONVERSATION_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVER_CONVERSATION_03",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVER_CONVERSATION_04",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVER_CONVERSATION_05",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_CONVERSATION_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_CONVERSATION_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_CONVERSATION_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_CONVERSATION_03",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_CONVERSATION_04",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_CONVERSATION_05",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_CONVERSATION_06",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_1_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nハシビロコウのクッキー…。\nコリンも楽しみにしていると\n言ってくれた。\n<PAGE>\n上手く型が作れるか不安だが、\nがんばってチャレンジしてみよう。\n完成したら、また一緒に食べてくれ。"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_1_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nチワワのクッキーは、\n表現がむずかしいと思ったが…\n<PAGE>\nコリンがな、クッキー生地に\n顔をかいてくれるそうだ。\n完成したら、また一緒に食べてくれ。"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_1_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nグリズリーのクッキーは\n口を開けて、キバを見せてるものを\n作ろうと思ってる。\n<PAGE>\n正直、上手くできる自信は無いが、\n完成したら、また一緒に食べてくれ。"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_1_03",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_2_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_2_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_2_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_2_03",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_3_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_3_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_3_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_3_03",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_4_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_4_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_4_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_4_03",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_5_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_5_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_5_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_5_03",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_6_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_6_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_6_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_6_03",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_7_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_7_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_7_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_7_03",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_8_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_8_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_8_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_8_03",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_9_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_9_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_9_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_9_03",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_10_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_10_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_10_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_10_03",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_11_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_11_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_11_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_11_03",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_12_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_12_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_12_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_12_03",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_13_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_13_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_13_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_13_03",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_14_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_14_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_14_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_14_03",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_15_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_15_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_15_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_AFTER_15_03",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_PROPOSAL_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_PROPOSAL_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_PROPOSAL_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_PROPOSAL_SELECT_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_PROPOSAL_SELECT_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_CONFESSION_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_CONFESSION_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_CONFESSION_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_CONFESSION_SELECT_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_CONFESSION_SELECT_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVERS_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVERS_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVERS_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_ENGAGEMENT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_03",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAN_BLESSING_LOVER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\n…<CHARANAME0>と恋人になった？\n…そうか、おめでとう。"
+    },
+    {
+      "VardId": "MES_WOMAN_BLESSING_LOVER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\n…<CHARANAME0>と恋人になった？\n…そうか、おめでとう。"
+    },
+    {
+      "VardId": "MES_BLESSING_LOVER_OTHER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…恋人ができた？\n…そうか、おめでとう。"
+    },
+    {
+      "VardId": "MES_BLESSING_LOVER_FAMILY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAN_BLESSING_ENGAGEMENT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…<CHARANAME0>と\n結婚することにした？\n<PAGE>\n<FACE_LAUGH>…そうか、おめでとう。\n式が楽しみだな。"
+    },
+    {
+      "VardId": "MES_WOMAN_BLESSING_ENGAGEMENT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…<CHARANAME0>と\n結婚することにした？\n<PAGE>\n<FACE_LAUGH>…そうか、おめでとう。\n式が楽しみだな。"
+    },
+    {
+      "VardId": "MES_BLESSING_ENGAGEMENT_OTHER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…結婚することにした？\n<PAGE>\n<FACE_LAUGH>…そうか、おめでとう。\nいい式になるよう祈っている。"
+    },
+    {
+      "VardId": "MES_BLESSING_ENGAGEMENT_FAMILY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAN_BLESSING_MARRIAGE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\n結婚おめでとう。\n<CHARANAME0>も、<_____MYNAME_____>も…\nどうか末永く、幸せにな。"
+    },
+    {
+      "VardId": "MES_WOMAN_BLESSING_MARRIAGE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\n結婚おめでとう。\n…末永く、幸せにな。\n<PAGE>\n<FACE_NORMAL>…できれば、健康には細心の注意をはらい\n夫を置いて先にいくようなことには…\n……いや、すまない…なんでもない。"
+    },
+    {
+      "VardId": "MES_BLESSING_MARRIAGE_OTHER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\n結婚おめでとう。\n…末永く、幸せにな。"
+    },
+    {
+      "VardId": "MES_BLESSING_MARRIAGE_PRESENT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\n…これは、結婚祝いだ。\n受け取ってくれ。"
+    },
+    {
+      "VardId": "MES_BLESSING_MARRIAGE_FAMILY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_BLESSING_MARRIAGE_FAMILY_PRESENT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAN_BLESSING_CHILD_BIRTH",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\n…<CHARANAME0>が無事出産したそうだな。\nおめでとう。\nしっかりいたわってやれ。"
+    },
+    {
+      "VardId": "MES_WOMAN_BLESSING_CHILD_BIRTH",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\n…無事出産したそうだな。\nおめでとう、よくやったな。\nだが産後なら、無理だけはするな。"
+    },
+    {
+      "VardId": "MES_BLESSING_CHILD_BIRTH_OTHER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\n…無事出産した？\nそうか、よかったな。\n本当によかった…。"
+    },
+    {
+      "VardId": "MES_BLESSING_CHILD_BIRTH_PRESENT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\n…これは、出産祝いだ。\n受け取ってくれ。"
+    },
+    {
+      "VardId": "MES_BLESSING_CHILD_BIRTH_FAMILY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_BLESSING_CHILD_BIRTH_FAMILY_PRESENT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_COMING_SYSTER_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…妹が来ている？\nそうか…よかったな。"
+    },
+    {
+      "VardId": "MES_COMING_MOTHER_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…母親が来ている？\nああ、そういえば母さんが\nそんな話をしていたな…。"
+    },
+    {
+      "VardId": "MES_LOVER_GIFT_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVER_GIFT_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVER_GIFT_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_GIFT_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_GIFT_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_GIFT_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAN_PLAYER_BIRTHDAY_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…誕生日？\n<_____MYNAME_____>の？\nそうか、おめでとう。"
+    },
+    {
+      "VardId": "MES_MAN_PLAYER_BIRTHDAY_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\n…今日は、あんたの誕生日だな。\nこれは、プレゼントだ。\nおめでとう、<_____MYNAME_____>。"
+    },
+    {
+      "VardId": "MES_WOMAN_PLAYER_BIRTHDAY_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…誕生日？\n<_____MYNAME_____>の？\nそうか、おめでとう。"
+    },
+    {
+      "VardId": "MES_WOMAN_PLAYER_BIRTHDAY_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nこれを、受け取れ。\n……誕生日プレゼントだ。\nおめでとう、<_____MYNAME_____>。"
+    },
+    {
+      "VardId": "MES_LOVER_PLAYER_BIRTHDAY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_PLAYER_BIRTHDAY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_NO_EMPTY_BIRTHDAY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…カバンがいっぱいだな。\nなら…空き次第、わたそう。"
+    },
+    {
+      "VardId": "MES_FORGET_BIRTHDAY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nカバンが空いたのか？\n…そうか。なら、あらためて…\n誕生日おめでとう。"
+    },
+    {
+      "VardId": "MES_TOWN_BIRTHDAY_PARTY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…キャリーが、<BLUE>13:00</BLUE>に<GREEN>レストラン</GREEN>に\n来てくれと言っていた。\n…確かに伝えたからな。"
+    },
+    {
+      "VardId": "MES_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n……結婚は、いいものだ。\nオレは妻と結婚して\n大切なものをたくさん手に入れた。"
+    },
+    {
+      "VardId": "MES_LOVER_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_BLUE_SHUTTLECOCK_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_BLUE_SHUTTLECOCK_SELECT_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_BLUE_SHUTTLECOCK_SELECT_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_BLUE_SHUTTLECOCK_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_PROPOSAL_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_PENDANT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nペンダントか。\nオレも昔、妻にわたした。\n<PAGE>\n妻につけてほしいと言われて\n手をふるわせながら金具をとめた。\n…なつかしいな。"
+    },
+    {
+      "VardId": "MES_EVENT_PENDANT_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_PENDANT_SELECT_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_PENDANT_SELECT_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_EVENT_PENDANT_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVER_PENDANT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_PENDANT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVER_ANGER_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_ANGER_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVER_ANGER_PENDANT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_ANGER_PENDANT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_PRESENT_CANNOT_00",
+      "Text": "今はプレゼントをわたせないみたいだ。\nまた後にしよう。"
+    },
+    {
+      "VardId": "MES_PRESENT_CANNOT_01",
+      "Text": "…さっきもプレゼントをわたしたな。\nまた明日にしよう。"
+    },
+    {
+      "VardId": "MES_WRAPPING_FLOWER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…わざわざラッピングしたのか。\nしかも、花祭り用……マメだな。"
+    },
+    {
+      "VardId": "MES_WRAPPING_RICE_GRUEL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_WRAPPING_FRUIT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_WRAPPING_LIKE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\n…このラッピングは、いいな。\n気にいった。"
+    },
+    {
+      "VardId": "MES_WRAPPING_NORMAL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…わざわざラッピングしたのか。\n……マメだな。"
+    },
+    {
+      "VardId": "MES_PRESENT_BEST",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\n…<BLUE><____ITEMNAME0____></BLUE>か！\nこれは、オレの大好物だ。\nありがたくいただこう。"
+    },
+    {
+      "VardId": "MES_PRESENT_VERY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\n…わざわざオレの好物を調べたのか？\n…そうか。\nありがたくいただこう。"
+    },
+    {
+      "VardId": "MES_PRESENT_LIKE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\n…これは、いいものだな。\nありがたくいただこう。"
+    },
+    {
+      "VardId": "MES_PRESENT_NORMAL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…オレにプレゼント？\n…わかった、もらっておこう。"
+    },
+    {
+      "VardId": "MES_PRESENT_DISLIKE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_SAD>\r\n…<BLUE><____ITEMNAME0____></BLUE>？\nオレは、これがキライなんだが…。"
+    },
+    {
+      "VardId": "MES_PRESENT_HATE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_SAD>\r\n<BLUE><____ITEMNAME0____></BLUE>…。\nオレは、これが…大キライなんだ…。"
+    },
+    {
+      "VardId": "MES_PRESENT_WORST",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_ANGRY>\r\n…<BLUE><____ITEMNAME0____></BLUE>は\nオレの一番キライな料理だ。\n…覚えておいてくれ。"
+    },
+    {
+      "VardId": "MES_PRESENT_HUGE_VERY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\n<BLUE><____ITEMNAME0____></BLUE>…！\nこれはまた…大きいな…。\nありがたくいただこう。"
+    },
+    {
+      "VardId": "MES_PRESENT_HUGE_LIKE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\nずいぶん大きく育ったものだな…。\n<_____MYNAME_____>が育てたのか？\n…そうか、ありがたくいただこう。"
+    },
+    {
+      "VardId": "MES_PRESENT_GOLD_VERY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\nずいぶんと、まぶしい作物だな。\n<BLUE><____ITEMNAME0____></BLUE>か…おいしそうだ。\nありがたくいただこう。"
+    },
+    {
+      "VardId": "MES_PRESENT_GOLD_LIKE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\nキレイな黄金色だ…。\nこんな作物を、よく作れたものだな。\nありがたくいただこう。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_BEST",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…誕生日プレゼント？\nこれは…<BLUE><____ITEMNAME0____></BLUE>か！\n<PAGE>\n<FACE_LAUGH>オレの一番の好物だ。\nありがたくいただこう。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_VERY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\n<BLUE><____ITEMNAME0____></BLUE>…これは大好物だ。\nオレの誕生日のために用意を…？\nそうか、ありがたくいただこう。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_LIKE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\nオレの誕生日のために\n<BLUE><____ITEMNAME0____></BLUE>を…そうか。\nありがたくいただこう。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_NORMAL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…誕生日プレゼント？\nわざわざ用意してくれたのか？\n…そうか、ありがたくいただこう。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_DISLIKE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_SAD>\r\n…誕生日プレゼントに\n<BLUE><____ITEMNAME0____></BLUE>…？\nオレは、これがキライなんだが…。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_HATE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_ANGRY>\r\n…<BLUE><____ITEMNAME0____></BLUE>は\nオレの大キライなものだが…。\n<PAGE>\nわざわざこれをオレの誕生日に\nわたす意図は、一体なんだ…？"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_WORST",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_ANGRY>\r\n…誕生日プレゼントに\n<BLUE><____ITEMNAME0____></BLUE>…？\n<PAGE>\nこれは、オレの一番キライな料理だ。\n…覚えておいてくれ。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_HUGE_VERY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\n<BLUE><____ITEMNAME0____></BLUE>…！\nこんな立派なものを本当に\nオレがもらっていいのか…？\n<PAGE>\n…オレの誕生日のために用意した？\nそうか、ならエンリョなくいただこう。\n…ありがとう、<_____MYNAME_____>。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_HUGE_LIKE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\nオレの誕生日のために、わざわざ\nこんな立派なものを用意してくれたのか。\n…そうか、ありがたくいただこう。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_GOLD_VERY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\n<BLUE><____ITEMNAME0____></BLUE>…！\n誕生日プレゼントとはいえ…こんなに\n手のかかったものをもらっていいのか…？\n<PAGE>\nそうか、ならエンリョなくいただこう。\n…ありがとう、<_____MYNAME_____>。"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_GOLD_LIKE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nこれはまた…\nずいぶんとキラキラしてるな。\n……誕生日プレゼント？\n<PAGE>\n<FACE_LAUGH>…そうか、ありがたくいただこう。"
+    },
+    {
+      "VardId": "MES_FLOWER_FESTIVAL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…花祭りの花？\nそうか…ありがとう。"
+    },
+    {
+      "VardId": "MES_LOVER_FLOWER_FESTIVAL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FLOWER_FESTIVAL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_FLOWER_FESTIVAL_RETURN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\n…オレも、<_____MYNAME_____>に\n花を用意してあるんだ。\n受け取ってくれ。"
+    },
+    {
+      "VardId": "MES_LOVER_FLOWER_FESTIVAL_RETURN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FLOWER_FESTIVAL_RETURN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_RICE_GRUEL_FESTIVAL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVER_RICE_GRUEL_FESTIVAL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_RICE_GRUEL_FESTIVAL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_RICE_GRUEL_FESTIVAL_RETURN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVER_RICE_GRUEL_FESTIVAL_RETURN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_RICE_GRUEL_FESTIVAL_RETURN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_FRUIT_FESTIVAL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVER_FRUIT_FESTIVAL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FRUIT_FESTIVAL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_FRUIT_FESTIVAL_RETURN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVER_FRUIT_FESTIVAL_RETURN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_FRUIT_FESTIVAL_RETURN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_THANKS_FESTIVAL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_THANKS_FESTIVAL_RETURN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_LOVER_THANKS_FESTIVAL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_THANKS_FESTIVAL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_PUMPKIN_FESTIVAL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…プリン？\nかぼちゃ祭は子どもに\nプリンを配る祭だぞ。\n<PAGE>\n…あんたがどうしてもと言うなら\nありがたくいただこう。"
+    },
+    {
+      "VardId": "MES_NO_EMPTY_FESTIVAL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…カバンがいっぱいだな。\nなら…空き次第、わたそう。"
+    },
+    {
+      "VardId": "MES_REACTION_PRESENT_HARVEST",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…うまかった。\n昨日の、<BLUE><____ITEMNAME0____></BLUE>のことだ。\nよくできていた。"
+    },
+    {
+      "VardId": "MES_REACTION_PRESENT_COOKING",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…うまかった。\n昨日の、<BLUE><____ITEMNAME0____></BLUE>のことだ。\nブラッドと張る腕前だな。"
+    },
+    {
+      "VardId": "MES_REACTION_PRESENT_FLOWER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…昨日もらった<BLUE><____ITEMNAME0____></BLUE>を\n観察させてもらったが…さすがだな。\nオレには、作れそうにない。"
+    },
+    {
+      "VardId": "MES_REACTION_PRESENT_PRODUCT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…昨日の、<BLUE><____ITEMNAME0____></BLUE>？\n大切に保管してある。\n質がいいから、使い時は考えないとな。"
+    },
+    {
+      "VardId": "MES_REACTION_PRESENT_FOOD",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\n…うまかった。\n昨日の、<BLUE><____ITEMNAME0____></BLUE>のことだ。\nありがとう。"
+    },
+    {
+      "VardId": "MES_REACTION_PRESENT_FLOWER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\n…あんたがくれた花、\n母さんもコリンも喜んでたよ。\n感謝しないとな。"
+    },
+    {
+      "VardId": "MES_REACTION_PRESENT_OTHER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\n…昨日の<BLUE><____ITEMNAME0____></BLUE>、\nありがとう。\nいいものをもらうと、うれしくなるな。"
+    },
+    {
+      "VardId": "MES_RETURN_PRESENT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n大したものじゃないが…\nこれは、いつもの礼だ。\n受け取ってくれ。"
+    },
+    {
+      "VardId": "MES_LOVER_RETURN_PRESENT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MARRIAGE_RETURN_PRESENT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_Tosa",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_Great_Pyrenees",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nグレートピレニーズ…\nうちのバディと同じか。\n<PAGE>\n大きいが、やさしい目をしている。\nバディとも仲良くしてくれ。"
+    },
+    {
+      "VardId": "MES_Bernese",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_Weimaraner",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_Husky",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_Doberman",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_Shepherd",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_Bull_Terrier",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_Tibetan",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_Border_Collie",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_Jack_Russell_Terrier",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_Dachshund",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nダックスフントか…。\nあしが短いことを、こいつ自身は\n気にしているのだろうか。"
+    },
+    {
+      "VardId": "MES_Beagle",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_Shiba",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_Chihuahua",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nチワワか。\n…小さくてかわいいイヌだな。\n<PAGE>\n少しまえに、こいつを飼うことが\nブームになっていたな。"
+    },
+    {
+      "VardId": "MES_Poodle",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…トイプードルか。\nまるでぬいぐるみのようでかわいいな。"
+    },
+    {
+      "VardId": "MES_CatA",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_CatB",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_CatC",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_CatD",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_CatE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_CatLongHairA",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_CatLongHairB",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_CatLongHairC",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_CatLongHairD",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_CatLongHairE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_KapibaraA",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_KapibaraB",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_Cacatua",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_Turtle",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_Shoebill",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_Eagle",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_Kiji",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_RainbowBird",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_Monkey",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_Verreauxi",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_RacoonDog",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_Grizzly",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_Ermine",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nオコジョか。\n…たまに畑に食べ物を求めてやってくるが\nうちはそれを見こして多めに作っている。\n<PAGE>\n…どうしてそこまでするのかだと？\n人と動物がいっしょに過ごせたら\nおもしろいだろ。"
+    },
+    {
+      "VardId": "MES_Fox",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_Sparrow",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_Chicken",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_Chicken_Huge",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_Silky",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_Silky_Huge",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_Quail",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_Quail_Huge",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_AngoraRabbitA",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_AngoraRabbitA_Huge",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_AngoraRabbitB",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_AngoraRabbitB_Huge",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_Hamutaro",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ、めずらしいの連れてるな。"
+    },
+    {
+      "VardId": "MES_TALK_0",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…農家の仕事は体力勝負だが\n続けていれば、だんだんと\nなれていくものだ。"
+    },
+    {
+      "VardId": "MES_TALK_1",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…人の話を聞くのはキライじゃない。\nだが、自分から話すのは苦手だ。"
+    },
+    {
+      "VardId": "MES_TALK_2",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nオレは、生まれた時から\n今の町に暮らしていたが結婚を機に\n一度町を出た…いわば、出戻りだ。"
+    },
+    {
+      "VardId": "MES_TALK_3",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nこの町をはなれている間は\n農家とは全く関係のない仕事をしていた。\n<PAGE>\n<FACE_SAD>…おかげで、もどってきてからは\n毎日、筋肉痛の日々だった…。"
+    },
+    {
+      "VardId": "MES_TALK_4",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\n動物は、好きだ。\nあいつらとは、言葉で語り合わなくても\n親交が深められる。"
+    },
+    {
+      "VardId": "MES_TALK_5",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nオレのシュミは、無線を使うことだ。\nあれを通してなら、ふだんよりも\n上手く会話ができる…気がする。"
+    },
+    {
+      "VardId": "MES_TALK_6",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nオレのように、無線をシュミでする者は\n「ハム」とよばれたりする。\nなぜそうよぶのか…由来は、わからない。"
+    },
+    {
+      "VardId": "MES_TALK_7",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n友人とよべる人間は少ないが…\n無線をシュミとした同志といえる存在なら\n…それなりにいる。"
+    },
+    {
+      "VardId": "MES_TALK_8",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n時間ができた時にやることは\n大体いつも、決まっている。\n無線をさわるか、コリンと遊ぶかだ。"
+    },
+    {
+      "VardId": "MES_TALK_9",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…オレの苦手なもの？\n熱いもの全般が、苦手だ。\n…ネコ舌だからな。"
+    },
+    {
+      "VardId": "MES_TALK_10",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\nコリンの絵は、だんだん上手くなる。\n…将来は、画家になったり\nするんだろうか。"
+    },
+    {
+      "VardId": "MES_TALK_11",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_SAD>\r\n…通りすがりの子どもに\n顔のこわいおじさんがいると指さされた。\n事実だが……少し、ショックだった。"
+    },
+    {
+      "VardId": "MES_TALK_12",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nオレの好きな色？\n……赤だ。\n…イメージとちがう、か。\n<PAGE>\n<FACE_LAUGH>\nそうだろうな。\n元々、赤は妻が好きだった色だった。\n<PAGE>\n赤いシャツが似合うと着せられるうちに\nオレも好きになったんだ…。"
+    },
+    {
+      "VardId": "MES_TALK_13",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n母さんに、もっと\n会話のキャッチボールを\n大事にしろと言われたから…\n<PAGE>\nボールは返せなくても、\nキャッチャーとしてならどんな球でも\n受け止められていると思う…と答えた。\n<PAGE>\n<FACE_SAD>\nそしたら「それはキャッチャーじゃない。\nネットって言うんだよ！」とおこられた。\n<PAGE>\n……ぐうの音も出なかった。"
+    },
+    {
+      "VardId": "MES_TALK_14",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_SAD>\r\nコリンの母親は…病気でなくなった。\n<PAGE>\n元々からだは強い方じゃなかったが…\n最期は、急な病で…\nあっという間だった。"
+    },
+    {
+      "VardId": "MES_TALK_15",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…妻がなくなったとき、\nコリンはまだ３才だった。\n<PAGE>\n<FACE_SAD>\nオレは、コリンと\nどう接すればいいのか…\nどう育てていけばいいのかがわからなくて\n<PAGE>\n親にたよるように\nこっちにもどってきた。\n<PAGE>\n…今でも、ちゃんと愛せているか\nそれが伝わっているか、自信が持てない。\n努力は…しているつもりなんだが…。"
+    },
+    {
+      "VardId": "MES_TALK_16",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_SAD>\r\nもし、妻が急な病じゃなく…\n<PAGE>\nたとえば、オレの父親のように\n寿命でなくなっていたなら\nこんなに引きずらなかったんだろうか…。\n<PAGE>\nいや…それでも…\nきっと、引きずっていたんだろうな…。"
+    },
+    {
+      "VardId": "MES_TALK_17",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nブラッドとは、おさななじみだ。\n…よくも悪くも\nあいつは、昔から変わらない。\n<PAGE>\nひさしぶりに帰ってきた時も\nあいつが変わらない笑顔で\n迎えてくれたおかげでオレは救われた。\n<PAGE>\n…あいつには、\n感謝してもしたりないくらいだ。"
+    },
+    {
+      "VardId": "MES_TALK_18",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n同業者のフランクとは、家も近いし\nよく仕事についての意見を\n交わしたりしている。"
+    },
+    {
+      "VardId": "MES_TALK_19",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nキャリーは、なにかとコリンのことを\n気にかけてくれている。\n<PAGE>\n<FACE_LAUGH>…夫婦そろっての、お人好しだ。\n…だが、とても感謝している。"
+    },
+    {
+      "VardId": "MES_TALK_20",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n前に、ウェインから人付き合いを\n学んでみるのもいいんじゃないかと\nブラッドに言われたことがあったんだが…。\n<PAGE>\n……あれは、無理だ。\nいろいろな意味で、オレには無理だ。"
+    },
+    {
+      "VardId": "MES_TALK_21",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_SAD>\r\nこの間、またキャリーが大変なものを\n作り上げたとブラッドが言っていた。\n…あいつも大変だな…。"
+    },
+    {
+      "VardId": "MES_TALK_22",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…マルコさんについて？\nマルコさんは、やさしい人だが…\n人を信じすぎる所が、少し心配だ。"
+    },
+    {
+      "VardId": "MES_TALK_23",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nミランダは、女手ひとつで\n娘のことをよく育てていると思う。\n<PAGE>\nオレには…できなかった。\nだから、ミランダのことは\n心からソンケイしているんだ。"
+    },
+    {
+      "VardId": "MES_TALK_24",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n明るく人なつこいノエルと\n自分に似て内気なコリンの姿を見ていると\nオレと妻の姿に、重なる時がある…。"
+    },
+    {
+      "VardId": "MES_TALK_25",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…泉の神様のウワサ？\nそういったものがあるのは知っているが…\nくわしい内容は、知らないな…。"
+    },
+    {
+      "VardId": "MES_TALK_26",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…フォードについて？\nそうだな…腕も確かだし\nたよりになる、いい医者だと思う。"
+    },
+    {
+      "VardId": "MES_TALK_27",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_SAD>\r\n妻のシュミはカメラで、撮る方が\n好きだったからか…あいつ自身が写った\n写真は、ほとんど持ってないんだ…。"
+    },
+    {
+      "VardId": "MES_TALK_28",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…指のキズ？\nこれは、アップリケを……ゴホンッ。\n…いや…なんでもない。"
+    },
+    {
+      "VardId": "MES_TALK_29",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\nコリンは、オレにとって\n最愛の妻のわすれ形見であり…\nなににもかえがたい、オレの大事な宝物だ。\n<PAGE>\n…だから、これからも\nあいつのことは、オレの全てをかけて\n大切にしていきたいと思っている。"
+    },
+    {
+      "VardId": "MES_TALK_30",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n妻のことは、もういい加減わすれて\n前に進むべきだ、と\n言われることもあるが…\n<PAGE>\nわすれないと\n前へ進めないというのなら…\nオレは、一生前に進めないままでいい。\n<PAGE>\n<FACE_SAD>\nそう思うくらい、あいつはオレにとって…\n本当に特別で、大切な存在だった。\n<PAGE>\n再婚なんてありえない。\n考えたくもない…。\n<PAGE>\nコリンがどうしても母親がほしいと\n言ったらあるいは…いや、それでも。\nそれだけは、かなえてやれないだろうな…。"
+    },
+    {
+      "VardId": "MES_TALK_31",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TALK_32",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TALK_33",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TALK_34",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TALK_35",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TALK_36",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TALK_37",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TALK_38",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TALK_39",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TALK_40",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TALK_41",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TALK_42",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TALK_43",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TALK_44",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TALK_45",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TALK_46",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TALK_47",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TALK_48",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TALK_49",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TALK_50",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TALK_51",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TALK_52",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TALK_53",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TALK_54",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TALK_55",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TALK_56",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TALK_57",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TALK_58",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TALK_59",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TALK_60",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_TALK_61",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_FASHION_NOT_MATCH_HOT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n……その服は…暑くないのか？\nどう見ても、暑そうだが…。"
+    },
+    {
+      "VardId": "MES_FASHION_NOT_MATCH_COOL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_SAD>\r\n……………寒そうだな。\nどうしてそんな服装をしているんだ…？"
+    },
+    {
+      "VardId": "MES_FASHION_BASICBOYWEAR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_BASICGIRLWEAR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SALOPETTEBOY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SALOPETTEGIRL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SUSPENDERS",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_OVERALL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…その服は、いいな。\n…牧場作業が似合いそうだ。"
+    },
+    {
+      "VardId": "MES_FASHION_JINBEIBLUE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_JINBEIBLACK",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_MATABIKI",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_MINO",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SIMPLENORAGI",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SAOTOME",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_KAPPOUGI",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_WILDFARMER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_WORKINGWEAR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_ETHNICTANKTOPRED",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_ETHNICTANKTOPBLUE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_ETHNICTANKTOPCASUAL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_WORKINGSHORTPANTS",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_CAPECASUAL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_KONOHANAWEAR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_KUNGFUFARMER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_BLUEBELLWEAR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_WARKINGCHINA",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_DOTCULOTTEBLUE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_DOTCULOTTERED",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_GUNMAN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…その服は、ガンマンか？\n…コリンもそんな服装が好きだろうか。"
+    },
+    {
+      "VardId": "MES_FASHION_COWBOYSTYLE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_COWSPOTCOWBOY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_COWGIRL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_FRINGECASUAL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_KNICKERBOCKERS",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_CHECKVEST",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_GREENCARDIGAN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_GILLETVEST",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_POLOSHIRTSTYLE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SPRINGAPRONSKIRT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_COUNTRYONEPIECE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_APRONDRESS",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_FLOWERAPRONDRESS",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_MAXIAPRONDRESS",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_YUKATABOYBLUE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_YUKATABOYRED",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…その服は、いいな。\n…茜色というのか、いい色だ。"
+    },
+    {
+      "VardId": "MES_FASHION_OKAPPIKI",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_KABUKIFASHION",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_HAIKARASANRED",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…その服は、いいな。\n…花の柄もキレイだと思う。"
+    },
+    {
+      "VardId": "MES_FASHION_HAIKARASANGREEN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_YUKATAGIRLBLUE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_YUKATAGIRLRED",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_OLDTOWNSTYLE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_NADESHIKOSTYLE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_KYUDOWEAR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_FARMERTSHIRT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…その服は…かっこいいな。\n…牧場主という…力強さが感じられるな。"
+    },
+    {
+      "VardId": "MES_FASHION_SOUTHERNTANKTOP",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_WHITEPONCHO",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_ARABIANSTYLE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_RESORTCASUAL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_HULADANCEBOY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_TUBETOP",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_HULADANCEGIRL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_REDPONCHO",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…とてもよく似合っている。\n…いい服を…買ったな。"
+    },
+    {
+      "VardId": "MES_FASHION_TUNICGOLD",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_TUNICSILVER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_BLUEWHITENOSLEEVE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_QUILTWEAR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_YELLOWSWEATER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_COOLVESTWEAR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_WHITEJACKET",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_AQUACOAT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_RIDINGCLOTHESBLUE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_RIDINGCLOTHESRED",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…その服は、あんたに似合うな。\n…色使いもいいと思う。"
+    },
+    {
+      "VardId": "MES_FASHION_SCHWARZCOAT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_STEAMPUNKCOAT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_NOBLEJACKET",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_FLOWERSKIRT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_DOTSKIRT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_CLASSICSTYLE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_ELEGANTONEPIECE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_CREAMONEPIECE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_RAINCOAT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…その服は、目立つな。\n…キレイな色があんたに似合ってる。"
+    },
+    {
+      "VardId": "MES_FASHION_BUTTONDRESS",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_HIGHWAISTSKIRT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_STEAMPUNKDRESS",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_MODERNKIMONO",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_AKINDOAOTAKE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_AKINDOYANAGI",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SAMURAISTYLE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_PLAYBOYSTYLE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_OMMYOJI",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SNOWKIMONO",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_FLOWERKIMONO",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_UROKOKIMONO",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_KIMONODRESS",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_KNEEHIGHKIMONO",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_MICHIYUKICOAT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_GREENHOODIE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_ETHNICSTYLE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_RESORTFORMAL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…その服は、いいな。\n…すずしく過ごせそうだ。"
+    },
+    {
+      "VardId": "MES_FASHION_SOUTHERNSTYLE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_ASYMMETRYSKIRT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_FRILLSKIRT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_RESORTONEPIECEGREEN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_RESORTONEPIECERED",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SARIBLUE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SARIYELLOW",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_ETHNICJADE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_WILDROCKER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_HUIPIL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…その服の模様…不思議だな。\n…思わず…注目してしまう。"
+    },
+    {
+      "VardId": "MES_FASHION_NORDICDRESSPINK",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_NORDICDRESSBLUE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_ALPSSKIRT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_GOTHICSTYLE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_RUBYREDCHINA",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SAPPHIRECHINA",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SNOWCOAT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_DRACULACLOAK",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_PUMPKINSTYE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_EUROPEANARMOR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_CLOWNWEAR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_COCKWEAR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_BUTLERWEAR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_MAIDROYAL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_KUNOICHI",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_NINJASTYLE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_HIBAKAMA",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SMITHWEAR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_HAPPI",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_HAPPIGIRL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_DESSERTTUXEDO",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_DESSERTDRESS",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_WAGASHIHAORI",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_WAGASHIWEAR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_FRUITSPARLORMAN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_FRUITSPARLORLADY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_KASHINOKITOWNBOY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_KASHINOKITOWNGIRL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_REGERWEAR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_MENOUWEAR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMECATBODY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMEDOGBODY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMEBEARBODY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMEPANDABODY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMEPENGUINBODY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMECOWBODY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_POSTMANWEAR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_DOCTORWEAR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_CHASERWEAR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_APPRENTICEWEAR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_CRAFTMANWEAR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_FLORISTWEAR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_TEAGIRLWEAR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_TEACHERWEAR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_TWIN1WEAR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_TWIN2WEAR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_AMERICAWEDDINGMAN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_AMERICAWEDDINGLADY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_JAPANWEDDINGLADY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_JAPANWEDDINGMAN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SOUTHWEDDINGMAN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SOUTHWEDDINGLADY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_CASQUETTEBROWN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_CASQUETTEBLACK",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_CASQUETTEWHITE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_CASQUETTEBLUE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_TENGALLONHATBROWN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_TENGALLONHATBLACK",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_TENGALLONHATBLUE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_TENGALLONHATRED",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_COWGIRLHAT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_STRAWHAT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_KASAHAT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_HOKKAMURI",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_HACHIMAKI",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_TROPICAL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_KANKANHAT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_KANKANHATWHITE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SOUTHERNSTRAWHAT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_DARKBROWNSTRAWHAT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_FLOWERCROWNWHITE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_FLOWERCROWNRED",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_ORNAMENTFEATHER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_ETHNICHEADBAND",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_KOSAKHAT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_BERET",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_KNITCAP",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_TOPHAT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_STEAMPUNKHAT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_GOGGLE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_GOTHICHEADBAND",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_GORGEOUSHAT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_ELEGANTHAT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_RIBBONPURPLE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_RIBBONRED",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_BONNET",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_BENIKANZASHI",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_FUJIKANZASHI",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_BEKKOUKANZASHI",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_GORGEOUSKANZASHI",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_FLOWERRINGYELLOW",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_FLOWERRINGRED",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_FLOWERRINGWHITE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_MAIDHEADBAND",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_CROWNHAT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_ONIMASK",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_FOXMASK",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_NINJAHOOD",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_WAGASHIHAT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SOFTTOYCAT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…その帽子は…ネコか…？\n…ネコは、かわいいな。"
+    },
+    {
+      "VardId": "MES_FASHION_WITCHHAT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_MONSTERMASK",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_FRUITSPARLORHAT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_DESSERTSILKHAT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_KASHINOKIHAT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_KASHINOKIBANDANA",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_ROYALCROWN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_COCKCAP",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_CATHEADBAND",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_DOGHEADBAND",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMECATHEAD",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMEDOGHEAD",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMEBEARHEAD",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMEPANDAHEAD",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMEPENGUINHEAD",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMECOWHEAD",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_MENOUHAT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_AMERICAWEDDINGLADYHAT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_JAPANWEDDINGLADYHAT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SOUTHWEDDINGLADYHAT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SOUTHWEDDINGMANHAT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_EUROPEANHELM",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_FULLFRAMEBLACK",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_FULLFRAMEBLUE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_FULLFRAMERED",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_FULLFRAMEYELLOW",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_FULLFRAMEGREEN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_UNDERFRAMEBLACK",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_UNDERFRAMEBLUE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_UNDERFRAMERED",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_UNDERFRAMEYELLOW",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_UNDERFRAMEGREEN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_HEAVYFRAMEBLACK",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_HEAVYFRAMEBLUE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_HEAVYFRAMERED",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_HEAVYFRAMEYELLOW",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_HEAVYFRAMEGREEN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_HEAVYFRAMEWHITE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SUNGLASSES",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…サングラスか。\n…人は目でも会話する…という。\n…話が苦手なら…なおさら、な。"
+    },
+    {
+      "VardId": "MES_FASHION_ROUNDSUNGLASSES",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_ROUNDGLASSES",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_MONOCLE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_EYEPATCHBLACK",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_EYEPATCHWHITE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_BUTTERFLYMASK",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_COSTUMEGLASSES",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_STEAMGOGGLE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SETMINO",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SETSAOTOME",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SETKAPPOUGI",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SETCOWGIRL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…その服は、いいな。\n…元気な感じがする…な。"
+    },
+    {
+      "VardId": "MES_FASHION_SETSTEAMPUNKCOAT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SETSTEAMPUNKDRESS",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SETGOTHICSTYLE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SETCLOWNWEAR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SETEUROPEANARMOR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SETHAPPI",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SETHAPPIGIRL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SETCOCKWEAR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SETMAIDROYAL",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SETCOSTUMECATBODY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SETCOSTUMEDOGBODY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nその服は…イヌか…？\n…ネコとは違った良さがあるな。"
+    },
+    {
+      "VardId": "MES_FASHION_SETCOSTUMEBEARBODY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SETCOSTUMEPANDABODY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SETCOSTUMEPENGUINBODY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SETCOSTUMECOWBODY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SETMENOUWEAR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SETDESSERTTUXEDO",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SETDESSERTDRESS",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SETWAGASHIHAORI",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SETWAGASHIWEAR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SETFRUITSPARLORMAN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SETFRUITSPARLORLADY",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SETNINJASTYLE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SETHULADANCEBOYWHITE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SETHULADANCEBOYRED",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SETHULADANCEGIRLWHITE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SETHULADANCEGIRLRED",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SETSNOWCOAT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SETDRACULACLOAK",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SETPUMPKINSTYE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nその服は…かぼちゃか…？\nかぼちゃの色がよく表現されている…。"
+    },
+    {
+      "VardId": "MES_FASHION_SETBUTLERWEAR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SETELEGANTONEPIECE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_FASHION_SETCREAMONEPIECE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…いい服だな。"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_02",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_03",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_04",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_05",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_06",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_07",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_08",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_09",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_10",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_11",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_12",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MAP_FARM_COMMENT_13",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…なんだ？"
+    },
+    {
+      "VardId": "MES_MISSION_START",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nああ、<_____MYNAME_____>。\n<PAGE>\nちょうどいい。\n話したいことがあったんだよ。\n<PAGE>\nすまないが、いっしょに来てくれるかい？"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_A_RANKD_BRIDGE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_A_RANKC_BELLTOWER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_A_RANKC_COLLABO_MENU1",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_A_RANKB_BRONZE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_A_RANKB_COLLABO_PERFUME",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_A_RANKA_GODDESS",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_A_RANKA_COLLABO_MENU2",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_J_RANKD_FARMBRIDGE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_J_RANKC_SPA",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_J_RANKC_COLLABO_MENU",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_J_RANKB_PARK",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_J_RANKB_COLLABO_KANZASHI",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_J_RANKA_INARI",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_J_RANKA_COLLABO_SPA",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_S_RANKD_OUTSIDEKITCHEN",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_S_RANKC_FIRE",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_S_RANKC_COLLABO_FOODSTUFF",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_S_RANKB_INNAROUND",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_S_RANKB_COLLABO_AVATAR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_S_RANKA_PIER",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_STORY_TOWN_S_RANKA_COLLABO_MENU",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nところで…\n頼んでた材料だけど、\nそろったかい？\n<PAGE>\n木材を30個なんだが…。"
+    },
+    {
+      "VardId": "MES_MISSION_CHOICE_00",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nわたす"
+    },
+    {
+      "VardId": "MES_MISSION_CHOICE_01",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nわたさない"
+    },
+    {
+      "VardId": "MES_MISSION_NG",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nそうかい、まああせらなくていいよ。\n材料がそろったら、\nまた持ってきておくれ。"
+    },
+    {
+      "VardId": "MES_MISSION_OK",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nそうかい、持ってきてくれたんだね。\nありがとうよ！"
+    },
+    {
+      "VardId": "MES_MISSION_CANNOT",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n…見たところ、\nまだそろってないようだが…。\n<PAGE>\n材料が全部そろったら、\nまた持ってきておくれ。"
+    },
+    {
+      "VardId": "MES_MISSION_CLEAR",
+      "Text": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n確かに受け取ったよ！\n<PAGE>\nじゃあ準備ができしだい、\nさっそくとりかかるとしよう。\n<PAGE>\nまた呼びに行くから、\n待っていておくれ。"
+    },
+    {
+      "VardId": "MES_MISSION_RESULT_00",
+      "Text": "<MOJI0>を<MOJI1>わたした！"
+    },
+    {
+      "VardId": "MES_MISSION_RESULT_01",
+      "Text": "<MOJI0>を<MOJI1>、\n<MOJI2>を<MOJI3>わたした！"
+    },
+    {
+      "VardId": "MES_MISSION_RESULT_02",
+      "Text": "<MOJI0>を<MOJI1>、\n<MOJI2>を<MOJI3>、\n<MOJI4>を<MOJI5>わたした！"
+    }
+  ]
+}

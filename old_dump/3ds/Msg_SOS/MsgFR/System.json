@@ -1,0 +1,350 @@
+﻿{
+  "Date": "2016-06-10T19:21:59.6816127+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_NOT_FOUND",
+      "Text": "..."
+    },
+    {
+      "VardId": "MES_GET_MONEY",
+      "Text": "J'ai reçu <BLUE>%lld</BLUE> G !"
+    },
+    {
+      "VardId": "MES_WATERING_CAN_WATER_MAX",
+      "Text": "Mon <BLUE>arrosoir</BLUE> est déjà rempli."
+    },
+    {
+      "VardId": "MES_WATERING_CAN_NO_EQUIP",
+      "Text": "Je pourrais remplir un <BLUE>arrosoir</BLUE> ici."
+    },
+    {
+      "VardId": "MES_WATERING_CAN_WATER_EXHAUSTED",
+      "Text": "Mon <BLUE>arrosoir</BLUE> est vide."
+    },
+    {
+      "VardId": "MES_WATERING_CAN_CHARGE_FINISH",
+      "Text": "Mon <BLUE>arrosoir</BLUE> est plein."
+    },
+    {
+      "VardId": "MES_WATERING_CAN_NO_WATER",
+      "Text": "Mon <BLUE>arrosoir</BLUE> est vide. Je dois le remplir d'eau."
+    },
+    {
+      "VardId": "MES_LIFT_BAG_FULL",
+      "Text": "Mon sac est plein. Je ne peux rien ramasser."
+    },
+    {
+      "VardId": "MES_LIVESTOCK_BAG_FULL",
+      "Text": "Mon sac est plein. Je ne peux rien ramasser."
+    },
+    {
+      "VardId": "MES_CROP_BAG_FULL",
+      "Text": "Mon sac est plein. Je ne peux rien récolter."
+    },
+    {
+      "VardId": "MES_NOT_GROWN_UP",
+      "Text": "Attendons que ce soit mûr avant de récolter."
+    },
+    {
+      "VardId": "MES_OVERSLEPT_00",
+      "Text": "Mmmrrr ! J'ai dormi comme un bébé.\nIl est déjà <BLUE>7:00</BLUE> !"
+    },
+    {
+      "VardId": "MES_OVERSLEPT_01",
+      "Text": "Oh non, j'ai trop dormi ! Il est déjà <BLUE>8:00</BLUE> !"
+    },
+    {
+      "VardId": "MES_OVERSLEPT_02",
+      "Text": "Quoi ?! Il est déjà <BLUE>10:00</BLUE> ?\nJe suis <gender male=\"resté\" female=\"restée\"> <gender male=\"éveillé\" female=\"éveillée\"> trop tard hier soir !"
+    },
+    {
+      "VardId": "MES_REMAINING_HP50",
+      "Text": "Pfiou ! Je commence à me sentir <gender male=\"fatigué\" female=\"fatiguée\">..."
+    },
+    {
+      "VardId": "MES_REMAINING_HP20",
+      "Text": "Ouah, je suis vraiment <gender male=\"fatigué\" female=\"fatiguée\">, là..."
+    },
+    {
+      "VardId": "MES_REMAINING_HP10",
+      "Text": "Je suis <gender male=\"épuisé\" female=\"épuisée\">, je crois que je vais m'évanouir..."
+    },
+    {
+      "VardId": "MES_ID_NOT_FOUND",
+      "Text": "NOT FOUND MSG ID:\n<MOJI0>\n<MOJI1>"
+    },
+    {
+      "VardId": "MES_ID_DEVELOPMENT",
+      "Text": "En cours de développement."
+    },
+    {
+      "VardId": "MES_ID_DEBUG_MOJI0",
+      "Text": "<MOJI0>"
+    },
+    {
+      "VardId": "MES_ID_DEBUG_MOJI1",
+      "Text": "<MOJI1>"
+    },
+    {
+      "VardId": "MES_ID_DEBUG_MOJI2",
+      "Text": "<MOJI2>"
+    },
+    {
+      "VardId": "MES_ID_DEBUG_MOJI3",
+      "Text": "<MOJI3>"
+    },
+    {
+      "VardId": "MES_ID_DEBUG_MOJI4",
+      "Text": "<MOJI4>"
+    },
+    {
+      "VardId": "MSG_ATELIER_COMPLETE",
+      "Text": "<cap><article-d> <BLUE><low><ITEMNAME0></BLUE> <adjective male-s=\"est\" female-s=\"est\" male-p=\"sont\" female-p=\"sont\"> en place !"
+    },
+    {
+      "VardId": "MES_CAN_NOT_PUT",
+      "Text": "Je ne peux pas poser ça ici."
+    },
+    {
+      "VardId": "MES_CAN_NOT_GET_OFF",
+      "Text": "Je ne peux pas partir depuis cet endroit."
+    },
+    {
+      "VardId": "MES_INSERT_COIN",
+      "Text": "Je devrais insérer une <BLUE>pièce</BLUE> dans la fente !"
+    },
+    {
+      "VardId": "MES_LETS_INSERT_COIN",
+      "Text": "Je suis en retard, je devrais insérer une <BLUE>pièce</BLUE> !"
+    },
+    {
+      "VardId": "MES_CANNOT_BALOON_MAP",
+      "Text": "Ouah... Ça, c'était rigolo !♪"
+    },
+    {
+      "VardId": "MES_ITEM_FOUND",
+      "Text": "J'ai trouvé <article-i> <BLUE><ITEMNAME0></BLUE> !"
+    },
+    {
+      "VardId": "MES_ITEM_NOT_FOUND",
+      "Text": "Je n'ai rien trouvé..."
+    },
+    {
+      "VardId": "MES_EVENT_SKIP_CHECK",
+      "Text": "Passer la scène ?"
+    },
+    {
+      "VardId": "MES_EVENT_FAST_FORWARD_CHECK",
+      "Text": "Accélérer l'affichage des dialogues ?"
+    },
+    {
+      "VardId": "MES_EVENT_FAST_FORWARD_CANCEL_CHECK",
+      "Text": "Ralentir l'affichage des dialogues ?"
+    },
+    {
+      "VardId": "MES_FARM_NAME_FORMAT",
+      "Text": "Ferme %ls"
+    },
+    {
+      "VardId": "MES_DATE_FORMAT",
+      "Text": "%2d %ls, année %2d, %02d:%02d"
+    },
+    {
+      "VardId": "MES_DATE_SPRING",
+      "Text": "Printemps"
+    },
+    {
+      "VardId": "MES_DATE_SUMMER",
+      "Text": "Été"
+    },
+    {
+      "VardId": "MES_DATE_AUTUMN",
+      "Text": "Automne"
+    },
+    {
+      "VardId": "MES_DATE_WINTER",
+      "Text": "Hiver"
+    },
+    {
+      "VardId": "MES_DATE_WEEK_SUNDAY",
+      "Text": "Dimanche"
+    },
+    {
+      "VardId": "MES_DATE_WEEK_MONDAY",
+      "Text": "Lundi"
+    },
+    {
+      "VardId": "MES_DATE_WEEK_TUESDAY",
+      "Text": "Mardi"
+    },
+    {
+      "VardId": "MES_DATE_WEEK_WEDNESDAY",
+      "Text": "Mercredi"
+    },
+    {
+      "VardId": "MES_DATE_WEEK_THURSDAY",
+      "Text": "Jeudi"
+    },
+    {
+      "VardId": "MES_DATE_WEEK_FRIDAY",
+      "Text": "Vendredi"
+    },
+    {
+      "VardId": "MES_DATE_WEEK_SATURDAY",
+      "Text": "Samedi"
+    },
+    {
+      "VardId": "MES_HP50",
+      "Text": "Pfiou ! Je commence à me sentir <gender male=\"fatigué\" female=\"fatiguée\">..."
+    },
+    {
+      "VardId": "MES_HP20",
+      "Text": "Ouah, je suis vraiment <gender male=\"fatigué\" female=\"fatiguée\">, là..."
+    },
+    {
+      "VardId": "MES_HP10",
+      "Text": "Je suis <gender male=\"épuisé\" female=\"épuisée\">, je crois que je vais m'évanouir..."
+    },
+    {
+      "VardId": "MES_HP0",
+      "Text": "Si <gender male=\"fatigué\" female=\"fatiguée\">... Je ne... tiens plus..."
+    },
+    {
+      "VardId": "MES_AM500",
+      "Text": "Si <gender male=\"fatigué\" female=\"fatiguée\">... Je ne tiens... plus <gender male=\"éveillé\" female=\"éveillée\">..."
+    },
+    {
+      "VardId": "MES_SAVE_DUMMY_FARM_NAME",
+      "Text": "En apprentissage"
+    },
+    {
+      "VardId": "MES_CHANGE_THROW_ITEM_TO_MONEY",
+      "Text": "J'ai reçu <BLUE><MOJI0></BLUE> G !"
+    },
+    {
+      "VardId": "MES_YEAR_EVENT_TRADE_MAP_ENTER_NG",
+      "Text": "<cap><article-d> <RED><MOJI1></RED> a lieu\naujourd'hui ; je ne peux donc pas me rendre\nà la Place du Marché."
+    },
+    {
+      "VardId": "MES_YEAR_EVENT_RECEIVE_TRADE_MAP_ENTER_NG",
+      "Text": "Des préparations sont en cours pour <article-d>\n<RED><MOJI1></RED>. Je ne peux\ndonc pas me rendre à la Place du Marché."
+    },
+    {
+      "VardId": "MES_YEAR_EVENT_RECEIVE_TRADE_MAP_ON_NG",
+      "Text": "Ils vont préparer <article-d> <RED><MOJI1></RED>,\nje ne peux pas rester sur la Place du Marché."
+    },
+    {
+      "VardId": "MES_HAMMER_NOBREAK",
+      "Text": "Cette <BLUE>masse</BLUE> ne peut même pas entamer ce roc."
+    },
+    {
+      "VardId": "MES_SAVE_ADD_1",
+      "Text": "Écrire dans le journal ?"
+    },
+    {
+      "VardId": "MES_SAVE_ADD_2",
+      "Text": "Oui"
+    },
+    {
+      "VardId": "MES_SAVE_ADD_3",
+      "Text": "Non"
+    },
+    {
+      "VardId": "MES_MYSHOP_NOITEM",
+      "Text": "Le stock de mon comptoir est épuisé !"
+    },
+    {
+      "VardId": "MES_ROCK_HARD_0",
+      "Text": "Casser celui-ci va demander beaucoup d'efforts !"
+    },
+    {
+      "VardId": "MES_ROCK_HARD_1",
+      "Text": "J'ai encore du travail..."
+    },
+    {
+      "VardId": "MES_ROCK_HARD_2",
+      "Text": "Ça va encore durer longtemps ?"
+    },
+    {
+      "VardId": "MES_ROCK_HARD_3",
+      "Text": "Je crois que ça commence à marcher..."
+    },
+    {
+      "VardId": "MES_ROCK_HARD_4",
+      "Text": "Je vois une fissure, ça y est !"
+    },
+    {
+      "VardId": "MES_ROCK_HARD_5",
+      "Text": "J'aurai bientôt fini !"
+    },
+    {
+      "VardId": "MES_ROCK_HARD_6",
+      "Text": "Ça commence à se casser !"
+    },
+    {
+      "VardId": "MES_ROCK_HARD_7",
+      "Text": "Encore un petit effort !"
+    },
+    {
+      "VardId": "MES_ROCK_HARD_8",
+      "Text": "J'y suis presque !"
+    },
+    {
+      "VardId": "MES_ROCK_0",
+      "Text": "Casser ceci va me demander un peu d'effort..."
+    },
+    {
+      "VardId": "MES_ROCK_1",
+      "Text": "Je crois que ça commence à marcher..."
+    },
+    {
+      "VardId": "MES_ROCK_2",
+      "Text": "J'aurai bientôt fini !"
+    },
+    {
+      "VardId": "MES_ROCK_3",
+      "Text": "J'y suis presque !"
+    },
+    {
+      "VardId": "MES_TREE_HARD_0",
+      "Text": "Abattre celui-ci va demander beaucoup d'efforts."
+    },
+    {
+      "VardId": "MES_TREE_HARD_1",
+      "Text": "Je crois que ça commence à marcher..."
+    },
+    {
+      "VardId": "MES_TREE_HARD_2",
+      "Text": "Je dois être à la moitié..."
+    },
+    {
+      "VardId": "MES_TREE_HARD_3",
+      "Text": "Encore un petit effort !"
+    },
+    {
+      "VardId": "MES_TREE_0",
+      "Text": "Abattre celui-ci va demander quelques efforts."
+    },
+    {
+      "VardId": "MES_TREE_1",
+      "Text": "J'y suis presque !"
+    },
+    {
+      "VardId": "MES_UNLOCK_SPECIAL_CARD",
+      "Text": "Une <BLUE>Carte spéciale</BLUE> a été ajoutée à ma bibli."
+    },
+    {
+      "VardId": "MES_KOYA_0",
+      "Text": "Étable<f'>"
+    },
+    {
+      "VardId": "MES_KOYA_1",
+      "Text": "Poulailler<m>"
+    },
+    {
+      "VardId": "MES_KOYA_2",
+      "Text": "Maison des animaux<f>"
+    }
+  ]
+}

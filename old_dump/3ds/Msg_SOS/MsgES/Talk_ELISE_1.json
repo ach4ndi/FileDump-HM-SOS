@@ -1,0 +1,1086 @@
+﻿{
+  "Date": "2016-06-10T19:21:44.9777008+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_FIRST_MEETING",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nEh, tú. Sí, estoy hablando contigo.\nNo te había visto nunca por aquí.\n¿A qué esperas? Vamos, preséntate.\n<PAGE>\nMmm... conque esas tenemos.\nAsí que eres <MYNAME>, <gender male=\"el nuevo granjero\" female=\"la nueva granjera\">.\nYo me llamo <BLUE>Elise</BLUE>.\n<PAGE>\n<FACE_SPECIAL>Cuando te dirijas a mí, cabe que me llames\nseñorita Elise, ¿entendido? Eso es todo.\nYa puedes retirarte."
+    },
+    {
+      "VardId": "MES_MORNING_00",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nOh, <MYNAME>. Buenos días."
+    },
+    {
+      "VardId": "MES_MORNING_01",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SPECIAL>\nBuenos días, <MYNAME>. Lo primero\nque has hecho hoy es venir a verme, ¿no?\nBien, veo que sabes cuáles son tus prioridades."
+    },
+    {
+      "VardId": "MES_MORNING_02",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nBien, ¿qué te trae por aquí a estas horas?"
+    },
+    {
+      "VardId": "MES_AFTERNOON_00",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nBuenas tardes, <MYNAME>.\n¿No es un poco tarde para venir a saludar?"
+    },
+    {
+      "VardId": "MES_AFTERNOON_01",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nBuenas tardes, <MYNAME>.\n¿Qué haces por estos parajes?"
+    },
+    {
+      "VardId": "MES_AFTERNOON_02",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nOh, buenas tardes. ¿Cómo estás?"
+    },
+    {
+      "VardId": "MES_EVENING_00",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nBuenas noches, <MYNAME>. ¿Te dignas\na saludarme a esta hora? ¡No habría estado\nde más que hubieses venido antes!"
+    },
+    {
+      "VardId": "MES_EVENING_01",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\n¿Qué te trae por aquí bien entrada la noche?\nEstoy ocupada, así que ya puedes darte prisa,\nsea lo que fuere."
+    },
+    {
+      "VardId": "MES_EVENING_02",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\n¡Uf! Me he pasado la jornada trabajando. Creo\nque me merezco un descanso. Quizá debería\npedir a mis sirvientas que me den un masaje..."
+    },
+    {
+      "VardId": "MES_LOVER_MORNING_00",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nBuenos días, <MYNAME>.\n¡N-no me he puesto más contenta por verte\nni nada por el estilo!"
+    },
+    {
+      "VardId": "MES_LOVER_MORNING_01",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nBuenos días. ¡Qué día tan maravilloso!\nEspecialmente ahora que estás aquí.\n<PAGE>\n<FACE_LOVE>Uy, no, ¡olvida lo que he dicho!"
+    },
+    {
+      "VardId": "MES_LOVER_MORNING_02",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nVaya, qué pronto me honras con tu presencia.\nTenías muchas ganas de verme, ¿verdad?\n<PAGE>\n<FACE_LOVE>Ay, se supone que deberías negarlo, ¿sabes?\nSi contestaras que sí, no podría evitar\nsonrojarme."
+    },
+    {
+      "VardId": "MES_LOVER_AFTERNOON_00",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nBuenas tardes, <MYNAME>. Aquí estamos,\ntrabajando duro desde antes de que cantara\nel primer gallo. Dormir no es lo nuestro...\n<PAGE>\n<FACE_LOSS>Siempre me entran ganas de dormir la siesta\na estas horas..."
+    },
+    {
+      "VardId": "MES_LOVER_AFTERNOON_01",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nBuenas tardes, <MYNAME>. Mmm...\nya ha transcurrido media jornada. ¡Vamos a dar\nlo mejor de nosotros en esta mitad que queda!"
+    },
+    {
+      "VardId": "MES_LOVER_AFTERNOON_02",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\n¡Aaah! ¿Qué haces apareciendo así de repente?\n<PAGE>\n<FACE_LOVE>¡N-no es que me hayas sorprendido\nporque precisamente estuviera pensando en ti\nni nada por el estilo...!"
+    },
+    {
+      "VardId": "MES_LOVER_EVENING_00",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\nComo tardabas tanto en venir, pensaba\nque habías enfermado. Pero si estás rebosante\nde salud, ¿cuál es tu excusa?"
+    },
+    {
+      "VardId": "MES_LOVER_EVENING_01",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nOh, ¿has venido a verme a esta hora?\n¿Qué te ha retenido durante todo el día?"
+    },
+    {
+      "VardId": "MES_LOVER_EVENING_02",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nHola, <MYNAME>.\nA ver si lo adivino... El simple hecho de verme\nhace que la fatiga de tu jornada se desvanezca.\n<PAGE>\n<FACE_LOVE>¿Y me respondes que sí de buenas a primeras?\nTanta sinceridad va a ser tu perdición."
+    },
+    {
+      "VardId": "MES_MARRIAGE_MORNING_00",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nBuenos días, <MYNAME>.\nSe te cae la baba... ¡qué falta de decoro!\nVe a lavarte la cara, anda."
+    },
+    {
+      "VardId": "MES_MARRIAGE_MORNING_01",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOVE>\nBuenos días, <MYNAME>...\n¿Sabes que has pronunciado mi nombre\nmientras dormías?\n<PAGE>\nMe gustaría saber qué estabas soñando."
+    },
+    {
+      "VardId": "MES_MARRIAGE_MORNING_02",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nBuenos días, <MYNAME>.\nVamos a dar lo mejor de nosotros hoy."
+    },
+    {
+      "VardId": "MES_MARRIAGE_AFTERNOON_00",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_ANGRY>\nYa es mediodía, ¿sabes, <MYNAME>?\nSe supone que somos pareja y, como tal,\ndeberíamos hablar más a menudo."
+    },
+    {
+      "VardId": "MES_MARRIAGE_AFTERNOON_01",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nNo importa cuán ocupados estemos,\n<MYNAME>. Jamás deberíamos olvidar darnos\nlos buenos días. Es una señal de respeto."
+    },
+    {
+      "VardId": "MES_MARRIAGE_AFTERNOON_02",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\n¿Todavía no has terminado de trabajar,\n<MYNAME>?\n<PAGE>\nSi estás ocupado, puedo prestarte ayuda."
+    },
+    {
+      "VardId": "MES_MARRIAGE_EVENING_00",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_ANGRY>\n¡Atiza! Has dejado a tu mujer solita\ny abandonada todo el día. ¿En qué\nestabas pensando?"
+    },
+    {
+      "VardId": "MES_MARRIAGE_EVENING_01",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nBienvenido a casa, <MYNAME>.\nPuesto que me has dejado sola todo el día,\nahora tendrás que pasar tiempo conmigo.\n<PAGE>\n<FACE_LOVE>Me he sentido muy sola, ¿sabes?\n¿Qué quieres decir con que estoy más simpática\nque de costumbre? ¡Yo siempre soy simpática!"
+    },
+    {
+      "VardId": "MES_MARRIAGE_EVENING_02",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nHola, ¿ya has terminado de trabajar?\nMagnífico, entonces podemos pasar tiempo\njuntos. Tengo tantas cosas que contarte..."
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_SPRING",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nHoy hace un día espléndido, ¿no te parece?\nUn día inmejorable para degustar\nuna buena taza de té en el jardín."
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_SPRING",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\nPuaj... qué lluvia más repugnante.\nNo soporto salir afuera con este tiempo.\nMi vestido se pone hecho una porquería..."
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_SUMMER",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_ANGRY>\n¡Qué calor tan atroz! Si hoy salgo a trabajar,\nese sol terrible dañará mi pobre piel\ndelicada como la seda..."
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_SUMMER",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\nNo puedo con esta humedad. Días como este\nson para pasarlos en casa y punto."
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_AUTUMN",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nDicen que el clima otoñal es impredecible,\npero lo cierto es que hoy hace buen día.\nEspero que todos sean así."
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_AUTUMN",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nCon la lluvia el tiempo refresca, sobre todo\nahora que se acerca el invierno. Debería\npedirle mi capa favorita a una de mis sirvientas."
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_WINTER",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\nBrrr... Qué frío hace...\nTendría que haber cogido la chaqueta."
+    },
+    {
+      "VardId": "MES_WEATHER_SNOW",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\n¡Jo, jo! ¡Cómo disfruto con una buena nevada!\nEspero que cuaje y quede una capa bien espesa."
+    },
+    {
+      "VardId": "MES_WEATHER_TYPHOON",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\nAaah... ¡¿Eso ha sido un trueno?!\nHa sonado tan fuerte... Me pregunto\nsi el relámpago habrá alcanzado la tierra.\n<PAGE>\nOye, <MYNAME>...\nNo es seguro que salgas ahora.\nEs mejor que te quedes aquí. ¿Entendido?"
+    },
+    {
+      "VardId": "MES_WEATHER_HEAVYSNOW",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\n¡Atiza! ¡Mira cuánta nieve!\nTe entran ganas de salir, ¿verdad? ♪"
+    },
+    {
+      "VardId": "MES_MARRIAGE_WEATHER_TYPHOON",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\nParece que no para de tronar...\nOye, <MYNAME>, no estarás pensando\nen salir, ¿verdad?\n<PAGE>\n<FACE_SAD>Es demasiado peligroso. Quedémonos aquí\ny pasemos tiempo juntos. No me dejes\naquí sola, por favor..."
+    },
+    {
+      "VardId": "MES_MARRIAGE_WEATHER_HEAVYSNOW",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nHay muchísima nieve. Si tienes pensado salir,\nten cuidado. No vayas a resbalarte en la calle\ny a hacerte daño, o incluso algo peor..."
+    },
+    {
+      "VardId": "MES_BLESSING_LOVER",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nPero mira a quién tenemos aquí...\nA <MYNAME>, <gender male=\"el más romántico\" female=\"la más romántica\">\ndel momento.\n<PAGE>\nTodo el mundo habla de ti, ¿lo sabías?\n<PAGE>\nNo es que sea de mi incumbencia.\nSal con alguien, corta... Qué más da...\nBueno, mis mejores deseos para ti."
+    },
+    {
+      "VardId": "MES_SCHEDULE_RESTAURANT_00",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nLa comida que sirven en el restaurante\nes decente y el cocinero es muy amable.\nTampoco tengo nada que objetar del ambiente."
+    },
+    {
+      "VardId": "MES_SCHEDULE_RESTAURANT_01",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nEste restaurante siempre está abarrotado\nde chicas. He oído que no hace mucho vino\ntodo un grupo de ellas desde otro pueblo.\n<PAGE>\nLo más probable es que vengan solo\npara echarle el ojo a Raeger. Salta a la vista\npor qué, pero lo cierto es que no es mi tipo."
+    },
+    {
+      "VardId": "MES_HOUSE_PINPOINT_00",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\n¡¿Qué crees que estás haciendo en el jardín\nde otra persona?! No me digas que estás\ninvestigando el nivel de la competencia..."
+    },
+    {
+      "VardId": "MES_HOUSE_PINPOINT_01",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nMmm... Quiero esto, eso de ahí y aquello.\nOh, ¡y esto de aquí también!\n¡Jo, jo! ¡Cómo me gusta ir de compras! ♪"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_00",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nTengo entendido que recorres este sendero\nde montaña todos los días. En cierto sentido,\ndebo decir que tienes mi respeto por eso."
+    },
+    {
+      "VardId": "MES_AREA_FOREST_01",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\nUf, estoy agotada. Antes de mudarme\na este pueblo, me desplazaba en coche\na todos los sitios, ¿sabes?\n<PAGE>\nTodavía no me he acostumbrado a caminar\npor estos senderos de montaña. De hecho,\ntengo mis dudas de si llegaré a hacerlo..."
+    },
+    {
+      "VardId": "MES_AREA_RIVER_00",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\nPuede que haya venido andando hasta aquí,\npero no lo he disfrutado. ¡Tantos bichos\ny animales salvajes me ponen de los nervios!"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_01",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\nMontañas, ríos, más montañas y ¡para\nde contar! Este pueblo es puro campo. Todo lo\nque el ojo humano alcanza a ver es naturaleza.\n<PAGE>\nNo sé por qué se le ocurriría a Padre\nposeer tierras en un lugar como este,\nen medio de la nada."
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_00",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nHe oído que estas tierras favorecen\nel cultivo de fruta y hojas de té.\n<PAGE>\n<FACE_LAUGH>Si consigo hacer un buen uso de ellas,\npodré deleitarme con magníficos tés."
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_01",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\nLas laderas de estos parajes no es que sean\nexcesivamente empinadas, pero mis pies\nse resienten.\n<PAGE>\n<FACE_ANGRY>¿Cómo? ¿Vas a quedarte ahí plantado\ne ignorar a una doncella en apuros?\n¡Ya estás tardando en ayudarme!"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_02",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\n¿Quién se encarga de estos cultivos?\n<PAGE>\n¿Cómo? ¿La señora Eda? ¿En serio?\nMmm... Tengo que admitir que esto\nse le da bastante bien."
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_00",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\nA las setas les va muy bien la humedad. A mí,\nen cambio, me sienta fatal, así que intento\nmantener las distancias con ellas.\n<PAGE>\n<FACE_SAD>Y no solo se trata de la humedad. Nunca se sabe\nqué clase de insecto estará escondido entre la\nhierba. ¡Solo pensarlo me pone la piel de gallina!"
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_01",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nPercibo un olorcillo dulce en el aire.\nEs magnífico como el aroma de las flores\ny la miel se propaga por el viento..."
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_02",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nUn jardín de flores exquisito.\nEsto tiene que ser obra de ese señor tan jovial.\n<PAGE>\nSabe lo que hace, tengo que admitirlo.\nSupongo que alguna razón tendrá\npara no quitarles el ojo de encima."
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_00",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\nUy, el trayecto desde aquí a casa\nes considerablemente largo...\n<PAGE>\nSería mucho más sencillo si pudiera aclarar\nun poco el bosque que hay alrededor de mi\nmansión para construirme una parcela de tierras.\n<PAGE>\n<FACE_NORMAL>Pero supongo que de eso ni hablar. Ya hubo\nbastante drama con la construcción de mi\nmansión. Si sigo así, me echarán del pueblo."
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_01",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nEste lugar es inmenso, pero está un poco\nalejado de mi mansión. Dime, ¿qué clase\nde cultivos crecen bien por aquí?"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_02",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\nEn este lugar hay espacio más que suficiente\npara plantar cultivos. Me dolería profundamente\nque se estropeara por culpa de ese jovenzuelo.\n<PAGE>\nA decir verdad, este lugar tendría mejor fortuna\nsi estuviera en mis manos..."
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_00",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nJamás había visto una noria de agua hasta\nque llegué aquí. En el pueblo donde solía vivir,\ntodo el mundo usaba bombas de agua."
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_01",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nEstas son las tierras que quedan más cerca\nde mi mansión y las más fáciles de trabajar."
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_02",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nHola, <MYNAME>. ¿Qué estás haciendo aquí?\n<PAGE>\n¿Has venido a ver las tierras que estoy usando?\n<PAGE>\n<FACE_SPECIAL>No hace falta que expreses tu opinión.\nEstoy segura de que puedes apreciar\nque son una maravilla."
+    },
+    {
+      "VardId": "MES_AREA_OTHER_00",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\nLos habitantes de este pueblo son\nfáciles de tratar. Supongo que...\nasí es como son las cosas por estos parajes.\n<PAGE>\nAdemás, todo el mundo es muy amable,\nincluso demasiado... hasta el punto que roza\nlo extraño, ¿no te parece?"
+    },
+    {
+      "VardId": "MES_AREA_OTHER_01",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\nNo entiendo que la gente pueda vivir\nen casas tan pequeñas...\n<PAGE>\nSi yo tuviera una casa tan pequeña,\ncreo que no me cabría toda la ropa.\nY yo me subiría por las paredes."
+    },
+    {
+      "VardId": "MES_HEART_WHITE",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SPECIAL>\n¿Te agrada mi mansión?\nBien, entonces acepta esta invitación especial."
+    },
+    {
+      "VardId": "MES_HEART_PURPLE",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nTengo que poseer todo lo que sea bonito\ny adorable.\n<PAGE>\nAsí que si crees que tienes algo que pueda\ngustarme, te agradecería que me lo mostraras.\n<PAGE>\nSi me agrada, puedo añadirlo a mi colección."
+    },
+    {
+      "VardId": "MES_HEART_BLUE",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\nUf, cada día reina el trabajo y la monotonía.\n¿Acaso nunca ocurre nada interesante\nen este pueblo?"
+    },
+    {
+      "VardId": "MES_HEART_GREEN",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\n¿Mmm? ¿Que crees que soy hija única\no la hija pequeña?\n<PAGE>\nA decir verdad, tengo una hermana mayor,\nasí que estás en lo cierto, soy la pequeña...\n¿Cómo lo has sabido?"
+    },
+    {
+      "VardId": "MES_HEART_YELLOW",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nCuando visité la posada el otro día, el personal\nestaba excesivamente preocupado porque\nse habían quedado sin pan para los clientes...\n<PAGE>\n<FACE_LOSS>¿De verdad se trata de una catástrofe de tales\ndimensiones? Es que ya me dirás qué problema;\nsi no tienes pan, dales de comer tarta.\n<PAGE>\nY problema arreglado, ¿no crees?\nAy, ¿por qué siempre tengo que estar en todo?"
+    },
+    {
+      "VardId": "MES_HEART_ORANGE",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nLas dos hermanas de la posada siempre\nestán juntas, ¿a que sí? Igual que mi hermana\ny yo cuando éramos pequeñas."
+    },
+    {
+      "VardId": "MES_HEART_RED",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\n<WINDOW_PLEASANT_R>Eres una persona muy generosa.\nDemasiado, incluso. No, no me malinterpretes;\nte estaba haciendo un cumplido.\n<PAGE>\nPor ello, me complace honrarte\ncon mi amistad. ♪"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_WHITE",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_ANGRY>\n¡Atiza! ¿Acaso <MYNAME> está hablando\nconmigo? Qué extraño... ¡no llega\npalabra alguna a mis oídos!"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_PURPLE",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\nTe agradecería que fueras más caballeroso.\nConsidéralo una petición de tu novia."
+    },
+    {
+      "VardId": "MES_LOVER_HEART_BLUE",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nNo se encuentra una chica como yo\ntodos los días, ¿sabes? Grábatelo en la cabeza,\ny tampoco te olvides de agradecérmelo. ♪"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_GREEN",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nParece que todo el mundo está empeñado\nen saber hasta el más mínimo detalle\nsobre nosotros.\n<PAGE>\n\"¿Cuál es vuestro lugar favorito para quedar?\";\n\"¿Quién dio el primer paso?\"; siempre lo mismo,\nuna y otra vez...\n<PAGE>\n<FACE_LOVE>Pero no temas. Nuestros recuerdos juntos\nson un tesoro y no los compartiré con nadie."
+    },
+    {
+      "VardId": "MES_LOVER_HEART_YELLOW",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nSabes, me he dado cuenta de que las vidas\nde la gente corriente pueden llegar a ser\nmuy interesantes a su manera.\n<PAGE>\nEs un tema al que nunca había prestado\nespecial atención, pero desde que me planteé\nque viviéramos juntos...\n<PAGE>\n<FACE_LOVE>N-no me digas que acabo de...\nNo he dicho nada y tú no has oído nada,\n¿ha quedado claro?"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_ORANGE",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\n<WINDOW_HEART1_R>A tu lado no hay dos días iguales, <MYNAME>.\nCada día es una nueva experiencia.\n<PAGE>\nProméteme que te quedarás conmigo\npara siempre."
+    },
+    {
+      "VardId": "MES_LOVER_HEART_RED",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nAmbos sabemos que soy una niña consentida.\nPero a ti no te importa y siempre me recibes\ncon una sonrisa. Requiero una explicación.\n<PAGE>\n¿Por qué siempre eres tan generoso?\nTan amable, tan cariñoso y paciente... Si\nestamos juntos, es gracias a ti. Lo sabes, ¿no?\n<PAGE>\n<FACE_LOVE>Así que... gracias, <MYNAME>.\nGracias por aceptarme tal como soy."
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_WHITE",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nHola, <MYNAME>.\n¿Cuánto hace que estás aquí? Debes de estar\nacostumbrado a que no noten tu presencia."
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_PURPLE",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\nUfff, ¿quién se podría imaginar que la vida\nde casada fuera tan aborrecedora?\nLo cierto es que me esperaba mucho más."
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_BLUE",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\nHe oído que la gente puede cambiar\ndespués del matrimonio y no siempre para bien.\nCambiar no entra en tus planes, ¿verdad?"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_GREEN",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nAl final, la vida de una persona normal\ny corriente tampoco está tan mal.\n<PAGE>\nNo me malinterpretes. No estoy diciendo\nque sea fácil ocuparse de todo. Pero en cierto\nsentido estoy disfrutando de la experiencia."
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_YELLOW",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\nOye, <MYNAME>.\n¿Qué opinión te sugieren mis artes culinarias?\n<PAGE>\nTomé algunas clases de cocina hace tiempo,\npero lo cierto es que jamás había cocinado para\nnadie hasta que nos casamos. ¿Qué tal lo hago?"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_ORANGE",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nQué sensación más rara... Me sentía más sola\nviviendo rodeada de sirvientes en mi mansión\nque viviendo en esta casita contigo.\n<PAGE>\n<FACE_LOVE>Conocerte ha sido lo mejor que me ha pasado\nen la vida."
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_RED",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\n¿Qué...? ¿De verdad que me estás preguntando\nsi te quiero, así de buenas a primeras?\n<PAGE>\n<FACE_LOVE>¡¿P-por qué razón me preguntas algo así?!\n¡¿Acaso no sabes la respuesta?!\n<PAGE>\n<WINDOW_HEART2_R>¡Muy bien, de acuerdo! ¡Escúchame\ncon mucha atención porque solo voy a decirlo\nuna vez! Te quiero, <MYNAME>...\n<PAGE>\nHala, ¿estás contento? ¡Bórrate esa sonrisa\nde la cara ahora mismo! ¡Estás haciendo\nque me sonroje!"
+    },
+    {
+      "VardId": "MES_LOVERS_00",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nAhora eres mi novio, así que no estés nervioso.\n¡Deberías sentirte orgulloso!"
+    },
+    {
+      "VardId": "MES_LOVERS_01",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nHemos pasado tan poco tiempo juntos... pero\nmi corazón me dice que siempre me estarás\nagradecido por honrarte con mi compañía."
+    },
+    {
+      "VardId": "MES_LOVERS_02",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nSe te ha sido otorgado el privilegio único\nde una segunda oportunidad conmigo.\nNo hay mayor regalo en todo el mundo.\n<PAGE>\nEn resumen: esta es tu última oportunidad.\nMás te vale tratarme mejor esta vez."
+    },
+    {
+      "VardId": "MES_ENGAGEMENT",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nArdo en deseos de que llegue el día de nuestra\nboda. Me apena que mi familia no pueda asistir,\npero asuntos urgentes requieren su atención...\n<PAGE>\n<FACE_LAUGH>Aun así, se lo contaré todo por carta. Por ello,\nhabrá que cerciorarse de que tenga infinidad\nde cosas sobre las que escribir."
+    },
+    {
+      "VardId": "MES_MARRIAGE_00",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOVE>\nEn la boda estabas tan guapo...\nOdio admitirlo, pero volví a enamorarme de ti."
+    },
+    {
+      "VardId": "MES_MARRIAGE_01",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\nNo me puedo imaginar que lleve un bebé\nen mi barriga. Quiero decir... ¿justo aquí?\n¿Un bebé? ¿En serio?"
+    },
+    {
+      "VardId": "MES_MARRIAGE_02",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\n¡Ay! Oh, ¡nuestro bebé acaba de moverse!\n¡Jo, jo, jo! Puedo sentirlo. ¡Está aquí de verdad!"
+    },
+    {
+      "VardId": "MES_MARRIAGE_03",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nNuestro bebé está a punto de nacer.\n¡Jo, jo, jo! ¡Qué ilusión! ¿Qué crees\nque será, niño o niña?"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_00",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nNo cabe duda de que son hijos nuestros.\n¡Y son una preciosidad! Qué ganas tengo\nde verlos crecer."
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_01",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nYa es oficial, nuestros pequeñines gatean\na la perfección.\n<PAGE>\n<FACE_LAUGH>Si es que aprenden rapidísimo.\nEn eso se parecen a ti, <MYNAME>."
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_02",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nA medida que crece, <CHILD_NAME_M>\nse parece cada vez más a ti.\n<PAGE>\nPero <CHILD_NAME_W> ha salido más a mí,\n¿no estás de acuerdo? No sé de qué\nme sorprendo... de tal palo, tal astilla."
+    },
+    {
+      "VardId": "MES_PRESENT_BEST",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SPECIAL>\n<WINDOW_PLEASANT_R>Oh, ¿me das <demonst male-s=\"este\" female-s=\"esta\" male-p=\"estos\" female-p=\"estas\"> <BLUE><low><ITEMNAME0></BLUE>?\nAy, ¡qué bonito detalle por tu parte!\n<PAGE>\nLo acepto con mucho gusto. Gracias."
+    },
+    {
+      "VardId": "MES_PRESENT_VERY",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SPECIAL>\n¿Has elegido este regalo especialmente para mí?\nVeo que alguien está al tanto de mis gustos.\n<PAGE>\nLo acepto con suma gentileza. ¡Gracias!"
+    },
+    {
+      "VardId": "MES_PRESENT_LIKE",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SPECIAL>\nVaya, qué detalle tan considerado. ¡Gracias!"
+    },
+    {
+      "VardId": "MES_PRESENT_NORMAL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nVaya, ¿vienes a darme un regalo?\nLo acepto con toda humildad."
+    },
+    {
+      "VardId": "MES_PRESENT_DISLIKE",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\nNo se te da muy bien esto de elegir regalos\npor lo que veo. Me sorprende tu gusto...\nBueno, esta vez te lo acepto."
+    },
+    {
+      "VardId": "MES_PRESENT_HATE",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\nBien, vamos a ponernos serios.\n¿Qué te ha hecho pensar que esto me gustaría?\n<PAGE>\nDejar que se eche a perder solo agravaría\ntu vergüenza, así que tendré que aceptarlo.\nPero la próxima vez esfuérzate más."
+    },
+    {
+      "VardId": "MES_PRESENT_WORST",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\n<WINDOW_DISCOURAGEMENT_R><BLUE><ITEMNAME0></BLUE>...\nNi se te ocurra acercarte a mí con eso\nen brazos. ¡No lo quiero!\n<PAGE>\n<FACE_ANGRY>Te he dicho que no lo quiero...\nMuy bien, dejaré que se lo disputen\nmis sirvientes. Pero ¡yo no pienso ni tocarlo!"
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_VERY",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nOh, ¿es para mí? ¡Gracias!\n<PAGE>\n¡Me agrada especialmente como brilla,\ny tiene un aspecto muy dulce!"
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_NORMAL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nVaya, cosas como esta no es que abunden\nprecisamente por aquí. Ah, ¿que es para mí?\n¡Gracias!"
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_DISLIKE",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\nMmm... lo cierto es que mentiría si te dijera\nque me llena de alegría... pero si insistes\nvoy a tener que aceptarlo."
+    },
+    {
+      "VardId": "MES_PRESENT_CANNOT",
+      "Text": "Ahora no es un buen momento\npara darle un regalo..."
+    },
+    {
+      "VardId": "MES_PRESENT_RESERVE",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\n¿Qué es eso? ¿Una limosna? ¿Te parezco\nla clase de persona que aceptaría semejante\ncosa de alguien desconocido?\n<PAGE>\n<FACE_NORMAL>No lo pienso coger. Quítalo de mi vista."
+    },
+    {
+      "VardId": "MES_LOVER_PRESENT_RESERVE",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_ANGRY>\nVaya, si <MYNAME> ha decidido honrarnos\ncon su presencia... Has desaparecido todo\neste tiempo y ahora vienes con un regalo.\n<PAGE>\nIncluso tú deberías saber que las cosas no\nfuncionan así. Al menos no después de haber\ndejado sola a tu novia durante tanto tiempo."
+    },
+    {
+      "VardId": "MES_MARRIAGE_PRESENT_RESERVE",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_ANGRY>\nNo soy la clase de chica que puedes comprar\ncon regalos, ¿sabes?\n<PAGE>\nSoy tu mujer y me has dejado sola durante\nmucho tiempo. Si quieres arreglarlo, deja\nde ignorarme y hablemos como una pareja."
+    },
+    {
+      "VardId": "MES_PRESENT_SECONDTIME",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nOh, jamás podría aceptar un tributo semejante\nde una persona normal y corriente. Por favor,\na ti te hace más falta que a mí."
+    },
+    {
+      "VardId": "MES_LOVER_PRESENT_SECONDTIME",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nNo estoy saliendo contigo por los regalos,\n¿sabes? No requiero tal cantidad.\n<PAGE>\n<FACE_LAUGH>Aunque es todo un detalle. Gracias."
+    },
+    {
+      "VardId": "MES_MARRIAGE_PRESENT_SECONDTIME",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nTe agradezco el detalle, pero hoy\nya me has colmado de regalos. Aceptar otro\nya me parecería excesivo. Aunque gracias."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_BEST",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\n<WINDOW_PLEASANT_R>Oh, ¿<demonst male-s=\"este\" female-s=\"esta\" male-p=\"estos\" female-p=\"estas\"> <BLUE><low><ITEMNAME0></BLUE> es para mí?\n¡No hay nada mejor en el mundo!\n<PAGE>\n<FACE_SPECIAL>¿Lo has preparado especialmente para mí?\n¿Como regalo de cumpleaños? ¡Veo que no\nse te escapa una! ♪"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_VERY",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SPECIAL>\nOh, ¡qué maravilla de regalo de cumpleaños!\n¡Tu buen gusto no da lugar a dudas,\n<MYNAME>! ¡Gracias!"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_LIKE",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SPECIAL>\nAsí que ¿esta ha sido tu opción definitiva como\nregalo de cumpleaños? Una elección... sabia.\nLo digo en serio. Es increíble."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_NORMAL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nBien, veo que te has acordado\nde mi cumpleaños. Acepto tu regalo."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_DISLIKE",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_ANGRY>\n¿Que me regalas qué cosa? ¿Acaso se trata\nde un complot para arruinar mi cumpleaños?"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_HATE",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_ANGRY>\n¡No me puedo creer que hayas venido\nhasta aquí para regalarme esto\npor mi cumpleaños!\n<PAGE>\nMuy bien, lo acepto. Pero ¡ya te aviso\nque lo más probable es que vaya\ndirecto a la basura!"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_WORST",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_ANGRY>\n¿Me regalas <article-i> <BLUE><low><ITEMNAME0></BLUE>\npor mi cumpleaños? ¡¿Y vienes tan campante?!\n<PAGE>\nLa próxima vez puedes arrancar directamente\nlas primeras flores que te encuentres por la calle.\nAnonadada me hallo. Deberías esforzarte más."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_VERY",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\n¡Me agrada porque es brillante y dulce,\nexactamente igual que yo! Es un regalo\nde cumpleaños fabuloso, <MYNAME>. Gracias."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_NORMAL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nOh, qué bonito... Ejem, sí, es algo\ntotalmente aceptable. Una elección\nsorprendentemente acertada."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_DISLIKE",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\nDebo admitir que tiene un brillo muy bonito...\npero eso no quita el hecho\nde que habría preferido otra cosa..."
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_RABBIT",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nLo cierto es que antes de venir aquí\nno había caído en la cuenta de que el hábitat\nnatural de los conejos fuera el campo.\n<PAGE>\nSiempre los había visto en tiendas de mascotas\ny zoológicos. Me quedé atónita la primera vez\nque los vi corretear libremente por el campo."
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_FOX",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\n¡¿Q-qué clase de animal es ese y por qué\ntiene esos ojos tan espeluznantes...?!\n¡No des ni un paso más!"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_OKOJO",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\n¿Cómo se llama ese animal? ¿\"Armiño\", dices?\nUn nombre muy raro para una criatura\ntodavía más extraña."
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_SIFAKA",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nBien... ¿qué tiene de especial este mono?\nOh, disculpa mi ignorancia, ¿es un sifaca?\nVaya, me asombra lo poco que me importa."
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_PENGUIN",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\n¡Qué adorable! Pocas veces tengo la oportunidad\nde ver un pingüino tan de cerca. ¡Jo, jo, jo!"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_MONKEY",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_ANGRY>\nOye, ni se te ocurra acercarte con eso.\n<PAGE>\nN-no, no tengo nada en contra de los monos.\n¡Solo quiero que desaparezca de mi vista!"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_PARROT",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nOh, eso es... un loro, ¿me equivoco?\nMi tío solía tener uno..."
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_OTHER",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\n¿Acaso siempre paseas con animales?\n<PAGE>\nMira, no es asunto mío, pero ten presente\nque no es un espectáculo al agrado de todos.\nSolo es una opinión."
+    },
+    {
+      "VardId": "MES_ANGORA",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nOh, eso es un conejo de Angora, ¿no es cierto?\nTiene un pelaje precioso y muy suave.\nEspecialmente en las orejas."
+    },
+    {
+      "VardId": "MES_CHICK",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nHay un polluelo en la granja al que parece\nque le gusto mucho.\n<PAGE>\n<FACE_LOSS>Pero es muy chiquitín y parece empeñado\nen seguirme. Siempre tengo miedo de pisarlo\nsin querer..."
+    },
+    {
+      "VardId": "MES_HEN",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nLas gallinas son muy madrugadoras, ¿verdad?\nAl principio no podía soportar su cocorocó,\npero creo que ahora ya me he acostumbrado."
+    },
+    {
+      "VardId": "MES_DOG",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\n¡Jo, jo, jo! ¡Qué cosita tan adorable!\nMe encantan los perros. Solía tener muchos\nen mi antigua casa, antes de mudarme aquí."
+    },
+    {
+      "VardId": "MES_FAT_DOG",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nVaya, tiene un aspecto algo \"redondito\".\nQuizá le vendría bien un poco de ejercicio.\nAunque no digo que no sea una monada."
+    },
+    {
+      "VardId": "MES_LARGEDOG",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nMe gustan los perros inteligentes.\n¿Qué opinas tú?\n<PAGE>\n<FACE_LAUGH>Vaya, acaba de ladrar. Es como si dijera\n\"¡Soy listo!\". Claro que lo eres, ¡por supuesto!\nVen aquí, pequeñín."
+    },
+    {
+      "VardId": "MES_FAT_LARGEDOG",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nDesconocía que los perros pudieran llegar\na tener estas dimensiones. Es sorprendente.\n<PAGE>\nA decir verdad, me parece bastante adorable,\npero lo cierto es que el perro está obeso."
+    },
+    {
+      "VardId": "MES_CAT",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nCuando veo un gato, dedico un pensamiento\nal que solía tener. Solo espero que esté bien."
+    },
+    {
+      "VardId": "MES_FAT_CAT",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\n¿Juegas lo suficiente con tu gato, <MYNAME>?\nTiene un aspecto... un poco robusto, por decirlo\nfinamente.\n<PAGE>\n<FACE_LAUGH>Pero ¡es taaan mono! Sobre todo estas patitas\npeluditas que tiene... Ay, me pasaría\ntodo el día acariciándolo."
+    },
+    {
+      "VardId": "MES_LONGHAIR_CAT",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nMe agradan los gatos. Excepto cuando están\nde mal humor. Entonces son insufribles.\n<PAGE>\n¿Por qué pones esa cara? ¿Qué intentas\ndecirme? ¿Acaso me comparas con un gato?\n¿Uno malhumorado?"
+    },
+    {
+      "VardId": "MES_FAT_LONGHAIR_CAT",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nOh, ¡qué adorable! ¡Jo, jo, jo! Pero creo\nque sería conveniente que hiciera un poco\nmás de ejercicio. Si no, podría enfermar."
+    },
+    {
+      "VardId": "MES_FLOWER_FESTIVAL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nOh, ¿es por la Feria floral?\nAcepto el detalle. ¿Hay alguna razón\npor la que no debería hacerlo?"
+    },
+    {
+      "VardId": "MES_LOVER_FLOWER_FESTIVAL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOVE>\nOh, ¿es por la Feria floral?\nT-te lo agradezco. Es un detalle muy bonito.\nVoy a cuidar este presente como se merece."
+    },
+    {
+      "VardId": "MES_MARRIAGE_FLOWER_FESTIVAL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nOh, lo había olvidado, hoy se celebra la Feria\nfloral, ¿no es cierto? ¡Jo, jo! ¡Gracias! Soy muy\nafortunada de tener un marido tan considerado."
+    },
+    {
+      "VardId": "MES_THANKSGIVIING_FESTIVAL_S",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SPECIAL>\n¿Cómo? ¿Que es un regalo por el Día Blanco?\nBien, veo que finalmente empiezas a pagarme\ntodo lo que me debes..."
+    },
+    {
+      "VardId": "MES_LOVER_THANKSGIVIING_FESTIVAL_S",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nEs un regalo por el Día Blanco, ¿me equivoco?\n¡Jo, jo, jo! Gracias. Puedes esperarte\nalgo maravilloso a cambio."
+    },
+    {
+      "VardId": "MES_MARRIAGE_THANKSGIVIING_FESTIVAL_S",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\n¿Cómo? ¿Es un regalo por el Día Blanco?\nG-gracias.\n<PAGE>\n<FACE_LOVE>Aunque debería ser yo la que expresara\nsu gratitud. Bueno, ¡no importa!"
+    },
+    {
+      "VardId": "MES_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nQué pluma tan hermosa.\n¿Qué misión le tienes encomendada?"
+    },
+    {
+      "VardId": "MES_LOVER_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOVE>\nUno de mis sirvientes me explicó que esa pluma\nsirve para... proponer matrimonio.\n<PAGE>\n¡Atiza! Me parece que es demasiado pronto\npara pensar en ello. Esto... primero tengo\nque sentirme preparada..."
+    },
+    {
+      "VardId": "MES_EVENT_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nDiscúlpame si no lo he comprendido bien,\npero ¿acabas de pedirme la mano?\n<PAGE>\n<FACE_LOVE>¡¿Cómo se te ocurre pedirme algo\nsemejante en un lugar como este?!\n<PAGE>\n¡Atiza! ¿Cómo es posible que seas\ntan desconsiderado? Vayamos a otro sitio."
+    },
+    {
+      "VardId": "MES_PROPOSAL_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOVE>\nSiempre tendré grabado en mi pensamiento\nla expresión de tu rostro en ese momento...\nDiferente. Incluso... con algo de estilo. Un poco."
+    },
+    {
+      "VardId": "MES_MARRIAGE_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOVE>\nVer esa pluma evoca el momento\nen el que me pediste la mano.\nTodavía me sonrojo al recordarlo."
+    },
+    {
+      "VardId": "MES_ANGER_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_ANGRY>\nMe ha dicho un pajarito que... estás enseñando\nesa pluma a otras personas. ¿Es eso cierto?\n<PAGE>\n¿Por qué se te ocurriría hacerlo? ¿Qué sucedería\nsi alguna pensara que quieres casarte con ella?\n<PAGE>\nNo vuelvas a hacerlo. ¿Entendido?"
+    },
+    {
+      "VardId": "MES_RING",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nVaya, ese anillo no está nada mal,\na juzgar por el estándar de la gente corriente.\nNo digo que lo quiera."
+    },
+    {
+      "VardId": "MES_EVENT_RING",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOVE>\n¿Qué? ¿Me estás diciendo que... te gusto?\nMe estás declarando tu amor, ¿no es cierto?\nY no precisamente como amigo...\n<PAGE>\nBien, más vale que vayamos a otro sitio.\n¡Tenemos que hablar!"
+    },
+    {
+      "VardId": "MES_LOVER_RING",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nEse anillo es muy preciado para ambos,\nasí que te agradecería que lo pusieras\na buen recaudo."
+    },
+    {
+      "VardId": "MES_MARRIAGE_RING",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nVaya, eso... ¡Jo, jo, jo! Qué recuerdos...\nQué tiempos aquellos, ¿verdad?\nLa cantidad de cosas que estaban sucediendo..."
+    },
+    {
+      "VardId": "MES_ANGER_RING",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_ANGRY>\nMe ha dicho un pajarito que... estás enseñando\nel anillo a otras personas. ¿Es eso cierto?\n<PAGE>\nMmm... Desconocía que estuvieras hecho\nun donjuán. Dame tu palabra de que jamás\nvolverás a hacerlo. ¿Entendido?"
+    },
+    {
+      "VardId": "MES_PRESENT_LAPPING_LIKE ",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SPECIAL>\nQué lazo tan bonito. ¡Me encanta el color! ♪"
+    },
+    {
+      "VardId": "MES_PRESENT_LAPPING",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SPECIAL>\nBien, ¡lo has envuelto justo como a mí\nme gusta! Aborrezco los regalos sin envolver.\n¿No te sucede lo mismo?"
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_00",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nBien, ¡hoy es tu cumpleaños! Por si acaso\nnadie más te da un regalo, he decidido\nadelantarme y traerte uno.\n<PAGE>\n<FACE_SPECIAL>¡Salta a la vista que te ha hecho mucha ilusión!"
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_01",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nOh, me han dicho que hoy es tu cumpleaños.\n<PAGE>\n<FACE_SPECIAL>Desafortunadamente no tengo un regalo para ti,\npero en una ocasión así procede que te desee\nun feliz cumpleaños."
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_02",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOVE>\n¡Ah, <MYNAME>...! F-feliz cumpleaños.\n<PAGE>\nEsta noche voy a ir a visitarte para celebrarlo.\n¡Será mejor que lo esperes con mucha ilusión!"
+    },
+    {
+      "VardId": "MES_LOVER_GIFT_00",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\nNo tienes buen aspecto. ¿Comes lo suficiente?\n<PAGE>\n<FACE_LAUGH>Bien, esto es para ti. ¡N-no es que me preocupe\npor ti! No te hagas una idea equivocada..."
+    },
+    {
+      "VardId": "MES_LOVER_GIFT_01",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nAh, <MYNAME>, tan oportuno como siempre.\nTen, esto es para ti.\n<PAGE>\nMe lo han ofrecido antes, pero no lo quiero.\nHaz que desaparezca de mi vista, es todo tuyo.\n<PAGE>\n<FACE_LOVE>N-no, ¡no es de mi parte! ¿Es que no escuchas\ncuando te hablo? Quédatelo y punto."
+    },
+    {
+      "VardId": "MES_LOVER_GIFT_02",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nPareces muy cansado. Has trabajado\nhasta caer rendido, ¿me equivoco? Ten,\ncómete esto. Puede que te sirva de algo.\n<PAGE>\nQué cosas tienes... Por supuesto\nque me preocupo por ti. Eres mi novio.\n<PAGE>\nAsí que intenta no preocuparme, ¿entendido?"
+    },
+    {
+      "VardId": "MES_LONG_INTERVAL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nHola, <MYNAME>.\n¿Todavía vives en este pueblo?\nPensaba que te habías mudado a otro."
+    },
+    {
+      "VardId": "MES_LOVER_LONG_INTERVAL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_ANGRY>\nOye, <MYNAME>. ¿Sabes que ha pasado mucho\ntiempo desde la última vez que hablamos?\n¿Qué se supone que somos a estas alturas?\n<PAGE>\n¿Acaso has olvidado por completo que soy\ntu novia? De verdad, ¿qué clase de novio deja\na su chica sola durante tanto tiempo?\n<PAGE>\n<FACE_SAD>Entiendo que estés ocupado, pero deberías\nintentar ser un poco más considerado.\nMe tenías preocupada..."
+    },
+    {
+      "VardId": "MES_MARRAGE_LONG_INTERVAL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_ANGRY>\nHola, <MYNAME>. Cuánto tiempo...\n¿Cuándo fue la última vez que hablamos?\n<PAGE>\n<FACE_SAD>Jamás me habría esperado que dejases sola\na tu mujer tanto tiempo... No te puedes\nni imaginar lo sola que me he sentido..."
+    },
+    {
+      "VardId": "MES_MARRIAGE_SAFARI_00",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nLo cierto es que nunca les he tenido mucha\nestima a los animales. Pero cuando se trata\nde observar animales exóticos... no está mal.\n<PAGE>\nRealizar algo por primera vez siempre tiene\nsu punto fascinante. Solo hace falta ir\nmás allá de la primera impresión."
+    },
+    {
+      "VardId": "MES_MARRIAGE_SAFARI_01",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nNo llego a comprender por qué el tiempo\nde por aquí es tan impredecible.\n<PAGE>\n<FACE_LOSS>Puesto que nunca sé cuándo va a llover,\nno me entretengo a contemplar las cosas\nque hay a mi alrededor."
+    },
+    {
+      "VardId": "MES_MARRIAGE_SAFARI_02",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nOye, <MYNAME>. ¿Qué es ese animal\nque hay allí? ¡Atiza!\n<PAGE>\n<FACE_LOVE>L-lo siento, me... he asustado un poco.\nCasi me tropiezo. Gracias..."
+    },
+    {
+      "VardId": "MES_CLOTHES_20",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nOh, ese atuendo... Me gusta el color que tiene.\nNo está nada mal según los gustos\ndel pueblo llano, supongo."
+    },
+    {
+      "VardId": "MES_CLOTHES_27",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nMmm... Esa sudadera roja que llevas es...\naceptable. Mucho mejor que el resto\nde tu atuendo."
+    },
+    {
+      "VardId": "MES_CLOTHES_34",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nQué ropa tan bonita. Nunca me habría imaginado\nque tuvieras tan buen gusto."
+    },
+    {
+      "VardId": "MES_CLOTHES_42",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nVaya, esa ropa... es extraña, pero rezuma\nestilo. ¿De dónde la has sacado?"
+    },
+    {
+      "VardId": "MES_CLOTHES_48",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SPECIAL>\nMmm... Me pregunto qué tal me quedaría\nese atuendo que llevas.\n<PAGE>\nPodría considerar probármelo, si insistes."
+    },
+    {
+      "VardId": "MES_CLOTHES_60",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nEse chaleco es una maravilla. Debo admitir\nque tienes un gusto exquisito."
+    },
+    {
+      "VardId": "MES_CLOTHES_61",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nEse vestido no te queda mal.\n<PAGE>\n<FACE_SPECIAL>Pero ¿no crees que se merece que lo lleve\nalguna noble doncella como yo?"
+    },
+    {
+      "VardId": "MES_CLOTHES_71",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nOh, me agrada tu abrigo. Es bastante bonito,\ndesde el punto de vista del pueblo llano."
+    },
+    {
+      "VardId": "MES_CLOTHES_72",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\n¡Atiza! Pero qué ropa tan bonita...\nDesconocía que tuvieras tanto estilo."
+    },
+    {
+      "VardId": "MES_CLOTHES_82",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\n¡Atiza! ¡Me encanta ese atuendo!\n¿De dónde lo has sacado? Dímelo.\nAhora mismo."
+    },
+    {
+      "VardId": "MES_CLOTHES_86",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\nPero ¡mírate! ¿Dónde tenías escondida\nesa impresionante figura?\n<PAGE>\nSi incluso estás enseñando el ombligo.\nNo creo que yo pudiese llegar a cometer\nsemejante osadía.\n<PAGE>\n¡P-porque me daría demasiado frío, claro!"
+    },
+    {
+      "VardId": "MES_CLOTHES_100",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nEste es un hermoso atuendo tratándose de ti.\nMás o menos. Bueno, probablemente."
+    },
+    {
+      "VardId": "MES_CLOTHES_104",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nMe agrada el color de esa sudadera.\nN-no es que quiera una. ¿Por qué lo dices?"
+    },
+    {
+      "VardId": "MES_CLOTHES_111",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nMe agrada esa ropa que llevas. Tu gusto\ncasi puede equipararse al mío."
+    },
+    {
+      "VardId": "MES_CLOTHES_133",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SPECIAL>\nVaya, ¿has abandonado tu trabajo en la granja\ny has decidido hacerte <gender male=\"cocinero\" female=\"cocinera\">? Espléndido,\n¡ahora tengo menos competencia! ♪\n<PAGE>\n<FACE_NORMAL>Ah, ¿que no lo has abandonado? Qué pena...\nEntonces, ¿por qué vas <gender male=\"vestido\" female=\"vestida\"> así?\nEs un poco extravagante..."
+    },
+    {
+      "VardId": "MES_CLOTHES_140",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nMe agrada la ropa que llevas.\nTe lo digo en serio.\n<PAGE>\nDebería encargarle a alguien que me hiciera\nun atuendo igual... pero ¡de mejor calidad!"
+    },
+    {
+      "VardId": "MES_CLOTHES_141",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nEse vestido es igualito a uno que tengo.\nBueno, ya sabes qué dicen sobre la imitación."
+    },
+    {
+      "VardId": "MES_CLOTHES_145",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\n¿Por qué vas <gender male=\"vestido\" female=\"vestida\"> así?\n¿Acaso quieres convertirte en sirvienta?\n<PAGE>\n<FACE_SPECIAL>Bien, si renuncias a tu granja y pones\ntus tierras y tus animales a mi nombre,\n¡puede que me plantee contratarte! ♪"
+    },
+    {
+      "VardId": "MES_CLOTHES_149",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\n¿Por qué vas <gender male=\"vestido\" female=\"vestida\"> así?\n¿Acaso quieres convertirte en mayordomo?\n<PAGE>\n<FACE_SPECIAL>Bien, si renuncias a tu granja y pones\ntus tierras y tus animales a mi nombre,\n¡puede que me plantee contratarte! ♪"
+    },
+    {
+      "VardId": "MES_CLOTHES_152",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\n¡Ah! Disculpa que me haya quedado mirando.\n¡Ese disfraz es adorable! Pero sé que eres tú,\n<MYNAME>. Aunque tu voz... suena distinta.\n<PAGE>\nDesconozco por qué vas <gender male=\"vestido\" female=\"vestida\"> así,\npero con este disfraz no estaría de más\nque regalaras globos.\n<PAGE>\n<FACE_LAUGH>De verdad, deberías volver con globos. Entonces\n¡podría pasear contigo y hacer como que eres\nmi mascota! ♪"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_6",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nOh... Me agrada el color de esa gorra.\nNo está nada mal."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_12",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nMe gusta la forma de ese sombrero. Y el color\nque has elegido también es muy decente.\n<PAGE>\nNo es que sea espectacular, pero sí decente."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_17",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SPECIAL>\nEse sombrero es bastante bonito,\npero ¡no me cabe duda de que a mí\nme quedaría mucho mejor!"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_22",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nMe agrada ese sombrero de vaquero.\nTiene un punto de estilo.\n<PAGE>\nMe sorprende sumamente que tengas\nalgo tan bonito en tu ropero."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_27",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SPECIAL>\nEsa diadema que llevas es una preciosidad.\nEs una pena que la lleves tú y no yo."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_38",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nMe agrada ese sombrero. Es muy bonito\ny tiene mucho estilo. Demasiado para ti,\nen mi opinión.\n<PAGE>\n<FACE_SPECIAL>¡Se necesita cierta gracia y elegancia\npara llevar ese tipo de cosas como es debido!"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_42",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nVaya, ¡qué hermosa corona! Aunque es falsa,\n¿no es cierto? ¿Cómo? ¿Que no lo es?"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_45",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nOh, esas gafas no están nada mal.\nMe gusta la montura roja."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_48",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nOh, esas gafas no están nada mal.\nMe gusta la montura roja."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_53",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nEsas gafas negras son muy ordinarias...\n<PAGE>\nPero precisamente porque no son\nnada del otro mundo, es fácil saber\nsi te quedan bien o no, ¿verdad?\n<PAGE>\nEn tu caso... Bueno, creo que el resultado\nes bastante aceptable, al menos."
+    },
+    {
+      "VardId": "MES_FARM_WORKING",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nNo me ensucio las manos con el barro.\nPara eso tengo a mis sirvientes. Yo me limito\na inspeccionar su trabajo de vez en cuando."
+    },
+    {
+      "VardId": "MES_CARE_ANIMAL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SPECIAL>\nOye, tú. Asegúrate de hacerte\ngrande y productivo, ¿entendido?"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SLEEP_00",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_PATI>\nMmm... Padre... ¿Hoy también trabajáis?\nMuy bien, me... me quedaré en casa\naguardando vuestra llegada..."
+    },
+    {
+      "VardId": "MES_SCHEDULE_SICK",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\nAhora estoy demasiado enferma para hablar.\nSi requieres algo de mí, vuelve mañana."
+    },
+    {
+      "VardId": "MES_LOVER_SCHEDULE_SICK",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\nAy, creo que me he resfriado.\n<PAGE>\nSi no quieres enfermar tú también,\ndeberías guardar las distancias."
+    },
+    {
+      "VardId": "MES_MARRIAGE_SCHEDULE_SICK",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\nUf... Me duele todo... Tengo dolor de cabeza\ny dolor de estómago a la vez...\n¿Qué me está ocurriendo?"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SLEEPY_00",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\nOaaa... Se está haciendo tarde, ¿verdad?\n¿Durante cuánto más tiempo puedo\ndisfrutar de tu compañía?\n<PAGE>\nLo de ser sociable no es lo tuyo, ¿no?\nMuy bien, tengo sueño. Puedes retirarte."
+    },
+    {
+      "VardId": "MES_SCHEDULE_SLEEPY_01",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nOye, <MYNAME>... ¿A qué hora pensabas\nirte a dormir?\n<PAGE>\n<FACE_SAD>¿Piensas que debería irme a dormir sin ti...?\nA ver, estamos casados. Te echaré de menos\nsi duermo sola.\n<PAGE>\n<FACE_LOVE>Con eso no quiero decir que dormir sola\nme suponga un gran problema, pero...\nBien, ¡haz lo que quieras!"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_00",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nOh, casi se me había olvidado decírtelo,\n<MYNAME>. Me estoy planteando visitar\nmi mansión...\n<PAGE>\nPuesto que voy a salir, ¿hay algo\nde lo que pueda ocuparme?"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_01",
+      "Text": "Sí, por favor."
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_02",
+      "Text": "No, gracias."
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_CANCEL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nEntiendo. Tú te lo pierdes."
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_OK",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nMuy bien.\n<PAGE>\nTe prestaré mi ayuda."
+    },
+    {
+      "VardId": "MES_MEAL_00",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nÑam, ñam, ñam. Vaya, he tenido\nque tragarme ese bocado expresamente\npara poder responderte.\n<PAGE>\n¿No ves que estoy comiendo?\nSi te urge hablar conmigo, vuelve más tarde."
+    },
+    {
+      "VardId": "MES_MEAL_01",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\n¡Atiza! ¡No hables conmigo\nmientras estoy intentando comer!\n<PAGE>\n<FACE_LOVE>¿Acabas de verme con la boca llena?\nAy, madre... ¡Haz el favor de no volver\nhasta que haya terminado!"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_PINK",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\n¡Me agrada este banco! Debería pensar\nseriamente en colocar uno en mi jardín."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_GOLD",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SPECIAL>\n¡Qué banco más elegante!\nParece que está hecho precisamente para mí."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_STREETLAMP_2",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nTodas las farolas del pueblo deberían ser\ncomo esta. Harían de este pueblo\nun lugar con mucha más clase."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TABLE_WEST",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nQué maravilla de mesa.\nY parece de buena calidad."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_CHAIR_WEST",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nOh, ¿quién ha tenido la amabilidad de colocar\nesta silla para mí? Qué detalle."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PARASOL_GARDEN_NEW2",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nAquí debajo, a la sombra, se está de maravilla.\nPara redondearlo, solo haría falta que alguien\nme trajera algo de beber..."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_STATUE_SUN",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nQué estatua tan extraña.\n<PAGE>\nAhora que lo pienso... no sé,\nteniendo en cuenta todo lo que he hecho\npor este pueblo, ¿dónde está mi estatua?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FOUNTAIN_2",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nEso es lo que yo llamo una fuente sofisticada.\nRealmente le da un toque de belleza al pueblo,\n¿no te parece?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OPEN_SPACE_BRICK",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nSiempre me ha agradado el aspecto de una plaza\nde ladrillo, pero lo mejor de todo es la sensación\nacogedora que transmite. ¿Entiendes?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ICELIGHT",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\n¡Jo, jo, jo! Esta lámpara de hielo es fabulosa.\nY todavía es mejor por las noches."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SNOWIMAGE_PIKE",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nEsta estatua rezuma fuerza.\nYo también quiero convertirme\nen una noble doncella como ella."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SNOWIMAGE_SHIELD",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nEsta estatua de una doncella me inspira\namor y misericordia.\n<PAGE>\n<FACE_SPECIAL>Voy a asegurarme de que el pueblo sienta\nexactamente lo mismo con mi estatua,\n¡cuando se decidan a hacerme una!"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_CASTLE_WEST",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nOh, este castillo ha sido obra de una mano\nexperta. ¡Fíjate en los detalles! Es tan perfecto\ncomo la casa de muñecas que poseo."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_PINKROSE",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nLas rosas son adorables,\n¿no compartes mi opinión?\nDebería poner unas cuantas en el balcón."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_TULIP",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nLa primera flor que cultivé por mí misma fue\nun tulipán, como parte de una tarea del colegio.\n<PAGE>\n<FACE_LOSS>Desconozco lo mucho que me sirvió\nesa experiencia. ¿Qué me dices de ti?\n¿Has aprendido algo plantando cultivos?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_CARNATION",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nLos claveles no son muy ostentosos, pero \nsus tallos son fantásticos cuando se arreglan\na conciencia. Es muy extraño, en definitiva."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_HIBISCUS",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nMe agradan estas flores... son hibiscos,\n¿verdad? Son bonitos y sofisticados."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_GARBERA",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nLas gerberas son las flores favoritas\nde mi hermana. Siempre adquieren un aspecto\ntan dulce y sofisticado en sus manos...\n<PAGE>\nMi hermana es maravillosa. De verdad,\nhace que cualquier cosa parezca bonita.\n<PAGE>\n<FACE_SAD>Quizá algún día llegue a ser una dama\ntan refinada como ella."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_PINKROSE",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nLas rosas son adorables,\n¿no compartes mi opinión?\nDebería poner unas cuantas en el balcón."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_TULIP",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nLa primera flor que cultivé por mí misma fue\nun tulipán, como parte de una tarea del colegio.\n<PAGE>\n<FACE_LOSS>Desconozco lo mucho que me sirvió\nesa experiencia. ¿Qué me dices de ti?\n¿Has aprendido algo plantando cultivos?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_CARNATION",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nLos claveles no son muy ostentosos, pero \nsus tallos son fantásticos cuando se arreglan\na conciencia. Es muy extraño, en definitiva."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_HIBISCUS",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nMe agradan estas flores... son hibiscos,\n¿verdad? Son bonitos y sofisticados."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_GARBERA",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nLas gerberas son las flores favoritas\nde mi hermana. Siempre adquieren un aspecto\ntan dulce y sofisticado en sus manos...\n<PAGE>\nMi hermana es maravillosa. De verdad,\nhace que cualquier cosa parezca bonita.\n<PAGE>\n<FACE_SAD>Quizá algún día llegue a ser una dama\ntan refinada como ella."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_CHRRYBLOSSOM",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nEsto es un cerezo de verdad, ¿no es cierto?\nEs pequeño, pero ¡míralo! Es tan bonito..."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_HANGING_BOWL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nMmm, veo que esto tiene su utilidad.\nSi tienes una casa pequeña, puedes organizar\nmejor el espacio colgando las macetas.\n<PAGE>\nAdemás, pueden servir para decorar tu jardín.\nNo es mala idea, si me permites la opinión.\n<PAGE>\n<FACE_SPECIAL>Quiero decir, que a mí no es que me hagan falta\nprecisamente, pero ¡nunca se sabe!"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BASKET_PINK",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nMe agrada el color de este cesto con flores.\n¿Puedo llevarme uno a casa?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOPIARY_MAMMOTH",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nEste arbusto de mamut no está nada mal.\n<PAGE>\nQuienquiera que lo haya hecho se ha ganado\nun puesto en mi mansión. Me agradaría tener\nalgunos así en mi jardín."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ARCH_RED_FLOWER",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nQué maravilla de arco. ¿Con qué clase\nde flores lo habrán hecho?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_PINK_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nMe agrada sumamente el color de esta valla.\n¡Todas las que tengo en mi granja y en el jardín\ndeberían ser de este color!"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_GOLD_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nEsta valla es de lo más elegante. En mi humilde\nopinión, las vallas blancas son muy sosas. En\ncambio, las doradas o las rosas son perfectas."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COLOR_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nVaya, ¡hay rosa por doquier!\nSeguro que has construido este sitio\nespecialmente para mí.\n<PAGE>\n<FACE_SPECIAL>¡Un trabajo excelente! ¡La dedicación \ninquebrantable que me muestras no defrauda! ♪"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COLOR_2",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SPECIAL>\n¡En estas decoraciones hay suficiente oro\ncomo para que incluso este lugar tan aburrido\nparezca decente!"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ATMOSPHERE_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nMe agrada sumamente el brillo de este lugar.\nNo está nada mal, en mi opinión."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ATMOSPHERE_2",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SPECIAL>\nMe agrada este lugar. Tiene mucho estilo.\nDebería visitarlo más a menudo. La belleza\nno vale nada si no hay quién pueda apreciarla."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COMBO_1",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nHala, ¡mira qué dulces tan enormes!\n¿Crees que son comestibles?\nEntonces, ¿se pueden comer?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COMBO_2",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nOooh, ¡hay rosas por doquier! ¡Cuánta belleza!\nDesconocía que existiera semejante paraíso\nen este pueblo."
+    },
+    {
+      "VardId": "MES_TRADE_ASIA",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nAhora que he comprado una tela tan maravillosa,\nharé que confeccionen algo de ropa para mí.\n<PAGE>\n¡Jo, jo, jo! ¡Ardo en deseos de saber qué clase\nde atavío deslumbrante voy a tener! <RED>∀</RED>"
+    },
+    {
+      "VardId": "MES_TRADE_ALPS",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SPECIAL>\nNo tenía intención alguna de quedarme\ncon tanto marisco, así que lo vendí\nal país del cabañal por un precio considerable.\n<PAGE>\n¿Quién sabe? ¡Quizá resulta que tengo un don\npara el comercio! ♪"
+    },
+    {
+      "VardId": "MES_TRADE_JAPAN",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\nEl país del cerezo es muy simple, ¿no te parece?\n<PAGE>\nAlgunos lo tachan de modesto o singular,\npero para mí el único calificativo que se merece\nes el de aburrido.\n<PAGE>\n<FACE_SPECIAL>¡Si simplemente se dedicaran a traerme algo\nelegante y brillante que me beneficiara...!"
+    },
+    {
+      "VardId": "MES_TRADE_USA",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nÚltimamente el país del trigo ha estado viniendo\na comerciar por aquí. Mis sirvientes parecen\ncontentos, puesto que el trigo no está mal.\n<PAGE>\n<FACE_SPECIAL>Mientras alguien pueda traérmelo y prepararme\nun suculento manjar con él, yo ya me doy\npor satisfecha."
+    },
+    {
+      "VardId": "MES_TRADE_EU",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nAcabo de adquirir un vino exquisito\ndel país de las rosas.\n<PAGE>\nMe pregunto si enviarle una botella a Padre\nsería de su agrado."
+    },
+    {
+      "VardId": "MES_TRADE_SOUTHERN",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\nEl aroma que desprende el puesto\ndel país tropical no me agrada demasiado.\nCon tanto pescado por doquier, es inevitable..."
+    },
+    {
+      "VardId": "MES_TRADE_SOUTH_POLE",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nEl país del hielo se ha tomado la molestia\nde recorrer un largo camino para venir\na comerciar aquí. Me parece increíble.\n<PAGE>\n¡Y eso quiere decir que este pueblo\nmerece la pena!"
+    },
+    {
+      "VardId": "MES_PLACE_GOOD",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nMmm... No se te da nada mal. Pero que sepas\nque esta es la última vez que pienso perder\ncontra ti. Algún día, ¡volveremos a enfrentarnos!"
+    },
+    {
+      "VardId": "MES_PLACE_BEST",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\nAsí que posees todas y cada una de las tierras.\nPuede que pienses que llevas ventaja...\n<PAGE>\n<FACE_NORMAL>P-pero ¡no tienes nada que hacer contra mí!\n¡Algún día todas las tierras de este pueblo\nserán mías!"
+    },
+    {
+      "VardId": "MES_MOVE_OUT",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\n¿Te ha llegado el rumor de que alguien\nse ha mudado al pueblo? Todavía no he dado\ncon las palabras adecuadas para ir a saludar.\n<PAGE>\nEspero que muestre la misma sencillez que tú,\naunque no siempre se puede tener tanta suerte."
+    },
+    {
+      "VardId": "MES_TOWN_POPULARITY_BEST",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nEl comercio del pueblo es cada vez\nmás frenético, ¿no te parece?\n<PAGE>\nEste cambio empezó a llevarse a cabo\ncuando yo me mudé aquí.\n<PAGE>\nPor ello, mi familia me ha llenado de cumplidos,\npues me considera la fuente de semejante éxito.\n<PAGE>\n<FACE_NORMAL>Y es verdad que he contribuido a que así sea,\npero creo que el mérito es sobre todo tuyo\ny de los demás habitantes del pueblo.\n<PAGE>\n<FACE_LOVE>¿Por qué pones esa cara? Pensabas que me iba\na otorgar todo el mérito, ¿me equivoco?"
+    },
+    {
+      "VardId": "MES_TOWN_POPULARITY_BETTER",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nEl comercio de este pueblo empieza\na progresar, ¿no compartes mi opinión?\n<PAGE>\nY es cosa mía, ¿o el pueblo ha ganado\npopularidad desde que me mudé aquí?"
+    },
+    {
+      "VardId": "MES_AREA_TOWN_00",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\nMires hacia donde mires, en este pueblo\nsolo divisarás naturaleza, nada más. Al llegar\nincluso me costó localizar el pueblo.\n<PAGE>\nA ti te sucedió algo semejante, ¿verdad?\nPregunté la dirección sin cesar,\npero todos coincidían en que no sabían nada."
+    },
+    {
+      "VardId": "MES_AREA_TOWN_01",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\nLo llaman mercado, pero en mi opinión\nni siquiera está a la altura de un mercadillo.\n<PAGE>\nHay mucho espacio, pero son muy pocos\nlos comerciantes que se toman la molestia\nde venir hasta aquí. Es una verdadera pena..."
+    },
+    {
+      "VardId": "MES_AREA_TOWN_02",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\nTodavía no logro comprender por qué\nPadre decidió comprar tierras en un lugar\ntan insólito y aislado.\n<PAGE>\nPero gracias a él, tuve todo el espacio necesario\npara construir la mansión y la granja...\n<PAGE>\nY si no lo hubiera hecho, todo el área\nse habría desperdiciado."
+    },
+    {
+      "VardId": "MES_AREA_TOWN_03",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nAl mudarme aquí, tuve la impresión\nde que había cometido un error fatal, pero...\n<PAGE>\n<FACE_LAUGH>Lo cierto es que ahora me gusta. Dicen que\ncuando vives en un lugar, poco a poco empieza\na ser de tu agrado. ¿Acaso se refieren a esto?"
+    },
+    {
+      "VardId": "MES_LARGE_HEN",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\n"
+    }
+  ]
+}

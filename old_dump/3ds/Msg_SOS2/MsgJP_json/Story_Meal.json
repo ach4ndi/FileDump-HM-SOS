@@ -1,0 +1,278 @@
+﻿{
+  "Date": "2016-06-25T01:44:49.5917852+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_STORY_TABLE_MYHOUSE_01",
+      "Text": "ご飯の時間だ。\n来てくれた<CHARANAME0>のために\nごはんを作ろうかな？"
+    },
+    {
+      "VardId": "MES_STORY_TABLE_MYHOUSE_02",
+      "Text": "ごはんを作る"
+    },
+    {
+      "VardId": "MES_STORY_TABLE_MYHOUSE_03",
+      "Text": "ごはんを作らない"
+    },
+    {
+      "VardId": "MES_STORY_TABLE_MYHOUSE_07",
+      "Text": "まだご飯の時間には早いかな？\nお昼ご飯は <BLUE>11：00</BLUE> からだ。"
+    },
+    {
+      "VardId": "MES_STORY_TABLE_MYHOUSE_08",
+      "Text": "まだご飯の時間には早いかな？\n夜ご飯は <BLUE>18：00</BLUE> からだ。"
+    },
+    {
+      "VardId": "MES_STORY_TABLE_MYHOUSE_09",
+      "Text": "もう夜もおそい。\nご飯はまた明日食べよう。"
+    },
+    {
+      "VardId": "MES_STORY_TABLE_MYHOUSE_10",
+      "Text": "さっきご飯を食べたばかりだ。\n時間を空けよう。"
+    },
+    {
+      "VardId": "MES_STORY_TABLE_MYHOUSE_11",
+      "Text": "さっき夜ご飯を食べたばかりだ。\nご飯はまた明日にしよう。"
+    },
+    {
+      "VardId": "MES_STORY_MEALDEMO_COOKING_00",
+      "Text": "まずは料理を１品作ろう。\nなにを作ろうかな？"
+    },
+    {
+      "VardId": "MES_STORY_MEALDEMO_COOKING_01",
+      "Text": "レシピから作る"
+    },
+    {
+      "VardId": "MES_STORY_MEALDEMO_COOKING_02",
+      "Text": "てきとうに作る"
+    },
+    {
+      "VardId": "MES_STORY_MEALDEMO_FINISH",
+      "Text": "<BLUE><____ITEMNAME0____></BLUE>ができた。\nあとは他の料理を作ろう。"
+    },
+    {
+      "VardId": "MES_STORY_MEALDEMO_ITADAKI_Sister",
+      "Text": "<FACE_SISTER><POS_RIGHT><FACE_NORMAL>\r\n食べよ、食べよ〜。\nいただきまーす♪"
+    },
+    {
+      "VardId": "MES_STORY_COOK_MEALDEMO_NORMAL_Sister",
+      "Text": "<FACE_SISTER><POS_RIGHT><FACE_NORMAL>\r\nうんうん、なかなかイケるじゃない。\nさすが牧場主！"
+    },
+    {
+      "VardId": "MES_STORY_COOK_MEALDEMO_GOOD_Sister",
+      "Text": "<FACE_SISTER><POS_RIGHT><FACE_LAUGH>\r\nあ、美味しい！\n<RELATIONSHIP>がこんなの作れるなんて\n見直しちゃった。"
+    },
+    {
+      "VardId": "MES_STORY_COOK_MEALDEMO_VERYGOOD_Sister",
+      "Text": "<FACE_SISTER><POS_RIGHT><FACE_LAUGH>\r\nわあ！　美味しい♪\nこれって、牧場の食材も入ってる？\n<RELATIONSHIP>ってば、すごい！\n<PAGE>\nコレ食べたら、\nお父さんも一発で\n<RELATIONSHIP>のことみとめちゃうよ！"
+    },
+    {
+      "VardId": "MES_STORY_MEALDEMO_GOTI_Sister",
+      "Text": "<FACE_SISTER><POS_RIGHT><FACE_LAUGH>\r\nごちそうさまでした！\n<RELATIONSHIP>、作ってくれて\nありがとね。"
+    },
+    {
+      "VardId": "MES_STORY_MEALDEMO_ITADAKI_Mother",
+      "Text": "<FACE_MOTHER><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>、作ってくれて\nありがとう。\nじゃあ、いただきます。"
+    },
+    {
+      "VardId": "MES_STORY_COOK_MEALDEMO_NORMAL_Mother",
+      "Text": "<FACE_MOTHER><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>の料理が\n食べられてうれしいわ。\nもちろん、味もおいしいわよ。"
+    },
+    {
+      "VardId": "MES_STORY_COOK_MEALDEMO_GOOD_Mother",
+      "Text": "<FACE_MOTHER><POS_RIGHT><FACE_LAUGH>\r\nとてもおいしいわね、この料理。\nおかわりしちゃおうかしら♪"
+    },
+    {
+      "VardId": "MES_STORY_COOK_MEALDEMO_VERYGOOD_Mother",
+      "Text": "<FACE_MOTHER><POS_RIGHT><FACE_LAUGH>\r\nまあ…！\nなんておいしいのかしら。\n<PAGE>\nあなたの牧場の食材が入ってるなら\n<_____MYNAME_____>は、きっと\nすばらしい牧場主なのね。\n<PAGE>\nあなたがここまで\n成長するなんて…。\nお母さん、本当にうれしいわ。"
+    },
+    {
+      "VardId": "MES_STORY_MEALDEMO_GOTI_Mother",
+      "Text": "<FACE_MOTHER><POS_RIGHT><FACE_NORMAL>\r\nごちそうさまでした。\n片付けは、わたしがするわ。\n<_____MYNAME_____>はゆっくりしなさいね。"
+    },
+    {
+      "VardId": "MES_MEAL_MORNING_QUESTION_Sister",
+      "Text": "リンネに\n何か聞いてみようかな？"
+    },
+    {
+      "VardId": "MES_MEAL_MORNING_QUESTION_Mother",
+      "Text": "お母さんに\n何か聞いてみようかな？"
+    },
+    {
+      "VardId": "MES_MEAL_MORNING_S_1_00",
+      "Text": "実家の引っこし先について聞く"
+    },
+    {
+      "VardId": "MES_MEAL_MORNING_S_1_01",
+      "Text": "最近の父親について聞く"
+    },
+    {
+      "VardId": "MES_MEAL_MORNING_S_1_02",
+      "Text": "最近の母親について聞く"
+    },
+    {
+      "VardId": "MES_MEAL_MORNING_S_1_10",
+      "Text": "<FACE_SISTER><POS_RIGHT><FACE_NORMAL>\r\n家の引っ越し先？\n港町ですごく都会だよ。\n過ごしやすくて、あたしは好きだな。\n<PAGE>\n<FACE_LAUGH>友だちもたくさん出来たし\nもうすっかりなれちゃった。\n<PAGE>\n<RELATIONSHIP>も、\nお父さんにみとめられたら\n一度帰っておいでよ。"
+    },
+    {
+      "VardId": "MES_MEAL_MORNING_S_1_11",
+      "Text": "<FACE_SISTER><POS_RIGHT><FACE_NORMAL>\r\nお父さん？　元気元気。\nただ、<RELATIONSHIP>と別れて数日は\n機嫌悪かったな〜。\n<PAGE>\nそういえば、お父さんの課題\nひとつクリアしたんでしょ？\n<PAGE>\nこれくらいは、\n「できて当然だ」だって言ってたよ。\nまだまだ色々言われそうだね。"
+    },
+    {
+      "VardId": "MES_MEAL_MORNING_S_1_12",
+      "Text": "<FACE_SISTER><POS_RIGHT><FACE_NORMAL>\r\nお母さんはね、\n<RELATIONSHIP>がいなくなったから\nちょっとさびしそうだったよ。\n<PAGE>\nご飯を４人分とか\n作っちゃったりしてたしね。\n<PAGE>\n<FACE_LAUGH>今は知り合いも増えて\n毎日楽しそうだよ。"
+    },
+    {
+      "VardId": "MES_MEAL_MORNING_M_1_00",
+      "Text": "最近のマリーナについて聞く"
+    },
+    {
+      "VardId": "MES_MEAL_MORNING_M_1_01",
+      "Text": "父とのなれそめを聞く"
+    },
+    {
+      "VardId": "MES_MEAL_MORNING_M_1_02",
+      "Text": "フランクについて聞く"
+    },
+    {
+      "VardId": "MES_MEAL_MORNING_M_1_10",
+      "Text": "<FACE_MOTHER><POS_RIGHT><FACE_LAUGH>\r\n最近はね、\nあなたが住んでるこの地方の料理を\n作ったりしてるの。\n<PAGE>\nおかげで、料理のレパートリーが\nグンと増えたわよ。\n<PAGE>\n…はなれて暮らしていても、\nあなたのこと、ちゃんと想ってるわ。"
+    },
+    {
+      "VardId": "MES_MEAL_MORNING_M_1_11",
+      "Text": "<FACE_MOTHER><POS_RIGHT><FACE_NORMAL>\r\nお父さんとのなれそめ？\n友だちからの紹介よ。\n<PAGE>\n<FACE_LAUGH>最初はこわそうな人って思ったけど…\n意外とかわいらしい一面があって\nそのギャップにやられちゃったわ。\n<PAGE>\n…ウフフ。\nあなたにも、そういう人がいるから\nこんなことを聞くのね？\n<PAGE>\nさあ、今度は\n<_____MYNAME_____>の番よ。\n色々聞かせてちょうだい♪"
+    },
+    {
+      "VardId": "MES_MEAL_MORNING_M_1_12",
+      "Text": "<FACE_MOTHER><POS_RIGHT><FACE_LAUGH>\r\nフランクさんには\n<_____MYNAME_____>の家に来る前に\nあいさつに行ったのよ。\n<PAGE>\n十数年ぶりに会ったけど、\n相変わらず気さくな人だったわ。\n<PAGE>\n<FACE_NORMAL>…あと、ちょっと\nお腹まわりが太ったみたいね。\n昔はもう少しやせてたと思うんだけど。"
+    },
+    {
+      "VardId": "MES_MEAL_MORNING_S_2_00",
+      "Text": "最近のリンネについて聞く"
+    },
+    {
+      "VardId": "MES_MEAL_MORNING_S_2_01",
+      "Text": "最近の父親について聞く"
+    },
+    {
+      "VardId": "MES_MEAL_MORNING_S_2_02",
+      "Text": "最近の母親について聞く"
+    },
+    {
+      "VardId": "MES_MEAL_MORNING_S_2_10",
+      "Text": "<FACE_SISTER><POS_RIGHT><FACE_NORMAL>\r\n最近？\nうーん、そうだなぁ…\n<PAGE>\n<FACE_LAUGH>じつはね、ちょっと\n気になる人が出来たの。\n優しくてカッコいいんだ。\n<PAGE>\n<FACE_ANGRY>でも、この話は\nお父さんにもお母さんにも\nナイショにしておいてよ？"
+    },
+    {
+      "VardId": "MES_MEAL_MORNING_S_2_11",
+      "Text": "<FACE_SISTER><POS_RIGHT><FACE_NORMAL>\r\n最近のお父さん？\n…なんか、燃えてるよ。\n<PAGE>\n「オレだってまだまだ負けん！」って\n息巻いてる。\n何があったんだろうね？"
+    },
+    {
+      "VardId": "MES_MEAL_MORNING_S_2_12",
+      "Text": "<FACE_SISTER><POS_RIGHT><FACE_NORMAL>\r\nそうそう、お母さんってば\nいろんな柄の小物作りを始めたの。\n<PAGE>\n前にこっちに来てから\n色んな人の服やモノを見たせいか\n作りたくなっちゃったんだって。\n<PAGE>\n今はふろしきとかラタンとか\n作ってるよ。"
+    },
+    {
+      "VardId": "MES_MEAL_NIGHT_QUESTION_Sister",
+      "Text": "<FACE_SISTER><POS_RIGHT><FACE_NORMAL>\r\n<RELATIONSHIP>。\nそういえば、今日はなにやってたの？"
+    },
+    {
+      "VardId": "MES_MEAL_NIGHT_QUESTION_Mother",
+      "Text": "<FACE_MOTHER><POS_RIGHT><FACE_NORMAL>\r\nそれで、<_____MYNAME_____>？\n今日はどんなことをしたの？\n教えてほしいわ。"
+    },
+    {
+      "VardId": "MES_MEAL_NIGHT_00",
+      "Text": "収穫をしていた"
+    },
+    {
+      "VardId": "MES_MEAL_NIGHT_01",
+      "Text": "畑の作業をしていた"
+    },
+    {
+      "VardId": "MES_MEAL_NIGHT_02",
+      "Text": "動物の世話をしてた"
+    },
+    {
+      "VardId": "MES_MEAL_NIGHT_03",
+      "Text": "牧場の配置を変えてた"
+    },
+    {
+      "VardId": "MES_MEAL_NIGHT_04",
+      "Text": "釣りをしてた"
+    },
+    {
+      "VardId": "MES_MEAL_NIGHT_05",
+      "Text": "買い物をしてた"
+    },
+    {
+      "VardId": "MES_MEAL_NIGHT_06",
+      "Text": "人とおしゃべりしてた"
+    },
+    {
+      "VardId": "MES_MEAL_NIGHT_07",
+      "Text": "色々やってた"
+    },
+    {
+      "VardId": "MES_MEAL_NIGHT_COMMENT_00_Sister",
+      "Text": "<FACE_SISTER><POS_RIGHT><FACE_NORMAL>\r\nえっ、なにを収穫したの？\nわたしにもちょうだい！\nおみやげにするから。"
+    },
+    {
+      "VardId": "MES_MEAL_NIGHT_COMMENT_01_Sister",
+      "Text": "<FACE_SISTER><POS_RIGHT><FACE_NORMAL>\r\n畑仕事って\n動きまわるから大変そうだな〜。\n<PAGE>\n<FACE_LAUGH>そういえば、<RELATIONSHIP>って\nなんか筋肉ついたよね？\n前より強そうに見えるよ。"
+    },
+    {
+      "VardId": "MES_MEAL_NIGHT_COMMENT_02_Sister",
+      "Text": "<FACE_SISTER><POS_RIGHT><FACE_NORMAL>\r\nお世話おつかれさま。\n牧場だと、動物の鳴き声って\nいい目覚まし時計だよね。\n<PAGE>\nわたし、こっちに来てから\nすごい早起きだもん。"
+    },
+    {
+      "VardId": "MES_MEAL_NIGHT_COMMENT_03_Sister",
+      "Text": "<FACE_SISTER><POS_RIGHT><FACE_LAUGH>\r\nそうなんだ！\nじゃあ明日は、じっくりと\n牧場見学でもしようかな。\n<PAGE>\nキレイなものとか、\n見てて楽しいものとか\n置いといてよ。"
+    },
+    {
+      "VardId": "MES_MEAL_NIGHT_COMMENT_04_Sister",
+      "Text": "<FACE_SISTER><POS_RIGHT><FACE_NORMAL>\r\nへえ〜釣りかあ。\nわたし、釣りってしたことない。\n<PAGE>\n魚をじーっと待ってる間って\nヒマじゃない？　なにしてるの？"
+    },
+    {
+      "VardId": "MES_MEAL_NIGHT_COMMENT_05_Sister",
+      "Text": "<FACE_SISTER><POS_RIGHT><FACE_SAD>\r\nいいなあ〜、ショッピング。\nわたしもしたいけど、お金ないんだもん。\n何かおごってよ。"
+    },
+    {
+      "VardId": "MES_MEAL_NIGHT_COMMENT_06_Sister",
+      "Text": "<FACE_SISTER><POS_RIGHT><FACE_NORMAL>\r\nお友達としゃべってたの？\nよかったら、いつかしょうかいしてよ。\n<PAGE>\n<FACE_LAUGH>いい子ちゃんモードで\nちゃんとあいさつするからさ♪"
+    },
+    {
+      "VardId": "MES_MEAL_NIGHT_COMMENT_07_Sister",
+      "Text": "<FACE_SISTER><POS_RIGHT><FACE_NORMAL>\r\n牧場って、やること多いもんね。\nのんびりっていうより\n時間が足りなさそう。\n<PAGE>\nまあ、そういうのを\n充実してるって言うのかもね。"
+    },
+    {
+      "VardId": "MES_MEAL_NIGHT_COMMENT_00_Mother",
+      "Text": "<FACE_MOTHER><POS_RIGHT><FACE_LAUGH>\r\nまあ、よかったじゃない。\nだからそんなにうれしそうな顔なのね。\n<PAGE>\nいいのがとれたら、\nお父さんにも送ってあげてね。"
+    },
+    {
+      "VardId": "MES_MEAL_NIGHT_COMMENT_01_Mother",
+      "Text": "<FACE_MOTHER><POS_RIGHT><FACE_NORMAL>\r\nあら、大変だったわね。\nそういえば、お父さんが…\n<PAGE>\n「道具は使いやすいように\n　きちんと改良しろ」って言ってたわよ。\nまだなら、やってみた方がいいかもね。"
+    },
+    {
+      "VardId": "MES_MEAL_NIGHT_COMMENT_02_Mother",
+      "Text": "<FACE_MOTHER><POS_RIGHT><FACE_NORMAL>\r\nそういえば、動物って\n飼い主に似るって言うけど\n本当みたいね。\n<PAGE>\nだって…フランクさんと\nフランクさんの動物たちも\nそっくりなんだもの。\n<PAGE>\n<FACE_LAUGH>そのうち、あなたの動物も\nあなたそっくりになるんでしょうね。\n楽しみだわ。"
+    },
+    {
+      "VardId": "MES_MEAL_NIGHT_COMMENT_03_Mother",
+      "Text": "<FACE_MOTHER><POS_RIGHT><FACE_NORMAL>\r\n畑や施設の配置を変えるなんて\n面白そうね。\n<PAGE>\nわたしも家具の配置を考えるの\nとっても好きなのよ。\n<PAGE>\n<FACE_LAUGH>ねえ、よかったら\nわたしにもやらせてくれないかしら？\n<PAGE>\n<FACE_SAD>えっ、ダメ？\nそれは残念だわ…。"
+    },
+    {
+      "VardId": "MES_MEAL_NIGHT_COMMENT_04_Mother",
+      "Text": "<FACE_MOTHER><POS_RIGHT><FACE_NORMAL>\r\nそうだったの。\n美味しそうな魚は釣れた？\n<PAGE>\n魚のさばき方が分からなかったら\n教えてあげるわよ。"
+    },
+    {
+      "VardId": "MES_MEAL_NIGHT_COMMENT_05_Mother",
+      "Text": "<FACE_MOTHER><POS_RIGHT><FACE_NORMAL>\r\nほしいものは買えた？\n一人暮らしだから\n何かとお金がかかるでしょう。\n<PAGE>\n万一のことを考えて、\nあまりムダづかいしないようにね。"
+    },
+    {
+      "VardId": "MES_MEAL_NIGHT_COMMENT_06_Mother",
+      "Text": "<FACE_MOTHER><POS_RIGHT><FACE_LAUGH>\r\nウフフ。<_____MYNAME_____>は\n実家にいた時よりも\n社交的になったんじゃない？\n<PAGE>\nいろんな人と交流するのは\nとてもいいことよ。\nこれからも続けなさいね。"
+    },
+    {
+      "VardId": "MES_MEAL_NIGHT_COMMENT_07_Mother",
+      "Text": "<FACE_MOTHER><POS_RIGHT><FACE_NORMAL>\r\nあらあら、充実してるじゃない。\nお母さんうらやましいわ。\n<PAGE>\nでも、たおれないように\n食事とすいみんは\nしっかり取るのよ？"
+    }
+  ]
+}

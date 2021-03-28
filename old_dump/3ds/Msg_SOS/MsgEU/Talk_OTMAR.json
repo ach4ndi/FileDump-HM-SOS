@@ -1,0 +1,670 @@
+﻿{
+  "Date": "2016-06-10T19:20:15.9729505+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_FIRST_MEETING",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nHmm? Who are you? I'm Otmar...\n<PAGE>\nOh, you're the new farmer? Well, then, it's nice\nto meet you!"
+    },
+    {
+      "VardId": "MES_MORNING_00",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nGood morning, <MYNAME>. You certainly seem\nexcited to be awake, for some reason!"
+    },
+    {
+      "VardId": "MES_MORNING_01",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nGood morning, <MYNAME>. How are you\ndoing? Well? Well, that's good!"
+    },
+    {
+      "VardId": "MES_MORNING_02",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nGood morning, <MYNAME>. You're awfully\nspirited for such an hour! You'll be the rooster\nwho wakes the world, I fear..."
+    },
+    {
+      "VardId": "MES_AFTERNOON_00",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nHey, <MYNAME>. You're looking good! Guess\nyou've adjusted well to farm life, then?"
+    },
+    {
+      "VardId": "MES_AFTERNOON_01",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nHello...?\n<PAGE>\nOh, <MYNAME>, it's you. You're looking well."
+    },
+    {
+      "VardId": "MES_AFTERNOON_02",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nHello...<MYNAME>. How's your work going?\nWell? ...I see. That's good to hear."
+    },
+    {
+      "VardId": "MES_EVENING_00",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nOh, hello! Have you finished your work for the\nday?"
+    },
+    {
+      "VardId": "MES_EVENING_01",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nGood evening...<MYNAME>. Are you still on the\nclock? I'm impressed. That's a work ethic from\nanother age, right there!"
+    },
+    {
+      "VardId": "MES_EVENING_02",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nGood evening...<MYNAME>. You must be tired\nby now. You should take a rest."
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_SPRING",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nIt's a beautiful day today. Too beautiful to waste.\nMaybe I should take a walk."
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_SPRING",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nThis weather is really quite aggravating. No one\ncomes to shop on a day like this."
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_SUMMER",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nSunny weather is nice and all, but when it's this\nhot on top of it, I just feel dry and unpleasant."
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_SUMMER",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nThis weather is really quite aggravating. No one\ncomes to shop on a day like this."
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_AUTUMN",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nIt's a lovely day today. I'll bet it feels especially\nnice at the top of the mountain."
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_AUTUMN",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nThis weather is really quite aggravating. No one\ncomes to shop on a day like this."
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_WINTER",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nThe sun may be out, but it's certainly not\nwarming much. And this cold weather always\nmakes my back hurt..."
+    },
+    {
+      "VardId": "MES_WEATHER_SNOW",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nNot a fan of all this snow. I'm not sure I have it\nin me to shovel it anymore..."
+    },
+    {
+      "VardId": "MES_WEATHER_TYPHOON",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nAre you still working out in the fields? In this\nweather?! You should at least take a rest until\nthe wind dies down!"
+    },
+    {
+      "VardId": "MES_WEATHER_HEAVYSNOW",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_ANGRY>\nOh my, what're you doin' out in this heavy\nsnow? You could get stuck in the middle of\nnowhere, and then what'd become of you?"
+    },
+    {
+      "VardId": "MES_BLESSING_LOVER",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\n...Oh, <MYNAME>! \nI hear tell you're dating someone in town.\n<PAGE>\nYoung love, is it? I hope you'll invite me to your\nwedding!"
+    },
+    {
+      "VardId": "MES_HOUSE_FRIEND",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nI sometimes come here just to talk with Eda. It's\ngotten to the point that I'd almost say\nconversing with her is my new hobby."
+    },
+    {
+      "VardId": "MES_HOUSE_PINPOINT_00",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nI can't seem to catch any fish at all..."
+    },
+    {
+      "VardId": "MES_HOUSE_PINPOINT_01",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nWhen customers come by, I often like taking\nsome time to chat with them. It's one of my\nlittle joys in life."
+    },
+    {
+      "VardId": "MES_HOUSE_PINPOINT_02",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nI sometimes come here to buy certain\nnecessities, but I...erm...always seem to forget\nwhich ones by the time I arrive!"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_00",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nIt's so tiring, climbing all the way up here!"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_01",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nThese forests are ancient, and people say there\nare spirits that lurk within them. I've never seen\nthem myself, though..."
+    },
+    {
+      "VardId": "MES_AREA_RIVER_00",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nThere are a lot of fish in that river. I fish here\noften, but rarely ever catch any."
+    },
+    {
+      "VardId": "MES_AREA_RIVER_01",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nI always walk around here for exercise."
+    },
+    {
+      "VardId": "MES_AREA_FARM_00",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nIt's so tiring, climbing all the way up here!"
+    },
+    {
+      "VardId": "MES_AREA_FARM_01",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nI come here to see Fritz. He might not be the\nworld's most tactful person, but he's got a heart\nof gold."
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_00",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nEvery time I pass by here, I always have to stop\nand listen to the sound of the water wheel for a\nmoment. It's like music to my ears..."
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_01",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nThere are a lot of paddies around here. I hope\nthey can yield some top-quality rice!"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_02",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nElise is the one renting this land, last I heard.\nAnd she certainly is doing a bang-up job with it!"
+    },
+    {
+      "VardId": "MES_AREA_OTHER_00",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nWhen you get old, you can't move your body as\nwell as you could when you were young. But I\nstill take mine for a walk whenever possible!"
+    },
+    {
+      "VardId": "MES_AREA_OTHER_01",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nAre you going out too, <MYNAME>? You're\ncertainly a hard worker!"
+    },
+    {
+      "VardId": "MES_HEART_WHITE",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nHow's life treating you here? Well, you have\nplenty of time to get used to it, so even if it's not\nall sunshine and roses now...it will be!"
+    },
+    {
+      "VardId": "MES_HEART_PURPLE",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\n<MYNAME>, do you like fishing?\n<PAGE>\nI dabble in fishing from time to time, but I'm\nquite terrible at it. Which is fine, really.\n<PAGE>\nI just enjoy being out in nature and dropping my\nline. It's the experience that counts, not the end\nresult."
+    },
+    {
+      "VardId": "MES_HEART_BLUE",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nI'm in charge of the General Store, but as you\ncan probably see, business ain't exactly boomin'!\n<PAGE>\nStill...I'm mostly doing it to keep myself from\ngoing senile.\n<PAGE>\nSometimes, when customers drop by, I stop\nthem for a friendly chat. It's my favorite pastime\nthese days."
+    },
+    {
+      "VardId": "MES_HEART_GREEN",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nI've been living in this house since I was born.\nI've never once left the town.\n<PAGE>\nMy children are living in other towns, and my\nwife passed away a long time ago...but I just\nkeep on clinging to this land I love.\n<PAGE>\nMy children have offered to let me live with\nthem, but I like this place too much to leave it.\nAnd I still want to work, besides!\n<PAGE>\nI'll live here forever if I can, no matter what may\nhappen. I just hope I don't become a burden on\nthe good people here..."
+    },
+    {
+      "VardId": "MES_HEART_YELLOW",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nI've gotten rather forgetful in my old age.\nSometimes, I even forget how much things\ncost.\n<PAGE>\nBut my customers are kind enough to remember\nfor me and pay what they owe; no hoodwinking\nchicanery in this town!\n<PAGE>\nSome people even pay a little more than the item\nis worth...and I'm truly grateful for their\nkindness."
+    },
+    {
+      "VardId": "MES_HEART_ORANGE",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\n<MYNAME>, I have a story to tell you. And since\nyou're such an understanding person, I'm certain\nyou'll believe me, at least.\n<PAGE>\nA long time ago, I caught a truly enormous fish.\nBigger than me, even.\n<PAGE>\nIt was a long struggle. Lasted deep into the\nnight, it did. But I got it. Only...it was too big to\nbring home.\n<PAGE>\nSo I thought it would be better to leave it until\nmorning. Then I thought...what if the foxes eat\nit? So I sighed, and I released it.\n<PAGE>\n...You believe me, don't you?"
+    },
+    {
+      "VardId": "MES_HEART_RED",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nHey, <MYNAME>. You've been so nice to me...\n<PAGE>\nSince I live alone, I'm very grateful to you for\ndropping by to chat with an old man like me\nfrom time to time.\n<PAGE>\nI might not make much sense sometimes, what\nwith senility kicking in...but I always appreciate\nyour visits. Always."
+    },
+    {
+      "VardId": "MES_PRESENT_BEST",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nWell now, that's pretty generous of you. And it's\nmy favorite, too! Thank you! You made my day!"
+    },
+    {
+      "VardId": "MES_PRESENT_VERY",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nOh, is that for me? It's lovely.\n<PAGE>\nI shall graciously accept it. Thank you!"
+    },
+    {
+      "VardId": "MES_PRESENT_LIKE",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nSomething for me? Ah, how'd you know I\nenjoyed these? Thanks!"
+    },
+    {
+      "VardId": "MES_PRESENT_NORMAL",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nIs this for me? Well, thank you!"
+    },
+    {
+      "VardId": "MES_PRESENT_DISLIKE",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_SAD>\nWhat? Is this for me...?\n...I'm not much of a fan of these, but it's the\nthought that counts, so I'll take it. Thank you!"
+    },
+    {
+      "VardId": "MES_PRESENT_HATE",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_ANGRY>\nErrrrr... Please tell me that's not for me...\n<PAGE>\n<FACE_SAD>If you insist, I'll take it. But let it be known, I'm\nno fan."
+    },
+    {
+      "VardId": "MES_PRESENT_WORST",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_ANGRY>\nOh dear. So you brought something like this, did\nyou?\n<PAGE>\n<FACE_SAD>You realize I have false teeth, right? *sigh* But\nit's rude to turn down a present, so I'll accept it.\nThank you."
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_NORMAL",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nOh, that's quite flashy! Is it for me? Thank you."
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_DISLIKE",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_SAD>\nWhat? Is this for me...?\n...I'm not much of a fan of these, but it's the\nthought that counts, so I'll take it. Thank you!"
+    },
+    {
+      "VardId": "MES_PRESENT_CANNOT",
+      "Text": "Let's not give him a present right now."
+    },
+    {
+      "VardId": "MES_PRESENT_RESERVE",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nIt's been a long time since we last talked, hasn't\nit? I don't need any gifts. I just want to know\nwhat's new in your life!"
+    },
+    {
+      "VardId": "MES_PRESENT_SECONDTIME",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nI feel bad receiving so many presents from you. I\ndon't think I'm comfortable accepting any more\ntoday."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_BEST",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nWell now, that's pretty generous of you. And it's\nmy favorite, too! Thank you! You made my day!\n<PAGE>\n...What's that? You say it's for my birthday? Is\nthat\ntoday?! I completely forgot!"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_VERY",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nOh, is that for me? It's lovely. ...What's that? It's\na birthday present?\n<PAGE>\nWhose birthday is it? ...Mine?! Oh...uh...thank\nyou!"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_LIKE",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nSomething for me? Ah, how'd you know I\nenjoyed these? Thanks! ...Oh, it's a birthday\npresent?!\n<PAGE>\nRight... Thank you. I'd totally forgotten today\nwas my birthday!"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_NORMAL",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nIt's a birthday present, for...me...? Well,\nnow...thank you for the thought."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_DISLIKE",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_SAD>\nWhat? Is this for me? It's...a birthday gift?!\n...I'm not much of a fan of these, but it's the\nthought that counts, so I'll take it. Thank you!"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_HATE",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_ANGRY>\nErrr... Please tell me that's not for me...\n<PAGE>\n<FACE_SAD>...What? It's a present for my birthday?! ...I\nsuppose I have to take it, then. ...Thank you?"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_WORST",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_ANGRY>\nOh, my. So you brought something like this, did\nyou?\n<PAGE>\n<FACE_SAD>You realize I have false teeth, right? *sigh* But\nit's rude to turn down a present, so I'll accept it.\nThank you.\n<PAGE>\n<FACE_NORMAL>...Wait, did you say it's a birthday present?\nToday's my birthday?! Wow. I completely\nforgot... Well, thank you again, then, I suppose!"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_NORMAL",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nOh, you got me a birthday present? Wow, it's\nquite...brilliant. I graciously accept! Thank you!"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_DISLIKE",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nA birthday present? For me? Sure is sparkly,\nbut...well, I don't much care for those. Since it\nis a gift, though, I'll accept it. Thank you."
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_RABBIT",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nWhat a cute bunny!"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_FOX",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\n...How precious."
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_OKOJO",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\n...How precious."
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_OTHER",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\n...How precious."
+    },
+    {
+      "VardId": "MES_ANGORA",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nSuch a fluffy bunny!"
+    },
+    {
+      "VardId": "MES_CHICK",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\n...How precious."
+    },
+    {
+      "VardId": "MES_HEN",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nWhen that chicken lays eggs, would you mind\nbringing me some?"
+    },
+    {
+      "VardId": "MES_DOG",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\n...How precious."
+    },
+    {
+      "VardId": "MES_FAT_DOG",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\n...It's a bit too fat, isn't it?"
+    },
+    {
+      "VardId": "MES_LARGEDOG",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\n...How precious."
+    },
+    {
+      "VardId": "MES_FAT_LARGEDOG",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\n...It's a bit too fat, isn't it?"
+    },
+    {
+      "VardId": "MES_CAT",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\n...How precious."
+    },
+    {
+      "VardId": "MES_FAT_CAT",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\n...It's a bit too fat, isn't it?"
+    },
+    {
+      "VardId": "MES_LONGHAIR_CAT",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\n...How precious."
+    },
+    {
+      "VardId": "MES_FAT_LONGHAIR_CAT",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\n...It's a bit too fat, isn't it?"
+    },
+    {
+      "VardId": "MES_FLOWER_FESTIVAL",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nMy, what a beautiful flower. Hmm? Today's the\nFlower Fair, you say?! ...Well, then, thank you\nvery much for the kind gesture!"
+    },
+    {
+      "VardId": "MES_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nA blue feather? I sell those at my shop. Is\nsomething wrong with it?"
+    },
+    {
+      "VardId": "MES_RING",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nThat's a very nice ring. Are you going to give it\nto someone special?"
+    },
+    {
+      "VardId": "MES_PRESENT_LAPPING_LIKE ",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nSuch lovely ribbon. It's my favorite color! And\nwhat's inside, I wonder...?"
+    },
+    {
+      "VardId": "MES_PRESENT_LAPPING",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nThat's very nicely wrapped. I wonder what's\ninside..."
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_00",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nToday's your birthday, if I remember correctly...\n<PAGE>\n<FACE_LAUGH>I got it right?! I'm impressed! Happy birthday to\nyou. This is a gift from the heart. Please accept\nit, and please enjoy!"
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_01",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nToday is...your birthday...isn't it? So...um...\nHappy birthday!"
+    },
+    {
+      "VardId": "MES_LONG_INTERVAL",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nOh, <MYNAME>! Long time no see. How have\nyou been?\n<PAGE>\nI know my store is a bit lacking in wares, but I\nhope you'll still come visit me from time to time."
+    },
+    {
+      "VardId": "MES_CLOTHES_4",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nWell, now, that's a nice outfit. It looks quite\ncomfortable!"
+    },
+    {
+      "VardId": "MES_CLOTHES_13",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nI like the color of your work clothes. That's my\nfavorite color, you know!"
+    },
+    {
+      "VardId": "MES_CLOTHES_17",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nThat jacket certainly seems comfortable to wear.\nI wouldn't mind something like that for myself..."
+    },
+    {
+      "VardId": "MES_CLOTHES_37",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nI've never seen people wearing an outfit quite like\nthat before. Are those clothes from a foreign\ncountry?"
+    },
+    {
+      "VardId": "MES_CLOTHES_45",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nThat jacket certainly looks comfortable to wear.\nAnd those trousers look really tough; like they\ncould survive a war!"
+    },
+    {
+      "VardId": "MES_CLOTHES_70",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nThat's quite a strange-looking outfit you've got\non. Seems exotic, like traditional garb from\nsome foreign land. But it looks good on you!"
+    },
+    {
+      "VardId": "MES_CLOTHES_79",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nMy, that's quite the stylish outfit you've got! If I\nwere a little younger, I'd wear that in a heartbeat."
+    },
+    {
+      "VardId": "MES_CLOTHES_80",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nThat outfit sure looks expensive. You project an\nair of elegance in it."
+    },
+    {
+      "VardId": "MES_CLOTHES_81",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nWhere'd you get that outfit? It's so...flashy...and\nlooks like y'can't move around in it too well.\nWho'd choose to wear such a thing?"
+    },
+    {
+      "VardId": "MES_CLOTHES_109",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nAre you wearing a skirt? ...What's that? It's\ncalled a \"kilt\"? Isn't that just a fancy word that\nmeans \"a skirt for men\"?"
+    },
+    {
+      "VardId": "MES_CLOTHES_113",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nWell, you're sure looking snazzy. Are you going\nsomewhere special?"
+    },
+    {
+      "VardId": "MES_CLOTHES_118",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nThat's a cute outfit. It looks really good on you."
+    },
+    {
+      "VardId": "MES_CLOTHES_121",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nMy, that's quite the stylish outfit you've got! If I\nwere a little younger, I'd wear that in a heartbeat."
+    },
+    {
+      "VardId": "MES_CLOTHES_122",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nThat's a very nice-looking jacket you've got on.\nThe skirt you're wearing with it is also rather\ncute. It's a great look on you!"
+    },
+    {
+      "VardId": "MES_CLOTHES_129",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nHmm? Have you become a doctor, now? I'll be\ncounting on you to help give me my bill of\nhealth, then."
+    },
+    {
+      "VardId": "MES_CLOTHES_137",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nWell, now, that's an interesting costume.\n...But why are you wearing it?"
+    },
+    {
+      "VardId": "MES_CLOTHES_138",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nWell, now, that's an interesting costume.\n...But why are you wearing it?"
+    },
+    {
+      "VardId": "MES_CLOTHES_144",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nHmm? Don't I know you? Are you...one of the\nmaids working for Elise, perhaps? Don't tell me,\nnow. I'll figure it out..."
+    },
+    {
+      "VardId": "MES_CLOTHES_156",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nIs that...a penguin costume?\nWhat sort of zaniness are you up to...?"
+    },
+    {
+      "VardId": "MES_CLOTHES_157",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nOh, where are you going in that armor? ...Has\nthe battle for our futures finally begun?!"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_3",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nThat's a nice hat. It screams \"farmer general\"!"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_4",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nOh, I like that hat. It looks good on you."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_15",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nHey, that's a nice hat. It looks perfectly suited to\na day of fishing."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_21",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nThat's the hat farmers wear, huh? It looks good\non you."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_25",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nThat's the hat farmers wear, huh? It looks good\non you."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_26",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nThat's a strange-looking hat. Is it from a far-off\nland, perhaps?"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_35",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nSporting the chef look, I see. Are you going to\nmake me something delicious, then?"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_37",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nThat hat looks like it's seen some things! I\nwonder what its history might be..."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_58",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nThose are nice glasses. They look like you could\ndrop them and nothing would happen."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_61",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nThese are nice glasses. They look...vintage. And\nI'm vintage, so I love it!"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOP_OPEN",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nIf you're lookin' to buy something, would you\nplease talk to me from the front side of the\ncounter? I have to keep up appearances, y'know."
+    },
+    {
+      "VardId": "MES_SCHEDULE_SLEEP_00",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_PATI>\n...Oh... Ohhh... Ohhhhhhhh... Such a...huge\nfish... Zzz..."
+    },
+    {
+      "VardId": "MES_SCHEDULE_SLEEPY_00",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nIt's about my bedtime now. You should go home\nand sleep too."
+    },
+    {
+      "VardId": "MES_MEAL_00",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nGive me a second. I'm eating."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_WOOD",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nIt's so nice having a bench to sit on. Now I can\nsit back and rest whenever I get tired!"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WOOD_BOX",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nThat wooden box would make for great storage.\nI bet I could find a million uses for it around the\nhouse..."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SCARECROW",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nLook, a scarecrow! That sure takes me back.\nYou used to see scarecrows all over the place,\nbut they're pretty rare nowadays."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SMALL_CART",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nThat wagon's pretty beat up. I wonder what use\nit could possibly be at this point..."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ANDON",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nThat's a paper lantern, huh? I used to sell those\nat my store, but they didn't exactly fly off the\nshelves."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GARDENLANTERN",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nA stone lantern for one's garden... How quaint\nand elegant!"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TABLE_JAPAN",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nThat's a nice desk. But...it's not really very useful\nhere, is it?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_CHAIR_JAPAN",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nThat's called a tea bench, isn't it? I love the look\nof the red cloth."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PARASOL_JAPAN",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nThis type of umbrella is what's known as a\n\"Garden Parasol,\" right?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GARDEN_BEACH_NEW2",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nThat's pretty distinctly a beach parasol, isn't it?\nStrange to see one somewhere other than the\nbeach. But hey, shade is shade!"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BOARD",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nStrange to see a sign set up in a place like this.\nWhat's it say?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_STATUE",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nI've seen that dog statue before. It's...from an old\nstory, about a clever dog that went on a journey\nwith a young child, if memory serves."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PUMP",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nIs that pump still working, I wonder?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WELL",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nI wonder if it's still possible to draw water from\nthis well. I like well water... It has a certain\nearthy flavor to it, you know?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WATCHTOWER",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nThat's quite the watchtower. I dare you to go all\nthe way to the top!"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OPEN_SPACE_MOSS_SMALL",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nI like this mossy plaza. It seems like a nice place\nto kick back and relax."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OPEN_SPACE_MOSS",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nI like this mossy plaza. It seems like a nice place\nto kick back and relax."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_DARUMA",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nIt's been a long time since I last saw a daruma\ndoll. How do you use those things again?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_KAMAKURA",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nThat's a heck of a snow cave. Is it sturdy\nenough that we can go inside and sit down,\nthough?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_KADOMATU",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\n...This is a New Year's decoration, right? In\nsome countries, people put them in front of their\nhouses on the first day of the year."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SHISHIODOSHI",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nThat's...a bamboo decoration for a garden,\nright?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_CACTUS",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nBecause I'm so forgetful, I quite like cacti. They\ngrow even when you forget to water them."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_CACTUS",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nBecause I'm so forgetful, I quite like cacti. They\ngrow even when you forget to water them."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BONSAI",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nI used to grow bonsai, but those things require a\nlot of care and attention. Eventually, I got fed up\nwith it and decided, never again!"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_CHRRYBLOSSOM",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nIt's not easy to care for cherry blossom trees,\nbut when they're in bloom, it's all worth it!"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_GINGKO",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nMaidenhair trees are so beautiful when they turn\nyellow..."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOPIARY_BOX",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nThe hedges around here sure do spruce up the\nscenery, don't they? It's like I always say: hedge\nyour bets, and bet on hedges."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_BAMBOO",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nBamboo bushes in the middle of town are an\nodd sight, don't you think?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_PINEAL",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nLook at the contours on that pine tree. You\ncould set your clock to those, they're so perfect!"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_CHERRYBLOSSOM",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nIt's not easy to care for cherry blossom trees,\nbut when they're in bloom, it's all worth it!"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_GINGKO",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_LAUGH>\nMaidenhair trees are so beautiful when they turn\nyellow..."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WALL_WOOD_1",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nThe wooden walls here really give the town a\nsecluded, austere appearance."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COLOR_1",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nWell, this place is certainly...white. I much\nprefer that to using too much color, though. It\nlooks simpler and cleaner."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COLOR_2",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nA lot of this decor is black. It must be hard to\nsee at night. I'd best be careful if I ever need to\nsneak through for anything!"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ATMOSPHERE_1",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nSo, is this what's popular at the moment? Must\njust be too stylish for old fogies like me..."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ATMOSPHERE_2",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nThis reminds me of Oak Tree Town the way it\nonce was. It looked just like...well... Actually, I\ndon't really remember..."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COMBO_1",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nWhat an interesting-looking doll. So red, and\nroly-poly... I bet if I stocked some of these at my\nshop, they'd sell, no problem!"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COMBO_2",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nAh, bamboo! Used to be you couldn't walk two\nsteps without bumping into some of this.\nOr...wait...maybe that was the next town over..."
+    },
+    {
+      "VardId": "MES_TOWN_POPULARITY_BEST",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nThis town has become awfully famous. The\nother day, I had a customer from a foreign\ncountry for the very first time!"
+    },
+    {
+      "VardId": "MES_TOWN_POPULARITY_BETTER",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nThis town is much busier than it used to be. I\nguess that means more customers for me, huh?"
+    },
+    {
+      "VardId": "MES_AREA_TOWN_00",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nI've never left this town, so I don't really have\nmuch basis for comparison, but...is this really\nsuch a \"backwoods\" place, like people say?"
+    },
+    {
+      "VardId": "MES_AREA_TOWN_01",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nThis town used to be much smaller, but it's\ngotten a whole heck of a lot busier over time."
+    },
+    {
+      "VardId": "MES_AREA_TOWN_02",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nI like this town just the way it is, but others\naren't quite so easily satisfied. They want to\nattract tourists and host events and such..."
+    },
+    {
+      "VardId": "MES_AREA_TOWN_03",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nIt's amazing how big this town has become.\nPeople gather here from all over the world now.\nWho could've ever seen THAT coming?"
+    },
+    {
+      "VardId": "MES_GRANDMA_MONEY_00",
+      "Text": "<FACE_OTMAR><POS_RIGHT><FACE_NORMAL>\nHere's your allowance for today. Use it well."
+    }
+  ]
+}

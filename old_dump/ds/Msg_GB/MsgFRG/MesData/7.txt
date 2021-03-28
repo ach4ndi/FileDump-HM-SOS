@@ -1,0 +1,73 @@
+hros[9000]objet et rserve[9000]bitflag[9000]champ[9000]animaux[9000]habitants[9000]bazar[9000]messages[9000]heure[9000]temps et vent[9000]tous les biens
+argent  [4096][9000]MP  [4097][9000]MPMAX [4098][9000]sexe  [4099][9000]fermeP  [4100]
+( X= [4096] / Y= [4097] )[9000][9000][8301]au changement de sexe passer[9000]de suite au jour suivant[8300]
+objets du sac[9000]objets de la rserve[9000]donnes de la rserve
+NO : [4096]  「[4097]」[9000]rang    :[4098][9000]fraicheur      :[4099][9000]nombre      :[4100][9000]cadeaux :[4101][9000]rcupration   :[4102][9000]
+NO : [4096] 「[4097]」[9000]croissance   : [4098][9000]labourage : [4099][9000]graine     : [4100][9000]eau     : [4101][9000]fertilisant  : [4102][9000]moissons  : [4103][9000]rang   : [4104][9000]
+param_hros[9000]param_famille[9000]donnes event[9000]
+personnage : [4096][9000] amiti : [4097][9000] jours sans contact : [4098][9000] 1re rencontre : [4099][9000] convers flag : [4100][9000] cadeaux : [4101][9000] animal : [4102][9000]
+ amour_niveau : [4103][9000] Fte des cadeaux : [4104][9000]
+mariage : [4096][9000]
+ date mariage : [4097] le [4098][9000]enfant : [4099][9000] naissance prvue : [4100] [4101] le [4102][9000]
+ date mariage : [4097] le [4098][9000]enfant : [4099][9000] date accouchement : [4101] le [4102][9000] enceinte : aprs [4100] jrs[9000]
+ date mariage : [4097] le [4098][9000] enfant : [4099][9000] date naissance : [4101] le [4102][9000] niveau croissance : [4103][9000] dure croissance : + [4104] jrs[9000] donnes croissance [4105][9000]
+perso_nuittoiles : [4096][9000]fleurs distribues : [4097][9000]cadeaux kath : [4098][9000]event mucho fume[9000]    niveau : [4099][9000]    nombre : [4100][9000][9000][8301]durant event mucho[8300][9000][8301]appuyer sur A pour[8300][9000][8301]augmenter le nombre.[8300][9000][8301]Attention : ne pas diminuer.[8300]
+vache, mouton[9000]poule[9000]chien[9000]chat[9000]cheval
+ID:[4096] [4097] / [4098][9000]prsence  :[4099] ([4100],[4101])[9000]nb de jours:[4102][9000]victoires:[4103][9000]affection  :[4104][9000]training  :[4105][9000]stress:[4106][9000]jours maladie:[4107][9000]temps libert:[4108][9000]aide:[4109][9000]repas:[4110][9000]
+ID:[4096] non enregistr[9000][9000]cheval : droite-gauche[9000]pour le dompter.[9000][8301]apparat le jour suivant[8300]
+veau(N)
+veau(M)
+vache(N)
+vache(M)
+agneau(N)
+agneau(B)
+mouton(N)
+mouton(B)
+poule(N)
+poule(B)
+poussin(N)
+poussin(B)
+chien1
+chien2
+chien3
+chien4
+chien sauvage1
+chien sauvage2
+chien sauvage3
+chien sauvage4
+chat1
+chat2
+chat3
+chat4
+cheval1
+cheval2
+cheval3
+cheval4
+avis  [4096][9000]taille choppe  [4097][9000]ventes  [4098][9000]meilleur vente  [4099][9000]avis  [4100](+-100)[9000]total ventes [4101][9000][9000][8301]si 2 changements, passer[9000]au jour suivant de suite.[8300]
+num catgorie [4096][9000]num message [4097][9000]
+num catgorie [4096][9000]catgorie de ciel[9000]
+haut bas = num catgorie[9000]droite gauche = num message[9000]bouton pour afficher[9000]message
+[8301]message affich[8300]
+date[9000]heure
+[4096] [4097] le [4098][9000][9000][8301]rgle[9000]choisir le jour prcdent et[9000]dormir de suite.[8300]
+heure  [4096][9000]minutes  [4097][9000][9000][4098] (ne peut tre modifi)
+lundi
+mardi
+mercredi
+jeudi
+vendredi
+samedi
+dimanche
+temps[9000]vent
+temps demain [4096][9000]temps aujourd'hui [4097][9000]temps hier [4098][9000][9000][8301]si le temps demain est[8300][9000][8301]modifi, toutes les autres[8300][9000][8301]donnes sont aussi changes.[8300][9000][8301]elles ne seront normales[8300][9000][8301]que le jour suivant.[8300][9000][8301]faire attention.[8300]
+vent       [4096]
+beau temps
+nuageux
+pluie
+tempte
+typhon
+neige
+tempte de neige
+pas de debug
+pas de debug
+taille rserve     : [4096][9000]performance rserve : [4097][9000]

@@ -1,0 +1,1002 @@
+﻿{
+  "Date": "2016-06-10T19:47:34.0142442+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_TOUREVENT_KNOCK",
+      "Text": "<FACE_DUNHILL><POS_LEFT><FACE_NORMAL>\r\nおはよう<MYNAME>くん。\nちょっとおじゃまするよ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_GO",
+      "Text": "<FACE_DUNHILL><POS_LEFT><FACE_NORMAL>\r\n今日は<RED>ガーデニングツアー</RED>の日だ。\nみんな集まっているから、\n早速イベント会場に行こうか！"
+    },
+    {
+      "VardId": "MES_TOUREVENT_PERSONS_BAD",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_NORMAL>\r\n前回は残念な結果に終わってしまった。\n今回は<BLUE><MOJI0>人</BLUE>が\n見に来てくれているぞ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_PERSONS_SUBTLE",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_NORMAL>\r\n前回はビミョーな出来だったな。\n今回は<BLUE><MOJI0>人</BLUE>が\n見に来てくれているぞ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_PERSONS_NORMAL",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_NORMAL>\r\n前回はなかなかのものだったな。\n今回は<BLUE><MOJI0>人</BLUE>が\n見に来てくれているぞ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_PERSONS_GOOD",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_NORMAL>\r\n前回はみんな楽しんでくれたよ。\n今回は<BLUE><MOJI0>人</BLUE>が\n見に来てくれているぞ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_PERSONS_NICE",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_NORMAL>\r\n前回はみんな満足していたぞ！\n今回は<BLUE><MOJI0>人</BLUE>が\n見に来てくれているぞ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_PERSONS_BRAVO",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_NORMAL>\r\n前回は最高の出来だったな！\n今回は<BLUE><MOJI0>人</BLUE>が\n見に来てくれているぞ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_PERSONS_FIRST",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_NORMAL>\r\n初めての開催だな！\n今回は<BLUE><MOJI0>人</BLUE>が\n見に来てくれているぞ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_GO_SEEING",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_ROUGH>\r\nそれじゃあ早速、\nガーデニングを鑑賞しようか！\n<MYNAME>くん、よろしく頼む。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_CLOSE",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_NORMAL>\r\nさて、そろそろお開きにしようか。\n参加者の皆さん、\n今日はありがとうございました。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_FORGET",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_SAD>\r\n…<MYNAME>くん、ま、まさか…。\n今日のツアーのこと、忘れていたのか？\n何てことだ…！！"
+    },
+    {
+      "VardId": "MES_TOUREVENT_CANCEL_00",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_SAD>\r\n仕方ない…今日は中止だ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_CANCEL_01",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_SAD>\r\nみなさん、\nわざわざ来てもらったがすまない。\n残念だが、もう帰るとしよう。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_SCOLD",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_ANGRY>\r\n全く、<MYNAME>くんにはがっかりだ…。\n参加してくれた人たちに申し訳ない。\n今後はこのようなことがないようにな。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_PAY_MONEY",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_ROUGH>\r\nそれから、<MYNAME>くんには\n今日の見物料をわたしておこう。\n今後のガーデニング作りに役立ててくれ！"
+    },
+    {
+      "VardId": "MES_TOUREVENT_GOOD_BYE",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_NORMAL>\r\n次回のツアーも期待してるぞ。\n頑張ってくれよ！\nでは、オレたちはこれで帰るとしよう。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_HOW_MUCH",
+      "Text": "今回のツアー見物料を確認しよう。\nいくらもらったのかな…？"
+    },
+    {
+      "VardId": "MES_TOUREVENT_MONEY_BAD",
+      "Text": "今回の見物料は、\nだれからももらえなかったみたい…。\n次回はちゃんとガーデニングを作ろう！"
+    },
+    {
+      "VardId": "MES_TOUREVENT_MONEY_SUBTLE",
+      "Text": "今回の見物料は、<BLUE><MOJI0>Ｇ</BLUE>。\nツアーは失敗だったみたい。\n次回もがんばろう。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_MONEY_NORMAL",
+      "Text": "今回の見物料は、<BLUE><MOJI0>Ｇ</BLUE>！\nツアーはそれなりに成功したみたい。\n次回もがんばろう。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_MONEY_GOOD",
+      "Text": "今回の見物料は、<BLUE><MOJI0>Ｇ</BLUE>！\nツアーはそれなりに成功したみたい。\n次回もがんばろう。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_MONEY_NICE",
+      "Text": "今回の見物料は、<BLUE><MOJI0>Ｇ</BLUE>！\nツアーはみんなに楽しんでもらえたようだ！\n次回もがんばろう。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_MONEY_BRAVO",
+      "Text": "今回の見物料は、<BLUE><MOJI0>Ｇ</BLUE>！\nツアーは大成功！！　やったね♪\n次回もがんばろう。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_CALL",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_NORMAL>\r\nおーい、<MYNAME>くん！"
+    },
+    {
+      "VardId": "MES_TOUREVENT_SPACE_SELL_00",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_NORMAL>\r\n<CHARANAME0>さんが\n今回のガーデニングを買いたいそうだ。\nせっかくだ、売ってみてはどうだ？"
+    },
+    {
+      "VardId": "MES_TOUREVENT_SPACE_SELL_01",
+      "Text": "売る"
+    },
+    {
+      "VardId": "MES_TOUREVENT_SPACE_SELL_02",
+      "Text": "売らない"
+    },
+    {
+      "VardId": "MES_TOUREVENT_SPACE_SELL_YES",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_ROUGH>\r\n取引成立だな！！\nでは、買い取り額の<BLUE><MOJI0>Ｇ</BLUE>だ。\nこれで、<CHARANAME0>さんも喜ぶだろう♪"
+    },
+    {
+      "VardId": "MES_TOUREVENT_MONEY_SELL",
+      "Text": "<BLUE><MOJI0>Ｇ</BLUE>を受け取った！\nやった〜♪\nがんばって作って良かった！"
+    },
+    {
+      "VardId": "MES_TOUREVENT_SELL_LEAVE",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_NORMAL>\r\nそれじゃあオレは、ガーデニングを\n<CHARANAME0>さんの家まで運ぶとしよう。\nありがとう、<MYNAME>くん。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_SPACE_SELL_NO",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_SAD>\r\nそうか…まあ丹精こめて作った\nガーデニングだろうから仕方ない。\n<CHARANAME0>さんにはそう伝えておこう。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LEAVE",
+      "Text": "<FACE_DUNHILL><POS_RIGHT><FACE_NORMAL>\r\nそれじゃあ、オレはこれで。\nまたな、<MYNAME>くん。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM1_00",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_ROUGH>\r\nへえ…今回は洋風の庭か。\n雰囲気がよく出てる。\nこういう庭は好きだぜ。\n<PAGE>\n<FACE_ROD><POS_LEFT><FACE_ROUGH>うん、ボクも好きだな！\nこういう庭、ボクも欲しいな。\n<MYNAME>に作ってもらいたいよ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM1_01",
+      "Text": "<FACE_ROD><POS_LEFT><FACE_ROUGH>\r\nわあ、スゴイや！！\n今回のは大作だね！\nとっても見ごたえがあるよ。\n<PAGE>\n<FACE_ALLEN><POS_RIGHT><FACE_ROUGH>そうだな。\n<MYNAME>にしては、上出来だな。\nあとで褒めておいてやるか。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM1_02",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>\r\nまあ、最高とまでは言わないが\nなかなか凝ったガーデニングだな。\n悪くないぜ。\n<PAGE>\n<FACE_ROD><POS_LEFT><FACE_NORMAL>さすが、<MYNAME>だね。\nこういう庭を作れるなんて\n<MYNAME>はセンスがいいなぁ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM1_03",
+      "Text": "<FACE_ROD><POS_LEFT><FACE_NORMAL>\r\nおー！\nイイ感じの庭だね！\n<MYNAME>ってば頑張ってるね。\n<PAGE>\n<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>確かに悪くはないが、\n工夫次第でもっとイイ庭が出来そうだ。\n次回に期待しておくとするか。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM1_04",
+      "Text": "<FACE_ROD><POS_LEFT><FACE_NORMAL>\r\nうん、なかなかのお庭だね。\nそれにしても、\nお庭って作るの大変そうだよね。\n<PAGE>\n<FACE_ALLEN><POS_RIGHT><FACE_LOSS>そうか？\nこれくらいの庭なら、オレ様でも\nカンタンに作れそうだぜ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM1_05",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_SAD>\r\n…なんだ、この庭。\n見ごたえも、見るべきものも無いな。\n今回はハズレか、来るんじゃなかったな。\n<PAGE>\n<FACE_ROD><POS_LEFT><FACE_LOSS>うーん…。\n今回はアレンの意見に賛成かな。\n楽しみにしてたんだけどなぁ…。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM2_00",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n今回はオリエントの雰囲気が\nとてもよく出ていますね。\n素晴らしいコーディネートです。\n<PAGE>\n<FACE_OLIVIA><POS_LEFT><FACE_ROUGH>ホント、とてもステキですわ。\nいつまでも見ていたいくらいです。\nあとで写真をとってもらおうかしら。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM2_01",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n素晴らしいお庭ですね…。\n王宮の庭園にもひけをとらない\nとても見ごたえのある作りです。\n<PAGE>\n<FACE_OLIVIA><POS_LEFT><FACE_ROUGH>ええ、このお庭に合わせて\nお茶とお菓子をそろえてみたいくらい\nとてもミリョク的なお庭ですわ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM2_02",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nステキなお庭ですね。\nこんなお庭があるなら、\nこの街の名所にもなれそうです。\n<PAGE>\n<FACE_OLIVIA><POS_LEFT><FACE_ROUGH>わたしもそう思いますわ。\nホントに<MYNAME>さんは多才ですね。\nさすがですわ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM2_03",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nいいお庭ですね。\nもっとじっくり鑑賞したいです。\n時間制限があるのが、もったいないですね。\n<PAGE>\n<FACE_OLIVIA><POS_LEFT><FACE_NORMAL><MYNAME>さんが聞いたら\nきっと喜ぶでしょうね。\nこれからも頑張ってほしいわ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM2_04",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n可もなく、不可もなくといった\nところでしょうか。\nそれなりにまとまっていますね。\n<PAGE>\n<FACE_OLIVIA><POS_LEFT><FACE_NORMAL>まとまってはいますが、\n少し物足りない気もしますわ…。\n次回に期待しましょう。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM2_05",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_SAD>\r\n…正直に言って、とても残念です。\nもっといいお庭を期待していたのですが…。\n<PAGE>\n<FACE_OLIVIA><POS_LEFT><FACE_SAD>ええ…。\n今日のお庭、人にお見せする庭としては\nふさわしくありませんわ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM3_00",
+      "Text": "<FACE_KUROZE><POS_RIGHT><FACE_ROUGH>\r\nこれは、水辺の雰囲気を意識して\n作られているのだろうか？\nフム、見ごたえがあって素晴らしい。\n<PAGE>\n<FACE_IROHA><POS_LEFT><FACE_ROUGH>この雰囲気、とても好きですわ。\n写真をとって、部屋に飾りたいくらいです。\nダンヒルさんにお願いしようかしら。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM3_01",
+      "Text": "<FACE_IROHA><POS_LEFT><FACE_ROUGH>\r\n見てください、クローゼさん。\n本当にステキなお庭ですわ…。\nこのままずっと見ていたいくらいです。\n<PAGE>\n<FACE_KUROZE><POS_LEFT><FACE_ROUGH>今回の庭は、見事としか言いようがない。\nそれくらいに素晴らしい。\nいやはや、恐れいったよ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM3_02",
+      "Text": "<FACE_KUROZE><POS_RIGHT><FACE_ROUGH>\r\nフム…さすがは<MYNAME>だ。\nいい庭を作るじゃないか。\nついつい見入ってしまうな。\n<PAGE>\n<FACE_IROHA><POS_LEFT><FACE_ROUGH>ええ、わたしもそう思います。\n見てるだけで、\nとても楽しい気持ちになりますわ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM3_03",
+      "Text": "<FACE_KUROZE><POS_RIGHT><FACE_NORMAL>\r\nフム…<MYNAME>くんの\n頑張りが伝わってくる庭だな。\nあとでお疲れと言っておこう。\n<PAGE>\n<FACE_IROHA><POS_LEFT><FACE_NORMAL>配置に色々と苦心したかもしれませんが\nそれでもこの様な庭を作れるなんて…。\n尊敬します。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM3_04",
+      "Text": "<FACE_IROHA><POS_LEFT><FACE_NORMAL>\r\n今回のお庭はわりと普通ですね。\nでも、わたしは結構好きな雰囲気です。\n<PAGE>\n<FACE_KUROZE><POS_LEFT><FACE_NORMAL>まあ、悪くはないが…。\nせっかく人を集めて鑑賞を行うのだから\nもう少し見ごたえが欲しいところだな。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM3_05",
+      "Text": "<FACE_KUROZE><POS_RIGHT><FACE_SAD>\r\n面白みのない庭だな。\nつまらん。\n今回はムダ足だったようだ。\n<PAGE>\n<FACE_IROHA><POS_LEFT><FACE_SAD>もう少し、わたしたちを\n楽しませてくれる庭を\n期待してたのですが…残念です。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM4_00",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_ROUGH>\r\nキャー<RED>∀</RED>\nとってもオシャレなお庭ね！\n<PAGE>\nこの街全部が、\nこのお庭みたいな雰囲気なら\nテーマパークと言ってもいいくらいだわ♪\n<PAGE>\n<FACE_YURI><POS_LEFT><FACE_ROUGH>うん…。\nすっごくオシャレ………。\nこんな雰囲気の街に住みたい…。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM4_01",
+      "Text": "<FACE_YURI><POS_LEFT><FACE_ROUGH>\r\nお庭…とてもステキ。\n…ずっとここにいたいくらい。\n幸せ…。\n<PAGE>\n<FACE_MICHEL><POS_RIGHT><FACE_ROUGH>こんなステキなお庭が見られるなんて、\nとっても幸せね<RED>∀</RED>\n今日は来て本当に良かったわ♪"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM4_02",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_ROUGH>\r\nわあ、スゴイ！\nこんなに見ごたえ満点のお庭なんて\nそうそう見れるものじゃないわ♪\n<PAGE>\n<FACE_YURI><POS_LEFT><FACE_ROUGH>うん…。\n見てるだけで、とっても楽しい…。\nあとで、<MYNAME>にお礼言わなきゃ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM4_03",
+      "Text": "<FACE_YURI><POS_LEFT><FACE_NORMAL>\r\nいいお庭…。\n作るのに、とても時間がかかりそう…。\n<PAGE>\n<FACE_MICHEL><POS_RIGHT><FACE_NORMAL>ホントねー。\nでも手間ひまかけた分だけの、\nいいお庭になってると思うわ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM4_04",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_NORMAL>\r\nうーん、悪くないんだけど\n至って普通ね。\nもっとドキドキするお庭が見たいわ。\n<PAGE>\n<FACE_YURI><POS_LEFT><FACE_NORMAL>うん…。\n<MYNAME>には…頑張って欲しい。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM4_05",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_ANGRY>\r\n…エンターテイナーとして、今回のお庭は\nとてもじゃないけど評価出来ないわ。\nもっと見る人たちのことを考えないと。\n<PAGE>\n<FACE_YURI><POS_LEFT><FACE_SAD>うん…。\n人に喜んでもらいたいなら、\n手を抜いちゃダメ…。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM5_00",
+      "Text": "<FACE_KAMONBERU><POS_RIGHT><FACE_ROUGH>\r\nオ〜ウ！\n和風のお庭、と〜ても素晴らしいデ〜ス！\n感動シマ〜シタ♪\n<PAGE>\n<FACE_KOSABURO><POS_LEFT><FACE_ROUGH>いいねぇ！\n和の心が、ビシビシ伝わってくるぜ！\nおいらはこの庭、最高に好きだぜ！"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM5_01",
+      "Text": "<FACE_KOSABURO><POS_LEFT><FACE_ROUGH>\r\nこりゃスゲェな！！\n<MYNAME>一人でこんな庭作れるなんて、\nたまげたぜ！\n<PAGE>\n<FACE_KAMONBERU><POS_RIGHT><FACE_ROUGH>ブラボー！！\nワタシとても感動シマ〜シタ！\n<MYNAME>は最高デ〜ス！"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM5_02",
+      "Text": "<FACE_KAMONBERU><POS_RIGHT><FACE_ROUGH>\r\nオー、とてもワンダフル！\n<MYNAME>、いい仕事してマ〜ス。\n<PAGE>\nぜひウチのお店にも\nこんな庭を作ってもらいたいデ〜ス！\n<PAGE>\n<FACE_KOSABURO><POS_LEFT><FACE_ROUGH>いいねぇ！\nおいらもこんな庭作ってみたいぜ！\n<MYNAME>に弟子入りしてぇな！"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM5_03",
+      "Text": "<FACE_KOSABURO><POS_LEFT><FACE_NORMAL>\r\nおお、見ごたえのある\nいい庭じゃねぇか！\n<MYNAME>、頑張ってるな！\n<PAGE>\n<FACE_KAMONBERU><POS_RIGHT><FACE_NORMAL>ナイスなお庭デ〜ス！\n見ていてあきないので\nとても楽しいデ〜ス♪"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM5_04",
+      "Text": "<FACE_KAMONBERU><POS_RIGHT><FACE_NORMAL>\r\n今回のお庭は、ノーマルデ〜ス。\n定番料理み〜たいなものデ〜ス。\n<PAGE>\n別に悪〜くはあ〜りマセンが、\nせっかくならコース料理のような\nお庭が見たいデ〜ス！\n<PAGE>\n<FACE_KOSABURO><POS_LEFT><FACE_NORMAL>オマエさんの言うとおりだぜ！\nもっとこう、オレがうなっちまうような\nスケールのでけぇ庭が見てぇなぁ！"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM5_05",
+      "Text": "<FACE_KAMONBERU><POS_RIGHT><FACE_ANGRY>\r\nこの庭…ダメダメで〜ス！\nこれで〜は、お客は喜んでくれマセ〜ン！\nもっと向上心を持たないといけマセ〜ン！\n<PAGE>\n<FACE_KOSABURO><POS_LEFT><FACE_ANGRY>オマエさんの言うとおりだぜ！\nおいらたちがこんな庭で満足すると？\n軽く見られたもんだなぁ！"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM6_00",
+      "Text": "<FACE_HOSSAN><POS_RIGHT><FACE_ROUGH>\r\nいや〜、今回の庭は、\n秋の植物でコーディネートですか〜。\n<PAGE>\nわたしは秋生まれなんで、\nうれしいですなぁ〜。\n感動しましたわ。\n<PAGE>\n<FACE_SANDRA><POS_LEFT><FACE_ROUGH>アヒャヒャヒャヒャ！\nあたしも同じ秋生まれじゃ！\n<PAGE>\nこの庭は、あたしらへのサービスかい？\nやるじゃないか、ほめてやるよ♪\nアーヒャヒャヒャヒャ！"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM6_01",
+      "Text": "<FACE_SANDRA><POS_LEFT><FACE_ROUGH>\r\nアヒャヒャヒャヒャ！\nいいねぇ、いいねぇ！\nこんな明るい時間に来たかいがあったよ。\n<PAGE>\n自分の研究以外で、長時間見たいと\n思えるものは、ほとんどないからねぇ！\n今日はツイてるよ！\n<PAGE>\n<FACE_HOSSAN><POS_RIGHT><FACE_ROUGH>いやー、サンドラさんが\nそこまで言うのも分かりますわ〜。\n<PAGE>\nこの庭、小説の舞台として\nオレの本に使ってもええやろか。\nあとで<MYNAME>さんに頼もかな〜。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM6_02",
+      "Text": "<FACE_HOSSAN><POS_RIGHT><FACE_ROUGH>\r\nいや〜、見事ですな〜。\nさすがは<MYNAME>さんですわ。\nええ仕事しはりますなぁ。\n<PAGE>\n<FACE_SANDRA><POS_LEFT><FACE_ROUGH>アヒャヒャヒャヒャ！\nこの庭なら、研究の息抜きとして\n十分使えるわい！\n<PAGE>\nこの庭のミニチュアでも作って\n部屋に置いとこうかねぇ。\nアヒャヒャヒャヒャ！！"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM6_03",
+      "Text": "<FACE_SANDRA><POS_LEFT><FACE_NORMAL>\r\nへぇ…。\nこの庭、居心地がよさそうじゃないか。\n中に入って鑑賞しようかねぇ。\n<PAGE>\n<FACE_HOSSAN><POS_RIGHT><FACE_ANGRY>サンドラさん、\n気持ちはわかりますが、中はダメです。\nダンヒルさんに怒られますよ〜。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM6_04",
+      "Text": "<FACE_HOSSAN><POS_RIGHT><FACE_NORMAL>\r\n想像してたのに比べて、\nえらい平凡な庭ですな〜。\nでも、コレはコレでなかなか…。\n<PAGE>\n<FACE_SANDRA><POS_LEFT><FACE_NORMAL>平凡はつまらんのぅ。\n若いんだから、もっとはみ出した庭を\n作ってもらいたいもんだねぇ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM6_05",
+      "Text": "<FACE_HOSSAN><POS_RIGHT><FACE_SAD>\r\nいやー…。\n今回の庭はノーコメントですな〜。\n<PAGE>\n<FACE_SANDRA><POS_LEFT><FACE_ANGRY>なんだいコリャ！\nこんな庭を見せるなんて、\nあたしをバカにしてんのかい？\n<PAGE>\nこんな庭を見るくらいなら、\nさっさと帰って研究がしたいね！"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM7_00",
+      "Text": "いや〜、カントリー調の庭ですか。\nまるで映画のセットのようですね〜。\nギターでも持って歌いたくなりますよ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM7_01",
+      "Text": "いや〜、驚きました。\nまさかここまで見事なお庭とは…。\n一瞬声が出ませんでしたよ。\n<PAGE>\nわざわざ遠くから\n足を運んだかいがありました。\n今度は彼女を連れて来ようかな……。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM7_02",
+      "Text": "牧場主ってだけでもスゴイのに、\nこんな庭まで作れるなんて……。\nオレのこと弟子にしてくれないかな…。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM7_03",
+      "Text": "うん、素晴らしい庭だ。\n見ごたえがあって、楽しいよ。\n<PAGE>\nこれまでたくさんの\nツアーに参加してきたが、\n今回のツアーは当たりだったな！"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM7_04",
+      "Text": "これくらいの庭なら、\nボクだって作れますよ……。\n<PAGE>\nこれでお金がかせげるなら\nボクもやろうかな。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM7_05",
+      "Text": "……こんな庭を見るために\nボクは五時間もかけてここに来たのか…。\nこれなら家で寝ておけばよかった。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM8_00",
+      "Text": "和風の庭って\nどうしてこんなに落ち着くのかしら。\n<PAGE>\nこんなお庭が近くにあるなら\n毎日だって足を運ぶのに…………。\nああ、うらやましい。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM8_01",
+      "Text": "本当に素晴らしいものに出会った時、\n人生が変えると言うけれど…。\nそれはホントのことなのね。\n<PAGE>\n今まで全くガーデニングに\n興味なかったけど、本気でこれから\n庭師を目指そうかしら…。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM8_02",
+      "Text": "旅行のついでに立ち寄ったのに、\nこっちの方が目的になりそうなくらい\n見事なお庭ね。\n<PAGE>\n機会があるなら\n次回もぜひ参加したいわ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM8_03",
+      "Text": "これほどのステキなお庭を\nたった一人で作るなんて…。\n<PAGE>\nわたしが女じゃなかったら\n<MYNAME>さんに\n結婚を申しこむところよ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM8_04",
+      "Text": "ほんとに普通のお庭ね。\nもう少し力を入れてくれないと、\n参加する気がなくなっちゃうわ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM8_05",
+      "Text": "……このお庭、ダメね。\nわたしの心に響かないわ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM9_00",
+      "Text": "春の植物をふんだんに使ってるのか。\n美しい色合いとはなやかさで、\nオレの心がはずむな。\n<PAGE>\n今日はとってもステキな日になりそうだ。\n来て良かった。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM9_01",
+      "Text": "お庭に対してこんな表現は\nどうかと思うんだが……。\n感動したよ。\n<PAGE>\n美しいものは人をだまらせるって\n本当なんだなぁ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM9_02",
+      "Text": "見事な庭だな。\nこんなお庭があるなら\n町おこしの大きな切り札になるだろうな。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM9_03",
+      "Text": "一人でこれほどの庭を作るなんて\nたいしたもんだな。\nビックリだよ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM9_04",
+      "Text": "普通……だな。\n期待してきたわけじゃないけど、\n肩すかしをくらった気分だ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTA_TEAM9_05",
+      "Text": "これで客をとろうなんて\nオレたちも甘く見られたもんだな。\nガッカリだ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM1_00",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_ROUGH>\r\n見て見て！\n動物がたくさんいるよー！！\nまるで動物園にいるみたい！\n<PAGE>\n<FACE_FELICIA><POS_LEFT><FACE_ROUGH>ホント、とっても可愛らしいです♪\nこんなお庭が街中にあったら、\n毎日もっと楽しく暮らせそうです♪"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM1_01",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_ROUGH>\r\nうっわー、すっごいお庭ーーー♪\nこんなお庭作れるんだ！！\n<MYNAME>ってば、天才だね！\n<PAGE>\n<FACE_FELICIA><POS_LEFT><FACE_ROUGH>フフッ、ティーナちゃんってば、\nとっても楽しそうですね♪\n<PAGE>\n…そういうわたしも、\nすっごく楽しんでますけど♪\n見ごたえたっぷりでお腹いっぱいです♪"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM1_02",
+      "Text": "<FACE_FELICIA><POS_LEFT><FACE_ROUGH>\r\nわあ♪\nステキなお庭ですよ、ティーナちゃん！\nあとで一緒に写真をとりましょう♪\n<PAGE>\n<FACE_TINA><POS_LEFT><FACE_ROUGH>あ、いいねーー♪\nついでに記事書かせてもらおっと！\n<PAGE>\nそのうち、ティーナ編集の\n「ガーデニングツアー百選」なんて\n写真集も作れるといいな〜♪"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM1_03",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_NORMAL>\r\nコレってさ、何から何まで\n全部<MYNAME>がやってるんだから\n驚きよね…。\n<PAGE>\nこんなお庭が作れるなら\nあたしは間違いなく庭師になるわ。\n<PAGE>\n<FACE_FELICIA><POS_LEFT><FACE_NORMAL>ホント、多芸多才で\nうらやましいですよね。\nその才能、少しくらい分けてほしいです。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM1_04",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_NORMAL>\r\nうんうん、なかなかのお庭じゃない。\nあたしはこういうの結構好き。\n<PAGE>\nホントに落ち着く庭って、\nこういう多すぎず、少なすぎずの\nお庭だよね。\n<PAGE>\n<FACE_FELICIA><POS_LEFT><FACE_NORMAL>そうですね。\nわたしもティーナちゃんに賛成です。\nこういうお庭、好きです。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM1_05",
+      "Text": "<FACE_TINA><POS_RIGHT><FACE_SAD>\r\nさすがのあたしも\nこのお庭じゃ、テンション上がんないな。\n<MYNAME>ってば…。\n<PAGE>\n<FACE_FELICIA><POS_LEFT><FACE_SAD>そうですね。\n今日のツアー、楽しみにしてたんですが…。\n残念です。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM2_00",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_ROUGH>\r\n冬の植物をふんだんに取り入れた庭か…。\nとても見事だ。\nオレは冬生まれだから、なおさらそう思う。\n<PAGE>\n<FACE_NEEL><POS_LEFT><FACE_ROUGH>オレもこの庭は好きだな。\n庭とかはあんまりキョウミねーけど、\n今回のはいつまでも見ていたくなるな。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM2_01",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_ROUGH>\r\n…素晴らしいの一言だな。\n庭に置かれてる一つ一つものものが\nとても活き活きとしている。\n<PAGE>\n時間が経つのを忘れて\nいつまでも見ていられそうだ。\n<PAGE>\n<FACE_NEEL><POS_LEFT><FACE_ROUGH>確かにな。\n見ていてあきが来ないってのはいい。\n見るごとに色んな発見があって面白いぜ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM2_02",
+      "Text": "<FACE_NEEL><POS_LEFT><FACE_ROUGH>\r\nへえ、こんな庭を作るなんて\nやるな、<MYNAME>。\n<PAGE>\nさすがオレたちの街を\n復興させてるだけあるぜ。\n<PAGE>\n<FACE_SYUMITTO><POS_RIGHT><FACE_ROUGH>オレも同意見だ。\n今回のは見た人が楽しくなる庭だな。\n今まで見た庭の中でも印象に残りそうだ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM2_03",
+      "Text": "<FACE_NEEL><POS_LEFT><FACE_NORMAL>\r\nオレは庭の良し悪しなんて\nキョウミねぇけど、\nまあ、頑張ってる方なんじゃないか？\n<PAGE>\n<FACE_SYUMITTO><POS_RIGHT><FACE_NORMAL>そうだな。\n作り手の熱意のようなものを感じる。\nいい庭だと思うよ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM2_04",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_NORMAL>\r\n今回の庭は、\n人目をひく強い何かがあるわけではないが\nオレは好きだな。\n<PAGE>\n<FACE_NEEL><POS_LEFT><FACE_ROUGH>まあ、せっかくならもっとスゲェって\nなるような庭が見たい気もするが…。\nたまにはこういうのも悪くないかもな。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM2_05",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_LOSS>\r\n…コメントに困るな。\nどう言ったらいいのだろう。\n<PAGE>\n<FACE_NEEL><POS_LEFT><FACE_ANGRY>オレはあんまり庭に関心は向かねぇけど、\nさすがに今日の庭はちょっとな…。\nもう少しどうにかならなかったのかよ…。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM3_00",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_ROUGH>\r\nへぇ、なかなかユニークな庭じゃないか。\n遊びゴコロ満点で楽しそうだ。\nオレは好きだな♪\n<PAGE>\n<FACE_GARDNER><POS_LEFT><FACE_ROUGH>そうだな。\n正統派も好きだが、こういう一風変わった\n庭も見ごたえがあって、楽しいよ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM3_01",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_ROUGH>\r\nおー、こりゃ立派な庭だなぁ！\nコレを一人で作ったとは、見事なもんだ。\nいいものが見れて良かったなぁ。\n<PAGE>\n<FACE_GARDNER><POS_LEFT><FACE_ROUGH>素晴らしい…。\nオレやカミリヤも庭が好きだが、\n今回のは今までの中でも特に立派だな。\n<PAGE>\nこうした庭を作れる才能があるなんて\n<MYNAME>がうらやましいな。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM3_02",
+      "Text": "<FACE_GARDNER><POS_LEFT><FACE_ROUGH>\r\nこれはまた、素晴らしい庭だな。\nせっかくなら美しい女神と堪能したいが、\n隣にいるのがセンゴクで残念だ。\n<PAGE>\n<FACE_SENGOKU><POS_RIGHT><FACE_ROUGH>そりゃオレも同じだ。\nいや〜、それにしても本当にいい庭だ。\nこんな庭に囲まれて生活したいねぇ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM3_03",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_NORMAL>\r\nいいね〜、この庭。\n雰囲気出てるよ。\n思わず立ち寄りたくなるね。\n<PAGE>\n<FACE_GARDNER><POS_LEFT><FACE_NORMAL>ああ、上出来じゃないか。\nこういう庭が見れるなら\n毎回でも足を運びたくなるな。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM3_04",
+      "Text": "<FACE_GARDNER><POS_LEFT><FACE_NORMAL>\r\n総じて平均的な庭だが…。\nそうした中に楽しみを見つけるのが\n大人の楽しみ方だよ。\n<PAGE>\nセンゴク、ほら。\nそこの辺りなんか、\nいい雰囲気が出てると思わないか？\n<PAGE>\n<FACE_SENGOKU><POS_RIGHT><FACE_NORMAL>ああ、そこね。\n確かにいいけど、オレ的には\nこのへんの雰囲気も捨てがたいな〜。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM3_05",
+      "Text": "<FACE_GARDNER><POS_LEFT><FACE_SAD>\r\n今回のツアーには期待していたんだがね…。\nどうしてこんなことになったのか。\nとても残念だよ。\n<PAGE>\n<FACE_SENGOKU><POS_RIGHT><FACE_LOSS>うーん…。\nオレも楽しみにしてたんだけどな。\n次はもっとしっかりした庭を見たいもんだ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM4_00",
+      "Text": "<FACE_HANA><POS_RIGHT><FACE_ROUGH>\r\nもうわたしはおばあちゃんだから\nこういうカントリーのお庭は\n見ていてとても安らげるわ。\n<PAGE>\nこんなお庭、わたしも作ってみたいわ。\n<MYNAME>さんに、今度作り方の\nコツでも教わろうかしら。\n<PAGE>\n<FACE_EMA><POS_RIGHT><FACE_ROUGH>それはわたしも一緒に聞きたいですね。\nこういうお庭って、作れるようで\n作れないものですから。\n<PAGE>\nわたしもこのお庭、\nとっても好きですわ。\n見ていていやされます。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM4_01",
+      "Text": "<FACE_HANA><POS_RIGHT><FACE_ROUGH>\r\nまあまあ！\nとってもステキなお庭ね。\n<PAGE>\n生きてるうちに、\nこんなお庭が見られるなんて\n長生きはするものねぇ。\n<PAGE>\n<FACE_EMA><POS_LEFT><FACE_ROUGH>まあ、ハナさんったら。\n…でも、確かにこんなステキな\nお庭が見られるなんて、ぜいたくですわね。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM4_02",
+      "Text": "<FACE_EMA><POS_LEFT><FACE_ROUGH>\r\nまあ、ステキなお庭ですね♪\nこんなお庭がおうちにあったら\n毎日スキップしながら歩きそうです。\n<PAGE>\n<FACE_HANA><POS_RIGHT><FACE_ROUGH>あら、いいじゃない。\nわたしも一緒にスキップしようかしら。\nホホホ…。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM4_03",
+      "Text": "<FACE_HANA><POS_RIGHT><FACE_NORMAL>\r\nうれしいわねぇ、\nこんなお庭を見せてもらえるなんて。\n<MYNAME>さんは、頑張り屋さんね。\n<PAGE>\n<FACE_EMA><POS_LEFT><FACE_NORMAL>牧場の仕事をしながら、\nこんないいお庭も作るんですから…。\nまだ若いのに、尊敬しますわ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM4_04",
+      "Text": "<FACE_EMA><POS_LEFT><FACE_NORMAL>\r\n多すぎず、少なすぎず…。\n絶妙なバランスのお庭ですわね。\nこういうお庭もいいと思いますわ。\n<PAGE>\n<FACE_HANA><POS_LEFT><FACE_NORMAL>そうね…。\n普通が一番ってよく言うもの。\nわたしもいいと思うわ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM4_05",
+      "Text": "<FACE_HANA><POS_RIGHT><FACE_SAD>\r\n今回のは、お庭としては\nとても残念な出来ねぇ…。\nとても楽しみにしてたんだけど。\n<PAGE>\n<FACE_EMA><POS_LEFT><FACE_SAD>そうですね、\nもう少し庭らしくならないと…。\n来るお客さんが減ってしまうわ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM5_00",
+      "Text": "<FACE_REBECCA><POS_RIGHT><FACE_ROUGH>\r\nいや〜、見事だね！\n夏の植物が庭のそこかしこにあって\nとてもいいじゃないか。\n<PAGE>\nあたしもカミリヤも夏生まれだから\nこういうのは特に好きなんだよ。\nうれしいねぇ。\n<PAGE>\n<FACE_KAMIRIYA><POS_LEFT><FACE_ROUGH>ホント…。\n夏の植物の持つ華やかさが\n庭全体を引き立てていて、素晴らしいわ♪"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM5_01",
+      "Text": "<FACE_REBECCA><POS_RIGHT><FACE_ROUGH>\r\n…あたしの組み立て図からできたものが\nこうして見事な庭になるなんて…。\n作者ミョウリにつきるねぇ。\n<PAGE>\nあとで<MYNAME>には\n最大の賛辞とお礼を贈ることにするよ。\n<PAGE>\n<FACE_KAMIRIYA><POS_LEFT><FACE_ROUGH>あら、レベッカ。\nあなた少し泣きそうになってるでしょう。\n<PAGE>\nまあ、こんなに素晴らしいお庭に\n自分の作ったものが使われてるんだから、\n無理はないわね。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM5_02",
+      "Text": "<FACE_KAMIRIYA><POS_LEFT><FACE_ROUGH>\r\nステキなお庭だわ…。\nこんな雰囲気のお庭が作れるなんて\nセンスが良いショウコね。\n<PAGE>\n<FACE_REBECCA><POS_RIGHT><FACE_ROUGH>ホント、見事なもんだよ！\nウチの組み立て図の良い宣伝にもなるよ♪"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM5_03",
+      "Text": "<FACE_REBECCA><POS_RIGHT><FACE_NORMAL>\r\nいい庭だねぇ。\n中に入って、くつろぎたくなるよ。\nさすが<MYNAME>、やるじゃないか。\n<PAGE>\n<FACE_KAMIRIYA><POS_LEFT><FACE_NORMAL>まあ、レベッカったら。\nでもホント、いいお庭ね。\nうちでもガーデニングを始めようかしら。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM5_04",
+      "Text": "<FACE_KAMIRIYA><POS_LEFT><FACE_NORMAL>\r\nなかなかのお庭じゃないかしら。\n悪くないと思うわ。\nレベッカはどう思う？\n<PAGE>\n<FACE_REBECCA><POS_RIGHT><FACE_NORMAL>そうだね、悪くないよ。\nこの調子で今後も\n頑張ってほしいもんだね。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM5_05",
+      "Text": "<FACE_REBECCA><POS_LEFT><FACE_ANGRY>\r\nなんだい、この庭は…。\nあたしの作った組み立て図がちっとも\n役に立ってないじゃないか。\n<PAGE>\n使うも使わないも<MYNAME>次第だが…。\n残念だよ。\n<PAGE>\n<FACE_KAMIRIYA><POS_LEFT><FACE_SAD>そうね…。\nもう少し見ごたえのある庭を\n用意できなかったのかしら…。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM6_00",
+      "Text": "<FACE_HINA><POS_RIGHT><FACE_ROUGH>\r\nわあ！\n見て見て、ふたりとも。\n動物がたっくさんあるわ！\n<PAGE>\n<FACE_TONI><POS_LEFT><FACE_ROUGH>おお！\nこれだけあると、ハクリョクが違うぜ！\nカッコイイ！\n<PAGE>\n<FACE_NARUKU><POS_LEFT><FACE_ROUGH>うん、見てて楽しい！\nこんなお庭が作れるなんて、\n<MYNAME>さんはスゴイや！！"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM6_01",
+      "Text": "<FACE_TONI><POS_LEFT><FACE_ROUGH>\r\nスッゲー！！\n見ろよ、この庭。\n<PAGE>\n色んなものがたくさん置かれてて、\nメチャメチャ楽しそう！！\n<PAGE>\n<FACE_HINA><POS_RIGHT><FACE_ROUGH>ホント！\nまるでおもちゃ箱みたい♪\nとってもキラキラしてるわ！\n<PAGE>\n<FACE_NARUKU><POS_LEFT><FACE_ROUGH>スゴイなぁ。\nボクもこんな楽しそうな料理を\n作ってみたいなぁ♪"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM6_02",
+      "Text": "<FACE_NARUKU><POS_LEFT><FACE_ROUGH>\r\nわあ、とってもステキなお庭だね♪\nうちの宿においたら、泊まりに来る人\n増えるかなあ？\n<PAGE>\n<FACE_TONI><POS_RIGHT><FACE_ROUGH>それ、いいなぁ！\nこんな庭があるなら、\n毎日ナルクの家に通うよ！\n<PAGE>\n<FACE_HINA><POS_LEFT><FACE_ROUGH>あたしも通う！\nそれで、毎日ここで遊ぶんだ！\n<PAGE>\n<FACE_NARUKU><POS_LEFT><FACE_SAD>そ、それじゃあ\nお客さんが来なくなっちゃうよ。\nトホホ…。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM6_03",
+      "Text": "<FACE_HINA><POS_RIGHT><FACE_NORMAL>\r\nいいなぁ…。\nわたしも大きくなったら、\nこんなお庭を作ってみたいわ。\n<PAGE>\n<FACE_NARUKU><POS_LEFT><FACE_NORMAL>でも、材料集めとか\nとっても大変そうだよね…。\nボクには無理だなぁ。\n<PAGE>\n<FACE_TONI><POS_LEFT><FACE_NORMAL>いつもはそう思わないけど\n実は<MYNAME>って\n結構有能なやつなのかもな。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM6_04",
+      "Text": "<FACE_NARUKU><POS_LEFT><FACE_NORMAL>\r\n…うーん、このままでもいいけど\n動物の置き物とかを加えれば\nもっとステキな庭になりそうだね。\n<PAGE>\n<FACE_HINA><POS_RIGHT><FACE_NORMAL>わたしなら\n女神さまの像とアーチを置くわ！\nキレイなお庭にしたいもの。\n<PAGE>\n<FACE_TONI><POS_LEFT><FACE_NORMAL>オレはサイキョウオーだな！\nもっとたくさん置いたほうが\n絶対にカッコイイもんね！"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM6_05",
+      "Text": "<FACE_TONI><POS_LEFT><FACE_ANGRY>\r\nえええ！\nなんだよこの庭。\n全然楽しくないじゃん。\n<PAGE>\n<FACE_HINA><POS_RIGHT><FACE_SAD>うん…。\nせっかく来たのに、つまらないわ。\n<PAGE>\n<FACE_NARUKU><POS_LEFT><FACE_SAD>ハア…。\nすごくガッカリだね…。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM7_00",
+      "Text": "冬の植物がたっぷりの庭…。\nまるで冬生まれのオレを\n歓迎してくれてるようだ。\n<PAGE>\n今日のことは一生の思い出に\nなるだろうな。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM7_01",
+      "Text": "最高という表現は\nこういう時に使うんだろうな。\n<PAGE>\n文句のつけどころのない、\n素晴らしい庭だよ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM7_02",
+      "Text": "…ここのガーデニングツアーは\nなかなか面白いと聞いていたが\n評判通りだったな。\n<PAGE>\n今日は来てよかったよ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM7_03",
+      "Text": "こんなにいい庭を見れて\nオレはツイてたな。\n家族に自慢しよう。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM7_04",
+      "Text": "ありきたりでつまらんな。\nもうちょっと何とかならないのか…。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM7_05",
+      "Text": "…今日はハズレだな。\n来るんじゃなかったよ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM8_00",
+      "Text": "春の植物ってはなやかね。\n見ていて気分がほころぶわ。\n<PAGE>\nこんなに素晴らしいお庭、\nもっとたくさんの人と一緒に\n分かち合いたいわね。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM8_01",
+      "Text": "まあ、ステキ…！\n今まで見てきたどんなお庭も\nこの素晴らしさには敵わないわ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM8_02",
+      "Text": "さすがは<MYNAME>さん。\n期待通りの、いいお庭を作るわ。\n<PAGE>\nこのまま常連さんとして\n毎回参加するのも楽しそうね。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM8_03",
+      "Text": "まあ、いいお庭ね。\nわたしの町にはこんなお庭はないから、\n来たかいがあったわ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM8_04",
+      "Text": "……もう少しステキなお庭じゃないと、\n来たかいがないわ。\nあくびが出そうよ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM8_05",
+      "Text": "…ハア。\nこんなお庭を見せられるなんて\nあんまりだわ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM9_00",
+      "Text": "秋の植物ってのは\n色鮮やかで見てて楽しいな！\n<PAGE>\n食欲の秋なんだ。\nこんなお庭を見ながら、\n美味しいものでも食べたいなぁ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM9_01",
+      "Text": "ブラボー！\nこんなお庭が世界にはあるんだなぁ。\nいい体験をさせてもらったよ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM9_02",
+      "Text": "うーん…。\n一般人のオレにはとうてい\nマネできないガーデニングだな。\n<PAGE>\nでもこれをその道のプロじゃない人が\n作ったんだから、なおのこと驚きだよ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM9_03",
+      "Text": "見ていて楽しくなるお庭だね。\nいつまでも見ていたいよ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM9_04",
+      "Text": "平凡なつくりの庭だが\nどこか味を感じるな…。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTB_TEAM9_05",
+      "Text": "どうしよう…。\n…この庭のよさがまるで分からない。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM1_00",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_ROUGH>\r\nオシャレな庭だな。\nオレ様の店先にも、こんな庭を\n用意してもらいたいぜ。\n<PAGE>\n<FACE_IROHA><POS_LEFT><FACE_ROUGH>こういうのを、\nセンスがあるって言うんでしょうね。\nステキです。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM1_01",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_ROUGH>\r\n見事な庭だな。\nパーフェクトと言ってもいいだろう。\nオレ様もここまでの才能はないぜ。\n<PAGE>\n<FACE_IROHA><POS_LEFT><FACE_ROUGH>いつまでも見ていたくなる、\nそんなお庭ですね。\n<PAGE>\n…絵心があれば、\nぜひこの景色を描いてみたいですわ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM1_02",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_ROUGH>\r\nまあ、最高とまでは言わないが\nなかなか凝ったガーデニングだな。\n悪くないぜ。\n<PAGE>\n<FACE_IROHA><POS_LEFT><FACE_ROUGH>ええ、わたしもそう思います。\n見てるだけで、\nとても楽しい気持ちになりますわ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM1_03",
+      "Text": "<FACE_IROHA><POS_LEFT><FACE_ROUGH>\r\nモノを作って、配置して……。\nこうしたお庭を作るのに、きっと\n長い時間がかかったのでしょうね。\n<PAGE>\n庭作りにかかった時間分のよさは\nしっかり伝わってきますわ。\n<PAGE>\n<FACE_ALLEN><POS_RIGHT><FACE_NORMAL>そうかもしれないが、\n工夫次第でもっとイイ庭が出来そうだ。\n次回に期待しておくとするか。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM1_04",
+      "Text": "<FACE_IROHA><POS_LEFT><FACE_NORMAL>\r\nそういえば、こういうお庭は\n以前修行でお世話になった土地でも\nよく見かけました。\n<PAGE>\n<FACE_ALLEN><POS_RIGHT><FACE_LOSS>……それって、つまり、\nこの庭はその辺の家の庭と\n大して変わらない程度ってことだろ？\n<PAGE>\nまあ、その意見にはオレも賛成だがな。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM1_05",
+      "Text": "<FACE_ALLEN><POS_RIGHT><FACE_ANGRY>\r\n…なんだ、この庭。\n見ごたえも、見るべきものもないな。\n今回はハズレか、来るんじゃなかったな。\n<PAGE>\n<FACE_IROHA><POS_LEFT><FACE_LOSS>ええ……。\n期待してたのですが、残念です。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM2_00",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_ROUGH>\r\nへぇ、なかなかユニークな庭じゃないか。\n遊びゴコロ満点で楽しそうだ。\nオレは好きだな♪\n<PAGE>\n<FACE_TINA><POS_LEFT><FACE_ROUGH>あたしも好きだな♪\nなんだかおもちゃ箱みたいで\n見ててとっても面白い！"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM2_01",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_ROUGH>\r\nおー、こりゃ立派な庭だなぁ！\nコレを一人で作ったとは、見事なもんだ。\nいいものが見れて良かったなぁ。\n<PAGE>\n<FACE_TINA><POS_LEFT><FACE_ROUGH>ホント、ホント♪\nこんなお庭作れるなんて、\n<MYNAME>ってば、天才だね！"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM2_02",
+      "Text": "<FACE_TINA><POS_LEFT><FACE_ROUGH>\r\nこんなお庭を作れるなんて、\n<MYNAME>のことを、\n記事に書きたくなってくるなー！\n<PAGE>\n<FACE_SENGOKU><POS_RIGHT><FACE_ROUGH>ああ、オレも書きたいよ。\nいや〜、それにしても本当にいい庭だ。\nこんな庭に囲まれて生活したいねぇ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM2_03",
+      "Text": "<FACE_SENGOKU><POS_RIGHT><FACE_NORMAL>\r\nいいね〜、この庭。\n雰囲気出てるよ。\n思わず立ち寄りたくなるね。\n<PAGE>\n<FACE_TINA><POS_LEFT><FACE_NORMAL>こんなお庭が作れるなら\nあたしは間違いなく庭師になるわ。\n<PAGE>\n……<MYNAME>ってば、万能だよね。\nあたしに少しくらい分けてほしいかも。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM2_04",
+      "Text": "<FACE_TINA><POS_LEFT><FACE_NORMAL>\r\nうんうん、なかなかのお庭じゃない。\nあたしはこういうの結構好き。\n<PAGE>\nホントに落ち着く庭って、\nこういう多すぎず、少なすぎずの\nお庭だよね。\n<PAGE>\n<FACE_SENGOKU><POS_RIGHT><FACE_NORMAL>気が合うねぇ。\nオレもこういう庭は落ち着くよ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM2_05",
+      "Text": "<FACE_TINA><POS_LEFT><FACE_SAD>\r\nさすがのあたしも\nこのお庭じゃ、テンション上がんないよ。\n<PAGE>\n<FACE_SENGOKU><POS_RIGHT><FACE_LOSS>うーん…。\nオレも楽しみにしてたんだけどな。\n次はもっとしっかりした庭を見たいもんだ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM3_00",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_ROUGH>\r\n水辺の庭か……。\nとても見事だな。\nまるで大自然の中にいるようだ。\n<PAGE>\n<FACE_OLIVIA><POS_LEFT><FACE_ROUGH>ホント、とてもステキですわ。\nいつまでも見ていたいくらいです。\nあとで写真をとってもらおうかしら。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM3_01",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_ROUGH>\r\n…素晴らしいの一言だな。\n庭に置かれている一つ一つが、\nとても活き活きとしている。\n<PAGE>\n時間が経つのを忘れて\nいつまでも見ていられそうだ。\n<PAGE>\n<FACE_OLIVIA><POS_LEFT><FACE_ROUGH>ええ、このお庭に合わせて\nお茶とお菓子をそろえてみたいくらい\nとてもミリョク的なお庭ですわ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM3_02",
+      "Text": "<FACE_OLIVIA><POS_LEFT><FACE_ROUGH>\r\nホントに<MYNAME>さんは多才ですね。\nさすがですわ。\nわたしのお庭も作ってくださらないかしら。\n<PAGE>\n<FACE_SYUMITTO><POS_RIGHT><FACE_ROUGH>オレも同意見だ。\n今回のは見た人が楽しくなる庭だな。\n今まで見た庭の中でも印象に残りそうだ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM3_03",
+      "Text": "<FACE_OLIVIA><POS_LEFT><FACE_NORMAL>\r\nこのお庭、手間がかかってるんでしょうね。\n<MYNAME>さんの苦労が\nうかがえますわ。\n<PAGE>\n<FACE_SYUMITTO><POS_RIGHT><FACE_NORMAL>そうだな。\n作り手の熱意のようなものを感じる。\nいい庭だと思うよ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM3_04",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_NORMAL>\r\n今回の庭は、\n人目をひく強い何かがあるわけではないが\nオレは好きだな。\n<PAGE>\n<FACE_OLIVIA><POS_LEFT><FACE_NORMAL>確かに悪くはないですが、\nわたしとしては、少し物足りないですわ…。\n次回に期待しましょう。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM3_05",
+      "Text": "<FACE_SYUMITTO><POS_RIGHT><FACE_LOSS>\r\n…コメントに困るな。\nどう言ったらいいのだろう。\n<PAGE>\n<FACE_OLIVIA><POS_LEFT><FACE_SAD>ええ…。\n今日のお庭、人にお見せする庭としては\nふさわしくありませんわ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM4_00",
+      "Text": "<FACE_REBECCA><POS_RIGHT><FACE_ROUGH>\r\nいや〜、見事だね！\nオリエントな雰囲気を庭全体から感じるよ。\nとてもいいじゃないか。\n<PAGE>\n最初のころは、組み立て図すら\nまともに知らなかったのに……。\nここまでやるとは驚いたよ。\n<PAGE>\n<FACE_TONI><POS_LEFT><FACE_ROUGH>ハハッ！\n教えたかいがあったってことだろ？\nよかったな、母さん！"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM4_01",
+      "Text": "<FACE_REBECCA><POS_RIGHT><FACE_ROUGH>\r\n…あたしの組み立て図からできたものが\nこうして見事な庭になるなんて…。\n作者ミョウリにつきるねぇ。\n<PAGE>\nあとで<MYNAME>には\n最大の賛辞とお礼を贈ることにするよ。\n<PAGE>\n<FACE_TONI><POS_LEFT><FACE_ROUGH>色んなものがたくさん置かれてて、\nメチャメチャ楽しそう！！\nオレも庭作ってみたいなー。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM4_02",
+      "Text": "<FACE_TONI><POS_LEFT><FACE_ROUGH>\r\n<MYNAME>のやつ、\nこんな庭があるなら、早く言えよな。\n毎日牧場に遊びに行ってやるのに。\n<PAGE>\n<FACE_REBECCA><POS_RIGHT><FACE_ROUGH>ハハハ、単純な子だね！\nでも、ウチのお店の宣伝にもなるし\nトニ、毎日遊びに行ってきな。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM4_03",
+      "Text": "<FACE_REBECCA><POS_RIGHT><FACE_NORMAL>\r\nいい庭だねぇ。\n中に入って、くつろぎたくなるよ。\nさすが<MYNAME>、やるじゃないか。\n<PAGE>\n<FACE_TONI><POS_LEFT><FACE_NORMAL>いつもはそう思わないけど\n実は<MYNAME>って\n結構有能なやつなのかもな。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM4_04",
+      "Text": "<FACE_TONI><POS_LEFT><FACE_NORMAL>\r\nフツーってカンジの庭だね。\n悪くないけど……。\n<PAGE>\n<FACE_REBECCA><POS_RIGHT><FACE_NORMAL>そうだね、悪くないよ。\nこの調子で頑張れば\nそのうちもっといい庭ができるだろうさ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM4_05",
+      "Text": "<FACE_REBECCA><POS_LEFT><FACE_ANGRY>\r\nなんだい、この庭は…。\nあたしの作った組み立て図がちっとも\n役に立ってないじゃないか。\n<PAGE>\n使うも使わないも<MYNAME>次第だが…。\n残念だよ。\n<PAGE>\n<FACE_TONI><POS_LEFT><FACE_SAD>母さんが怒るのも無理ないや……。\nこの庭、全然楽しくないじゃん。\n<MYNAME>、もっと頑張れよなー。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM5_00",
+      "Text": "<FACE_HANA><POS_RIGHT><FACE_ROUGH>\r\nこういう和風のお庭は\n見ていてとても安らげるわ。\n<PAGE>\nこんなお庭、わたしも作ってみたいわ。\n<MYNAME>さんに、今度作り方の\nコツでも教わろうかしら。\n<PAGE>\n<FACE_KOSABURO><POS_LEFT><FACE_ROUGH>いいねぇ！\n和の心が、ビシビシ伝わってくるぜ！\nおいらはこの庭、最高に好きだぜ！"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM5_01",
+      "Text": "<FACE_KOSABURO><POS_LEFT><FACE_ROUGH>\r\nこりゃスゲェな！！\n<MYNAME>一人でこんな庭作れるなんて、\nたまげたぜ！\n<PAGE>\n<FACE_HANA><POS_RIGHT><FACE_NORMAL>そうねぇ。\nとってもステキなお庭ね。\n<PAGE>\n生きてるうちに、\nこんなお庭が見られるなんて\n長生きはするものねぇ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM5_02",
+      "Text": "<FACE_HANA><POS_RIGHT><FACE_ROUGH>\r\nあら、ステキね♪\nこういうお庭が家に欲しいわ。\n<PAGE>\n<FACE_KOSABURO><POS_LEFT><FACE_ROUGH>ホント、スゲェなぁ！\nおいらもこんな庭作ってみたいぜ！"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM5_03",
+      "Text": "<FACE_KOSABURO><POS_LEFT><FACE_NORMAL>\r\nおお、見ごたえのある\nいい庭じゃねぇか！\n<MYNAME>、頑張ってるな！\n<PAGE>\n<FACE_HANA><POS_RIGHT><FACE_NORMAL>うれしいわねぇ、\nこんなお庭を見せてもらえるなんて。\n<MYNAME>さんは、頑張り屋さんね。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM5_04",
+      "Text": "<FACE_HANA><POS_RIGHT><FACE_NORMAL>\r\n普通が一番ってよく言うけど、\nこのお庭を見てると\n改めてそう思うわ。\n<PAGE>\n<FACE_KOSABURO><POS_LEFT><FACE_NORMAL>そうかもしれねぇが、\nオレはもっとこう、うなっちまうような\nスケールのでけぇ庭が見てぇなぁ！"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM5_05",
+      "Text": "<FACE_HANA><POS_RIGHT><FACE_SAD>\r\n今回のは、お庭としては\nとても残念な出来ねぇ…。\nとても楽しみにしてたんだけど。\n<PAGE>\n<FACE_KOSABURO><POS_LEFT><FACE_ANGRY>ハナの言うとおりだぜ！\nおいらたちがこんな庭で満足すると？\n軽く見られたもんだなぁ！"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM6_00",
+      "Text": "<FACE_KAMONBERU><POS_RIGHT><FACE_ROUGH>\r\nオ〜ウ！\n洋風のお庭、と〜ても素晴らしいデ〜ス！\n感動シマ〜シタ♪\n<PAGE>\n<FACE_KUROZE><POS_LEFT><FACE_ROUGH>洋風の雰囲気をここまで全面に出せるとは\n大したものじゃないか。\n見ごたえがあって素晴らしいぞ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM6_01",
+      "Text": "<FACE_KUROZE><POS_LEFT><FACE_ROUGH>\r\n今回の庭は、見事としか言いようがない。\nそれくらいに素晴らしい。\nいやはや、恐れいったよ。\n<PAGE>\n<FACE_KAMONBERU><POS_RIGHT><FACE_ROUGH>ブラボー！！\nワタシとても感動シマ〜シタ！\n<MYNAME>は最高デ〜ス！"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM6_02",
+      "Text": "<FACE_KAMONBERU><POS_RIGHT><FACE_ROUGH>\r\nオー、とてもワンダフル！\n<MYNAME>、いい仕事してマ〜ス。\n<PAGE>\nぜひウチのお店にも\nこんな庭を作ってもらいたいデ〜ス！\n<PAGE>\n<FACE_KUROZE><POS_LEFT><FACE_ROUGH>フム…さすがは<MYNAME>だ。\nいい庭を作るじゃないか。\nついつい見入ってしまうな。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM6_03",
+      "Text": "<FACE_KUROZE><POS_LEFT><FACE_NORMAL>\r\nフム…<MYNAME>くんの\n頑張りが伝わってくる庭だな。\nあとでお疲れと言っておこう。\n<PAGE>\n<FACE_KAMONBERU><POS_RIGHT><FACE_NORMAL>確かにナイスなお庭デ〜ス！\n見ていてあきないので\nとても楽しいデ〜ス♪"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM6_04",
+      "Text": "<FACE_KAMONBERU><POS_RIGHT><FACE_NORMAL>\r\n今回のお庭は、ノーマルデ〜ス。\n定番料理み〜たいなものデ〜ス。\n<PAGE>\n別に悪〜くはあ〜りマセンが、\nせっかくならコース料理のような\nお庭が見たいデ〜ス！\n<PAGE>\n<FACE_KUROZE><POS_LEFT><FACE_NORMAL>同意見だな……。\nせっかく人を集めて鑑賞を行うのだから\nもう少し見ごたえが欲しいところだな。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM6_05",
+      "Text": "<FACE_KAMONBERU><POS_RIGHT><FACE_ANGRY>\r\nこの庭…ダメダメで〜ス！\nこれで〜は、お客は喜んでくれマセ〜ン！\nもっと向上心を持たないといけマセ〜ン！\n<PAGE>\n<FACE_KUROZE><POS_LEFT><FACE_ANGRY>キミの言うとおりだな。\n面白みのない庭を見せられても、苦痛だ。\n今回はムダ足だったようだ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM7_00",
+      "Text": "うららかな春を表現したこのお庭、\nああ、たまらなくステキだ…！\nいっそのこと、ここに住みたい！"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM7_01",
+      "Text": "庭を見てるだけで\nこんなに興奮したのは初めてだよ！\nああ、ステキだ…！"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM7_02",
+      "Text": "ウワサには聞いていたが\n素晴らしいお庭だね！\nいやー、見事だよ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM7_03",
+      "Text": "イイお庭だな〜。\nこんなお庭があるなら\nもっと町のＰＲに使えばいいのに。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM7_04",
+      "Text": "もっとスゴイのを期待してたのに、\n物足りないなぁ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM7_05",
+      "Text": "こんな庭、ダメだよ！\n見に来てソンしたよ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM8_00",
+      "Text": "夏の植物がたくさんあるお庭って\n鮮やかで、見てて元気が出てくるわ！"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM8_01",
+      "Text": "まさかここまで見事なお庭とは…。\n本当に驚きだわ。\n<PAGE>\nわざわざ遠くから\n足を運んだかいがあったわね♪"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM8_02",
+      "Text": "牧場主ってだけでもスゴイのに、\nこんな庭まで作れるなんて……。\nうらやましいわ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM8_03",
+      "Text": "素晴らしい庭ね。\n見ごたえがあって、楽しいわ。\n<PAGE>\nこれまでたくさんの\nツアーに参加してきたけど\n今回のツアーは当たりね！"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM8_04",
+      "Text": "これくらいの庭なら、\nわたしだって作れるわ……。\n<PAGE>\nこれでお金がかせげるなら\nわたしもやろうかしら。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM8_05",
+      "Text": "……こんな庭を見るために\nわざわざここに来たなんて。\n家で寝ておけばよかったわ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM9_00",
+      "Text": "秋の植物って\n色鮮やかで見てて楽しいわねぇ！\nロマンティックな気分になるわ♪"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM9_01",
+      "Text": "ああ、素晴らしさに、\nついため息が出ちゃうわ！\n<PAGE>\nこんなお庭が世界にはあるのねぇ。\nステキだわ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM9_02",
+      "Text": "うーん…。\n一般人のわたしにはとうてい\nマネできないガーデニングね。\n<PAGE>\nでもこれをその道のプロじゃない人が\n作ったんだから、なおのこと驚きだわ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM9_03",
+      "Text": "見ていて楽しくなるお庭ね。\nいつまでも見ていたいわ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM9_04",
+      "Text": "平凡なつくりの庭だけど\nどこか味を感じるわ…。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTC_TEAM9_05",
+      "Text": "どうしよう…。\n…この庭のよさがまるで分からないわ。\nわたしの感覚って、ヘンなのかしら…。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM1_00",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_ROUGH>\r\nキャー<RED>∀</RED>\nとってもユニークなお庭ね！\n<PAGE>\nこんなに好奇心をくすぐられるお庭なんて\nそうそうないもの。\nマジシャンとして負けられないわ♪\n<PAGE>\n<FACE_ROD><POS_LEFT><FACE_ROUGH>うん、ボクも好きだな！\nこういう庭、ボクも欲しい♪\n<MYNAME>に作ってもらいたいよ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM1_01",
+      "Text": "<FACE_ROD><POS_LEFT><FACE_ROUGH>\r\nわあ、スゴイや！！\n今回のは大作だね！\nとっても見ごたえがあるよ。\n<PAGE>\n<FACE_MICHEL><POS_RIGHT><FACE_ROUGH>こんなステキなお庭が見られるなんて、\nとっても幸せね<RED>∀</RED>\n今日は来て本当に良かったわ♪"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM1_02",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_NORMAL>\r\nわあ、スゴイ！\nこんなに見ごたえ満点のお庭なんて\nそうそう見れるものじゃないわ♪\n<PAGE>\n<FACE_ROD><POS_LEFT><FACE_NORMAL>さすが、<MYNAME>だね。\nこういう庭を作れるなんて\n<MYNAME>はセンスがいいなぁ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM1_03",
+      "Text": "<FACE_ROD><POS_LEFT><FACE_NORMAL>\r\nおー！\nイイ感じの庭だね！\n<MYNAME>ってば頑張ってるね。\n<PAGE>\n<FACE_MICHEL><POS_RIGHT><FACE_NORMAL>ホントねー。\n手間ひまかけた分だけの、\nいいお庭になってると思うわ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM1_04",
+      "Text": "<FACE_ROD><POS_LEFT><FACE_NORMAL>\r\nうん、なかなかのお庭だね。\nそれにしても、\nお庭って作るの大変そうだよね。\n<PAGE>\n<FACE_MICHEL><POS_RIGHT><FACE_NORMAL>大変なのは分かるけど、\nもっとドキドキするお庭が見たいわ。\n<MYNAME>なら出来そうだもの。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM1_05",
+      "Text": "<FACE_MICHEL><POS_RIGHT><FACE_ANGRY>\r\n…エンターテイナーとして、今回のお庭は\nとてもじゃないけど評価出来ないわ。\nもっと見る人たちのことを考えないと。\n<PAGE>\n<FACE_ROD><POS_LEFT><FACE_LOSS>うーん…。\n今回はミシェルの意見に賛成かな。\n楽しみにしてたんだけどなぁ…。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM2_00",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n今回は冬の植物を使ったお庭ですね。\n意図がハッキリと伝わってくる\n素晴らしいコーディネートです。\n<PAGE>\n<FACE_YURI><POS_LEFT><FACE_ROUGH>うん…。\nわたしは冬生まれだから、うれしい……。\nこんな雰囲気の街に住みたい…。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM2_01",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\n素晴らしいお庭ですね…。\n王宮の庭園にもひけをとらない\nとても見ごたえのある作りです。\n<PAGE>\n<FACE_YURI><POS_LEFT><FACE_ROUGH>うん…。\nとってもキレイ………。\nこんな庭のある家に住みたい…。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM2_02",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_ROUGH>\r\nステキなお庭ですね。\nこんなお庭があるなら、\nこの街の名所にもなれそうです。\n<PAGE>\n<FACE_YURI><POS_LEFT><FACE_ROUGH>本当…。\nとてもステキ。\n…ずっとここにいたいくらい、幸せ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM2_03",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\nいいお庭ですね。\nもっとじっくり鑑賞したいです。\n時間制限があるのが、もったいないですね。\n<PAGE>\n<FACE_YURI><POS_LEFT><FACE_ROUGH>うん…。\n見てるだけで、とっても楽しい…。\nあとで、<MYNAME>にお礼言わなきゃ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM2_04",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_NORMAL>\r\n可もなく、不可もなくといった\nところでしょうか。\nそれなりにまとまっていますね。\n<PAGE>\n<FACE_YURI><POS_LEFT><FACE_NORMAL>でも、まとめるのって大変…。\n作るのに、とても時間がかかりそう…。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM2_05",
+      "Text": "<FACE_SERUKA><POS_RIGHT><FACE_SAD>\r\n…正直に言って、とても残念です。\nもっといいお庭を期待していたのですが…。\n<PAGE>\n<FACE_YURI><POS_LEFT><FACE_SAD>うん…。\n人に喜んでもらいたいなら、\n手を抜いちゃダメ…。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM3_00",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_ROUGH>\r\nこの庭は好きだな、動物がたくさんいる。\n庭とかはあんまりキョウミねーけど、\n今回のはいつまでも見ていたくなるな。\n<PAGE>\n<FACE_FELICIA><POS_LEFT><FACE_ROUGH>ホント、とっても可愛らしいです♪\nこんなお庭が街中にあったら、\n毎日もっと楽しく暮らせそうです♪"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM3_01",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_ROUGH>\r\nへえ……見ててあきが来ない庭だな。\n見るごとに色んな発見があって面白いぜ。\n<PAGE>\n<FACE_FELICIA><POS_LEFT><FACE_ROUGH>フフッ。\nニールさん、\nとっても楽しそうですね♪\n<PAGE>\n…そういうわたしも、\nすっごく楽しんでますけど♪\n見ごたえたっぷりでお腹いっぱいです♪"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM3_02",
+      "Text": "<FACE_FELICIA><POS_LEFT><FACE_ROUGH>\r\nわあ♪\nステキなお庭ですよ、ニールさん！\n<PAGE>\n<FACE_NEEL><POS_RIGHT><FACE_ROUGH>へえ、こんな庭を作るなんて\nやるな、<MYNAME>。\n<PAGE>\nさすがオレたちの街を\n復興させてるだけあるぜ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM3_03",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_NORMAL>\r\nオレは庭の良し悪しなんて\nキョウミねぇけど、\nまあ、頑張ってる方なんじゃないか？\n<PAGE>\n<FACE_FELICIA><POS_LEFT><FACE_NORMAL>そうですね！\n<MYNAME>さんはエライです。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM3_04",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_NORMAL>\r\nせっかくならもっとスゲェって\nなるような庭が見たい気もするが…。\nたまにはこういうのも悪くないかもな。\n<PAGE>\n<FACE_FELICIA><POS_LEFT><FACE_NORMAL>そうですね。\nわたしもニールさんに賛成です。\nこういうお庭、好きです。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM3_05",
+      "Text": "<FACE_NEEL><POS_RIGHT><FACE_SAD>\r\nオレはあんまり庭に関心は向かねぇけど、\nさすがに今日の庭はちょっとな…。\nもう少しどうにかならなかったのかよ…。\n<PAGE>\n<FACE_FELICIA><POS_LEFT><FACE_SAD>そうですね。\n今日のツアー、楽しみにしてたんですが…。\n残念です。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM4_00",
+      "Text": "<FACE_KAMIRIYA><POS_RIGHT><FACE_ROUGH>\r\nオシャレな庭ね…。\nセンスのある庭って、素晴らしいわ♪\n<PAGE>\n<FACE_GARDNER><POS_LEFT><FACE_ROUGH>そうだな。\nこういう庭は見ごたえがあって、\n楽しいよ。\n<PAGE>\n<FACE_HINA><POS_RIGHT><FACE_ROUGH>わたしも将来\nこんな庭のある家に住みたいな♪"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM4_01",
+      "Text": "<FACE_KAMIRIYA><POS_RIGHT><FACE_ROUGH>\r\n素晴らしいお庭ね…。\nこんなお庭が見れるなら\n旅行ツアーとしても組めそうね。\n<PAGE>\n<FACE_GARDNER><POS_LEFT><FACE_ROUGH>そうだな…。\nオレたちも庭好きで目が肥えてる方だが、\n今回のは今までの中でも特に立派だな。\n<PAGE>\n<FACE_HINA><POS_RIGHT><FACE_ROUGH>ホントにすごーい♪\nとってもキラキラしてるわ！"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM4_02",
+      "Text": "<FACE_GARDNER><POS_LEFT><FACE_ROUGH>\r\nこれはまた、素晴らしい庭だな。\nオレの愛する美しい女神たちと\n堪能できて、幸せだよ。\n<PAGE>\n<FACE_KAMIRIYA><POS_RIGHT><FACE_ROUGH>まあ、あなたってば…。\nでも、本当にステキなお庭だわ。\n<PAGE>\n<FACE_HINA><POS_RIGHT><FACE_ROUGH>さすが<MYNAME>さんだよね♪\n<MYNAME>さんは何でもできて、\nうらやましいなぁ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM4_03",
+      "Text": "<FACE_KAMIRIYA><POS_RIGHT><FACE_NORMAL>\r\nなかなかのお庭じゃないかしら。\nあなた、どう思う？\n<PAGE>\n<FACE_GARDNER><POS_LEFT><FACE_NORMAL>ああ、上出来じゃないか。\nこういう庭が見れるなら\n毎回でも足を運びたくなるな。\n<PAGE>\n<FACE_HINA><POS_RIGHT><FACE_ROUGH>こんなお庭が家にあるなら\n毎日が幸せだよね！\nわたし、庭師の人と結婚しようかなー♪"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM4_04",
+      "Text": "<FACE_GARDNER><POS_LEFT><FACE_NORMAL>\r\n総じて平均的な庭だが…。\nカミリヤなら、これにどうやって\n味付けをするかな？\n<PAGE>\n<FACE_KAMIRIYA><POS_RIGHT><FACE_ROUGH>わたしなら、\nさらに花を加えて、\n色彩豊かな庭を作るわね。\n<PAGE>\n<FACE_HINA><POS_RIGHT><FACE_NORMAL>わたしは\nさらに女神さまの像とアーチを置くわ！\nキレイなお庭にしたいもの。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM4_05",
+      "Text": "<FACE_GARDNER><POS_LEFT><FACE_SAD>\r\n今回のツアーには期待していたんだがね…。\nどうしてこんなことになったのか。\nとても残念だよ。\n<PAGE>\n<FACE_KAMIRIYA><POS_RIGHT><FACE_SAD>そうね……。\n期待しすぎたのかもしれないわ。\n<PAGE>\n<FACE_HINA><POS_RIGHT><FACE_SAD>つまんないわ……。\nちょっとガッカリ…。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM5_00",
+      "Text": "<FACE_HOSSAN><POS_RIGHT><FACE_ROUGH>\r\nいや〜、今回の庭はオリエンタルなもので\nコーディネートか〜。\n<PAGE>\nまるで異国の土地に旅行に来たような\n気持ちになるなぁ。\n<PAGE>\n<FACE_NARUKU><POS_LEFT><FACE_ROUGH>うん、見てて楽しい！\nこんなお庭が作れるなんて、\n<MYNAME>さんはスゴイや！！"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM5_01",
+      "Text": "<FACE_HOSSAN><POS_RIGHT><FACE_ROUGH>\r\nこの庭、素晴らしいなぁ。\n小説の舞台として、\nオレの本に使ってもええやろか。\n<PAGE>\nあとで<MYNAME>さんに頼もかな〜。\n<PAGE>\n<FACE_NARUKU><POS_LEFT><FACE_SAD>父さん……。\nそれは構わないけど、\n宿の仕事もちゃんとしてよね……。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM5_02",
+      "Text": "<FACE_NARUKU><POS_LEFT><FACE_ROUGH>\r\nわあ、とってもステキなお庭だね♪\nうちの宿においたら、泊まりに来る人\n増えるかなあ？\n<PAGE>\n<FACE_HOSSAN><POS_RIGHT><FACE_ROUGH>ナルク、そら増えるやろ〜。\n毎日部屋がうまると思うで〜。\n<PAGE>\nさすがは<MYNAME>さんですわ。\nええ仕事しはりますなぁ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM5_03",
+      "Text": "<FACE_NARUKU><POS_LEFT><FACE_NORMAL>\r\nこのお庭作るのに、\nどのくらいの材料が必要なんだろ…。\nボクには無理だなぁ。\n<PAGE>\n<FACE_HOSSAN><POS_RIGHT><FACE_NORMAL>そう考えると\n<MYNAME>さんの頑張りには\n本当に頭がさがるなぁ……。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM5_04",
+      "Text": "<FACE_HOSSAN><POS_RIGHT><FACE_NORMAL>\r\n想像してたのに比べて、\nえらい平凡な庭やな〜。\nでも、コレはコレでなかなか…。\n<PAGE>\n<FACE_NARUKU><POS_LEFT><FACE_NORMAL>…うーん、このままでもいいけど、\n動物の置き物とかを加えれば\nもっとステキな庭になりそうだね。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM5_05",
+      "Text": "<FACE_HOSSAN><POS_RIGHT><FACE_SAD>\r\nいやー…。\n今回の庭はノーコメントや〜。\n<PAGE>\n<FACE_NARUKU><POS_LEFT><FACE_SAD>そうだね、父さん…。\nすごくガッカリだね…。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM6_00",
+      "Text": "<FACE_SANDRA><POS_RIGHT><FACE_ROUGH>\r\nこの庭は、研究を頑張ってる\nあたしへのサービスかい？\n<PAGE>\nやるじゃないか、ほめてやるよ♪\nアーヒャヒャヒャヒャ！\n<PAGE>\n<FACE_EMA><POS_RIGHT><FACE_ROUGH>こういうお庭って、作れるようで\n作れないものですから。\n<PAGE>\nわたしもこのお庭、\nとっても好きですわ。\n見ていていやされます。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM6_01",
+      "Text": "<FACE_SANDRA><POS_RIGHT><FACE_ROUGH>\r\nアヒャヒャヒャヒャ！\nいいねぇ、いいねぇ！\nこんな明るい時間に来たかいがあったよ。\n<PAGE>\n自分の研究以外で、長時間見たいと\n思えるものは、ほとんどないからねぇ！\n今日はツイてるよ！\n<PAGE>\n<FACE_EMA><POS_LEFT><FACE_ROUGH>まあ、サンドラさんったら。\n…でも、確かにこんなステキな\nお庭が見られるなんて、ぜいたくですわね。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM6_02",
+      "Text": "<FACE_EMA><POS_LEFT><FACE_ROUGH>\r\nまあ、ステキなお庭ですね♪\nこんなお庭がおうちにあったら\n毎日お庭でお茶をするわ。\n<PAGE>\n<FACE_SANDRA><POS_LEFT><FACE_ROUGH>アヒャヒャヒャヒャ！\nそれはいいねぇ。\n夜のお茶会には、あたしも呼んでおくれ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM6_03",
+      "Text": "<FACE_SANDRA><POS_RIGHT><FACE_NORMAL>\r\nへぇ…。\nこの庭、居心地がよさそうじゃないか。\n中に入って鑑賞しようかねぇ。\n<PAGE>\n<FACE_EMA><POS_LEFT><FACE_NORMAL>そう思いたくなりますね…。\n外から見れないのがちょっと残念です…。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM6_04",
+      "Text": "<FACE_EMA><POS_LEFT><FACE_NORMAL>\r\n多すぎず、少なすぎず…。\n絶妙なバランスのお庭ですわね。\nこういうお庭もいいと思いますわ。\n<PAGE>\n<FACE_SANDRA><POS_LEFT><FACE_NORMAL>じゃが、平凡はつまらんのぅ。\n若いんだから、もっとはみ出した庭を\n作ってもらいたいもんだねぇ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM6_05",
+      "Text": "<FACE_SANDRA><POS_RIGHT><FACE_ANGRY>\r\nなんだいコリャ！\nこんな庭を見せるなんて、\nあたしをバカにしてんのかい？\n<PAGE>\nこんな庭を見るくらいなら、\nさっさと帰って研究がしたいね！\n<PAGE>\n<FACE_EMA><POS_LEFT><FACE_SAD>\n確かに、もう少し庭らしくならないと…。\n来るお客さんが減ってしまうでしょうね…。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM7_00",
+      "Text": "わたし、冬生まれだから、\nこんなにたくさんの冬の植物がある庭って\nとっても好きだわ。\n<PAGE>\n<MYNAME>さんに感謝ね。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM7_01",
+      "Text": "文句のつけどころのない、\n素晴らしい庭ですね。\n毎日でも見たいくらいです。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM7_02",
+      "Text": "…ここのガーデニングツアーは\nなかなか面白いと聞いていたが\n評判通りですね。\n<PAGE>\n今日は来てよかった。\nいい思い出になりそうです。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM7_03",
+      "Text": "こんなにいい庭を見れるなんて\nラッキーです。\n友達にも教えてあげないと。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM7_04",
+      "Text": "ありきたりで面白さがないですね。\nもうちょっと工夫が欲しいです…。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM7_05",
+      "Text": "出来が悪いですね…。\n…ここまで来た自分に\nひどくコウカイしてます。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM8_00",
+      "Text": "洋風で統一されてて、\nとってもステキなお庭じゃのう。\n<PAGE>\nこんなお庭が近くにあるなら\n毎日だって足を運ぶわい…………。\nああ、近所の人がうやらましい。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM8_01",
+      "Text": "本当に素晴らしいものに出会った時、\n人生が変わると言うが…\nそれはホントなんじゃのう。\n<PAGE>\n今まで全くガーデニングに\n興味なかったんじゃが…。\nマニアになりそうじゃよ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM8_02",
+      "Text": "旅行のついでに立ち寄ったのに、\nこっちの方が目的になりそうなくらい\n見事なお庭じゃのう。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM8_03",
+      "Text": "これほどのステキなお庭を\nたった一人で作るとは…。\nいやはや、たまげたもんだ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM8_04",
+      "Text": "なんじゃ、普通のお庭じゃのう。\nもう少し力を入れてくれんと、\n参加する気がなくなるわい。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM8_05",
+      "Text": "……このお庭、ダメじゃ。\nわしの心には響かん。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM9_00",
+      "Text": "和風で統一されてて、\nとっても味のあるお庭ですね〜。\n<PAGE>\nこんなに素晴らしいお庭\nもっとたくさんの人と一緒に\n分かち合いたいです。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM9_01",
+      "Text": "ステキですね！\n今まで見てきたどんなお庭も\nこの素晴らしさには敵いませんよ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM9_02",
+      "Text": "さすがは<MYNAME>さん。\n期待通りの、いいお庭を作りますね。\n<PAGE>\nこのまま常連さんとして\n毎回参加するのも楽しそうです。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM9_03",
+      "Text": "いいお庭ですね。\n地元にはこんなお庭はないから、\n来たかいがあったわ。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM9_04",
+      "Text": "……もう少しミリョクのある庭じゃないと、\n来たかいがないですね。\nあくびが出そうです。"
+    },
+    {
+      "VardId": "MES_TOUREVENT_LISTD_TEAM9_05",
+      "Text": "…ハア。\nこんなお庭を見せられるなんて\nあんまりです。"
+    }
+  ]
+}

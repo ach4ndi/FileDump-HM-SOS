@@ -1,0 +1,518 @@
+﻿{
+  "Date": "2016-06-10T19:21:44.9464499+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_MORNING_00",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\n¡Buenos días, <low><PARENT>!"
+    },
+    {
+      "VardId": "MES_MORNING_01",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\nResulta que <CHILD_NAME_M> lleva todo el día\nmolestándome para que vayamos a jugar fuera."
+    },
+    {
+      "VardId": "MES_MORNING_02",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\nOaaa... Todavía tengo sueño."
+    },
+    {
+      "VardId": "MES_AFTERNOON_00",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\nHoy vamos a jugar en casa.\n<PAGE>\n¡Siempre hago lo que <CHILD_NAME_M> quiere,\nasí que hoy vamos a jugar a lo que yo diga!"
+    },
+    {
+      "VardId": "MES_AFTERNOON_01",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\nOye, <low><PARENT>, ¿aún sigues <gender male=\"ocupado\" female=\"ocupada\">?\n¡Ánimo!"
+    },
+    {
+      "VardId": "MES_AFTERNOON_02",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\n<PARENT>, ¿juegas hoy con nosotros?"
+    },
+    {
+      "VardId": "MES_EVENING_00",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\nHoy me han pasado un montón de cosas.\n¡Tengo muchas ganas de contártelas!"
+    },
+    {
+      "VardId": "MES_EVENING_01",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\nOye, <low><PARENT>, ¿has terminado ya\nde trabajar?"
+    },
+    {
+      "VardId": "MES_EVENING_02",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_SAD>\nOaaa... Creo que me está entrando un poquitín\nde sueño."
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_SPRING",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\n¡Qué buen día hace!"
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_SPRING",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\nHoy está lloviendo un montón. Creo\nque me voy a quedar a jugar en casa."
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_SUMMER",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\n¡Hoy hace mucho calor! Espero no quemarme."
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_SUMMER",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\nHoy está lloviendo un montón. Creo\nque me voy a quedar a jugar en casa."
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_AUTUMN",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\n¡Qué buen día hace!"
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_AUTUMN",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\nHoy está lloviendo un montón. Creo\nque me voy a quedar a jugar en casa."
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_WINTER",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\n¡Qué buen día hace!"
+    },
+    {
+      "VardId": "MES_WEATHER_SNOW",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\n¡Ojalá nieve un montón para hacer una batalla\nde bolas de nieve con <CHILD_NAME_M>!"
+    },
+    {
+      "VardId": "MES_WEATHER_TYPHOON",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\n<PARENT>, aunque haga tanto viento,\nno vamos a salir volando, ¿verdad?"
+    },
+    {
+      "VardId": "MES_WEATHER_HEAVYSNOW",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\nMañana vamos a tener que quitar\ntoda esta nieve con una pala. ¡Yo os ayudo,\nos lo prometo!"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_00",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\n¿De verdad hay unos duendecillos por aquí?\nMe lo ha dicho <CHILD_NAME_M>."
+    },
+    {
+      "VardId": "MES_AREA_FOREST_01",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\nPor aquí hay conejos. ¡Son una monada!\nPero cuando te acercas demasiado a ellos,\nse asustan..."
+    },
+    {
+      "VardId": "MES_AREA_FARM_00",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\nCerca del río hay una tumba. ¿De quién será?"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_00",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\n¿Tienes una parcela de tierra por aquí?"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_01",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\nDebe de ser muy duro subir aquí todos los días\npara trabajar en la granja."
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_02",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\nDebe de ser muy duro subir aquí todos los días\npara trabajar en la granja."
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_00",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\n¡<CHILD_NAME_M> me ha dicho que por aquí\nhay un escarabajo enooorme!"
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_01",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\n¿Quién estaba usando esta parcela de tierra?\nComo hay tantas, a veces se me olvida."
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_02",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\n¡Este jardín es muy guay! Con las flores\nque hay aquí, puedo hacer adornos para el pelo."
+    },
+    {
+      "VardId": "MES_AREA_OTHER_00",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\nMe encanta jugar fuera, pero también me gusta\njugar en casa. ¡Nunca tengo tiempo para jugar\na todo lo que quiero!"
+    },
+    {
+      "VardId": "MES_AREA_OTHER_01",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\nNo te preocupes. Volveré antes de que se haga\nde noche."
+    },
+    {
+      "VardId": "MES_HEART_WHITE",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\nOye, <low><PARENT>, ¿juegas hoy conmigo?"
+    },
+    {
+      "VardId": "MES_HEART_PURPLE",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\nOye, <low><PARENT>, ¿<CHILD_NAME_M> es\nmi hermano mayor o mi hermano pequeño?"
+    },
+    {
+      "VardId": "MES_HEART_BLUE",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\nOye, ¿puedo irme contigo la próxima vez\nque vayas al pueblo?\n<PAGE>\nQuiero ver las tiendas, a la gente y todo eso."
+    },
+    {
+      "VardId": "MES_HEART_GREEN",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\nA veces, cuando salgo a jugar, veo a un chico\ny a una chica. Me pregunto si serán hermanos\ncomo <CHILD_NAME_M> y yo."
+    },
+    {
+      "VardId": "MES_HEART_YELLOW",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\nOye, <low><PARENT>, ¿<CHILD_NAME_M> y yo\nnos parecemos? ¿En qué nos diferenciamos?"
+    },
+    {
+      "VardId": "MES_HEART_ORANGE",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\nOye, <low><PARENT>, ¿podemos ir de viaje\nalgún día? Ya sabes, en familia..."
+    },
+    {
+      "VardId": "MES_HEART_RED",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\nCuando sea un poco más mayor, ¿puedo\nayudaros con el trabajo en la granja?\n<PAGE>\nNos imagino a todos juntos trabajando\npara que la granja se haga más grande.\n¡Tiene que ser divertido!"
+    },
+    {
+      "VardId": "MES_PRESENT_BEST",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\n<WINDOW_HEART1_R>Hala, ¿es para mí? ¡Yupiii! Es mi regalo favorito.\nTe quiero, <low><PARENT>. ¡Gracias!"
+    },
+    {
+      "VardId": "MES_PRESENT_VERY",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\n<WINDOW_HEART1_R>Anda, ¿es para mí? ¡Gracias! ¡Qué guay!"
+    },
+    {
+      "VardId": "MES_PRESENT_LIKE",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\n¿Me lo das? ¡Gracias!"
+    },
+    {
+      "VardId": "MES_PRESENT_NORMAL",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\n¡Gracias!"
+    },
+    {
+      "VardId": "MES_PRESENT_DISLIKE",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\n¡G-gracias!"
+    },
+    {
+      "VardId": "MES_PRESENT_HATE",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_SAD>\n¿Quieres darme esto...? ¡No me gusta!"
+    },
+    {
+      "VardId": "MES_PRESENT_WORST",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_SAD>\n<WINDOW_DISCOURAGEMENT_R>Sé que no te gusta que sea tiquismiquis,\npero ¡es que detesto eso! En fin,\ntendré que quedármelo..."
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_VERY",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\n¡Halaaa! ¡Cómo brilla! ¿Es para mí?\nGracias, <low><PARENT>. ¡Te quiero!"
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_LIKE",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\n¡Halaaa, cómo brilla! ¡Qué guay!\n<PAGE>\nGracias, <low><PARENT>. ¡Te quiero!"
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_NORMAL",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\n¡Halaaa, cómo brilla! ¿Me lo das?\nGracias, <low><PARENT>. ¡Te quiero!"
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_DISLIKE",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_SAD>\nNo está mal, pero... E-esto, gracias."
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_HATE",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\nNo está mal, pero... E-esto, gracias."
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_WORST",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\nNo está mal, pero... E-esto, gracias."
+    },
+    {
+      "VardId": "MES_PRESENT_CANNOT",
+      "Text": "Ahora no es un buen momento\npara darle un regalo..."
+    },
+    {
+      "VardId": "MES_PRESENT_RESERVE",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\nNo lo quiero..."
+    },
+    {
+      "VardId": "MES_PRESENT_SECONDTIME",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\nAcabas de darme una cosa, ¿no te acuerdas?"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_BEST",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\n<WINDOW_HEART1_R>Hala, ¡qué chulooo!\n<PAGE>\nEs mi regalo de cumple, ¡¿verdad?! Gracias,\n¡es el mejor regalo del mundo mundial!\n¡Te quiero, <low><PARENT>!"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_VERY",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\n<WINDOW_HEART1_R>Hala, ¡qué guay! ¡Gracias!\n¡Qué regalo de cumple más chachi!"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_LIKE",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\nEsto es por mi cumple, ¿a que sí? ¡Gracias!\n¡Qué contenta estoy!"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_NORMAL",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\nHala, ¿este es mi regalo de cumple? ¡Gracias,\n<low><PARENT>!"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_DISLIKE",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\nEsto... es mi regalo de cumple, ¿no? G-gracias."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_HATE",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_SAD>\n¿Esto es por mi cumple...? Mmm...\nno me gusta nada, pero si es un regalo\nde cumpleaños..."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_WORST",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_SAD>\n<WINDOW_DISCOURAGEMENT_R>Ya sé que es de ser ser tiquismiquis,\npero no me gusta nada... Me lo quedo porque \nes mi cumple, que si no..."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_LIKE",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\n<WINDOW_HEART1_R>¡Cómo brilla <demonst male-s=\"este\" female-s=\"esta\"> <BLUE><low><ITEMNAME0></BLUE>!\n¿Es mi regalo de cumple? ¡Gracias!"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_NORMAL",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\n<WINDOW_HEART1_R>¡Anda, brilla! Es por mi cumple, ¿verdad?\n¡Muchas gracias!"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_DISLIKE",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\nNo está mal, pero... e-esto... G-gracias\npor este regalo de cumple tan... guay."
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_RABBIT",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_SAD>\n¡Los conejos son muy cuquis! Pero me da\nmiedo acercarme demasiado a ellos..."
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_FOX",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_SAD>\nNo muerde, ¿verdad?"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_OKOJO",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\nHala, ¡un armiño! ¡Qué monada!"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_SIFAKA",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_SAD>\nCuando lo miras de cerca, este bicho tiene\nuna cara muy rara..."
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_PENGUIN",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\nPues los pingüinos no parecen tan monos\ncuando los miras tan de cerca."
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_MONKEY",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_SAD>\n¡Ah! ¡Parece como si me fuera a saltar encima!"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_PARROT",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\nOooh, ¡qué lorito tan mono! ¿Sabe hablar?\n¡Holaaa!"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_OTHER",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\n¡Qué cuqui!"
+    },
+    {
+      "VardId": "MES_ANGORA",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\n¡Qué conejito tan raro! Pero su pelo me gusta."
+    },
+    {
+      "VardId": "MES_CHICK",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\nOooh, ¡qué polluelo tan mono!"
+    },
+    {
+      "VardId": "MES_HEN",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\nSi me acerco demasiado, ese bicho me va\na picar..."
+    },
+    {
+      "VardId": "MES_DOG",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\nA <CHARANAME0> le caigo muy bien.\nMira esto... ¡Dame la patita!"
+    },
+    {
+      "VardId": "MES_FAT_DOG",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\nAnda, <CHARANAME0> ha engordado."
+    },
+    {
+      "VardId": "MES_LARGEDOG",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\nCreo que <CHARANAME0> quiere más a\n<CHILD_NAME_M> que a mí."
+    },
+    {
+      "VardId": "MES_FAT_LARGEDOG",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\nAnda, <CHARANAME0> ha engordado."
+    },
+    {
+      "VardId": "MES_CAT",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\nHoy a <CHARANAME0> se le ve muy bien,\ncomo siempre."
+    },
+    {
+      "VardId": "MES_FAT_CAT",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\nAnda, <CHARANAME0> ha engordado."
+    },
+    {
+      "VardId": "MES_LONGHAIR_CAT",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\nMe gusta el pelo de <CHARANAME0>.\n¡Es muy calentito y te dan ganas de abrazarlo!"
+    },
+    {
+      "VardId": "MES_FAT_LONGHAIR_CAT",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\nAnda, <CHARANAME0> ha engordado."
+    },
+    {
+      "VardId": "MES_FLOWER_FESTIVAL",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\n¡Qué preciosidad! ¿Eh? ¿Que la Feria floral\nes hoy? ¡Gracias, <low><PARENT>!"
+    },
+    {
+      "VardId": "MES_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\n¡Anda, una pluma azul! Esto se lo das\na la persona con la que te quieres casar,\n¿verdad? ¡Qué romántico!"
+    },
+    {
+      "VardId": "MES_RING",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\n¿Ese anillo es tuyo, <low><PARENT>?\n¡Qué bonito! Yo también quiero tener uno\nalgún día."
+    },
+    {
+      "VardId": "MES_PRESENT_LAPPING_LIKE ",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\n¡Qué envoltorio más chachi! ¿Es para mí?\n¡A ver qué hay dentro!"
+    },
+    {
+      "VardId": "MES_PRESENT_LAPPING",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\n¿Es para mí? ¿Qué será, qué será?"
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_00",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\n¡Feliz cumple, <low><PARENT>!\n¡Te quiero un montón! ♪"
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_01",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\n¡Feliz cumple, <low><PARENT>!\n¡Te quiero un montón!"
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_02",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\n¡Feliz cumple, <low><PARENT>!\n¡Te quiero un montón!"
+    },
+    {
+      "VardId": "MES_LONG_INTERVAL",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_SAD>\n¿Por qué ya no hablas conmigo?\n<PAGE>\n¿Es que tienes mucho trabajo? ¡Quiero salir\na jugar con <low><PARENT>!"
+    },
+    {
+      "VardId": "MES_MARRIAGE_SAFARI_00",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\n¡Me encanta ver a los animales tan felices!"
+    },
+    {
+      "VardId": "MES_MARRIAGE_SAFARI_01",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\nNo sé cómo explicarlo, pero parece como si\nlos animales de aquí nos estuvieran dando\nla bienvenida."
+    },
+    {
+      "VardId": "MES_MARRIAGE_SAFARI_02",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_SAD>\nNormalmente me da miedo acercarme\na los animales salvajes, pero estos son buenos,\n¿no?"
+    },
+    {
+      "VardId": "MES_CLOTHES_12",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\n¡Qué delantal tan bonito! Yo también quiero\nponérmelo. ♪"
+    },
+    {
+      "VardId": "MES_CLOTHES_14",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\n¡Esa ropa te queda muy guay, <low><PARENT>!"
+    },
+    {
+      "VardId": "MES_CLOTHES_17",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\n¡Qué conjunto más elegante, <low><PARENT>!"
+    },
+    {
+      "VardId": "MES_CLOTHES_27",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\nEl color de esa sudadera es muy bonito."
+    },
+    {
+      "VardId": "MES_CLOTHES_39",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\n¡El kimono que llevas puesto es muy guay!"
+    },
+    {
+      "VardId": "MES_CLOTHES_66",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\n¡Qué falda tan mona! Me gusta su color."
+    },
+    {
+      "VardId": "MES_CLOTHES_70",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\nEso tiene una forma un poco rara, pero es\nmono. ♪"
+    },
+    {
+      "VardId": "MES_CLOTHES_82",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\n¡Qué guay! Pareces <gender male=\"un emperador\" female=\"una emperatriz\"> del país\ndel cerezo. ¡Yo también quiero ponerme algo así!"
+    },
+    {
+      "VardId": "MES_CLOTHES_87",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\n¡Qué ropa tan chachi! Lleva un lazo muy bonito.\n¡Hazme algo así, porfa! ♪"
+    },
+    {
+      "VardId": "MES_CLOTHES_90",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\nHe visto a gente vestida así en la tele.\nEsa ropa se lleva en el país del cerezo, ¿verdad?"
+    },
+    {
+      "VardId": "MES_CLOTHES_109",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\nAnda, ¡la bufanda y la falda son a cuadros!\nQué conjunto tan cuco. ♪"
+    },
+    {
+      "VardId": "MES_CLOTHES_133",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\n¡Esa ropa te queda genial, <low><PARENT>!"
+    },
+    {
+      "VardId": "MES_CLOTHES_136",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\nEso es un traje de ninja, ¡¿verdad?! ¡Seguro\nque a <CHILD_NAME_M> le gusta! ♪"
+    },
+    {
+      "VardId": "MES_CLOTHES_141",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\n¡Hala! ¡Ese conjunto te queda genial!"
+    },
+    {
+      "VardId": "MES_CLOTHES_152",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\n¡Anda, un gato! ¿De dónde has salido?"
+    },
+    {
+      "VardId": "MES_CLOTHES_153",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\n¡Anda, un perro! ¿De dónde has salido?"
+    },
+    {
+      "VardId": "MES_CLOTHES_154",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\n¡Anda, un oso! ¿De dónde has salido?"
+    },
+    {
+      "VardId": "MES_CLOTHES_155",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\n¡Anda, un panda! ¿De dónde has salido?"
+    },
+    {
+      "VardId": "MES_CLOTHES_156",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\n¡Anda, un pingüino! ¿De dónde has salido?"
+    },
+    {
+      "VardId": "MES_CLOTHES_157",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\n¿A-adónde vas con esa armadura, <low><PARENT>?\n¿Vas a luchar contra un dragón?"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_6",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\nMe gusta esa gorra roja. ¡Es muy chula!"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_12",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\nMe gusta ese sombrero rojo. ¡Es muy cuqui!"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_16",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\n¡Anda! ¡Una horquilla con una flor!\n¿Me la puedo poner? ♪"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_22",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\nMe gusta ese sombrero rojo. ¡Es muy cuqui!"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_27",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\nHala, ¡qué diadema tan mona! Tiene un lazo\nmuy bonito. ♪"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_42",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>\n¡Hala! ¡Con ese traje pareces <gender male=\"un rey\" female=\"una reina\">!\n¿Eso quiere decir que yo soy la princesa?\n¡Qué guay!"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_45",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\n¡Esas gafas rojas te quedan muy chulas, <low><PARENT>!"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_48",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\n¡Esas gafas rojas te quedan muy chulas, <low><PARENT>!"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_54",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\n¡Esas gafas rojas te quedan muy chulas, <low><PARENT>!"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_62",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\nAnda, llevas una de esas... esto...\n<PAGE>\nYa sabes, esas cosas que se ponen\nlos mayordomos..."
+    },
+    {
+      "VardId": "MES_SCHEDULE_SLEEP_00",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_PATI>\n<PARENT>, juega conmigo..."
+    },
+    {
+      "VardId": "MES_MARRIAGE_SCHEDULE_SICK",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_SAD>\nHoy estoy... malita..."
+    },
+    {
+      "VardId": "MES_SCHEDULE_SLEEPY_00",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\nOaaa... Me está entrando sueño..."
+    },
+    {
+      "VardId": "MES_GRANDMA_MONEY_00",
+      "Text": "<FACE_CHILD_G><POS_RIGHT><FACE_NORMAL>\n<PARENT>, ¿juegas hoy con nosotros?"
+    }
+  ]
+}

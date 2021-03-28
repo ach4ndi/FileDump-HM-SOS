@@ -1,0 +1,502 @@
+﻿{
+  "Date": "2016-06-10T19:21:59.9316252+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_MORNING_00",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nOh, c'est <MYNAME>. Qu'est-ce que\ntu m'racontes de beau ?"
+    },
+    {
+      "VardId": "MES_MORNING_01",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nIl est drôlement tôt pour être déjà debout.\nT'es <gender male=\"un vrai bosseur\" female=\"une vrai bosseuse\"> toi, pas vrai ?♪"
+    },
+    {
+      "VardId": "MES_MORNING_02",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_LAUGH>\nIl faut s'motiver dès le matin. Si tu bosses\ndu premier rayon de soleil jusqu'au dernier,\nil t'arrivera des bonnes choses, moi j'te l'dis ! <RED>∀</RED>"
+    },
+    {
+      "VardId": "MES_AFTERNOON_00",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nBonjour, <MYNAME>. T'as mangé, ce midi ?"
+    },
+    {
+      "VardId": "MES_AFTERNOON_01",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_LAUGH>\nTu t'es pris à manger pour aujourd'hui ?\n<PAGE>\nSi t'es <gender male=\"parti\" female=\"partie\"> pour travailler toute la journée, tu\ndevrais toujours prendre quéqu'chose avec toi."
+    },
+    {
+      "VardId": "MES_AFTERNOON_02",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nJ'étais sur le point de préparer le repas de midi\npour tout le monde.\n<PAGE>\n<FACE_SAD>Manque de bol, tout le monde a des goûts\ndifférents, alors trouver quéqu'chose qui leur\nplaît, c'est un vrai casse-tête."
+    },
+    {
+      "VardId": "MES_EVENING_00",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nBon courage, <MYNAME> !"
+    },
+    {
+      "VardId": "MES_EVENING_01",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_LAUGH>\nIl est drôlement tard pour bosser si dur. Tu\ndevrais rentrer chez toi et te reposer ! Ça serait\nbête de tomber malade à force de se surmener !"
+    },
+    {
+      "VardId": "MES_EVENING_02",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\n'Vaut mieux faire gaffe. Si tu bosses jusqu'au\nbout de la nuit, t'as plus de chance\nd'avoir une panne de réveil ! <RED>∀</RED>"
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_SPRING",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_LAUGH>\nTout est si beau et fleuri, là-dehors. C'est dingue\nc'que j'aime cette période de l'année !\n<PAGE>\nLa meilleure saison de toutes, moi j'te l'dis.\nRegarde cette pluie de pétales de cerisiers, et\ndis-moi que ça ne te fait pas fondre le cœur ! <RED>∀</RED>"
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_SPRING",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_SAD>\nLes cerisiers fleurissent de partout, mais j'ai peur\nque cette pluie fasse s'envoler les fleurs.\n<PAGE>\n<FACE_LAUGH>Mais bon, 'faut admettre que les pétales de fleurs\nde cerisiers sont jolis aussi quand ils sont\ndispersés au vent ! <RED>∀</RED>"
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_SUMMER",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nEh ben, on étouffe aujourd'hui, dis-moi...\nJ'espère qu'il va pleuvoir un peu pour\nrafraîchir tout ça."
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_SUMMER",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_LAUGH>\nLa pluie rafraîchit un peu l'air. Ça fait du bien,\ntu trouves pas ? <RED>∀</RED>"
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_AUTUMN",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_LAUGH>\nLa meilleure saison de toutes, pas vrai ?♪\nLa montagne a l'air d'être en feu\navec toutes ces feuilles rouges."
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_AUTUMN",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nCes pluies d'automne sont romantiques,\ntu trouves pas ?\n<PAGE>\n<FACE_LAUGH>Un jour comme ça, si j'rencontre un beau\ngarçon avec le regard triste, j'suis capable\nde tomber amoureuse en un éclair. <RED>∀</RED>"
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_WINTER",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nLes gens disent que ce qu'il ya de plus beau\nl'hiver, c'est le petit matin. Poétique, non ?\n<PAGE>\n<FACE_LAUGH>J'suis bien d''accord, en tout cas. Il fait froid le\nmatin, mais dès que le soleil pointe le bout de\nson nez, ça motive pour commencer à bosser."
+    },
+    {
+      "VardId": "MES_WEATHER_SNOW",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_LAUGH>\nLes flocons qui tombent du ciel\nsont si fragiles et si beaux...\n<PAGE>\nUn hiver sans neige serait pas vraiment un hiver,\nt'es pas d'accord ? <RED>∀</RED>"
+    },
+    {
+      "VardId": "MES_WEATHER_TYPHOON",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_SAD>\nSacré tempête, pas vrai ?\n<PAGE>\nTu devrais rentrer chez toi avant qu'ça empire."
+    },
+    {
+      "VardId": "MES_WEATHER_HEAVYSNOW",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_SAD>\nJ-J'aime bien la neige d'habitude,\nmais... ya des limites...\n<PAGE>\nTu devrais rentrer chez toi. 'Faudrait pas non\nplus que tu t'évanouisses au milieu d'nulle part."
+    },
+    {
+      "VardId": "MES_GODDESS_BEFORE_APPEARANCE_00",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nDessie est pas là pour l'instant."
+    },
+    {
+      "VardId": "MES_GODDESS_BEFORE_APPEARANCE_01",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_SAD>\nQuand Dessie est pas là, j'peux pas\nme concentrer..."
+    },
+    {
+      "VardId": "MES_GODDESS_ABSENCE_00",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_SAD>\nÀ chaque fois que Dessie fait quéqu'chose\nqu'il faut pas, elle se met à pleurer\ncomme une madeleine.\n<PAGE>\nLa dernière fois, j'lui ai dit d'arrêter de pleurer\net de réfléchir à ce qui n'avait pas marché.\n<PAGE>\n<FACE_ANGRY>Mais ça l'a fait pleurer encore plus !\n<PAGE>\nC'était pas du tout ce que j'voulais faire.\nJ'étais vraiment désolée..."
+    },
+    {
+      "VardId": "MES_GODDESS_ABSENCE_01",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_LAUGH>\nDessie est un peu candide, mais elle a un cœur\nen or, et en plus de ça, elle est carrément\nadorable. <RED>∀</RED>\n<PAGE>\n<FACE_NORMAL>... Mais elle est un peu frustrante parfois,\nquand même."
+    },
+    {
+      "VardId": "MES_AREA_FOREST_SPRING_00",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nCette source, c'est chez nous. L'eau est belle\net claire, et on est entourés par la nature.\nQuoi d'plus parfait ? <RED>∀</RED>"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_SPRING_01",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_SAD>\nMora a rapporté pleins de champignons hier...\n<PAGE>\n<FACE_ANGRY>... mais ils étaient tous toxiques !\n<PAGE>\n<FACE_SAD>C'est bête qu'il ait pas réussi à reconnaître les\nbons des mauvais. Flûte alors, c'est un lutin,\nquand même ! Fais attention aussi, de ton côté."
+    },
+    {
+      "VardId": "MES_AREA_FOREST_SPRING_02",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_LAUGH>\nJ'aime pas les insectes, mais j'trouve que\nles papillons sont magnifiques.♪"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_SUMMER_00",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nIl fait toujours bien frais autour de la source.♪\n... Pour le repas de ce soir, je crois que de l'eau\nme suffira largement !"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_SUMMER_01",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nLe plus dur dans mon boulot, c'est de trouver\nles ingrédients pour préparer à manger\ntous les jours...\n<PAGE>\nMais en c'moment j'ai pas trop de souci, vu qu'il\nya des champignons dans tous les coins.♪"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_SUMMER_02",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_ANGRY>\nLes insectes rappliquent tout autour de la source\nchaque nuit... et ça fait peur ! Tellement peur\nque je dors pas bien du tout."
+    },
+    {
+      "VardId": "MES_AREA_FOREST_AUTUMN_00",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nLa nature est belle dans l'coin, mais j'crois que\ncet endroit est le plus beau de tous.\nQuelle vue merveilleuse...\n<PAGE>\n...Hmm ? Ce qu'il ya de merveilleux ? Eh bien,\nles feuilles d'automne, pardi ! <RED>∀</RED>"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_AUTUMN_01",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nTiens tiens... Non... Et là-bas...\n<PAGE>\nHmm ? C'que j'fais ?\nJe cherche des châtaignes ! <RED>∀</RED>\n<PAGE>\nParfois j'en trouve dans la rue. Mais même\nsi j'les ramasse pas, Mora les trouvera\net me les ramènera sans problème."
+    },
+    {
+      "VardId": "MES_AREA_FOREST_AUTUMN_02",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_LAUGH>\nLà d'où j'viens, l'automne n'est pas l'automne\nsans libellules nervées rouges."
+    },
+    {
+      "VardId": "MES_AREA_FOREST_WINTER_00",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nLa neige monte sacrément haut ici.\n<PAGE>\nT'as déjà eu mal aux oreilles à cause du silence\nquand ya beaucoup de neige partout ?\n<PAGE>\nQuand il n'y a vraiment aucun bruit, je crois que\nles gens disent que c'est un \"silence de plomb\"."
+    },
+    {
+      "VardId": "MES_AREA_FOREST_WINTER_01",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nQuand j'étais toute petite, je faisais des batailles\nde boules de neige avec les autres lutins.\n<PAGE>\nMais ya plus l'temps pour ça maintenant\nque j'prends soin de Dessie."
+    },
+    {
+      "VardId": "MES_AREA_FOREST_WINTER_02",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_LAUGH>\nAhhh. Ce que j'peux aimer l'hiver...\nLa saison où il n'y a pas d'insectes.♪"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_SPRING_00",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nJe suis sortie pour prendre l'air, là.\n<PAGE>\n<FACE_SAD>Mora n'arrêtait pas de me harceler pour savoir\nce qu'on allait manger ce soir...\n<PAGE>\n<FACE_NORMAL>... alors j'suis partie un peu dans mon coin,\nhistoire d'être seule pendant un moment."
+    },
+    {
+      "VardId": "MES_AREA_RIVER_SPRING_01",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_LAUGH>\nParfois j'vois une coreopsis ou deux\nau bord du chemin.\n<PAGE>\nJ'suis sûre que si j'en faisait un bouquet,\nça serait magnifique.♪"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_SPRING_02",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_SAD>\nJ'aime bien le printemps et tout ce qui est en\nrapport avec le printemps. Sauf les grenouilles.\nJ'supporte pas les grenouilles..."
+    },
+    {
+      "VardId": "MES_AREA_RIVER_SUMMER_00",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nY'en a de l'animation, ici !\nL'endroit est bien différent au printemps."
+    },
+    {
+      "VardId": "MES_AREA_RIVER_SUMMER_01",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nLa rivière du coin permet de supporter\nun peu mieux la température, en ce moment.\n<PAGE>\nMais bon, on étouffe quand même\navec cette chaleur..."
+    },
+    {
+      "VardId": "MES_AREA_RIVER_SUMMER_02",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_LAUGH>\nLe Papillon Empereur est le plus beaux\ndes papillons ! Et j'trouve que ses ailes me vont\nplutôt bien au teint, si j'peux m'permettre. <RED>∀</RED>"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_AUTUMN_00",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_LAUGH>\nEh ben, on peut dire qu'il aura pris son temps,\nmais voilà enfin l'automne !"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_AUTUMN_01",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nJ'sais pas pourquoi, mais chaque année en\nautomne, Dessie a toujours un sacré appétit.\nJ'ai parfois du mal à faire assez à manger !"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_AUTUMN_02",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_SAD>\nDes insectes et encore des insectes...\nJ'peux jamais m'en débarrasser,\npourtant j'aimerais bien !\n<PAGE>\n<FACE_NORMAL>... Enfin bon, c'est pas non plus comme si\ntous les insectes me dérangeaient.\n<PAGE>\n<FACE_LAUGH>Y'en a des jolis, comme les lucioles\net les papillons, par exemple !"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_WINTER_00",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nOulàlà, un froid capable de geler\ntoute une rivière ? Si je pouvais\nm'en passer ça serait volontiers !"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_WINTER_01",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nParfois en jetant des boules de neige\non peut trouver des trucs cool cachés\nà l'intérieur, même si c'est rare.\n<PAGE>\nMais... n'essaie pas de vérifier ça en en jetant\nsur les gens, compris ?"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_WINTER_02",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nLes grenouilles, j'aime pas ça.\nAlors j'évite la rivière.\n<PAGE>\nMais dès que l'hiver arrive, elle disparaissent\net j'peux passer autant de temps que je veux\nà la rivière !♪"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_SPRING_00",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nOn dirait que c'est plus facile de faire pousser\ndes arbres fruitiers ici que sur les autres terrains.\n<PAGE>\nLes cerises sont de saison en ce moment,\nj'me trompe ?"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_SPRING_01",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_LAUGH>\nIl paraît que le thé printanier est très bon\npour la santé.\n<PAGE>\nJ'devrais p't'être en rapporter à Dessie."
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_SPRING_02",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_SAD>\nYa pas trop d'insectes dans l'coin, alors j'trouve\ncet endroit plutôt relaxant. Mais dès qu'une\ngrenouille décide de s'pointer, rien n'va plus !"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_SUMMER_00",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nL'été c'est la période des fruits,\nt'es pas d'accord ? Les fruits\nsont toujours plus sucrés en été."
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_SUMMER_01",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_LAUGH>\nDes maaaaangues !♪\nYa pas meilleure saison pour les mangues,\nj'ai pas raison ?"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_SUMMER_02",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nL'été c'est bien pour tout ce qui est fruits\net légumes, mais les insectes,\nc'est vraiment pas possible !"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_AUTUMN_00",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nC'est la saison parfaite si tu recherches\ndes pommes, du raisin ou d'autres fruits\npour faire des desserts super sucrés !"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_AUTUMN_01",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_LAUGH>\nSi jamais tu récoltes des fruits, t'en partagerais\navec moi ? Allez, s'te plaaaaît ? <RED>∀</RED>"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_AUTUMN_02",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_SAD>\nLes fruits sont supers, mais le truc qui m'embête\nc'est qu'ils attirent toujours des vilains insectes !\nÇa gâche tout, c'est moi qui te l'dit..."
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_WINTER_00",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nHé, <MYNAME>, j'ai un secret à te dire...\n<PAGE>\nOn peut récolter du vrai sucre à partir\ndes cannes à sucre. Le même sucre\nque tu mets dans ton thé. C'est fou non ?"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_WINTER_01",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_LAUGH>\nLe sucre est l'ingrédient principal pour faire des\nfriandises. Vous les humains vous en faites avec\nvos épices bizarres. Mais le sucre ya pas mieux."
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_WINTER_02",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nQuel froid ! Mais le froid tue tous les vilains\ninsectes, alors j'trouve que l'hiver\nc'est pas si mal, tout compte fait !♪"
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_SPRING_00",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_LAUGH>\nLes tulipes sont mes fleurs préférées.♪\n<PAGE>\nElles sont élégantes et tellement,\ntellement belles ! <RED>∀</RED>"
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_SPRING_01",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nOuah, quel magnifique jardin de fleurs !♪\nPartout où je regarde il y a des fleurs à sentir...\net leurs odeurs sont divines ! <RED>∀</RED>"
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_SPRING_02",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nJ'peux pas dormir. Les abeilles me piqueraient."
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_SUMMER_00",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nSelon la saison, certaines roses poussent\nplus vite que d'autres.\n<PAGE>\nPendant l'été, c'est les roses rouges\nqui poussent le plus vite."
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_SUMMER_01",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nCet endroit est à couper le souffle, pas vrai ?\nC'est parce qu'il y a des fleurs partout !\n<PAGE>\nJ'crois que j'vais m'faire une couronne de fleurs,\njuste pour fêter ça. Pour fêter...\nje sais pas, n'importe quoi ! <RED>∀</RED>"
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_SUMMER_02",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nL'été c'est la saison des lucioles, pas vrai ?\nElles sont si belles et gracieuses...\nElles représentent bien l'été, tu trouves pas ?"
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_AUTUMN_00",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nLà d'où j'viens, ya des fleurs qu'on appelle\nles œillets roses.\n<PAGE>\nLes gens, euh... m'appelaient même comme ça.\nŒillet rose. Je sais... c'est un peu bête,\nmais c'est comme ça ! <RED>∀</RED>"
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_AUTUMN_01",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nOn raconte que le parfum rend le miel\nencore meilleur !\n<PAGE>\nMais j'ai quand même l'impression qu'utiliser\ndu parfum sur des ABEILLES,\nc'est... un peu dommage..."
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_AUTUMN_02",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_SAD>\nLes insectes paraissent peut-être minuscules\npour vous, les humains.\n<PAGE>\nMais pour nous, ce sont des monstres !\nT'imagines même pas à quel point\nils sont gros et effrayants pour nous !"
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_WINTER_00",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nOn ne peut pas récolter de miel en hiver.\n<PAGE>\nSi même les abeilles ne peuvent pas sortir,\npar un temps pareil... Alors pourquoi\non devrait sortir, nous ?"
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_WINTER_01",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_LAUGH>\nSi les roses bleues existent vraiment...\n<PAGE>\n... J'suis sûre qu'elles sont super belles\nquand elles fleurissent dans la neige... <RED>∀</RED>"
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_WINTER_02",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nÇa me semblait bizarre que cette ruche ne fasse\npas de bruit, mais ça doit être parce qu'il n'y a\npas d'abeilles dedans..."
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_SPRING_00",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nLes légumes à feuilles sont toujours\nun mystère pour moi...\n<PAGE>\nParce que ce sont des légumes, mais c'est\nles feuilles que tu manges ! C'est bizarre, non ?!"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_SPRING_01",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_LAUGH>\nLa menthe, la camomille et d'autres herbes\npoussent dans l'coin.\n<PAGE>\nC'est une vraie mine d'or pour moi !♪"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_SPRING_02",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_LAUGH>\nLes papillons volent et les fleurs éclosent...\nQuelle saison ! Le printemps explose ! Hi hi...♪"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_SUMMER_00",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nJ'ai mangé une citrouille une fois.\nElle était sucrée et délicieuse... Mmmh... <RED>∀</RED>\n<PAGE>\nSi jamais tu récupères des graines de citrouille,\nc'est maintenant qu'il faut les faire pousser,\nt'as compris ?♪"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_SUMMER_01",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\n<cap><MYNAME> ! T'as déjà entendu parler du fruit\njuteux et sucré qu'on appelle la \"pastèque\" ?\n<PAGE>\nJ'ai jamais goûté, mais ça a l'air sacrément bon.\n'Faut que j'essaie !"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_SUMMER_02",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nJ'suis sûre que les cigales annoncent l'été.\nQuand tu les entends chanter,\nc'est que la saison a vraiment commencé !"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_AUTUMN_00",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nL'automne c'est la saison des patates douces !♪\n<PAGE>\nSi j'pouvais en manger tous les jours, j'serais\nheureuse comme c'est pas permis ! <RED>∀</RED>"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_AUTUMN_01",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nÇa sent bon la lavande, hein ?\nEt la couleur est si belle. J'adore !"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_AUTUMN_02",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nPourquoi les garçons aiment attraper des\ninsectes ? J'comprends vraiment pas !"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_WINTER_00",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nLe légume-racine qui définit le mieux l'hiver\nc'est ce bon vieux radis, pas vrai ?\n<PAGE>\nOn en mange beaucoup pendant cette saison.♪"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_WINTER_01",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nCet endroit est tellement grand que la neige\nfait tout briller. C'est joli, tu trouves pas ?"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_WINTER_02",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_LAUGH>\nLes humains sont vraiment des bosseurs. Vous\nêtes toujours debout à l'aube, même par ce froid\nde canard ! On devrait en prendre de la graine."
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_SPRING_00",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nLes terrains irrigués sont déjà pleins d'eau,\nalors c'est pas la peine d'arroser les cultures\nqui poussent dedans.\n<PAGE>\nMais 'faut quand même les surveiller de temps\nen temps, alors oublie pas, d'accord ?"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_SPRING_01",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nQuand on parle de céréales, on parle\ndu blé qui peut servir à faire du pain,\nou du riz, par exemple.\n<PAGE>\nÇa doit être bien de faire pousser ça\ndirectement. Pas b'soin d'aller au magasin\npour en acheter."
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_SPRING_02",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_LAUGH>\nLes lucioles doivent aimer c'qui scintille,\ntu crois pas ? Parce que moi...\nj'aime bien c'qui scintille ! <RED>∀</RED>"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_SUMMER_00",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nAlors... si on veut faire un terrain irrigué,\n'faut juste prendre de l'eau de la rivière, c'est ça ?\n<PAGE>\nEn tout cas, il fait beaucoup plus frais\ndans ce coin-là, grâce à ça..."
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_SUMMER_01",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nL'aut' jour, Mora est tombé dans la rivière\net on a dû aller le sortir de là.\n<PAGE>\nEt quand on a réussi à le sauver, il était coincé\ndans une botte en caoutchouc !\n<PAGE>\nHi hi... Je sais que j'devrais pas rire, mais...\n<PAGE>\nT'aurais dû voir ça ! C'était trop drôle !♪"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_SUMMER_02",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nQuand les lucioles se rassemblent près de la\nrivière, on dirait que l'eau se met à briller. \nC'est impressionnant à voir !"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_AUTUMN_00",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nParfois quand j'vais à la pêche,\nj'attrape des trucs bizarres.\n<PAGE>\nEt c'est pas toujours agréable. C'est bien\nla preuve que les gens jettent encore\ndes déchets dans la rivière, et ça c'est pas bien !"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_AUTUMN_01",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_LAUGH>\nSi ya bien une culture qui me fait penser\nà l'automne, c'est bien le riz.\n<PAGE>\nLà d'où j'viens, on fait pousser plein de riz\ndifférents, tu sais !♪"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_AUTUMN_02",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_SAD>\nQuand t'entends les insectes pleurer la nuit,\nça t'rend pas un peu triste, toi ?"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_WINTER_00",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nJe m'demande si les poissons ressentent le froid.\nÇa fait réfléchir, pas vrai ?"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_WINTER_01",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nParmi toutes les cultures que tu peux\nfaire pousser sur un terrain irrigué,\ny'en a une qui s'appelle le \"wasabi\".\n<PAGE>\nC'est connu pour être le truc le plus épicé\ndu monde. Tellement épicé que ça fiche\nla frousse..."
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_WINTER_02",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nLes lucioles sont vachement jolies quand elles\nfont de la lumière, mais quand c'est pas l'cas\ntu trouves pas qu'elles ont l'air... dégoûtantes ?"
+    },
+    {
+      "VardId": "MES_AREA_OTHER_00",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nHmmm, qu'est-ce que je vais préparer\npour le repas de ce soir... ?\n<PAGE>\nYa tellement de choix en nourriture dans l'coin,\nc'est dur de se décider..."
+    },
+    {
+      "VardId": "MES_AREA_OTHER_01",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nHmm ? Qu'est-ce qui ya ? Tu trouves que j'parle\nbizarrement ? Eh bah, c'est parce que j'suis pas\ndu coin, c'est pour ça que j'parle différemment !\n<PAGE>\nC'est l'accent du village d'où j'viens. J'essaie\nd'parler comme vous autres, mais tu sais c'qu'on\ndit sur les vieilles habitudes, pas vrai ?"
+    },
+    {
+      "VardId": "MES_PRESENT_BEST",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_LAUGH>\nHein ? C'est pour moi ?\n<PAGE>\nTu sais que j'aime ce qui est sucré, mais j'dois\ndire que c'que j'préfère c'est bien les\n<BLUE><low><ITEMNAME0></BLUE>.♪\n<PAGE>\nYa l'air d'y en avoir beaucoup et ça a l'air\ntrop bon. Merci beaucoup, <MYNAME> !"
+    },
+    {
+      "VardId": "MES_PRESENT_VERY",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_LAUGH>\nOuah, c'est pour moi ?\nC'est trop gentil de ta part !♪\n<PAGE>\nJ'vais déguster chaque bouchée !\nMerci, <MYNAME>."
+    },
+    {
+      "VardId": "MES_PRESENT_LIKE",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_LAUGH>\nOuah, c'est pour moi ? Merci, <MYNAME> !\nÇa m'fait vraiment plaisir !♪"
+    },
+    {
+      "VardId": "MES_PRESENT_NORMAL",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nC'est pour moi ? Merci !\n<PAGE>\nHein ? Ma nourriture préférée ? Eh ben,\nplus c'est sucré, mieux c'est !♪"
+    },
+    {
+      "VardId": "MES_PRESENT_DISLIKE",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nC'est pour moi ? J'sais pas c'que j'vais en faire,\nmais merci quand même !\nJ'vais bien finir par trouver quoi en faire...♪"
+    },
+    {
+      "VardId": "MES_PRESENT_HATE",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_SAD>\nQu'est-ce que t'as là ? ... Oh. Je... J'aime pas\ntrop tout ce qui est épicé, tu sais...\n<PAGE>\nMais bon, je l'prends ! Tu me l'as apporté exprès,\nalors ça serait pas bien de refuser.\nPeut-être que Gusto aimera ça..."
+    },
+    {
+      "VardId": "MES_PRESENT_WORST",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_ANGRY>\nOulà, attends une petite seconde, là !\n<PAGE>\nDéjà que j'aime pas ce qui est épicé,\nmais le truc épicé que j'aime le moins... Eh ben,\nc'est ça. <cap><article-d> <BLUE><low><ITEMNAME0></BLUE>.\n<PAGE>\nCette fois j'le prends, mais si tu pouvais éviter\nd'en ramener la prochaine fois ça serait gentil."
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_VERY",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_LAUGH>\nOuah, ça brille, dis-donc. C'est pour moi ?\n<PAGE>\nC'est magnifique !♪\n<PAGE>\nJ'vais déguster chaque bouchée !\nMerci, <MYNAME> !"
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_LIKE",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_LAUGH>\nOuah, ça brille vraiment !\n<PAGE>\nHein ? C'est pour moi ?\nMerci beaucoup, <MYNAME> !"
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_NORMAL",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nOuah, ça brille vraiment !\n<PAGE>\nHein ? C'est pour moi ?\nMerci beaucoup, <MYNAME> !"
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_DISLIKE",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nOuah, ça brille vraiment. C'est pour moi ?\n<PAGE>\nJ'sais pas c'que j'vais en faire, mais merci !\nJ'vais bien finir par trouver.♪"
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_HATE",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_SAD>\nOuah. Ça brille ! C'est joli,\nmais qu'est-ce que c'est ?\n<PAGE>\nJ'aime pas ce qui est épicé... mais j'peux pas\ndire non à un truc aussi brillant !\nPas cette fois, en tout cas.\n<PAGE>\nPeut-être que Gusto ou quelqu'un d'autre\nle mangera à ma place..."
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_WORST",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_ANGRY>\nOuah. Ça brille ! C'est joli,\nmais qu'est-ce que c'est ?\n<PAGE>\nJ'aime pas ce qui est épicé... mais j'peux pas\ndire non à un truc aussi brillant !\nPas cette fois, en tout cas.\n<PAGE>\nPeut-être que Gusto ou quelqu'un d'autre\nle mangera à ma place..."
+    },
+    {
+      "VardId": "MES_PRESENT_SECONDTIME",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nHmm ? Tu m'as pas déjà donné un cadeau\ntout à l'heure ?\n<PAGE>\nÇa serait pas honnête d'accepter trop de cadeaux\nde ta part. Garde-le, je t'en prie."
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_RABBIT",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nOh, coucou petit lapinou !\n<PAGE>\nJ'aime bien jouer avec les lapins dans la forêt\nquand j'ai un peu de temps.♪"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_FOX",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nHmm ? Je t'ai jamais vu toi, si ?\nAlors enchantée !\n<PAGE>\n... Quoi ? Ça t'étonne que j'puisse différencier\nles renards les uns des autres ?\nBien sûr que j'peux !♪"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_OKOJO",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_LAUGH>\nOh, coucou ma copine l'hermine !\n<PAGE>\nCette hermine me laisse monter sur son dos\ntout le temps. <RED>∀</RED> Merci d'être si gentille\navec moi, ma grande !♪"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_OTHER",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nTiens, ça fait plaisir de t'voir. Tu viens souvent\ndans l'coin, ces derniers temps, non ?\nContente de t'avoir vu !\n<PAGE>\nSouviens-toi que les animaux de la forêt\nsont nos amis. Tous autant qu'ils sont !"
+    },
+    {
+      "VardId": "MES_FLOWER_FESTIVAL",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nHein ? C'est pour moi ? Oh, ya cette\nfoire aujourd'hui, c'est vrai.\n<PAGE>\nC'est une bonne tradition d'offrir ce genre de\nchose aux gens que tu apprécies. Merci.♪"
+    },
+    {
+      "VardId": "MES_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nJ'ai entendu dire que les humains s'offraient\ndes plumes bleues quand ils voulaient se marier.\n<PAGE>\nAlors comme t'en as une, ça veut dire que\ntu vas épouser quelqu'un bientôt ?\n<PAGE>\n<FACE_LAUGH>C'est super ! J'suis contente pour toi ! <RED>∀</RED>"
+    },
+    {
+      "VardId": "MES_RING",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nImpressionnant, cet anneau ! Tu l'offres à\nquelqu'un ? Tu devrais le garder dans un endroit\nsûr pour éviter de le faire tomber.♪"
+    },
+    {
+      "VardId": "MES_PRESENT_LAPPING_LIKE ",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_LAUGH>\nOuah, qu'est-ce que c'est bien emballé !\nEt c'est ma couleur préférée.\nMerci beaucoup, <MYNAME> ! <RED>∀</RED>"
+    },
+    {
+      "VardId": "MES_PRESENT_LAPPING",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_LAUGH>\nOuah, qu'est-ce que c'est bien emballé !\nMerci beaucoup, <MYNAME>. <RED>∀</RED>"
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_00",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_LAUGH>\n<cap><MYNAME>, <MYNAME>, <MYNAME>...\n<PAGE>\nC'est ton anniversaire aujourd'hui, non ?\nEt ouais, j'm'en suis souvenu...\net je t'ai ramené un cadeau ! <RED>∀</RED>\n<PAGE>\nC'est pas grand-chose,\nmais j'espère que ça te plaira !"
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_01",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\n<cap><MYNAME>, c'est ton anniversaire aujourd'hui,\npas vrai ? Joyeux anniversaire !♪"
+    },
+    {
+      "VardId": "MES_LONG_INTERVAL",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\nHmm ? Qui es-tu ?\n<PAGE>\nPuisqu'on a pas parlé depuis un bout d'temps,\nj'ai oublié que tu existais.♪"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SLEEPY_00",
+      "Text": "<FACE_PES><POS_RIGHT><FACE_NORMAL>\n*bâille* Ça serait pas l'heure d'aller se coucher,\npar hasard ?"
+    }
+  ]
+}

@@ -1,0 +1,934 @@
+﻿{
+  "Date": "2016-06-10T19:21:44.805818+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MSG_BAG_000",
+      "Text": "Cantidad que quieres eliminar:"
+    },
+    {
+      "VardId": "MSG_BAG_001",
+      "Text": "Cantidad que quieres colocar:"
+    },
+    {
+      "VardId": "MSG_BAG_002",
+      "Text": "¿Quieres combinar los montones?"
+    },
+    {
+      "VardId": "MSG_BAG_003",
+      "Text": "Tu bolsa está llena."
+    },
+    {
+      "VardId": "MSG_BAG_004",
+      "Text": "Cantidad que quieres comer:"
+    },
+    {
+      "VardId": "MSG_BAG_005",
+      "Text": "Elige la cantidad:"
+    },
+    {
+      "VardId": "MSG_BAG_006",
+      "Text": "Cantidad que quieres sacar:"
+    },
+    {
+      "VardId": "MSG_BAG_NAME",
+      "Text": "Bolsa"
+    },
+    {
+      "VardId": "MSG_STORAGE_NAME_0",
+      "Text": "Caja de herr."
+    },
+    {
+      "VardId": "MSG_STORAGE_NAME_1",
+      "Text": "Frigorífico"
+    },
+    {
+      "VardId": "MSG_STORAGE_NAME_2",
+      "Text": "Arca de almac."
+    },
+    {
+      "VardId": "MSG_STORAGE_NAME_3",
+      "Text": "Baúl de mat."
+    },
+    {
+      "VardId": "MSG_STORAGE_NAME_4",
+      "Text": "Ropero"
+    },
+    {
+      "VardId": "MSG_ITEM_CATEGORY_00",
+      "Text": "Herramientas"
+    },
+    {
+      "VardId": "MSG_ITEM_CATEGORY_01",
+      "Text": "Semillas"
+    },
+    {
+      "VardId": "MSG_ITEM_CATEGORY_02",
+      "Text": "Prod. naturales"
+    },
+    {
+      "VardId": "MSG_ITEM_CATEGORY_03",
+      "Text": "Platos"
+    },
+    {
+      "VardId": "MSG_ITEM_CATEGORY_04",
+      "Text": "Marcas"
+    },
+    {
+      "VardId": "MSG_ITEM_CATEGORY_05",
+      "Text": "Ropa"
+    },
+    {
+      "VardId": "MSG_ITEM_CATEGORY_06",
+      "Text": "Complementos"
+    },
+    {
+      "VardId": "MSG_ITEM_CATEGORY_07",
+      "Text": "Prod. derivados"
+    },
+    {
+      "VardId": "MSG_ITEM_CATEGORY_08",
+      "Text": "Pescado & cía."
+    },
+    {
+      "VardId": "MSG_ITEM_CATEGORY_09",
+      "Text": "Insectos"
+    },
+    {
+      "VardId": "MSG_ITEM_CATEGORY_10",
+      "Text": "Otros"
+    },
+    {
+      "VardId": "MSG_ITEM_CATEGORY_11",
+      "Text": "Vestuario"
+    },
+    {
+      "VardId": "MSG_ITEM_CATEGORY_UNIT_00",
+      "Text": "(no trans)"
+    },
+    {
+      "VardId": "MSG_ITEM_CATEGORY_UNIT_01",
+      "Text": "(no trans)"
+    },
+    {
+      "VardId": "MSG_CROP_TYPE_0",
+      "Text": "Hort. de raíz"
+    },
+    {
+      "VardId": "MSG_CROP_TYPE_1",
+      "Text": "Hort. de hoja"
+    },
+    {
+      "VardId": "MSG_CROP_TYPE_2",
+      "Text": "Cultivos altos"
+    },
+    {
+      "VardId": "MSG_CROP_TYPE_3",
+      "Text": "Flores"
+    },
+    {
+      "VardId": "MSG_CROP_TYPE_4",
+      "Text": "Cultiv. regadío"
+    },
+    {
+      "VardId": "MSG_CROP_TYPE_5",
+      "Text": "Cereales"
+    },
+    {
+      "VardId": "MSG_CROP_TYPE_6",
+      "Text": "Frutas"
+    },
+    {
+      "VardId": "MSG_CROP_TYPE_7",
+      "Text": "Té"
+    },
+    {
+      "VardId": "MSG_CROP_TYPE_8",
+      "Text": "Especias"
+    },
+    {
+      "VardId": "MSG_CROP_TYPE_9",
+      "Text": "Setas/Miel"
+    },
+    {
+      "VardId": "MSG_CROP_TYPE_INVALID",
+      "Text": " -"
+    },
+    {
+      "VardId": "MSG_COOK_CAN",
+      "Text": "Puedes hacerlo"
+    },
+    {
+      "VardId": "MSG_COOK_NOT_CAN",
+      "Text": "No puedes"
+    },
+    {
+      "VardId": "MSG_FRESH_PREFIX",
+      "Text": "[Fr.] "
+    },
+    {
+      "VardId": "MSG_STORAGE_WARNING",
+      "Text": "No puedes almacenar nada más"
+    },
+    {
+      "VardId": "MSG_STORAGE_WARNING_001",
+      "Text": "Tu bolsa está llena"
+    },
+    {
+      "VardId": "MSG_SELECT_000",
+      "Text": "Usar"
+    },
+    {
+      "VardId": "MSG_SELECT_001",
+      "Text": "Sostener"
+    },
+    {
+      "VardId": "MSG_SELECT_002",
+      "Text": "Guardar en la bolsa"
+    },
+    {
+      "VardId": "MSG_SELECT_003",
+      "Text": "Equiparse con esto"
+    },
+    {
+      "VardId": "MSG_SELECT_004",
+      "Text": "Quitar"
+    },
+    {
+      "VardId": "MSG_SELECT_005",
+      "Text": "Colocar"
+    },
+    {
+      "VardId": "MSG_SELECT_006",
+      "Text": "Eliminar"
+    },
+    {
+      "VardId": "MSG_SELECT_007",
+      "Text": "Salir"
+    },
+    {
+      "VardId": "MSG_SELECT_008",
+      "Text": "Comer"
+    },
+    {
+      "VardId": "MSG_SELECT_009",
+      "Text": "Cambiar el nombre"
+    },
+    {
+      "VardId": "MSG_SELECT_010",
+      "Text": "Cambiar nombre granja"
+    },
+    {
+      "VardId": "MSG_EDIT_CATEGORY_00",
+      "Text": "Zonas construcción"
+    },
+    {
+      "VardId": "MSG_EDIT_CATEGORY_01",
+      "Text": "Jardinería"
+    },
+    {
+      "VardId": "MSG_EDIT_CATEGORY_02",
+      "Text": "Vallas"
+    },
+    {
+      "VardId": "MSG_EDIT_CATEGORY_03",
+      "Text": "Instalaciones"
+    },
+    {
+      "VardId": "MSG_EDIT_CATEGORY_04",
+      "Text": "Ampliar el taller"
+    },
+    {
+      "VardId": "MSG_EDIT_CATEGORY_05",
+      "Text": "Herramientas"
+    },
+    {
+      "VardId": "MSG_EDIT_CATEGORY_06",
+      "Text": "Casa"
+    },
+    {
+      "VardId": "MSG_EDIT_LOCATION_00",
+      "Text": "Granja"
+    },
+    {
+      "VardId": "MSG_EDIT_LOCATION_01",
+      "Text": "Pueblo"
+    },
+    {
+      "VardId": "MSG_EDIT_LOCATION_02",
+      "Text": "Hogar"
+    },
+    {
+      "VardId": "MSG_PLAN_000",
+      "Text": "Cantidad que quieres fabricar:"
+    },
+    {
+      "VardId": "MSG_PLAN_001",
+      "Text": "Te faltan materiales."
+    },
+    {
+      "VardId": "MSG_NOT_MAKE_01",
+      "Text": "El inventario está lleno."
+    },
+    {
+      "VardId": "MSG_NOT_MAKE_00",
+      "Text": "Tu bolsa está llena."
+    },
+    {
+      "VardId": "MSG_NOT_MAKE_03",
+      "Text": "No puedes fabricar más."
+    },
+    {
+      "VardId": "MSG_ATELIER_00",
+      "Text": "¿Quieres sacar todos los materiales\nque están en proceso de elaboración?"
+    },
+    {
+      "VardId": "MSG_ATELIER_01",
+      "Text": "No tienes los materiales necesarios."
+    },
+    {
+      "VardId": "MSG_ATELIER_02",
+      "Text": "Cantidad que quieres hacer:"
+    },
+    {
+      "VardId": "MSG_ATELIER_03",
+      "Text": "¿Quieres continuar?"
+    },
+    {
+      "VardId": "MSG_QUEST_RECEIVE_00",
+      "Text": "¿Quieres aceptar esta petición?"
+    },
+    {
+      "VardId": "MSG_QUEST_RECEIVE_01",
+      "Text": "No puedes aceptar más."
+    },
+    {
+      "VardId": "MSG_QUEST_MEMO_00",
+      "Text": "¿Quieres cancelar esta petición?"
+    },
+    {
+      "VardId": "MSG_TRADE_CLIENT_00",
+      "Text": "País de la seda"
+    },
+    {
+      "VardId": "MSG_TRADE_CLIENT_01",
+      "Text": "País del cabañal"
+    },
+    {
+      "VardId": "MSG_TRADE_CLIENT_02",
+      "Text": "País del cerezo"
+    },
+    {
+      "VardId": "MSG_TRADE_CLIENT_03",
+      "Text": "País del trigo"
+    },
+    {
+      "VardId": "MSG_TRADE_CLIENT_04",
+      "Text": "País de las rosas"
+    },
+    {
+      "VardId": "MSG_TRADE_CLIENT_05",
+      "Text": "País tropical"
+    },
+    {
+      "VardId": "MSG_TRADE_CLIENT_06",
+      "Text": "País del hielo"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_HARVEST_SPRING",
+      "Text": "Prod. primavera"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_HARVEST_SUMMER",
+      "Text": "Prod. verano"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_HARVEST_AUTUMN",
+      "Text": "Prod. otoño"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_HARVEST_WINTER",
+      "Text": "Prod. invierno"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_FLOWER",
+      "Text": "Flores"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_TEA",
+      "Text": "Hojas de té"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_SPICE",
+      "Text": "Especias"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_GRAIN",
+      "Text": "Cereales"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_GRASS",
+      "Text": "P. montañosos"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_ACCESSORIES",
+      "Text": "Vestuario"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_TOOL",
+      "Text": "Herramientas"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_FISH",
+      "Text": "Pescado & cía."
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_MATERIAL",
+      "Text": "Materiales"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_COOK",
+      "Text": "Cocina"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_CRAFT",
+      "Text": "Prod. derivados"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_DAIRY",
+      "Text": "Huevos/Lácteos"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_WINE",
+      "Text": "Vino"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_CARPET",
+      "Text": "Paredes/Suelos"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_OBJET",
+      "Text": "Dec. exteriores"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_FURNITURE",
+      "Text": "Hogar"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_OTHER",
+      "Text": "Otros"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_00",
+      "Text": " para exportar."
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_HARVEST_SPRING",
+      "Text": "¡Exporta productos agrícolas de primavera!"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_HARVEST_SUMMER",
+      "Text": "¡Exporta productos agrícolas de verano!"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_HARVEST_AUTUMN",
+      "Text": "¡Exporta productos agrícolas de otoño!"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_HARVEST_WINTER",
+      "Text": "¡Exporta productos agrícolas de invierno!"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_FLOWER",
+      "Text": "¡Exporta flores!"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_TEA",
+      "Text": "¡Exporta hojas de té!"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_SPICE",
+      "Text": "¡Exporta especias!"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_GRAIN",
+      "Text": "¡Exporta cereales!"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_GRASS",
+      "Text": "¡Exporta productos agrícolas montañosos!"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_ACCESSORIES",
+      "Text": "¡Exporta ropa y complementos!"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_TOOL",
+      "Text": "¡Exporta herramientas!"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_FISH",
+      "Text": "¡Exporta pescado & cía.!"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_MATERIAL",
+      "Text": "¡Exporta materiales!"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_COOK",
+      "Text": "¡Exporta platos cocinados!"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_CRAFT",
+      "Text": "¡Exporta productos derivados!"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_DAIRY",
+      "Text": "¡Exporta huevos y lácteos!"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_WINE",
+      "Text": "¡Exporta vino!"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_CARPET",
+      "Text": "¡Exporta paredes y suelos!"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_OBJET",
+      "Text": "¡Exporta decoración de exteriores!"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_FURNITURE",
+      "Text": "¡Exporta hogar!"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_OTHER",
+      "Text": "¡Exporta otros objetos!"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_REPORT_SELECT_SHIPMENT_00",
+      "Text": "Cantidad que quieres exportar:"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_REPORT_SELECT_SHIPMENT_01",
+      "Text": "¿Quieres exportar los objetos seleccionados?"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_REPORT_SELECT_SHIPMENT_02",
+      "Text": "¿Quieres seguir adelante con la exportación?"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_REPORT_00",
+      "Text": "¡Has recibido un regalo de agradecimiento!"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_REPORT_01",
+      "Text": "No puedes exportar porque no tienes espacio\npara recibir la recompensa."
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_REPORT_02",
+      "Text": ": reducción en el precio de su exportación."
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_REPORT_MENU_00",
+      "Text": "Exportar recomendados"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_REPORT_MENU_01",
+      "Text": "Seleccionar y exportar"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_REPORT_MENU_02",
+      "Text": "Salir"
+    },
+    {
+      "VardId": "MSG_AREA_000",
+      "Text": "¿Quieres solicitar el permiso de estas tierras?"
+    },
+    {
+      "VardId": "MSG_AREA_001",
+      "Text": "No puedes solicitar estas tierras."
+    },
+    {
+      "VardId": "MSG_ENTRY_DECIDE",
+      "Text": "Elegir este"
+    },
+    {
+      "VardId": "MSG_ENTRY_CANCEL",
+      "Text": "Salir"
+    },
+    {
+      "VardId": "MSG_CATTLE_HOUSE",
+      "Text": "Establo<m>"
+    },
+    {
+      "VardId": "MSG_HEN_HOUSE",
+      "Text": "Corral<m>"
+    },
+    {
+      "VardId": "MSG_PET_HOUSE",
+      "Text": "Casa de mascotas<f>"
+    },
+    {
+      "VardId": "MSG_MYSHOP_NUMBER_SELECT",
+      "Text": "Cantidad a retirar:"
+    },
+    {
+      "VardId": "MSG_MYSHOP_SELECT_BAG",
+      "Text": "Guardar en la bolsa"
+    },
+    {
+      "VardId": "MSG_MYSHOP_SELECT_RACK",
+      "Text": "Guardar en arca almac."
+    },
+    {
+      "VardId": "MSG_MYSHOP_SELECT_BOX",
+      "Text": "Guardar en caja de herr."
+    },
+    {
+      "VardId": "MSG_MYSHOP_SELECT_COLD",
+      "Text": "Guardar en el frigorífico"
+    },
+    {
+      "VardId": "MSG_MYSHOP_SELECT_MATERIAL",
+      "Text": "Guardar en baúl de mat."
+    },
+    {
+      "VardId": "MSG_MYSHOP_SELECT_STOCK",
+      "Text": "Guardar en el inventario"
+    },
+    {
+      "VardId": "MSG_MYSHOP_SELECT_CLOSET",
+      "Text": "Guardar en el ropero"
+    },
+    {
+      "VardId": "MSG_MYSHOP_MAX_BAG",
+      "Text": "Tu bolsa está llena."
+    },
+    {
+      "VardId": "MSG_MYSHOP_MAX_RACK",
+      "Text": "El arca de almacenamiento está llena."
+    },
+    {
+      "VardId": "MSG_MYSHOP_MAX_BOX",
+      "Text": "La caja de herramientas está llena."
+    },
+    {
+      "VardId": "MSG_MYSHOP_MAX_COLD",
+      "Text": "El frigorífico está lleno."
+    },
+    {
+      "VardId": "MSG_MYSHOP_MAX_MATERIAL",
+      "Text": "El baúl de materiales está lleno."
+    },
+    {
+      "VardId": "MSG_MYSHOP_MAX_STOCK",
+      "Text": "El inventario está lleno."
+    },
+    {
+      "VardId": "MSG_MYSHOP_MAX_CLOSET",
+      "Text": "Tu ropero está lleno."
+    },
+    {
+      "VardId": "MSG_MYSHOP_PRICE_SELECT_FULL",
+      "Text": "Vender al precio original"
+    },
+    {
+      "VardId": "MSG_MYSHOP_PRICE_SELECT_HALF",
+      "Text": "Vender a mitad de precio"
+    },
+    {
+      "VardId": "MSG_MYSHOP_FULL",
+      "Text": "No puedes poner más cosas a la venta."
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_HELP_CATTLE",
+      "Text": "Cuidar ganado"
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_HELP_HEN",
+      "Text": "Cuidar gallinas/conejos"
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_HELP_ITEM",
+      "Text": "Recoger objetos"
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_HELP_NONE",
+      "Text": "No solicitar ayuda"
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_HELP_UNAVAILABLE",
+      "Text": "¡No hay animales que puedan ayudar!"
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_MOVE_SELECT",
+      "Text": "Elige a qué <low><MOJI0>\nquieres enviar a este animal."
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_MOVE_ERROR_PREG",
+      "Text": "No puedes trasladar a una hembra\nque esté preñada. Selecciona otra."
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_MOVE_ERROR_SICK",
+      "Text": "No puedes trasladar a un animal\nque esté enfermo. Selecciona otro."
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_MOVE_ERROR_RUNAWAY",
+      "Text": "No puedes trasladar a un animal\nque se haya escapado. Selecciona otro."
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_MOVE_ERROR_NO",
+      "Text": "No hay disponible\n<adjective male-s=\"ningún\" female-s=\"ninguna\"> <low><MOJI0>."
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_MOVE_FULL",
+      "Text": "<adjective male-s=\"Ese\" female-s=\"Esa\"> <low><MOJI0> está <adjective male-s=\"lleno\" female-s=\"llena\">.\nSelecciona un animal para intercambiarlo."
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_MOVE_END",
+      "Text": "Has trasladado al animal."
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_MOVE_YES",
+      "Text": "Trasladar"
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_MOVE_NO",
+      "Text": "Dejarlo como está"
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_MOVE_MYHOUSE",
+      "Text": "Hogar"
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_MOVE_MYHOUSE_SWITCH",
+      "Text": "En la casa ya vive una mascota.\n¿Quieres cambiarlo?"
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_MOVE_MYHOUSE_SWITCH_YES",
+      "Text": "Cambiar"
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_MOVE_MYHOUSE_SWITCH_NO",
+      "Text": "Dejarlo como está"
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_NOANIMAL",
+      "Text": "(no trans)"
+    },
+    {
+      "VardId": "MSG_SHIPPING_MENU_ITEM",
+      "Text": "Objetos"
+    },
+    {
+      "VardId": "MSG_SHIPPING_MENU_EDIT",
+      "Text": "Manufacturas"
+    },
+    {
+      "VardId": "MSG_SHIPPING_MENU_CANCEL",
+      "Text": "Salir"
+    },
+    {
+      "VardId": "MSG_SHIPPING_LIST_MSG_000",
+      "Text": "No export."
+    },
+    {
+      "VardId": "MSG_SHIPPING_LIST_MSG_001",
+      "Text": "(?)"
+    },
+    {
+      "VardId": "MSG_SHIPPING_LIST_MSG_002",
+      "Text": "----------"
+    },
+    {
+      "VardId": "MSG_SHIPPING_LIST_MSG_003",
+      "Text": "-----"
+    },
+    {
+      "VardId": "MSG_FLOWER_ARRANGEMENT_BAG_FULL",
+      "Text": "(no trans)"
+    },
+    {
+      "VardId": "MSG_RIBBON_NUMBER_SELECT",
+      "Text": "Cantidad que quieres hacer:"
+    },
+    {
+      "VardId": "MSG_RIBBON_SET",
+      "Text": "Material usado: <MOJI0>"
+    },
+    {
+      "VardId": "MSG_PROPERTY_000",
+      "Text": "Has seleccionado el nombre\n[<BLUE><MOJI0></BLUE>]. ¿Es correcto?"
+    },
+    {
+      "VardId": "MSG_WRAPPING_NUMBER_SELECT",
+      "Text": "Cantidad que quieres hacer:"
+    },
+    {
+      "VardId": "MSG_WRAPPING_BAG_FULL",
+      "Text": "(no trans)"
+    },
+    {
+      "VardId": "MSG_WRAPPING_CANCEL_SELECT",
+      "Text": "¿Quieres quitar el envoltorio?"
+    },
+    {
+      "VardId": "MSG_WRAPPING_CANCEL",
+      "Text": "(no trans)"
+    },
+    {
+      "VardId": "MSG_BURARI_COMMENT_FISHING",
+      "Text": "Pescar en el río"
+    },
+    {
+      "VardId": "MSG_BURARI_COMMENT_INSECT",
+      "Text": "Capturar insectos"
+    },
+    {
+      "VardId": "MSG_BURARI_COMMENT_COOKING",
+      "Text": "Cocinar alimentos"
+    },
+    {
+      "VardId": "MSG_BURARI_COMMENT_SEWING",
+      "Text": "Confeccionar ropa"
+    },
+    {
+      "VardId": "MSG_BURARI_COMMENT_SEASONING",
+      "Text": "Preparar especias"
+    },
+    {
+      "VardId": "MSG_BURARI_COMMENT_DAIRY",
+      "Text": "Preparar lácteos"
+    },
+    {
+      "VardId": "MSG_BURARI_COMMENT_WINE",
+      "Text": "Elaborar vinos"
+    },
+    {
+      "VardId": "MSG_BURARI_COMMENT_SEED",
+      "Text": "Producir semillas"
+    },
+    {
+      "VardId": "MSG_BURARI_COMMENT_CERAMICS",
+      "Text": "Preparar cerámica"
+    },
+    {
+      "VardId": "MSG_BURARI_COMMENT_RIVER",
+      "Text": "Bucear en el río"
+    },
+    {
+      "VardId": "MSG_BURARI_COMMENT_NOTHING",
+      "Text": "Ninguna"
+    },
+    {
+      "VardId": "MSG_SAFARI_GO_ANIMAL_DECIDE",
+      "Text": "¿Quieres seleccionar este animal?"
+    },
+    {
+      "VardId": "MSG_SAFARI_GO_ANIMAL_CANCEL",
+      "Text": "¿Estás <gender male=\"seguro\" female=\"segura\"> de que no quieres\nir con ningún animal?"
+    },
+    {
+      "VardId": "MSG_SAFARI_GO_ANIMAL_NOTHING",
+      "Text": "No has seleccionado ningún animal."
+    },
+    {
+      "VardId": "MSG_CONECT_GIFT_PRESENT_MSG_000",
+      "Text": "Cantidad que quieres dar:"
+    },
+    {
+      "VardId": "MSG_CONECT_GIFT_PRESENT_MSG_001",
+      "Text": "¿Quieres regalar este objeto?"
+    },
+    {
+      "VardId": "MSG_SELECT_011",
+      "Text": "Mirar"
+    },
+    {
+      "VardId": "MES_EXTENSION_WARNING",
+      "Text": "Se han guardado las decor. de la habitación,\nasí que la caj. de herr. ha cambiado de sitio."
+    },
+    {
+      "VardId": "MES_EXTENSION_NG",
+      "Text": "No se pueden guardar las decoraciones.\nPrimero haz algo de espacio."
+    },
+    {
+      "VardId": "MSG_ACCESSORY_EFFECT_00",
+      "Text": "¡Quizá ahora puedas nadar más rápido!"
+    },
+    {
+      "VardId": "MSG_ACCESSORY_EFFECT_01",
+      "Text": "¡Puedes convertir los objetos tirados\nen dinero!"
+    },
+    {
+      "VardId": "MSG_ACCESSORY_EFFECT_02",
+      "Text": "¡Recuperarás la energía poco a poco!"
+    },
+    {
+      "VardId": "MSG_ACCESSORY_EFFECT_03",
+      "Text": "¡Recuperarás la energía poco a poco!"
+    },
+    {
+      "VardId": "MSG_ACCESSORY_EFFECT_04",
+      "Text": "¡Recuperarás la energía poco a poco!"
+    },
+    {
+      "VardId": "MSG_ACCESSORY_EFFECT_05",
+      "Text": "¡Tu estado mejorará poco a poco!"
+    },
+    {
+      "VardId": "MSG_ACCESSORY_EFFECT_06",
+      "Text": "¡Tu estado mejorará poco a poco!"
+    },
+    {
+      "VardId": "MSG_ACCESSORY_EFFECT_07",
+      "Text": "¡Tu estado mejorará poco a poco!"
+    },
+    {
+      "VardId": "MSG_ACCESSORY_EFFECT_08",
+      "Text": "De repente te cansas más fácilmente..."
+    },
+    {
+      "VardId": "MSG_ACCESSORY_EFFECT_09",
+      "Text": "¡Parece que tienes un vínculo más estrecho\ncon los habitantes del pueblo!"
+    },
+    {
+      "VardId": "MSG_ACCESSORY_EFFECT_10",
+      "Text": "¡Parece que tienes un vínculo más estrecho\ncon tus animales!"
+    },
+    {
+      "VardId": "MSG_ACCESSORY_EFFECT_11",
+      "Text": "¡Parece que tienes un vínculo más estrecho\ncon tus mascotas!"
+    },
+    {
+      "VardId": "MSG_ACCESSORY_EFFECT_12",
+      "Text": "¡Parece que tienes un vínculo más estrecho\ncon los animales salvajes!"
+    },
+    {
+      "VardId": "MSG_ACCESSORY_EFFECT_13",
+      "Text": "Parece que el día pasa volando..."
+    },
+    {
+      "VardId": "MSG_ACCESSORY_EFFECT_14",
+      "Text": "¡Parece que el tiempo pasa muy despacio!"
+    },
+    {
+      "VardId": "MSG_ACCESSORY_EFFECT_15",
+      "Text": "¡Ahora te cansas menos, incluso\ncuando estás usando las herramientas!"
+    },
+    {
+      "VardId": "MSG_WRAPPING_NO_RIBBON",
+      "Text": "No tienes ningún lazo para envolver..."
+    },
+    {
+      "VardId": "MSG_WRAPPING_NO_RIBBON_2",
+      "Text": "No tienes ningún lazo."
+    },
+    {
+      "VardId": "MSG_WRAPPING_CANCEL_ERROR",
+      "Text": "No tienes ningún objeto envuelto."
+    }
+  ]
+}

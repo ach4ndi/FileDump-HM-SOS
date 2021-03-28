@@ -1,0 +1,530 @@
+﻿{
+  "Date": "2016-06-06T19:39:55.5541251+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "時間帯ＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MORNING_00",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_LAUGH>\r\nOh, <MYNAME>! What's up?\n<PAGE>\n<FACE_NORMAL>What, you think I'm a little energetic for this early\nin the morning? Well, yeah! It's a brand new day!\nC'mon, up and at 'em!"
+    },
+    {
+      "VardId": "MES_MORNING_01",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_LAUGH>\r\nWhat's up?\n<PAGE>\n<FACE_ANGRY>...Well, that was a lousy greeting, <MYNAME>.\nC'mon, do it again!\n<PAGE>\n<FACE_LAUGH>Whaaat's UUUUUP?! ...All right, that's a little\nbetter. ♪"
+    },
+    {
+      "VardId": "MES_MORNING_02",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nWhat's up, <MYNAME>? You're here bright and\nearly. That's the way to get it done!"
+    },
+    {
+      "VardId": "MES_AFTERNOON_00",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nOh, you look busy, <MYNAME>! Yeah, I'm a little\nbusy myself!\n<PAGE>\nI'm in charge of taking care of Dessie. Got a lotta\nthings to do between now and sundown!"
+    },
+    {
+      "VardId": "MES_AFTERNOON_01",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nHave you had lunch already?\n<PAGE>\n<FACE_SAD>Pepita usually cooks for us, but her tastes are\npretty much the exact opposite of mine...\n<PAGE>\n<FACE_ANGRY>Everything she makes tastes soooo sweet! I\nwant some SPICY food, dang it!"
+    },
+    {
+      "VardId": "MES_AFTERNOON_02",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nPart of my job is doing Dessie's laundry.\n<PAGE>\nShe comes back with her clothes dirty every day\n-- somehow -- so it's important to make sure\nshe always has something clean to wear."
+    },
+    {
+      "VardId": "MES_EVENING_00",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nOh, <MYNAME>! Still working hard at this hour?"
+    },
+    {
+      "VardId": "MES_EVENING_01",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_LAUGH>\r\nI like people who always give it their best shot!\nEffort's the best thing in the world!"
+    },
+    {
+      "VardId": "MES_EVENING_02",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nI'm taking care of the laundry now, so I won't\nhave to do it later.\n<PAGE>\n<FACE_LAUGH>Phew, glad I can say I worked hard today. ♪"
+    },
+    {
+      "VardId": "天気・季節ＭＳＧ（会話フラグOFFでしゃべる）",
+      "Text": ""
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_SPRING",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nGorgeous out today, huh?\n<PAGE>\n<FACE_LAUGH>You know, it's so warm and nice out, I kinda\nwanna just take a nap...\n<PAGE>\n<FACE_ANGRY>...Nope! Nope, can't do that! Gotta do laundry!"
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_SPRING",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_ANGRY>\r\nDang it, rain!\n<PAGE>\nHmm? What, you think I shouldn't talk like that?\n<PAGE>\n<FACE_SAD>Hey, put yourself in my shoes. I washed all the\nlaundry, and now I can't dry any of it."
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_SUMMER",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nDo you like the summer, <MYNAME>?\n<PAGE>\n<FACE_LAUGH>I love it! Clear summer days are the best.\nEspecially for drying laundry!"
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_SUMMER",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nI hate rainy days, but I like summer rain for some\nreason.\n<PAGE>\nThe rain really brings out the smell of grass and\nsoil. Plus I love the fresh air.\n<PAGE>\n<FACE_SAD>The only hard part is trying to dry laundry in the\nrain. Guess I don't care for that too much."
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_AUTUMN",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nIt's getting cooler out, isn't it? It's a nice fall day\ntoday."
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_AUTUMN",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nWell, here I am again. The laundry's all wet, and\nthere's no way to dry it."
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_WINTER",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nYou know how in winter, the sun's not out as\nmuch?\n<PAGE>\n<FACE_ANGRY>...Yeah, that makes it a whole lot harder to dry\nthe laundry..."
+    },
+    {
+      "VardId": "MES_WEATHER_SNOW",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_ANGRY>\r\nI really hate winter. Less sun means I can't dry\nthe laundry half the time."
+    },
+    {
+      "VardId": "MES_WEATHER_TYPHOON",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_ANGRY>\r\nWhoa?! What are you doing here?!\n<PAGE>\n<FACE_SAD>I don't care how tough you are, you get yourself\nhome before you catch a cold!"
+    },
+    {
+      "VardId": "MES_WEATHER_HEAVYSNOW",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_SAD>\r\nIt's c-cold...\n<PAGE>\nWait, no, it's not! It's not cold at all! It's all in my\nhead! Mind over matter. The fire in my heart and\nsoul is all the heat I n-n-n...\n<PAGE>\n...Achoo!!"
+    },
+    {
+      "VardId": "現在地について",
+      "Text": ""
+    },
+    {
+      "VardId": "MES_GODDESS_BEFORE_APPEARANCE_00",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nWe're Dessie's watchdogs!\n<PAGE>\nYeah, I like the sound of that. \"Watchdogs!\" So\ncool."
+    },
+    {
+      "VardId": "MES_GODDESS_BEFORE_APPEARANCE_01",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nDessie's out of town for a while, so it's on us to\nwatch the place until she gets back."
+    },
+    {
+      "VardId": "MES_GODDESS_ABSENCE_00",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nWhere did Dessie go? Well, I suppose it couldn't\nhurt to relax a BIT while she's gone...\n<PAGE>\n<FACE_SAD>...Yeah, I'll just relax. It'll be a good thing."
+    },
+    {
+      "VardId": "MES_GODDESS_ABSENCE_01",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_LAUGH>\r\nDessie can be tough to deal with sometimes,\nbut by deity standards, she's actually pretty nice!"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_SPRING_00",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_ANGRY>\r\nI don't care much for spring. At least not for all\nthe pink that shows up everywhere.\n<PAGE>\nReal men like red. That's the color of their souls!"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_SPRING_01",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nCareful with the mushrooms around here. A lot\nof them are poisonous."
+    },
+    {
+      "VardId": "MES_AREA_FOREST_SPRING_02",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_LAUGH>\r\nI wanna catch a big beetle this year."
+    },
+    {
+      "VardId": "MES_AREA_FOREST_SUMMER_00",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_ANGRY>\r\nDaaang, it's hot today!\n<PAGE>\n<FACE_NORMAL>But that's the way summer should be, don't you\nthink?"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_SUMMER_01",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nA lot of poison mushrooms pop up around here\nin the spring...\n<PAGE>\nBut this time of year, they're all perfectly edible.\n<PAGE>\n...So I guess poison mushrooms have their\nseason."
+    },
+    {
+      "VardId": "MES_AREA_FOREST_SUMMER_02",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nAh, you know it's summer when you hear the\ncicadas chirping like crazy!"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_AUTUMN_00",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_SAD>\r\nMan, I miss summer already...\n<PAGE>\nThree whole seasons to wait until the next one\ncomes along."
+    },
+    {
+      "VardId": "MES_AREA_FOREST_AUTUMN_01",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nTrumpet mushrooms have a weird shape... They\ndon't really look like mushrooms at all, do they?"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_AUTUMN_02",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_LAUGH>\r\nHey, I caught a red-suited cricket around here\nthe other day! Amazing, huh?"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_WINTER_00",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nCold? Do I look cold to you?\n<PAGE>\nI-I'm not! I've got all the fire I need right here\ninside!"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_WINTER_01",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_LAUGH>\r\nHey, a snowball! Right, time to throw it at\nPepita...\n<PAGE>\n<FACE_SAD>...Oh, uh, you didn't hear that!"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_WINTER_02",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nI wonder why long-horned grasshoppers sing\nlike that."
+    },
+    {
+      "VardId": "MES_AREA_RIVER_SPRING_00",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_LAUGH>\r\nThere're a lot of insects around here! Any big\nones?"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_SPRING_01",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_LAUGH>\r\nFishing in the river looks fun! Kicking back at the\nshore with a fishing rod in hand...that's a man's\nfavorite dream."
+    },
+    {
+      "VardId": "MES_AREA_RIVER_SPRING_02",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nNot all insect species come out at the same time\nof day.\n<PAGE>\nIf there's one you can't find while the sun's out,\ntry coming back at night!"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_SUMMER_00",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_LAUGH>\r\nWhat do you think about in summertime?\nSwimming in the river, right? Man, that must\nfeel great right about now!"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_SUMMER_01",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nYou know, a while back, Flik got caught in a fish\ntrap.\n<PAGE>\n<FACE_SAD>We pulled him out, but yeah, we all had a big\nscare that day."
+    },
+    {
+      "VardId": "MES_AREA_RIVER_SUMMER_02",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nDo you know about violet husk fireflies?\n<PAGE>\nI've seen them around here, but I've never caught\none."
+    },
+    {
+      "VardId": "MES_AREA_RIVER_AUTUMN_00",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nRed leaves are gorgeous... The only thing more\ngorgeous is the view in spring. Except for all\nthat pink..."
+    },
+    {
+      "VardId": "MES_AREA_RIVER_AUTUMN_01",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nI see regular branches lying around all the time,\nbut then sometimes I see these black branches.\n<PAGE>\nWhat's their deal? Where'd they come from?"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_AUTUMN_02",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nI saw a dorcus curvidens beetle the other day!\n<PAGE>\nAwesome, right? I'll show it to you sometime!"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_WINTER_00",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_LAUGH>\r\nLooks like we can skate on the river! How cool\nis that?"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_WINTER_01",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nYou know, those snowballs in the road aren't\nalways just snowballs. You can find things\ninside them sometimes."
+    },
+    {
+      "VardId": "MES_AREA_RIVER_WINTER_02",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nBah, I can't find any insects when it gets this\ncold. I should come up with something else to\ndo!"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_SPRING_00",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nYou know what you can grow on a fruit farm,\nbesides fruit? Trees, for lumber!"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_SPRING_01",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nI hear a rumor there's a plant called bamboo\nsomewhere in the world.\n<PAGE>\nI wonder what it's like."
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_SPRING_02",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_ANGRY>\r\nSomething just flew out of the ground!\n<PAGE>\nTurned out it was just a grasshopper. Don't\nscare me like that!"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_SUMMER_00",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nI hear there's a fruit somewhere called a\n\"banana.\"\n<PAGE>\n<FACE_SAD>They say it's ridiculously sweet..."
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_SUMMER_01",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_SAD>\r\nFruits are always too sweet for me.\n<PAGE>\n<FACE_NORMAL>I want something spicy, dang it."
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_SUMMER_02",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_LAUGH>\r\nDon't you think the name \"emma field cricket\"\nsounds cool? I wanna add one to my collection.\n♪"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_AUTUMN_00",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_LAUGH>\r\nSomewhere out in the world, there's a country\nthat makes \"chili peppers.\"\n<PAGE>\nThey sound super spicy. I wanna try one!"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_AUTUMN_01",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nI keep hearing about these spices called \"chili\npeppers.\" ...If you get a hold of one, you should\nstart growing them around here."
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_AUTUMN_02",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nToday's target is emperor dragonflies! I'm gonna\ncatch one for sure! ♪"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_WINTER_00",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nOh, yeah, <MYNAME>, I was going to tell you:\nJust so you know, you can't harvest tea leaves\nduring winter."
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_WINTER_01",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nOut of curiosity, do you know about sugar\ncanes?\n<PAGE>\nI guess you can make sugar out of them...\n<PAGE>\nNot that I'd care to have any. They sound way\ntoo sweet for me."
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_WINTER_02",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nIt's wintertime, so all the insects are tucked\naway in their cozy little insect beds. And here I\nam, bored out of my mind."
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_SPRING_00",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nHey, something I heard from Flik...\n<PAGE>\nIf you spray perfume over a beehive, the beehive\ngives you better honey.\n<PAGE>\nWell, \"better\" meaning \"sweeter,\" so it's not for\nme, but you know."
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_SPRING_01",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nYou can make perfume out of flowers. If you\nwant to give it a shot, try all kinds and see what\nyou come up with."
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_SPRING_02",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nExplore out here in the country, and you'll find\nthings you'd never see in the big city. Fireflies,\nfor example."
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_SUMMER_00",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nHave you ever tried growing mushrooms? I think\nthere's one tree that grows 'em better than any\nother."
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_SUMMER_01",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nYou know, you can plant mushroom seeds right\non a tree. Give it time, and they'll grow right\nthere."
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_SUMMER_02",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nI'd gotten a tip that there was a Hercules beetle\nright around here, but I can't find it now.\n<PAGE>\nThey're never easy to catch."
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_AUTUMN_00",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nWhen you hear someone talk about \"tall crops,\"\nthey mean cucumbers, tomatoes and so on.\nEggplants, too, but they're seasonal."
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_AUTUMN_01",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nI hear western honey bees like a certain perfume.\n\"Hilltop Sky,\" it's called.\n<PAGE>\nI don't know how to make it, though."
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_AUTUMN_02",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_ANGRY>\r\nI like collecting insects, but I don't wanna be\naround bees!\n<PAGE>\nThey're scary, don't you think? You ever gotten\nstung? I mean, I haven't, but it's gotta hurt!"
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_WINTER_00",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nBees don't really make new honey in winter, just\nso you know."
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_WINTER_01",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nYou know about blue roses?\n<PAGE>\nThey're related to red and pink roses, but they're\nblue! They're supposed to be ridiculously rare."
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_WINTER_02",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nArgh, I wanted to mess with Pepita, but I need\nbugs for that, and I can't find any."
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_SPRING_00",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nThat farm over there is good for leafy vegetables.\n<PAGE>\nCabbages are in season, you know."
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_SPRING_01",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nAre apples in season now? I smell 'em\neverywhere I go.\n<PAGE>\n...Oh, it's chamomile. Come to think of it, I hear\nchamomile and apples smell alike."
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_SPRING_02",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nYou know, you won't always find the rare\ninsects you're looking for, but don't feel too bad.\nThere's always next year!"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_SUMMER_00",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nHey, did you know this?\n<PAGE>\nOnions are classified as root vegetables. Torque\ntold me all about 'em. She knows everything,\nhuh?"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_SUMMER_01",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nWhen are pumpkins in season? Summer? I\nalways get it wrong and think it's in fall for some\nreason."
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_SUMMER_02",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_LAUGH>\r\nHey, <MYNAME>! Check it out!\nMy whole collection of insects! Pretty awesome,\nyeah?"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_AUTUMN_00",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nFall's root vegetables are yams and carrots. I\ndon't know why, but yams are popular with the\nladies.\n<PAGE>\n<FACE_SAD>Why do girls always have to have a sweet tooth?"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_AUTUMN_01",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nHm? What's that smell, lavender? It's nice...\n<PAGE>\n<FACE_ANGRY>...No, no, forget that! I don't go around sniffing\npretty flowers!"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_AUTUMN_02",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nSo you know how fish hatcheries work, right? I\nwonder if we could take the same basic idea and\nmake one for insects.\n<PAGE>\n...No? You think it wouldn't work? Bah."
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_WINTER_00",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nYou know how you can tell radishes are root\nvegetables? 'Cause they look like big roots!"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_WINTER_01",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_LAUGH>\r\nEver notice how hills look bigger in the snow? If\nI rolled down from the top of a hill to the\nbottom, I'd turn into a snowman."
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_WINTER_02",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_ANGRY>\r\nHaaa! Taaa!\n<PAGE>\nOh, <MYNAME>. I was practicing my insect\ncatching."
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_SPRING_00",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nHmm, so if you irrigate from the river, you can\nmake a paddy, huh?"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_SPRING_01",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nHey, do you do much fishing?\n<PAGE>\nThere are all kinds of fish in the water around\nhere."
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_SPRING_02",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nI like catching insects. It's a manly hobby, I say!"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_SUMMER_00",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nCrops that grow in paddies grow in all seasons.\nIn some ways, they're easier to grow than other\ncrops."
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_SUMMER_01",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nI keep hearing rumors about \"king\" fish in the\nwater around here.\n<PAGE>\nI've never seen them, but I wanna catch them\nsomeday."
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_SUMMER_02",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nAll right, I'm gonna catch all the insects I can\ntoday! Summer is insect-catching season!"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_AUTUMN_00",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nIf you have crops growing in a paddy, you don't\nneed to water them.\n<PAGE>\nMakes it easier, I guess, but maybe a little too\neasy..."
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_AUTUMN_01",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nHow are you at fishing these days?\n<PAGE>\nI think salmon are in season right now."
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_AUTUMN_02",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nYou wanna know how to get better at collecting\ninsects? Keep a sharp eye on the bushes!"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_WINTER_00",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nSo even when the rivers and the lakes are frozen\nup top, there're fish living under the ice, right?\n<PAGE>\nMan, they must be freezing down there."
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_WINTER_01",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nHmm, paddies don't freeze in winter, do they?\n<PAGE>\n...Why is that?"
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_WINTER_02",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nI wonder why long-horned grasshoppers sing\nlike that."
+    },
+    {
+      "VardId": "MES_AREA_OTHER_00",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_ANGRY>\r\nMy motto is, \"Passion, effort and toughness!\"\n<PAGE>\nEven if it's just laundry, I'll give it my all!\nRaaahhh!"
+    },
+    {
+      "VardId": "MES_AREA_OTHER_01",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_LAUGH>\r\nWe all devote our lives to caring for Dessie...\n<PAGE>\nBut for Nature Sprites like us, that's a real\nhonorable job. ♪"
+    },
+    {
+      "VardId": "プレイヤーが渡した、見せたＭＳＧ",
+      "Text": ""
+    },
+    {
+      "VardId": "MES_PRESENT_BEST",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nO-oh, wow, you're giving this to me?\n<PAGE>\n<FACE_LAUGH>Did you know it was my favorite? Thank you! I\nappreciate it. ♪"
+    },
+    {
+      "VardId": "MES_PRESENT_VERY",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_LAUGH>\r\nOh! For me, huh?\n<PAGE>\nHow'd you know what I like, <MYNAME>? Thank\nyou!"
+    },
+    {
+      "VardId": "MES_PRESENT_LIKE",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_LAUGH>\r\nNice! I like these. ♪ Thanks!"
+    },
+    {
+      "VardId": "MES_PRESENT_NORMAL",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nOh, is this for me? Thanks, <MYNAME>!"
+    },
+    {
+      "VardId": "MES_PRESENT_DISLIKE",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nWhat is this?\n<PAGE>\nEh, I don't much care for this kinda thing...but,\nsince it's a gift, sure, I'll take it."
+    },
+    {
+      "VardId": "MES_PRESENT_HATE",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_SAD>\r\nWhat is this?\n<PAGE>\nI'm sorry, but I'm really not a fan of these... Eh,\nokay, I'll take it."
+    },
+    {
+      "VardId": "MES_PRESENT_WORST",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_ANGRY>\r\n...\n<PAGE>\nListen, I don't like sweets.\n<PAGE>\nAnd I hate this <BLUE><ITEMNAME0></BLUE> stuff\nmore than anything!\n<PAGE>\n*sigh* Seriously, just looking at it is making me\nqueasy."
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_VERY",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_LAUGH>\r\nWow! Nice sparkle.\n<PAGE>\n...Wait, this is for me? Really?\n<PAGE>\nThanks! I appreciate it. ♪"
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_LIKE",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_LAUGH>\r\nWow, sparkly.\n<PAGE>\n...Wait, this is for me? Really?\n<PAGE>\nThanks! I appreciate it. ♪"
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_NORMAL",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_LAUGH>\r\nWow, sparkly.\n<PAGE>\nIs this for me? Thank you!"
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_DISLIKE",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nWhat is this? It's sparkly, whatever it is.\n<PAGE>\nI don't usually care for these things, but...I'll take\nit, since you're giving it to me."
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_HATE",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_SAD>\r\nWhat is this? It's sparkly, whatever it is.\n<PAGE>\nI don't really care for these at all...but, since it's\na present, I'll go ahead and take it."
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_WORST",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_ANGRY>\r\n...\n<PAGE>\nListen, I don't like sweets.\n<PAGE>\nAnd I hate this <BLUE><ITEMNAME0></BLUE> stuff\nmore than anything!\n<PAGE>\nSparkly or not, I hate it.\n<PAGE>\n*sigh* Seriously, just looking at it wears me\nout."
+    },
+    {
+      "VardId": "MES_PRESENT_SECONDTIME",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nOh, you want to give me something else?\n<PAGE>\nNah, you just gave me something. Thanks for\nthe thought, though."
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_RABBIT",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nOh, it's a rabbit! Hello!"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_FOX",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nOh, long time no see! How have you been?"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_OKOJO",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nOh, an ermine! These guys are always helping us\nout. Much appreciated!"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_OTHER",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nHmm? You're a newcomer, huh? Wait, have we\nmet before...?"
+    },
+    {
+      "VardId": "MES_FLOWER_FESTIVAL",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nWhat? A flower?\n<PAGE>\nI'm not really a flower kinda guy, but if it's part\nof some fair, well...\n<PAGE>\nSure, I'll take it. Thank you."
+    },
+    {
+      "VardId": "MES_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_LAUGH>\r\nHey, now!! Found your better half, huh?\n<PAGE>\nYeah, that's awesome! Just remember, your\nbuddy Gusto always has your back."
+    },
+    {
+      "VardId": "MES_RING",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_LAUGH>\r\nA ring! You planning on giving it to somebody?\n<PAGE>\nYeah, go for it, <MYNAME>!"
+    },
+    {
+      "VardId": "MES_PRESENT_LAPPING_LIKE ",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_LAUGH>\r\nOh, you wrapped this for me?\n<PAGE>\nAnd this is my favorite color. I'm flattered!"
+    },
+    {
+      "VardId": "MES_PRESENT_LAPPING",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nOh, you wrapped this for me? Thanks!"
+    },
+    {
+      "VardId": "プレイヤーに渡すＭＳＧ",
+      "Text": ""
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_00",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_LAUGH>\r\nWhat's up, <MYNAME>?\n<PAGE>\nToday's your birthday, right? I brought you a\nlittle something. ♪"
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_01",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nWhat's up, <MYNAME>! Today's your birthday,\nright?\n<PAGE>\nHappy birthday, <MYNAME>!"
+    },
+    {
+      "VardId": "会話間隔が空いていたＭＳＧ",
+      "Text": ""
+    },
+    {
+      "VardId": "MES_LONG_INTERVAL",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nWell, look who it is! <MYNAME>, isn't it?!\n<PAGE>\nBeen a long time, huh? Next time you see me,\njust walk up and chat!"
+    },
+    {
+      "VardId": "スケジュール行動中ＭＳＧ　",
+      "Text": ""
+    },
+    {
+      "VardId": "MES_SCHEDULE_SLEEPY_00",
+      "Text": "<FACE_CUSTO><POS_RIGHT><FACE_NORMAL>\r\nHey, come on. You're hard-working as heck, but\nwe've all got our limits. Go get some sleep!"
+    }
+  ]
+}

@@ -1,0 +1,2922 @@
+﻿{
+  "Date": "2016-06-06T19:39:56.1554643+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "時間帯ＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_FIRST_MEETING",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_MORNING_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nGood morning, <MYNAME>. What do you want?"
+    },
+    {
+      "VardId": "MES_MORNING_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\n...Oh, good morning. *yawn* I don't think I got\nenough sleep last night..."
+    },
+    {
+      "VardId": "MES_MORNING_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nMorning, <MYNAME>. Do all farmers have to\nwake up as early as you do?"
+    },
+    {
+      "VardId": "MES_AFTERNOON_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nHey, you going out today?"
+    },
+    {
+      "VardId": "MES_AFTERNOON_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\nI always feel super-relaxed around noon. Like, in\nthe morning, I'm all get-up-and-go, and then at\nnoon, I'm like, \"Time for a siesta.\""
+    },
+    {
+      "VardId": "MES_AFTERNOON_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n...Oh, pardon me, <MYNAME>. I was just\nthinking about the research I've been working\non."
+    },
+    {
+      "VardId": "MES_EVENING_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nGood evening...oh, evening! Night already, huh?\nWow, the day went by fast."
+    },
+    {
+      "VardId": "MES_EVENING_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nEvening, <MYNAME>. You taking a night time\nwalk?"
+    },
+    {
+      "VardId": "MES_EVENING_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nI'm getting kinda tired. I should probably turn in\nfor the night."
+    },
+    {
+      "VardId": "MES_LOVER_MORNING_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nMorning, <MYNAME>. Look at you, all up and at\n'em. Makes me want to keep up with you."
+    },
+    {
+      "VardId": "MES_LOVER_MORNING_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nHey, <MYNAME>, good morning. Huh. I feel all\nenergetic all of a sudden...\n<PAGE>\n<FACE_LOVE>...Oh, uh, never mind that! Carry on!"
+    },
+    {
+      "VardId": "MES_LOVER_MORNING_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\nG-good morning. I was hoping to see you, but I\ndidn't know if I'd get to."
+    },
+    {
+      "VardId": "MES_LOVER_AFTERNOON_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\n...Should we, um, take the next step as a\ncouple? And what is that next step, exactly...?\n*murmur*\n<PAGE>\n<FACE_LOVE>...Whoa?! H-hey, h-how long have you been\nstanding there?! If you saw me, why didn't you\nsay anything?!"
+    },
+    {
+      "VardId": "MES_LOVER_AFTERNOON_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nHello, <MYNAME>. Are you going out? I'd, um,\nlike to spend a little more time with you...\n<PAGE>\n<FACE_LOVE>...I-I mean, never mind! I didn't say anything!"
+    },
+    {
+      "VardId": "MES_LOVER_AFTERNOON_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nWhy are you walking around like that? Feeling\nrestless?\n<PAGE>\n<FACE_LOVE>...Well, good thing you are, 'cause now you're\nhere, and we can talk like this."
+    },
+    {
+      "VardId": "MES_LOVER_EVENING_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nOh, good evening. By the way, I haven't talked to\nyou today until just now... Is everything all\nright?"
+    },
+    {
+      "VardId": "MES_LOVER_EVENING_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\nEvening! Pretty out tonight, isn't it? I mean, not\nthat I just wanted to talk about the weather...\n<PAGE>\nUm, actually, yeah, that's all I wanted to talk\nabout, is the weather. So...let's just leave it at\nthat! Yeah."
+    },
+    {
+      "VardId": "MES_LOVER_EVENING_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\nEvening, <MYNAME>. Did you come all the way\nto see me this late at night? ...Hmm, you don't\nsay?"
+    },
+    {
+      "VardId": "MES_MARRIAGE_MORNING_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nGood morning, <MYNAME>. Busy as usual\ntoday? You ought to spend a little more time at\nhome now and again."
+    },
+    {
+      "VardId": "MES_MARRIAGE_MORNING_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nGood morning, <MYNAME>. ...Ha ha, look at\nyour bed head! ...Okay, there, I fixed it."
+    },
+    {
+      "VardId": "MES_MARRIAGE_MORNING_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nGood morning, <MYNAME>. Let's make today a\nproductive one! But don't push yourself too\nhard."
+    },
+    {
+      "VardId": "MES_MARRIAGE_AFTERNOON_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\nAre you okay? You didn't talk to me at all this\nmorning... Were you that busy?"
+    },
+    {
+      "VardId": "MES_MARRIAGE_AFTERNOON_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nHas your work settled down yet? Since I didn't\nget a chance to talk to you this morning, I got\nkinda worried."
+    },
+    {
+      "VardId": "MES_MARRIAGE_AFTERNOON_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nWhat's wrong, <MYNAME>? ...Huh? You're sad\n'cause you \"didn't get your daily dose of Licorice\nthis morning?\"\n<PAGE>\n<FACE_LOVE>S-seriously...? Did you really just say that?"
+    },
+    {
+      "VardId": "MES_MARRIAGE_EVENING_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_ANGRY>\r\nWe've gone the whole day without talking to\neach other. What've you been up to?"
+    },
+    {
+      "VardId": "MES_MARRIAGE_EVENING_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n...Oh, look at the time. How's your day been?\nBusy as usual?"
+    },
+    {
+      "VardId": "MES_MARRIAGE_EVENING_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nYou must be tired today. Now that your work's\nall done, how about we spend a little time\ntogether?"
+    },
+    {
+      "VardId": "天気・季節ＭＳＧ（会話フラグOFFでしゃべる）",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_SPRING",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nIt's a perfect day to go plant-watching. Where\nshould I go today...?"
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_SPRING",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nIt's raining, huh...? The mountain paths are\ngoing to be all slippery. Watch your step."
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_SUMMER",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\r\n...Ugh, this summer heat is just killing me!"
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_SUMMER",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nSummer rain is a blessing for the plants. Except\nfor those couple of plants that hate the rain."
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_AUTUMN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nLovely today, isn't it? Whenever it's this nice and\nsunny out, I always get a little sleepy..."
+    },
+    {
+      "VardId": "MES_WEATHER_RAIN_AUTUMN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nLooks like this rain's going to keep up all day\nlong."
+    },
+    {
+      "VardId": "MES_WEATHER_SUNNY_WINTER",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nSunny or not, this season's usually pretty cold.\nSo plants don't show much activity."
+    },
+    {
+      "VardId": "MES_WEATHER_SNOW",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nCold and snowy today, huh? I wonder if this\nsnow's going to pile up."
+    },
+    {
+      "VardId": "MES_WEATHER_TYPHOON",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\r\nIt's so windy outside. Probably because of the\ntyphoon. I hope the plants are going to be\nokay..."
+    },
+    {
+      "VardId": "MES_WEATHER_HEAVYSNOW",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\nYou know, too much snow can actually crush\nthe plants underneath it. I hope they're all okay..."
+    },
+    {
+      "VardId": "MES_MARRIAGE_WEATHER_TYPHOON",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nI know the farm's important, but why don't we\nspend some time at home today?\n<PAGE>\nIf you go out in this storm, you'll get hurt."
+    },
+    {
+      "VardId": "MES_MARRIAGE_WEATHER_HEAVYSNOW",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\nThe snow's really coming down. Maybe we\nshould just stay inside today.\n<PAGE>\n<FACE_NORMAL>We both want to go out and get our work done,\nbut it's dangerous out there right now. Let's just\nspend today as a family."
+    },
+    {
+      "VardId": "接近ＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_BLESSING_LOVER",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nWhat's up? You look so happy. Oh, you're seeing\nsomeone?\n<PAGE>\n<FACE_LAUGH>Nice! That's great news. Best wishes."
+    },
+    {
+      "VardId": "現在地について",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SCHEDULE_RESTAURANT_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nAnytime I live near a restaurant, I tend to go\nthere a lot. If the food's good, I can't stay away."
+    },
+    {
+      "VardId": "MES_SCHEDULE_RESTAURANT_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nI don't usually spend a lot of time in big crowds\nand busy places, but I kind of like the bustle in\nthis restaurant."
+    },
+    {
+      "VardId": "MES_HOUSE_FRIEND",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_HOUSE_PINPOINT_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nI used to live in a village next to Kam's village.\n<PAGE>\nBut we hadn't ever talked to each other before\nwe both happened to move here."
+    },
+    {
+      "VardId": "MES_HOUSE_PINPOINT_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_HOUSE_PINPOINT_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_AREA_FOREST_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nThe mountain is covered with all kinds of\ninteresting plants. Moving here was totally worth\nit."
+    },
+    {
+      "VardId": "MES_AREA_FOREST_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nWhere there're plants, there're insects, and vice\nversa.\n<PAGE>\nMaybe if I chase enough bugs around, I'll find a\nsecret flower garden or something. Worth a try,\nright?"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\r\nI try to stay away from rivers. They're full of\ngross, slimy fish. Eeew!"
+    },
+    {
+      "VardId": "MES_AREA_RIVER_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nThe plants around here are odd enough to be\nworth studying.\n<PAGE>\nAh, time always flies when I'm foraging here..."
+    },
+    {
+      "VardId": "MES_AREA_FARM_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nYou know, the more I look at your farm, the\nmore I see how it reflects your character. Are all\nfarms like that?"
+    },
+    {
+      "VardId": "MES_AREA_FARM_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nI see. It's easy to grow tea leaves, fruit trees and\nspices here, huh? This field looks perfect for\nthose crops."
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n...This farm really reflects its caretaker's\npersonality well...\n<PAGE>\n...Hm? Oh, it's you, <MYNAME>. No, I was just\nobserving the farm over there. Don't mind me..."
+    },
+    {
+      "VardId": "MES_AREA_PLACE1_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nThe crops here always look amazing. I can tell\nhow well taken care of they are at a glance.\n<PAGE>\nWhoever the caretaker is, I bet these crops are\ngrateful toward them."
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nLooks like you can grow several kinds of crops\nhere.\n<PAGE>\nI'm curious about the condition of each field..."
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nI wonder which farmer is using that field.\n<PAGE>\nI come here a lot to study plants, and I always\ncheck out the fields while I'm here.\n<PAGE>\nI'm looking forward to seeing what kind of crops\ngrow here, and how well they do."
+    },
+    {
+      "VardId": "MES_AREA_PLACE2_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nWhat a beautiful flower garden. Giorgio must\nreally love flowers, the way he cares for them all."
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nJudging from the condition of the soil, one of\nthese fields is for root vegetables and one is for\nleaf vegetables. Am I right?"
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nWho is using that field now?\n<PAGE>\nTransplanting crops every time the owner\nchanges might stress out the plants...\n<PAGE>\nHopefully, the new caretaker will keep using this\nfield for a long time...but things don't always go\nthe way they should."
+    },
+    {
+      "VardId": "MES_AREA_PLACE3_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\nWhen I look at the farm over there, I can tell that\nnoisy farmer is rough-and-ready.\n<PAGE>\n<FACE_NORMAL>But I can see that he's working hard. Guess he's\ndoing his best."
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\r\nThis is a big river. Which means it's full of fish,\nall slimy and wriggly... Ugh. I shudder every time\nI think about 'em."
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nEach farmer likes to grow different crops in\ndifferent ways. So it's easy to tell who's using\nwhich field.\n<PAGE>\nHm? Do I know who's using this one? ...Well,\nI'm not totally sure.\n<PAGE>\n<FACE_LAUGH>But looking at what's being grown and how it's\ntended will give you clues as to who's farming\nthe land."
+    },
+    {
+      "VardId": "MES_AREA_PLACE4_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nElise grows her paddy crops well.\n<PAGE>\nMost farmers pay less attention to paddy crops,\nsince they don't need to be watered, but she's\ngiven them a lot of love and care."
+    },
+    {
+      "VardId": "MES_AREA_OTHER_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nSince I'm studying plants on the mountain every\nday, I think I \"get\" the mountain more than the\ntown, honestly."
+    },
+    {
+      "VardId": "MES_AREA_OTHER_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\nI'm trying to keep myself away from Giorgio's\nhouse.\n<PAGE>\n<FACE_SAD>You know, he says sweet words whenever he\nsees someone, right? I can't take it, so..."
+    },
+    {
+      "VardId": "友好度・愛情度ＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HEART_WHITE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nI'm not good at talking to people. You can talk to\nme, but I can't promise I'll say anything back."
+    },
+    {
+      "VardId": "MES_HEART_PURPLE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nI like collecting seeds. So if you have some rare\nseeds, please show me. I'd be happy to see\nthem."
+    },
+    {
+      "VardId": "MES_HEART_BLUE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\nSometimes I study plants so hard that I forget all\nabout sleep and food...\n<PAGE>\nPlants are sneaky that way. They can take over\nyour life if you're not careful."
+    },
+    {
+      "VardId": "MES_HEART_GREEN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nBefore I came here, I was staying at my uncle's\nhouse.\n<PAGE>\nA lot of people say he's got a scary-looking face,\nbecause he does, but he's actually a really nice\nguy who likes plants and kids."
+    },
+    {
+      "VardId": "MES_HEART_YELLOW",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\r\nI guess sometimes I can come across as rude,\nor too blunt, so I end up hurting people's\nfeelings without knowing it.\n<PAGE>\n<FACE_NORMAL>So if anything I ever say offends you, please\ndon't hesitate to tell me.\n<PAGE>\nI'd rather argue about it and make up afterwards\nthan never talk about it at all...\n<PAGE>\n<FACE_LOVE>I think...our relationship is strong enough for\nthat."
+    },
+    {
+      "VardId": "MES_HEART_ORANGE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nWhen I was in college, I took on all the\ncoursework I could, because I wanted to get\ninto research as soon as possible.\n<PAGE>\nThanks to that, I got my Ph.D. early. Now I can\ndo all the research I want.\n<PAGE>\nIf I'd taken even one night off in all that time, I\nwouldn't be in this town right now."
+    },
+    {
+      "VardId": "MES_HEART_RED",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\nI think you're one of the few people I can\ncall...um, my friend.\n<PAGE>\nSo tell me more about yourself...\n<PAGE>\nStarting now, I want to understand you as much\nas you understand me.\n<PAGE>\nAnd someday, I want to be...your b-best\nfriend...!"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_WHITE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_ANGRY>\r\n...What do you want? I'm busy. If you need to\ntalk to me, make it quick."
+    },
+    {
+      "VardId": "MES_LOVER_HEART_PURPLE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\r\nPeople wear me out... Plants are so much easier\nto work with..."
+    },
+    {
+      "VardId": "MES_LOVER_HEART_BLUE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\nHow did I get to be your girlfriend? I still can't\nbelieve it, so I pinch my cheeks every morning..."
+    },
+    {
+      "VardId": "MES_LOVER_HEART_GREEN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\nI feel like somebody is watching... \"Somebody\nwho?\" Come on, like you don't know!\n<PAGE>\n<FACE_LOVE>Whenever I'm with you, the people in town give\nme a look!\n<PAGE>\nYou told them we're dating, didn't you?! Great,\nnow I'm so embarrassed I want to die! Thanks a\nlot!"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_YELLOW",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\n...People tell me I started looking...softer and\nmore feminine after we started dating.\n<PAGE>\nI don't think I look any different... It's not like\ndating just does that to people, right?"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_ORANGE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n...Huh? You want to know what I like about\nyou?\n<PAGE>\n<FACE_LOVE>Wh-what are you talking about all of a\nsudden...?! I'm not going to say it! Nope, can't\nhear you! Not gonna say a thing!"
+    },
+    {
+      "VardId": "MES_LOVER_HEART_RED",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\n<WINDOW_HEART1_R>I never thought I'd be into anything more than\nplants. \n<PAGE>\nBut dating you has shown me otherwise...and\nthat's all I can say."
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_WHITE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_ANGRY>\r\n...What do you want? If you don't need me for\nanything, don't talk to me."
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_PURPLE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\r\nYou're not a plant. And by that I mean, \"If you\nhave complaints about our marriage, just tell\nme.\""
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_BLUE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\r\nSince we got married, you've been getting colder\nand colder... Did I do something wrong?"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_GREEN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nBefore I married you, I was all about my research\nand had no interest in anything else. But now, I\nthink I can improve on that.\n<PAGE>\n<FACE_LOSS>...I can, right? Improve on that, I mean."
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_YELLOW",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nI've been thinking about how to help you. You\nknow, as your wife...\n<PAGE>\nSince I'm a botanist, I think I can give you some\ngood advice on how to grow crops.\n<PAGE>\n<FACE_LAUGH>That's all I came up with...but I'm pretty\nconfident about that, at least. So you can ask\nme anything."
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_ORANGE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nSince we got married, it's been nothing but\npeace and happiness every day.\n<PAGE>\nThis is... This is real contentment, isn't it?"
+    },
+    {
+      "VardId": "MES_MARRIAGE_HEART_RED",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\n<WINDOW_HEART2_R>Since I married you, I've been so happy and\nsatisfied every day. How about you,\n<MYNAME>?\n<PAGE>\nI hope I'm giving you the same feelings you're\ngiving me..."
+    },
+    {
+      "VardId": "恋愛状況ＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LOVERS_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\nIt's still a little embarrassing to be dating you. I\nmean, not because YOU'RE embarrassing, but..."
+    },
+    {
+      "VardId": "MES_LOVERS_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nIt might take some time, but I'd like us to be\nfriends again eventually."
+    },
+    {
+      "VardId": "MES_LOVERS_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\nIt's hard to believe we're back together. It's a\ndream come true, literally."
+    },
+    {
+      "VardId": "MES_ENGAGEMENT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\nWe're really getting married soon, huh...? I still\ncan't quite believe it."
+    },
+    {
+      "VardId": "MES_MARRIAGE_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\nI know I'm not a perfect wife, but let's do all we\ncan to make a happy family together."
+    },
+    {
+      "VardId": "MES_MARRIAGE_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nI wonder what our baby's going to be like. I can't\nwait to meet her, or him."
+    },
+    {
+      "VardId": "MES_MARRIAGE_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nIt's weird getting kicked in the stomach from the\ninside. Only moms can ever feel that. Makes it\nkind of precious, in a way."
+    },
+    {
+      "VardId": "MES_MARRIAGE_03",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\nEvery time I think of our baby, just about to be\nborn, I get nervous. I hope nothing bad\nhappens..."
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nLook, <MYNAME>. Look at our babies' little\nhands and feet! Sooo cute!"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nI don't remember much about my childhood, but\ndid we grow this fast when we were little?"
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nPhew, raising kids is TOUGH...\n<PAGE>\nBut when I see our kids' little smiles, I don't feel\ntired at all."
+    },
+    {
+      "VardId": "MES_CHILD_GROWTH_03",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "プレイヤーが渡した、見せたＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_PRESENT_BEST",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_PLEASANT_R>That's...! This is my favorite. Thank you,\n<MYNAME>."
+    },
+    {
+      "VardId": "MES_PRESENT_VERY",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nOoh, I really like these...! You're sure I can have\nit? Thank you."
+    },
+    {
+      "VardId": "MES_PRESENT_LIKE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nHuh...? Is this for me? Always happy to get a\ngift I like."
+    },
+    {
+      "VardId": "MES_PRESENT_NORMAL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nThis is a present for me? I see. I'll accept it.\nThanks."
+    },
+    {
+      "VardId": "MES_PRESENT_DISLIKE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\nWhat? Is this a present? But I don't even like\nthese... Well, all right, give it to me."
+    },
+    {
+      "VardId": "MES_PRESENT_HATE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\r\n...Being socially obligated to accept this present\nmakes me very, very sad. Please pick something\nelse next time."
+    },
+    {
+      "VardId": "MES_PRESENT_WORST",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\n<WINDOW_DISCOURAGEMENT_R>Why does this feel so slimy... WHOA?! Is this\na...a <BLUE>large blotched snakehead</BLUE>?!\n<PAGE>\n<FACE_ANGRY>H-hey, stop! Keep it away! I don't want it... Hey,\ndon't put it in my bag without asking! That's so\nmean!!\n<PAGE>\n<FACE_SAD>P-please, just take it out! Seriously, right now!!\nAieee, nooo!!"
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_VERY",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nA golden seed...! Can I really have it?! Thank\nyou! I'll take good care of it!!"
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_LIKE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nThis is amazing. It's golden. It must be a rare\nseed. I'll use it for my research. Thank you."
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_NORMAL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nWow, this is golden. It's amazing. Is this for\nme? Thank you."
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_DISLIKE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_HATE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_GOLD_PRESENT_WORST",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_VERY",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_LIKE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_NORMAL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_DISLIKE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_HATE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_HUGE_PRESENT_WORST",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_PRESENT_CANNOT",
+      "Text": "Let's not give her a present for now."
+    },
+    {
+      "VardId": "MES_PRESENT_RESERVE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nA present? I'm good."
+    },
+    {
+      "VardId": "MES_LOVER_PRESENT_RESERVE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_ANGRY>\r\nI don't want it. I'm angry right now."
+    },
+    {
+      "VardId": "MES_MARRIAGE_PRESENT_RESERVE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_ANGRY>\r\nTrying to buy your way back into my good\ngraces? After all that time you spent not talking\nto me? I don't think so.\n<PAGE>\nIf you think you've done something wrong, just\napologize with the best of intentions."
+    },
+    {
+      "VardId": "MES_PRESENT_SECONDTIME",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nNah, you've already given me something today.\nThanks for the thought, though."
+    },
+    {
+      "VardId": "MES_LOVER_PRESENT_SECONDTIME",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nI'm good today. You just gave me a present.\nDon't bother."
+    },
+    {
+      "VardId": "MES_MARRIAGE_PRESENT_SECONDTIME",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n...Okay, WHY are you trying to give me so many\npresents? Are you trying to make up for\nsomething? What are you hiding?"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_BEST",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_PLEASANT_R>This is my favorite!\n<PAGE>\n...Huh? It's a birthday present for me? I see, you\nsaved the best for my birthday... Thank you,\n<MYNAME>."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_VERY",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nA birthday present for me? Oh, it is my birthday,\nisn't it?\n<PAGE>\n<FACE_LAUGH>This is... You sure you want to give me\nsomething this nice? Thank you."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_LIKE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nA birthday present for me? Oh, right, today's my\nbirthday.\n<PAGE>\n<FACE_LAUGH>This is... You know what I like, don't you? Thank\nyou. I'll accept it."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_NORMAL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nA birthday present for me? Oh, today is my\nbirthday, huh? Thank you. I'll accept it."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_DISLIKE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nA birthday present for me? Oh, today is my\nbirthday, huh?\n<PAGE>\n<FACE_LOSS>I, um, I don't really like these, but I guess I'll take\nit. Happy birthday to me."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_HATE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nA birthday present for me? Oh, today is my\nbirthday, huh?\n<PAGE>\n<FACE_SAD>Um, this is really not the kind of thing I'd want\nfor a birthday present, but since you're giving it\nto me...thanks."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_PRESENT_WORST",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nA birthday present? Oh, right, today is my\nbirthday. Waaait a second. Why does this feel so\nslimy...?\n<PAGE>\n<WINDOW_DISCOURAGEMENT_R><FACE_LOSS>WHOA!! You're trying to give me a <BLUE>large blotched\nsnakehead</BLUE>?!\n<PAGE>\n<FACE_ANGRY>H-hey, stop! Keep it away! I don't want it... Hey,\ndon't put it in my bag without asking! That's so\nmean!!\n<PAGE>\n<FACE_SAD>P-please, just take it out! You're making my bag\nall slimy and gross! Aiieeee!! Worst birthday\never!"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_VERY",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nIsn't this a golden seed...?! Can I really have it?!\n<PAGE>\nHuh? A birthday present? Oh, right, today is\nmy... That's why you gave me something\nspecial, huh? Thank you."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_LIKE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nThis golden shine is amazing. Must be a rare\nseed.\n<PAGE>\n<FACE_NORMAL>Huh? A birthday present for me? Oh, right, today\nis my... Thank you. I'm flattered."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_NORMAL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nIs that shining...in gold? Must be rare.\n<PAGE>\nHuh? A birthday present for me? I see. Today is\nmy... Thank you. I'll accept it."
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_DISLIKE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_HATE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_GOLD_PRESENT_WORST",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_VERY",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_LIKE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_NORMAL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_DISLIKE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_HATE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_BIRTHDAY_HUGE_PRESENT_WORST",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_RABBIT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nI know animals are cute, but I don't think it's\nnice to catch them against their will."
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_FOX",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nIf animals like to be held, that's fine. But if not,\nyou should let them go."
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_OKOJO",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nHow did you manage to catch an ermine? Well,\nit doesn't really matter. You should take it back\nwhere you found it and let it go."
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_SIFAKA",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nAre you going to keep that as a pet? Well, don't\ndrag it around. You'll stress it out."
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_PENGUIN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nI know you want to carry that animal around,\nbut you know it doesn't like it. Just put it back\nwhere you found it, will you?"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_MONKEY",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nWhy did you bring a monkey? Are you two\nfriends?"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_PARROT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\r\nWhoa, a parrot...?! P-please keep it away from\nme!"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_TURTLE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_WILD_ANIMAL_OTHER",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nPlease keep that thing away from me."
+    },
+    {
+      "VardId": "MES_ANGORA",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nExcept for the amount of fur, how is this rabbit\ndifferent from a regular wild rabbit?"
+    },
+    {
+      "VardId": "MES_CHICK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\r\nWhoa. I don't like birds, not even baby ones!\nSorry, but...please keep it away from me...!"
+    },
+    {
+      "VardId": "MES_HEN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\r\nWhoa, I don't like birds! Sorry, but please just\nkeep it away from me...!"
+    },
+    {
+      "VardId": "MES_LARGE_HEN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_DOG",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nThis dog is very affectionate. Not unlike\nsomeone I know..."
+    },
+    {
+      "VardId": "MES_FAT_DOG",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n...How did that dog get so ridiculously fat? I\nmean, look at him! You can't not see it, right?"
+    },
+    {
+      "VardId": "MES_LARGEDOG",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\nWhoa! What are you doing?! Don't lick me! I\ndon't actually TASTE like...!"
+    },
+    {
+      "VardId": "MES_FAT_LARGEDOG",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n...How did that dog get so incredibly fat? Did\nyou spoil him?"
+    },
+    {
+      "VardId": "MES_CAT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nHe he, cats are always cute. What are you\nlooking at? You want me to play with you?"
+    },
+    {
+      "VardId": "MES_FAT_CAT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nThat cat is really chubby, but...\"cute\" chubby."
+    },
+    {
+      "VardId": "MES_LONGHAIR_CAT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nHe he, that cat just did a cute little yawn. Are\nyou sweepy? Are you sweepy? Yes, you are!"
+    },
+    {
+      "VardId": "MES_FAT_LONGHAIR_CAT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nYou know, cute as it is for that cat to be so\nfluffy and fat, I can't imagine it's healthy that\nway."
+    },
+    {
+      "VardId": "MES_FLOWER_FESTIVAL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nA Flower Fair present? Right, I heard about the\nFlower Fair. Thank you. I'll accept it."
+    },
+    {
+      "VardId": "MES_LOVER_FLOWER_FESTIVAL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\nI see. Today is the Flower Fair... Thank you. It's\nalways nice to get a flower from someone you l-\nlike."
+    },
+    {
+      "VardId": "MES_MARRIAGE_FLOWER_FESTIVAL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\nOh, today's the Flower Fair, huh? Thank you,\n<MYNAME>. I'll take good care of this flower."
+    },
+    {
+      "VardId": "MES_THANKSGIVIING_FESTIVAL_S",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nA White Day present? You're sure I can have\nthis? Thank you."
+    },
+    {
+      "VardId": "MES_LOVER_THANKSGIVIING_FESTIVAL_S",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\nA White Day present? Th-thank you. I don't\nknow if I can eat this... It's too precious..."
+    },
+    {
+      "VardId": "MES_MARRIAGE_THANKSGIVIING_FESTIVAL_S",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nA White Day present, huh? Thank you. I'll make\nyou something special for Valentine's Day."
+    },
+    {
+      "VardId": "MES_THANKSGIVIING_FESTIVAL_W",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_LOVER_THANKSGIVIING_FESTIVAL_W",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_MARRIAGE_THANKSGIVIING_FESTIVAL_W",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n...Is there something...wrong with that blue\nfeather? What am I looking at?"
+    },
+    {
+      "VardId": "MES_LOVER_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\nA blue feather... Wait, WHAT?! Whoa, it's WAY\ntoo early to talk about getting...m-married!\n<PAGE>\nWe, uh, still need to get to know each other,\ndon't you think? There's no WAY I could marry\nyou right now!"
+    },
+    {
+      "VardId": "MES_EVENT_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nHm? That's a...blue feather, right? So that\nmeans...\n<PAGE>\n<FACE_LOVE>Whoa?! A-are you proposing...?! W-wait! Calm\ndown!\n<PAGE>\nI mean... I'm talking to myself! Calm down,\nLicorice, calm down... L-let's go someplace\nquieter, okay?"
+    },
+    {
+      "VardId": "MES_PROPOSAL_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\nD-don't keep showing it to me... It's\nembarrassing..."
+    },
+    {
+      "VardId": "MES_MARRIAGE_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nThat feather is a very precious thing for us. So\nplease keep it somewhere safe."
+    },
+    {
+      "VardId": "MES_ANGER_BLUE_SHUTTLECOCK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_ANGRY>\r\n<MYNAME>, what's going on? I hear you've\nbeen showing the blue feather to other girls. Is\nthat true?\n<PAGE>\nWhy are you doing that? What if they think you\nwant to marry them, huh? Then what're you\ngoing to do?\n<PAGE>\n<FACE_SAD>Just don't be stupid, okay? It hurts when you do\nsomething like that... So just stop it."
+    },
+    {
+      "VardId": "MES_RING",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n...Is there something...wrong with that ring?\nWhat am I looking at?"
+    },
+    {
+      "VardId": "MES_EVENT_RING",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n...You like me? And...not just as a friend?\n<PAGE>\n<FACE_LOVE>Wh-whaaat?! Wait. Hold on! L-let's go\nsomewhere else and talk about this!"
+    },
+    {
+      "VardId": "MES_LOVER_RING",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\nYou don't have to keep showing me that. It's\nembarrassing."
+    },
+    {
+      "VardId": "MES_MARRIAGE_RING",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nWell, that brings back memories. That ring really\ndoes represent the start of our relationship,\ndoesn't it?"
+    },
+    {
+      "VardId": "MES_ANGER_RING",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_ANGRY>\r\n<MYNAME>, what's going on? I hear you've\nbeen showing the ring to other girls. Is that\ntrue?\n<PAGE>\nWhy are you doing that? Does that mean you\nwant to break up with me?\n<PAGE>\n<FACE_SAD>If not, then please don't show it around. It hurts\nwhen you do that."
+    },
+    {
+      "VardId": "MES_PRESENT_LAPPING_LIKE ",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nThis wrapping is so cute. I like the color. Can I\nopen it?"
+    },
+    {
+      "VardId": "MES_PRESENT_LAPPING",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n...What's inside? Ooh, suspense! Can I open it\nnow?"
+    },
+    {
+      "VardId": "プレイヤーに渡すＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nToday's your birthday, isn't it? I brought you a\npresent. Hope you like it.\n<PAGE>\nHappy birthday, <MYNAME>."
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nI hear today's your birthday. Happy birthday.\nHave a nice day."
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\nHappy birthday, <MYNAME>. Oh yeah, I want to\nask you something... Are you going to be home\ntonight?\n<PAGE>\nI mean... How should I put this...? A-anyway,\nyou ARE going to be home tonight, right? Good.\nThat's all I needed to know."
+    },
+    {
+      "VardId": "MES_LOVER_GIFT_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nIs it me, or are you...tottering around while you\nwalk?\n<PAGE>\n<FACE_LOSS>...Huh? You're hungry? You've been working on\nan empty stomach? That's...kind of impressive.\n<PAGE>\n<FACE_NORMAL>Here you are. Eat this if you want. I cooked it\nmyself...so I can't vouch for the taste, but good\nluck!"
+    },
+    {
+      "VardId": "MES_LOVER_GIFT_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nOh, <MYNAME>. You came at just the right\ntime. Here, this is for you.\n<PAGE>\nMy uncle sent a bunch of these as presents for\npeople who help me. He's very nosy, isn't he?\n<PAGE>\n<FACE_LOVE>Since you're the one who helps me the\nmost...well, you're my b-boyfriend, and it's your\nduty to accept this.\n<PAGE>\nSo take it! ...And wipe that grin off your face!"
+    },
+    {
+      "VardId": "MES_LOVER_GIFT_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>, I brought you something. You're\nalways working too hard. Eat this and take a\nrest."
+    },
+    {
+      "VardId": "会話間隔が空いていたＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_LONG_INTERVAL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nIt's been a long time since we talked last. Have\nyou been out of town or something?"
+    },
+    {
+      "VardId": "MES_LOVER_LONG_INTERVAL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_ANGRY>\r\nIt's been a long time... And that's not something\nyour girlfriend in the same town should ever\nhave to say to you. Where have you been?"
+    },
+    {
+      "VardId": "MES_MARRAGE_LONG_INTERVAL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_ANGRY>\r\nYou've completely ignored me all this time, and\nnow, what, you want something from me? I've\ngot nothing to say to you."
+    },
+    {
+      "VardId": "サファリＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_SAFARI_LEAVE_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_MARRIAGE_SAFARI_LEAVE_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_SAFARI_LEAVE_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_SAFARI_LEAVE_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_SAFARI_LEAVE_OK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_SAFARI_LEAVE_NG",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_MARRIAGE_SAFARI_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nI'm really curious what kind of animals are out\nthere, but I'm more curious about plants.\n<PAGE>\n<FACE_LAUGH>There are still a lot of plants that even I've never\nseen. It's a world I never want to stop exploring."
+    },
+    {
+      "VardId": "MES_MARRIAGE_SAFARI_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\nDo you see that animal over there...? What is it\ncalled? Animals aren't my field, so I have no\nidea."
+    },
+    {
+      "VardId": "MES_MARRIAGE_SAFARI_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\n<MYNAME>Hey, um... Can I hold your hand?\n<PAGE>\nYou tend to wander off when I look away, so I\njust want to make sure we don't get separated.\n<PAGE>\nN-not that I get lonely without you or anything!"
+    },
+    {
+      "VardId": "服装ＭＳＧ　",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_CLOTHES_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_2",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_3",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n...That outfit looks really good on you."
+    },
+    {
+      "VardId": "MES_CLOTHES_4",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_5",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_6",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_7",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_8",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_9",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_10",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nYellow and orange are usually way too flashy for\nme...\n<PAGE>\n<FACE_LAUGH>But I do like the color of that vest. It looks good\non you."
+    },
+    {
+      "VardId": "MES_CLOTHES_11",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nGreen's a good color for that hoodie. Where did\nyou get it?"
+    },
+    {
+      "VardId": "MES_CLOTHES_12",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_13",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_14",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_15",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nI don't really care about fashion, but I think the\noutfit you're wearing is...good enough to catch\nmy eye."
+    },
+    {
+      "VardId": "MES_CLOTHES_16",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_17",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_18",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_19",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_20",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_21",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nThat jacket looks good on you. And it suits your\npersonality."
+    },
+    {
+      "VardId": "MES_CLOTHES_22",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_23",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_24",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nThose clothes are the perfect color."
+    },
+    {
+      "VardId": "MES_CLOTHES_25",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_26",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_27",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_28",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nI always hesitate to wear something like that\nsince it's so frilly...\n<PAGE>\nBut it's nice to see someone else wear it."
+    },
+    {
+      "VardId": "MES_CLOTHES_29",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_30",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nI like the color of those clothes. ...Can I ask\nwhere you got them?"
+    },
+    {
+      "VardId": "MES_CLOTHES_31",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_32",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_33",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_34",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_35",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_36",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_37",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_38",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_39",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_40",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_41",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_42",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_43",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\n...That's a nice outfit. The color and style are\njust my type."
+    },
+    {
+      "VardId": "MES_CLOTHES_44",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nThe color of those clothes is very understated\nand classy. You have good taste, don't you?"
+    },
+    {
+      "VardId": "MES_CLOTHES_45",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_46",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_47",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_48",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_49",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_50",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_51",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_52",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_53",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_54",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_55",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_56",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nYou look good in that coat, and the color is very\nrefreshing to look at."
+    },
+    {
+      "VardId": "MES_CLOTHES_57",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nThat outfit's not bad. You look good in it, at\nleast."
+    },
+    {
+      "VardId": "MES_CLOTHES_58",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_59",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_60",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_61",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_62",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nThat outfit looks very tropical. Personally, I stay\naway from flashy colors...\n<PAGE>\n<FACE_LAUGH>But that looks good for some reason. Maybe\nthat's because you're wearing it so well."
+    },
+    {
+      "VardId": "MES_CLOTHES_63",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nI like the color pattern of those clothes. I think\nthey look good on you."
+    },
+    {
+      "VardId": "MES_CLOTHES_64",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_65",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_66",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_67",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_68",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_69",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_70",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_71",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_72",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_73",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_74",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_75",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_76",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_77",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_78",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_79",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_80",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_81",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_82",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_83",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_84",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_85",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_86",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_87",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_88",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_89",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n...That outfit's so flashy. I don't know about the\npattern, but the color and shape aren't so bad, I\nthink.\n<PAGE>\nI mean, people should wear what they like\nanyway, not just dress to please other people,\nright?\n<PAGE>\nSo forget what I said, and just wear whatever."
+    },
+    {
+      "VardId": "MES_CLOTHES_90",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_91",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_92",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nOh, that hoodie looks good on you. That's a\nnice, refreshing shade of blue."
+    },
+    {
+      "VardId": "MES_CLOTHES_93",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_94",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_95",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_96",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nDecent outfit you've got on. The colors blend\nreally well.\n<PAGE>\nGuess it goes to show you've got good taste,\nhuh?"
+    },
+    {
+      "VardId": "MES_CLOTHES_97",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_98",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_99",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_100",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_101",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_102",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_103",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_104",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_105",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_106",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_107",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_108",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_109",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_110",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_111",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_112",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nThat outfit is very...you. All those bright colors...\nAnd you look good in that yellow jacket."
+    },
+    {
+      "VardId": "MES_CLOTHES_113",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_114",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_115",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_116",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_117",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_118",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_119",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_120",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_121",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_122",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_123",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_124",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_125",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_126",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_127",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nI like that outfit. It's very stylish.\n<PAGE>\nI think it looks good on you."
+    },
+    {
+      "VardId": "MES_CLOTHES_128",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_129",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_130",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_131",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_132",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_133",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_134",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_135",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_136",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_137",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_138",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_139",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_140",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_141",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_142",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nThe color of that cheongsam is very beautiful.\nHm? You think I'd look great in that? ...I'm not\nso sure about that.\n<PAGE>\n<FACE_SAD>For one thing, I don't know if I could ever show\nthat much leg.\n<PAGE>\n<FACE_LOSS>Whether it suits me or not, I don't think there'll\never come a day when I'm brave enough to wear\nthat."
+    },
+    {
+      "VardId": "MES_CLOTHES_143",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_144",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_145",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_146",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_147",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_148",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_149",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_150",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_151",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_152",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_153",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_154",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_155",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\nWhoa...?! Wh-what the...?! There's a panda.\nWhy is there a panda?\n<PAGE>\n<FACE_NORMAL>...O-oh, it's you, <MYNAME>. Don't scare me\nlike that.\n<PAGE>\n<FACE_ANGRY>What? \"Why didn't I see it was a costume?\"\nWell, it all happened so fast! How was I\nsupposed to see?\n<PAGE>\nFirst of all, you're the only person who would\nEVER dress up like that and just casually walk\naround going about your day.\n<PAGE>\nCostume or not, you see a bear come at you,\nand you're gonna freak out.\n<PAGE>\nSeriously, everybody gets surprised sometimes,\nyou... Bah!"
+    },
+    {
+      "VardId": "MES_CLOTHES_156",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CLOTHES_157",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "アクセサリーＭＳＧ　",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_2",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_3",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_4",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_5",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_6",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_7",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\n...That green hat suits you well."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_8",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_9",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_10",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_11",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nI like the shape of that hat. It fits you well."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_12",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_13",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_14",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_15",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_16",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_17",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_18",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_19",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_20",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_21",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_22",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_23",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_24",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_25",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_26",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_27",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_28",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_29",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nHow do those ears stay on your head like that?\n...Oh, the ears are attached to the headband,\nhuh?\n<PAGE>\nWho came up with this thing? I'm actually\nimpressed."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_30",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_31",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_32",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_33",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nThat's my kind of cap you've got on."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_34",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_35",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_36",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_37",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nI think they should have a hat that can hold a\npencil and paper.\n<PAGE>\nSee, I like to wear a hat when I go out, and\nsometimes I find an interesting plant and want\nto take notes on the spot, so...\n<PAGE>\nWow, that's a really good idea, if I say so myself!\nThanks for the inspiration."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_38",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_39",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_40",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_41",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nWhat kind of music are you listening to?\nHeadphones are great, but make sure other\npeople can't hear them."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_42",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_43",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_44",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_45",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_46",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_47",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nYou look good in those glasses. Not bad at all.\n<PAGE>\nActually, you look very stylish."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_48",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_49",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_50",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_51",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nYou look good in those glasses. Not bad at all.\n<PAGE>\nActually, you look very stylish."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_52",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_53",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_54",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_55",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_56",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nYou look good in those glasses. Not bad at all.\n<PAGE>\nActually, you look very stylish."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_57",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_58",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_59",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_60",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_61",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_62",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nWearing a monocle makes you look smarter, you\nknow.\n<PAGE>\nClassier and cooler too.\n<PAGE>\n<FACE_LAUGH>...N-not that you aren't...usually all of those\nthings. Please, take all that as a compliment."
+    },
+    {
+      "VardId": "MES_ACCESSORIES_63",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_64",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_ACCESSORIES_65",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "スケジュール行動中ＭＳＧ　",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_FARM_WORKING",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_CARE_ANIMAL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SHOP_OPEN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_MARRIAGE_SCHEDULE_SHOP_OPEN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SLEEP_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_PATI>\r\n...Ummm... This plant is... And that plant is...\n*mutter* Zzz..."
+    },
+    {
+      "VardId": "MES_SCHEDULE_SICK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\r\nI don't feel good today. If you want to talk,\nwould you mind coming back later?"
+    },
+    {
+      "VardId": "MES_LOVER_SCHEDULE_SICK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\r\n...Oh, <MYNAME>. I'm sorry. I don't feel good\ntoday. If you need to talk to me, please come\nback later. Thanks."
+    },
+    {
+      "VardId": "MES_MARRIAGE_SCHEDULE_SICK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\r\nI feel sick today. Just let me rest, and I'll feel\nbetter tomorrow."
+    },
+    {
+      "VardId": "MES_SCHEDULE_SLEEPY_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\n...Time for me to go to bed. Would you mind\ngoing home?"
+    },
+    {
+      "VardId": "MES_SCHEDULE_SLEEPY_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\n<MYNAME>, how long are you going to stay\nup? You should get some sleep, or you'll be tired\ntomorrow."
+    },
+    {
+      "VardId": "お手伝いＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nI'm planning to take a walk up on the mountain\ntomorrow morning... Do you want me to pick\nup some materials for you?"
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_01",
+      "Text": "Yes, please."
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_02",
+      "Text": "No, thank you."
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_CANCEL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nAll right. Let me know if you change your mind."
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_OK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nGot it. I'll try and sneak out early so you can\nsleep in."
+    },
+    {
+      "VardId": "MES_HELP_REQUEST_RESULT_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nI picked up some materials while I was out.\nThere's <MOJI0> new <ITEMNAME0> in your\nbackpack."
+    },
+    {
+      "VardId": "ご飯ＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MEAL_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\r\n*cough* *cough* D-don't...talk to...me all of\na...sudden while I'm...eating!"
+    },
+    {
+      "VardId": "MES_MEAL_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n*munch* *much* *munch-munch-munch*\n<PAGE>\n<FACE_LOVE>Wh-what is your problem?! D-don't stare at me!\nHow'm I s'posed to eat when you're staring at\nme?"
+    },
+    {
+      "VardId": "視野判定ＭＳＧ（モブも含む）",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_WOOD",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_STONE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_RED",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_GREEN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nI like the color of the bench. I bet it'd just\ncamouflage right in with a mountain backdrop."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_BLUE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_YELLOW",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_PINK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_PURPLE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_WHITE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_BLACK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_GOLD",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BENCH_SILVER",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BARREL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WOOD_BOX",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nI'm curious what's in this wooden box... I want\nto open it now."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SCARECROW",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WEATHERCOCK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_MILK_CAN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GRASS_ROLL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BLOCK_BRICH",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_JAR_RED",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_JAR_BLUE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_JAR_WHITE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SMALL_CART",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_CART",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WAGON",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SHIPMENTBOX",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PAVEMENT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_LARGE_PAVEMENT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_STREETLAMP_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_STREETLAMP_2",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BONFIRE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ANDON",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GARDENLANTERN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PILLAR_WOOD",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PILLAR_STONE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PILLAR_BRICK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOTEM POLE_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOTEM POLE_2",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TABLE_WEST",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TABLE_JAPAN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TABLE_ORIENT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_CHAIR_WEST",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_CHAIR_JAPAN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_CHAIR_ORIENT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_CHAIR_BEACH",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nThis beach chair looks comfortable to sit in. If I\nsat down it, I'd probably nod off."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PARASOL_WEST",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PARASOL_GARDEN_NEW1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PARASOL_GARDEN_NEW2",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PARASOL_JAPAN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PARASOL_BEACH",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GARDEN_BEACH_NEW1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nI guess this is here so people can take a break in\nthe shade.\n<PAGE>\nWhoever put it here is a really nice person."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GARDEN_BEACH_NEW2",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BOARD",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GUIDEPOST",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\nI wonder where this signpost leads. Like, why\ndo I want to go that way? What's over there? It\ndoesn't say."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BLACKBOARD",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_STATUE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_STATUE_SUN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_STATUE_PIKE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_STATUE_SHIELD",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FOUNTAIN_ANIMAL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FOUNTAIN_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nThis fountain is simple. But I like simple. To me,\nthat's way better than over-decorating\neverything."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FOUNTAIN_2",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FAUCET",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PUMP",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SMALLPOND",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POND",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BRIDGE_DIGIT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BRIDGE_ARCH",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WELL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TRAM",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WATCHTOWER",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SWING_IRON",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SWING_WOOD",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_JUNGLE_JYM",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SEASAW",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SLIDE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SAND_CASTLE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nOh, there's a sandbox. Kids love to build sand\ncastles in those. Also, I think girls like them\nmore, for some reason."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SAND_ANIMAL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_HORIZONTAL_BAR",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_HORIZONTAL_BAR_HIGH",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OPEN_SPACE_WOOD_SMALL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OPEN_SPACE_WOOD",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OPEN_SPACE_STONE_SMALL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OPEN_SPACE_STONE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OPEN_SPACE_BRICK_SMALL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OPEN_SPACE_BRICK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OPEN_SPACE_MOSS_SMALL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nWhy is there moss when this place is so sunny\nand drafty...?\n<PAGE>\nMoss grows best in the shade... But this plaza\nobviously wasn't built for that. Oh well, nothing\nfor you to worry about."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OPEN_SPACE_MOSS",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nWhy is there moss when this place is so sunny\nand drafty...?\n<PAGE>\nMoss grows best in the shade... But this plaza\nobviously wasn't built for that. Oh well, nothing\nfor you to worry about."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FIRE_EXTINGUISHER",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_DARUMA",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SNOWMAN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_KAMAKURA",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ICELIGHT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SNOWIMAGE_COW",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SNOWIMAGE_SHEEP",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SNOWIMAGE_BIRD",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SNOWIMAGE_PIKE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SNOWIMAGE_SHIELD",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_REDLIGHT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_BLUELIGHT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_YELLOWLIGHT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POLE_REDLIGHT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POLE_BLUELIGHT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POLE_YELLOWLIGHT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GATE_REDLIGHT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GATE_BLUELIGHT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GATE_YELLOWLIGHT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PYRAMID",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_CASTLE_JAPAN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_CASTLE_WEST",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOWER",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_KADOMATU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nWhenever I look at New Year's decorations, I\nalways wonder...\n<PAGE>\nWhat do they mean? Like, what does all this\nrandom stuff have to do with the new year?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SHISHIODOSHI",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nWow, somebody built this mechanical lion from\nscratch.\n<PAGE>\nThat must take a lot of know-how, and a good\nsense of aesthetics."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ANCHOR",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_HAMMOCK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\n*yawn* Just looking at a hammock makes me\nwant to lie down and take a nice, long nap..."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OBELISK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SLATE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_MOVING_CAR",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_SHISHIMAI",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PANDA",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ROBOT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BOARD_SOUND",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_PINKROSE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_MARGUERITE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nDo you know much about growing marguerites?\n<PAGE>\nIf you cultivate it continuously, the root gets\nrotten. So you should harvest all of it before the\nflowers die."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_TULIP",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_CARNATION",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_SUNFLOWER",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_REDROSE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_HYDRANGEA",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_LILY",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_HIBISCUS",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_PINK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nDo you like pink carnations?\n<PAGE>\nIn the Far East, this flower is a symbol of fine,\nstrong women.\n<PAGE>\n<FACE_LAUGH>Where I used to live, there was a woman this\nflower would have been perfect for."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_WHITEROSE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_GARBERA",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_SNOWDROP",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_RINDOU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\nThe other day, Iris told me my perfect flower\nwould be a gentian... Now what does that mean,\nexactly?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_BLUEROSE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_CACTUS",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_PINKROSE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_MARGUERITE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nDo you know much about growing marguerites?\n<PAGE>\nIf you cultivate it continuously, the root gets\nrotten. So you should harvest all of it before the\nflowers die."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_TULIP",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_CARNATION",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_SUNFLOWER",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_REDROSE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_HYDRANGEA",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_LILY",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_HIBISCUS",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_PINK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nDo you like pink carnations?\n<PAGE>\nIn the Far East, this flower is a symbol of fine,\nstrong women.\n<PAGE>\n<FACE_LAUGH>Where I used to live, there was a woman this\nflower would have been perfect for."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_WHITEROSE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_GARBERA",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_SNOWDROP",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_RINDOU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\r\nThe other day, Iris told me my perfect flower\nwould be a gentian... Now what does that mean,\nexactly?"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_BLUEROSE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PLANTER_CACTUS",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_BAMBOO",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nI never saw anyone grow bamboo in a pot until I\ncame to this town. Around here, I guess it's just\nsomething people do."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BONSAI",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_CHRRYBLOSSOM",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nCherry blossoms are beautiful, but it takes a\nwhole lot of time and trouble to grow them.\n<PAGE>\nGrowing potted ones is easier, though, so that\nmight be good for gardening beginners."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_GINGKO",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nA maidenhair tree is beautiful even in a pot,\nalthough the real ones are much more beautiful."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_POT_PALM",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_HANGING_BOWL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nI like hanging pots because they let me study\nmore plants in a smaller space."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BASKET_RED",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BASKET_GREEN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nGreen is the color of leaves, so I guess a green\nflower basket can go with all kinds of plants."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BASKET_YELLOW",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BASKET_PINK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BASKET_PURPLE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_BASKET_WHITE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOPIARY_BOXWOOD",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOPIARY_CONIFER",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOPIARY_BALL_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOPIARY_BALL_2",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOPIARY_BOX",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nIt's better to grow hedges than to build walls or\nfences. They're not as tough, of course, but\nthey're much more pleasant."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOPIARY_LION",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TOPIARY_MAMMOTH",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_BAMBOO",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_PINEAL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nDon't you think pine trees smell good? Some\npeople hate the smell, but I really like it."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_CHERRYBLOSSOM",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nNo need to talk about the beauty of cherry\nblossoms. I think most people like them just as\nmuch as you and I do."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_GINGKO",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nIt's nice to see a potted maidenhair tree, but\nseeing one rooted in the ground is even better."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TREE_PALM",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_LATTICE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nThat's a wood lattice fence, isn't it? A lot of\npeople decorate those with vines or roses."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OMANENT_COW",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OMANENT_SHEEP",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OMANENT_COCK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OMANENT_HORSE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OMANENT_ALPACA",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_OMANENT_LAMA",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TIN_TRICYCLE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TIN_WATERING_CAN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_TIN_BOOTS",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ARCH_RED_FLOWER",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ARCH_BLUE_FLOWER",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ARCH_PLANTS",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nA garden arch has a simple design, but a\nbeautiful look."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GAZEBO",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_PERGOLA",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FAN_PERGOLA",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_WOOD_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_STONE_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_BAMBOO_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_RED_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_GREEN_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nGreen is easy on the eyes. That's why people get\nrelaxed just by looking at plants.\n<PAGE>\n<FACE_LAUGH>Also, it might not work as well as it does with\nplants, but I think you can get the same kind of\neffect from that fence."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_BLUE_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_YELLOW_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_PINK_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_PURPLE_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_WHITE_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_BLACK_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_GOLD_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_SILVER_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_MILK_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_FENCE_HAIR_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_GUARD_POLE_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_CHAIN_POLE_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WALL_WOOD_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WALL_STONE_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_WALL_BRICK_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COLOR_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nI like all the green around this place. Green is my\nfavorite color."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COLOR_2",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nI don't like bright colors so much. I like quieter\ncolors, like you see in this place."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ATMOSPHERE_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nThis place looks very tropical to me.\n<PAGE>\nSince we don't get to take too many tropical\nvacations around here, it's nice to have our own\nlittle getaway."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_ATMOSPHERE_2",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nThis place is offbeat, but it's my kind of offbeat.\nIt's comfortable here for me."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COMBO_1",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nIt's very peaceful here, more so than just about\nanywhere else. I like it."
+    },
+    {
+      "VardId": "MES_COMMENT_PLAN_COMBO_2",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nWow, how many statues are there in this place?\nAnd each of them reflects the animal's\ncharacter. Nice work all around."
+    },
+    {
+      "VardId": "貿易関係ＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_TRADE_ASIA",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_TRADE_ALPS",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_TRADE_JAPAN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_TRADE_USA",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_TRADE_EU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_TRADE_SOUTHERN",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_TRADE_SOUTH_POLE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "陣取り関係ＭＳＧ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_PLACE_GOOD",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_PLACE_BEST",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "町の発展MSG　//特定住人専用会話",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MOVE_OUT",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_TOWN_POPULARITY_BEST",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nI come across a lot of tourists on my nature\nwalks these days. They always ask me how to\nget to town.\n<PAGE>\nI guess rumors about the town's growth are\ngetting around, if people keep coming here to\nsee for themselves."
+    },
+    {
+      "VardId": "MES_TOWN_POPULARITY_BETTER",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nI visited the Trade Depot a little while ago, and is\nit just me, or are there more stores there now?"
+    },
+    {
+      "VardId": "MES_AREA_TOWN_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nYou know, if this town's economy does bring in\nmore traders, would that mean I'd get to see\nmore exotic plants?"
+    },
+    {
+      "VardId": "MES_AREA_TOWN_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nEven if there aren't many traders here, the town\ncan still succeed as long as we have a\nfunctioning economy.\n<PAGE>\nIn other words, where we go from here depends\non how hard we try. Where there's a will, there's\na way."
+    },
+    {
+      "VardId": "MES_AREA_TOWN_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nBefore I came to this town, I heard rumors about\nhow run-down and dirty it was.\n<PAGE>\n<FACE_LOSS>Since not too many people come here, people\nimagine what the town \"must\" be like, and then\nthey spread that around.\n<PAGE>\nI'm fine with this town being obscure and all,\nbut I wish people would quit smearing it just\nbecause they don't know anything..."
+    },
+    {
+      "VardId": "MES_AREA_TOWN_03",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\nI'm really glad I came to this town.\n<PAGE>\nThis town is a beacon for trade now. Thanks to\nthat, I can get a hold of ultra-rare seeds. It's\nperfect for my work."
+    },
+    {
+      "VardId": "町ブラ専用MSG　//モブ専用会話",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MOB_RETURN_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_MOB_RETURN_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_MOB_RETURN_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_MOB_RETURN_03",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_MOB_GUILD_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_MOB_GUILD_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_MOB_TALKING_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_MOB_SHOPPING_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_MOB_POPULARITY_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_MOB_POPULARITY_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_MOB_POPULARITY_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_MOB_POPULARITY_03",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "メイド、下僕用MSG　//モブ専用会話",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_MAID_SLEEP",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_MAID_SLEEPY",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_MAID_MASTER_MEAL",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_MAID_ANIMAL_CARE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_MAID_CHICKEN_CARE",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_MAID_FIELD_WORK",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_MAID_MASTER_BEFORE_REFORM_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_MAID_MASTER_BEFORE_REFORM_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_MAID_MASTER_BEFORE_REFORM_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_MAID_MASTER_AFTER_REFORM_00",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_MAID_MASTER_AFTER_REFORM_01",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "MES_MAID_MASTER_AFTER_REFORM_02",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\n(no translation)"
+    },
+    {
+      "VardId": "追加メッセージ",
+      "Text": "NoMsg"
+    },
+    {
+      "VardId": "MES_PLAYER_BIRTHDAY_03",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\r\n<MYNAME>, do you know what day it is?\n<PAGE>\nWhen you come home and open the door...well,\nit's a surprise, but you're going to like it.\n<PAGE>\n<FACE_NORMAL>So don't stay out too late, okay?"
+    }
+  ]
+}

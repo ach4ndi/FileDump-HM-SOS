@@ -1,0 +1,934 @@
+﻿{
+  "Date": "2016-06-06T19:37:51.2420013+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MSG_BAG_000",
+      "Text": "何個捨てますか？"
+    },
+    {
+      "VardId": "MSG_BAG_001",
+      "Text": "何個置きますか？"
+    },
+    {
+      "VardId": "MSG_BAG_002",
+      "Text": "まとめていいですか？"
+    },
+    {
+      "VardId": "MSG_BAG_003",
+      "Text": "かばんがいっぱいです。"
+    },
+    {
+      "VardId": "MSG_BAG_004",
+      "Text": "何個食べますか？"
+    },
+    {
+      "VardId": "MSG_BAG_005",
+      "Text": "何個入れますか？"
+    },
+    {
+      "VardId": "MSG_BAG_006",
+      "Text": "何個取り出しますか？"
+    },
+    {
+      "VardId": "MSG_BAG_NAME",
+      "Text": "かばん"
+    },
+    {
+      "VardId": "MSG_STORAGE_NAME_0",
+      "Text": "道具箱"
+    },
+    {
+      "VardId": "MSG_STORAGE_NAME_1",
+      "Text": "冷蔵庫"
+    },
+    {
+      "VardId": "MSG_STORAGE_NAME_2",
+      "Text": "整理箱"
+    },
+    {
+      "VardId": "MSG_STORAGE_NAME_3",
+      "Text": "資材置き場"
+    },
+    {
+      "VardId": "MSG_STORAGE_NAME_4",
+      "Text": "クローゼット"
+    },
+    {
+      "VardId": "MSG_ITEM_CATEGORY_00",
+      "Text": "道具"
+    },
+    {
+      "VardId": "MSG_ITEM_CATEGORY_01",
+      "Text": "種"
+    },
+    {
+      "VardId": "MSG_ITEM_CATEGORY_02",
+      "Text": "収穫物"
+    },
+    {
+      "VardId": "MSG_ITEM_CATEGORY_03",
+      "Text": "料理"
+    },
+    {
+      "VardId": "MSG_ITEM_CATEGORY_04",
+      "Text": "メーカー品"
+    },
+    {
+      "VardId": "MSG_ITEM_CATEGORY_05",
+      "Text": "アバター服"
+    },
+    {
+      "VardId": "MSG_ITEM_CATEGORY_06",
+      "Text": "アクセサリ"
+    },
+    {
+      "VardId": "MSG_ITEM_CATEGORY_07",
+      "Text": "工房品"
+    },
+    {
+      "VardId": "MSG_ITEM_CATEGORY_08",
+      "Text": "魚"
+    },
+    {
+      "VardId": "MSG_ITEM_CATEGORY_09",
+      "Text": "昆虫"
+    },
+    {
+      "VardId": "MSG_ITEM_CATEGORY_10",
+      "Text": "その他"
+    },
+    {
+      "VardId": "MSG_ITEM_CATEGORY_11",
+      "Text": "服飾品"
+    },
+    {
+      "VardId": "MSG_ITEM_CATEGORY_UNIT_00",
+      "Text": "個"
+    },
+    {
+      "VardId": "MSG_ITEM_CATEGORY_UNIT_01",
+      "Text": "匹"
+    },
+    {
+      "VardId": "MSG_CROP_TYPE_0",
+      "Text": "根菜"
+    },
+    {
+      "VardId": "MSG_CROP_TYPE_1",
+      "Text": "葉作物"
+    },
+    {
+      "VardId": "MSG_CROP_TYPE_2",
+      "Text": "背高作物"
+    },
+    {
+      "VardId": "MSG_CROP_TYPE_3",
+      "Text": "花"
+    },
+    {
+      "VardId": "MSG_CROP_TYPE_4",
+      "Text": "水田"
+    },
+    {
+      "VardId": "MSG_CROP_TYPE_5",
+      "Text": "穀物"
+    },
+    {
+      "VardId": "MSG_CROP_TYPE_6",
+      "Text": "果樹"
+    },
+    {
+      "VardId": "MSG_CROP_TYPE_7",
+      "Text": "お茶"
+    },
+    {
+      "VardId": "MSG_CROP_TYPE_8",
+      "Text": "スパイス"
+    },
+    {
+      "VardId": "MSG_CROP_TYPE_9",
+      "Text": "茸・蜜"
+    },
+    {
+      "VardId": "MSG_CROP_TYPE_INVALID",
+      "Text": "−"
+    },
+    {
+      "VardId": "MSG_COOK_CAN",
+      "Text": "できる"
+    },
+    {
+      "VardId": "MSG_COOK_NOT_CAN",
+      "Text": "できない"
+    },
+    {
+      "VardId": "MSG_FRESH_PREFIX",
+      "Text": "新鮮"
+    },
+    {
+      "VardId": "MSG_STORAGE_WARNING",
+      "Text": "そうこがいっぱいです"
+    },
+    {
+      "VardId": "MSG_STORAGE_WARNING_001",
+      "Text": "カバンがいっぱいです"
+    },
+    {
+      "VardId": "MSG_SELECT_000",
+      "Text": "つかう"
+    },
+    {
+      "VardId": "MSG_SELECT_001",
+      "Text": "もちあげる"
+    },
+    {
+      "VardId": "MSG_SELECT_002",
+      "Text": "かばんにいれる"
+    },
+    {
+      "VardId": "MSG_SELECT_003",
+      "Text": "そうびする"
+    },
+    {
+      "VardId": "MSG_SELECT_004",
+      "Text": "そうびをはずす"
+    },
+    {
+      "VardId": "MSG_SELECT_005",
+      "Text": "おく"
+    },
+    {
+      "VardId": "MSG_SELECT_006",
+      "Text": "すてる"
+    },
+    {
+      "VardId": "MSG_SELECT_007",
+      "Text": "やめる"
+    },
+    {
+      "VardId": "MSG_SELECT_008",
+      "Text": "たべる"
+    },
+    {
+      "VardId": "MSG_SELECT_009",
+      "Text": "なまえを変える"
+    },
+    {
+      "VardId": "MSG_SELECT_010",
+      "Text": "牧場名を変える"
+    },
+    {
+      "VardId": "MSG_EDIT_CATEGORY_00",
+      "Text": "ポイントづくり"
+    },
+    {
+      "VardId": "MSG_EDIT_CATEGORY_01",
+      "Text": "ガーデニング"
+    },
+    {
+      "VardId": "MSG_EDIT_CATEGORY_02",
+      "Text": "柵・塀"
+    },
+    {
+      "VardId": "MSG_EDIT_CATEGORY_03",
+      "Text": "牧場施設"
+    },
+    {
+      "VardId": "MSG_EDIT_CATEGORY_04",
+      "Text": "工房増築"
+    },
+    {
+      "VardId": "MSG_EDIT_CATEGORY_05",
+      "Text": "道具"
+    },
+    {
+      "VardId": "MSG_EDIT_CATEGORY_06",
+      "Text": "模様替え"
+    },
+    {
+      "VardId": "MSG_EDIT_LOCATION_00",
+      "Text": "牧場"
+    },
+    {
+      "VardId": "MSG_EDIT_LOCATION_01",
+      "Text": "街"
+    },
+    {
+      "VardId": "MSG_EDIT_LOCATION_02",
+      "Text": "自宅"
+    },
+    {
+      "VardId": "MSG_PLAN_000",
+      "Text": "何個作りますか？"
+    },
+    {
+      "VardId": "MSG_PLAN_001",
+      "Text": "必要な材料が足りません。"
+    },
+    {
+      "VardId": "MSG_NOT_MAKE_01",
+      "Text": "ストックがいっぱいです。"
+    },
+    {
+      "VardId": "MSG_NOT_MAKE_00",
+      "Text": "カバンがいっぱいです。"
+    },
+    {
+      "VardId": "MSG_NOT_MAKE_03",
+      "Text": "１個しか作成できません。"
+    },
+    {
+      "VardId": "MSG_ATELIER_00",
+      "Text": "作成中の材料を、すべて取り出します。\n取り出しますか？"
+    },
+    {
+      "VardId": "MSG_ATELIER_01",
+      "Text": "材料がありません。"
+    },
+    {
+      "VardId": "MSG_ATELIER_02",
+      "Text": "いくつ作成しますか？"
+    },
+    {
+      "VardId": "MSG_ATELIER_03",
+      "Text": "作成しますか？"
+    },
+    {
+      "VardId": "MSG_QUEST_RECEIVE_00",
+      "Text": "このお願いを受けますか？"
+    },
+    {
+      "VardId": "MSG_QUEST_RECEIVE_01",
+      "Text": "これ以上は受けられません。"
+    },
+    {
+      "VardId": "MSG_QUEST_MEMO_00",
+      "Text": "このお願いをキャンセルしますか？"
+    },
+    {
+      "VardId": "MSG_TRADE_CLIENT_00",
+      "Text": "シルクロードの国"
+    },
+    {
+      "VardId": "MSG_TRADE_CLIENT_01",
+      "Text": "山小屋の国"
+    },
+    {
+      "VardId": "MSG_TRADE_CLIENT_02",
+      "Text": "サクラの国"
+    },
+    {
+      "VardId": "MSG_TRADE_CLIENT_03",
+      "Text": "コムギの国"
+    },
+    {
+      "VardId": "MSG_TRADE_CLIENT_04",
+      "Text": "バラの国"
+    },
+    {
+      "VardId": "MSG_TRADE_CLIENT_05",
+      "Text": "トロピカルの国"
+    },
+    {
+      "VardId": "MSG_TRADE_CLIENT_06",
+      "Text": "氷の国"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_HARVEST_SPRING",
+      "Text": "春の収穫物"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_HARVEST_SUMMER",
+      "Text": "夏の収穫物"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_HARVEST_AUTUMN",
+      "Text": "秋の収穫物"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_HARVEST_WINTER",
+      "Text": "冬の収穫物"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_FLOWER",
+      "Text": "花"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_TEA",
+      "Text": "茶葉"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_SPICE",
+      "Text": "香辛料"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_GRAIN",
+      "Text": "穀物"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_GRASS",
+      "Text": "野草・山菜類"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_ACCESSORIES",
+      "Text": "服飾品"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_TOOL",
+      "Text": "道具"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_FISH",
+      "Text": "魚"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_MATERIAL",
+      "Text": "資材"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_COOK",
+      "Text": "料理"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_CRAFT",
+      "Text": "工房品"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_DAIRY",
+      "Text": "卵・乳製品"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_WINE",
+      "Text": "ワイン"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_CARPET",
+      "Text": "壁紙・床"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_OBJET",
+      "Text": "オブジェ"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_FURNITURE",
+      "Text": "家具"
+    },
+    {
+      "VardId": "MSG_ITEM_KIND_OTHER",
+      "Text": "その他"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_00",
+      "Text": "の出荷をお願いします！"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_HARVEST_SPRING",
+      "Text": "春の収穫物の出荷！"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_HARVEST_SUMMER",
+      "Text": "夏の収穫物の出荷！"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_HARVEST_AUTUMN",
+      "Text": "秋の収穫物の出荷！"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_HARVEST_WINTER",
+      "Text": "冬の収穫物の出荷！"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_FLOWER",
+      "Text": "花の出荷！"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_TEA",
+      "Text": "茶葉の出荷！"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_SPICE",
+      "Text": "香辛料の出荷！"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_GRAIN",
+      "Text": "穀物の出荷！"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_GRASS",
+      "Text": "野草・山菜類の出荷！"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_ACCESSORIES",
+      "Text": "服飾品の出荷！"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_TOOL",
+      "Text": "道具の出荷！"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_FISH",
+      "Text": "魚の出荷！"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_MATERIAL",
+      "Text": "資材の出荷！"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_COOK",
+      "Text": "料理の出荷！"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_CRAFT",
+      "Text": "工房品の出荷！"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_DAIRY",
+      "Text": "卵・乳製品の出荷！"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_WINE",
+      "Text": "ワインの出荷！"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_CARPET",
+      "Text": "壁紙・床の出荷！"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_OBJET",
+      "Text": "オブジェの出荷！"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_FURNITURE",
+      "Text": "家具の出荷！"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_KIND_OTHER",
+      "Text": "その他の出荷！"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_REPORT_SELECT_SHIPMENT_00",
+      "Text": "何個選びますか？"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_REPORT_SELECT_SHIPMENT_01",
+      "Text": "選んだものを出荷しますか？"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_REPORT_SELECT_SHIPMENT_02",
+      "Text": "出荷しますか？"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_REPORT_00",
+      "Text": "お礼の品を受け取った！"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_REPORT_01",
+      "Text": "お礼を受け取る空きがないので\n出荷できません。"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_REPORT_02",
+      "Text": "の出荷額が下がった！"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_REPORT_MENU_00",
+      "Text": "おまかせ出荷"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_REPORT_MENU_01",
+      "Text": "選んで出荷"
+    },
+    {
+      "VardId": "MSG_TRADE_QUEST_REPORT_MENU_02",
+      "Text": "やめる"
+    },
+    {
+      "VardId": "MSG_AREA_000",
+      "Text": "その畑を借りる申請をしますか？"
+    },
+    {
+      "VardId": "MSG_AREA_001",
+      "Text": "その畑は申請できません。"
+    },
+    {
+      "VardId": "MSG_ENTRY_DECIDE",
+      "Text": "これにする"
+    },
+    {
+      "VardId": "MSG_ENTRY_CANCEL",
+      "Text": "やめる"
+    },
+    {
+      "VardId": "MSG_CATTLE_HOUSE",
+      "Text": "動物小屋"
+    },
+    {
+      "VardId": "MSG_HEN_HOUSE",
+      "Text": "ニワトリ小屋"
+    },
+    {
+      "VardId": "MSG_PET_HOUSE",
+      "Text": "ペット小屋"
+    },
+    {
+      "VardId": "MSG_MYSHOP_NUMBER_SELECT",
+      "Text": "何個とりだしますか？"
+    },
+    {
+      "VardId": "MSG_MYSHOP_SELECT_BAG",
+      "Text": "カバンに入れる"
+    },
+    {
+      "VardId": "MSG_MYSHOP_SELECT_RACK",
+      "Text": "整理箱に入れる"
+    },
+    {
+      "VardId": "MSG_MYSHOP_SELECT_BOX",
+      "Text": "道具箱に入れる"
+    },
+    {
+      "VardId": "MSG_MYSHOP_SELECT_COLD",
+      "Text": "冷蔵庫に入れる"
+    },
+    {
+      "VardId": "MSG_MYSHOP_SELECT_MATERIAL",
+      "Text": "資材箱に入れる"
+    },
+    {
+      "VardId": "MSG_MYSHOP_SELECT_STOCK",
+      "Text": "ストックに入れる"
+    },
+    {
+      "VardId": "MSG_MYSHOP_SELECT_CLOSET",
+      "Text": "クローゼットに入れる"
+    },
+    {
+      "VardId": "MSG_MYSHOP_MAX_BAG",
+      "Text": "カバンがいっぱいです。"
+    },
+    {
+      "VardId": "MSG_MYSHOP_MAX_RACK",
+      "Text": "整理箱がいっぱいです。"
+    },
+    {
+      "VardId": "MSG_MYSHOP_MAX_BOX",
+      "Text": "道具箱がいっぱいです。"
+    },
+    {
+      "VardId": "MSG_MYSHOP_MAX_COLD",
+      "Text": "冷蔵庫がいっぱいです。"
+    },
+    {
+      "VardId": "MSG_MYSHOP_MAX_MATERIAL",
+      "Text": "資材箱がいっぱいです。"
+    },
+    {
+      "VardId": "MSG_MYSHOP_MAX_STOCK",
+      "Text": "ストックがいっぱいです。"
+    },
+    {
+      "VardId": "MSG_MYSHOP_MAX_CLOSET",
+      "Text": "クローゼットがいっぱいです。"
+    },
+    {
+      "VardId": "MSG_MYSHOP_PRICE_SELECT_FULL",
+      "Text": "定価で売る"
+    },
+    {
+      "VardId": "MSG_MYSHOP_PRICE_SELECT_HALF",
+      "Text": "半額で売る"
+    },
+    {
+      "VardId": "MSG_MYSHOP_FULL",
+      "Text": "これ以上は並べられません。"
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_HELP_CATTLE",
+      "Text": "どうぶつ放牧"
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_HELP_HEN",
+      "Text": "トリ・ウサギ放牧"
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_HELP_ITEM",
+      "Text": "アイテム収集"
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_HELP_NONE",
+      "Text": "お手伝いなし"
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_HELP_UNAVAILABLE",
+      "Text": "動物がいないのでお手伝いできません。"
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_MOVE_SELECT",
+      "Text": "引越しする小屋を選んでください。"
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_MOVE_ERROR_PREG",
+      "Text": "妊娠中の動物は引越しできません。\n他の動物を選んでください。"
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_MOVE_ERROR_SICK",
+      "Text": "病気の動物は引越しできません。\n他の動物を選んでください。"
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_MOVE_ERROR_RUNAWAY",
+      "Text": "家出中の動物は引越しできません。\n他の動物を選んでください。"
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_MOVE_ERROR_NO",
+      "Text": "引越しする小屋がありません。"
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_MOVE_FULL",
+      "Text": "引越し先の小屋がいっぱいです。\n入れ替える動物を選んでください。"
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_MOVE_END",
+      "Text": "動物の引越しが終わりました。"
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_MOVE_YES",
+      "Text": "引越しする"
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_MOVE_NO",
+      "Text": "引越ししない"
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_MOVE_MYHOUSE",
+      "Text": "自宅"
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_MOVE_MYHOUSE_SWITCH",
+      "Text": "既にペットがいます。いれかえますか？"
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_MOVE_MYHOUSE_SWITCH_YES",
+      "Text": "いれかえる"
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_MOVE_MYHOUSE_SWITCH_NO",
+      "Text": "いれかえない"
+    },
+    {
+      "VardId": "MSG_ANIMALBOARD_NOANIMAL",
+      "Text": "動物を飼ってからノートを開こう！"
+    },
+    {
+      "VardId": "MSG_SHIPPING_MENU_ITEM",
+      "Text": "アイテム"
+    },
+    {
+      "VardId": "MSG_SHIPPING_MENU_EDIT",
+      "Text": "配置物"
+    },
+    {
+      "VardId": "MSG_SHIPPING_MENU_CANCEL",
+      "Text": "やめる"
+    },
+    {
+      "VardId": "MSG_SHIPPING_LIST_MSG_000",
+      "Text": "未出荷"
+    },
+    {
+      "VardId": "MSG_SHIPPING_LIST_MSG_001",
+      "Text": "？？？？？？？？"
+    },
+    {
+      "VardId": "MSG_SHIPPING_LIST_MSG_002",
+      "Text": "----------"
+    },
+    {
+      "VardId": "MSG_SHIPPING_LIST_MSG_003",
+      "Text": "-----"
+    },
+    {
+      "VardId": "MSG_FLOWER_ARRANGEMENT_BAG_FULL",
+      "Text": "カバンに空きがないので\n花束を作れません。"
+    },
+    {
+      "VardId": "MSG_RIBBON_NUMBER_SELECT",
+      "Text": "何個セットしますか？"
+    },
+    {
+      "VardId": "MSG_RIBBON_SET",
+      "Text": "<MOJI0>をセットしました。"
+    },
+    {
+      "VardId": "MSG_PROPERTY_000",
+      "Text": "名前は<BLUE><MOJI0></BLUE>で\nよろしいですか？"
+    },
+    {
+      "VardId": "MSG_WRAPPING_NUMBER_SELECT",
+      "Text": "何個作りますか？"
+    },
+    {
+      "VardId": "MSG_WRAPPING_BAG_FULL",
+      "Text": "カバンに空きがないから\nラッピングを作れないよ。"
+    },
+    {
+      "VardId": "MSG_WRAPPING_CANCEL_SELECT",
+      "Text": "ラッピングをはずそうかな？"
+    },
+    {
+      "VardId": "MSG_WRAPPING_CANCEL",
+      "Text": "ラッピングをはずしたよ！"
+    },
+    {
+      "VardId": "MSG_BURARI_COMMENT_FISHING",
+      "Text": "釣りに夢中！"
+    },
+    {
+      "VardId": "MSG_BURARI_COMMENT_INSECT",
+      "Text": "虫取りはまかせろ"
+    },
+    {
+      "VardId": "MSG_BURARI_COMMENT_COOKING",
+      "Text": "料理が大好き"
+    },
+    {
+      "VardId": "MSG_BURARI_COMMENT_SEWING",
+      "Text": "服を作るのが楽しい"
+    },
+    {
+      "VardId": "MSG_BURARI_COMMENT_SEASONING",
+      "Text": "調味料作りは最高！"
+    },
+    {
+      "VardId": "MSG_BURARI_COMMENT_DAIRY",
+      "Text": "乳製品がマイブーム"
+    },
+    {
+      "VardId": "MSG_BURARI_COMMENT_WINE",
+      "Text": "ワインへのこだわり"
+    },
+    {
+      "VardId": "MSG_BURARI_COMMENT_SEED",
+      "Text": "種を量産してるよ"
+    },
+    {
+      "VardId": "MSG_BURARI_COMMENT_CERAMICS",
+      "Text": "土をこねてます"
+    },
+    {
+      "VardId": "MSG_BURARI_COMMENT_RIVER",
+      "Text": "川で潜ってます"
+    },
+    {
+      "VardId": "MSG_BURARI_COMMENT_NOTHING",
+      "Text": "無し"
+    },
+    {
+      "VardId": "MSG_SAFARI_GO_ANIMAL_DECIDE",
+      "Text": "連れて行く動物を決定してよろしいですか？"
+    },
+    {
+      "VardId": "MSG_SAFARI_GO_ANIMAL_CANCEL",
+      "Text": "連れて行くのをやめますか？"
+    },
+    {
+      "VardId": "MSG_SAFARI_GO_ANIMAL_NOTHING",
+      "Text": "連れて行く動物が選択されていません。"
+    },
+    {
+      "VardId": "MSG_CONECT_GIFT_PRESENT_MSG_000",
+      "Text": "何個わたしますか？"
+    },
+    {
+      "VardId": "MSG_CONECT_GIFT_PRESENT_MSG_001",
+      "Text": "このアイテムでよろしいですか？"
+    },
+    {
+      "VardId": "MSG_SELECT_011",
+      "Text": "みる"
+    },
+    {
+      "VardId": "MES_EXTENSION_WARNING",
+      "Text": "自動的に室内の配置物は収納され、\n道具箱類は位置が変更されます。"
+    },
+    {
+      "VardId": "MES_EXTENSION_NG",
+      "Text": "配置物を収納できません。\nストックを空けてください。"
+    },
+    {
+      "VardId": "MSG_ACCESSORY_EFFECT_00",
+      "Text": "早く泳げるようになった気がする！"
+    },
+    {
+      "VardId": "MSG_ACCESSORY_EFFECT_01",
+      "Text": "なげたアイテムをお金にできるよ！"
+    },
+    {
+      "VardId": "MSG_ACCESSORY_EFFECT_02",
+      "Text": "体力がちょっとずつ回復するよ！"
+    },
+    {
+      "VardId": "MSG_ACCESSORY_EFFECT_03",
+      "Text": "体力がちょっとずつ回復するよ！"
+    },
+    {
+      "VardId": "MSG_ACCESSORY_EFFECT_04",
+      "Text": "体力がちょっとずつ回復するよ！"
+    },
+    {
+      "VardId": "MSG_ACCESSORY_EFFECT_05",
+      "Text": "体調がちょっとずつ回復するよ！"
+    },
+    {
+      "VardId": "MSG_ACCESSORY_EFFECT_06",
+      "Text": "体調がちょっとずつ回復するよ！"
+    },
+    {
+      "VardId": "MSG_ACCESSORY_EFFECT_07",
+      "Text": "体調がちょっとずつ回復するよ！"
+    },
+    {
+      "VardId": "MSG_ACCESSORY_EFFECT_08",
+      "Text": "少しつかれやすくなったみたい…。"
+    },
+    {
+      "VardId": "MSG_ACCESSORY_EFFECT_09",
+      "Text": "町の人たちと仲良くなれそう！"
+    },
+    {
+      "VardId": "MSG_ACCESSORY_EFFECT_10",
+      "Text": "飼っている動物たちと\n仲良くなれそう！"
+    },
+    {
+      "VardId": "MSG_ACCESSORY_EFFECT_11",
+      "Text": "ペットたちと仲良くなれそう！"
+    },
+    {
+      "VardId": "MSG_ACCESSORY_EFFECT_12",
+      "Text": "野生の動物たちと仲良くなれそう！"
+    },
+    {
+      "VardId": "MSG_ACCESSORY_EFFECT_13",
+      "Text": "一日が早く過ぎる気がする！"
+    },
+    {
+      "VardId": "MSG_ACCESSORY_EFFECT_14",
+      "Text": "時間の流れがゆっくりな気がする！"
+    },
+    {
+      "VardId": "MSG_ACCESSORY_EFFECT_15",
+      "Text": "道具を使っても\nつかれにくい気がする！"
+    },
+    {
+      "VardId": "MSG_WRAPPING_NO_RIBBON",
+      "Text": "ラッピング用のリボンが無い…。"
+    },
+    {
+      "VardId": "MSG_WRAPPING_NO_RIBBON_2",
+      "Text": "リボンが一つも無いよ。"
+    },
+    {
+      "VardId": "MSG_WRAPPING_CANCEL_ERROR",
+      "Text": "ラッピングされたアイテムが無いよ。"
+    }
+  ]
+}

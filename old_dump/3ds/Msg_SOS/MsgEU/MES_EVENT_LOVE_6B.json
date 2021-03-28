@@ -1,0 +1,834 @@
+﻿{
+  "Date": "2016-06-10T19:20:15.2072886+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_LOVE_6B_TALK_CHARA_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\nHey, <MYNAME>! Didja come to see me? Man, I\nfeel so loved! ♪\n<PAGE>\n<FACE_NORMAL>Hey, uh... I've got something I want to talk to\nyou about."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_OUT_CHARA_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LOSS>\nI'd rather not do it here. Let's go somewhere a\nlittle more private. Follow me."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_00_CHARA_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\nSee, lately, I've been thinking.\n<PAGE>\nMaybe me seeing that flier and moving here to\nbecome a farmer all happened just so I could\nmeet you.\n<PAGE>\nI mean, you're a farmer too, and we hit it off\nalmost right away. Now we're even dating.\n<PAGE>\n<FACE_LAUGH>...Yeah, you know what? This has gotta be\ndestiny! Call me superstitious if you want, but I\nreally believe it!\n<PAGE>\n<FACE_NORMAL>I think you're The One...and if you feel the same\nabout me, then I really hope you'll agree to what\nI'm about to ask you next.\n<PAGE>\n<FACE_LAUGH>See, I love you a whole lot. More than anything\nor anyone else in the whole wide world!\n<PAGE>\nAnd I want you to stay with me for the rest of\nour lives.\n<PAGE>\n<FACE_LOVE>So, <MYNAME>... I want you to marry me!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_00_CHARA_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\nI can cook, and I'm great at chores 'round the\nhouse. I swear I'm a better catch than any other\nguy you could find!\n<PAGE>\n<FACE_LOSS>Not only that, but I'm, uh...um... I'm... Okay, so\nI can't think of anything else right now!\n<PAGE>\n<FACE_NORMAL>But that doesn't matter! You can't go wrong by\nmarrying me, I swear! So, um...please?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_01_CHARA_POORFARMER",
+      "Text": "Yes, I'll marry you."
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_02_CHARA_POORFARMER",
+      "Text": "I need more time."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_01_CHARA_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\n<WINDOW_HEART2_R>Y-you will? Seriously?! You aren't just teasing\nme or anything, right? You really mean it?\n<PAGE>\n<FACE_LAUGH>WOO-HOOOO!!! <MYNAME>, we'll make the\nhappiest family ever, I just know it!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_KISS_CHARA_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\n<WINDOW_HEART2_R>Okay, I hereby declare our goal as a couple is to\nbe the World's Greatest Lovey-Dovey Pair-of-\nMores!\n<PAGE>\n<FACE_LOSS>...Huh? What's a \"paramour\"?\n<PAGE>\n<FACE_NORMAL>Wh-whatever! Forget the little fiddly details. All\nthat matters is us being happy together!\nWhoever's happiest wins!\n<PAGE>\n<FACE_LOVE>And I swear I'm gonna make you super happy!\nGot it? Good! I love you, <MYNAME>, and don't\nyou forget it!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_REPORT_CHARA_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\nOkay! Now that that's done, let's go spread the\ngood news all 'round town!\n<PAGE>\nHeh heh. I have to show off my new bride to\neverybody, y'know!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_00_CHARA_POORFARMER",
+      "Text": "<FACE_VERONICA><POS_LEFT><FACE_NORMAL>\nI see. So you two will be getting married?\n<PAGE>\n<FACE_LAUGH>What wonderful news. Congratulations to both\nof you."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_01_CHARA_POORFARMER",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_NORMAL>\nCongrats, you two!\n<PAGE>\nStill, you were the last person I thought would\nget the jump on me, Fritz. I don't know how I\nfeel about this!\n<PAGE>\nBut ever since you and <MYNAME> started\ndating, you'd always swear up and down to me\nthat you two would be married someday.\n<PAGE>\nNow you've made that dream a reality, and that's\nwonderful. Congratulations!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSINGRETURN_00_CHARA_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_LEFT><FACE_LOSS>\nH-hey! I told you to keep that a secret!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_02_CHARA_POORFARMER",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_LAUGH>\nHa ha! You two are engaged now, right? There's\nno need for secrets anymore!\n<PAGE>\n<FACE_NORMAL><MYNAME>, I'm sure you know how he is by\nnow. Stand by him and keep your eye on him,\nokay?\n<PAGE>\n<FACE_LAUGH>I wish you both the best. Don't forget to invite\nme to the wedding!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_00_CHARA_POORFARMER",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nOh, yes. Speaking of wedding invitations, have\nthe two of you decided which wedding plan you\nwould like?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_01_CHARA_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_LEFT><FACE_NORMAL>\nNope, we haven't really thought about that part\nyet.\n<PAGE>\nIn fact, I don't think we know much about them\nat all. Couldja give us the details?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_02_CHARA_POORFARMER",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nOf course. I would be happy to explain. We have\nthree separate wedding plans available.\n<PAGE>\n<FACE_NORMAL>There is the <BLUE>Simple Plan</BLUE>, which costs\n<BLUE>100,000G</BLUE>. Then there is the slightly larger\n<BLUE>Deluxe Plan</BLUE> for <BLUE>500,000G</BLUE>.\n<PAGE>\nOr you could choose our most extravagant\noption, the <BLUE>Luxury Plan</BLUE>, which will cost\n<BLUE>1,000,000G</BLUE>.\n<PAGE>\nMore extravagant plans allow you to invite more\nguests, and present you with more options for\nyour wedding outfits and finery.\n<PAGE>\nIn brief, as the names imply, the more expensive\nthe plan, the grander your wedding ceremony\nwill be.\n<PAGE>\nYou may come to the guild at any time during\nbusiness hours and apply for the plan of your\nchoosing.\n<PAGE>\nSo once you've made your decision, please\ncome to the <RED>guild counter during business hours</RED>\nand submit your application."
+    },
+    {
+      "VardId": "MES_LOVE_6B_END_CHARA_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\nMan, we've got a lot of different plans to pick\nfrom! That's kinda exciting.\n<PAGE>\nIt's not every day a guy gets married, so I'm\nreally tempted to make it a big bash...but my\nwallet might not like that.\n<PAGE>\nI think I'll let you pick, <MYNAME>.\n<PAGE>\nNo matter which plan you pick, it's still gonna\nbe our wedding ceremony, so that automatically\nmakes it the best ever. ♪\n<PAGE>\nI'm so excited, I'm shaking! This is a dream\ncome true..."
+    },
+    {
+      "VardId": "MES_LOVE_6B_NO_COMMENT_CHARA_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_SAD>\nY-yeah... I guess that was kinda sudden, wasn't\nit? Anybody would want time. It makes sense.\n<PAGE>\n<FACE_NORMAL>Okay. Think about it as long as you want! I'll\nwait for as long as it takes."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_HOME_CHARA_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\nAnyways, it's probably time for us to head back.\nLemme see you home."
+    },
+    {
+      "VardId": "MES_LOVE_6B_TALK_CHARA_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\nAh, <MYNAME>. Did you come to see me?\n<PAGE>\n<FACE_LAUGH>Well then, what say we make this an impromptu\ndate? I was just thinking I'd like to speak to you\nabout something."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_OUT_CHARA_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\nSpeak to you about what? Something very\nimportant, actually.\n<PAGE>\nBut I shouldn't say it here. Let's go somewhere\nelse. Follow me."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_00_CHARA_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\nThere is a thought that has been nagging at me\never since our first date, <MYNAME>.\n<PAGE>\n<FACE_SAD>I couldn't help but wonder whether your feelings\nfor me were truly love...or simply admiration for\nan older man.\n<PAGE>\nEvery day, I feared you'd suddenly ask that\nquestion yourself, and then promptly decide to\nbreak up with me.\n<PAGE>\n<FACE_NORMAL>But the longer we spent together, the more\nconfident I became that wasn't the case.\n<PAGE>\nOut of that confidence has come an ever-\ngrowing desire.\n<PAGE>\n<MYNAME>...I want to have you by my side\nforever. I want you to be with me, and only me."
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_00_CHARA_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_LOVE>\nI...I want you to marry me, <MYNAME>."
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_01_CHARA_PERFUMER",
+      "Text": "Yes, I'll marry you."
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_02_CHARA_PERFUMER",
+      "Text": "I need more time."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_01_CHARA_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_LOVE>\n<WINDOW_HEART2_R>Thank you.\n<PAGE>\n<FACE_NORMAL>Once we marry, there may be more occasions\nwhen our age gap becomes a concern. But I'll\nmake you so happy you won't mind."
+    },
+    {
+      "VardId": "MES_LOVE_6B_KISS_CHARA_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_LOVE>\n<WINDOW_HEART2_R>I swear you will never regret choosing me.\nNever. I love you, <MYNAME>."
+    },
+    {
+      "VardId": "MES_LOVE_6B_REPORT_CHARA_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\nNow then, what say we go deliver the happy\nnews to the rest of the town?\n<PAGE>\nWe should make the guild our first stop. We\nought to ask Veronica how to go about\npreparing for the ceremony."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_00_CHARA_PERFUMER",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nI see. So you two will be getting married?\n<PAGE>\n<FACE_LAUGH>What wonderful news. Congratulations, both of\nyou."
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_01_CHARA_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_LEFT><FACE_LAUGH>\nThank you.\n<PAGE>\n<FACE_NORMAL>Now, if I remember correctly, there are a handful\nof different wedding plans we can choose from,\nyes?\n<PAGE>\nThis is a first for me, so I would appreciate it if\nyou could explain them to us in detail."
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_02_CHARA_PERFUMER",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nOf course. I would be happy to explain. We have\nthree separate wedding plans available.\n<PAGE>\n<FACE_NORMAL>There is the <BLUE>Simple Plan</BLUE>, which costs\n<BLUE>100,000G</BLUE>. Then there is the slightly larger\n<BLUE>Deluxe Plan</BLUE> for <BLUE>500,000G</BLUE>.\n<PAGE>\nOr you could choose our most extravagant\noption, the <BLUE>Luxury Plan</BLUE>, which will cost\n<BLUE>1,000,000G</BLUE>.\n<PAGE>\nMore extravagant plans allow you to invite more\nguests, and present you with more options for\nyour wedding outfits and finery.\n<PAGE>\nIn brief, as the names imply, the more expensive\nthe plan, the grander your wedding ceremony\nwill be.\n<PAGE>\nYou may come to the guild at any time during\nbusiness hours and apply for the plan of your\nchoosing.\n<PAGE>\nSo once you've made your decision, please\ncome to the <RED>guild counter during business hours</RED>\nand submit your application."
+    },
+    {
+      "VardId": "MES_LOVE_6B_END_CHARA_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\n<MYNAME>, I would have no problem if you\nchose whichever plan you like best.\n<PAGE>\n<FACE_LAUGH>We will only ever have this ceremony once, after\nall. I don't want you having any regrets about it.\n<PAGE>\n<FACE_LOVE>Having you there by my side, that alone will\nmake this the greatest ceremony of my life.\n<PAGE>\n<FACE_LAUGH>But don't take too long making your decision, all\nright? I am already looking forward to it."
+    },
+    {
+      "VardId": "MES_LOVE_6B_NO_COMMENT_CHARA_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\nAh. I see. All right. I apologize for bringing this\nup so suddenly.\n<PAGE>\n<FACE_SAD>I suppose my desire to keep you by my side has\nspurred me ahead too quickly.\n<PAGE>\n<FACE_NORMAL>This is a life-changing decision, after all. Take as\nmuch time as you need to think it over."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_HOME_CHARA_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\nNow then, let me escort you home."
+    },
+    {
+      "VardId": "MES_LOVE_6B_TALK_CHARA_CHEF",
+      "Text": "<FACE_REGER><POS_LEFT><FACE_NORMAL>\nOh, <MYNAME>. Perfect timing!\n<PAGE>\nI was just on my way to see you.\nThere's...something I want to talk to you about."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_OUT_CHARA_CHEF",
+      "Text": "<FACE_REGER><POS_LEFT><FACE_NORMAL>\nThis...is not the best venue for it, however. Let's\ngo somewhere more private."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_00_CHARA_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_NORMAL>\nWe've been dating for a long time, as you well\nnow.\n<PAGE>\nAnd, recently, I've been starting to think that it\nwould be positively lovely to have you there for\nme all the time..."
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_00_CHARA_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_NORMAL>\nBy which I mean, all day. I'd like to have you\nthere next to me to say \"good morning\" when I\nwake up...\n<PAGE>\n...and have you there at home, waiting for me\nwith a smile, when I get back late from closing\nthe restaurant.\n<PAGE>\n<FACE_LAUGH>Of course, if I get home first, then I'll be sure to\nhave the perfect dish for dinner cooked up and\nwaiting for you.\n<PAGE>\n<FACE_NORMAL>To me...that would be the happiest existence\npossible.\n<PAGE>\nI want to live that life with you, <MYNAME>. So,\num...\n<PAGE>\n<FACE_LOVE>...<MYNAME>... Will you marry me?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_01_CHARA_CHEF",
+      "Text": "Yes, I'll marry you."
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_02_CHARA_CHEF",
+      "Text": "I need more time."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_01_CHARA_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_LAUGH>\n<WINDOW_HEART2_R>You will?!\n<PAGE>\n<FACE_NORMAL>...AHEM. Sorry. I've been so nervous about this,\nI'd almost convinced myself you'd say no. So,\nuh, that just kinda popped out.\n<PAGE>\n<FACE_LOVE>I know I'm a little...overly giddy right now. But\nyou have no idea how happy I am. Or...perhaps\nyou do! Thank you, <MYNAME>..."
+    },
+    {
+      "VardId": "MES_LOVE_6B_KISS_CHARA_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_LOVE>\n<WINDOW_HEART2_R>I love you. I'll make you happy, I swear.\n<PAGE>\nSo stand by me, won't you? I want to see your\nsmile every day, from now until eternity."
+    },
+    {
+      "VardId": "MES_LOVE_6B_REPORT_CHARA_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_NORMAL>\nCome, let's go share the happy news with the\nrest of the town."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_00_CHARA_CHEF",
+      "Text": "<FACE_VERONICA><POS_LEFT><FACE_NORMAL>\nI see. So you two will be getting married?\n<PAGE>\n<FACE_LAUGH>What wonderful news! Congratulations, both of\nyou."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_01_CHARA_CHEF",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_ANGRY>\nHey! What's the big idea, Raeger?! You never\nwarned me this was comin'!\n<PAGE>\n<FACE_NORMAL>Luckily enough, I happened to be here in the\nguild office, so I overheard it.\n<PAGE>\n<FACE_SAD>You'd better not have been planning to keep me\nin the dark about it, though!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSINGRETURN_00_CHARA_CHEF",
+      "Text": "<FACE_REGER><POS_LEFT><FACE_NORMAL>\nNo, no. I was going to tell you, of course.\n<PAGE>\n...Eventually. I figured you'd probably make a\nludicrously big deal out of it, so I was just\nplanning to...save you. For last."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_02_CHARA_CHEF",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_SAD>\nHey! What was that?! I could've sworn I heard\nsomething I wouldn't like come out o' that\nmouth of yours!\n<PAGE>\n<FACE_LAUGH>...Well, whatever! Congrats to both of you. But\nyou'd better invite me to the wedding, or else!\nYou got it?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_00_CHARA_CHEF",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nOh yes. Speaking of wedding invitations, have\nthe two of you decided which wedding plan you\nwould like?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_01_CHARA_CHEF",
+      "Text": "<FACE_REGER><POS_LEFT><FACE_NORMAL>\nNot yet, no. We were just getting to that part.\nCould you give us some of the details on each\nof the plans?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_02_CHARA_CHEF",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nOf course. I would be happy to explain. We have\nthree separate wedding plans available.\n<PAGE>\n<FACE_NORMAL>There is the <BLUE>Simple Plan</BLUE>, which costs\n<BLUE>100,000G</BLUE>. Then there is the slightly larger\n<BLUE>Deluxe Plan</BLUE> for <BLUE>500,000G</BLUE>.\n<PAGE>\nOr you could choose our most extravagant\noption, the <BLUE>Luxury Plan</BLUE>, which will cost\n<BLUE>1,000,000G</BLUE>.\n<PAGE>\nMore extravagant plans allow you to invite more\nguests, and present you with more options for\nyour wedding outfits and finery.\n<PAGE>\nIn brief, as the names imply, the more expensive\nthe plan, the grander your wedding ceremony\nwill be.\n<PAGE>\nYou may come to the guild at any time during\nbusiness hours and apply for the plan of your\nchoosing.\n<PAGE>\nSo once you've made your decision, please\ncome to the <RED>guild counter during business hours</RED>\nand submit your application."
+    },
+    {
+      "VardId": "MES_LOVE_6B_END_CHARA_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_NORMAL>\nJust knowing that this ceremony is going to be\nours makes me plenty happy, <MYNAME>. I'm\nokay with any of the three.\n<PAGE>\n<FACE_LAUGH>I'll let you pick, so you can choose the one that\nwill make you the happiest. No holding back on\nmy account, okay?\n<PAGE>\nWhew. I can't even put into words how much\nI'm looking forward to this. I can't wait to hear\nwhat date it'll be set for!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_NO_COMMENT_CHARA_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_SAD>\nOh. Well, this was rather sudden, I suppose. I\nshouldn't expect an answer right away."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_HOME_CHARA_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_NORMAL>\nI've put you in a tight spot, haven't I? I'm very\nsorry. But these are my true feelings. Always\nremember that.\n<PAGE>\n...At any rate, we should return home, I believe.\nI'll see you back."
+    },
+    {
+      "VardId": "MES_LOVE_6B_TALK_CHARA_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_LAUGH>\nHave you come to visit little old me? Hee hee.\nHow kind of you!\n<PAGE>\nTo be honest, I was just thinking about going to\nvisit you myself."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_OUT_CHARA_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_NORMAL>\nI have something very important that I'd like to\ndiscuss with you, you see. But this isn't an\nappropriate venue. Shall we go elsewhere?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_00_CHARA_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_PATI>\nAllow me to get straight to the point.\n<PAGE>\n<FACE_NORMAL><MYNAME>, I wish for you to marry me."
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_00_CHARA_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_LAUGH>\nYou are a very attractive person. You are also an\nopen and friendly person...with everyone. Quick\nto befriend any creature, large or small.\n<PAGE>\nOf course, that openness of yours is what led us\nto meet, to become friends and -- eventually --\nto begin dating as we have.\n<PAGE>\n<FACE_LOSS>However, I fear I will have to ask you to be\nmore open with one person in particular. \n<PAGE>\n<FACE_LAUGH>I am hesitant to make this request, but my heart\nallows me no alternative.\n<PAGE>\n<FACE_NORMAL>I want you to marry me. To soothe my aching\nheart. Will you allow yourself to become my\n<MYNAME>?\n<PAGE>\nI know I'm being selfish in wanting you to be\nmine, but...won't you please indulge me?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_01_CHARA_ANTIQUE",
+      "Text": "Yes, I'll marry you."
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_02_CHARA_ANTIQUE",
+      "Text": "I need more time."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_01_CHARA_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_LOVE>\n<WINDOW_HEART2_R>Thank you, <MYNAME>.\n<PAGE>\nThis was indeed partially a selfish request to\ncalm my nervousness...but more than that, I\nwish for us to be a true family.\n<PAGE>\n<FACE_LAUGH>After all, my family has been only my sister and\nmyself for all too long.\n<PAGE>\nI've always thought the two of us would build a\nfamily that's as warm and pleasant as a\nsunbeam...and I've always longed for it."
+    },
+    {
+      "VardId": "MES_LOVE_6B_KISS_CHARA_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_LAUGH>\n<WINDOW_HEART2_R>Er... My, how embarrassing! If you could, ah,\npass that off as a bit of nervous yammering, I'd\nappreciate it.\n<PAGE>\nAnyway, thank you for accepting my proposal. I\npromise that I will do all in my power to make\nyou happy.\n<PAGE>\n<FACE_LOVE>...For I love you, <MYNAME>."
+    },
+    {
+      "VardId": "MES_LOVE_6B_REPORT_CHARA_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_NORMAL>\nNow, then, we ought to bring the good news of\nour marriage to my sister and the rest of the\ntown.\n<PAGE>\n<FACE_LAUGH>I simply must show off my adorable bride-to-be,\nafter all!\n<PAGE>\n...My, my. Your face has gotten awfully red. If\nyou're feeling embarrassed, there's a spot behind\nmy back for you to hide. Always.\n<PAGE>\nI would rather not let anyone else see how lovely\nyou look when you blush. That side of you...is\nfor me alone.\n<PAGE>\n...Now then, shall we be going?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_00_CHARA_ANTIQUE",
+      "Text": "<FACE_VERONICA><POS_LEFT><FACE_NORMAL>\nI see. So you two will be getting married?\n<PAGE>\n<FACE_LAUGH>What wonderful news! Congratulations, both of\nyou."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_01_CHARA_ANTIQUE",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_LAUGH>\nCongratulations! I couldn't be happier hearing\nthat two of my favorite people in the world are\ngetting married.\n<PAGE>\nMistel, you be sure you make <MYNAME>\nhappy, okay?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSINGRETURN_00_CHARA_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_LEFT><FACE_LAUGH>\nOf course I will. I will make <MYNAME> the\nhappiest bride the world has ever seen."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_02_CHARA_ANTIQUE",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\n<MYNAME>, please take good care of my little\nbrother.\n<PAGE>\nI hope the two of you will build a wonderfully\nhappy family together.\n<PAGE>\n<FACE_LAUGH>Not that I need to tell you that, I'm sure. Oho ho\nho! I look forward to receiving my wedding\ninvitation."
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_00_CHARA_ANTIQUE",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nOh yes. Speaking of wedding invitations, have\nthe two of you decided which wedding plan you\nwould like?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_01_CHARA_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_LEFT><FACE_NORMAL>\nNot yet. In fact, we were going to discuss that\nnext.\n<PAGE>\nWould you be kind enough to tell us the details\nof what plans are available?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_02_CHARA_ANTIQUE",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nOf course. I would be happy to explain. We have\nthree separate wedding plans available.\n<PAGE>\n<FACE_NORMAL>There is the <BLUE>Simple Plan</BLUE>, which costs\n<BLUE>100,000G</BLUE>. Then there is the slightly larger\n<BLUE>Deluxe Plan</BLUE> for <BLUE>500,000G</BLUE>.\n<PAGE>\nOr you could choose our most extravagant\noption, the <BLUE>Luxury Plan</BLUE>, which will cost\n<BLUE>1,000,000G</BLUE>.\n<PAGE>\nMore extravagant plans allow you to invite more\nguests, and present you with more options for\nyour wedding outfits and finery.\n<PAGE>\nIn brief, as the names imply, the more expensive\nthe plan, the grander your wedding ceremony\nwill be.\n<PAGE>\nYou may come to the guild at any time during\nbusiness hours and apply for the plan of your\nchoosing.\n<PAGE>\nSo once you've made your decision, please\ncome to the <RED>guild counter during business hours</RED>\nand submit your application."
+    },
+    {
+      "VardId": "MES_LOVE_6B_END_CHARA_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_NORMAL>\nPersonally, I do not like the idea of an overly\nfancy wedding. However, if that's what you\nwish, my love, then I shall readily concede!\n<PAGE>\n<FACE_LAUGH>So please choose whichever one you like best.\n<PAGE>\nTo me, the best plan is the one that will make\nyou the happiest.\n<PAGE>\nFor no matter how fancy the ceremony, in the\nend, it is you and I who will be the arbiters of\neach other's happiness.\n<PAGE>\n<FACE_LOVE>Hee hee. I can hardly wait for the day upon\nwhich I can finally address you as my wife!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_NO_COMMENT_CHARA_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_PATI>\nAll right. This was very sudden of me, I agree.\nPlease take your time and think it over."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_HOME_CHARA_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_NORMAL>\nFor now, it is perhaps best to head back. Would\nyou allow me the honor of seeing you home?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_TALK_CHARA_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_NORMAL>\nOh. <MYNAME>. It's you.\n<PAGE>\nPerfect timing. We need to talk."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_OUT_CHARA_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_LOSS>\nIt's not something I can bring up here, though.\nLet's go somewhere else. Come with me."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_00_CHARA_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_NORMAL>\n<MYNAME>. I'm sure you've noticed by now,\nbut I'm...not good at being all suave and saying\nthe right thing.\n<PAGE>\nSo I'm just going to be blunt and tell you exactly\nhow I feel. Okay?\n<PAGE>\n<FACE_LAUGH>I don't mind having you around, smiling your\ndopey smile at me all day.\n<PAGE>\n<FACE_LOSS>Honestly, I feel kinda lost if I go a day without it!\n<PAGE>\n<FACE_NORMAL>So I decided I want to keep you with me,\nsmiling that dumb smile forevermore.\n<PAGE>\n<FACE_LOVE><MYNAME>... Will you marry me?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_00_CHARA_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_LOVE>\nI want you to be a part of me, smiling like you\nalways do...but wider than ever before."
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_01_CHARA_GARDENER",
+      "Text": "Yes, I'll marry you."
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_02_CHARA_GARDENER",
+      "Text": "I need more time."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_01_CHARA_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_NORMAL>\n<WINDOW_HEART2_R>...So...you said yes? I'm not just hearing things?\n<PAGE>\n<FACE_LAUGH>Whew! Thank goodness! I feel so much better\nnow.\n<PAGE>\n<FACE_LOVE>I've been thinking about this proposal thing so\nmuch lately, it was starting to become like an\nobsession."
+    },
+    {
+      "VardId": "MES_LOVE_6B_KISS_CHARA_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_LAUGH>\n<WINDOW_HEART2_R>You have no idea how glad I am that I met you!\n<PAGE>\nI decided to hang around in this town for a while\nalmost on a whim, but I can't tell you how glad I\nam to have made that choice now.\n<PAGE>\n<FACE_LOVE>I love you, <MYNAME>. I hope we stay together\nforever!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_REPORT_CHARA_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_LAUGH>\n...Okay. I don't see the need to trudge all over\ntown telling everyone we're getting married, but\nwe should at least tell Veronica.\n<PAGE>\nAfter all, it's not like either of us know how this\ntown handles wedding ceremonies, right?\n<PAGE>\nThere are supposed to be a handful of different\nplans to choose from. Let's get some details\nfrom Veronica."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_00_CHARA_GARDENER",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nI see. So you two will be getting married?\n<PAGE>\n<FACE_LAUGH>What wonderful news! Congratulations, both of\nyou."
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_01_CHARA_GARDENER",
+      "Text": "<FACE_NADI><POS_LEFT><FACE_LOVE>\nThanks!\n<PAGE>\n<FACE_NORMAL>So, er, I hear this town has some different plans\npeople can choose from for their wedding.\n<PAGE>\nCould you tell us more about them?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_02_CHARA_GARDENER",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nOf course. I would be happy to explain. We have\nthree separate wedding plans available.\n<PAGE>\n<FACE_NORMAL>There is the <BLUE>Simple Plan</BLUE>, which costs\n<BLUE>100,000G</BLUE>. Then there is the slightly larger\n<BLUE>Deluxe Plan</BLUE> for <BLUE>500,000G</BLUE>.\n<PAGE>\nOr you could choose our most extravagant\noption, the <BLUE>Luxury Plan</BLUE>, which will cost\n<BLUE>1,000,000G</BLUE>.\n<PAGE>\nMore extravagant plans allow you to invite more\nguests, and present you with more options for\nyour wedding outfits and finery.\n<PAGE>\nIn brief, as the names imply, the more expensive\nthe plan, the grander your wedding ceremony\nwill be.\n<PAGE>\nYou may come to the guild at any time during\nbusiness hours and apply for the plan of your\nchoosing.\n<PAGE>\nSo once you've made your decision, please\ncome to the <RED>guild counter during business hours</RED>\nand submit your application."
+    },
+    {
+      "VardId": "MES_LOVE_6B_END_CHARA_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_NORMAL>\nHmm. I'm guessing you'll have more of a\npreference here than I do...so you pick!\n<PAGE>\n<FACE_LOSS>If you tell me to, I'm warning you right now I'll\ngo straight for the Simple Plan. That's just how I\nroll!\n<PAGE>\n<FACE_LAUGH>This is going to be a once-in-a-lifetime memory,\nthough, especially for the blushing bride. So\npick whichever one will make you happiest.\n<PAGE>\nI'll wait as long as it takes, so feel free to take\nyour time and think it over.\n<PAGE>\n<FACE_LOVE>After all, this is our wedding. Just the fact that\nit's happening at all is enough to make me\npositively giddy!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_NO_COMMENT_CHARA_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_SAD>\nOh...okay. Sorry to bring this up so suddenly."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_HOME_CHARA_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_NORMAL>\n...Anyway, what do you say we head back?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_TALK_CHARA_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_NORMAL>\nOh, hi <MYNAME>. Your timing is perfect.\n<PAGE>\nI've got something I want to talk to you about."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_OUT_CHARA_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_LOSS>\nI'd, er, rather not do it here. Let's go somewhere\nelse. Follow me, please."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_00_CHARA_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_NORMAL>\nY'know, being with you like this feels so nice.\nSo right.\n<PAGE>\n<FACE_LAUGH>I bet if we were married, every day would be this\npleasant and peaceful."
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_00_CHARA_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_NORMAL>\nEr...<MYNAME>?\n<PAGE>\nI want to be with you forever.\n<PAGE>\nI don't want what I said a minute ago to be just\na random example. I want it to be real.\n<PAGE>\n<FACE_LOVE>So, <MYNAME>? Will you marry me?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_01_CHARA_KAMIRU",
+      "Text": "Yes, I'll marry you."
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_02_CHARA_KAMIRU",
+      "Text": "I need more time."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_01_CHARA_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_LOVE>\n<WINDOW_HEART2_R>Thank you, <MYNAME>. You have no idea how\nglad I am to hear that.\n<PAGE>\nI'll make you happy, I swear. Let's build a\nbeautiful, peaceful family together."
+    },
+    {
+      "VardId": "MES_LOVE_6B_KISS_CHARA_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_LOVE>\n<WINDOW_HEART2_R>I love you, <MYNAME>. I'm so glad that we\nfound each other."
+    },
+    {
+      "VardId": "MES_LOVE_6B_REPORT_CHARA_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_LAUGH>\nI guess I'm going to have to write a letter to my\nold hometown, letting them know I'm getting\nmarried.\n<PAGE>\n<FACE_NORMAL>But we can give the good news to the people\nhere ourselves. Let's go together, okay?\n<PAGE>\nWe should probably tell Veronica first. We'll have\nto ask her about how to set up the ceremony\nand stuff, too."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_00_CHARA_KAMIRU",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nI see. So you two will be getting married?\n<PAGE>\n<FACE_LAUGH>What wonderful news. Congratulations, both of\nyou."
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_01_CHARA_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_LEFT><FACE_LOVE>\nThank you.\n<PAGE>\n<FACE_NORMAL>I heard there are different plans we can pick\nfrom for the ceremony.\n<PAGE>\nCould you tell us a little more about them,\nplease?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_02_CHARA_KAMIRU",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nOf course. I would be happy to explain. We have\nthree separate wedding plans available.\n<PAGE>\n<FACE_NORMAL>There is the <BLUE>Simple Plan</BLUE>, which costs\n<BLUE>100,000G</BLUE>. Then there is the slightly larger\n<BLUE>Deluxe Plan</BLUE> for <BLUE>500,000G</BLUE>.\n<PAGE>\nOr you could choose our most extravagant\noption, the <BLUE>Luxury Plan</BLUE>, which will cost\n<BLUE>1,000,000G</BLUE>.\n<PAGE>\nMore extravagant plans allow you to invite more\nguests, and present you with more options for\nyour wedding outfits and finery.\n<PAGE>\nIn brief, as the names imply, the more expensive\nthe plan, the grander your wedding ceremony\nwill be.\n<PAGE>\nYou may come to the guild at any time during\nbusiness hours and apply for the plan of your\nchoosing.\n<PAGE>\nSo once you've made your decision, please\ncome to the <RED>guild counter during business hours</RED>\nand submit your application."
+    },
+    {
+      "VardId": "MES_LOVE_6B_END_CHARA_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_NORMAL>\nWhich plan do you like best, <MYNAME>? I'm\nsure you have your dream wedding like a lot of\ngirls do, right?\n<PAGE>\n<FACE_LAUGH>This will be our one and only wedding, so I want\nyou to pick whichever plan will make you the\nhappiest.\n<PAGE>\n<FACE_LOVE>Besides, just knowing that this will be our\nceremony already makes it the best to me.\n<PAGE>\n<FACE_LAUGH>I can't wait to see which one you decide on!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_NO_COMMENT_CHARA_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_NORMAL>\n...Okay. This is a big decision, after all. Take\nyour time and think it over."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_HOME_CHARA_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_NORMAL>\nAnyway, we should probably head back. Let me\nsee you home."
+    },
+    {
+      "VardId": "MES_LOVE_6B_TALK_CHARA_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_LEFT><FACE_LOSS>\nEEP!! <MYNAME>?!\n<PAGE>\n<FACE_LAUGH>Er, i-it's nothing. I was, ah...lost in thought, is\nall.\n<PAGE>\n<FACE_NORMAL><MYNAME>, there is something I'd like to\ndiscuss with you. Something very important."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_OUT_CHARA_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_LEFT><FACE_LOSS>\nI, er, I would rather not talk about it here.\n<PAGE>\nAnd besides, you appeared out of nowhere and\nstartled me. I-I'm still not ready to--\n<PAGE>\n<FACE_LAUGH>AHEM. Nothing. I was talking to myself, that's\nall. Anyway, let us be off."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_00_CHARA_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\n<MYNAME>?\n<PAGE>\nTo be honest, I've actually grown rather fond of\nyour ridiculously lackadaisical approach to\neverything.\n<PAGE>\n<FACE_LOSS>But it has been some time now since we began\ndating.\n<PAGE>\nDon't you think it's about time we considered\nour future?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_00_CHARA_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOSS>\nWhat do I mean by \"future?\" Can't you guess?!\nGoodness gracious!\n<PAGE>\n<FACE_ANGRY>Do you still not understand? Ugh, you can be so\ndense!!\n<PAGE>\n<FACE_LOVE>I am trying to ask you if you want to marry me!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_01_CHARA_RICHGIRL",
+      "Text": "Yes, I'll marry you."
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_02_CHARA_RICHGIRL",
+      "Text": "I need more time."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_01_CHARA_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LOVE>\n<WINDOW_HEART2_R>Wh-what? You already had one of those on\nhand? So you've been ready to marry me!\n<PAGE>\n<FACE_ANGRY>Then why didn't you propose to me sooner, you\nlayabout?!\n<PAGE>\n<FACE_SAD>Making me wait long enough that I had to\npropose to you myself. Which, I'll have you\nknow, is improper for a lady!\n<PAGE>\n<FACE_LOVE>In fact, i-it's horribly embarrassing...!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_KISS_CHARA_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\n<WINDOW_HEART2_R>Ah well. I know that you were thinking of me, in\nyour own way.\n<PAGE>\nThat makes me happy enough, and generous\nenough, to forgive you.\n<PAGE>\n<FACE_LOVE>I love you, <MYNAME>. Now I expect you to\nmake me the happiest bride in the world,\nunderstand?\n<PAGE>\nI, of course, shall make you the happiest groom\nin the world. It's only fair."
+    },
+    {
+      "VardId": "MES_LOVE_6B_REPORT_CHARA_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\nWell then, as annoying as it may be, we should\nnow go inform everyone of the happy news.\n<PAGE>\nCome, let's go, <MYNAME>."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_00_CHARA_RICHGIRL",
+      "Text": "<FACE_VERONICA><POS_LEFT><FACE_NORMAL>\nI see. So you two will be getting married?\n<PAGE>\n<FACE_LAUGH>What wonderful news. Congratulations, both of\nyou."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_01_CHARA_RICHGIRL",
+      "Text": "Congratulations, Lady Elise. Master <MYNAME>."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSINGRETURN_00_CHARA_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_LEFT><FACE_LAUGH>\nThank you. Once I get home, I will send a letter\nto my family immediately.\n<PAGE>\nPlease have everything ready for me."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_02_CHARA_RICHGIRL",
+      "Text": "As you wish, Lady Elise. What shall we do about\nthe wedding invitations? As it will be a very\nspecial occasion...\n<PAGE>\n...Might I suggest that we invite all of your\nacquaintances, to make the ceremony fittingly\nextravagant?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_00_CHARA_RICHGIRL",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nOh, yes. Speaking of which, have the two of you\ndecided which wedding plan you would like?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_01_CHARA_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_LEFT><FACE_NORMAL>\nNo, we haven't yet decided. Could you please tell\nus what each of these plans involves in more\ndetail?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_02_CHARA_RICHGIRL",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nOf course. I would be happy to explain. We have\nthree separate wedding plans available.\n<PAGE>\n<FACE_NORMAL>There is the <BLUE>Simple Plan</BLUE>, which costs\n<BLUE>100,000G</BLUE>. Then there is the slightly larger\n<BLUE>Deluxe Plan</BLUE> for <BLUE>500,000G</BLUE>.\n<PAGE>\nOr you could choose our most extravagant\noption, the <BLUE>Luxury Plan</BLUE>, which will cost\n<BLUE>1,000,000G</BLUE>.\n<PAGE>\nMore extravagant plans allow you to invite more\nguests, and present you with more options for\nyour wedding outfits and finery.\n<PAGE>\nIn brief, as the names imply, the more expensive\nthe plan, the grander your wedding ceremony\nwill be.\n<PAGE>\nYou may come to the guild at any time during\nbusiness hours and apply for the plan of your\nchoosing.\n<PAGE>\nSo once you've made your decision, please\ncome to the <RED>guild counter during business hours</RED>\nand submit your application."
+    },
+    {
+      "VardId": "MES_LOVE_6B_END_CHARA_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\nWell, this will be my wedding. You would never\nconsider making it drab or spartan...would you?\n<PAGE>\n<FACE_LOVE>Though, then again, I'll be with you in any case.\nThat does guarantee a certain...splendor, I\nsuppose.\n<PAGE>\nA-anyway, I will leave the decision to you! Be\nsure to use your best, most considerate\njudgment, as befits a man!\n<PAGE>\n<FACE_LAUGH>I can hardly wait to find out when our special\nday will be."
+    },
+    {
+      "VardId": "MES_LOVE_6B_NO_COMMENT_CHARA_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_ANGRY>\nI present to you the perfect opportunity, and\neven go so far as to embarrass myself proposing\nto you, and you say you \"need time\"?!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_HOME_CHARA_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_SAD>\nOh, enough of this. Let's be off home, then.\n<PAGE>\n<FACE_NORMAL>But I'd much rather not stay this way forever. Be\nsure you give your decision proper--and timely!-\n-thought."
+    },
+    {
+      "VardId": "MES_LOVE_6B_TALK_CHARA_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_LAUGH>\nMy, my. Have you come to visit me,\n<MYNAME>? How nice!\n<PAGE>\nToday's a special occasion. I have something\nvery important I would like to talk to you about."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_OUT_CHARA_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\nI'd rather not try to talk about it here. Come with\nme. Let's go somewhere more private."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_00_CHARA_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\n<MYNAME>? Have you given any thought to the\nfuture?\n<PAGE>\nWell, to our future, I mean. I'm not getting any\nyounger, you know. I can't afford to wait much\nlonger.\n<PAGE>\n<FACE_SAD>The moment I decided I wanted to date you, I\nthought ahead to this. Have you?\n<PAGE>\nTo be blunt, I'm asking if you have any intention\nto marry me."
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_00_CHARA_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_LOVE>\nI want to be your wife. I want you to be there for\nme, and I want to be there for you. Not just\nnow, but always.\n<PAGE>\n<FACE_LOVE><MYNAME>? Will you marry me?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_01_CHARA_WRITER",
+      "Text": "Yes, I'll marry you."
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_02_CHARA_WRITER",
+      "Text": "I need more time."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_01_CHARA_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_LOVE>\n<WINDOW_HEART2_R>Thank you. You have no idea how happy I am to\nhear that.\n<PAGE>\nStill, it takes an awful lot of courage to propose\nto someone.\n<PAGE>\nIt's been ages since my heart's pounded this\nhard. Exciting, isn't it? Hee hee."
+    },
+    {
+      "VardId": "MES_LOVE_6B_KISS_CHARA_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\n<WINDOW_HEART2_R>I know I must have rushed your decision, but I\ndon't want you to regret that.\n<PAGE>\n<FACE_LAUGH>I promise I'll make you happy and content to be\nmy husband.\n<PAGE>\nI hope you'll make a very happy wife out of me,\ntoo. I'm sure we can build a wonderful family\ntogether.\n<PAGE>\n<FACE_LOVE>I love you, <MYNAME>."
+    },
+    {
+      "VardId": "MES_LOVE_6B_REPORT_CHARA_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\nNow then, I ought to let my brother and the rest\nof the town in on the good news. Would you\ncare to join me?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_00_CHARA_WRITER",
+      "Text": "<FACE_VERONICA><POS_LEFT><FACE_NORMAL>\nI see. So you two will be getting married?\n<PAGE>\n<FACE_LAUGH>What wonderful news. Congratulations, both of\nyou."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_01_CHARA_WRITER",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_LAUGH>\nIris. <MYNAME>. Congratulations.\n<PAGE>\nI'm very grateful to you for taking care of me as\nlong as you have, Iris.\n<PAGE>\nBut now I want you to focus on making yourself\nhappy. Happy with <MYNAME>. You've earned\nit."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSINGRETURN_00_CHARA_WRITER",
+      "Text": "<FACE_IRIS><POS_LEFT><FACE_LAUGH>\nGoodness, you almost make it sound like this is\nthe last time we'll ever see each other.\n<PAGE>\n<FACE_NORMAL>And it was no trouble at all for me to take care\nof you. Not in the least.\n<PAGE>\nThere were many things I wouldn't have been\nable to do without your help, too, you know.\nBut...thank you.\n<PAGE>\n<FACE_LAUGH>Though we won't be living under the same roof,\nwe'll still be living in the same town...\n<PAGE>\nAnd we'll always be family, regardless of\nmarriage. Please remember that."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_02_CHARA_WRITER",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_LAUGH>\nI will, Iris.\n<PAGE>\n<MYNAME>, please take good care of my sister\nfor me.\n<PAGE>\nI hope you'll invite me to the ceremony. But of\ncourse, if you want it to be a private affair, I\nwouldn't object..."
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_00_CHARA_WRITER",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nOh yes. Speaking of wedding invitations, have\nthe two of you decided which wedding plan you\nwould like?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_01_CHARA_WRITER",
+      "Text": "<FACE_IRIS><POS_LEFT><FACE_NORMAL>\nNot yet, no. We were going to think about that\nnext.\n<PAGE>\nWould you please be so kind as to tell us in\ndetail what sorts of plans are available?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_02_CHARA_WRITER",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nOf course. I would be happy to explain. We have\nthree separate wedding plans available.\n<PAGE>\n<FACE_NORMAL>There is the <BLUE>Simple Plan</BLUE>, which costs\n<BLUE>100,000G</BLUE>. Then there is the slightly larger\n<BLUE>Deluxe Plan</BLUE> for <BLUE>500,000G</BLUE>.\n<PAGE>\nOr you could choose our most extravagant\noption, the <BLUE>Luxury Plan</BLUE>, which will cost\n<BLUE>1,000,000G</BLUE>.\n<PAGE>\nMore extravagant plans allow you to invite more\nguests, and present you with more options for\nyour wedding outfits and finery.\n<PAGE>\nIn brief, as the names imply, the more expensive\nthe plan, the grander your wedding ceremony\nwill be.\n<PAGE>\nYou may come to the guild at any time during\nbusiness hours and apply for the plan of your\nchoosing.\n<PAGE>\nSo once you've made your decision, please\ncome to the <RED>guild counter during business hours</RED>\nand submit your application."
+    },
+    {
+      "VardId": "MES_LOVE_6B_END_CHARA_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_LOVE>\nPersonally, I'll be happy with whichever one,\nsince I'll be sharing the ceremony with you.\n<PAGE>\nBut I'll let you make the decision, <MYNAME>.\nI'm already waiting for our special day with bated\nbreath."
+    },
+    {
+      "VardId": "MES_LOVE_6B_NO_COMMENT_CHARA_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_SAD>\nAll right. I'll wait for you to decide one way or\nthe other.\n<PAGE>\n<FACE_NORMAL>But please don't keep me waiting too long.\n<PAGE>\n<FACE_LAUGH>A woman's heart can be a fickle thing, you\nknow. Remember that."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_HOME_CHARA_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_PATI>\nNow then, let's head home."
+    },
+    {
+      "VardId": "MES_LOVE_6B_TALK_CHARA_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_LEFT><FACE_LOVE>\nYEEP?!\n<PAGE>\n<FACE_LOSS>H-how?! Wh-why are you here?! I haven't even\ntold you I need to talk to you yet!\n<PAGE>\nHm? What is it I need to talk to you about?\n<PAGE>\nO-oh, um...geez you startled me..."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_OUT_CHARA_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_LEFT><FACE_LOVE>\nUmm...right. Anyway, <MYNAME>, there's\nsomething I need to talk to you about.\n<PAGE>\n<FACE_LAUGH>B-but you popped up so suddenly I'm not quite\nready yet! So, um, l-let's walk somewhere else,\nokay?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_00_CHARA_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_NORMAL>\nUm, <MYNAME>?\n<PAGE>\nI did tell you that you're the first person I've ever\ngone out with, right?\n<PAGE>\nSo you've been giving me a whole lot of firsts\nthis whole time we've been together.\n<PAGE>\n<FACE_LAUGH>My first date. My first time holding hands with a\nboyfriend, the first time I've been worried about\nbreaking up...\n<PAGE>\nIt's all been fun and surprising and wonderful\nand a teeny little bit painful, too.\n<PAGE>\n<FACE_NORMAL>I've been so overwhelmed by all those firsts I\ndidn't know what I was doing, but you've stuck\nby me the whole time.\n<PAGE>\nThe longer we've been together, the more I've\nfallen for you, and the more I've wanted from\nyou.\n<PAGE>\n<FACE_LOVE>I...I want to be with you forever. I want to share\nlots more firsts with you.\n<PAGE>\nSo <MYNAME>...? W-will you please m-m-\nmarry me?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_00_CHARA_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_LOVE>\nOr...d-don't you want me?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_01_CHARA_WEATHERGIRL",
+      "Text": "Yes, I'll marry you."
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_02_CHARA_WEATHERGIRL",
+      "Text": "I need more time."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_01_CHARA_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_LOVE>\n<WINDOW_HEART2_R>Really?! Oh thank goodness...! I'm so glad I\nmade myself get up the courage to do this..."
+    },
+    {
+      "VardId": "MES_LOVE_6B_KISS_CHARA_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_LAUGH>\n<WINDOW_HEART2_R>Hee hee! This is the first time I've gotten a blue\nfeather. There's another \"first\" to add to the list.\n<PAGE>\nThanks, <MYNAME>. You've always been The\nOne for me, I know it.\n<PAGE>\n<FACE_LOVE>I...I love you, <MYNAME>. And I can't wait to\nshare even more firsts with you."
+    },
+    {
+      "VardId": "MES_LOVE_6B_REPORT_CHARA_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_LOVE>\nI've gotta go tell the good news to my Dad and\nto Melanie! Oh, and the rest of the town, too.\nAre you gonna come with?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_00_CHARA_WEATHERGIRL",
+      "Text": "<FACE_VERONICA><POS_LEFT><FACE_NORMAL>\nI see. So you two will be getting married?\n<PAGE>\n<FACE_LAUGH>What wonderful news. Congratulations, both of\nyou."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_01_CHARA_WEATHERGIRL",
+      "Text": "<FACE_MORRIS><POS_RIGHT><FACE_LAUGH>\nThis is great news! Congrats, both of you!\n<PAGE>\n<FACE_MELTY><POS_LEFT><FACE_LAUGH>Heehee! I knew <MYNAME> was going to be\nyour prince someday, Lillie. Congrats! ♪"
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSINGRETURN_00_CHARA_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_LEFT><FACE_LOVE>\nTh-thanks..."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_02_CHARA_WEATHERGIRL",
+      "Text": "<FACE_MORRIS><POS_LEFT><FACE_LAUGH>\nI'm sure your mother is smiling down on you\nboth from her cloud in heaven. <MYNAME>,\ntake good care of my daughter, okay?\n<PAGE>\n<FACE_MELTY><POS_RIGHT><FACE_LAUGH>I can't wait for the ceremony! You'll invite us\ntoo, won't you, Lillie?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_00_CHARA_WEATHERGIRL",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nOh, yes. Speaking of invitations, have the two of\nyou decided which wedding plan you would\nlike?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_01_CHARA_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_LEFT><FACE_NORMAL>\nOh, um, not yet. We were going to do that next.\nCould you give us the details on what plans are\navailable?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_02_CHARA_WEATHERGIRL",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nOf course. I would be happy to explain. We have\nthree separate wedding plans available.\n<PAGE>\n<FACE_NORMAL>There is the <BLUE>Simple Plan</BLUE>, which costs\n<BLUE>100,000G</BLUE>. Then there is the slightly larger\n<BLUE>Deluxe Plan</BLUE> for <BLUE>500,000G</BLUE>.\n<PAGE>\nOr you could choose our most extravagant\noption, the <BLUE>Luxury Plan</BLUE>, which will cost\n<BLUE>1,000,000G</BLUE>.\n<PAGE>\nMore extravagant plans allow you to invite more\nguests, and present you with more options for\nyour wedding outfits and finery.\n<PAGE>\nIn brief, as the names imply, the more expensive\nthe plan, the grander your wedding ceremony\nwill be.\n<PAGE>\nYou may come to the guild at any time during\nbusiness hours and apply for the plan of your\nchoosing.\n<PAGE>\nSo once you've made your decision, please\ncome to the <RED>guild counter during business hours</RED>\nand submit your application."
+    },
+    {
+      "VardId": "MES_LOVE_6B_END_CHARA_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_LAUGH>\nWow. Big choice, then.\n<PAGE>\n<FACE_LOVE>Me, I'll be happy as long as I'm with you. It\ndoesn't matter how big or small the ceremony\nis.\n<PAGE>\nSo go ahead and pick whichever one you want. I\ncan't wait to hear what you decide."
+    },
+    {
+      "VardId": "MES_LOVE_6B_NO_COMMENT_CHARA_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_SAD>\nO-oh. Right. Bringing up something this major\nso suddenly does put you in a tight spot, doesn't\nit?\n<PAGE>\n<FACE_LAUGH>I, um, I'm sorry. I guess I kinda got ahead of\nmyself, there!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_HOME_CHARA_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_NORMAL>\nTake your time and think it over. Though I'm so\nembarrassed right now I almost want you to\nforget any of this happened.\n<PAGE>\n<FACE_LAUGH>A-anyway! Let's go home. I've, um, got stuff to\ndo. See you!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_TALK_CHARA_RANGER",
+      "Text": "<FACE_MENOU><POS_LEFT><FACE_LAUGH>\n<MYNAME>! You came to see me? Yay!\n<PAGE>\nI was just thinking about you, too.\n<PAGE>\nI have something super important that I want to\ntalk to you about, so I was hoping I'd see you..."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_OUT_CHARA_RANGER",
+      "Text": "<FACE_MENOU><POS_LEFT><FACE_NORMAL>\nThis isn't the best place to talk about it, though,\nso let's go somewhere else, okay? Come on,\nfollow me."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_00_CHARA_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_NORMAL>\n...See, lately I've been thinking about you pretty\nmuch all day, every day.\n<PAGE>\n<FACE_LOSS>Ever since we became a couple, we've spent lots\nand lots more time together...\n<PAGE>\nBut no matter how many times we say we love\neach other, or how long we're together, it's just\nnot really enough for me. I want more.\n<PAGE>\n<FACE_LOVE>So...<MYNAME>? Will you...marry me...please?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_00_CHARA_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_LOVE>\nIf we get married, then we can tell each other\nhow much we love one another even more! And\nwe can stay together aaaall day!\n<PAGE>\nSo, um...what do you think, <MYNAME>? Do\nyou want to marry me so we can stay together\nforever and ever?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_01_CHARA_RANGER",
+      "Text": "Yes, I'll marry you."
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_02_CHARA_RANGER",
+      "Text": "I need more time."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_01_CHARA_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_LOVE>\n<WINDOW_HEART2_R>Yay! I'm so happy! We both feel the same way!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_KISS_CHARA_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_LAUGH>\n<WINDOW_HEART2_R>Hee hee hee! Now we can get married and stay\ntogether all the time! It's like a dream come true!\n<PAGE>\n<FACE_LOVE>I love you, <MYNAME>. Let's be a super-happy\nfamily together!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_REPORT_CHARA_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_LAUGH>\n...Oh, right! We should go tell everyone in town\nthe good news. Happiness is meant to be\nshared, after all!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_00_CHARA_RANGER",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nI see. So you two will be getting married?\n<PAGE>\n<FACE_LAUGH>What wonderful news! Congratulations, both of\nyou."
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_01_CHARA_RANGER",
+      "Text": "<FACE_MENOU><POS_LEFT><FACE_LOVE>\nThanks!\n<PAGE>\n<FACE_NORMAL>But we have to pick a certain type of plan before\nwe can have our wedding ceremony, right?\n<PAGE>\nCould you please tell us more about those\nplans?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_02_CHARA_RANGER",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nOf course. I would be happy to explain. We have\nthree separate wedding plans available.\n<PAGE>\n<FACE_NORMAL>There is the <BLUE>Simple Plan</BLUE>, which costs\n<BLUE>100,000G</BLUE>. Then there is the slightly larger\n<BLUE>Deluxe Plan</BLUE> for <BLUE>500,000G</BLUE>.\n<PAGE>\nOr you could choose our most extravagant\noption, the <BLUE>Luxury Plan</BLUE>, which will cost\n<BLUE>1,000,000G</BLUE>.\n<PAGE>\nMore extravagant plans allow you to invite more\nguests, and present you with more options for\nyour wedding outfits and finery.\n<PAGE>\nIn brief, as the names imply, the more expensive\nthe plan, the grander your wedding ceremony\nwill be.\n<PAGE>\nYou may come to the guild at any time during\nbusiness hours and apply for the plan of your\nchoosing.\n<PAGE>\nSo once you've made your decision, please\ncome to the <RED>guild counter during business hours</RED>\nand submit your application."
+    },
+    {
+      "VardId": "MES_LOVE_6B_END_CHARA_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_NORMAL>\nHmm... Which one should we go with? It's so\nhard to choose!\n<PAGE>\nI'll be happy with whatever plan you want,\n<MYNAME>.\n<PAGE>\n<FACE_LOVE>After all, getting married to you is all the\nhappiness I could ever ask for. The rest is just\ngravy!\n<PAGE>\n<FACE_LAUGH>So you might as well select the gravy, since I\nthink of them all as equally tasty.\n<PAGE>\nHeh. I can't wait for the day when I can say I'm\nyour wife!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_NO_COMMENT_CHARA_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_SAD>\nOh... Okay. You're right. There are a whole lot of\nthings you need to think about first. You can't\njust agree to marry someone on a whim.\n<PAGE>\nJust because you want to be with someone\ndoesn't mean you should let your feelings get\nout of control, right?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_HOME_CHARA_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_SAD>\nI'm sorry if my proposal put you in an awkward\nposition, <MYNAME>. Um... Maybe we should\ngo home now?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_TALK_CHARA_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_NORMAL>\n...!!\n<PAGE>\n<FACE_LOSS>Don't startle me like that! I was busy running\nmental simulations of how to propo--"
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_OUT_CHARA_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LOSS>\nI mean how to...to repurpose! Placards! Y-yes, I\nwas just running mental simulations on how to\nrepurpose patient placards...\n<PAGE>\n<FACE_SAD>...Oh, enough of this! Come with me."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_00_CHARA_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LOSS>\nHonestly, you always do such unexpected\nthings, I hardly know what to do with you.\n<PAGE>\nYou can be so dense, I suspect you even bought\nthat \"placard\" nonsense.\n<PAGE>\nThat said, I have the feeling that if I miss this\nopportunity, I won't ever again be able to say\nwhat I need to say to you.\n<PAGE>\n<FACE_NORMAL>So let me say it now. Firstly, I'm skilled at all\nhouse chores. As a nurse, I'm also familiar with\nfirst aid.\n<PAGE>\nI'm confident...eeexcept when you surprise me,\nand I'm capable of handling most situations\nrationally.\n<PAGE>\nDon't give me that look. I'm getting to the point\nhere.\n<PAGE>\nFor all those reasons, I believe I'd make an\nexcellent wife.\n<PAGE>\n<FACE_LOVE>Accordingly, <MYNAME>, I would like you to m-\nm-marry me."
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_00_CHARA_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LOVE>\nIf you have even the glimmer of a desire to marry\nme...\n<PAGE>\nWill you please say yes?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_01_CHARA_NURSE",
+      "Text": "Yes, I'll marry you."
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_02_CHARA_NURSE",
+      "Text": "I need more time."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_01_CHARA_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LOVE>\n<WINDOW_HEART2_R>Thank goodness. That did not go at all the way\nI'd predicted, but I'm glad it worked out.\n<PAGE>\n<FACE_LOSS>Hm? All I needed to do was say, \"I love you,\nplease marry me?\" The long-winded listing of\nmy virtues was unnecessary?\n<PAGE>\n<FACE_LOVE>Wh-why didn't you tell me that sooner?!\n<PAGE>\nIt was highly embarrassing to brag about myself,\nyou know!"
+    },
+    {
+      "VardId": "MES_LOVE_6B_KISS_CHARA_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LOVE>\n<WINDOW_HEART2_R>I don't know when it happened, but I'm officially,\nhopelessly in love with you.\n<PAGE>\nI never expected that when we first met.\n<PAGE>\nIn fact, I never thought I'd ever want to marry\nsomeone so badly that I would decide to\npropose to them myself.\n<PAGE>\nThis truly is a very odd feeling...but a good one.\nA great one."
+    },
+    {
+      "VardId": "MES_LOVE_6B_REPORT_CHARA_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LOVE>\nNow then, we'll need to give my mother the\ngood news. Though, er, actually saying I'm\ngetting m-married may be difficult.\n<PAGE>\n<MYNAME>, would you come with me, please?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_00_CHARA_NURSE",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nI see. So you two will be getting married?\n<PAGE>\n<FACE_LAUGH>What wonderful news. Congratulations, both of\nyou."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_01_CHARA_NURSE",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nIt's wonderful that you've managed to find\nsomeone as special as <MYNAME>, Angela.\nCongratulations."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSINGRETURN_00_CHARA_NURSE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\nI think so too. In fact, I sometimes have to\nwonder if I'll ever be worthy of someone so\namazing."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_02_CHARA_NURSE",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nAh, I see he's helped you learn to express your\nfeelings as well.\n<PAGE>\n<FACE_NORMAL><MYNAME>, please take very good care of my\ndaughter.\n<PAGE>\nOh, yes. Have you two decided on which\nwedding plan you'll choose?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_01_CHARA_NURSE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_NORMAL>\nNo, not yet. We were going to discuss that next.\nCould you please provide the details for each of\nthe available plans?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_02_CHARA_NURSE",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nOf course. I would be happy to explain. We have\nthree separate wedding plans available.\n<PAGE>\n<FACE_NORMAL>There is the <BLUE>Simple Plan</BLUE>, which costs\n<BLUE>100,000G</BLUE>. Then there is the slightly larger\n<BLUE>Deluxe Plan</BLUE> for <BLUE>500,000G</BLUE>.\n<PAGE>\nOr you could choose our most extravagant\noption, the <BLUE>Luxury Plan</BLUE>, which will cost\n<BLUE>1,000,000G</BLUE>.\n<PAGE>\nMore extravagant plans allow you to invite more\nguests, and present you with more options for\nyour wedding outfits and finery.\n<PAGE>\nIn brief, as the names imply, the more expensive\nthe plan, the grander your wedding ceremony\nwill be.\n<PAGE>\nYou may come to the guild at any time during\nbusiness hours and apply for the plan of your\nchoosing.\n<PAGE>\nSo once you've made your decision, please\ncome to the <RED>guild counter during business hours</RED>\nand submit your application."
+    },
+    {
+      "VardId": "MES_LOVE_6B_END_CHARA_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_NORMAL>\nHmm, I'll let you choose the plan for us,\n<MYNAME>.\n<PAGE>\nThe idea of having lots of people come to\ncelebrate our wedding does, of course, sound\nvery attractive...\n<PAGE>\n<FACE_LOVE>But I'm happy just knowing that this ceremony\nwill be ours. I couldn't ask for anything more.\n<PAGE>\nI can hardly wait to hear which one you've\nchosen."
+    },
+    {
+      "VardId": "MES_LOVE_6B_NO_COMMENT_CHARA_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_SAD>\nI see. All right.\n<PAGE>\n<FACE_NORMAL>Marriage is one of the most important decisions\nin a person's life. Please take your time and think\nit over."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_HOME_CHARA_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_SAD>\nNow then, if you'll excuse me... Goodbye."
+    },
+    {
+      "VardId": "MES_LOVE_6B_TALK_CHARA_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\n<MYNAME>. Good timing. I need to talk to you."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_OUT_CHARA_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\nEr...not here, though. Let's go somewhere else."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_00_CHARA_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\nThere's something I've been thinking about\nlately... I'm a very selfish person.\n<PAGE>\nSince we began dating, the time I spend with\nyou is second only to the time I spend studying\nmy plants.\n<PAGE>\nBefore, that was enough for me. But now...\n<PAGE>\n<FACE_LOVE>Now I'm starting to think that I want to spend\njust as much time -- no, even more time -- with\nyou than with my plants."
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_00_CHARA_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\nSo <MYNAME>? Will you please...m-marry me?\nI want to be with you more than anything."
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_01_CHARA_RIKORISU",
+      "Text": "Yes, I'll marry you."
+    },
+    {
+      "VardId": "MES_LOVE_6B_SELECT_02_CHARA_RIKORISU",
+      "Text": "I need more time."
+    },
+    {
+      "VardId": "MES_LOVE_6B_COMMENT_01_CHARA_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\n<WINDOW_HEART2_R>Thank you. I-I'm glad I decided to get that off\nmy chest."
+    },
+    {
+      "VardId": "MES_LOVE_6B_KISS_CHARA_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOVE>\n<WINDOW_HEART2_R>I love you, <MYNAME>. I hope we'll be together\nfor a long time to come."
+    },
+    {
+      "VardId": "MES_LOVE_6B_REPORT_CHARA_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\nOh, yes. I will have to tell the happy news to all\nof my friends.\n<PAGE>\nIt would also be a good idea to speak with\nVeronica about how weddings are performed in\nthis town.\n<PAGE>\nI've heard that there are at least a few different\nplans we can choose from.\n<PAGE>\nLet's go give her the news and see what she can\ntell us."
+    },
+    {
+      "VardId": "MES_LOVE_6B_BLESSING_00_CHARA_RIKORISU",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_NORMAL>\nI see. So you two will be getting married?\n<PAGE>\n<FACE_LAUGH>What wonderful news. Congratulations, both of\nyou."
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_01_CHARA_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_LEFT><FACE_LAUGH>\nThank you.\n<PAGE>\n<FACE_NORMAL>I've heard this town offers several different\nwedding ceremony plans.\n<PAGE>\nCould you tell us what some of those plans\ninvolve, please?"
+    },
+    {
+      "VardId": "MES_LOVE_6B_ABOUT_WEDDING_02_CHARA_RIKORISU",
+      "Text": "<FACE_VERONICA><POS_RIGHT><FACE_LAUGH>\nOf course. I would be happy to explain. We have\nthree separate wedding plans available.\n<PAGE>\n<FACE_NORMAL>There is the <BLUE>Simple Plan</BLUE>, which costs\n<BLUE>100,000G</BLUE>. Then there is the slightly larger\n<BLUE>Deluxe Plan</BLUE> for <BLUE>500,000G</BLUE>.\n<PAGE>\nOr you could choose our most extravagant\noption, the <BLUE>Luxury Plan</BLUE>, which will cost\n<BLUE>1,000,000G</BLUE>.\n<PAGE>\nMore extravagant plans allow you to invite more\nguests, and present you with more options for\nyour wedding outfits and finery.\n<PAGE>\nIn brief, as the names imply, the more expensive\nthe plan, the grander your wedding ceremony\nwill be.\n<PAGE>\nYou may come to the guild at any time during\nbusiness hours and apply for the plan of your\nchoosing.\n<PAGE>\nSo once you've made your decision, please\ncome to the <RED>guild counter during business hours</RED>\nand submit your application."
+    },
+    {
+      "VardId": "MES_LOVE_6B_END_CHARA_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LOSS>\nHrm. That's quite a wide selection.\n<PAGE>\n<FACE_LOVE>Personally, the idea of, er...lots of people staring\nat us makes me, ah...nervous...so I'd rather have\na simple ceremony...\n<PAGE>\n<FACE_LAUGH>But I know you have lots of friends. I'm sure\nyou'd like the chance to invite them all.\n<PAGE>\nWhy don't you go ahead and pick whichever\nplan you like the best?\n<PAGE>\n<FACE_LOVE>After all, just knowing I can have this ceremony\nwith you feels like I've already used all the favors\nI've ever earned.\n<PAGE>\nI, ah...I'm already looking forward to it."
+    },
+    {
+      "VardId": "MES_LOVE_6B_NO_COMMENT_CHARA_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\nO-oh. I see. I'm sorry I bothered you out of the\nblue."
+    },
+    {
+      "VardId": "MES_LOVE_6B_GO_HOME_CHARA_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_SAD>\nWell then, I'll be going. See you."
+    }
+  ]
+}

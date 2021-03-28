@@ -1,0 +1,778 @@
+﻿{
+  "Date": "2016-06-06T19:37:50.9509007+07:00",
+  "Author": "BokujoMessage4 JSON generated files",
+  "Content": [
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_OKAERI_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_NORMAL>\r\nおかえり、<MYNAME>！\n待ってたぜ！\n<PAGE>\n<FACE_LAUGH>今日は<MYNAME>の誕生日祝いに\nごちそう作ったんだ。\nほら、早くこっちこっち！"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_ITADAKI_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_RIGHT><FACE_LAUGH>\r\nヘヘッ、すごいだろ？\n<MYNAME>のためにー！って\nかなり本気出して作ったんだぜ。\n<PAGE>\nほら、冷めないうちに食べようぜ。\nいただきます！"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_GOTI_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_LEFT><FACE_LAUGH>\r\n片付け終わり〜！\nオレ様にかかれば一瞬だったぜ！\n<PAGE>\nヘヘッ、<MYNAME>がそんなに\nうれしそうにしてくれてると、\nがんばったかいがあったって感じがする！"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_LEFT><FACE_NORMAL>\r\nあらためて…\nお誕生日おめでとう、<MYNAME>！\nこれ、誕生日プレゼント！"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_00_POORFARMER",
+      "Text": "<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>\r\nたんじょうびおめでとう！\nこれからもわたしたちの\n素敵な<PARENT>でいてね♪\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>たんじょうびおめでとう、<PARENT>！\n大好きだよ！"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_01_POORFARMER",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>\r\nたんじょうびおめでとう、<PARENT>！\nそのプレゼント、ボクたちもパパと\nいっしょに選んだんだよ♪\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>パパね、<PARENT>に\nよろこんでもらいたいって\nずっと前から準備してたのよ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_02_POORFARMER",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>、たんじょうびおめでとう！\nところで<PARENT>って\n今年でいくつになったの？\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_NORMAL><CHILD_NAME_M>、ダメだよ。\nこの間、クロンさんがブシツケに\n年を聞いちゃダメって言ってたもん。\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>え、そうなの？\nわかった。じゃあ聞かないや。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_COMMENT_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_LEFT><FACE_LOVE>\r\n<WINDOW_HEART2_L><MYNAME>、オレ\nおまえと結婚してから\nすげー幸せなんだ。\n<PAGE>\nだから、おまえが生まれた日は\nオレにとってもトクベツな日だと思ってる。\n愛してるぜ、<MYNAME>！"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_00_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_LEFT><FACE_NORMAL>\r\nあれ、カバンがいっぱいだな。\nせっかくのプレゼントだし、\nカバンを空けてもらってもいいか？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_01_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_LEFT><FACE_NORMAL>\r\nそれ、捨ててもいいのか？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_02_POORFARMER",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_03_POORFARMER",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_04_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_LEFT><FACE_LOSS>\r\nえっ、プレゼントいらないのか？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_05_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_LEFT><FACE_SAD>\r\nそうか……\nじゃ、じゃあ、またの機会に……。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_06_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_LEFT><FACE_LAUGH>\r\nそっか！\nなら、カバンを空けてくれよ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_07_POORFARMER",
+      "Text": "<FACE_FRITZ><POS_LEFT><FACE_LAUGH>\r\nそれじゃ、改めて…\nはい、プレゼント！"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_THANKS_MONOLOGUE",
+      "Text": "とってもステキな誕生日だった。\n明日からもがんばるぞ！"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_OKAERI_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\r\nおかえり、<MYNAME>。\n今日もお疲れ。\n<PAGE>\n<FACE_LAUGH>さぁ、手を洗ってこっちへこい。\n<MYNAME>の誕生日祝いに\nごちそうを用意してるぞ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_ITADAKI_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_RIGHT><FACE_NORMAL>\r\nどうだ、おどろいたか？\nなかなかすごいだろう？\n<PAGE>\n<FACE_LAUGH>ハハッ。\nよろこんでもらえたようで良かった。\nたくさん食べてくれよ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_GOTI_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_LEFT><FACE_NORMAL>\r\n後片付け、終わったぞ。\n<PAGE>\n<FACE_LAUGH>ハハッ、満足したって顔してるな。\nおまえがそんな風に笑ってくれると\nオレもうれしいよ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_LEFT><FACE_LAUGH>\r\n誕生日プレゼントだ。\n良かったら、使ってくれ。\n誕生日おめでとう、<MYNAME>。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_00_PERFUMER",
+      "Text": "<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>\r\nたんじょうびおめでとう！\nこれからもわたしたちの\n素敵な<PARENT>でいてね♪\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>たんじょうびおめでとう、<PARENT>！\n大好きだよ！"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_01_PERFUMER",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>\r\nたんじょうびおめでとう、<PARENT>！\nそのプレゼント、ボクたちもパパと\nいっしょに選んだんだよ♪\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>パパね、<PARENT>に\nよろこんでもらいたいって\nずっと前から準備してたのよ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_02_PERFUMER",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>、たんじょうびおめでとう！\nところで<PARENT>って\n今年でいくつになったの？\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_NORMAL><CHILD_NAME_M>、ダメだよ。\nこの間、クロンさんがブシツケに\n年を聞いちゃダメって言ってたもん。\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>え、そうなの？\nわかった。じゃあ聞かないや。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_COMMENT_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_LEFT><FACE_NORMAL>\r\n<MYNAME>がこうしていつも\nオレのそばで笑っていてくれるだけで\nオレは幸せだ。\n<PAGE>\n<WINDOW_PALPITATION_L><FACE_LOVE>愛してる。<MYNAME>。\nこれからもずっと一緒にいような。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_00_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_LEFT><FACE_NORMAL>\r\nん？　カバンがいっぱいだな。\nだが、せっかくのプレゼントだし…\nすまないが、カバンを空けてくれるか？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_01_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_LEFT><FACE_NORMAL>\r\nそれ、捨ててもいいのか？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_02_PERFUMER",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_03_PERFUMER",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_04_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_LEFT><FACE_LOSS>\r\nえっ、プレゼントはいらないのか？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_05_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_LEFT><FACE_SAD>\r\n…そうか、じゃあまたの機会に……。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_06_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_LEFT><FACE_NORMAL>\r\nそうか。\nそれじゃ、カバンを空けてくれよ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_07_PERFUMER",
+      "Text": "<FACE_KLAUS><POS_LEFT><FACE_LAUGH>\r\nそれじゃ、改めて…はい、プレゼントだ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_OKAERI_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>、おかえり。\n今日もお疲れさま。\n<PAGE>\n<FACE_LAUGH><MYNAME>の誕生日祝いに\n今日ははりきってごちそうを作ったんだ。\nさ、こっち来て。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_ITADAKI_CHEF",
+      "Text": "<FACE_REGER><POS_RIGHT><FACE_LAUGH>\r\n<MYNAME>のための\nトクベツなフルコースだ。\nたくさん食べてくれ。\n<PAGE>\nほら、冷めないうちに。\nいただきます。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_GOTI_CHEF",
+      "Text": "<FACE_REGER><POS_LEFT><FACE_NORMAL>\r\n後片付け、終わったぜ。\n<PAGE>\n<FACE_LAUGH>…それにしても、相変わらず\n幸せそうに食べるよな。\nホント、作りがいがあるぜ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_CHEF",
+      "Text": "<FACE_REGER><POS_LEFT><FACE_LAUGH>\r\nこれ、誕生日プレゼント。\n良かったら、使って。\n誕生日おめでとう、<MYNAME>。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_00_CHEF",
+      "Text": "<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>\r\nたんじょうびおめでとう！\nこれからもわたしたちの\n素敵な<PARENT>でいてね♪\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>たんじょうびおめでとう、<PARENT>！\n大好きだよ！"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_01_CHEF",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>\r\nたんじょうびおめでとう、<PARENT>！\nそのプレゼント、ボクたちもパパと\nいっしょに選んだんだよ♪\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>パパね、<PARENT>に\nよろこんでもらいたいって\nずっと前から準備してたのよ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_02_CHEF",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>、たんじょうびおめでとう！\nところで<PARENT>って\n今年でいくつになったの？\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_NORMAL><CHILD_NAME_M>、ダメだよ。\nこの間、クロンさんがブシツケに\n年を聞いちゃダメって言ってたもん。\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>え、そうなの？\nわかった。じゃあ聞かないや。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_COMMENT_CHEF",
+      "Text": "<FACE_REGER><POS_LEFT><FACE_LOVE>\r\n<WINDOW_PALPITATION_L><MYNAME>、生まれてきてくれて…\nそしてオレと出会って\n家族になってくれて、サンキュ。\n<PAGE>\n愛してるぜ。\nこれからも変わらず、ずっとな。\nだから、一生オレのそばにいてくれよ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_00_CHEF",
+      "Text": "<FACE_REGER><POS_LEFT><FACE_NORMAL>\r\nあれ、カバンがいっぱいだな。\nせっかくのプレゼントだし、\nカバンを空けてもらってもいいか？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_01_CHEF",
+      "Text": "<FACE_REGER><POS_LEFT><FACE_NORMAL>\r\nそれ、捨ててもいいのか？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_02_CHEF",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_03_CHEF",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_04_CHEF",
+      "Text": "<FACE_REGER><POS_LEFT><FACE_LOSS>\r\nえっ、プレゼントはいらないのか？\nせっかく用意したんだけど……。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_05_CHEF",
+      "Text": "<FACE_REGER><POS_LEFT><FACE_SAD>\r\nそうか。\nじゃあ、またの機会にしよう。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_06_CHEF",
+      "Text": "<FACE_REGER><POS_LEFT><FACE_LAUGH>\r\nそうか！\nなら、カバンを空けてくれよ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_07_CHEF",
+      "Text": "<FACE_REGER><POS_LEFT><FACE_LAUGH>\r\nそれじゃ、改めて…\nはい、プレゼントだ！"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_OKAERI_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_LAUGH>\r\n<MYNAME>、お帰りなさい。\n今日もお疲れさまでした。\n<PAGE>\n今日はあなたの誕生日ですから\nたくさんごちそうを用意しましたよ。\nさぁ、こっちに来てください。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_ITADAKI_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_RIGHT><FACE_LAUGH>\r\nあなたのために\n腕によりをかけて作ったんですよ。\nお口に合うといいのですが…。\n<PAGE>\nさぁ、冷めないうちにどうぞ。\nいただきます。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_GOTI_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_LEFT><FACE_LAUGH>\r\n後片付け、終わりましたよ。\n今夜のあなたは家のことは気にせず\nゆっくりするのが仕事です。\n<PAGE>\n…フフッ、まだ幸せに\nひたっているんですか？\n<PAGE>\nそんなによろこんでもらえて\nボクもうれしいです。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_LEFT><FACE_LAUGH>\r\nあらためて、\n誕生日おめでとうございます。\n<MYNAME>。\n<PAGE>\n日頃の感謝もこめて…プレゼントです。\n受け取ってください。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_00_ANTIQUE",
+      "Text": "<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>\r\nたんじょうびおめでとう！\nこれからもわたしたちの\n素敵な<PARENT>でいてね♪\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>たんじょうびおめでとう、<PARENT>！\n大好きだよ！"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_01_ANTIQUE",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>\r\nたんじょうびおめでとう、<PARENT>！\nそのプレゼント、ボクたちもパパと\nいっしょに選んだんだよ♪\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>パパね、<PARENT>に\nよろこんでもらいたいって\nずっと前から準備してたのよ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_02_ANTIQUE",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>、たんじょうびおめでとう！\nところで<PARENT>って\n今年でいくつになったの？\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_NORMAL><CHILD_NAME_M>、ダメだよ。\nこの間、クロンさんがブシツケに\n年を聞いちゃダメって言ってたもん。\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>え、そうなの？\nわかった。じゃあ聞かないや。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_COMMENT_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_LEFT><FACE_LAUGH>\r\nあなたがそばにいてくれて\nボクは本当におだやかな日々を\n過ごせています。\n<PAGE>\n<WINDOW_PALPITATION_L><FACE_LOVE>愛していますよ、<MYNAME>。\nこれからもずっと\nボクのそばにいてくださいね。\n<PAGE>\n…もちろん、いやだと言っても\nはなす気はありませんよ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_00_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_LEFT><FACE_NORMAL>\r\nおや、カバンがいっぱいのようですね。\nせっかくのプレゼントですし、\nカバンを空けてもらってもいいですか？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_01_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_LEFT><FACE_NORMAL>\r\nそれ、捨ててもいいんですか？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_02_ANTIQUE",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_03_ANTIQUE",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_04_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_LEFT><FACE_LOSS>\r\nえっ、プレゼントはいらないと？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_05_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_LEFT><FACE_SAD>\r\nそうですか。\n……それでは、またの機会に。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_06_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_LEFT><FACE_LAUGH>\r\nそうですか。\nでは、カバンを空けていただけますか？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_07_ANTIQUE",
+      "Text": "<FACE_MISTEL><POS_LEFT><FACE_LAUGH>\r\nそれじゃ、改めて…\nはい、プレゼントです。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_OKAERI_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_LAUGH>\r\nオカエリ、<MYNAME>。\n待ってたゼ。\n<PAGE>\n今日はオマエの誕生日だからナ。\nゴチソウを用意したんダ。\nこっちに来てクレ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_ITADAKI_GARDENER",
+      "Text": "<FACE_NADI><POS_RIGHT><FACE_NORMAL>\r\nソレナリにうまくできたと思うんダガ\n…とにかく気持ちはこめたつもりダ。\nオマエの口に合えばイイが。\n<PAGE>\n<FACE_LAUGH>後で感想を聞かせてクレ。\nソレジャ、冷める前に食べようゼ。\nイタダキマス。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_GOTI_GARDENER",
+      "Text": "<FACE_NADI><POS_LEFT><FACE_LAUGH>\r\n片付け、終わったゼ。\n今夜はオマエに家事させるつもりは\nないカラナ。ゆっくりしとけ。\n<PAGE>\n…って、さっきカラずっと幸せそうな\n顔してるナ。そんなにも\nよろこんでもらえたならオレも満足ダ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_GARDENER",
+      "Text": "<FACE_NADI><POS_LEFT><FACE_NORMAL>\r\n誕生日プレゼントだ。\n気にいるかわからないが\n良かったら使ってクレ。\n<PAGE>\n<FACE_LAUGH>…いつも、アリガトな。\n誕生日おめでとう、<MYNAME>。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_00_GARDENER",
+      "Text": "<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>\r\nたんじょうびおめでとう！\nこれからもわたしたちの\n素敵な<PARENT>でいてね♪\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>たんじょうびおめでとう、<PARENT>！\n大好きだよ！"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_01_GARDENER",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>\r\nたんじょうびおめでとう、<PARENT>！\nそのプレゼント、ボクたちもパパと\nいっしょに選んだんだよ♪\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>パパね、<PARENT>に\nよろこんでもらいたいって\nずっと前から準備してたのよ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_02_GARDENER",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>、たんじょうびおめでとう！\nところで<PARENT>って\n今年でいくつになったの？\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_NORMAL><CHILD_NAME_M>、ダメだよ。\nこの間、クロンさんがブシツケに\n年を聞いちゃダメって言ってたもん。\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>え、そうなの？\nわかった。じゃあ聞かないや。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_COMMENT_GARDENER",
+      "Text": "<FACE_NADI><POS_LEFT><FACE_NORMAL>\r\nオレはいまだに言葉が\n足りない時があるカラ\n不安にさせるコトもあると思う。\n<PAGE>\n<WINDOW_PALPITATION_L><FACE_LOVE>ケド、今日はちゃんと伝えときたい。\n……アイシテル、<MYNAME>。\nダレよりも、な。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_00_GARDENER",
+      "Text": "<FACE_NADI><POS_LEFT><FACE_NORMAL>\r\nン？　カバンがいっぱいだナ。\nせっかくのプレゼントだし、\nカバンを空けてもらってもイイカ？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_01_GARDENER",
+      "Text": "<FACE_NADI><POS_LEFT><FACE_NORMAL>\r\nそれ、捨ててもいいノカ？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_02_GARDENER",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_03_GARDENER",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_04_GARDENER",
+      "Text": "<FACE_NADI><POS_LEFT><FACE_LOSS>\r\n…それじゃ、\nプレゼントはいらナイのか？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_05_GARDENER",
+      "Text": "<FACE_NADI><POS_LEFT><FACE_ANGRY>\r\n……そうか。\nナラ、いい。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_06_GARDENER",
+      "Text": "<FACE_NADI><POS_LEFT><FACE_LAUGH>\r\nそうか。\nなら、カバンを空けてクレ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_07_GARDENER",
+      "Text": "<FACE_NADI><POS_LEFT><FACE_LAUGH>\r\nそれジャ、改めて…\nプレゼントだ、受けとれ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_OKAERI_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>、おかえり。\n今日もお疲れ様。\n<PAGE>\n<FACE_LAUGH>今日は、<MYNAME>の誕生日だから\nごちそうを用意してるよ。\nさ、こっちへどうぞ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_ITADAKI_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_RIGHT><FACE_NORMAL>\r\nどうだろう、<MYNAME>。\nキミの好みに合わせて\n用意したつもりなんだけど…。\n<PAGE>\n<FACE_LAUGH>感想はあとで聞かせてくれ。\nそれじゃ、いただきます。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_GOTI_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_LEFT><FACE_NORMAL>\r\n後片付け、終わったよ。\n<PAGE>\n<FACE_LAUGH><MYNAME>、さっきからずっと\nうれしそうな顔をしてるな。\n作ったかいがあったよ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_LEFT><FACE_LAUGH>\r\n誕生日おめでとう、<MYNAME>。\nこれはボクからのプレゼント。\n良かったら使ってくれ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_00_KAMIRU",
+      "Text": "<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>\r\nたんじょうびおめでとう！\nこれからもわたしたちの\n素敵な<PARENT>でいてね♪\n<PAGE>\n<FACE_CHILD_B><POS_LEFT><FACE_LAUGH>たんじょうびおめでとう、<PARENT>！\n大好きだよ！"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_01_KAMIRU",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>\r\nたんじょうびおめでとう、<PARENT>！\nそのプレゼント、ボクたちもパパと\nいっしょに選んだんだよ♪\n<PAGE>\n<FACE_CHILD_G><POS_RIGHT><FACE_LAUGH>パパね、<PARENT>に\nよろこんでもらいたいって\nずっと前から準備してたのよ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_02_KAMIRU",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>、たんじょうびおめでとう！\nところで<PARENT>って\n今年でいくつになったの？\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_NORMAL><CHILD_NAME_M>、ダメだよ。\nこの間、クロンさんがブシツケに\n年を聞いちゃダメって言ってたもん。\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>え、そうなの？\nわかった。じゃあ聞かないや。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_COMMENT_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_LEFT><FACE_LOVE>\r\n<WINDOW_PALPITATION_L>キミにはいつも支えてもらって\n本当に感謝してる。ありがとう。\n<PAGE>\n<FACE_LAUGH>ボクも、キミがボクを支える以上に\nキミのことを支えたいと思ってる。\nだから、いつでもよりかかってくれ。\n<PAGE>\n<FACE_LOVE>……愛してるよ、<MYNAME>。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_00_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_LEFT><FACE_NORMAL>\r\nあれ、カバンがいっぱいだな。\nせっかくのプレゼントだし、\nカバンを空けてもらってもいいか？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_01_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_LEFT><FACE_NORMAL>\r\nそれ、捨ててもいいのか？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_02_KAMIRU",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_03_KAMIRU",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_04_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_LEFT><FACE_LOSS>\r\nえっ、プレゼントいらないのか？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_05_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_LEFT><FACE_SAD>\r\nそうか……\n……じゃあ、またの機会にしようか。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_06_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_LEFT><FACE_LAUGH>\r\nそうか。\nそれじゃ、カバンを空けてくれるか？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_07_KAMIRU",
+      "Text": "<FACE_KAMIL><POS_LEFT><FACE_LAUGH>\r\nそれじゃ、改めて…\nはい、プレゼントだ！"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_OKAERI_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>、おかえり。\n待ってたわよ。\n<PAGE>\n今日は、<MYNAME>の誕生日だから\nごちそうを用意したの。\nさ、こっちに来て。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_ITADAKI_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_RIGHT><FACE_LAUGH>\r\nフフッ、おどろいた？\nわたくしにかかればこの程度の\n料理なんて、カンタンよ！\n<PAGE>\n<FACE_LOSS>…え？\n指がばんそうこうだらけ？\n<PAGE>\n<FACE_LOVE>こ、これは不幸な事故で…\nい、いいからさっさと食べるわよ！"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_GOTI_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_LEFT><FACE_NORMAL>\r\n後片付け、終わったわよ。\n今夜はあなたが主役だもの。\nわたくしにまかせてちょうだい。\n<PAGE>\n<FACE_LAUGH>…それよりも、まだそんな\nうれしそうな顔をしてるのね。\nフフッ、がんばって作ってよかったわ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_LEFT><FACE_NORMAL>\r\nはい、誕生日プレゼント。\n何がいいか、けっこう悩んだのよ。\n<PAGE>\n<FACE_LAUGH>あらためて…\nお誕生日おめでとう、<MYNAME>。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_00_RICHGIRL",
+      "Text": "<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>\r\nたんじょうびおめでとう！\nこれからもわたしたちの\n素敵な<PARENT>でいてね♪\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>たんじょうびおめでとう、<PARENT>！\n大好きだよ！"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_01_RICHGIRL",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>\r\nたんじょうびおめでとう、<PARENT>！\nそのプレゼント、ボクたちもママと\nいっしょに選んだんだよ♪\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>ママね、<PARENT>に\nよろこんでもらいたいって\nずっと前から準備してたのよ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_02_RICHGIRL",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>、たんじょうびおめでとう！\nところで<PARENT>って\n今年でいくつになったの？\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_NORMAL><CHILD_NAME_M>、ダメだよ。\nこの間、クロンさんがブシツケに\n年を聞いちゃダメって言ってたもん。\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>え、そうなの？\nわかった。じゃあ聞かないや。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_COMMENT_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_LEFT><FACE_NORMAL>\r\nいつもはうまく言えないけれど\n今日はトクベツな日だから\n一度だけ、言うわね。\n<PAGE>\n<WINDOW_HEART2_L><FACE_LOVE>…<MYNAME>、いつもわたくしの\nワガママにつきあってくれて\nありがとう。愛してるわ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_00_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_LEFT><FACE_NORMAL>\r\nあら？　カバンがいっぱいのようね。\nせっかくのプレゼントなんだし、\nカバンを空けてちょうだい。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_01_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_LEFT><FACE_NORMAL>\r\nそれ、捨ててもいいのね？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_02_RICHGIRL",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_03_RICHGIRL",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_04_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_LEFT><FACE_LOSS>\r\nえっ…\nプレゼントはいらないというの？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_05_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_LEFT><FACE_SAD>\r\n……そう。\nせっかく用意したのに、ひどい人ね。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_06_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_LEFT><FACE_LAUGH>\r\nそう、良かった。\nそれじゃ、カバンを空けてちょうだい。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_07_RICHGIRL",
+      "Text": "<FACE_ELISE><POS_LEFT><FACE_LAUGH>\r\nそれじゃ、改めて…\nはい、プレゼントよ！"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_OKAERI_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_NORMAL>\r\nおかえりなさい、<MYNAME>。\n今日もお仕事お疲れさま。\n<PAGE>\n<MYNAME>の誕生日祝いに\nごちそうを用意したのよ。\nさぁ、こっちに来て。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_ITADAKI_WRITER",
+      "Text": "<FACE_IRIS><POS_RIGHT><FACE_LAUGH>\r\nフフッ、よろこんでもらえてうれしいわ。\n愛するダンナ様の誕生日だもの。\nこれくらいは、しなくちゃね。\n<PAGE>\nさ、冷めないうちに食べましょ。\nいただきます。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_GOTI_WRITER",
+      "Text": "<FACE_IRIS><POS_LEFT><FACE_NORMAL>\r\n後片付け、終わったわよ。\n<PAGE>\n<FACE_LAUGH>フフ、なあに？\nそんなにうれしかったの？\n良かったわね、<MYNAME>。\n<PAGE>\nそんなによろこんでもらえて\nわたしもうれしいわ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_WRITER",
+      "Text": "<FACE_IRIS><POS_LEFT><FACE_LAUGH>\r\n誕生日プレゼントよ。\n使ってもらえたらうれしいわ。\n誕生日おめでとう、<MYNAME>。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_00_WRITER",
+      "Text": "<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>\r\nたんじょうびおめでとう！\nこれからもわたしたちの\n素敵な<PARENT>でいてね♪\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>たんじょうびおめでとう、<PARENT>！\n大好きだよ！"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_01_WRITER",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>\r\nたんじょうびおめでとう、<PARENT>！\nそのプレゼント、ボクたちもママと\nいっしょに選んだんだよ♪\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>ママね、<PARENT>に\nよろこんでもらいたいって\nずっと前から準備してたのよ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_02_WRITER",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>、たんじょうびおめでとう！\nところで<PARENT>って\n今年でいくつになったの？\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_NORMAL><CHILD_NAME_M>、ダメだよ。\nこの間、クロンさんがブシツケに\n年を聞いちゃダメって言ってたもん。\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>え、そうなの？\nわかった。じゃあ聞かないや。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_COMMENT_WRITER",
+      "Text": "<FACE_IRIS><POS_LEFT><FACE_LAUGH>\r\nあなたが生まれてきた日は\nわたしにとっても\nとても大切な日よ。\n<PAGE>\n<WINDOW_PALPITATION_L><FACE_LOVE>生まれてきてくれて…そして\nわたしと出会ってくれてありがとう。\n愛しているわ、<MYNAME>。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_00_WRITER",
+      "Text": "<FACE_IRIS><POS_LEFT><FACE_NORMAL>\r\nあら、カバンがいっぱいのようね。\nせっかくのプレゼントだし、\n悪いのだけれど、カバンを空けてくれる？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_01_WRITER",
+      "Text": "<FACE_IRIS><POS_LEFT><FACE_NORMAL>\r\nそれ、捨ててもいいのね？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_02_WRITER",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_03_WRITER",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_04_WRITER",
+      "Text": "<FACE_IRIS><POS_LEFT><FACE_NORMAL>\r\nえっ、プレゼントはいらないの？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_05_WRITER",
+      "Text": "<FACE_IRIS><POS_LEFT><FACE_NORMAL>\r\n……そう。\nそれじゃ、仕方ないわね。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_06_WRITER",
+      "Text": "<FACE_IRIS><POS_LEFT><FACE_NORMAL>\r\nそう、良かったわ。\nじゃあ、カバンを空けてくれる？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_07_WRITER",
+      "Text": "<FACE_IRIS><POS_LEFT><FACE_NORMAL>\r\nそれじゃ、改めて…\nはい、プレゼントよ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_OKAERI_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_NORMAL>\r\n<MYNAME>、おかえりなさい。\n今日もお仕事お疲れさま。\n<PAGE>\n今日は、<MYNAME>の誕生日だから\nはりきってごちそうを作っちゃった。\n手を洗ったらこっちに来てね。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_ITADAKI_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_RIGHT><FACE_NORMAL>\r\nフフッ。\nよろこんでもらえたみたいで\n良かった。\n<PAGE>\n<FACE_LAUGH>それじゃ、冷めないうちに食べよっ！\nいただきます。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_GOTI_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_LEFT><FACE_NORMAL>\r\n片付け、終わったよ。\n…って、<MYNAME>ったら\n顔ゆるみっぱなしだよ？\n<PAGE>\n<FACE_LAUGH>でも、そんなによろこんでもらえて\nうれしいな。\n来年もがんばるね！"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_LEFT><FACE_LAUGH>\r\nお誕生日、おめでとう！\nこれ、誕生日プレゼント。\n気にいってもらえたらいいんだけど…。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_00_WEATHERGIRL",
+      "Text": "<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>\r\nたんじょうびおめでとう！\nこれからもわたしたちの\n素敵な<PARENT>でいてね♪\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>たんじょうびおめでとう、<PARENT>！\n大好きだよ！"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_01_WEATHERGIRL",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>\r\nたんじょうびおめでとう、<PARENT>！\nそのプレゼント、ボクたちもママと\nいっしょに選んだんだよ♪\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>ママね、<PARENT>に\nよろこんでもらいたいって\nずっと前から準備してたのよ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_02_WEATHERGIRL",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>、たんじょうびおめでとう！\nところで<PARENT>って\n今年でいくつになったの？\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_NORMAL><CHILD_NAME_M>、ダメだよ。\nこの間、クロンさんがブシツケに\n年を聞いちゃダメって言ってたもん。\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>え、そうなの？\nわかった。じゃあ聞かないや。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_COMMENT_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_LEFT><FACE_NORMAL>\r\n<MYNAME>との毎日は\n楽しくて、幸せで…まだほんの少し\n気はずかしい時もあるけど…。\n<PAGE>\n<WINDOW_HEART2_L><FACE_LAUGH>でも、あたし今とっても幸せだよ。\nだからこれからもずっとそばにいてね。\n……愛してる、<MYNAME>。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_00_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_LEFT><FACE_NORMAL>\r\nあれ、カバンがいっぱいだね？\nせっかくのプレゼントだし、\nカバンを空けてもらってもいい？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_01_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_LEFT><FACE_NORMAL>\r\nそれ、捨ててもいいの？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_02_WEATHERGIRL",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_03_WEATHERGIRL",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_04_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_LEFT><FACE_LOSS>\r\nえっ、それじゃ、\nプレゼントいらないの？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_05_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_LEFT><FACE_SAD>\r\nそっか……じゃ、じゃあ、\nまた今度にしよっか……。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_06_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_LEFT><FACE_LAUGH>\r\nそっか！\nそれなら、カバンを空けてくれる？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_07_WEATHERGIRL",
+      "Text": "<FACE_LILIE><POS_LEFT><FACE_LAUGH>\r\nそれじゃ、改めて…\nはい、プレゼント！"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_OKAERI_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_NORMAL>\r\nおかえりなさい、<MYNAME>。\n今日もお疲れさまなのです。\n<PAGE>\n<FACE_LAUGH><MYNAME>の誕生日を盛大に\nお祝いしたくてごちそうを用意して\n待ってたのですよ。\n<PAGE>\nさ、こちらへどうぞ♪"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_ITADAKI_RANGER",
+      "Text": "<FACE_MENOU><POS_RIGHT><FACE_LAUGH>\r\n<MYNAME>のために\n一生懸命作ったのですよ。\nたくさん食べてほしいのです♪\n<PAGE>\nさぁ、冷めないうちにどうぞ。\nいただきます。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_GOTI_RANGER",
+      "Text": "<FACE_MENOU><POS_LEFT><FACE_NORMAL>\r\n後片付け、終わりました！\n今夜の<MYNAME>は\nゆっくりするのがお仕事なのです♪\n<PAGE>\n<FACE_LAUGH>それにしても、あんなにも\nよろこんでもらえてわたしとっても\n幸せなのです。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_RANGER",
+      "Text": "<FACE_MENOU><POS_LEFT><FACE_NORMAL>\r\nお誕生日プレゼントなのです！\n<MYNAME>のためにたくさん\n考えて、これに決めたのですよ。\n<PAGE>\n<FACE_LAUGH>よろこんでもらえたらうれしいのです。\nあらためて…お誕生日\nおめでとうございます、<MYNAME>！"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_00_RANGER",
+      "Text": "<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>\r\nたんじょうびおめでとう！\nこれからもわたしたちの\n素敵な<PARENT>でいてね♪\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>たんじょうびおめでとう、<PARENT>！\n大好きだよ！"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_01_RANGER",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>\r\nたんじょうびおめでとう、<PARENT>！\nそのプレゼント、ボクたちもママと\nいっしょに選んだんだよ♪\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>ママね、<PARENT>に\nよろこんでもらいたいって\nずっと前から準備してたのよ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_02_RANGER",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>、たんじょうびおめでとう！\nところで<PARENT>って\n今年でいくつになったの？\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_NORMAL><CHILD_NAME_M>、ダメだよ。\nこの間、クロンさんがブシツケに\n年を聞いちゃダメって言ってたもん。\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>え、そうなの？\nわかった。じゃあ聞かないや。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_COMMENT_RANGER",
+      "Text": "<FACE_MENOU><POS_LEFT><FACE_LOVE>\r\n<WINDOW_HEART2_L>大好きな<MYNAME>が\n生まれてきたこの日は\nわたしにとって、大切な日なのです。\n<PAGE>\nどうか、これからもずっと\nわたしのそばにいてくださいね。\n愛してますよ、わたしのダンナ様。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_00_RANGER",
+      "Text": "<FACE_MENOU><POS_LEFT><FACE_NORMAL>\r\nあれ、カバンがいっぱいなのです。\nせっかくのプレゼントですし、\nカバンを空けてもらってもいいですか？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_01_RANGER",
+      "Text": "<FACE_MENOU><POS_LEFT><FACE_NORMAL>\r\nそれ、捨ててもいいのですか？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_02_RANGER",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_03_RANGER",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_04_RANGER",
+      "Text": "<FACE_MENOU><POS_LEFT><FACE_LOSS>\r\nえっ、それじゃ、\nプレゼントはいらないのですか？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_05_RANGER",
+      "Text": "<FACE_MENOU><POS_LEFT><FACE_SAD>\r\nそ、そうですか……\nじゃ、じゃあ、またの機会に……。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_06_RANGER",
+      "Text": "<FACE_MENOU><POS_LEFT><FACE_LAUGH>\r\nそうですか！\nなら、カバンを空けてほしいのです。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_07_RANGER",
+      "Text": "<FACE_MENOU><POS_LEFT><FACE_LAUGH>\r\nそれじゃ、改めて…\nはい、プレゼントなのです！"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_OKAERI_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LAUGH>\r\nおかえりなさい、<MYNAME>。\n今日も１日、お疲れさまでした。\n<PAGE>\n<MYNAME>の誕生日パーティーの\n準備はもう整っていますよ。\nさあ、こちらへどうぞ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_ITADAKI_NURSE",
+      "Text": "<FACE_ANGELA><POS_RIGHT><FACE_LAUGH>\r\n…少し、はりきりすぎてしまったかもと\n思っていたのですが\nよろこんでもらえたようで何よりです。\n<PAGE>\nさぁ、冷めないうちに食べましょう。\nいただきます。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_GOTI_NURSE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_NORMAL>\r\n後片付け、終わりましたよ。\n<PAGE>\n<FACE_LAUGH>…フフッ、本当に幸せそうですね。\nそんなにもよろこんでもらえるなんて\nうれしく思いますよ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_NURSE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\r\nどうぞ。誕生日プレゼントです。\n良かったら使ってくださいね。\n<PAGE>\nあらためて…\nお誕生日おめでとうございます。\n<MYNAME>。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_00_NURSE",
+      "Text": "<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>\r\nたんじょうびおめでとう！\nこれからもわたしたちの\n素敵な<PARENT>でいてね♪\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>\nたんじょうびおめでとう、<PARENT>！\n大好きだよ！"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_01_NURSE",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>\r\nたんじょうびおめでとう、<PARENT>！\nそのプレゼント、ボクたちもママと\nいっしょに選んだんだよ♪\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>ママね、<PARENT>に\nよろこんでもらいたいって\nずっと前から準備してたのよ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_02_NURSE",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>、たんじょうびおめでとう！\nところで<PARENT>って\n今年でいくつになったの？\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_NORMAL><CHILD_NAME_M>、ダメだよ。\nこの間、クロンさんがブシツケに\n年を聞いちゃダメって言ってたもん。\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>え、そうなの？\nわかった。じゃあ聞かないや。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_COMMENT_NURSE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LOVE>\r\n<WINDOW_HEART2_L>毎年、あなたの誕生日が来るたび\n去年よりもあなたを\n好きになっている自分に気付きます。\n<PAGE>\n今のこの気持ちは、好きと言う\n言葉ではもう表せません。\n<PAGE>\n<FACE_LAUGH>…愛しています。\nこれからもどうかわたしの\nそばにいてくださいね、<MYNAME>。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_00_NURSE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_NORMAL>\r\nあら？　カバンがいっぱいですね。\nこのままではプレゼントを渡せませんので\nカバンを空けてもらってもいいですか？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_01_NURSE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_NORMAL>\r\nそれ、捨ててもいいんですか？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_02_NURSE",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_03_NURSE",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_04_NURSE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LOSS>\r\n……それじゃ、プレゼントは\nどうするんです？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_05_NURSE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_SAD>\r\n……そうですか。\nそれなら、仕方ありませんね……。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_06_NURSE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\r\nそうですか。\nでは、カバンを空けていただけますか？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_07_NURSE",
+      "Text": "<FACE_ANGELA><POS_LEFT><FACE_LAUGH>\r\nそれでは、改めて…\nはい、プレゼントです。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_OKAERI_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_NORMAL>\r\nおかえり、<MYNAME>。\nお仕事、お疲れさま。\n<PAGE>\n<FACE_LAUGH>今日は、<MYNAME>の誕生日だから\nがんばってごちそうを用意してみたんだ。\nさ、こっちに来てくれ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_ITADAKI_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_RIGHT><FACE_LAUGH>\r\n<MYNAME>のために作ったんだ。\nたくさん食べてもらえたらうれしい。\n<PAGE>\nそれじゃ、冷めないうちに食べよう。\nいただきます。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_GOTI_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_LEFT><FACE_NORMAL>\r\n後片付け、終わったぞ。\n…まだそんな顔をしてるのか？\n<PAGE>\n<FACE_LOVE>そんなにもよろこんでもらえて\nわたしもうれしいが…少し自重して\nもらわないとさすがに…てれるぞ…。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_LEFT><FACE_LAUGH>\r\n誕生日プレゼントだ。\n気に入るかわからないが…\n良かったら使ってくれ。\n<PAGE>\n誕生日おめでとう、<MYNAME>。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_00_RIKORISU",
+      "Text": "<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>\r\nたんじょうびおめでとう！\nこれからもわたしたちの\n素敵な<PARENT>でいてね♪\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>たんじょうびおめでとう、<PARENT>！\n大好きだよ！"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_01_RIKORISU",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_LAUGH>\r\nたんじょうびおめでとう、<PARENT>！\nそのプレゼント、ボクたちもママと\nいっしょに選んだんだよ♪\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_LAUGH>ママね、<PARENT>に\nよろこんでもらいたいって\nずっと前から準備してたのよ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_CHILD_02_RIKORISU",
+      "Text": "<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>、たんじょうびおめでとう！\nところで<PARENT>って\n今年でいくつになったの？\n<PAGE>\n<FACE_CHILD_G><POS_LEFT><FACE_NORMAL><CHILD_NAME_M>、ダメだよ。\nこの間、クロンさんがブシツケに\n年を聞いちゃダメって言ってたもん。\n<PAGE>\n<FACE_CHILD_B><POS_RIGHT><FACE_NORMAL>え、そうなの？\nわかった。じゃあ聞かないや。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_COMMENT_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_LEFT><FACE_LOVE>\r\n<WINDOW_HEART2_L><MYNAME>はわたしにとって\nかけがえのない存在だ。\nこれからもそばにいてほしい。\n<PAGE>\n……愛している。\nこれからもずっと一緒におまえの\n誕生日を祝わせてほしい。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_00_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_LEFT><FACE_NORMAL>\r\nあれ、カバンがいっぱいだな。\nせっかくのプレゼントだし、\nカバンを空けてもらってもいいか？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_01_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_LEFT><FACE_NORMAL>\r\nそれ、捨ててもいいのか？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_02_RIKORISU",
+      "Text": "はい"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_03_RIKORISU",
+      "Text": "<CANCEL_SELECT>\r\nいいえ"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_04_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_LEFT><FACE_LOSS>\r\nえっ、プレゼントはどうするんだ？\nいらないのか？"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_05_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_LEFT><FACE_SAD>\r\nそうか……\n……なら、またの機会に。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_06_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_LEFT><FACE_LAUGH>\r\nそうか。\nそれなら、カバンを空けてくれ。"
+    },
+    {
+      "VardId": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_BAG_07_RIKORISU",
+      "Text": "<FACE_LICORICE><POS_LEFT><FACE_LAUGH>\r\nそれじゃ、改めて…\nはい、プレゼントだ！"
+    }
+  ]
+}
